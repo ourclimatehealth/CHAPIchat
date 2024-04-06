@@ -1,5 +1,9 @@
 # CHAPI Climate Change + Health Chatbot
 
+![IMG_6153](https://github.com/ourclimatehealth/CHAPIchat/assets/1212163/86921fe7-d1a0-4281-9c20-be011ea2f651)
+
+Demo Video: https://www.youtube.com/watch?v=Wrs7rZBT8v8
+
 ## Description
 
 This is a chatbot that provides information on climate change and health. It is designed to be a simple and easy-to-use tool for people who want to learn more about the impact of climate change on health and what they can do to protect themselves and their families.
@@ -24,7 +28,7 @@ Developed for the MongoDB Generative AI Hackathon 2024.
 
 ## Team
 
-Chethan Sarabu (@chethan-sarabu-md)
-Stefano Leitner (@stefanoleitner)
-Vishnu Ravi (@vishnuravi)
-Zui Dighe (@zuidigz)
+- Chethan Sarabu ([@chethan-sarabu-md](https://github.com/chethan-sarabu-md)
+- Stefano Leitner ([@stefanoleitner](https://github.com/stefanoleitner)
+- Vishnu Ravi ([@vishnuravi](https://github.com/vishnuravi))
+- Zui Dighe ([@zuidigz](https://github.com/zuidigz))
