@@ -1,0 +1,56 @@
+Skip to main content
+Air Now Logo
+AirNow
+AQI & Health
+Fires
+Maps & Data
+Education
+International
+Resources
+Recursos en español
+
+Show Alerts Popup
+1
+
+Show Announcements Popup
+2
+Get Current and Forecast Air Quality for Your Area
+ZIP Code, City, or State
+Air Quality Index (AQI) Basics
+Versión en Español
+
+What is the U.S. Air Quality Index (AQI)?
+The U.S. AQI is EPA’s index for reporting air quality.
+
+How does the AQI work?
+Think of the AQI as a yardstick that runs from 0 to 500. The higher the AQI value, the greater the level of air pollution and the greater the health concern. For example, an AQI value of 50 or below represents good air quality, while an AQI value over 300 represents hazardous air quality.
+
+For each pollutant an AQI value of 100 generally corresponds to an ambient air concentration that equals the level of the short-term national ambient air quality standard for protection of public health. AQI values at or below 100 are generally thought of as satisfactory. When AQI values are above 100, air quality is unhealthy: at first for certain sensitive groups of people, then for everyone as AQI values get higher.
+
+The AQI is divided into six categories. Each category corresponds to a different level of health concern. Each category also has a specific color. The color makes it easy for people to quickly determine whether air quality is reaching unhealthy levels in their communities.
+
+AQI Basics for Ozone and Particle Pollution
+Daily AQI Color	Levels of Concern	Values of Index	Description of Air Quality
+Green	Good	0 to 50	Air quality is satisfactory, and air pollution poses little or no risk.
+Yellow	Moderate	51 to 100	Air quality is acceptable. However, there may be a risk for some people, particularly those who are unusually sensitive to air pollution.
+Orange	Unhealthy for Sensitive Groups	101 to 150	Members of sensitive groups may experience health effects. The general public is less likely to be affected.
+Red	Unhealthy	151 to 200	Some members of the general public may experience health effects; members of sensitive groups may experience more serious health effects.
+Purple	Very Unhealthy	201 to 300	Health alert: The risk of health effects is increased for everyone.
+Maroon	Hazardous	301 and higher	Health warning of emergency conditions: everyone is more likely to be affected.
+See the Activity Guides to learn ways to protect your health when the AQI reaches unhealthy levels.
+
+Five major pollutants
+EPA establishes an AQI for five major air pollutants regulated by the Clean Air Act. Each of these pollutants has a national air quality standard set by EPA to protect public health:
+
+ground-level ozone
+particle pollution (also known as particulate matter, including PM2.5 and PM10)
+carbon monoxide
+sulfur dioxide
+nitrogen dioxide
+Using the Air Quality Index
+Technical Assistance Document for the Reporting of Daily Air Quality – the Air Quality Index (AQI) 
+
+AirNow.gov - Home of the U.S. Air Quality Index
+
+Home | Site Map | Contact Us | Accessibility
+Contact Us RSSXFacebook

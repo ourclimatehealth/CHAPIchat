@@ -1,0 +1,113 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Particle Pollution and Your Patients' Health
+CONTACT US
+Patient Exposure and High Particle Pollution Events
+On this page:
+
+Introduction
+What steps can I advise for my patients who live in areas where fires are likely to occur?
+How can my patients use respirators to protect themselves from smoke?
+
+Introduction
+Ozone and the other common pollutants rarely reach very high levels in the U.S. But almost every year, in many parts of the country, particle pollution levels reach the very unhealthy or hazardous ranges of the AQI. These events are usually associated with fires or dust storms. The fires are often wildfires, but on a smaller spatial and temporal scale high particle pollution levels may be found near other types of fires or combustion. Examples of these high particle events can include transport of urban particles and residential wood burning in valleys during winter-time inversions. The methods for reducing exposure to particle pollution, discussed below, are similar whether the sources of the particles are wildfires, other fires, transport of particles, or dust storms - though extra care may be needed with some fires depending on hazards of the chemicals that burn.
+
+Portions of the text in the following sections are adapted from the document “Wildfire Smoke—A Guide for Public Health Officials (2019),” which is designed to help local public health officials prepare for smoke events, to take measures to protect the public when smoke is present, and to communicate with the public about wildfire smoke and health. The 2016 Wildfire Guide has been updated with the assistance and expertise of a number of federal and state agencies, including the Centers for Disease Control and Prevention, National Institute of Occupational Safety and Health, Environmental Protection Agency, Lawrence Berkeley National Laboratory, Forest Service, Pediatric Environmental Health Specialty Units, and the California Air Resources Board and Department of Public Health. 
+
+See EPA/CDC's Wildfire Smoke and Your Patients' Health online course for a more detailed discussion of the health effects associated with wildfire smoke and actions to take before and during a wildfire to reduce exposure.
+
+
+What steps can I advise for my patients who live in areas where fires are likely to occur?
+Health care professionals should provide patients with recommendations in advance of the fire season, including information for the general public and for people at greatest risk from smoke exposure. Recommended exposure-reduction measures should be based on several factors, including the risk factors of the individual and the expected duration of the event. 
+
+General recommendations to reduce exposure in smoky areas:
+
+Pay attention to local air quality reports and any alerts or advisories related to smoke. The AQI is based on data from local air quality monitors and tells you about the air quality in your area and precautions you can take to protect your health (Airnow.gov).
+Avoid strenuous or prolonged work or exercise outdoors. If you are active outdoors, pay attention to symptoms - they are an indication that you need to reduce exposure.
+Drink plenty of fluids to keep respiratory membranes moist.
+If you are advised to stay indoors, take steps to keep indoor air as clean as possible. Keep windows and doors closed, unless it’s extremely hot outside. Run the air conditioner if you have one. Keep the fresh-air intake closed and the filter clean to prevent additional smoke from coming inside. If you don’t have an air conditioner, staying inside with the windows closed may be dangerous in extremely hot weather. If this is the case, seek alternative shelter such as with relatives, friends, or a cleaner air shelter.
+Avoid strenuous activity indoors.
+Consider buying air filtration devices before a smoke emergency occurs. High-efficiency particulate air (HEPA) filterair cleaners can help reduce indoor particle levels, provided the specific air cleaner is properly matched to the size of the room in which it is placed.  Do not purchase a device that produces ozone to clean the air.
+Have a several-day supply of nonperishable foods that do not require cooking.  Cooking - especially frying and broiling - can add to indoor pollution levels.
+If driving is necessary, run your car’s air conditioner in recirculate mode to avoid drawing smoky air into the car. 
+Avoid activities that increase indoor pollution.  Try to avoid using anything that burns, such as wood fireplaces, gas logs, gas stoves – and even candles. Don’t vacuum; that stirs up particles already inside your home. And don’t smoke; that puts even more pollution in your lungs and in the lungs of people around you.
+Advise your patients to contact you if they experience any new cardiovascular or respiratory symptoms or if existing health problems worsen.
+
+As discussed in a previous section of the course (What groups are at increased risk from particle pollution?) people with heart or lung disease, children, older adults, people with diabetes, and people of lower socio-economic status (SES) are at the greatest risk from smoke and should be prepared to take more protective measures.  In addition, women that are pregnant and their developing baby are considered at increased risk from the effects of smoke from fires.
+
+Additional recommendations for your patients at greater risk:
+
+Discuss whether and when they should leave the area.
+Confirm that patients with asthma or other respiratory diseases have a respiratory management plan (e.g., asthma action plan) that includes what to do during a high particle pollution event.
+Go over prescriptions and advise patients to have at least a five-day supply of medication on hand.
+Advise your patients to call you if symptoms worsen.
+Talk about whether they are able to create a “clean room” in the home, where particle levels are kept lower. A good choice is an interior room, with as few windows and doors as possible, such as a bedroom.  They should add a HEPA filter air cleaner to the “clean room” to help keep particle levels low. The air cleaner should be the right type and size for the room they choose, and advise them to have extra filters on hand.  They should not use an air cleaner that generates ozone. Additional information about the proper use of air filtration devices and for maintaining a clean room can be found in the Wildfire Guide.
+These precautions are described in more detail in the “Specific Strategies to Reduce Smoke Exposure” section of the Wildfire Guide.  
+
+
+How can my patients use respirators to protect themselves from smoke?
+For a respirator to provide protection, it must filter very small particles and it must fit well, providing a tight seal around the wearer’s mouth and nose. Adequate seals cannot be obtained for men with beards or for most children. A “fit test” while wearing a respirator is needed to ensure that it fits well enough to provide the expected protection. However, because disposable respirators (N95 or P100) are increasingly available in hardware and home repair stores and pharmacies, many people will use them, either during smoke events or during fire ash cleanup. Therefore, health professionals in fire-prone areas should provide guidance on the proper selection and use of respirators, which can provide some level of protection, as long as a close-fitting model and size is selected and they are used properly.
+
+Encourage your patients to only use respirators after first implementing other, more effective methods of exposure reduction, including staying indoors, reducing activity, and using HEPA air cleaners indoors to reduce overall smoke exposure.  
+
+disposable particulate respirators
+Figure 13. Two types of recommended N95 Disposable Particulate Respirators. Note the presence and placement of the two straps above and below the ears. Photos courtesy of the California Department of Public Health.
+Refer patients to the one-page fact sheet (Appendix B in the Wildfire Guide), California Department of Health's Protect Your Lungs from Wildfire Smoke (PDF) (1pg, 650 KB) that is designed for the general public. In lay terms (including using the term “mask” instead of “respirator”), it describes how to correctly choose and use a disposable N95 or P100 particulate respirator. Advise your patients that one-strap paper masks, surgical masks, or other face coverings are likely to provide far less or no protection.
+
+PREVIOUS    |    NEXT
+
+Particulate Pollution Course Home
+Learn About the Course
+What is Particle Pollution?
+Particle Pollution Exposure
+Cardiovascular Effects
+Respiratory Effects
+Patient Exposure & the Air Quality Index
+Patient Exposure & High Particle Pollution Events
+Clinical Scenarios
+Frequent Questions
+Course Outline & Key Points
+Review Questions
+Patient Education Tools
+Course Evaluation
+References
+Glossary
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON MAY 8, 2023
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.

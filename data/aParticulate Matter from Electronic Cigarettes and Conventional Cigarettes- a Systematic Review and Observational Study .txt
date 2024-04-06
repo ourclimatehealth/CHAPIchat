@@ -1,0 +1,137 @@
+Skip to main page content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+pubmed logo
+Search:
+Search
+Advanced
+User Guide
+SaveEmailSend to
+Display options
+Review Curr Environ Health Rep
+. 2015 Dec;2(4):423-9. doi: 10.1007/s40572-015-0072-x.
+Particulate Matter from Electronic Cigarettes and Conventional Cigarettes: a Systematic Review and Observational Study
+Esteve Fernández 1 2 3, Montse Ballbè 4 5 6, Xisca Sureda 7 8 9, Marcela Fu 10 11 12, Esteve Saltó 13 14 15, Jose M Martínez-Sánchez 16 17 18
+Affiliations expand
+PMID: 26452675 DOI: 10.1007/s40572-015-0072-x
+Full text linksCite
+Abstract
+Objectives: The aim of this study is to review the literature on the composition of aerosols from electronic cigarettes (e-cigarettes) originated by human vaping and to describe the emission of particulate matter ≤ 2.5 μm in diameter (PM(2.5)) from conventional and e-cigarettes at home in real-use conditions.
+
+Methods: We conducted a systematic literature search in PubMed and Web of Science. We measured PM(2.5) in four different homes: one from a conventional cigarette smoker, one from an e-cigarette user, and two from non-smokers.
+
+Results: The review identified eight previous investigations on the composition of aerosols from e-cigarettes originated by human vaping and indicated that emissions from e-cigarettes can contain potential toxic compounds such as nicotine, carbonyls, metals, and organic volatile compounds, besides particulate matter. In the observational study, the PM(2.5) median concentration was 9.88 μg/m³ in the e-cigarette user home and 9.53 and 9.36 μg/m³ in the smoke-free homes, with PM(2.5) peaks concurrent with the e-cigarette puffs.
+
+Conclusion: Both the literature review and the observational study indicate that e-cigarettes used under real-conditions emit toxicants, including PM(2.5). Further research is needed to characterize the chemicals emitted by different types of e-cigarettes and to assess secondhand exposure to e-cigarette aerosol using biological markers.
+
+Keywords: E-cigarette; Electronic cigarette; Electronic nicotine delivery system; Particulate matter; Tobacco smoke pollution.
+
+PubMed Disclaimer
+
+Similar articles
+Assessment of indoor air quality at an electronic cigarette (Vaping) convention.
+Chen R, Aherrera A, Isichei C, Olmedo P, Jarmul S, Cohen JE, Navas-Acien A, Rule AM.
+J Expo Sci Environ Epidemiol. 2018 Nov;28(6):522-529. doi: 10.1038/s41370-017-0005-x. Epub 2017 Dec 29.
+PMID: 29288255
+Secondhand exposure to vapors from electronic cigarettes.
+Czogala J, Goniewicz ML, Fidelus B, Zielinska-Danch W, Travers MJ, Sobczak A.
+Nicotine Tob Res. 2014 Jun;16(6):655-62. doi: 10.1093/ntr/ntt203. Epub 2013 Dec 11.
+PMID: 24336346 Free PMC article.
+Use of electronic cigarettes (e-cigarettes) impairs indoor air quality and increases FeNO levels of e-cigarette consumers.
+Schober W, Szendrei K, Matzen W, Osiander-Fuchs H, Heitmann D, Schettgen T, Jörres RA, Fromme H.
+Int J Hyg Environ Health. 2014 Jul;217(6):628-37. doi: 10.1016/j.ijheh.2013.11.003. Epub 2013 Dec 6.
+PMID: 24373737 Clinical Trial.
+Electronic cigarettes in the indoor environment.
+Marcham CL, Springston JP.
+Rev Environ Health. 2019 Jun 26;34(2):105-124. doi: 10.1515/reveh-2019-0012.
+PMID: 31112510 Review.
+Electronic cigarettes and indoor air quality: a review of studies using human volunteers.
+Zainol Abidin N, Zainal Abidin E, Zulkifli A, Karuppiah K, Syed Ismail SN, Amer Nordin AS.
+Rev Environ Health. 2017 Sep 26;32(3):235-244. doi: 10.1515/reveh-2016-0059.
+PMID: 28107173 Review.
+See all similar articles
+Cited by
+Forgotten but not gone: Particulate matter as contaminations of mucosal systems.
+Marczynski M, Lieleg O.
+Biophys Rev (Melville). 2021 Aug 10;2(3):031302. doi: 10.1063/5.0054075. eCollection 2021 Sep.
+PMID: 38505633 Free PMC article. Review.
+Effects of E-Cigarette Liquid Ratios on the Gravimetric Filter Correction Factors and Real-Time Measurements.
+Close A, Blackerby J, Tunnell H, Pender J, Soule E, Sousan S.
+Aerosol Air Qual Res. 2023 Oct;23(10):230011. doi: 10.4209/aaqr.230011. Epub 2023 Jul 28.
+PMID: 38500670 Free PMC article.
+Influence of puff topographies on e-liquid heating temperature, emission characteristics and modeled lung deposition of Puff Bar™.
+Ranpara A, Stefaniak AB, Fernandez E, Bowers LN, Arnold ED, LeBouf RF.
+Aerosol Sci Technol. 2023 Mar;57(5):450-466. doi: 10.1080/02786826.2023.2190786.
+PMID: 37969359 Free PMC article.
+Use of Vaping as a Smoking Cessation Aid: A Review of Clinical Trials.
+Ashour AM.
+J Multidiscip Healthc. 2023 Jul 27;16:2137-2144. doi: 10.2147/JMDH.S419945. eCollection 2023.
+PMID: 37529148 Free PMC article. Review.
+E-cigarettes and arrhythmogenesis: a comprehensive review of pre-clinical studies and their clinical implications.
+Jones CA, Wallace MJ, Bandaru P, Woodbury ED, Mohler PJ, Wold LE.
+Cardiovasc Res. 2023 Oct 16;119(12):2157-2164. doi: 10.1093/cvr/cvad113.
+PMID: 37517059 Review.
+See all "Cited by" articles
+References
+Environ Res. 2014 Nov;135:76-80 - PubMed
+Tumori. 2014 Jan-Feb;100(1):e24-7 - PubMed
+Rev Mal Respir. 2013 Nov;30(9):752-7 - PubMed
+Int J Hyg Environ Health. 2014 Jul;217(6):628-37 - PubMed
+Int J Environ Res Public Health. 2014 Oct 27;11(11):11177-91 - PubMed
+Show all 13 references
+Publication types
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+MeSH terms
+Aerosols / chemistry*
+Air Pollution, Indoor / analysis
+Electronic Nicotine Delivery Systems*
+Environmental Monitoring / methods
+Hazardous Substances
+Humans
+Nicotine / analysis
+Particulate Matter / analysis*
+Particulate Matter / chemistry
+Tobacco Products / analysis*
+Volatile Organic Compounds / analysis
+Substances
+Aerosols
+Hazardous Substances
+Particulate Matter
+Volatile Organic Compounds
+Nicotine
+Related information
+Cited in Books
+MedGen
+PubChem Compound (MeSH Keyword)
+LinkOut - more resources
+Full Text Sources
+Springer
+Other Literature Sources
+The Lens - Patent Citations
+Medical
+MedlinePlus Health Information
+NCBI Literature Resources MeSH PMC Bookshelf Disclaimer The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

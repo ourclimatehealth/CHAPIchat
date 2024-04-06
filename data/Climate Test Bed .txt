@@ -1,0 +1,83 @@
+National Weather ServiceUnited States Department of Commerce
+HOME
+FORECAST
+PAST WEATHER
+SAFETY
+INFORMATION
+EDUCATION
+NEWS
+SEARCH
+ABOUT
+Climate Services
+
+National Program
+
+Research & Development
+Weather.gov > Climate Services > Research & Development
+What are Climate Services
+Training
+Resources
+Meetings
+Seminars
+Climate Test Bed
+ 
+
+NOAA/National Centers for Environmental Prediction (NCEP) is the lead agency with responsibility for producing US operational climate monitoring, models and predictions on time scales ranging from weeks to years. The mission of NOAA Climate Test Bed (CTB) is to accelerate research-to-operation (R2O) to improve NCEP operational climate models, monitoring and predictions, and to provide operations-to-research (O2R) support to the climate research community with access to operational models, forecast tools and datasets.
+
+The CTB facility is located at NCEP Climate Prediction Center (CPC) in the NOAA Center for Weather and Climate Prediction in College Park, MD. The NOAA CTB is jointly supported by NCEP, Climate Program Office (CPO) and NWS Office of Science and Technology Integration (OSTI). CPO’s Modeling, Analysis, Predictions, and Projections (MAPP) program sponsors CTB transition projects through competitive grants, NCEP provides infrastructure support for CTB’s testing and demonstration projects in an operational environment and NWS/OSTI provides scientific coordination and programmatic support.
+
+The CTB’s current priorities include i) multi-model ensembles for climate predictions, ii) Climate Forecast System (CFS) improvements, iii) climate forecast tools and products; and iv) climate-quality reanalysis.
+
+ 
+Climate Forecast System (CFS)
+ 
+
+The second version of the NCEP Climate Forecast System (CFSv2) was made operational at NCEP in March 2011. This version has upgrades to nearly all aspects of the data assimilation and forecast model components of the system. A coupled reanalysis was made over a 32-yr period (1979–2010), which provided the initial conditions to carry out a comprehensive reforecast over 29 years (1982–2010). This was done to obtain consistent and stable calibration, as well as skill estimates for the operational subseasonal and seasonal predictions at NCEP with CFSv2. The operational implementation of the full system ensures a continuity of the climate record and provides a valuable up-to-date dataset to study many aspects of predictability on the seasonal and subseasonal scales. Evaluation of the reforecasts show that the CFSv2 increases the length of skillful MJO forecasts from 6 to 17 days (dramatically improving subseasonal forecasts), nearly doubles the skill of seasonal forecasts of 2m temperatures over the United States, and significantly improves global Sea Surface Temperatures (SST) forecasts over its predecessor. The CFSv2 not only provides greatly improved guidance at these time scales but also creates many more products for subseasonal and seasonal forecasting with an extensive set of retrospective forecasts for users to calibrate their forecast products. These retrospective and real-time operational forecasts are used by a wide community of decision makers in areas such as water management for rivers and agriculture, transportation, energy use by utilities, wind and other sustainable energy, and seasonal prediction of the hurricane season.  Source: https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00823.1
+
+ 
+National Climate Assessment (NCA)
+ 
+
+The NCA is the official US Government’s “State of the Union” about climate change, vetted by 13
+
+Federal agencies, that
+
+Informs the nation about already observed changes, the current status of the climate, and anticipated trends for the future
+Integrates scientific information from multiple sources and sectors to highlight key findings and significant gaps in our knowledge
+Establishes consistent methods for evaluating climate impacts in the U.S. in the context of broader global change
+Provides input to Federal science priorities and is used by U.S. citizens, communities, and businesses as they create more sustainable and environmentally sound plans for the nation’s future
+Focuses on the United States providing information on eight geographic regions, coasts, and ocean and marine resources
+Is provided as an interactive online document containing many useful, free downloadable images and graphics and has associated materials and tools
+Provides links to the original research that underlies every key point
+Will be periodically updated as new data becomes available
+Includes “sectoral” information on the effects of climate change on topics such as biodiversity, forestry, agriculture, health, rural communities, coastal zone development and ecosystems, water resources, energy, land use, etc.
+Provides authoritative and vetted information for understanding and communicating climate change
+science and impacts in the United States
+See Information note here
+
+ 
+Intergovernmental Panel for Climate Change (IPCC)
+ 
+
+The IPCC is a scientific intergovernmental body set up by the World Meteorological Organization (WMO) and by the United Nations Environment Programme (UNEP). It was established to provide decision-makers and others with an objective source of information about climate change. The IPCC does not conduct any research nor does it monitor climate related data or parameters. Its role is to assess on a comprehensive, objective, open, and transparent basis the latest scientific, technical, and socio-economic literature produced worldwide relevant to the understanding of the risk of human-induced climate change, its observed and projected impacts, and options for adaptation and mitigation.
+
+More details on the IPPC can be found at: http://www.ipcc.ch/
+
+usa.gov
+US Dept of Commerce
+National Oceanic and Atmospheric Administration
+National Weather Service
+Climate Services
+
+,
+
+
+Comments? Questions? Please Contact Us.
+
+Disclaimer
+Information Quality
+Help
+GlossaryPrivacy Policy
+Freedom of Information Act (FOIA)
+About Us
+Career Opportunities

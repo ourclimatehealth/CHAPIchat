@@ -1,0 +1,215 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Indoor Air Quality (IAQ)
+CONTACT US
+Guide to Air Cleaners in the Home
+Downloads Available
+cover of residential air cleaners
+Download the PDF Version of the Guide to Air Cleaners in the Home
+
+cover of the technical guide
+Download the PDF Version of the Technical Guide to Residential Air Cleaners
+
+More downloads available at: Air Cleaners and Air Filters in the Home
+
+2nd Edition: Portable Air Cleaners, Furnace and HVAC Filters
+This short consumer guide covers portable air cleaners and furnace or HVAC filters used in a home. It includes tips for selecting a portable air cleaner, furnace filter, or HVAC filter. This guidance is also available as a PDF download.
+
+On this page:
+
+Portable Air Cleaners and Furnace or HVAC Filters in the Home
+Tips For Selecting a Portable Air Cleaner, Furnace Filter, or HVAC Filter
+Q&A: Air Cleaning and Filtration
+Q&A: Portable Air Cleaners
+Q&A: Heating, Ventilation, and Air-Conditioning (HVAC) System Filters and Furnace Filters
+For More Information
+On other pages:
+
+Air Cleaners, HVAC Filters, and Coronavirus (COVID-19)
+Portable Air Cleaners and Furnace or HVAC Filters in the Home
+Indoor air contains pollutants that can affect human health. Some of these pollutants come from outdoors, and others come from indoor sources and activities, such as cooking, cleaning, secondhand smoke, building materials, consumer products, and home furnishings. These indoor air pollutants can be particles or gases, including volatile organic compounds (VOCs). Common contaminants that can be found indoors include particulate matter (including PM2.5 [fine] and PM10 [coarse]), formaldehyde, mold, and pollen. Indoor air quality will vary from home to home and over the course of a day within a home. Since most people spend about 90% of their time indoors, mostly in their homes, much of their exposures to airborne pollutants will happen in the home.
+
+image of different sizes of particulate matter
+The most effective ways to improve your indoor air are to reduce or remove the sources of pollutants and to ventilate with clean outdoor air. In addition, research shows that filtration can be an effective supplement to source control and ventilation. Using a portable air cleaner and/or upgrading the air filter in your furnace or central heating, ventilation, and air-conditioning (HVAC) system can help to improve indoor air quality. Portable air cleaners, also known as air purifiers or air sanitizers, are designed to filter the air in a single room or area. Central furnace or HVAC filters are designed to filter air throughout a home. Portable air cleaners and HVAC filters can reduce indoor air pollution; however, they cannot remove all pollutants from the air.
+
+Tips For Selecting a Portable Air Cleaner, Furnace Filter, or HVAC Filter
+When selecting a portable air cleaner, furnace filter, or HVAC filter, keep in mind:
+
+No air cleaner or filter will eliminate all of the air pollutants in your home. Note that most filters are designed to filter either particles or gases. So in order to filter both particles and gases, many air cleaners contain two filters, one for particles and another for gases (in some cases including gases that have odors). Other air cleaners only have one filter, usually for particles. In addition, some air cleaners or filters are targeted to specific types of gases or VOCs. Consult the specific product packaging or labeling for more information.
+All filters need regular replacement. If a filter is dirty and overloaded, it won’t work well.
+PORTABLE AIR CLEANERS
+image of a portable air cleaner
+To filter particles, choose a portable air cleaner that has a clean air delivery rate (CADR) that is large enough for the size of the room or area in which you will use it. The higher the CADR, the more particles the air cleaner can filter and the larger the area it can serve. Most air cleaner packaging will tell you the largest size area or room it should be used in. Portable air cleaners often achieve a high CADR by using a high-efficiency particulate air (HEPA) filter.
+
+To filter gases, choose a portable air cleaner with an activated carbon filter or other filter designed to remove gases. Note that there are no widely used performance rating systems for portable air cleaners or filters designed to remove gases. The CADR rating system is for particles only. Activated carbon filters can be effective, provided that there is a large amount of material used in the filter.
+
+A portable air cleaner with a high CADR and an activated carbon filter can filter both particles and gases.
+
+Generally speaking, higher fan speeds and longer run times will increase the amount of air filtered. An air cleaner will filter less air if it is set at a lower speed. More air will pass through the filter at higher fan speeds, so typically filtration will be greater at higher fan speeds. Increasing the amount of time an air cleaner runs will also increase air filtration.
+
+Portable Air Cleaner Sizing for Particle Removal
+
+Room area (square feet)
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+Minimum CADR (cfm)
+
+65
+
+130
+
+195
+
+260
+
+325
+
+390
+
+Note this chart is for estimation purposes. The CADRs are calculated based on an 8-foot ceiling. If you have higher ceilings, you may want to select a portable air cleaner with a higher CADR.
+
+FURNACE AND HVAC SYSTEM FILTERS
+Furnace and HVAC filters work to filter the air only when the system is operating. In most cases, HVAC systems run only when heating or cooling is needed (usually less than 25% of the time during heating and cooling seasons). In order to get more filtration, the system would have to run for longer periods. This may not be desirable or practical in many cases since longer run times increase electricity costs and may also result in less reliable humidity control during the cooling season.
+
+image of a furnace hvac filter
+Furnace or HVAC filter - Select a filter rated at least MERV 13 or as high as your system will accommodate.
+Furnace and HVAC filters for homes are usually designed to filter particles. If you decide to upgrade or use a higher efficiency filter, choose a filter with at least a Minimum Efficiency Reporting Value (MERV) 13 rating, or as high a rating as your system fan and filter slot can accommodate. You may need to consult a professional HVAC technician to determine the highest efficiency filter that will work best for your system.
+
+Other devices that do not have filters may also remove particles and gases. They usually fit inside the HVAC ductwork and are more common in large and commercial buildings. See the EPA technical document, Residential Air Cleaners, 3rd edition (PDF) for more information.
+
+EPA does not certify or recommend specific brands or models of air filters or portable air cleaners.
+
+Q&A: Air Cleaning and Filtration
+Do portable air cleaners and furnace/HVAC filters used in homes have the potential to improve my indoor air quality?
+Yes. Most portable air cleaners and furnace/HVAC filters can filter particles from the air. Some can filter the small particles of greatest health concern (PM2.5). There are also air cleaners and filters that can filter both particles and gases. The longer the air cleaner runs, the more air it filters. Note that it is always important to reduce or remove the sources of indoor air pollutants and to ventilate with clean outdoor air. Filtration does not replace the need to control pollutants and ventilate.
+
+Can portable air cleaners and furnace/HVAC filters potentially have a positive impact on health?
+Possibly. Several studies using portable HEPA air cleaners have demonstrated small improvements in cardiovascular and respiratory health. The improvements are typically small and not always noticeable to the individual, although they may be measureable by health professionals.
+
+For more information on particles and health, see:
+
+EPA Indoor Particulate Matter
+EPA Particle Pollution and Your Health (PDF)
+Can portable air cleaners and furnace/HVAC filters reduce allergy or asthma symptoms?
+Possibly. Multiple studies with portable HEPA air cleaners have found improvements in one or more allergy and/or asthma symptom(s). The studies do not always show major improvements, and they do not show improvements in all symptoms.
+
+Can portable air cleaners and furnace/HVAC filters solve mold problems?
+No. Portable air cleaners and furnace/HVAC filters do not address the cause of mold and musty odors. Mold is caused by a water or moisture problem in the building that allows the mold to grow. To solve a mold problem, get rid of the source of the moisture and clean up the mold. Portable air cleaners and furnace/HVAC filters may remove some of the particles generated by mold. In some cases, they may also help reduce odors, but they will not resolve a mold and moisture problem.
+
+Note: Avoid portable air cleaners and furnace/HVAC filters that intentionally produce ozone. Ozone is a lung irritant. Note that in some cases, air cleaners that contain electrostatic precipitators, ionizers, UV lights without adequate lamp coatings, and plasma air cleaners may have the potential to emit ozone. Both the California Air Resources Board and the Association of Home Appliance Manufacturers maintain lists of air cleaners that have been tested and shown to emit little or no ozone.
+
+Q&A: Portable Air Cleaners
+image of an AHAM Verified label
+This is an example of a label from a portable air cleaner. Used with permission from the Association of Home Appliance Manufacturers (AHAM).
+Most portable air cleaners have a CADR rating. What does that mean?
+Most portable air cleaners are rated according to their clean air delivery rate (CADR). This number is intended to help consumers select an air cleaner based on the size of the area it will be placed in. The higher the CADR, the more particles the air cleaner will remove and the larger the area it can serve. The rating is typically measured at the air cleaner’s highest speed.
+
+How do I choose a portable air cleaner that will remove the small particles of greatest health concern (PM2.5) effectively?
+Some air cleaner packaging will indicate CADRs for removing three specific types of pollutants: tobacco smoke, dust, and pollen. These pollutants are used as examples to represent small-, medium-, and large-sized particles, respectively. To remove small particles, choose a portable air cleaner that has a high CADR for tobacco smoke, which represents the smallest particles. The CADR should be large enough for the size of the room or area you will use it in.
+
+How do I calculate the size of the room or area in order to pick the right air cleaner?
+Multiply the length and width of the area in which you intend to operate the air cleaner. The result will provide you with the size of the room or area in square feet. Compare this to the maximum recommended room size on the product packaging. If you have an open floor plan, you should consider the entire space that the air cleaner would serve. If you have high ceilings (above 8 feet), you should consider using an air cleaner that is sized for a larger area. If you have an area that is larger than any available product will serve, you could consider using multiple air cleaners.
+
+How do I choose a portable air cleaner that can remove volatile organic compounds (VOCs)?
+Choose a portable air cleaner with an activated carbon filter or other absorbent filter designed to remove gases. They can be effective when there is a large amount of material used in the filter (the thicker the better). Research has not yet shown that other technologies such as plasma, photocatalytic oxidation, or ultraviolet (UV) light can remove gases effectively in portable residential air cleaners.
+
+Do portable air cleaners have noise ratings?
+Noise ratings are reported for some portable air cleaners. The rating may be shown on the product packaging. Noise levels depend in part on the fan speed setting. If noise might prevent you from running the unit, you might consider an air cleaner that has a low published noise rating. For reference, a noise rating around 50 decibels (dB) is roughly the operating noise of a modern refrigerator.
+
+Where should I put a portable air cleaner?
+Consider placing the unit in the room(s) you spend the most time in. Many units are designed to be placed on the floor, although some are designed for tabletops. Either way, make sure the airflow is not obstructed. Keep air cleaners away from curtains and anything that might block airflow. If the air cleaner causes an uncomfortable draft, then redirect the airflow away from you.
+
+What does it mean if a portable air cleaner has the EPA’s ENERGY STAR® label?
+Some portable air cleaners sold in the consumer market are ENERGY STAR qualified. The ENERGY STAR label means that it meets strict energy efficiency guidelines set by EPA. The label does not refer to its air-cleaning effectiveness in any way.
+
+Q&A: Heating, Ventilation, and Air-Conditioning (HVAC) System Filters and Furnace Filters
+How are HVAC/furnace filters rated?
+There are several commonly used filter rating methods. These include the Minimum Efficiency Reporting Value (MERV), Filter Performance Rating (FPR), Microparticle Performance Rating (MPR), and others. MERV is based on a national consensus standard. The FPR and MPR rating methods are proprietary. For all rating methods, the higher the filter rating, the higher the removal efficiency for most particle sizes.
+How do I choose an HVAC/furnace filter that will be most effective at removing small particles of greatest health concern (PM2.5)?
+Use the highest-rated filter that your system fan and filter slot can accommodate. Filters with a MERV of 13 and above are required to demonstrate at least 50% removal efficiency for the smallest particles tested.
+
+How do I know if my system can accommodate a MERV 13 filter or higher?
+Most furnaces and HVAC systems can accommodate a MERV 13 filter without creating equipment problems, provided that the filter is replaced frequently. Sometimes it can be difficult to tell whether a system can use a higher efficiency filter since HVAC systems are not commonly labeled with any filter recommendations. To be certain a filter will work with your system, consult a professional HVAC technician. The technician can determine the most efficient filter that your system can use. An HVAC technician can also modify the system to use a higher efficiency filter.
+
+How can I tell if the filter is the right size for my furnace/HVAC system?
+Filters commonly come in thicknesses of 1 to 5 inches, with a variety of lengths and widths to match common sizes of filter frames in furnaces and HVAC systems. Make sure the filter fits snugly so air does not leak around the filter and you do not have to bend or crush the filter to make it fit.
+
+How often do I need to change my filter?
+Replace filters according to manufacturer’s recommendations. Many factors can affect how quickly filters get dirty. Manufacturers typically recommend replacement every 60 to 90 days. If you notice that filters appear heavily soiled when you replace them, you should consider changing them more frequently.
+
+What if I have a window air conditioner or a wall-mounted “ductless” air conditioner?
+Most window air conditioners and wall-mounted units are intended for temperature control rather than air filtration. These units typically have limited filtration intended to keep the inside of the air conditioner clean rather than remove fine particles from the indoor air.
+
+For more information
+EPA Indoor Air Quality website
+EPA Air Cleaners and Air Filters in the Home
+EPA Technical Guide to Residential Air Cleaners
+Air Cleaners, HVAC Filters, and Coronavirus (COVID-19)
+Important notes
+
+Ozone generators that are sold as air cleaners intentionally produce the gas ozone. No federal government agency has approved these devices for use in occupied spaces. For more information regarding ozone generators that are sold as air cleaners, see Ozone Generators that are Sold as Air Cleaners.
+
+ENERGY STAR® labels: Some portable air cleaners sold in the consumer market are ENERGY STAR® qualified. Please note the following disclaimer on their packaging: “This product earned the ENERGY STAR® by meeting strict energy efficiency guidelines set by the U.S. EPA. EPA does not endorse any manufacturer claims of healthier indoor air from the use of this product.”
+
+Disclaimer
+EPA neither certifies nor recommends particular brands of air filters or home air-cleaning devices including portable air cleaners or purifiers.
+
+Indoor Air Quality Home
+Learn about Indoor Air Quality
+IAQ by Building Type
+Network and Collaborate
+Popular IAQ Topics
+Frequently Asked Questions
+Publications
+Regional and State IAQ Information
+Webinars, Meetings & Updates
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON APRIL 3, 2024
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.

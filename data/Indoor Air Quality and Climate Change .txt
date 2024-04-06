@@ -1,0 +1,161 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Indoor Air Quality (IAQ)
+CONTACT US
+Indoor Air Quality and Climate Change
+Related Topics
+EPA - Climate Change
+
+Climate Change and Human Health
+
+The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment (2016)
+
+Air Quality Impacts Chapter
+
+Climate Change Indicators in the U.S.
+Climate Change Adaptation Resource Center (ARC-X)
+Información disponible en español
+
+Climate change may worsen existing indoor environmental problems and indoor air quality, and it may also introduce new problems as the frequency or severity of adverse outdoor conditions change.
+
+On this page:
+
+How Does Climate Change Affect the Indoor Environment?
+Resources on IAQ and Climate Change
+IAQ and Climate Change Publications
+Research on IAQ and Climate Change
+How Does Climate Change Affect the Indoor Environment?
+Climate change can affect conditions indoors by worsening existing indoor air quality issues and introducing new ones. Most people in the United States spend about 90% of their time indoors. The air we breathe indoors, and ultimately our health, can be impacted by many factors, including the air quality outdoors, people’s activities indoors, and the design, construction, operation and maintenance of a building.
+
+Changes in the climate can affect the air we breathe indoors in many ways. For example, changes in the climate can worsen the quality of the air outdoors which infiltrates into indoor environments. Rising carbon dioxide (CO2) levels and warmer temperatures can increase outdoor airborne allergens which can infiltrate indoor spaces. Warmer temperatures and shifting weather patterns can lead to more frequent and severe wildfires. Smoke and other particle pollution generated outdoors, including from wildfire events and dust storms, can infiltrate into indoor environments and contribute to levels of indoor particulate matter.
+
+Additionally, more frequent and longer outdoor heat waves can result in higher indoor temperatures. Climate change is also increasing the frequency and severity of some extreme weather events, such as extreme precipitation, flooding, and storms, which can result in damage to buildings and allow water or moisture to enter indoors. Increased indoor dampness and humidity can lead to increases in mold , dust mites, bacteria, and other biological contaminants indoors. Extreme weather events can also create conditions that support increases in and the spread of pests and infectious agents that can make their way indoors.
+
+Lastly, power outages may occur with more frequent extreme weather, making it more difficult to maintain comfortable indoor temperatures and healthy indoor air quality, and leading to more frequent use of portable generators. Carbon monoxide poisoning from improper use of portable generators results in hundreds of deaths and thousands of illnesses each year.
+
+Learn more about:
+
+Indoor Air Pollution and Health
+Emergencies and IAQ
+Wildfires and IAQ
+Resources on IAQ and Climate Change
+Below are links to resources which provide tips and strategies for adapting our homes and buildings, where we spend most of our time, to maintain a safe and healthy indoor environment.
+
+EPA Resources
+Health, Energy Efficiency and Climate Change
+Take Action for Climate Readiness and Indoor Air Quality
+Adapting Buildings for Indoor Air Quality in a Changing Climate
+Indoor Air and Climate Readiness Fact Sheet (PDF)
+Other Resources
+Climate Change, Indoor Environment and Health, a Report of the Institute of Medicine (IOM) of the National Academy of Sciences
+The Institute of Medicine (IOM) of the National Academy of Sciences was tasked by EPA to convene an expert committee to summarize the current state of scientific understanding with respect to the effects of climate change on indoor air and public health. The committee examined the likely impacts of climate change in the United States on human exposure to chemical and biological contaminants inside buildings, and likely public health consequences. Findings from the expert committee were published in the report titled Climate Change, Indoor Environment and Health, which outlines the major climate-induced indoor environmental problems and recommends ways to reduce the health effects these problems cause.
+IAQ and Climate Change Contractor Reports
+EPA commissioned a set of contractor reports or white papers on topics related to climate change, the indoor environment, and health to provide information for the IOM expert committee that wrote the 2011 report, Climate Change, Indoor Environment and Health. These contractor reports are provided below and are also cited in the 2011 IOM report.
+
+Public Health Consequences and Cost of Climate Change Impacts on Indoor Environments (January 2010)
+This report addresses climate change impacts on indoor environments. Buildings protect people from the elements and otherwise support human activity. Unless managed well, however, environmental conditions inside buildings have the potential to make people sick, cause them discomfort, or otherwise inhibit their ability to perform. This report presents a preliminary analysis of the changes in indoor environmental quality likely to result from changes in climate and assesses the potential public health consequences of those changes. This report also provides a preliminary analysis of the economic cost of these public health consequences.
+Contractor Report on Climate Change and Indoor Air Quality (PDF) (June 2010)
+This report addresses climate change and indoor air quality. Topics in the report include residential ventilation patterns, changes in the built environment, occupant behavior and radon.
+Research Needed to Address the Impacts of Climate Change (July 2010)
+This report addresses climate change and indoor air quality research needs. Topics addressed in the report include water/moisture intrusion and disease vectors.
+Climate Change, Indoor Air Quality and Health - Contractor Report (PDF) (August 2010)
+This report addresses climate change, indoor air quality and health. Topics addressed include green buildings, public health, and consideration of the training needs of professional communities on buildings and health issues.
+Climate Change and Potential Effects on Microbial Air Quality in the Built Environment (PDF) (September 2010)
+This report addresses climate change impacts on microbes, indoor environments, and related issues. Topics addressed in the report include Legionella and other geographically emerging pathogens, air-conditioning and climate change, outdoor air ventilation and climate change, and severe weather events and the built environment.
+Draft Report of the Opportunities for Green Building Rating Systems to Improve Indoor Air Quality Credits and to Address Changing Climatic Conditions (September 2010)
+This draft report describes green-building rating systems, climate change, and indoor environmental quality. Green-building rating systems focus mostly on indoor environments, including moisture, ventilation rates, volatile organic compounds, thermal comfort, and particulate matter but are evaluated in a climate-change context. Two rating systems, those of BREEAM and LEED, are detailed in this report.
+National Programs to Assess Indoor Environmental Quality (IEQ) Effects of Building Materials and Products (September 2010)
+This report examines national building-materials and product-evaluation programs, which were developed often in response to indoor air quality concerns and vary in focus and scope. These include efforts in the United States, various countries in Europe, the European Union, Japan, and Korea.
+Building Codes and Indoor Air Quality (PDF) (September 2010)
+This report examines energy-related building codes throughout the United States and how these codes affect ventilation, including air exchange, and indoor air pollution. Ventilation and moisture conditions in existing residential and commercial buildings may be altered because of an increase in extreme weather events due to climate change. Buildings constructed under a set of standards appropriate for the original climate may not be adequate in a different climate.
+The Impact of Increasing Severe Weather Events on Shelter (PDF) (December 2010)
+This report addresses the impacts of severe weather events on indoor environments. The report includes material related to the use of buildings as shelters from weather extremes.
+Indoor Environmental Quality and Climate Change - Contractor Report (PDF) (December 2010)
+This report contains information, diagrams, and maps related to indoor environmental quality and climate change.
+Research on IAQ and Climate Change
+Lawrence Berkeley Lab Indoor Air Quality Scientific Findings Resource Bank: Climate Change
+The Lawrence Berkeley Lab Indoor Air Quality Scientific Findings Resource Bank: Climate Change, which is supported by the EPA, serves as a resource for public health professionals, building professionals, and others who seek scientific information about the effects of climate change on indoor environments and health.
+
+EPA-Sponsored Research Activities on IAQ and Climate Change
+
+EPA’s Office of Research and Development awarded grants to nine institutions for innovative research projects to improve understanding of the effects of climate change on indoor air quality and the resulting health effects. The study results are summarized below
+
+Indoor Environment and Emergency Response Health Outcomes
+This study examined the relationship between indoor and outdoor temperature and humidity and the built environment, and aimed to find actionable thresholds linking indoor temperature, humidity, and the built environment to extreme heat (summer) and influenza-like-illness (winter) emergency distress calls. Finally, the study projected future extreme heat disease burdens or influenza risk related to climatic and demographic changes. 
+Final Report
+Combining Measurements and Models to Predict the Impacts of Climate Change and Weatherization on Indoor Air Quality and Chronic Health Effects in U.S. Residences
+This study used a combination of field measurements and a nationally representative set of dynamic residential indoor air quality models to predict indoor exposures and associated chronic health effects of several priority pollutants of both indoor and outdoor origin across (1) the current residential building stock; (2) the residential building stock under future climate scenarios of 2050 and 2080; and (3) the future building stock under both future climate scenarios and future climate policies that lead to widespread application of weatherization retrofits and turnover of the existing building stock to more energy efficient homes.
+Final Report
+Indoor Exposure to Pollutants Associated with Oxidative Chemistry: Field Studies and Window-Opening Behavior
+This study aimed to enhance scientific understanding of indoor smog-induced chemistry, and the associated human exposure to chemical products, as it is influenced by natural ventilation, a key adaptation associated with climate change. Further, this study assessed the prevalence and future trends in residential natural ventilation (e.g. window opening) to improve exposure estimates and improve regulatory strategies for controlling ambient photochemical smog.
+Final Report
+Climate Change Mitigation in Low-Income Communities in Colorado: Home Weatherization Impacts on Respiratory Health and Indoor Air Quality During Wildfires
+This study evaluated Colorado weatherization programs used to adapt homes in low-income communities to a changing climate against empirical evidence of respiratory health effects and measurements of indoor air quality and ventilation rates.
+Final Report
+Determinants of Indoor and Outdoor Exposure to Ozone and Extreme Heat in a Warming Climate and the Health Risks for an Aging Population
+This study aimed to (1) develop an integrated modeling framework to characterize current and future health risks of an older population to urban ozone and extreme heat, indoors and outdoors; (2) improve understanding of how emerging trends in building design and management practices affect indoor air quality; and (3) develop recommendations for enhancing adaptive capacity to reduce negative health outcomes during episodes of high ozone and extreme heat.
+Final Report
+Assessing the Potential Impact of Global Warming on Indoor Air Quality and Human Health in Two US Cities: Boston, MA and Atlanta, GA
+This study examined how rising temperatures associated with climate change will impact future home air exchange rates, potentially leading to decreased air exchange rates during the summer season and increased air exchange rates during the spring and fall seasons relative to the present. Consequently, the project sought to understand if these changes will, in turn, alter the contributions of both indoor and outdoor particle sources to indoor air quality, and subsequently, will lead to differential effects of fine particle (PM2.5) exposures on human health in the future relative to the present.
+Final Report
+Integrated Measurements and Modeling Using U.S. Smart Homes to Assess Climate Change Impacts on Indoor Air Quality
+This study aimed to improve our understanding of the complex intersection between indoor air quality and climate change. Specifically, this study examined how local climate conditions affect indoor air quality factors, such as energy consumption, ventilation rates, occupant behavior, and indoor pollution levels. The study also examined how well the CONTAM indoor air quality model performed under a range of conditions and buildings. Lastyly, the sudy evaluated projected indoor air quality levels in a set of buildings representative of US housing stocks, and sensitivity of these levels to plausible changes in building characteristics and human behavior.
+Final Report
+Impacts of Weatherization on Microbial Ecology and Human Health
+This study examined how weatherization and housing ventilation systems impact human health in the context of climate change and associated changes in microbial ecology both indoors and outdoors. The study examined how weatherization (air-sealing) measures, that address climate change by reducing energy use and carbon emissions, may alter the indoor microbial ecology to be less diverse and more dominated by human-associated microbes that have the potential for human immune dysfunction and infection. This study quantified airborne microbial communities and traditional indicators of indoor air quality within residential dwellings before and after weatherization of the building envelope and installation of a whole house ventilation strategy. The study also assessed seasonal variations and relationships between indoor and outdoor air compositions, in terms of microbial ecology, as well as the role of human behaviors before and after weatherization.
+Final Report
+Climate Change, Indoor Ozone and Vascular Function
+This study examined the impact of changes in ambient concentrations of ozone (O3) driven by climate change on indoor exposure to O3 and O3-byproducts, as well as the resulting change in cardiovascular health risk among elderly populations in New Jersey and Georgia.
+Final Report
+Indoor Air Quality Home
+Learn about Indoor Air Quality
+IAQ by Building Type
+Network and Collaborate
+Popular IAQ Topics
+Asthma
+Indoor airPLUS
+Mold
+Radon
+Frequently Asked Questions
+Publications
+Regional and State IAQ Information
+Webinars, Meetings & Updates
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON NOVEMBER 28, 2023
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.

@@ -1,0 +1,81 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Indoor Air Quality (IAQ)
+CONTACT US
+Air Sensor Technology and Indoor Air Quality
+image - different types of air sensors
+Sensor Terminology
+Air sensor technology refers to the development and practical application of sensors to acquire and convert physical, chemical, or mechanical stimuli from air to a signal that can be used by an observer, appliance, instrument, or machine.
+
+A sensor is a device composed of electronics or other physical or chemical materials that is designed to detect or measure a physical property or stimulus (such as heat, light, sound, pressure, moisture, chemicals, or motion) and convert it into a signal that can be used by an observer, appliance, instrument, or machine.
+
+An air sensor refers to the type of sensor that can detect and respond to chemical and physical properties or stimuli in the air.
+
+Air Sensor technology advances and increasing availability in the consumer marketplace are changing the landscape of indoor air quality management. As air sensor technology evolves and becomes more widely used in relation to indoor air quality management, it is increasingly common for a sensor or a combination of sensors to be incorporated in equipment, appliances and other devices that measure, record, and/or display the concentration of certain pollutants or environmental conditions indoors. In addition, sensors are increasingly being used in devices to trigger an action, such as turning on an exhaust fan or air cleaner when pollutant concentrations or environmental conditions exceed a pre-defined level.
+
+Some common consumer uses of air sensor technology indoors include:
+
+Detecting airborne pollutant concentrations. For example, some devices are designed to detect and indicate levels of a targeted pollutant like particulate matter (PM) indoors.
+Triggering an action in equipment, appliances, or other devices such as turning on an air cleaner when pollutant concentrations or environmental conditions exceed a pre-defined level.
+Activation of safety devices such as carbon monoxide alarms and smoke detectors when concentrations of carbon monoxide or components of smoke reach levels that indicate the potential for immediate danger to life.
+In addition, air sensor technology is used for indoor air research and educational activities. For example, air sensor technology can be used in research to better understand total exposure to specific pollutants. Portable devices that use air sensor technology also may be included in environmental science curriculums to help students understand indoor air quality in their classrooms.
+
+Despite many advances, there are still gaps in our understanding of the data quality and performance of sensor technology indoors. Additional research is needed to better characterize the use of air sensor technology indoors. 
+
+Related Links
+Indoor Air Quality and Low-cost Air Pollution Monitors
+Additional Resources
+Consumer Indoor Air Sensors Evaluation Lawrence Berkeley National Laboratories Indoor Program Air Quality Sensors
+Lawrence Berkeley National Laboratories research article,  "Performance assessment of low-cost environmental monitors and single sensors under variable indoor air quality and thermal conditions
+Lawrence Berkeley National Laboratories research article, "Performance of low-cost indoor air quality monitors for PM2.5 and PM10 from residential sources"
+Multi-Federal agency, Air Sensors Health Group (ASHG) policy article, “Interpreting Mobile and Handheld Air Sensor Readings in Relation to Air Quality Standards and Health Effect Reference Values: Tackling the Challenges”
+Air sensor monitoring performance and use. This resource is primarily based on ambient use. EPA-Air Sensor Toolbox
+AQ-SPEC evaluation of “low-cost” air quality sensors under ambient (field) and controlled (laboratory) conditions South Coast Air Quality Management District’s AQ SPEC Program
+Indoor Air Quality Home
+Learn about Indoor Air Quality
+IAQ by Building Type
+Network and Collaborate
+Popular IAQ Topics
+Frequently Asked Questions
+Publications
+Regional and State IAQ Information
+Webinars, Meetings & Updates
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON OCTOBER 31, 2023
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.

@@ -1,0 +1,933 @@
+Skip to main content
+You are currently viewing the Third National Climate Assessment. To view the most recent assessment please visit https://nca2018.globalchange.gov.
+Menu
+National Climate Assessment Home
+HIGHLIGHTSREPORT
+OUR CHANGING CLIMATE
+INTRODUCTION
+OBSERVED CHANGE
+FUTURE CLIMATE CHANGE
+RECENT U.S. TEMPERATURE TRENDS
+FROST-FREE SEASON
+PRECIPITATION CHANGE
+HEAVY DOWNPOURS INCREASING
+EXTREME WEATHER
+CHANGES IN HURRICANES
+CHANGES IN STORMS
+SEA LEVEL RISE
+MELTING ICE
+OCEAN ACIDIFICATION
+ SECTORS
+WATER
+ENERGY
+TRANSPORTATION
+AGRICULTURE
+FORESTS
+ECOSYSTEMS
+HUMAN HEALTH
+ENERGY, WATER, AND LAND
+URBAN
+INDIGENOUS PEOPLES
+LAND USE AND LAND COVER CHANGE
+RURAL COMMUNITIES
+BIOGEOCHEMICAL CYCLES
+ REGIONS
+NORTHEAST
+SOUTHEAST
+MIDWEST
+GREAT PLAINS
+SOUTHWEST
+NORTHWEST
+ALASKA
+HAWAI‘I AND PACIFIC ISLANDS
+OCEANS
+COASTS
+ RESPONSE STRATEGIES
+DECISION SUPPORT
+MITIGATION
+ADAPTATION
+RESEARCH NEEDS
+SUSTAINED ASSESSMENT
+SEARCH DOWNLOAD
+Human Health
+Climate change threatens human health and well-being in many ways, including impacts from increased extreme weather events, wildfire, decreased air quality, and illnesses transmitted by food, water, and diseases carriers such as mosquitoes and ticks.
+
+Explore impacts to human health.
+
+Facebook
+Tweet
+Copy link to clipboard
+Next
+Menu
+Download ChapterHuman HealthINTRO1234
+Convening Lead AuthorsLead AuthorsContributing Authors
+Introduction
+Climate change, together with other natural and human-made health stressors, influences human health and disease in numerous ways. Some existing health threats will intensify and new health threats will emerge. Not everyone is equally at risk. Important considerations include age, economic resources, and location. Preventive and adaptive actions, such as setting up extreme weather early warning systems and improving water infrastructure, can reduce the severity of these impacts, but there are limits to the effectiveness of such actions in the face of some projected climate change threats.
+
+Climate change presents a global public health problem, with serious health impacts predicted to manifest in varying ways in different parts of the world. Public health in the U.S. can be affected by disruptions of physical, biological, and ecological systems, including disturbances originating in the U.S. and elsewhere. Health effects of these disruptions include increased respiratory and cardiovascular disease, injuries and premature deaths related to extreme weather events, changes in the prevalence and geographical distribution of food- and waterborne illnesses and other infectious diseases, and threats to mental health.
+
+boy sneezing
+©Jose Luis Pelaez, Inc./Blend Images/Corbis
+Key weather and climate drivers of health impacts include increasingly frequent, intense, and longer-lasting extreme heat, which worsens drought, wildfire, and air pollution risks; increasingly frequent extreme precipitation, intense storms, and changes in precipitation patterns that lead to drought and ecosystem changes (Ch. 2: Our Changing Climate); and rising sea levels that intensify coastal flooding and storm surge (Ch. 25: Coasts). Key drivers of vulnerability include the attributes of certain groups (age, socioeconomic status, race, current level of health – see Ch. 12: Indigenous Peoples for examples of health impacts on vulnerable populations) and of place (floodplains, coastal zones, and urban areas), as well as the resilience of critical public health infrastructure. Multi-stressor situations, such as impacts on vulnerable populations following natural disasters that also damage the social and physical infrastructure necessary for resilience and emergency response, are particularly important to consider when preparing for the impacts of climate change on human health.
+
+Facebook
+Tweet
+Copy link to clipboard
+Key Message 1: Wide-ranging Health Impacts
+Climate change threatens human health and well-being in many ways, including impacts from increased extreme weather events, wildfire, decreased air quality, threats to mental health, and illnesses transmitted by food, water, and disease-carriers such as mosquitoes and ticks. Some of these health impacts are already underway in the United States.
+
+Supporting Evidence
+Facebook
+Tweet
+Copy link to clipboard
+Wide-ranging Health Impacts
+Air Pollution
+Climate change is projected to harm human health by increasing ground-level ozone and/or particulate matter air pollution in some locations. Ground-level ozone (a key component of smog) is associated with many health problems, such as diminished lung function, increased hospital admissions and emergency room visits for asthma, and increases in premature deaths.,,,
+
+Figure 9.1: Climate Change Projected to Worsen Asthma
+Climate Change Projected to Worsen Asthma
+Details/Download
+Factors that affect ozone formation include heat, concentrations of precursor chemicals, and methane emissions, while particulate matter concentrations are affected by wildfire emissions and air stagnation episodes, among other factors., By increasing these different factors, climate change is projected to lead to increased concentration of ozone and particulate matter in some regions.,,,,,,,,,
+
+Increases in global temperatures could cause associated increases in premature deaths related to worsened ozone and particle pollution. Estimates made assuming no change in regulatory controls or population characteristics have ranged from 1,000 to 4,300 additional premature deaths nationally per year by 2050 from combined ozone and particle health effects.,, There is less certainty in the responses of airborne particles to climate change than there is about the response of ozone. Health-related costs of the current effects of ozone air pollution exceeding national standards have been estimated at $6.5 billion (in 2008 U.S. dollars) nationwide, based on a U.S. assessment of health impacts from ozone levels during 2000 to 2002.,
+
+Allergens
+Climate change, resulting in more frost-free days and warmer seasonal air temperatures, can contribute to shifts in flowering time and pollen initiation from allergenic plant species, and increased CO2 by itself can elevate production of plant-based allergens.,,,,,, Higher pollen concentrations and longer pollen seasons can increase allergic sensitizations and asthma episodes,,,, and diminish productive work and school days.,,
+
+Figure 9.2: Ragweed Pollen Season Lengthens
+Ragweed Pollen Season Lengthens
+Details/Download
+Simultaneous exposure to toxic air pollutants can worsen allergic responses.,,, Extreme rainfall and rising temperatures can also foster indoor air quality problems, including the growth of indoor fungi and molds, with increases in respiratory and asthma-related conditions.,,, Asthma prevalence (the percentage of people who have ever been diagnosed with asthma and still have asthma) increased nationwide from 7.3% in 2001 to 8.4% in 2010. Asthma visits in primary care settings, emergency room visits, and hospitalizations were all stable from 2001 to 2009, and asthma death rates per 1,000 persons with asthma declined from 2001 to 2009. To the extent that increased pollen exposures occur, patients and their physicians will face increased challenges in maintaining adequate asthma control.
+
+Wildfires
+Climate change is currently increasing the vulnerability of many forests to wildfire. Climate change is projected to increase the frequency of wildfire in certain regions of the United States (Ch. 7: Forests).,,,,, Long periods of record high temperatures are associated with droughts that contribute to dry conditions and drive wildfires in some areas. Wildfire smoke contains particulate matter, carbon monoxide, nitrogen oxides, and various volatile organic compounds (which are ozone precursors)and can significantly reduce air quality, both locally and in areas downwind of fires.,,,,
+
+Figure 9.3: Wildfire Smoke has Widespread Health Effects
+Wildfire Smoke has Widespread Health Effects
+Details/Download
+Smoke exposure increases respiratory and cardiovascular hospitalizations, emergency department visits, and medication dispensations for asthma, bronchitis, chest pain, chronic obstructive pulmonary disease (commonly known by its acronym, COPD), respiratory infections, and medical visits for lung illnesses.,, It has been associated with hundreds of thousands of deaths annually, in an assessment of the global health risks from landscape fire smoke.,,,, Future climate change is projected to increase wildfire risks and associated emissions, with harmful impacts on health.,,,,,,
+
+Temperature Extremes
+Extreme heat events have long threatened public health in the United States.,,, Many cities, including St. Louis, Philadelphia, Chicago, and Cincinnati, have suffered dramatic increases in death rates during heat waves. Deaths result from heat stroke and related conditions,,,,, but also from cardiovascular disease, respiratory disease, and cerebrovascular disease., Heat waves are also associated with increased hospital admissions for cardiovascular, kidney, and respiratory disorders.,,,, Extreme summer heat is increasing in the United States (Ch. 2: Our Changing Climate, Key Message 7), and climate projections indicate that extreme heat events will be more frequent and intense in coming decades (Ch. 2: Our Changing Climate, Key Message 7).,,,,,,,,,,,,,,,,
+
+Figure 9.4: Projected Temperature Change of Hottest Days
+RAPID EMISSIONS REDUCTIONS (RCP 2.6)CONTINUED EMISSIONS INCREASES (RCP 8.5)
+Figure 9.4: The maps show projected increases in the average temperature on the hottest days by late this century (2081-2100) relative to 1986-2005 under a scenario that assumes a rapid reduction in heat-trapping gases (RCP 2.6) and a scenario that assumes continued increases in these gases (RCP 8.5). The hottest days are those so hot they occur only once in 20 years. Across most of the continental United States, those days will be about 10ºF to 15ºF hotter in the future under the higher emissions scenario. (Figure source: NOAA NCDC / CICS-NC).
+
+Details/Download
+FacebookTweetCopy link to clipboard
+Some of the risks of heat-related sickness and death have diminished in recent decades, possibly due to better forecasting, heat-health early warning systems, and/or increased access to air conditioning for the U.S. population., However, extreme heat events remain a cause of preventable death nationwide. Urban heat islands, combined with an aging population and increased urbanization, are projected to increase the vulnerability of urban populations to heat-related health impacts in the future (Ch. 11: Urban).,,
+
+Milder winters resulting from a warming climate can reduce illness, injuries, and deaths associated with cold and snow. Vulnerability to winter weather depends on many non-climate factors, including housing, age, and baseline health., While deaths and injuries related to extreme cold events are projected to decline due to climate change, these reductions are not expected to compensate for the increase in heat-related deaths.,,
+
+Precipitation Extremes: Heavy Rainfall, Flooding, and Droughts
+The frequency of heavy precipitation events has already increased for the nation as a whole, and is projected to increase in all U.S. regions (Ch. 2: Our Changing Climate)., Increases in both extreme precipitation and total precipitation have contributed to increases in severe flooding events in certain regions (see Ch. 2: Our Changing Climate, Figure 2.21). Floods are the second deadliest of all weather-related hazards in the United States, accounting for approximately 98 deaths per year, most due to drowning. Flash floods (see Ch. 3: Water, “Flood Factors and Flood Types”) and flooding associated with tropical storms result in the highest number of deaths.
+
+In addition to the immediate health hazards associated with extreme precipitation events when flooding occurs, other hazards can often appear once a storm event has passed. Elevated waterborne disease outbreaks have been reported in the weeks following heavy rainfall, although other variables may affect these associations. Water intrusion into buildings can result in mold contamination that manifests later, leading to indoor air quality problems. Buildings damaged during hurricanes are especially susceptible to water intrusion. Populations living in damp indoor environments experience increased prevalence of asthma and other upper respiratory tract symptoms, such as coughing and wheezing as well as lower respiratory tract infections such as pneumonia, Respiratory Syncytial Virus (RSV), and RSV pneumonia (see Figure 9.7).
+
+At the opposite end of precipitation extremes, drought also poses risks to public health and safety. Drought conditions may increase the environmental exposure to a broad set of health hazards including wildfires, dust storms, extreme heat events, flash flooding, degraded water quality, and reduced water quantity. Dust storms associated with drought conditions contribute to degraded air quality due to particulates and have been associated with increased incidence of Coccidioidomycosis (Valley fever), a fungal pathogen, in Arizona and California.
+
+Disease Carried by Vectors
+Climate is one of the factors that influence the distribution of diseases borne by vectors (such as fleas, ticks, and mosquitoes, which spread pathogens that cause illness).,,,,,,,,,, The geographic and seasonal distribution of vector populations, and the diseases they can carry, depend not only on climate but also on land use, socioeconomic and cultural factors, pest control, access to health care, and human responses to disease risk, among other factors.,,,, Daily, seasonal, or year-to-year climate variability can sometimes result in vector/pathogen adaptation and shifts or expansions in their geographic ranges.,, Such shifts can alter disease incidence depending on vector-host interaction, host immunity, and pathogen evolution.,,,
+
+mosquito on flesh
+The Culex tarsalis mosquito is a vector that transmits West Nile Virus.
+
+Courtesy James Gathany, CDC
+North Americans are currently at risk from numerous vector-borne diseases, including Lyme,,,,, dengue fever,,,,,, West Nile virus,, Rocky Mountain spotted fever, plague, and tularemia. Vector-borne pathogens not currently found in the United States, such as chikungunya, Chagas disease, and Rift Valley fever viruses, are also threats. Climate change effects on the geographical distribution and incidence of vector-borne diseases in other countries where these diseases are already found can also affect North Americans, especially as a result of increasing trade with, and travel to, tropical and subtropical areas., Whether climate change in the U.S. will increase the chances of domestically acquiring diseases such as dengue fever is uncertain, due to vector-control efforts and lifestyle factors, such as time spent indoors, that reduce human-insect contact.
+
+Infectious disease transmission is sensitive to local, small-scale differences in weather, human modification of the landscape, the diversity of animal hosts, and human behavior that affects vector-human contact, among other factors. There is a need for finer-scale, long-term studies to help quantify the relationships among weather variables, vector range, and vector-borne pathogen occurrence, the consequences of shifting distributions of vectors and pathogens, and the impacts on human behavior. Enhanced vector surveillance and human disease tracking are needed to address these concerns.
+
+Transmission Cycle of Lyme Disease
+The development and survival of blacklegged ticks, their animal hosts, and the Lyme disease bacterium, Borrelia burgdorferi, are strongly influenced by climatic factors, especially temperature, precipitation, and humidity. Potential impacts of climate change on the transmission of Lyme disease include: 1) changes in the geographic distribution of the disease due to the increase in favorable habitat for ticks to survive off their hosts; 2) a lengthened transmission season due to earlier onset of higher temperatures in the spring and later onset of cold and frost; 3) higher tick densities leading to greater risk in areas where the disease is currently observed, due to milder winters and potentially larger rodent host populations; and 4) changes in human behaviors, including increased time outdoors, which may increase the risk of exposure to infected ticks.
+
+Figure 9.5: Projected Changes in Tick Habitat
+
+Drag the slider to view time series effect
+Figure 9.5: The maps show the current and projected probability of establishment of tick populations (Ixodes scapularis) that transmit Lyme disease. Projections are shown for 2020, 2050, and 2080. The projected expansion of tick habitat includes much of the eastern half of the country by 2080. For some areas around the Gulf Coast, the probability of tick population establishment is projected to decrease by 2080. (Figure source: adapted from Brownstein et al. 2005).
+
+Details/Download
+FacebookTweetCopy link to clipboard
+Food- and Waterborne Diarrheal Disease
+Figure 9.7: Heavy Downpours Are Increasing Exposure to Disease
+Heavy Downpours Are Increasing Exposure to Disease
+Details/Download
+Diarrheal disease is a major public health issue in developing countries and, while not generally increasing in the United States, remains a persistent concern nonetheless. Exposure to a variety of pathogens in water and food causes diarrheal disease. Air and water temperatures, precipitation patterns, extreme rainfall events, and seasonal variations are all known to affect disease transmission.,, In the United States, children and the elderly are most vulnerable to serious outcomes, and those exposed to inadequately or untreated groundwater will be among those most affected.
+
+Figure 9.6: Projected Change in Heavy Precipitation Events
+RAPID EMISSIONS REDUCTIONS (RCP 2.6)CONTINUED EMISSIONS INCREASES (RCP 8.5)
+Figure 9.6: Maps show the increase in frequency of extreme daily precipitation events (a daily amount that now occurs just once in 20 years) by the later part of this century (2081-2100) compared to the latter part of the last century (1981-2000). Such extreme events are projected to occur more frequently everywhere in the United States. Under a rapid emissions reduction scenario (RCP 2.6), these events would occur nearly twice as often. For a scenario assuming continued increases in emissions (RCP 8.5), these events would occur up to five times as often. (Figure source: NOAA NCDC / CICS-NC).
+
+Details/Download
+FacebookTweetCopy link to clipboard
+Figure 9.8: Harmful Bloom of Algae
+Harmful Bloom of Algae
+Details/Download
+In general, diarrheal diseases including Salmonellosis and Campylobacteriosis are more common when temperatures are higher,,,,,,, though patterns differ by place and pathogen. Diarrheal diseases have also been found to occur more frequently in conjunction with both unusually high and low precipitation., Sporadic increases in streamflow rates, often preceded by rapid snowmeltand changes in water treatment, have also been shown to precede outbreaks. Risks of waterborne illness and beach closures resulting from changes in the magnitude of recent precipitation (within the past 24 hours) and in lake temperature are expected to increase in the Great Lakes region due to projected climate change.,,,
+
+Food Security
+Globally, climate change is expected to threaten food production and certain aspects of food quality, as well as food prices and distribution systems. Many crop yields are predicted to decline due to the combined effects of changes in rainfall, severe weather events, and increasing competition from weeds and pests on crop plants (Ch. 6: Agriculture, Key Message 6).,,,,,,,, Livestock and fish production is also projected to decline., Prices are expected to rise in response to declining food production and associated trends such as increasingly expensive petroleum (used for agricultural inputs such as pesticides and fertilizers).
+
+While the U.S. will be less affected than some other countries,, the nation will not be immune. Health can be affected in several ways. First, Americans with particular dietary patterns, such as Alaska Natives, will confront shortages of key foods (Ch. 12: Indigenous Peoples, Key Message 1). Second, food insecurity increases with rising food prices., In such situations, people cope by turning to nutrient-poor but calorie-rich foods, and/or they endure hunger, with consequences ranging from micronutrient malnutrition to obesity. Third, the nutritional value of some foods is projected to decline. Elevated atmospheric CO2 is associated with decreased plant nitrogen concentration, and therefore decreased protein, in many crops, such as barley, sorghum, and soy.,,, The nutrient content of crops is also projected to decline if soil nitrogen levels are suboptimal, with reduced levels of nutrients such as calcium, iron, zinc, vitamins, and sugars, although this effect is alleviated if sufficient nitrogen is supplied. Fourth, farmers are expected to need to use more herbicides and pesticides because of increased growth of pests,,,and weeds,as well as decreased effectiveness and durationof some of these chemicals (Ch. 6: Agriculture). Farmers, farmworkers, and consumers will thus sustain increased exposure to these substances and their residues, which can be toxic. These climate change impacts on the nutritional value of food exist within a larger context in which other factors, such as agricultural practices, food distribution systems, and consumer food choices, also play key roles. Adaptation activities can reduce the health-related impacts of some of the anticipated food security challenges (Ch. 6: Agriculture).
+
+Mental Health and Stress-related Disorders
+Mental illness is one of the major causes of suffering in the United States, and extreme weather events can affect mental health in several ways.,,,, First, following disasters, mental health problems increase, both among people with no history of mental illness, and those at risk – a phenomenon known as “common reactions to abnormal events.” These reactions may be short-lived or, in some cases, long-lasting.,, For example, research demonstrated high levels of anxiety and post-traumatic stress disorder among people affected by Hurricane Katrina,, and similar observations have followed floods, and heat waves. Some evidence suggests wildfires have similar effects. All of these events are increasingly fueled by climate change (see Ch. 2: Our Changing Climate). Other health consequences of intensely stressful exposures are also a concern, such as adverse birth outcomes including pre-term birth, low birth weight, and maternal complications.,
+
+Second, some patients with mental illness are especially susceptible to heat., Suicide rates vary with weather, rising with high temperatures,, suggesting potential climate change impacts on depression and other mental illnesses. Dementia is a risk factor for hospitalization and death during heat waves., Patients with severe mental illness such as schizophrenia are at risk during hot weather because their medications may interfere with temperature regulation or even directly cause hyperthermia., Additional potential mental health impacts, less well understood, include the possible distress associated with environmental degradation, and displacement,, and the anxiety and despair that knowledge of climate change might elicit in some people (Ch. 12: Indigenous Peoples, Key Message 5).
+
+Facebook
+Tweet
+Copy link to clipboard
+Key Message 2: Most Vulnerable at Most Risk
+Climate change will, absent other changes, amplify some of the existing health threats the nation now faces. Certain people and communities are especially vulnerable, including children, the elderly, the sick, the poor, and some communities of color.
+
+Supporting Evidence
+Facebook
+Tweet
+Copy link to clipboard
+Most Vulnerable at Most Risk
+Climate change will increase the risk of climate-related illness and death for a number of vulnerable groups in the United States, as when Hurricane Katrina devastated New Orleans in 2005. Children, primarily because of physiological and developmental factors, will disproportionately suffer from the effects of heat waves, air pollution, infectious illness, and trauma resulting from extreme weather events.,,,,,,,
+
+Figure 9.9: Elements of Vulnerability to Climate Change
+Elements of Vulnerability to Climate Change
+Details/Download
+The country’s older population also could be harmed more as the climate changes. Older people are at much higher risk of dying during extreme heat events.,,, Pre-existing health conditions also make older adults susceptible to cardiac and respiratory impacts of air pollution and to more severe consequences from infectious diseases; limited mobility among older adults can also increase flood-related health risks. Limited resources and an already high burden of chronic health conditions, including heart disease, obesity, and diabetes, will place the poor at higher risk of health impacts from climate change than higher income groups., Potential increases in food cost and limited availability of some foods will exacerbate current dietary inequalities and have significant health ramifications for the poorer segments of our population (Ch. 12: Indigenous Peoples, Key Message 1).,
+
+Societal System Failures During Extreme Events
+Figure 9.10: Katrina Diaspora
+Katrina Diaspora
+Details/Download
+We have already seen multiple system failures during an extreme weather event in the United States, as when Hurricane Katrina struck New Orleans. Infrastructure and evacuation failures and collapse of critical response services during a storm is one example of multiple system failures. Another example is a loss of electrical power during a heat wave or wildfires, which can reduce food and water safety. Air conditioning has helped reduce illness and death due to extreme heat, but if power is lost, everyone is vulnerable. By their nature, such events can exceed our capacity to respond. In succession, these events severely deplete our resources needed to respond, from the individual to the national scale, but disproportionately affect the most vulnerable populations.
+
+Climate change will disproportionately affect low-income communities and some communities of color (Ch. 12: Indigenous Peoples, Key Message 2),,,,,,,,,,, raising environmental justice concerns. Existing health disparities,,,,and other inequities, increase vulnerability. Climate change related issues that have an equity component include heat waves, air quality, and extreme weather and climate events. For example, Hurricane Katrina demonstrated how vulnerable certain groups of people were to extreme weather events, because many low-income and of-color New Orleans residents were killed, injured, or had difficulty evacuating and recovering from the storm.,,,,,,,,,
+
+Multiple Climate Stressors and Health
+Climate change impacts add to the cumulative stresses currently faced by vulnerable populations including children, the elderly, the poor, some communities of color, and people with chronic illnesses. These populations, and others living in certain places such as cities, floodplains, and coastlines, are more vulnerable not only to extreme events but also to ongoing, persistent climate-related threats. These threats include poor air quality, heat, drought, flooding, and mental health stress. Over time, the accumulation of these stresses will be increasingly harmful to these populations.
+
+Facebook
+Tweet
+Copy link to clipboard
+Key Message 3: Prevention Provides Protection
+Public health actions, especially preparedness and prevention, can do much to protect people from some of the impacts of climate change. Early action provides the largest health benefits. As threats increase, our ability to adapt to future changes may be limited.
+
+Supporting Evidence
+Facebook
+Tweet
+Copy link to clipboard
+Prevention Provides Protection
+Prevention is a central tenet of public health. Many conditions that are difficult and costly to treat when a patient gets to the doctor could be prevented before they occur at a fraction of the cost. Similarly, many of the larger health impacts associated with climate change can be prevented through early action at significantly lower cost than dealing with them after they occur., Early preventive interventions, such as early warnings for extreme weather, can be particularly cost-effective.,,, As with many illnesses, once impacts are apparent, even the best adaptive efforts can be overwhelmed, and damage control becomes the priority.
+
+Large-Scale Environmental Change Favors Disease Emergence
+Climate change is causing large-scale changes in the environment, increasing the likelihood of the emergence or reemergence of unfamiliar disease threats. Factors include shifting ranges of disease-carrying pests, lack of immunity and preparedness, inadequate disease monitoring, and increasing global travel. Diseases including Lyme disease and dengue fever pose increasing health threats to the U.S. population; the number of U.S. patients hospitalized with dengue fever more than tripled from 2000 to 2007. Although most cases of dengue fever during that time period were acquired outside the contiguous United States, the introduction of infected people into areas where the dengue virus vector is established increases the risk of locally acquired cases. The public health system is not fully prepared to monitor or respond to these growing disease risks. The introduction of new diseases into non-immune populations has been and continues to be a major challenge in public health. There are concerns that climate change may provide opportunities for pathogens to expand or shift their geographic ranges.,,
+
+Activities that reduce carbon pollution often also provide co-benefits in the form of preventive health measures. For example, reliance on cleaner energy sources for electricity productionand more efficient and active transport, like biking or walking, can have immediate public health benefits, through improved air quality and lowered rates of obesity, diabetes, and heart disease. Reducing carbon pollution also reduces long-term adverse climate-health impacts, thus producing cost savings in the near and longer term. Preventing exposures to other climate-sensitive impacts already apparent can similarly result in cost savings. For instance, heat wave early warning systems protect vulnerable groups very effectively and are much less expensive than treating and coping with heat illnesses. Systems that monitor for early outbreaks of disease are also typically much less expensive than treating communities once outbreaks take hold.,,
+
+Effective communication is a fundamental part of prevention. The public must understand risk in order to endorse proactive risk management. The public is familiar with the health risks of smoking, but not so for climate change. When asked about climate change impacts, Americans do not mention health impacts,and when asked about health impacts specifically, most believe it will affect people in a different time or place. But diverse groups of Americans find information on health impacts to be helpful once received, particularly information about the health benefits of mitigation (reducing carbon emissions) and adaptation.
+
+Determining which types of prevention to invest in (such as monitoring, early warning systems, and land-use changes that reduce the impact of heat and floods) depends on several factors, including health problems common to that particular area, vulnerable populations, the preventive health systems already in place, and the expected impacts of climate change. Local capacity to adapt is very important; unfortunately the most vulnerable populations also frequently have limited resources for managing climate-health risks.
+
+Overall, the capacity of the American public health and health care delivery systems faces many challenges. The cost of dealing with current health problems is diverting resources from preventing them in the first place. This makes the U.S. population more vulnerable., Without careful consideration of how to prevent future impacts, similar patterns could emerge regarding the health impacts from climate change. However, efforts to quantify and map vulnerability factors at the community level are underway.,,,
+
+There are public health programs in some locations that address climate-sensitive health issues, and integrating such programs into the mainstream public health toolkit as adaptation needs increase would improve public health resilience to climate change.,,, Given that these programs have demonstrated efficacy against current threats that are expected to worsen with climate change, it is prudent to invest in creating the strongest climate-health preparedness programs possible. One survey highlighted opportunities to address climate change preparedness activities and climate-health research before needs become more widespread. America’s Climate Choices: Adapting to the Impacts of Climate Choices (Table 3.5) provides examples of health adaptation options.
+
+Facebook
+Tweet
+Copy link to clipboard
+Key Message 4: Responses Have Multiple Benefits
+Responding to climate change provides opportunities to improve human health and well-being across many sectors, including energy, agriculture, and transportation. Many of these strategies offer a variety of benefits, protecting people while combating climate change and providing other societal benefits.
+
+Supporting Evidence
+Facebook
+Tweet
+Copy link to clipboard
+Responses Have Multiple Benefits
+Policies and other strategies intended to reduce carbon pollution and mitigate climate change can often have independent influences on human health. For example, reducing CO2 emissions through renewable electrical power generation can reduce air pollutants like particles and sulfur dioxide. Efforts to improve the resiliency of communities and human infrastructure to climate change impacts can also improve human health. There is a growing recognition that the magnitude of health “co-benefits,” like reducing both pollution and cardiovascular disease, could be significant, both from a public health and an economic standpoint.,, Some climate change resilience efforts will benefit health, but potential co-harms should be considered when implementing these strategies. For example, although there are numerous benefits to urban greening, such as reducing the urban heat island effect while simultaneously promoting an active healthy lifestyle,,, the urban planting of certain allergenic pollen producing species could increase human pollen exposure and allergic illness. Increased pollen exposure has been linked to increased emergency department visits related to asthma and wheezing in addition to respiratory allergic illnesses such as allergic rhinitis or hay fever. The selective use of low to moderate pollen-producing species can decrease pollen exposure.
+
+Much of the focus of health co-benefits has been on reducing health-harming air pollution.,,,,,,, One study projects that replacing 50% of short motor vehicle trips with bicycle use and the other 50% with other forms of transportation like walking or public transit would avoid nearly 1,300 deaths in 11 midwestern metropolitan areas and create up to $8 billion in health benefits annually for the upper Midwest region. Such multiple-benefit actions can reduce heat-trapping gas emissions that lead to climate change, improve air quality by reducing vehicle pollutant emissions, and improve fitness and health through increased physical activity.,,,,
+
+Innovative urban design could create increased access to active transport. The compact geographical area found in cities presents opportunities to reduce energy use and emissions of heat-trapping gases and other air pollutants through active transit, improved building construction, provision of services, and infrastructure creation, such as bike paths and sidewalks., Urban planning strategies designed to reduce the urban heat island effect, such as green/cool roofs, increased green space, parkland and urban canopy, could reduce indoor temperatures, improve indoor air quality, and could produce additional societal co-benefits by promoting social interaction and prioritizing vulnerable urban populations.,
+
+couple riding bikes
+©Fotosearch
+Patterns of change related to improving health can also have co-benefits in terms of reducing carbon pollution and mitigating climate change. Current U.S. dietary guidelines and many health professionals have recommended diets higher in fruits and vegetables and lower in red meat as a means of helping to reduce the risk of cardiovascular disease and some cancers.,,,,,,These changes in food consumption, and related changes to food production, could have co-benefits in terms of reducing greenhouse gas emissions. While the greenhouse gas footprint of the production of other foods, compared to sources such as livestock, is highly dependent on a number of factors, production of livestock currently accounts for about 30% of the U.S. total emissions of methane.,,,This amount of methane can be reduced somewhat by recovery methods such as the use of biogas digesters, but future changes in dietary practices, including those motivated by considerations other than climate change mitigation, could also have an effect on the amount of methane emitted to the atmosphere.
+
+In addition to producing health co-benefits, climate change prevention and preparedness measures could also yield positive equity impacts. For example, several studies have found that communities of color and poor communities experience disproportionately high exposures to air pollution.,,,, Climate change mitigation policies that improve local air quality thus have the potential to strongly benefit health in these communities.
+
+An area where adaptation policy could produce more equitable health outcomes is with respect to extreme weather events. As discussed earlier, Hurricane Katrina demonstrated that communities of color, poor communities, and certain other vulnerable populations (like new immigrant communities) are at a higher risk to the adverse effects of extreme weather events.,, These vulnerable populations could benefit from urban planning policies that ensure that new buildings, including homes, are constructed to resist extreme weather events.
+
+Facebook
+Tweet
+Copy link to clipboard
+NEXT: ENERGY, WATER, AND LAND
+References
+,, 2007: Global climate change and children's health. Pediatrics, 120, 1149-1152, doi:10.1542/peds.2007-2645. URL | Detail ↩
+
+Ahern, M., R. S. Kovats, P. Wilkinson, R. Few, and F. Matthies, 2005: Global health impacts of floods: Epidemiologic evidence. Epidemiologic Reviews, 27, 36-46, doi:10.1093/epirev/mxi004. | Detail ↩
+
+Akagi, S. K., R. J. Yokelson, C. Wiedinmyer, M. Alvarado, J. Reid, T. Karl, J. Crounse, and P. Wennberg, 2011: Emission factors for open and domestic biomass burning for use in atmospheric models. Atmospheric Chemistry and Physics, 11, 4039-4072, doi:10.5194/acp-11-4039-2011. URL | Detail ↩
+
+Akinbami, L. J., J. E. Moorman, and X. Liu, 2011: Asthma Prevalence, Health Care Use, and Mortality: United States, 2005–2009. National health statistics reports. Number 32. National Center for Health Statistics, Hyattsville, MD. URL | Detail ↩
+
+Akinbami, L. J., J. E. Moorman, C. Bailey, H. S. Zahran, M. King, C. A. Johnson, and X. Liu, 2012: Trends in Asthma Prevalence, Health Care Use, and Mortality in the United States, 2001–2010. NCHS Data Brief. No. 94, May 2012. National Center for Health Statistics, Hyattsville, MD. URL | Detail ↩
+
+Anderson, B. G., and M. L. Bell, 2009: Weather-related mortality: How heat, cold, and heat waves affect mortality in the United States. Epidemiology, 20, 205-213, doi:10.1097/EDE.0b013e318190ee08. | Detail ↩
+
+G. Anderson, B., J. R. Krall, R. D. Peng, and M. L. Bell, 2012: Is the relation between ozone and mortality confounded by chemical components of particulate matter? Analysis of 7 components in 57 US communities. American Journal of Epidemiology, 176, 726-732, doi:10.1093/aje/kws188. URL | Detail ↩
+
+Anderson, G. B., and M. L. Bell, 2011: Heat waves in the United States: Mortality risk during heat waves and effect modification by heat wave characteristics in 43 U.S. communities. Environmental Health Perspectives, 119, 210-218, doi:10.1289/ehp.1002313. | Detail ↩
+
+Anderson, G. B., and M. L. Bell, 2012: Lights out: Impact of the August 2003 power outage on mortality in New York, NY. Epidemiology, 23, 189-193, doi:10.1097/EDE.0b013e318245c61c. | Detail ↩
+
+Anyamba, A., K. J. Linthicum, J. L. Small, K. M. Collins, C. J. Tucker, E. W. Pak, S. C. Britch, J. R. Eastman, J. E. Pinzon, and K. L. Russell, 2012: Climate teleconnections and recent patterns of human and animal disease outbreaks. PLoS Neglected Tropical Diseases, 6, e1465, doi:10.1371/journal.pntd.0001465. | Detail ↩
+
+Ariano, R., G. W. Canonica, and G. Passalacqua, 2010: Possible role of climate changes in variations in pollen seasons and allergic sensitizations during 27 years. Annals of Allergy, Asthma & Immunology, 104, 215-222, doi:10.1016/j.anai.2009.12.005. | Detail ↩
+
+Ash, M., J. Boyce, G. Chang, J. Scoggins, and M. Pastor, 2009: Justice in the Air: Tracking Toxic Pollution from America's Industries and Companies to Our States, Cities, and Neighborhoods. Political Economy Research Institute. | Detail ↩
+
+Ashley, S. T., and W. S. Ashley, 2008: Flood fatalities in the United States. Journal of Applied Meteorology and Climatology, 47, 805-818, doi:10.1175/2007JAMX1611.1. URL | Detail ↩
+
+Asseng, S., I. Foster, and N. C. Turner, 2011: The impact of temperature variability on wheat yields. Global Change Biology, 17, 997-1012, doi:10.1111/j.1365-2486.2010.02262.x. | Detail ↩
+
+Backer, L. C., and S. K. Moore, 2011: Harmful algal blooms: Future threats in a warmer world. Environmental Pollution and Its Relation to Climate Change, A. El-Nemr, Ed., Nova Science Pub. | Detail ↩
+
+Backer, L. C., L. E. Fleming, A. Rowan, Y. S. Cheng, J. Benson, R. H. Pierce, J. Zaias, J. Bean, G. D. Bossart, D. Johnson, R. Quimbo, and D. G. Baden, 2003: Recreational exposure to aerosolized brevetoxins during Florida red tide events. Harmful Algae, 2, 19-28, doi:10.1016/s1568-9883(03)00005-2. | Detail ↩
+
+Backer, L. C., B. Kirkpatrick, L. E. Fleming, Y. S. Cheng, R. Pierce, J. A. Bean, R. Clark, D. Johnson, A. Wanner, R. Tamer, Y. Zhou, and D. G. Baden, 2005: Occupational exposure to aerosolized brevetoxins during Florida red tide events: Effects on a healthy worker population. Environmental Health Perspectives, 113, 644-649, doi:10.1289/ehp.7502. | Detail ↩
+
+Backer, L. C., S. V. McNeel, T. Barber, B. Kirkpatrick, C. Williams, M. Irvin, Y. Zhou, T. B. Johnson, K. Nierenberg, M. Aubel, R. Le Prell, A. Chapman, A. Foss, S. Corum, V. R. Hill, S. M. Kiezak, and Y. - S. Cheng, 2010: Recreational exposure to microcystins during algal blooms in two California lakes. Toxicon, 55, 909-921, doi:10.1016/j.toxicon.2009.07.006. | Detail ↩
+
+Bailey, S. W., 2004: Climate change and decreasing herbicide persistence. Pest Management Science, 60, 158-162, doi:10.1002/ps.785. | Detail ↩
+
+Baker-Austin, C., J. A. Trinanes, N. G. H. Taylor, R. Hartnell, A. Siitonen, and J. Martinez-Urtaza, 2012: Emerging Vibrio risk at high latitudes in response to ocean warming. Nature Climate Change, 3, 73-77, doi:10.1038/nclimate1628. | Detail ↩
+
+Balbus, J. M., and C. Malina, 2009: Identifying vulnerable subpopulations for climate change health effects in the United States. Journal of Occupational and Environmental Medicine, 51, 33-37, doi:10.1097/JOM.0b013e318193e12e. | Detail ↩
+
+Bambrick, H. J., A. G. Capon, G. B. Barnett, R. M. Beaty, and A. J. Burton, 2011: Climate change and health in the urban environment: Adaptation opportunities in Australian cities. Asia-Pacific Journal of Public Health, 23, 67S-79S, doi:10.1177/1010539510391774. | Detail ↩
+
+Barnett, A. G., S. Hajat, A. Gasparrini, and J. Rocklöv, 2012: Cold and heat waves in the United States. Environmental Research, 112, 218-224, doi:10.1016/j.envres.2011.12.010. | Detail ↩
+
+Barnett, A. G., 2007: Temperature and cardiovascular deaths in the US elderly: Changes over time. Epidemiology, 18, 369-372, doi:10.1097/01.ede.00002575.15.34445.a0. | Detail ↩
+
+Barriopedro, D., E. M. Fischer, J. Luterbacher, R. M. Trigo, and R. García-Herrera, 2011: The hot summer of 2010: Redrawing the temperature record map of Europe. Science, 332, 220-224, doi:10.1126/science.1201224. | Detail ↩
+
+Basu, R., 2009: High ambient temperature and mortality: A review of epidemiologic studies from 2001 to 2008. Environmental Health, 8, 1-13, doi:10.1186/1476-069X-8-40. | Detail ↩
+
+Basu, R., and J. M. Samet, 2002: Relation between elevated ambient temperature and mortality: A review of the epidemiologic evidence. Epidemiologic Reviews, 24, 190-202, doi:10.1093/epirev/mxf007. | Detail ↩
+
+Battisti, D. S., and R. L. Naylor, 2009: Historical warnings of future food insecurity with unprecedented seasonal heat. Science, 323, 240-244, doi:10.1126/science.1164363. | Detail ↩
+
+Bedsworth, L., 2009: Preparing for climate change: A perspective from local public health officers in California. Environmental Health Perspectives, 117, 617-623, doi:10.1289/ehp.0800114. URL | Detail ↩
+
+Bell, M., D. Davis, L. Cifuentes, A. Krupnick, R. Morgenstern, and G. Thurston, 2008: Ancillary human health benefits of improved air quality resulting from climate change mitigation. Environmental Health, 7, 1-18, doi:10.1186/1476-069x-7-41. | Detail ↩
+
+Bell, M. L., R. Goldberg, C. Hogrefe, P. L. Kinney, K. Knowlton, B. Lynn, J. Rosenthal, C. Rosenzweig, and J. A. Patz, 2007: Climate change, ambient ozone, and health in 50 US cities. Climatic Change, 82, 61-76, doi:10.1007/s10584-006-9166-7. | Detail ↩
+
+Berry, H. L., K. Bowen, and T. Kjellstrom, 2010: Climate change and mental health: A causal pathways framework. International Journal of Public Health, 55, 123-132, doi:10.1007/s00038-009-0112-0. | Detail ↩
+
+Berry, H. L., B. J. Kelly, I. C. Hanigan, J. H. Coates, A. J. McMichael, J. A. Welsh, and T. Kjellstrom, 2008: Rural Mental Health Impacts of Climate Change. 40 pp., Garnaut Climate Change Review. URL $File/03-D%20Mental%20health.pdf | Detail ↩
+
+Blank, R. M., 2001: An Overview of Trends in Social and Economic Well-Being, by Race. America Becoming: Racial Trends and Their Consequences, Volume 1, N.J. Smelser, Wilson, W.Julius, and Mitchell, F., Eds., Commission on Behavioral and Social Sciences and Education, National Research Council, National Academy Press, The National Academies Press, 21-39. URL | Detail ↩
+
+Bloem, M. W., R. D. Semba, and K. Kraemer, 2010: Castel Gandolfo Workshop: An introduction to the impact of climate change, the economic crisis, and the increase in the food prices on malnutrition. The Journal of Nutrition, 140, 132S-135S, doi:10.3945/jn.109.112094. | Detail ↩
+
+Bouchama, A., M. Dehbi, G. Mohamed, F. Matthies, M. Shoukri, and B. Menne, 2007: Prognostic factors in heat wave related deaths: A meta-analysis. Archives of Internal Medicine, 167, 2170-2176, doi:10.1001/archinte.167.20.ira70009. | Detail ↩
+
+Breton, M. C., M. Garneau, I. Fortier, F. Guay, and J. Louis, 2006: Relationship between climate, pollen concentrations of Ambrosia and medical consultations for allergic rhinitis in Montreal, 1994–2002. Science of The Total Environment, 370, 39-50, doi:10.1016/j.scitotenv.2006.05.022. | Detail ↩
+
+Brown, M. E., and C. C. Funk, 2008: Food security under climate change. Science, 319, 580-581, doi:10.1126/science.1154102. | Detail ↩
+
+Brownstein, J. S., T. R. Holford, and D. Fish, 2005: Effect of climate change on Lyme disease risk in North America. EcoHealth, 2, 38-46, doi:10.1007/s10393-004-0139-x. | Detail ↩
+
+Brubaker, M., J. Berner, R. Chavan, and J. Warren, 2011: Climate change and health effects in Northwest Alaska. Global Health Action, 4, 1-5, doi:10.3402/gha.v4i0.8445. URL | Detail ↩
+
+Brunkard, J., G. Namulanda, and R. Ratard, 2008: Hurricane Katrina deaths, Louisiana, 2005. Disaster Medicine and Public Health Preparedness, 2, 215-223, doi:10.1097/DMP.0b013e31818aaf55. | Detail ↩
+
+Bulbena, A., L. Sperry, and J. Cunillera, 2006: Psychiatric effects of heat waves. Psychiatric Services, 57, 1519-1519. | Detail ↩
+
+Bullard, R., and B. Wright, 2009: Race, Place, and Environmental Justice After Hurricane Katrina, Struggles to Reclaim Rebuild, and Revitalize New Orleans and the Gulf Coast. Westview Press, 312 pp. | Detail ↩
+
+Bullard, R., and B. Wright, 2009: Ch. 1: Race, place, and the environment in post-Katrina New Orleans. Race, Place, and Environmental Justice After Hurricane Katrina, Struggles to Reclaim Rebuild, and Revitalize New Orleans and the Gulf Coast, R. Bullard and Wright, B., Eds., Westview Press, 1-47. | Detail ↩
+
+Bullard, R., and B. Wright, 2009: Introduction. Race, Place, and Environmental Justice After Hurricane Katrina, Struggles to Reclaim Rebuild, and Revitalize New Orleans and the Gulf Coast, R. Bullard and Wright, B., Eds., Westview Press, 1-15. | Detail ↩
+
+Bullard, R. D., G. S. Johnson, and A. O. Torres, 2011: Environmental Health and Racial Equity in the United States, Building Environmentally Just, Sustainable and Livable Communities. American Public Health Association Press, 359 pp. | Detail ↩
+
+Cariñanos, P., and M. Casares-Porcel, 2011: Urban green zones and related pollen allergy: A review. Some guidelines for designing spaces with low allergy impact. Landscape and Urban Planning, 101, 205-214, doi:10.1016/j.landurbplan.2011.03.006. | Detail ↩
+
+,, 1998: Outbreak of Vibrio parahaemolyticus infections associated with eating raw oysters-Pacific Northwest, 1997. Centers for Disease Control and Prevention. Morbidity and Mortality Weekly Report, 47, 457-462. URL | Detail ↩
+
+,, 2010: When Every Drop Counts: Protecting Public Health During Drought Conditions—A Guide for Public Health Professionals. 56 pp., Centers for Disease Control and Prevention, U.S. Environmental Protection Agency, National Oceanic and Atmospheric Agency, and American Water Works Association, Atlanta, GA. URL | Detail ↩
+
+,, 2010: Rocky Mountain Spotted Fever. Centers for Disease Control and Prevention. URL | Detail ↩
+
+,, 2012: Heat-related deaths after an extreme heat event — four states, 2012, and United States, 1999–2009. Centers for Disease Control and Prevention. Morbidity and Mortality Weekly Report, 62, 433-436. URL | Detail ↩
+
+,, 2013: Interactive Lyme Disease Map. Centers for Disease Control and Prevention. URL | Detail ↩
+
+,, 2013: Diabetes Data & Trends. CDC’s Division of Diabetes Translation, National Diabetes Surveillance System. URL | Detail ↩
+
+,, 2010: Cumulative Impacts: Building a Scientific Foundation. 69 pp., California Environmental Protection Agency, Office of Environmental Health Hazard Assessment. URL | Detail ↩
+
+Chakraborty, S., and A. C. Newton, 2011: Climate change, plant diseases and food security: An overview. Plant Pathology, 60, 2-14, doi:10.1111/j.1365-3059.2010.02411.x. | Detail ↩
+
+Chang, H. H., J. Zhou, and M. Fuentes, 2010: Impact of climate change on ambient ozone level and mortality in southeastern United States. International Journal of Environmental Research and Public Health, 7, 2866-2880, doi:10.3390/ijerph7072866. | Detail ↩
+
+Chokshi, D. A., and T. A. Farley, 2012: The cost-effectiveness of environmental approaches to disease prevention. New England Journal of Medicine, 367, 295-297, doi:10.1056/NEJMp1206268. | Detail ↩
+
+Chou, W. C., J. L. Wu, Y. C. Wang, H. Huang, F. C. Sung, and C. Y. Chuang, 2010: Modeling the impact of climate variability on diarrhea-associated diseases in Taiwan. Science of The Total Environment, 409, 43-51, doi:10.1016/j.scitotenv.2010.09.001. | Detail ↩
+
+Cohen, M. J., C. Tirado, N. - L. Aberman, and B. Thompson, 2008: Impact of climate change and bioenergy on nutrition. 86 pp., International Food Policy Research Institute, Food and Agriculture Organization of the United Nations. URL | Detail ↩
+
+Comrie, A. C., 2005: Climate factors influencing coccidioidomycosis seasonality and outbreaks. Environmental Health Perspectives, 113, 688, doi:10.1289/ehp.7786. URL | Detail ↩
+
+Curriero, F. C., J. A. Patz, J. B. Rose, and S. Lele, 2001: The association between extreme precipitation and waterborne disease outbreaks in the United States, 1948–1994. American Journal of Public Health, 91, 1194-1199, doi:10.2105/AJPH.91.8.1194. | Detail ↩
+
+Darrow, L. A., J. Hess, C. A. Rogers, P. E. Tolbert, M. Klein, and S. E. Sarnat, 2012: Ambient pollen concentrations and emergency department visits for asthma and wheeze. Journal of Allergy and Clinical Immunology, 130, 630-638.e4, doi:10.1016/j.jaci.2012.06.020. | Detail ↩
+
+Davidson, J. R. T., and A. C. McFarlane, 2006: The extent and impact of mental health problems after disaster. Journal of Clinical Psychiatry, 67, 9-14. | Detail ↩
+
+Degallier, N., C. Favier, C. Menkes, M. Lengaigne, W. M. Ramalho, R. Souza, J. Servain, and J. P. Boulanger, 2010: Toward an early warning system for dengue prevention: Modeling climate impact on dengue transmission. Climatic Change, 98, 581-592, doi:10.1007/s10584-009-9747-3. URL | Detail ↩
+
+Deisenhammer, E. A., 2003: Weather and suicide: The present state of knowledge on the association of meteorological factors with suicidal behaviour. Acta Psychiatrica Scandinavica, 108, 402-409, doi:10.1046/j.0001-690X.2003.00209.x. | Detail ↩
+
+Delfino, R. J., S. Brummel, J. Wu, H. Stern, B. Ostro, M. Lipsett, A. Winer, D. H. Street, L. Zhang, T. Tjoa, and D. L. Gillen, 2009: The relationship of respiratory and cardiovascular hospital admissions to the southern California wildfires of 2003. Occupational and Environmental Medicine, 66, 189-197, doi:10.1136/oem.2008.041376. [URL | Detail ↩
+
+Dennekamp, M., and M. Carey, 2010: Air quality and chronic disease: Why action on climate change is also good for health. New South Wales Public Health Bulletin, 21, 115-121, doi:10.1071/NB10026. URL | Detail ↩
+
+Dennekamp, M., and M. J. Abramson, 2011: The effects of bushfire smoke on respiratory health. Respirology, 16, 198-209, doi:10.1111/j.1440-1843.2010.01868.x. | Detail ↩
+
+Derksen, D. J., and E. M. Whelan, 2009: Closing the Health Care Workforce Gap: Reforming Federal Health Care Workforce Policies to Meet the Needs of the 21st Century. Center for American Progress. URL | Detail ↩
+
+Diuk-Wasser, M. A., G. Vourc’h, P. Cislo, A. G. Hoen, F. Melton, S. A. Hamer, M. Rowland, R. Cortinas, G. J. Hickling, J. I. Tsao, A. G. Barbour, U. Kitron, J. Piesman, and D. Fish, 2010: Field and climate-based model for predicting the density of host-seeking nymphal Ixodes scapularis, an important vector of tick-borne disease agents in the eastern United States. Global Ecology and Biogeography, 19, 504-514, doi:10.1111/j.1466-8238.2010.00526.x. | Detail ↩
+
+Doherty, T. J., and S. Clayton, 2011: The psychological impacts of global climate change. American Psychologist, 66, 265-276, doi:10.1037/a0023141. URL | Detail ↩
+
+Drewnowski, A., 2009: Obesity, diets, and social inequalities. Nutrition Reviews, 67, S36-S39, doi:10.1111/j.1753-4887.2009.00157.x. | Detail ↩
+
+Duffy, P. B., and C. Tebaldi, 2012: Increasing prevalence of extreme summer temperatures in the U.S. Climatic Change, 111, 487-495, doi:10.1007/s10584-012-0396-6. | Detail ↩
+
+Dwibedi, B., J. Sabat, N. Mahapatra, S. K. Kar, A. S. Kerketta, R. K. Hazra, S. K. Parida, N. S. Marai, and M. K. Beuria, 2011: Rapid spread of chikungunya virus infection in Orissa: India. The Indian Journal of Medical Research, 133, 316-321. URL | Detail ↩
+
+D’amato, G., and L. Cecchi, 2008: Effects of climate change on environmental factors in respiratory allergic diseases. Clinical & Experimental Allergy, 38, 1264-1274, doi:10.1111/j.1365-2222.2008.03033.x. | Detail ↩
+
+D’amato, G., L. Cecchi, M. D'amato, and G. Liccardi, 2010: Urban air pollution and climate change as environmental risk factors of respiratory allergy: An update. Journal of Investigational Allergology and Clinical Immunology, 20, 95-102. | Detail ↩
+
+Ebi, K., T. Teisberg, L. Kalkstein, L. Robinson, and R. Weiher, 2003: Heat watch/warning systems save lives: Estimated costs and benefits for Philadelphia 1995-1998: ISEE-165. Epidemiology, 14, S35. | Detail ↩
+
+Ebi, K. L., and J. C. Semenza, 2008: Community-based adaptation to the health impacts of climate change. American Journal of Preventive Medicine, 35, 501-507, doi:10.1016/j.amepre.2008.08.018. | Detail ↩
+
+Ebi, K. L., and G. McGregor, 2008: Climate change, tropospheric ozone and particulate matter, and health impacts. Environmental Health Perspectives, 116, 1449-1455, doi:10.1289/ehp.11463. URL | Detail ↩
+
+Ebi, K. L., R. S. Kovats, and B. Menne, 2006: An approach for assessing human health vulnerability and public health interventions to adapt to climate change. Environmental Health Perspectives, 114, 1930-1934, doi:10.1289/ehp.8430. URL | Detail ↩
+
+Ebi, K. L., J. Balbus, P. L. Kinney, E. Lipp, D. Mills, M. S. O’Neill, and M. L. Wilson, 2009: US funding is insufficient to address the human health impacts of and public health responses to climate variability and change. Environmental Health Perspectives, 117, 857-862, doi:10.1289/ehp.0800088. URL | Detail ↩
+
+,, 2012: Assessing the potential impacts of climate change on food- and waterborne diseases in Europe. European Centre for Disease Prevention and Control, Stockholm. URL | Detail ↩
+
+Elliott, C., S. Henderson, and V. Wan, 2013: Time series analysis of fine particulate matter and asthma reliever dispensations in populations affected by forest fires. Environmental Health, 12, 11, doi:10.1186/1476-069X-12-11. URL | Detail ↩
+
+Emberlin, J., M. Detandt, R. Gehrig, S. Jaeger, N. Nolard, and A. Rantio-Lehtimäki, 2002: Responses in the start of Betula (birch) pollen seasons to recent changes in spring temperatures across Europe. International Journal of Biometeorology, 46, 159-170, doi:10.1007/s00484-002-0139-x. | Detail ↩
+
+,, 2008: Review of the Impact of Climate Variability and Change on Aeroallergens and Their Associated Effects. EPA/600/R-06/164F. 125 pp., U.S. Environmental Protection Agency, Washington, D.C. URL | Detail ↩
+
+,, 2009: Assessment of the Impacts of Global Change on Regional U.S. Air Quality: A Synthesis of Climate Change Impacts on Ground-Level Ozone. An Interim Report of the U.S. EPA Global Change Research Program. 131 pp., U.S. Environmental Protection Agency, National Center for Environmental Assessment, Office of Research and Development, Washington, D.C. URL | Detail ↩
+
+,, 2012: EPA and NHTSA Set Standards to Reduce Greenhouse Gases and Improve Fuel Economy for Model Years 2017-2025 Cars and Light Trucks. EPA-420-F-12-051. 10 pp., U.S. Environmental Protection Office, Office of Transportation and Air Quality, Washington, D.C. URL | Detail ↩
+
+,, 2013: Inventory of US Greenhouse Gas Emissions and Sinks: 1990-2011. U.S. Environmental Protection Agency, Washington, D.C. URL | Detail ↩
+
+Epstein, P., 2010: The ecology of climate change and infectious diseases: Comment. Ecology, 91, 925-928, doi:10.1890/09-0761.1. | Detail ↩
+
+Febriani, Y., P. Levallois, S. Gingras, P. Gosselin, S. E. Majowicz, and M. D. Fleury, 2010: The association between farming activities, precipitation, and the risk of acute gastrointestinal illness in rural municipalities of Quebec, Canada: A cross-sectional study. BMC Public Health, 10, 48, doi:10.1186/1471-2458-10-48. URL | Detail ↩
+
+Fewtrell, L., and D. Kay, 2008: An attempt to quantify the health impacts of flooding in the UK using an urban case study. Public Health, 122, 446-451, doi:10.1016/j.puhe.2007.09.010. | Detail ↩
+
+Fiore, A. M. et al., 2012: Global air quality and climate. Chemical Society Reviews, 41, 6663-6683, doi:10.1039/c2cs35095e. | Detail ↩
+
+Fisk, W. J., Q. Lei-Gomez, and M. J. Mendell, 2007: Meta-analyses of the associations of respiratory health effects with dampness and mold in homes. Indoor Air, 17, 284-296, doi:10.1111/j.1600-0668.2007.00475.x. URL | Detail ↩
+
+Fleury, M., D. F. Charron, J. D. Holt, O. B. Allen, and A. R. Maarouf, 2006: A time series analysis of the relationship of ambient temperature and common bacterial enteric infections in two Canadian provinces. International Journal of Biometeorology, 50, 385-91, doi:10.1007/s00484-006-0028-9. | Detail ↩
+
+Franks, S. J., S. Sim, and A. E. Weis, 2007: Rapid evolution of flowering time by an annual plant in response to a climate fluctuation. Proceedings of the National Academy of Sciences, 104, 1278-1282, doi:10.1073/pnas.0608379104. URL | Detail ↩
+
+Friel, S., 2010: Climate change, food insecurity and chronic diseases: Sustainable and healthy policy opportunities for Australia. New South Wales Public Health Bulletin, 21, 129-133, doi:10.1071/NB10019. URL | Detail ↩
+
+Friel, S., A. D. Dangour, T. Garnett, K. Lock, Z. Chalabi, I. Roberts, A. Butler, C. D. Butler, J. Waage, A. J. McMichael, and A. Haines, 2009: Public health benefits of strategies to reduce greenhouse-gas emissions: Food and agriculture. The Lancet, 374, 2016-2025, doi:10.1016/S0140-6736(09)61753-. URL | Detail ↩
+
+Fritze, J. G., G. A. Blashki, S. Burke, and J. Wiseman, 2008: Hope, despair and transformation: Climate change and the promotion of mental health and wellbeing. International Journal of Mental Health Systems, 2, 1-13, doi:10.1186/1752-4458-2-13. | Detail ↩
+
+Frumkin, H., J. Hess, G. Luber, J. Malilay, and M. McGeehin, 2008: Climate change: The public health response. American Journal of Public Health, 98, 435-445, doi:10.2105/AJPH.2007.119362. URL | Detail ↩
+
+Fryar, C. D., M. D. Carroll, and C. L. Ogden, 2012: Health E-Stat: Prevalence of Obesity Among Children and Adolescents: United States, Trends 1963-1965 Through 2009-2010. 6 pp., National Center for Health Statistics, Centers for Disease Control and Prevention. URL | Detail ↩
+
+Gage, K. L., T. R. Burkot, R. J. Eisen, and E. B. Hayes, 2008: Climate and vectorborne diseases. American Journal of Preventive Medicine, 35, 436-450, doi:10.1016/j.amepre.2008.08.030. | Detail ↩
+
+Galea, S., C. R. Brewin, M. Gruber, R. T. Jones, D. W. King, L. A. King, R. J. McNally, R. J. Ursano, M. Petukhova, and R. C. Kessler, 2007: Exposure to hurricane-related stressors and mental illness after Hurricane Katrina. Archives of General Psychiatry, 64, 1427-1434, doi:10.1001/archpsyc.64.12.1427. URL | Detail ↩
+
+Garrett, K. A., S. P. Dendy, E. E. Frank, M. N. Rouse, and S. E. Travers, 2006: Climate change effects on plant disease: Genomes to ecosystems. Annual Review Phytopathology, 44, 489-509, doi:10.1146/annurev.phyto.44.070505.143420. | Detail ↩
+
+Geronimus, A. T., J. Bound, T. A. Waidmann, M. M. Hillemeier, and P. B. Burns, 1996: Excess mortality among blacks and whites in the United States. New England Journal of Medicine, 335, 1552-1558, doi:10.1056/NEJM199611213352102. URL | Detail ↩
+
+Glibert, P. M., D. M. Anderson, P. Gentien, E. Graneli, and K. G. Sellner, 2005: The global, complex phenomena of harmful algal blooms. Oceanography, 18, 136-147, doi:10.5670/oceanog.2005.49. URL | Detail ↩
+
+Gong, H., A. T. DeGaetano, and L. C. Harrington, 2011: Climate-based models for West Nile Culex mosquito vectors in the Northeastern U.S. International Journal of Biometeorology, 55, 435-446, doi:10.1007/s00484-010-0354-9. | Detail ↩
+
+Gornall, J., R. Betts, E. Burke, R. Clark, J. Camp, K. Willett, and A. Wiltshire, 2010: Implications of climate change for agricultural productivity in the early twenty-first century. Philosophical Transactions of the Royal Society B: Biological Sciences, 365, 2973-2989, doi:10.1098/rstb.2010.0158. URL | Detail ↩
+
+Grabow, M. L., S. N. Spak, T. Holloway, B. Stone, Jr., A. C. Mednick, and J. A. Patz, 2012: Air quality and exercise-related health benefits from reduced car travel in the midwestern United States. Environmental Health Perspectives, 120, 68-76, doi:10.1289/ehp.1103440. URL | Detail ↩
+
+Grammer, L. C., and P. A. Greenberger, 2009: Patterson's Allergic Diseases, 7th Ed. 7 ed., Wolters Kluwer Health. | Detail ↩
+
+Greene, S., L. S. Kalkstein, D. M. Mills, and J. Samenow, 2011: An examination of climate change on extreme heat events and climate–mortality relationships in large U.S. cities. Weather, Climate, and Society, 3, 281-292, doi:10.1175/WCAS-D-11-00055.1. URL | Detail ↩
+
+Gregory, P. J., J. S. I. Ingram, and M. Brklacich, 2005: Climate change and food security. Philosophical Transactions of the Royal Society B: Biological Sciences, 360, 2139-2148, doi:10.1098/rstb.2005.1745. URL | Detail ↩
+
+Gregory, P. J., S. N. Johnson, A. C. Newton, and J. S. I. Ingram, 2009: Integrating pests and pathogens into the climate change/food security debate. Journal of Experimental Botany, 60, 2827-2838, doi:10.1093/jxb/erp080. URL | Detail ↩
+
+Haines, A., K. R. Smith, D. Anderson, P. R. Epstein, A. J. McMichael, I. Roberts, P. Wilkinson, J. Woodcock, and J. Woods, 2007: Policies for accelerating access to clean energy, improving health, advancing development, and mitigating climate change. The Lancet, 370, 1264-1281, doi:10.1016/S0140-6736(07)61257-4. | Detail ↩
+
+Haines, A., A. J. McMichael, K. R. Smith, I. Roberts, J. Woodcock, A. Markandya, B. G. Armstrong, D. Campbell-Lendrum, A. D. Dangour, M. Davies, N. Bruce, C. Tonne, M. Barrett, and P. Wilkinson, 2009: Public health benefits of strategies to reduce greenhouse-gas emissions: Overview and implications for policy makers. The Lancet, 374, 2104-2114, doi:10.1016/s0140-6736(09)61759-1. URL | Detail ↩
+
+Hajat, S., and T. Kosatky, 2010: Heat-related mortality: A review and exploration of heterogeneity. Journal of Epidemiology & Community Health, 64, 753-760, doi:10.1136/jech.2009.087999. URL | Detail ↩
+
+Hajat, S., S. C. Sheridan, M. J. Allen, M. Pascal, K. Laaidi, A. Yagouti, U. Bickis, A. Tobias, D. Bourque, B. G. Armstrong, and T. Kosatsky, 2010: Heat–health warning systems: A comparison of the predictive capacity of different approaches to identifying dangerously hot days. American Journal of Public Health, 100, 1137-1144, doi:10.2105/ajph.2009.169748. URL | Detail ↩
+
+Hall, G. V., I. C. Hanigan, K. B. G. Dear, and H. Vally, 2011: The influence of weather on community gastroenteritis in Australia. Epidemiology and Infection, 139, 927-36, doi:10.1017/s0950268810001901. | Detail ↩
+
+Halpern, J., and M. Tramontin, 2007: Disaster Mental Health: Theory and Practice. Thomson Brooks/Cole. | Detail ↩
+
+Hansen, A., P. Bi, M. Nitschke, P. Ryan, D. Pisaniello, and G. Tucker, 2008: The effect of heat waves on mental health in a temperate Australian city. Environmental Health Perspectives, 116, 1369-1375, doi:10.1289/ehp.11339. URL | Detail ↩
+
+Harlan, S. L., A. J. Brazel, L. Prashad, W. L. Stefanov, and L. Larsen, 2006: Neighborhood microclimates and vulnerability to heat stress. Social Science & Medicine, 63, 2847-2863, doi:10.1016/j.socscimed.2006.07.030. | Detail ↩
+
+Harper, S. L., V. L. Edge, C. J. Schuster-Wallace, O. Berke, and S. A. McEwen, 2011: Weather, water quality and infectious gastrointestinal illness in two Inuit communities in Nunatsiavut, Canada: Potential implications for climate change. Ecohealth, 8, 93-108, doi:10.1007/s10393-011-0690-1. | Detail ↩
+
+Harville, E. W., X. Xiong, and P. Buekens, 2009: Hurricane Katrina and perinatal health. Birth, 36, 325-331, doi:10.1111/j.1523-536X.2009.00360.x. URL | Detail ↩
+
+Hayhoe, K., S. Sheridan, L. Kalkstein, and S. Greene, 2010: Climate change, heat waves, and mortality projections for Chicago. Journal of Great Lakes Research, 36, 65-73, doi:10.1016/j.jglr.2009.12.009. URL | Detail ↩
+
+Henderson, S. B., M. Brauer, Y. C. Macnab, and S. M. Kennedy, 2011: Three measures of forest fire smoke exposure and their associations with respiratory and cardiovascular health outcomes in a population-based cohort. Environmental Health Perspectives, 119, 1266-1271, doi:10.1289/ehp.1002288. URL | Detail ↩
+
+Hertel, T. W., and S. D. Rosch, 2010: Climate change, agriculture, and poverty. Applied Economic Perspectives and Policy, 32, 355-385, doi:10.1093/aepp/ppq016. | Detail ↩
+
+Hess, J. J., J. Z. McDowell, and G. Luber, 2012: Integrating climate change adaptation into public health practice: Using adaptive management to increase adaptive capacity and build resilience. Environmental Health Perspectives, 120, 171-179, doi:10.1289/ehp.1103515. URL | Detail ↩
+
+Hoegh-Guldberg, O., and J. F. Bruno, 2010: The impact of climate change on the world’s marine ecosystems. Science, 328, 1523-1528, doi:10.1126/science.1189930. | Detail ↩
+
+Hoffmann, I., 2010: Climate change and the characterization, breeding and conservation of animal genetic resources. Animal Genetics, 41, 32-46, doi:10.1111/j.1365-2052.2010.02043.x. URL | Detail ↩
+
+Holstius, D. M., C. E. Reid, B. M. Jesdale, and R. Morello-Frosch, 2012: Birth weight following pregnancy during the 2003 southern California wildfires. Environmental Health Perspectives, 120, 1340-1345, doi:10.1289/ehp.110451. URL | Detail ↩
+
+Hsia, R. Y., A. L. Kellermann, and Y. - C. Shen, 2011: Factors associated with closures of emergency departments in the United States. JAMA: The Journal of the American Medical Association, 305, 1978-1985, doi:10.1001/jama.2011.620. URL | Detail ↩
+
+Hu, W., S. Tong, K. Mengersen, and D. Connell, 2007: Weather variability and the incidence of cryptosporidiosis: Comparison of time series Poisson regression and SARIMA models. Annals of Epidemiology, 17, 679-688, doi:10.1016/j.annepidem.2007.03.020. | Detail ↩
+
+Hu, W., K. Mengersen, S. - Y. Fu, and S. Tong, 2010: The use of ZIP and CART to model cryptosporidiosis in relation to climatic variables. International Journal of Biometeorology, 54, 433-440, doi:10.1007/s00484-009-0294-4. | Detail ↩
+
+Huang, C., A. G. Barnett, X. Wang, and S. Tong, 2012: The impact of temperature on years of life lost in Brisbane, Australia. Nature Climate Change, 2, 265-270, doi:10.1038/nclimate1369. | Detail ↩
+
+Huang, C., A. Gerard Barnett, X. Wang, P. Vaneckova, G. FitzGerald, and S. Tong, 2011: Projecting future heat-related mortality under climate change scenarios: A systematic review. Environmental Health Perspectives, 119, 1681-1690, doi:10.1289/Ehp.1103456. URL | Detail ↩
+
+Högy, P., and A. Fangmeier, 2008: Effects of elevated atmospheric CO2 on grain quality of wheat. Journal of Cereal Science, 48, 580-591, doi:10.1016/j.jcs.2008.01.006. | Detail ↩
+
+Högy, P., H. Wieser, P. Köhler, K. Schwadorf, J. Breuer, M. Erbs, S. Weber, and A. Fangmeier, 2009: Does elevated atmospheric CO2 allow for sufficient wheat grain quality in the future? Journal of Applied Botany and Food Quality, 82, 114-121. | Detail ↩
+
+Idso, S. B., and K. E. Idso, 2001: Effects of atmospheric CO2 enrichment on plant constituents related to animal and human health. Environmental and Experimental Botany, 45, 179-199, doi:10.1016/S0098-8472(00)00091-5. | Detail ↩
+
+,, 2011: Climate Change, the Indoor Environment, and Health. The National Academies Press. URL | Detail ↩
+
+,, 2008: Global Climate Change and Extreme Weather Events: Understanding the Contributions to Infectious Disease Emergence: Workshop Summary. D.A. Relman, Hamburg, M.A., Choffnes, E.R., and Mack, A., Eds. National Academies Press, 304 pp. URL | Detail ↩
+
+,, 2007: Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press, 976 pp. | Detail ↩
+
+,, 2012: Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change. Cambridge University Press, 582 pp. URL | Detail ↩
+
+Jackson, J. E., M. G. Yost, C. Karr, C. Fitzpatrick, B. K. Lamb, S. H. Chung, J. Chen, J. Avise, R. A. Rosenblatt, and R. A. Fenske, 2010: Public health impacts of climate change in Washington State: Projected mortality risks due to heat events and air pollution. Climatic Change, 102, 159-186, doi:10.1007/s10584-010-9852-3. | Detail ↩
+
+Jacob, D. J., and D. A. Winner, 2009: Effect of climate change on air quality. Atmospheric Environment, 43, 51-63, doi:10.1016/j.atmosenv.2008.09.051. URL | Detail ↩
+
+Jacobson, M. Z., 2008: On the causal link between carbon dioxide and air pollution mortality. Geophysical Research Letters, 35, L03809, doi:10.1029/2007GL031101. URL | Detail ↩
+
+Jaffe, D., W. Hafner, D. Chand, A. Westerling, and D. Spracklen, 2008: Interannual variations in PM2.5 due to wildfires in the western United States. Environmental Science & Technology, 42, 2812-2818, doi:10.1021/es702755v. | Detail ↩
+
+Jaffe, D., D. Chand, W. Hafner, A. Westerling, and D. Spracklen, 2008: Influence of fires on O3 concentrations in the western US. Environmental Science & Technology, 42, 5885-5891, doi:10.1021/es800084k. | Detail ↩
+
+Jenkins, J. L., E. B. Hsu, L. M. Sauer, Y. H. Hsieh, and T. D. Kirsch, 2009: Prevalence of unmet health care needs and description of health care-seeking behavior among displaced people after the 2007 California wildfires. Disaster Medicine and Public Health Preparedness, 3, S24-28, doi:10.1097/DMP.0b013e31819f1afc. URL | Detail ↩
+
+Johansson, M. A., D. A. T. Cummings, and G. E. Glass, 2009: Multiyear climate variability and dengue—El Niño southern oscillation, weather, and dengue incidence in Puerto Rico, Mexico, and Thailand: A longitudinal data analysis. PLoS Medicine, 6, e1000168, doi:10.1371/journal.pmed.1000168. URL | Detail ↩
+
+Johnson, D. P., J. S. Wilson, and G. C. Luber, 2009: Socioeconomic indicators of heat-related health risk supplemented with remotely sensed data. International Journal of Health Geographics, 8, 1-13, doi:10.1186/1476-072X-8-57. URL | Detail ↩
+
+Johnson, T. D., 2008: Shortage of US public health workers projected to worsen: About 250,000 new workers needed. The Nation’s Health, 38. URL | Detail ↩
+
+Johnston, F. H., S. B. Henderson, Y. Chen, J. T. Randerson, M. Marlier, R. S. DeFries, P. Kinney, D. M. J. S. Bowman, and M. Brauer, 2012: Estimated global mortality attributable to smoke from landscape fires. Environmental Health Perspectives, 120, 695-701, doi:10.1289/ehp.1104422. URL | Detail ↩
+
+Jury, M. R., 2008: Climate influence on dengue epidemics in Puerto Rico. International Journal of Environmental Health Research, 18, 323-334, doi:10.1080/09603120701849836. | Detail ↩
+
+Kalkstein, L. S., S. Greene, D. M. Mills, and J. Samenow, 2011: An evaluation of the progress in reducing heat-related human mortality in major US cities. Natural Hazards, 56, 113-129, doi:10.1007/s11069-010-9552-3. | Detail ↩
+
+Kampa, M., and E. Castanas, 2008: Human health effects of air pollution. Environmental Pollution, 151, 362-367, doi:10.1016/j.envpol.2007.06.012. | Detail ↩
+
+Keesing, F., J. Brunner, S. Duerr, M. Killilea, K. LoGiudice, K. Schmidt, H. Vuong, and R. S. Ostfeld, 2009: Hosts as ecological traps for the vector of Lyme disease. Proceedings of the Royal Society B: Biological Sciences, 276, 3911-3919, doi:10.1098/rspb.2009.1159. | Detail ↩
+
+Kent, J. D., 2006: Louisiana Hurricane Impact Atlas. 39 pp., Louisiana Geographic Information Center, Baton Rouge, LA. URL | Detail ↩
+
+Keppel, K. G., 2007: Ten largest racial and ethnic health disparities in the United States based on Healthy People 2010 objectives. American Journal of Epidemiology, 166, 97-103, doi:10.1093/aje/kwm044. URL | Detail ↩
+
+Kessler, R. C., S. Galea, M. J. Gruber, N. A. Sampson, R. J. Ursano, and S. Wessely, 2008: Trends in mental illness and suicidality after Hurricane Katrina. Molecular Psychiatry, 13, 374-384, doi:10.1038/sj.mp.4002119. URL | Detail ↩
+
+Kinney, P. L., 2008: Climate change, air quality, and human health. American Journal of Preventive Medicine, 35, 459-467, doi:10.1016/j.amepre.2008.08.025. URL | Detail ↩
+
+Kinney, P. L., M. Pascal, R. Vautard, and K. Laaidi, 2012: Winter mortality in a changing climate: Will it go down? Bulletin Epidemiologique Hebdomadaire, 12-13, 5-7. | Detail ↩
+
+Kinney, P. L., 2012: Health: A new measure of health effects. Nature Climate Change, 2, 233-234, doi:10.1038/nclimate1460. | Detail ↩
+
+Kjellstrom, T., and H. J. Weaver, 2009: Climate change and health: Impacts, vulnerability, adaptation and mitigation. New South Wales Public Health Bulletin, 20, 5-9, doi:10.1071/NB08053. URL | Detail ↩
+
+Kjellstrom, T., A. J. Butler, R. M. lucas, and R. Bonita, 2010: Public health impact of global heating due to climate change: Potential effects on chronic non-communicable diseases. International Journal of Public Health, 55, 97-103, doi:10.1007/s00038-009-0090-2. | Detail ↩
+
+Klinenberg, E., 2003: Heat Wave: A Social Autopsy of Disaster In Chicago. University of Chicago Press, 328 pp. | Detail ↩
+
+Knowlton, K., M. Rotkin-Ellman, L. Geballe, W. Max, and G. M. Solomon, 2011: Six climate change-related events in the United States accounted for about $14 billion in lost lives and health costs. Health Affairs, 30, 2167-2176, doi:10.1377/hlthaff.2011.0229. | Detail ↩
+
+Knowlton, K., M. Rotkin-Ellman, G. King, H. G. Margolis, D. Smith, G. Solomon, R. Trent, and P. English, 2009: The 2006 California heat wave: Impacts on hospitalizations and emergency department visits. Environmental Health Perspectives, 117, 61-67, doi:10.1289/ehp.11594. URL | Detail ↩
+
+Koleva, N. G., and U. A. Schneider, 2009: The impact of climate change on the external cost of pesticide applications in US agriculture. International Journal of Agricultural Sustainability, 7, 203-216, doi:10.3763/ijas.2009.0459. | Detail ↩
+
+Kolivras, K. N., 2010: Changes in dengue risk potential in Hawaii, USA, due to climate variability and change. Climate Research, 42, 1-11, doi:10.3354/cr00861. URL | Detail ↩
+
+Kosatsky, T., 2005: The 2003 European heat waves. Eurosurveillance, 10, 148-149. URL | Detail ↩
+
+Kovats, R. S., and S. Hajat, 2008: Heat stress and public health: A critical review. Annual Review of Public Health, 29, 41-55, doi:10.1146/annurev.publhealth.29.020907.090843. | Detail ↩
+
+Lafferty, K. D., 2009: The ecology of climate change and infectious diseases. Ecology, 90, 888-900, doi:10.1890/08-0079.1. | Detail ↩
+
+Lambrechts, L., K. P. Paaijmans, T. Fansiri, L. B. Carrington, L. D. Kramer, M. B. Thomas, and T. W. Scott, 2011: Impact of daily temperature fluctuations on dengue virus transmission by Aedes aegypti. Proceedings of the National Academy of Sciences, 108, 7460-7465, doi:10.1073/pnas.1101377108. URL | Detail ↩
+
+Lee, T. S., K. Falter, P. Meyer, J. Mott, and C. Gwynn, 2009: Risk factors associated with clinic visits during the 1999 forest fires near the Hoopa Valley Indian Reservation, California, USA. International Journal of Environmental Health Research, 19, 315-327, doi:10.1080/09603120802712750. | Detail ↩
+
+Leiserowitz, A. A., 2005: American risk perceptions: Is climate change dangerous? Risk Analysis, 25, 1433-1442, doi:10.1111/j.1540-6261.2005.00690.x. | Detail ↩
+
+Li, B., S. Sain, L. O. Mearns, H. A. Anderson, S. Kovats, K. L. Ebi, M. Y. V. Bekkedal, M. S. Kanarek, and J. A. Patz, 2012: The impact of extreme heat on morbidity in Milwaukee, Wisconsin. Climatic Change, 110, 959-976, doi:10.1007/s10584-011-0120-y. | Detail ↩
+
+Li, T., R. M. Horton, and P. L. Kinney, 2013: Projections of seasonal patterns in temperature-related deaths for Manhattan, New York. Nature Climate Change, 3, 717-721, doi:10.1038/nclimate1902. | Detail ↩
+
+Liao, K. J., E. Tagaris, K. Manomaiphiboon, C. Wang, J. H. Woo, P. Amar, S. He, and A. G. Russell, 2009: Quantification of the impact of climate uncertainty on regional air quality. Atmospheric Chemistry and Physics, 9, 865-878, doi:10.5194/acp-9-865-2009. URL | Detail ↩
+
+Lin, S., M. Luo, R. J. Walker, X. Liu, S. A. Hwang, and R. Chinery, 2009: Extreme high temperatures and hospital admissions for respiratory and cardiovascular diseases. Epidemiology, 20, 738-746, doi:10.1097/EDE.0b013e3181ad5522. | Detail ↩
+
+Lipp, E. K., A. Huq, R. R. Colwell, E. K. Lipp, A. Huq, and R. R. Colwell, 2002: Effects of global climate on infectious disease: The cholera model. Clinical Microbiology Reviews, 15, 757-70, doi:10.1128/​CMR.15.4.757-770.2002. URL | Detail ↩
+
+Lister, S. A., 2005: Hurricane Katrina: The Public Health and Medical Response. 24 pp., Congressional Research Service Report for Congress. URL | Detail ↩
+
+Littell, J. S., D. McKenzie, D. L. Peterson, and A. L. Westerling, 2009: Climate and wildfire area burned in western US ecoprovinces, 1916-2003. Ecological Applications, 19, 1003-1021, doi:10.1890/07-1183.1. | Detail ↩
+
+Lloyd, S. J., R. S. Kovats, and Z. Chalabi, 2011: Climate change, crop yields, and undernutrition: Development of a model to quantify the impact of climate scenarios on child undernutrition. Environmental Health Perspectives, 119, 1817-1823, doi:10.1289/ehp.1003311. | Detail ↩
+
+Lobell, D. B., M. B. Burke, C. Tebaldi, M. D. Mastrandrea, W. P. Falcon, and R. L. Naylor, 2008: Prioritizing climate change adaptation needs for food security in 2030. Science, 319, 607-610, doi:10.1126/science.1152339. | Detail ↩
+
+Loughry, M., 2010: Ch. 11: Climate change, human movement and the promotion of mental health: What have we learnt from earlier global stressors? Climate Change and Displacement. Multidisciplinary Perspectives, J. McAdam, Ed., Hart Publishing, 274 pp. | Detail ↩
+
+Luber, G., and N. Prudent, 2009: Climate change and human health. Transactions of the American Clinical and Climatological Association, 120, 113-117. URL | Detail ↩
+
+Maas, J., R. A. Verheij, S. de Vries, P. Spreeuwenberg, F. G. Schellevis, and P. P. Groenewegen, 2009: Morbidity is related to a green living environment. Journal of Epidemiology & Community Health, 63, 967-973, doi:10.1136/jech.2008.079038. URL | Detail ↩
+
+MacDonald, G. M., 2010: Water, climate change, and sustainability in the southwest. Proceedings of the National Academy of Sciences, 107, 21256-21262, doi:10.1073/pnas.0909651107. URL | Detail ↩
+
+Maes, M., F. Meyer, P. Thompson, D. Peeters, and P. Cosyns, 1994: Synchronized annual rhythms in violent suicide rate, ambient temperature and the light-dark span. Acta Psychiatrica Scandinavica, 90, 391-396, doi:10.1111/j.1600-0447.1994.tb01612.x. | Detail ↩
+
+Maibach, E. W., M. Nisbet, P. Baldwin, K. Akerlof, and G. Diao, 2010: Reframing climate change as a public health issue: An exploratory study of public reactions. BMC Public Health, 10, 1-11, doi:10.1186/1471-2458-10-299. URL | Detail ↩
+
+Maizlish, N., J. Woodcock, S. Co, B. Ostro, A. Fanai, and D. Fairley, 2013: Health cobenefits and transportation-related reductions in greenhouse gas emissions in the San Francisco Bay area. American Journal of Public Health, 103, 703-709, doi:10.2105/ajph.2012.300939. URL | Detail ↩
+
+Markandya, A., B. G. Armstrong, S. Hales, A. Chiabai, P. Criqui, S. Mima, C. Tonne, and P. Wilkinson, 2009: Public health benefits of strategies to reduce greenhouse-gas emissions: Low-carbon electricity generation. The Lancet, 374, 2006-2015, doi:10.1016/s0140-6736(09)61715-3. | Detail ↩
+
+Marlier, M. E., R. S. DeFries, A. Voulgarakis, P. L. Kinney, J. T. Randerson, D. T. Shindell, Y. Chen, and G. Faluvegi, 2013: El Nino and health risks from landscape fire emissions in southeast Asia. Nature Climate Change, 3, 131-136, doi:10.1038/nclimate1658. | Detail ↩
+
+Martin-Latry, K., M. P. Goumy, P. Latry, C. Gabinski, B. Bégaud, I. Faure, and H. Verdoux, 2007: Psychotropic drugs use and risk of heat-related hospitalisation. European Psychiatry, 22, 335-338, doi:10.1016/j.eurpsy.2007.03.007. | Detail ↩
+
+Matthies, F., and B. Menne, 2009: Prevention and management of health hazards related to heatwaves. International Journal of Circumpolar Health, 68. URL | Detail ↩
+
+McDonald, A., S. Riha, A. DiTommaso, and A. DeGaetano, 2009: Climate change and the geography of weed damage: Analysis of US maize systems suggests the potential for significant range transformations. Agriculture, Ecosystems & Environment, 130, 131-140, doi:10.1016/j.agee.2008.12.007. URL | Detail ↩
+
+McFarlane, A. C., and M. Van Hooff, 2009: Impact of childhood exposure to a natural disaster on adult mental health: 20-year longitudinal follow-up study. The British Journal of Psychiatry, 195, 142-148, doi:10.1192/bjp.bp.108.054270. URL | Detail ↩
+
+McGregor, G. R., 2011: Human biometeorology. Progress in Physical Geography, 36, 93-109, doi:10.1177/0309133311417942. | Detail ↩
+
+McMichael, A. J., C. E. McMichael, H. L. Berry, and K. Bowen, 2010: Ch. 10: Climate-related displacement: Health risks and responses. Climate Change and Displacement: Multidisciplinary Perspectives, J. McAdam, Ed., Hart Publishing, 191-219. | Detail ↩
+
+McMichael, A. J., J. W. Powles, C. D. Butler, and R. Uauy, 2007: Food, livestock production, energy, climate change, and health. The Lancet, 370, 1253-1263, doi:10.1016/S0140-6736(07)61256-2. URL | Detail ↩
+
+McMichael, A. J., P. Wilkinson, R. S. Kovats, S. Pattenden, S. Hajat, B. Armstrong, N. Vajanapoom, E. M. Niciu, H. Mahomed, and C. Kingkeow, 2008: International study of temperature, heat and urban mortality: The 'ISOTHURM' project. International Journal of Epidemiology, 37, 1121-1131, doi:10.1093/ije/dyn086. URL | Detail ↩
+
+Medina-Ramón, M., and J. Schwartz, 2007: Temperature, temperature extremes, and mortality: A study of acclimatisation and effect modification in 50 US cities. Occupational and Environmental Medicine, 64, 827-833, doi:10.1136/oem.2007.033175. URL | Detail ↩
+
+Mendell, M. J., 2007: Indoor residential chemical emissions as risk factors for respiratory and allergic effects in children: A review. Indoor Air, 17, 259-277, doi:10.1111/j.1600-0668.2007.00478.x. URL | Detail ↩
+
+Mendell, M. J., A. G. Mirer, K. Cheung, and J. Douwes, 2011: Respiratory and allergic health effects of dampness, mold, and dampness-related agents: A review of the epidemiologic evidence. Environmental Health Perspectives, 119, 748-756, doi:10.1289/ehp.1002410. URL | Detail ↩
+
+Metzger, K. B., K. Ito, and T. D. Matte, 2010: Summer heat and mortality in New York City: How hot is too hot? Environmental Health Perspectives, 118, 80, doi:10.1289/ehp.0900906. URL | Detail ↩
+
+Mills, D. M., 2009: Climate change, extreme weather events, and US health impacts: What can we say? Journal of Occupational and Environmental Medicine, 51, 26-32, doi:10.1097/JOM.0b013e31817d32da. | Detail ↩
+
+Mills, J. N., K. L. Gage, and A. S. Khan, 2010: Potential influence of climate change on vector-borne and zoonotic diseases: A review and proposed research plan. Environmental Health Perspectives, 118, 1507-1514, doi:10.1289/ehp.0901389. URL | Detail ↩
+
+Mills, M. A., D. Edmondson, and C. L. Park, 2007: Trauma and stress response among Hurricane Katrina evacuees. American Journal of Public Health, 97, S116-S123, doi:10.2105/AJPH.2006.086678. URL | Detail ↩
+
+Moore, S. K., V. L. Trainer, N. J. Mantua, M. S. Parker, E. A. Laws, L. C. Backer, and L. E. Fleming, 2008: Impacts of climate variability and future climate change on harmful algal blooms and human health. Environmental Health, 7, 1-12, doi:10.1186/1476-069X-7-S2-S4. URL | Detail ↩
+
+Morello-Frosch, R., M. Pastor, J. Sadd, and S. B. Shonkoff, 2009: The Climate Gap: Inequalities in How Climate Change Hurts Americans & How to Close the Gap. University of California, Berkeley, and USC Program for Environmental & Regional Equity. URL | Detail ↩
+
+Morin, C. W., and A. C. Comrie, 2010: Modeled response of the West Nile virus vector Culex quinquefasciatus to changing climate using the dynamic mosquito simulation model. International Journal of Biometeorology, 54, 517-529, doi:10.1007/s00484-010-0349-6. | Detail ↩
+
+Mudarri, D., and W. J. Fisk, 2007: Public health and economic impact of dampness and mold. Indoor Air, 17, 226-235, doi:10.1111/j.1600-0668.2007.00474.x. URL | Detail ↩
+
+Nakazawa, Y., R. Williams, T. A. Peterson, P. Mead, E. Staples, and K. L. Gage, 2007: Climate change effects on plague and tularemia in the United States. Vector-Borne and Zoonotic Diseases, 7, 529-540, doi:10.1089/vbz.2007.0125. | Detail ↩
+
+,, 2011: Toxic Algae Bloom in Lake Erie. NASA Earth Observatory, EOS Project Science Office, NASA Goddard Space Flight Center. URL | Detail ↩
+
+,, 1995: Respiratory diseases disproportionately affecting minorities. Chest, 108, 1380-92, doi:10.1378/chest.108.5.1380. URL | Detail ↩
+
+Naumova, E. N., J. S. Jagai, B. Matyas, A. DeMaria, I. B. MacNeill, and J. K. Griffiths, 2007: Seasonality in six enterically transmitted diseases and ambient temperature. Epidemiology and Infection, 135, 281-292, doi:10.1017/S0950268806006698. URL | Detail ↩
+
+,, 2012: State of the Climate Wildfires. NOAA's National Climatic Data Center. URL | Detail ↩
+
+Neff, R. A., C. L. Parker, F. L. Kirschenmann, J. Tinch, and R. S. Lawrence, 2011: Peak oil, food systems, and public health. American Journal of Public Health, 101, 1587-1597, doi:10.2105/AJPH.2011.300123. | Detail ↩
+
+Nemet, G. F., T. Holloway, and P. Meier, 2010: Implications of incorporating air-quality co-benefits into climate change policymaking. Environmental Research Letters, 5, 014007, doi:10.1088/1748-9326/5/1/014007. URL | Detail ↩
+
+Nichols, G., C. Lane, N. Asgari, N. Q. Verlander, and A. Charlett, 2009: Rainfall and outbreaks of drinking water related disease and in England and Wales. Journal of Water Health, 7, 1-8, doi:10.2166/wh.2009.143. URL | Detail ↩
+
+,, 2012: National Climate Assessment Health Sector Literature Review and Bibliography. Technical Input for the Interagency Climate Change and Human Health Group. National Institute of Environmental Health Sciences. URL | Detail ↩
+
+Nitschke, M., G. R. Tucker, A. L. Hansen, S. Williams, Y. Zhang, and P. Bi, 2011: Impact of two recent extreme heat episodes on morbidity and mortality in Adelaide, South Australia: A case-series analysis. Environmental Health, 10, 1-9, doi:10.1186/1476-069X-10-42. URL | Detail ↩
+
+,, 2010: Weather Fatalities. National Oceanic and Atmospheric Administration. URL | Detail ↩
+
+Nordling, E., N. Berglind, E. Melén, G. Emenius, J. Hallberg, F. Nyberg, G. Pershagen, M. Svartengren, M. Wickman, and T. Bellander, 2008: Traffic-related air pollution and childhood respiratory symptoms, function and allergies. Epidemiology, 19, 401-408, doi:10.1097/EDE.0b013e31816a1ce3. URL | Detail ↩
+
+,, 2010: Adapting to Impacts of Climate Change. America’s Climate Choices: Report of the Panel on Adapting to the Impacts of Climate Change. National Research Council. The National Academies Press, 292 pp. URL | Detail ↩
+
+Ogden, N. H., C. Bouchard, K. Kurtenbach, G. Margos, L. R. Lindsay, L. Trudel, S. Nguon, and F. Milord, 2010: Active and passive surveillance and phylogenetic analysis of Borrelia burgdorferi elucidate the process of Lyme disease risk emergence in Canada. Environmental Health Perspectives, 118, 909-14, doi:10.1289/ehp.0901766. URL | Detail ↩
+
+Ogden, N. H., R. L. Lindsay, M. Morshed, P. N. Sockett, and H. Artsob, 2009: The emergence of Lyme disease in Canada. Canadian Medical Association Journal, 180, 1221-1224, doi:10.1503/cmaj.080148. URL | Detail ↩
+
+Ogden, N. H., L. St-Onge, I. K. Barker, S. Brazeau, M. Bigras-Poulin, D. F. Charron, C. Francis, A. Heagy, L. R. Lindsay, A. Maarouf, P. Michel, F. Milord, C. J. O'Callaghan, L. Trudel, and R. A. Thompson, 2008: Risk maps for range expansion of the Lyme disease vector, Ixodes scapularis, in Canada now and with climate change. International Journal of Health Geographics, 7, 24, doi:10.1186/1476-072X-7-24. URL | Detail ↩
+
+Onozuka, D., M. Hashizume, and A. Hagihara, 2010: Effects of weather variability on infectious gastroenteritis. Epidemiology and Infection, 138, 236-43, doi:10.1017/s0950268809990574. | Detail ↩
+
+Ostro, B., S. Rauch, R. Green, B. Malig, and R. Basu, 2010: The effects of temperature and use of air conditioning on hospitalizations. American Journal of Epidemiology, 172, 1053-1061, doi:10.1093/aje/kwq231. URL | Detail ↩
+
+Ostro, B. D., L. A. Roth, R. S. Green, and R. Basu, 2009: Estimating the mortality effect of the July 2006 California heat wave. Environmental Research, 109, 614-619, doi:10.1016/j.envres.2009.03.010. URL | Detail ↩
+
+O’Neill, M. S., and K. L. Ebi, 2009: Temperature extremes and health: Impacts of climate variability and change in the United States. Journal of Occupational and Environmental Medicine, 51, 13-25, doi:10.1097/JOM.0b013e318173e122. | Detail ↩
+
+O’Neill, M. S., A. Zanobetti, and J. Schwartz, 2003: Modifiers of the temperature and mortality association in seven US cities. American Journal of Epidemiology, 157, 1074-1082, doi:10.1093/aje/kwg096. URL | Detail ↩
+
+O’Neill, M. S., A. Zanobetti, and J. Schwartz, 2005: Disparities by race in heat-related mortality in four US cities: The role of air conditioning prevalence. Journal of Urban Health, Bulletin of the New York Academy of Medicine, 82, 191-197, doi:10.1093/jurban/jti043. | Detail ↩
+
+O’Neill, M. S., P. L. Kinney, and A. J. Cohen, 2008: Environmental equity in air quality management: Local and international implications for human health and climate change. Journal of Toxicology and Environmental Health, Part A, 71, 570-577, doi:10.1080/15287390801997625. | Detail ↩
+
+O’Neill, M. S., A. Veves, A. Zanobetti, J. A. Sarnat, D. R. Gold, P. A. Economides, E. S. Horton, and J. Schwartz, 2005: Diabetes enhances vulnerability to particulate air pollution–associated impairment in vascular reactivity and endothelial function. Circulation, 111, 2913-2920, doi:10.1161/CIRCULATIONAHA.104.517110. URL | Detail ↩
+
+Page, L. A., S. Hajat, and R. S. Kovats, 2007: Relationship between daily suicide counts and temperature in England and Wales. The British Journal of Psychiatry, 191, 106-112, doi:10.1192/bjp.bp.106.031948. URL | Detail ↩
+
+Pan, A., Q. Sun, and A. M. Bernstein, 2012: Red meat consumption and mortality: Results from 2 prospective cohort studies. Archives of Internal Medicine, 172, 555-563, doi:10.1001/archinternmed.2011.2287. URL | Detail ↩
+
+Parker, C. L., 2011: Slowing global warming: Benefits for patients and the planet. American Family Physician, 84, 271-278. URL | Detail ↩
+
+Pastor, M., R. D. Bullard, J. K. Boyce, A. Fothergill, R. Morello-Frosch, and B. Wright, 2006: In the Wake of the Storm: Environment, Disaster, and Race After Katrina. Russell Sage Foundation. | Detail ↩
+
+Pastor, Jr., M., J. L. Sadd, and R. Morello-Frosch, 2004: Waiting to inhale: The demographics of toxic air release facilities in 21st-century California. Social Science Quarterly, 85, 420-440, doi:10.1111/j.0038-4941.2004.08502010.x. URL | Detail ↩
+
+Pastor, M., R. Morello-Frosch, and J. L. Sadd, 2005: The air is always cleaner on the other side: Race, space, and ambient air toxics exposures in California. Journal of Urban Affairs, 27, 127-148, doi:10.1111/j.0735-2166.2005.00228.x. URL | Detail ↩
+
+Patz, J., D. Campbell-Lendrum, H. Gibbs, and R. Woodruff, 2008: Health impact assessment of global climate change: Expanding on comparative risk assessment approaches for policy making. Annual Review of Public Health, 29, 27-39, doi:10.1146/annurev.publhealth.29.020907.090750. URL | Detail ↩
+
+Patz, J. A., S. J. Vavrus, C. K. Uejio, and S. L. McLellan, 2008: Climate change and waterborne disease risk in the Great Lakes region of the US. American Journal of Preventive Medicine, 35, 451-458, doi:10.1016/j.amepre.2008.08.026. URL | Detail ↩
+
+Patz, J. A., and M. B. Hahn, 2013: Climate change and human health: A one health approach. Current Topics in Microbiology and Immunology,, Springer Berlin Heidelberg, 141-171. | Detail ↩
+
+Peel, J. L., R. Haeuber, V. Garcia, L. Neas, and A. G. Russell, 2012: Impact of nitrogen and climate change interactions on ambient air pollution and human health. Biogeochemistry, doi:10.1007/s10533-012-9782-4. URL | Detail ↩
+
+Pellizzari, E. D., R. L. Perritt, and C. A. Clayton, 1999: National human exposure assessment survey (NHEXAS): Exploratory survey of exposure among population subgroups in EPA Region V. Journal of Exposure Analysis and Environmental Epidemiology, 9, 49, doi:10.1038/sj.jea.7500025. URL | Detail ↩
+
+Peng, R. D., J. F. Bobb, C. Tebaldi, L. McDaniel, M. L. Bell, and F. Dominici, 2011: Toward a quantitative estimate of future heat wave mortality under global climate change. Environmental Health Perspectives, 119, 701-706, doi:10.1289/ehp.1002430. URL | Detail ↩
+
+Pfister, G. G., C. Wiedinmyer, and L. K. Emmons, 2008: Impacts of the fall 2007 California wildfires on surface ozone: Integrating local observations with global model simulations. Geophysical Research Letters, 35, L19814, doi:10.1029/2008GL034747. | Detail ↩
+
+Pinkerton, K. E., W. N. Rom, M. Akpinar-Elci, J. R. Balmes, H. Bayram, O. Brandli, J. W. Hollingsworth, P. L. Kinney, H. G. Margolis, W. J. Martin, E. N. Sasser, K. R. Smith, and T. K. Takaro, 2012: An official American Thoracic Society workshop report: Climate change and human health. Proceedings of the American Thoracic Society, 9, 3-8, doi:10.1513/pats.201201-015ST. URL | Detail ↩
+
+Post, E. S., A. Grambsch, C. Weaver, P. Morefield, J. Huang, L. - Y. Leung, C. G. Nolte, P. Adams, X. - Z. Liang, J. - H. Zhu, and H. Mahone, 2012: Variation in estimated ozone-related health impacts of climate change due to modeling choices and assumptions. Environmental Health Perspectives, 120, 1559-1564, doi:10.1289/ehp.1104271. URL | Detail ↩
+
+Ramos, M. M., H. Mohammed, E. Zielinski-Gutierrez, M. H. Hayden, J. Luis Roble Lopez, M. Fournier, A. Rodríguez Trujillo, R. Burton, J. M. Brunkard, L. Anaya-Lopez, A. Abell Banicki, P. Kuri Morales, B. Smith, J. L. Muñoz, and S. H. Waterman, 2008: Epidemic dengue and dengue hemorrhagic fever at the Texas–Mexico border: Results of a household-based seroepidemiologic survey, December 2005. The American Journal of Tropical Medicine and Hygiene, 78, 364-369. URL | Detail ↩
+
+Rappold, A., W. Cascio, V. Kilaru, S. Stone, L. Neas, R. Devlin, and D. Diaz-Sanchez, 2012: Cardio-respiratory outcomes associated with exposure to wildfire smoke are modified by measures of community health. Environmental Health, 11, 71, doi:10.1186/1476-069X-11-71. URL | Detail ↩
+
+Reid, C. E., and J. L. Gamble, 2009: Aeroallergens, allergic disease, and climate change: Impacts and adaptation. EcoHealth, 6, 458-470, doi:10.1007/s10393-009-0261-x. URL | Detail ↩
+
+Reid, C. E., J. K. Mann, R. Alfasso, P. B. English, G. C. King, R. A. Lincoln, H. G. Margolis, D. J. Rubado, J. E. Sabato, and N. L. West, 2012: Evaluation of a heat vulnerability index on abnormally hot days: An environmental public health tracking study. Environmental Health Perspectives, 120, 715-720, doi:10.1289/ehp.1103766. URL | Detail ↩
+
+Reiter, P., 2008: Climate change and mosquito-borne disease: Knowing the horse before hitching the cart. Revue Scientifique et Technique-Office International des Épizooties, 27, 383-398. URL | Detail ↩
+
+Reser, J. P., and J. K. Swim, 2011: Adapting to and coping with the threat and impacts of climate change. American Psychologist, 66, 277-289, doi:10.1037/a0023412. | Detail ↩
+
+Rey, G., E. Jougla, A. Fouillet, G. Pavillon, P. Bessemoulin, P. Frayssinet, J. Clavel, and D. Hémon, 2007: The impact of major heat waves on all-cause and cause-specific mortality in France from 1971 to 2003. International Archives of Occupational and Environmental Health, 80, 615-626, doi:10.1007/s00420-007-0173-4. | Detail ↩
+
+Rezza, G., L. Nicoletti, R. Angelini, R. Romi, A. C. Finarelli, M. Panning, P. Cordioli, C. Fortuna, S. Boros, F. Magurano, G. Silvi, P. Angelini, M. Dottori, M. G. Ciufolini, G. C. Majori, and A. Cassone, 2007: Infection with chikungunya virus in Italy: An outbreak in a temperate region. The Lancet, 370, 1840-1846, doi:10.1016/S0140-6736(07)61779-6. | Detail ↩
+
+Rhodes, J., C. Chan, C. Paxson, C. E. Rouse, M. Waters, and E. Fussell, 2010: The impact of Hurricane Katrina on the mental and physical health of low-income parents in New Orleans. American Journal of Orthopsychiatry, 80, 237-247, doi:10.1111/j.1939-0025.2010.01027.x. | Detail ↩
+
+Rizak, S., and S. E. Hrudey, 2008: Drinking-water safety: Challenges for community-managed systems. Journal of Water Health, 6, 33-42, doi:10.2166/wh.2008.033. URL | Detail ↩
+
+Rogers, D. J., and S. E. Randolph, 2006: Climate change and vector-borne diseases. Advances in Parasitology, S.I. Hay, Graham, A., and Rogers, D.J., Eds., Academic Press, 345-381. | Detail ↩
+
+Rohrmann, S. et al., 2013: Meat consumption and mortality - results from the European Prospective Investigation into Cancer and Nutrition. BMC Medicine, 11, 1-12, doi:10.1186/1741-7015-11-63. URL | Detail ↩
+
+Rosenthal, J., 2009: Climate change and the geographic distribution of infectious diseases. EcoHealth, 6, 489-495, doi:10.1007/s10393-010-0314-1. URL | Detail ↩
+
+Russell, R. C., 2009: Mosquito-borne disease and climate change in Australia: Time for a reality check. Australian Journal of Entomology, 48, 1-7, doi:10.1111/j.1440-6055.2008.00677.x. | Detail ↩
+
+Sapkota, A., J. M. Symons, J. Kleissl, L. Wang, M. B. Parlange, J. Ondov, P. N. Breysse, G. B. Diette, P. A. Eggleston, and T. J. Buckley, 2005: Impact of the 2002 Canadian forest fires on particulate matter air quality in Baltimore City. Environmental Science & Technology, 39, 24-32, doi:10.1021/es035311z. | Detail ↩
+
+Schlenker, W., and M. J. Roberts, 2009: Nonlinear temperature effects indicate severe damages to U.S. crop yields under climate change. Proceedings of the National Academy of Sciences, 106, 15594-15598, doi:10.1073/pnas.0906865106. URL | Detail ↩
+
+Schmidhuber, J., and F. N. Tubiello, 2007: Global food security under climate change. Proceedings of the National Academy of Sciences, 104, 19703-19708, doi:10.1073/pnas.0701976104. URL | Detail ↩
+
+Schmier, J. K., and K. L. Ebi, 2009: The impact of climate change and aeroallergens on children's health. Allergy and Asthma Proceedings, 30, 229-237, doi:10.2500/aap.2009.30.3229. | Detail ↩
+
+Schramm, P. J., 2012: National Climate Assessment Health Sector Workshop Report: Northwest Region. 28 pp., Seattle, Washington. URL | Detail ↩
+
+Semenza, J. C., J. E. Suk, V. Estevez, K. L. Ebi, and E. Lindgren, 2011: Mapping climate change vulnerabilities to infectious diseases in Europe. Environmental Health Perspectives, 120, 385-92, doi:10.1289/ehp.1103805. URL | Detail ↩
+
+Shea, K. M., 2007: Global climate change and children’s health. Pediatrics, 120, e1359-e1367, doi:10.1542/peds.2007-2646. URL | Detail ↩
+
+Shea, K. M., R. T. Truckner, R. W. Weber, and D. B. Peden, 2008: Climate change and allergic disease. Journal of Allergy and Clinical Immunology, 122, 443-453, doi:10.1016/j.jaci.2008.06.032. | Detail ↩
+
+Sheffield, P. E., J. L. Carr, P. L. Kinney, and K. Knowlton, 2011: Modeling of regional climate change effects on ground-level ozone and childhood asthma. American Journal of Preventive Medicine, 41, 251-257, doi:10.1016/j.amepre.2011.04.017. URL | Detail ↩
+
+Sheffield, P. E., and P. J. Landrigan, 2011: Global climate change and children’s health: Threats and strategies for prevention. Environmental Health Perspectives, 119, 291-298, doi:10.1289/ehp.1002233. URL | Detail ↩
+
+Sheffield, P. E., K. R. Weinberger, K. Ito, T. D. Matte, R. W. Mathes, G. S. Robinson, and P. L. Kinney, 2011: The association of tree pollen concentration peaks and allergy medication sales in New York City: 2003–2008. ISRN Allergy, 2011, 1-7, doi:10.5402/2011/537194. URL | Detail ↩
+
+Sherwood, S. C., and M. Huber, 2010: An adaptability limit to climate change due to heat stress. Proceedings of the National Academy of Sciences, 107, 9552-9555, doi:10.1073/pnas.0913352107. URL | Detail ↩
+
+Shindell, D., G. Faluvegi, M. Walsh, S. C. Anenberg, R. van Dingenen, N. Z. Muller, J. Austin, D. Koch, and G. Milly, 2011: Climate, health, agricultural and economic impacts of tighter vehicle-emission standards. Nature Climate Change, 1, 59-66, doi:10.1038/nclimate1066. URL | Detail ↩
+
+Shonkoff, S. B., R. Morello-Frosch, M. Pastor, and J. Sadd, 2011: The climate gap: Environmental health and equity implications of climate change and mitigation policies in California—a review of the literature. Climatic Change, 485-503, doi:10.1007/s10584-011-0310-7. | Detail ↩
+
+Silva, H. R., P. E. Phelan, and J. S. Golden, 2010: Modeling effects of urban heat island mitigation strategies on heat-related morbidity: A case study for Phoenix, Arizona, USA. International Journal of Biometeorology, 54, 13-22, doi:10.1007/s00484-009-0247-y. | Detail ↩
+
+Singleton, R. J., R. C. Holman, A. M. Folkema, J. D. Wenger, C. A. Steiner, and J. T. Redd, 2012: Trends in lower respiratory tract infection hospitalizations among American Indian/Alaska Native children and the general US child population. The Journal of Pediatrics, 161, 296-302.e2, doi:10.1016/j.jpeds.2012.02.004. | Detail ↩
+
+Sinha, R., A. J. Cross, B. I. Graubard, M. F. Leitzmann, and A. Schatzkin, 2009: Meat intake and mortality: A prospective study of over half a million people. Archives of Internal Medicine, 169, 562-571, doi:10.1001/archinternmed.2009.6. URL | Detail ↩
+
+Smith, K. R., and E. Haigler, 2008: Co-benefits of climate mitigation and health protection in energy systems: Scoping methods. Annual Review of Public Health, 29, 11-25, doi:10.1146/annurev.publhealth.29.020907.090759. | Detail ↩
+
+Smith, K. R., M. Jerrett, R. H. Anderson, R. T. Burnett, V. Stone, R. Derwent, R. W. Atkinson, A. Cohen, S. B. Shonkoff, D. Krewski, A. C. Pope, M. J. Thun, and G. Thurston, 2009: Public health benefits of strategies to reduce greenhouse-gas emissions: Health implications of short-lived greenhouse pollutants. The Lancet, 374, 2091-2103, doi:10.1016/S0140-6736(09)61716-5. | Detail ↩
+
+Smith, N., and A. Leiserowitz, 2012: The rise of global warming skepticism: Exploring affective image associations in the United States over time. Risk Analysis, 32, 1021-1032, doi:10.1111/j.1539-6924.2012.01801.x. | Detail ↩
+
+Speldewinde, P. C., A. Cook, P. Davies, and P. Weinstein, 2009: A relationship between environmental degradation and mental health in rural Western Australia. Health & Place, 15, 880-887, doi:10.1016/j.healthplace.2009.02.011. | Detail ↩
+
+Spickett, J. T., H. L. Brown, and K. Rumchev, 2011: Climate change and air quality: The potential impact on health. Asia-Pacific Journal of Public Health, 23, 37S-45S, doi:10.1177/1010539511398114. | Detail ↩
+
+Spracklen, D. V., J. A. Logan, L. J. Mickley, R. J. Park, R. Yevich, A. L. Westerling, and D. A. Jaffe, 2007: Wildfires drive interannual variability of organic carbon aerosol in the western US in summer. Geophysical Research Letters, 34, L16816, doi:10.1029/2007GL030037. | Detail ↩
+
+Staudt, A., P. Glick, D. Mizejewski, and D. Inkley, 2010: Extreme Allergies and Global Warming. 12 pp., National Wildlife Federation and Asthma and Allergy Foundation of America. URL | Detail ↩
+
+Stone, B., J. J. Hess, and H. Frumkin, 2010: Urban form and extreme heat events: Are sprawling cities more vulnerable to climate change than compact cities? Environmental Health Perspectives, 118, 1425-1428, doi:10.1289/ehp.0901879. URL | Detail ↩
+
+Streit, J. A., M. Yang, J. E. Cavanaugh, and P. M. Polgreen, 2011: Upward trend in dengue incidence among hospitalized patients, United States. Emerging Infectious Diseases, 17, 914, doi:10.3201/eid1705.101023. | Detail ↩
+
+Stöllberger, C., W. Lutz, and J. Finsterer, 2009: Heat-related side-effects of neurological and non-neurological medication may increase heatwave fatalities. European Journal of Neurology, 16, 879-882, doi:10.1111/j.1468-1331.2009.02581.x. URL | Detail ↩
+
+Tabachnick, W. J., 2010: Challenges in predicting climate and environmental effects on vector-borne disease episystems in a changing world. Journal of Experimental Biology, 213, 946-954, doi:10.1242/​jeb.037564. URL | Detail ↩
+
+Tagaris, E., K. J. Liao, A. J. DeLucia, L. Deck, P. Amar, and A. G. Russell, 2009: Potential impact of climate change on air pollution-related human health effects. Environmental Science & Technology, 43, 4979-4988, doi:10.1021/es803650w. | Detail ↩
+
+Tagaris, E., K. Manomaiphiboon, K. J. Liao, L. R. Leung, J. H. Woo, S. He, P. Amar, and A. G. Russell, 2007: Impacts of global climate change and emissions on regional ozone and fine particulate matter concentrations over the United States. Journal of Geophysical Research, 112, doi:10.1029/2006JD008262. | Detail ↩
+
+Taub, D. R., B. Miller, and H. Allen, 2008: Effects of elevated CO2 on the protein concentration of food crops: A meta‐analysis. Global Change Biology, 14, 565-575, doi:10.1111/j.1365-2486.2007.01511.x. | Detail ↩
+
+Teschke, K., N. Bellack, H. Shen, J. Atwater, R. Chu, M. Koehoorn, Y. C. MacNab, H. Schreier, and J. L. Isaac-Renton, 2010: Water and sewage systems, socio-demographics, and duration of residence associated with endemic intestinal infectious diseases: A cohort study. BMC Public Health, 10, 767, doi:10.1186/1471-2458-10-767. URL | Detail ↩
+
+,, 2012: The Community Guide: The Guide to Community Preventive Services. Centers for Disease Control and Prevention. URL | Detail ↩
+
+Toloo, G., G. FitzGerald, P. Aitken, K. Verrall, and S. Tong, 2013: Are heat warning systems effective? Environmental Health, 12, 1-4, doi:10.1186/1476-069x-12-27. URL | Detail ↩
+
+Trenberth, K. E., 2011: Changes in precipitation with climate change. Climate Research, 47, 123-138, doi:10.3354/cr00953. | Detail ↩
+
+Tubiello, F. N., J. F. Soussana, and S. M. Howden, 2007: Crop and pasture response to climate change. Proceedings of the National Academy of Sciences, 104, 19686-19690, doi:10.1073/pnas.0701728104. | Detail ↩
+
+,, 2010: Decennial Census of Population 1900-2000, 2010 Census Summary File 1. URL | Detail ↩
+
+,, 2012: The 2012 Statistical Abstract: Income, Expenditures, Poverty, and Wealth, Table 711, p. 464. U.S. Census Bureau, U.S. Department of Commerce, Washington, D.C. URL | Detail ↩
+
+Uejio, C. K., O. V. Wilhelmi, J. S. Golden, D. M. Mills, S. P. Gulino, and J. P. Samenow, 2011: Intra-urban societal vulnerability to extreme heat: The role of heat exposure and the built environment, socioeconomics, and neighborhood stability. Health & Place, 17, 498-507, doi:10.1016/j.healthplace.2010.12.005. | Detail ↩
+
+,, 2010: Dietary Guidelines for Americans, 2010. 7th Edition. 112 pp., U.S. Department of Agriculture, U.S. Department of Health and Human Services, Washington, D.C. URL | Detail ↩
+
+A. Voorhees, S., N. Fann, C. Fulcher, P. Dolwick, B. Hubbell, B. Bierwagen, and P. Morefield, 2011: Climate change-related temperature impacts on warm season heat mortality: A proof-of-concept methodology using BenMAP. Environmental Science & Technology, 45, 1450-1457, doi:10.1021/es102820y. | Detail ↩
+
+Wernette, D. R., and L. A. Nieves, 1992: Breaking polluted air. EPA Journal, 18, 16. URL | Detail ↩
+
+Westerling, A. L., and B. P. Bryant, 2008: Climate change and wildfire in California. Climatic Change, 87, 231-249, doi:10.1007/s10584-007-9363-z. | Detail ↩
+
+Westerling, A. L., H. G. Hidalgo, D. R. Cayan, and T. W. Swetnam, 2006: Warming and earlier spring increase western U.S. forest wildfire activity. Science, 313, 940-943, doi:10.1126/science.1128834. | Detail ↩
+
+Westerling, A. L., M. G. Turner, E. A. H. Smithwick, W. H. Romme, and M. G. Ryan, 2011: Continued warming could transform Greater Yellowstone fire regimes by mid-21st century. Proceedings of the National Academy of Sciences, 108, 13165-13170, doi:10.1073/pnas.1110199108. URL http://www.pnas.org/content/108/32/13165.full.pdf | Detail ↩
+
+White-Newsome, J., M. S. O'Neill, C. Gronlund, T. M. Sunbury, S. J. Brines, E. Parker, D. G. Brown, R. B. Rood, and Z. Rivera, 2009: Climate change, heat waves, and environmental justice: Advancing knowledge and action. Environmental Justice, 2, 197-205, doi:10.1089/env.2009.0032. | Detail ↩
+
+Wieser, H., R. Manderscheid, M. Erbs, and H. J. Weigel, 2008: Effects of elevated atmospheric CO2 concentrations on the quantitative protein composition of wheat grain. Journal of Agricultural and Food Chemistry, 56, 6531-6535, doi:10.1021/jf8008603. | Detail ↩
+
+Wilby, R. L., 2008: Constructing climate change scenarios of urban heat island intensity and air quality. Environment and Planning B: Planning and Design, 35, 902-919, doi:10.1068/b33066t. | Detail ↩
+
+Wilhelmi, O. V., and M. H. Hayden, 2010: Connecting people and place: A new framework for reducing urban vulnerability to extreme heat. Environmental Research Letters, 5, 014021, doi:10.1088/1748-9326/5/1/014021. URL | Detail ↩
+
+Wilkinson, P., K. R. Smith, S. Beevers, C. Tonne, and T. Oreszczyn, 2007: Energy, energy efficiency, and the built environment. The Lancet, 370, 1175-1187, doi:10.1016/S0140-6736(07)61255-0. | Detail ↩
+
+Wilkinson, P., K. R. Smith, M. Davies, H. Adair, B. G. Armstrong, M. Barrett, N. Bruce, A. Haines, I. Hamilton, and T. Oreszczyn, 2009: Public health benefits of strategies to reduce greenhouse-gas emissions: Household energy. The Lancet, 374, 1917-1929, doi:10.1016/S0140-6736(09)61713-X. | Detail ↩
+
+Wilson, K., 2009: Climate change and the spread of infectious ideas. Ecology, 90, 901-902, doi:10.1890/08-2027.1. | Detail ↩
+
+Wolf, J., , M. L. Muilenberg, and L. H. Ziska, 2010: Elevated atmospheric carbon dioxide concentrations amplify Alternaria alternata sporulation and total antigen production. Environmental Health Perspectives, 118, 1223-1228, doi:10.1289/ehp.0901867. | Detail ↩
+
+Woodcock, J., P. Edwards, C. Tonne, B. G. Armstrong, O. Ashiru, D. Banister, S. Beevers, Z. Chalabi, Z. Chowdhury, A. Cohen, O. H. Franco, A. Haines, R. Hickman, G. Lindsay, I. Mittal, D. Mohan, G. Tiwari, A. Woodward, and I. Roberts, 2009: Public health benefits of strategies to reduce greenhouse-gas emissions: Urban land transport. The Lancet, 374, 1930-1943, doi:10.1016/S0140-6736(09)61714-1. | Detail ↩
+
+Xiong, X., E. W. Harville, D. R. Mattison, K. Elkind-Hirsch, G. Pridjian, and P. Buekens, 2008: Exposure to Hurricane Katrina, post-traumatic stress disorder and birth outcomes. The American Journal of the Medical Sciences, 336, 111-115, doi:10.1097/MAJ.0b013e318180f21c. | Detail ↩
+
+Ye, X., R. Wolff, W. Yu, P. Vaneckova, X. Pan, and S. Tong, 2012: Ambient temperature and morbidity: A review of epidemiological evidence. Environmental Health Perspectives, 120, 19-28, doi:10.1289/ehp.1003198. | Detail ↩
+
+Younger, M., H. R. Morrow-Almeida, S. M. Vindigni, and A. L. Dannenberg, 2008: The built environment, climate change, and health: Opportunities for co-benefits. American Journal of Preventive Medicine, 35, 517-526, doi:10.1016/j.amepre.2008.08.017. | Detail ↩
+
+Yu, W., K. Mengersen, X. Wang, X. Ye, Y. Guo, X. Pan, and S. Tong, 2011: Daily average temperature and mortality among the elderly: A meta-analysis and systematic review of epidemiological evidence. International Journal of Biometeorology, 56, 569-581, doi:10.1007/s00484-011-0497-3. | Detail ↩
+
+Zanobetti, A., M. S. O'Neill, C. J. Gronlund, and J. D. Schwartz, 2012: Summer temperature variability and long-term survival among elderly people with chronic disease. Proceedings of the National Academy of Sciences, 109, 6608-6613, doi:10.1073/pnas.1113070109. | Detail ↩
+
+Zhang, K., R. B. Rood, G. Michailidis, E. M. Oswald, J. D. Schwartz, A. Zanobetti, K. L. Ebi, and M. S. O'Neill, 2012: Comparing exposure metrics for classifying ‘dangerous heat’ in heat wave and health warning systems. Environment International, 46, 23-29, doi:10.1016/j.envint.2012.05.001. | Detail ↩
+
+Ziska, L. et al., 2011: Recent warming by latitude associated with increased length of ragweed pollen season in central North America. Proceedings of the National Academy of Sciences, 108, 4248-4251, doi:10.1073/pnas.1014107108. URL | Detail ↩
+
+Ziska, L. H., and J. R. Teasdale, 2000: Sustained growth and increased tolerance to glyphosate observed in a C3 perennial weed, quackgrass (Elytrigia repens), grown at elevated carbon dioxide. Australian Journal of Plant Physiology, 27, 159-166, doi:10.1071/PP99099. | Detail ↩
+
+Ziska, L. H., 2011: Climate change, carbon dioxide and global crop production: Food security and uncertainty. Handbook on Climate Change and Agriculture, A. Dinar and Mendelsohn, R., Eds., Edward Elgar Publishing, 9-31. | Detail ↩
+
+ström, D. O. Å., F. Bertil, and R. Joacim, 2011: Heat wave impact on morbidity and mortality in the elderly population: A review of recent studies. Maturitas, 69, 99-105, doi:10.1016/j.maturitas.2011.03.008. | Detail ↩
+
+stblom, G. Ö., and E. Samakovlis, 2007: Linking health and productivity impacts to climate policy costs: A general equilibrium analysis. Climate Policy, 7, 379-391, doi:10.1080/14693062.2007.9685663. URL | Detail ↩
+
+National Climate Assessment
+The National Climate Assessment summarizes the impacts of climate change on the United States, now and in the future.
+
+A team of more than 300 experts guided by a 60-member Federal Advisory Committee produced the report, which was extensively reviewed by the public and experts, including federal agencies and a panel of the National Academy of Sciences.
+
+United States Global Change Research Program logo United States Global Change Research Program participating agency logos
+2014 National Climate Assessment. U.S. Global Change Research Program
+1800 G Street, NW, Suite 9100, Washington, D.C. 20006 USA
+
+Tel: +1 202 223 6262 | Fax: +1 202 223 3065 | Contact Us | Privacy Policy | Site Map
+
+Some figures and images are copyright protected.
+Permission of the copyright owner must be obtained before making use of copyrighted material.

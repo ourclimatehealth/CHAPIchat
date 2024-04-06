@@ -1,0 +1,205 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Indoor Air Quality (IAQ)
+CONTACT US
+Low–Cost Air Pollution Monitors and Indoor Air Quality
+Low-cost air pollution monitors use one or more sensors and other components to detect, monitor and report on specific air pollutants like particulate matter (PM) or carbon dioxide and/or environmental factors such as temperature and humidity. Depending on the sensor or combination of sensors used, these monitors detect one or more, or a combination of pollutants and/or environmental factors.
+The purpose of this guidance is to help inform and increase consumer understanding on the use of low-cost air pollution monitors indoors, their potential benefits and limitations, and how to apply the data they provide towards improving indoor air quality.
+
+A low-cost air pollution monitor is a device that uses one or more than one sensor and other components to detect, monitor and report on specific air pollutants like particulate matter (PM) or carbon dioxide and/or environmental factors such as temperature and humidity. Low-cost air pollution monitors also may be referred to as air sensors, air quality sensors, air quality monitors, air pollutant monitors, air pollutant meters or detectors, or low-cost air sensors. Throughout this website the term low-cost air pollution monitor will be used and discussed in the context of indoor use.
+
+For years, air sensor technology devices such as carbon monoxide monitors and smoke detectors have saved countless lives and should be present in every home as well as in schools and other buildings. As air sensor technology has evolved, sensors have become smaller, less expensive, and more widely available for use in an increased number of consumer products, including low-cost air pollution monitors.
+
+Advances in technology are providing new and greater insights into the complex mixture of gases, particles and chemicals that are present in our homes. These advances in air sensor technology are providing new tools including low-cost air pollution monitors for assessing indoor air pollutants and other indoor environmental factors. Low-cost air pollution monitors can provide users with a simple and quick way to determine levels of some air pollutants and/or environmental factors and may help them identify when to take actions to improve indoor air quality.
+
+It is important to highlight that there is currently limited information on how well some low-cost air pollution monitors detect pollutants indoors. In addition, low-cost air pollution monitors do not give a complete representation of indoor air quality and only detect contaminants or environmental factors for which they are designed. Other pollutants that may be present in the environment which are not detected by the monitor also can have an impact on human health and/or indoor air quality. For example, a monitor that only is designed to measure PM would not alert you to the presence of other potentially harmful pollutants like radon or carbon monoxide.
+
+If you or someone in your household are experiencing health symptoms that may be related to an indoor air pollutant, consider discussing that with a health care provider.
+
+Learn more about the three basic strategies for improving indoor air quality and reducing contaminant levels indoors: source control, ventilation, and supplemental filtration and air cleaning.
+
+On this page:
+
+Introduction to low-cost air pollution monitors
+Performance of low-cost air pollution monitors
+Indoor uses of low-cost air pollution monitors
+On other pages:
+
+Sensor Technology and Indoor Air Quality
+Introduction to low-cost air pollution monitors
+What is a low-cost air pollution monitor?
+What types of pollutants and environmental factors do commonly available low-cost air pollution monitors measure?
+Does an alert from a low-cost air pollution monitor indicate the potential for an immediate emergency, like an alert from a household carbon monoxide alarm or smoke detector?
+What is the difference between a low-cost air pollution monitor and the EPA regulatory monitoring network?
+What is a low-cost air pollution monitor?
+A low-cost air pollution monitor is a device that uses one or more than one sensor and other components to detect, monitor, and report on specific air pollutants like particulate matter (PM) or carbon dioxide and/or environmental factors such as temperature and humidity. Low-cost air pollution monitors can provide a way to get information about specific pollutants that may be in indoor air. Depending on the sensor(s) used, these monitors may detect one or a combination of pollutants or indoor environmental factors. Low-cost air pollution monitors may also be referred to as air sensors, air quality sensors, air quality monitors, air pollutant monitors, or low-cost air sensors.
+
+Some of these monitors have a single sensor that detects or measures a single air pollutant or environmental factor. Others may contain multiple sensors designed to detect several, or a combination of, indoor pollutants or environmental factors.
+Monitors may have a visual display which shows a number, color, or graphic as an indicator of the concentration or concentration range of the pollutants, environmental factors its sensors are designed to detect.
+
+It is important to understand that there are currently no widely accepted air concentration limits for most pollutants indoor and therefore levels that  trigger an alert of a potential problem are determined by the manufacturer of the monitor.
+
+The cost of a monitor  does not necessarily  indicate how well it will  perform. The cost of most monitors vary due to its additional features such as display quality,  housing, the number and type of sensors used in the monitor, power source, internet connectivity, and/or how the information received from the sensor is processed.
+
+What types of pollutants and environmental factors do commonly available low-cost air pollution monitors measure?
+Most low-cost air pollution monitors sold in the U.S. are designed to detect gases or particles in the air such as particulate matter (PM), radon, carbon monoxide (CO), carbon dioxide (CO2), formaldehyde, volatile organic compounds (VOCs), or environmental factors such as temperature and humidity.
+
+Using a low-cost air pollution monitor may, along with other approaches, help you identify specific indoor air quality problems. Follow the links below to learn more about additional tools and approaches for identifying specific indoor air pollutants.
+
+Learn more about:
+
+carbon monoxide
+particulate matter
+volatile organic compounds
+formaldehyde
+radon
+Does an alert from a low-cost air pollution monitor indicate the potential for an immediate emergency, like an alert from a household carbon monoxide alarm or smoke detector?
+image of a smoke alarm
+Unlike alerts from carbon monoxide (CO) alarms or smoke detectors, alerts (audible or visual cues) from low-cost air pollution monitors are not designed to warn of the potential for  immediate danger to your health or life.
+
+Low-cost air pollution monitors use one or more than one sensor and other components to detect, monitor and report on specific air pollutants like particulate matter and/or environmental factors such as temperature and humidity. In contrast, emergency alert devices such as (CO) alarms or smoke detectors are designed and certified to warn of a potentially life-threatening situation and the need for immediate attention and/or the possible need to evacuate from an area.
+
+(CO) is a colorless, odorless gas which at high levels can cause serious illness and death. CO alarms are designed to warn you of any unusual build-up of CO in your home and should be certified to the most current Underwriters Laboratory (UL) Standard 2034 or the International Approval Services (IAS) 6-96 standard.
+
+Smoke detectors are common household items that keep you and your family safe by alerting you to smoke in your home. A smoke detector is a device that senses smoke and is an indicator of potential fire.
+
+Learn more about:  
+
+carbon monoxide alarms.
+smoke detectors from the US Fire Administration.
+What is the difference between a low-cost air pollution monitor and the EPA regulatory monitoring network?
+While a low-cost air pollution monitor may provide a way to get information about specific pollutants in air – outdoors or indoors, that information is not equivalent to data from monitors used in the ambient (outdoor) EPA regulatory air monitoring network.
+
+The Clean Air Act of 1970 requires nationwide ambient monitoring of six criteria pollutants (i.e., particulate matter, ozone, carbon monoxide, sulfur dioxide, nitrogen oxides, and lead) known to pose public health threats. The Clean Air Act specifies the setup and ongoing operation of nationwide air monitoring stations by state, local and tribal air agencies that are part of the network. EPA has a formal process for the evaluation of technologies proposed for use as Federal Reference Method or Federal Equivalent Method monitors, also known as FRM or FEM respectively, used for monitoring compliance with National Ambient Air Quality Standards.
+
+These are considered the gold standard for air quality monitoring and are different devices than the low-cost air pollution monitors designed for use indoors discussed in this guidance. Currently, there are no equivalent reference methods or air monitoring networks for indoor air.
+
+Learn more about:
+
+National Ambient Air Quality Standards
+Ambient Air Monitoring Networks  
+Ambient Regulatory Monitor Evaluations
+Performance of low-cost air pollution monitors
+What is the typical lifespan of a low-cost air pollution monitor?
+How accurate and precise are low-cost air pollution monitors at measuring contaminants and other environmental factors?
+What is the typical lifespan of a low-cost air pollution monitor?
+All air pollutant monitors have a limited lifespan and can become less reliable over time. Manufacturers may provide an estimate of how long their product can be operated before it needs to be serviced or replaced. It is a good idea to look for this information when choosing a monitor.
+
+How accurate and precise are low-cost air pollutant monitors at measuring contaminants and other environmental factors?
+image demonstrating accuracy versus precision
+Accuracy versus Precision (View a printable version of this graphic)
+There is limited information on the accuracy and precision of low-cost air pollutant monitors currently available in the marketplace. The accuracy and precision of some monitors can be impacted by a number of factors such as where the monitor is placed in the indoor space, time in use, methods of processing the data, temperature, and relative humidity, as well as the presence of multiple contaminants in the air. In addition, the accuracy and precision of pollutant detecting monitors can also vary across manufacturers as well as within product lines made by the same company.
+
+Accuracy is measure of closeness to what is actually in air
+Precision is measure of how well each air reading repeats
+Accurate and Precise is the ideal measure
+See: Understanding Accuracy and Precision of Low-Cost Air Pollution Monitor Measurements.
+
+Some organizations, including EPA, have conducted independent evaluations of certain air pollutant monitors. Generally, these monitors have been evaluated based on outdoor conditions which may not reflect use indoors. There are currently no widely accepted indoor performance criteria used for most low-cost air pollutant monitors.
+
+Learn more about how indoor air sensors perform:
+
+Consumer Indoor Air Sensors Evaluation Lawrence Berkeley National Laboratories Indoor Program Air Quality Sensors
+Lawrence Berkeley National Laboratories research article,  "Performance assessment of low-cost environmental monitors and single sensors under variable indoor air quality and thermal conditions"
+Lawrence Berkeley National Laboratories research article, "Performance of low-cost indoor air quality monitors for PM2.5 and PM10 from residential sources"
+EPA’s Air Sensor Toolbox Evaluation of air sensor monitoring performance and use reference materials.  This resource is primarily based on ambient use. EPA Air Sensor Toolbox:  Evaluation of Emerging Air Sensor Performance
+AQ-SPEC evaluation of “low-cost” air quality sensors under ambient (field) and controlled (laboratory) conditions South Coast Air Quality Management District’s AQ SPEC Program
+Indoor uses of low-cost air pollution monitors
+What can I learn about indoor air quality from using a low-cost air pollutant monitor?
+What actions can I take if a low-cost air pollutant monitor detects an indoor air pollutant?
+What do the readings from a low-cost air pollution monitor mean for my health?
+Are there low-cost air pollutant monitors sold specifically for indoor use?
+Does the EPA evaluate low-cost air pollution monitors for indoor use?
+Does the EPA make recommendations on low-cost air pollution monitors for indoor use?
+ 
+What can I learn about indoor air quality from using a low-cost air pollutant monitor?
+Low-cost air pollution monitors can provide some information about the levels of specific pollutants or environmental factors in a space and how those pollutant levels or environmental factors are impacted by activities in a space. For example, you might use one or more monitors to assess levels of specific pollutants or environmental factors indoors. In some instances, you may wish to use one or more monitors to compare pollutant levels or environmental factors before, during, and after an activity like cooking. It is important to note that low-cost air pollution monitors only detect contaminants or environmental factors for which they are designed. Therefore, it is not possible to get a complete representation of indoor air quality from using one. Other pollutants may be present in the environment that are not detected by the monitor that also can have an impact on human health and/or indoor air quality.
+
+When using a monitor in an indoor space it is important to follow the manufacturer’s instructions. In addition, it is important to understand that the pollutant you are trying to measure can have an impact on where the monitor should be placed. In general, try to place the monitor in the breathing zone of the occupant(s) (e.g., 3-6 feet for a typical adult depending on if they are sitting or standing) and in a location that does not restrict air flow into the monitor (such as could be the case if the monitor were placed against a wall). Avoid placing monitors immediately next to possible pollutant sources (e.g., near stoves, fireplaces, stored cleaning products) or drafts (e.g., near ac/heater vents or open windows) because it could impact the results provided by the monitor.
+
+Learn more about the three basic strategies for improving indoor air quality that can be used to reduce contaminant levels indoors: source control, ventilation, and supplemental filtration and air cleaning.
+What action can I take if low-cost air pollution monitor detects an indoor air pollutant?
+It is important to keep in mind that if a monitor detects a pollutant, it does not necessarily mean that an indoor air quality problem exists. However, monitors may provide information to help you identify sources and activities that can cause pollutant levels to change. Information about a pollutant may help you take informed actions to reduce or eliminate the pollutant.
+
+For example:
+
+If your Radon monitor detects an elevated level of Radon above EPA’s action level of 4 pCi/L you may wish to use a long-term test or consult a Radon professional.
+If while cooking your particulate matter monitor indicates a level of increased particulate matter, you may want to increase your exhaust ventilation by turning on a range hood  or opening a window or door.
+If a carbon dioxide monitor in a classroom indicates rising levels of carbon dioxide you may want to open a window to increase ventilation.
+In some cases, you may need to contact a professional to identify or resolve pollutant or indoor air quality concerns.
+
+Learn more about the three basic strategies for improving IAQ that can be used to reduce contaminant levels indoors: source control, ventilation, and supplemental filtration and air cleaning.
+What do the readings from a low-cost air pollution monitor mean for my health?
+It is not possible to fully understand potential health impacts or risks solely based on a monitor’s detection of a pollutant(s). There are many complex factors that go into identifying an individual’s health risk including personal health status and sensitivities, level of exposure, and other environmental factors. However, using a low-cost air pollution monitor may provide a simple and quick way to determine levels of certain air pollutants and/or environmental factors and help users identify when to take actions such as removing a pollutant source, increasing ventilation, or using supplemental filtration to improve indoor air quality.
+
+In addition, there are currently no widely accepted performance criteria used to standardize how measurements are made by low-cost air pollutant monitors, or what thresholds limits are used to determine the alert cues used for the various low-cost air pollutant monitors. It is important to note that air pollutant concentrations do not necessarily directly translate to health outcomes and that for most pollutants there are no widely accepted indoor health-based standards or thresholds at this time to use in comparison.
+
+If you are concerned about potential health impacts related to the level of pollutant measured by a low-cost air pollution monitor or you or someone in your household are experiencing health symptoms that may be related to indoor air quality, consider discussing that with a health care provider.
+
+For more information on Indoor Air Pollution and Health
+Learn more about the three basic strategies for improving IAQ that can be used to reduce contaminant levels indoors: source control, ventilation, and supplemental filtration and air cleaning.
+Are there low-cost air pollution monitors sold specifically for indoor use?
+Yes, some monitors are specifically labeled and/or marketed for use indoors, or for both indoor and outdoor use. It is uncertain how monitors labeled only for use outdoors perform indoors. Failing to follow manufacturer’s use instructions may compromise monitor performance.
+
+Does the EPA evaluate low-cost air pollution monitors for indoor use?
+EPA does not generally conduct evaluations of low-cost air pollution monitors under indoor test conditions. EPA does evaluate select air sensor technologies, but generally these evaluations are carried out in outdoor, ambient conditions. Other organizations have evaluated select low-cost air pollution monitors under indoor test conditions.
+
+Learn more about sensor evaluation for indoor environments:
+
+Consumer Indoor Air Sensors Evaluation Lawrence Berkeley National Laboratories Indoor Program Air Quality Sensors
+Lawrence Berkeley National Laboratories research article,  "Performance assessment of low-cost environmental monitors and single sensors under variable indoor air quality and thermal conditions"
+Lawrence Berkeley National Laboratories research article "Performance of low-cost indoor air quality monitors for PM2.5 and PM10 from residential sources"
+Does EPA make recommendations on low-cost air pollution monitors available on the market for indoor use?
+No, EPA does not make recommendations or endorsements to the public on specific low-cost air pollution monitors for indoor use.
+
+EPA provides resources for conducting air monitoring projects on the Air Sensor Toolbox and provides performance evaluation reports by EPA scientists of air sensors on the market, tools for data adjustment and visualization, a guidebook that gives a broad overview on air sensors, and more. This resource is primarily based on ambient (outdoor) use.
+
+Learn more about EPA-Air Sensor Toolbox
+Indoor Air Quality Home
+Learn about Indoor Air Quality
+IAQ by Building Type
+Network and Collaborate
+Popular IAQ Topics
+Frequently Asked Questions
+Publications
+Regional and State IAQ Information
+Webinars, Meetings & Updates
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON JANUARY 3, 2024
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.

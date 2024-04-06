@@ -1,0 +1,189 @@
+Skip to main content
+NCA4
+ABOUT 
+CHAPTERS 
+DOWNLOADS 
+CH 14: HEALTH
+FOURTH NATIONAL CLIMATE ASSESSMENT
+CHAPTER 14: HUMAN HEALTH
+
+
+
+
+
+
+
+
+
+
+SECTIONS
+Executive Summary
+Introduction
+KM 1: Health Impacts
+KM 2: Vulnerable Populations
+KM 3: Adaptation Benefits
+KM 4: Mitigation Benefits
+Traceable Accounts
+References
+CHAPTER 14
+Human Health
+Introduction
+A comprehensive assessment of the impacts of climate change on human health in the United States concluded that climate change exacerbates existing climate-sensitive health threats and creates new challenges, exposing more people in more places to hazardous weather and climate conditions.1 This chapter builds on that assessment and considers the extent to which modifying current, or implementing new, health system responses could prepare for and manage these risks. Please see Chapter 13: Air Quality for a discussion of the health impacts associated with air quality, including ozone, wildfires, and aeroallergens.
+
+Key Message 1
+
+CLIMATE CHANGE AFFECTS THE
+HEALTH OF ALL AMERICANS
+The health and well-being of Americans are already affected by climate change, with the adverse health consequences projected to worsen with additional climate change. Climate change affects human health by altering exposures to heat waves, floods, droughts, and other extreme events; vector-, food- and waterborne infectious diseases; changes in the quality and safety of air, food, and water; and stresses to mental health and well-being.
+
+ 	 	
+Figure 14.1: Climate Change and Health
+Climate Change and HealthA flow chart illustrates the pathways by which climate change could affect human health. That is, climate drivers, such as increased temperatures and precipitation extremes, can expose humans to conditions like extreme heat and reduced food and water quality. In turn, this exposure can lead to negative health outcomes, including heat-related illness; food-, water-, and vector-borne diseases; and mental health issues. Environmental and institutional factors, such as infrastructure condition and geography, and social and behavioral factors, such as age, race and ethnicity, and education, can further influence vulnerability.
+Figure 14.1: This conceptual diagram illustrates the exposure pathways by which climate change could affect human health. Exposure pathways exist within the context of other factors that positively or negatively influence health outcomes (gray side boxes). Key factors that influence vulnerability for individuals are shown in the right box and include social determinants of health and behavioral choices. Key factors that influence vulnerability at larger scales, such as natural and built environments, governance and management, and institutions, are shown in the left box. The extent to which climate change could alter the burden of disease in any location at any point in time will depend not just on the magnitude of local climate change but also on individual and population vulnerability, exposure to changing weather patterns, and capacity to manage risks, which may also be affected by climate change. Source: Balbus et al. 2016.2
+SHRINK
+
+The first paragraph in each of the following sections summarizes findings of the 2016 U.S. Climate and Health Assessment,1 and the remainder of each section assesses findings from newly published research.
+
+Extreme Events
+More frequent and/or more intense extreme events, including drought, wildfires, heavy rainfall, floods, storms, and storm surge, are expected to adversely affect population health.3 These events can exacerbate underlying medical conditions, increase stress, and lead to adverse mental health effects.4 Further, extreme weather and climate events can disrupt critical public health, healthcare, and related systems in ways that can adversely affect health long after the event.3
+
+Recent research improves identification of vulnerable population groups during and after an extreme event,5 including their geographic location and needs (e.g. Bathi and Das 2016, Gotanda et al. 2015, Greenstein et al. 20166,7,8). For example, the 2017 hurricane season highlighted the unique vulnerabilities of populations residing in Puerto Rico, the U.S. Virgin Islands, and other Caribbean islands (Ch. 20: U.S. Caribbean, Box 20.1).9
+
+Box 14.1: Health Impacts of Drought
+and Periods of Unusually Dry Months
+In late 2015, California was in the fourth year of its most severe drought since becoming a state in 1850, with 63 emergency proclamations declared in cities, counties, tribal governments, and special districts.10,11 Households in two drought-stricken counties (Tulare and Mariposa) reported a range of drought-related health impacts, including increased dust leading to allergies, asthma, and other respiratory issues and acute stress and diminished peace of mind.10 These health effects were not evenly distributed, with more negative physical and mental health impacts reported when drought negatively affected household property and finances.
+
+Drier conditions can increase reproduction of a fungus found in soils, potentially leading to the disease coccidioidomycosis, or Valley fever.3,12 Coccidioidomycosis can cause persistent flu-like symptoms, with over 40% of cases hospitalized and 75% of patients unable to perform their normal daily activities for weeks, months, or longer. Higher numbers of cases in Arizona and California are associated with periods of drier conditions as measured by lower soil moisture in the previous winter and spring.13
+
+Overall, the impacts of drought on hospital admissions and deaths depend on drought severity and the history of droughts in a region.14 Complex relationships between drought and its associated economic consequences, particularly the interactions among factors that affect vulnerability, protective factors, and coping mechanisms, can increase mood disorders, domestic violence, and suicide.15,16,17
+
+Temperature Extremes
+High temperatures in the summer are conclusively linked to an increased risk of a range of illnesses and death, particularly among older adults, pregnant women, and children.18 People living in urban areas may experience higher ambient temperatures because of the additional heat associated with urban heat islands, exacerbating heat-related risks.19 With continued warming, increases in heat-related deaths are projected to outweigh reductions in cold-related deaths in most regions.18
+
+Analyses of hospital admissions, emergency room visits, or emergency medical services calls show that hot days are associated with an increase in heat-related illnesses,20,21 including cardiovascular and respiratory complications,22 renal failure,23 electrolyte imbalance, kidney stones,24 negative impacts on fetal health,25 and preterm birth.26 Risks vary across regions (Ch. 18: Northeast, Box 18.3).27 Health risks may be higher earlier in the summer season when populations are less accustomed to experiencing elevated temperatures, and different outcomes are observed at different levels of high temperature.28,29 See Chapter 13: Air Quality for a discussion of the associations between temperature, air quality, and adverse health outcomes.
+
+Vector-Borne Diseases
+Climate change is expected to alter the geographic range, seasonal distribution, and abundance of disease vectors, exposing more people in North America to ticks that carry Lyme disease or other bacterial and viral agents, and to mosquitoes that transmit West Nile, chikungunya, dengue, and Zika viruses.30,31,32 Changing weather patterns interact with other factors, including how pathogens adapt and change, changing ecosystems and land use, demographics, human behavior, and the status of public health infrastructure and management.33,34
+
+El Niño events and other episodes of variable weather patterns may indicate the extent to which the risk of infectious disease transmission could increase with additional climate change.33,35,36
+
+Increased temperatures and more frequent and intense extreme precipitation events can create conditions that favor the movement of vector-borne diseases into new geographic regions (e.g., Belova et al. 2017, Monaghan et al. 2016, Ogden and Lindsay 201631,37,38). At the same time, very high temperatures may reduce transmission risk for some diseases.39,40 Economic development also may substantially reduce transmission risk by reducing contacts with vector populations.41 In the absence of adaptation, exposure to the mosquito Aedes aegypti, which can transmit dengue, Zika, chikungunya, and yellow fever viruses, is projected to increase by the end of the century due to climatic, demographic, and socioeconomic changes, with some of the largest increases projected to occur in North America.31,32 Similarly, changes in temperature may influence the distribution and abundance of tick species that transmit common pathogens.38,42,43
+
+Box 14.2: Transboundary
+Transmission of Infectious Diseases
+Outbreaks occurring in other countries can impact U.S. populations and military personnel living abroad and can sometimes affect the United States. For example, the 2015–16 El Niño, one of the strongest on record,44 may have contributed to the 2014–16 Zika epidemic in the Americas.31,45,46,47,48 Warmer conditions may have facilitated expansion of the geographic range of mosquito populations and increased their capacity to transmit Zika virus.40 Zika virus can cause a wide range of symptoms, including fever, rash, and headaches, as well as birth defects. The outbreak began in South America and spread to areas with mosquitoes capable of transmitting the virus, including Puerto Rico, the U.S. Virgin Islands, Florida, and Texas.
+
+Water-Related Illnesses and Death
+Increasing water temperatures associated with climate change are projected to alter the seasonality of growth and the geographic range of harmful algae and coastal pathogens, and runoff from more frequent and intense rainfall is projected to increasingly compromise recreational waters and sources of drinking water through increased introductions of pathogens and toxic algal blooms.49,50,51,52,53,54
+
+Projected increases in extreme precipitation and flooding, combined with inadequate water and sewer infrastructure, can contribute to viral and bacterial contamination from combined sewage overflows and a lack of access to potable drinking water, increasing exposure to pathogens that lead to gastrointestinal illness.55,56,57,58,59 The relationship between precipitation and temperature-driven transmission of waterborne diseases is complex and site-specific, with, for example, some areas finding increased numbers of cases associated with excessive rainfall and others finding stronger associations with drought.60,61,62,63,64,65 Heavy rainfall, flooding, and high temperatures have been linked to increases in diarrheal disease62,64,66,67 and can increase other bacterial and parasitic infections such as leptospirosis and cryptosporidiosis.65,68 Increases in air temperatures and heat waves are expected to increase temperature-sensitive marine pathogens such as Vibrio.60,69,70,71
+
+Food Safety and Nutrition
+Climate change, including rising temperatures and changes in weather extremes, is projected to adversely affect food security by altering exposures to certain pathogens and toxins (for example, Salmonella, Campylobacter, Vibrio parahaemolyticus in raw oysters, and mycotoxigenic fungi).72
+
+Climate change, including changes in some extreme weather and climate events, can adversely affect global and U.S. food security by, for example, threatening food safety,73,74,75 disrupting food availability, decreasing access to food, and increasing food prices.76,77,78,79,80,81,82 Food quality also is expected to be affected by rising CO2 concentrations that decrease dietary iron,83 zinc,84 protein,85 and other macro- and micronutrients in crops86,87,88 and seafood.89,90 Projected changes in carbon dioxide concentrations and climate change could diminish expected gains in global nutrition; however, any impact on human health will depend on the many other drivers of global food security and factors such as food chain management, human behavior, and food safety governance.91,92,93,94
+
+Mental Health
+Mental health consequences, ranging from minimal stress and distress symptoms to clinical disorders, such as anxiety, depression, post-traumatic stress, and suicidality, can result from exposures to short-lived or prolonged climate- or weather-related events and their health consequences.4 These mental health impacts can interact with other health, social, and environmental stressors to diminish an individual’s well-being. Some groups are more vulnerable than others, including the elderly, pregnant women, people with preexisting mental illness, the economically disadvantaged, tribal and Indigenous communities, and first responders.4
+
+Individuals whose households experienced a flood or risk of flood report higher levels of depression and anxiety, and these impacts can persist several years after the event.95,96,97,98 Disasters present a heavy burden on the mental health of children when there is forced displacement from their home or a loss of family and community stability.99 Increased use of alcohol and tobacco are common following disasters as well as droughts.15,16,100,101 Higher temperatures can lead to an increase in aggressive behaviors, including homicide.102,103 Social cohesion, good coping skills, and preemptive disaster planning are examples of adaptive measures that can help reduce the risk of prolonged psychological impacts.102,104,105
+
+Key Message 2
+
+EXPOSURE AND RESILIENCE
+VARY ACROSS POPULATIONS
+AND COMMUNITIES
+People and communities are differentially exposed to hazards and disproportionately affected by climate-related health risks. Populations experiencing greater health risks include children, older adults, low-income communities, and some communities of color.
+
+The health impacts of climate change are not felt equally, and some populations are at higher risk than others.106 Low-income communities and some communities of color are often already overburdened with poor environmental conditions and are disproportionately affected by, and less resilient to, the health impacts of climate change.106,107,108,109,110 The health risks of climate change are expected to compound existing health issues in Native American and Alaska Native communities, in part due to the loss of traditional foods and practices, the mental stress from permanent community displacement, increased injuries from lack of permafrost, storm damage and flooding, smoke inhalation, damage to water and sanitation systems, decreased food security, and new infectious diseases (Ch. 15: Tribes; Ch. 26: Alaska).111,112
+
+Across all climate risks, children, older adults, low-income communities, some communities of color, and those experiencing discrimination are disproportionately affected by extreme weather and climate events, partially because they are often excluded in planning processes.113 Other populations might experience increased climate risks due to a combination of exposure and sensitivity, such as outdoor workers, communities disproportionately burdened by poor environmental quality, and some communities in the rural Southeastern United States (Ch. 19: Southeast).114,115,116
+
+Additional populations with increased health and social vulnerability typically have less access to information, resources, institutions, and other factors to prepare for and avoid the health risks of climate change. Some of these communities include poor people in high-income regions, minority groups, women, pregnant women, those experiencing discrimination, children under five, persons with physical and mental illness, persons with physical and cognitive disabilities, the homeless, those living alone, Indigenous people, people displaced because of weather and climate, the socially isolated, poorly planned communities, the disenfranchised, those with less access to healthcare, the uninsured and underinsured, those living in inadequate housing, and those with limited financial resources to rebound from disasters.107,109,117,118 Figure 14.2 depicts some of the populations vulnerable to weather, climate, and climate change.
+
+ 	 	
+Figure 14.2: Vulnerable Populations
+Vulnerable Populations
+Figure 14.2: Examples of populations at higher risk of exposure to adverse climate-related health threats are shown along with adaptation measures that can help address disproportionate impacts. When considering the full range of threats from climate change as well as other environmental exposures, these groups are among the most exposed, most sensitive, and have the least individual and community resources to prepare for and respond to health threats. White text indicates the risks faced by those communities, while dark text indicates actions that can be taken to reduce those risks. Source: EPA.
+SHRINK
+
+Building Resilient Communities
+Projections of climate change-related changes in the incidence of adverse health outcomes, associated treatment costs, and health disparities can promote understanding of the ethical and human rights dimensions of climate change, including the disproportionate share of climate-related risk experienced by socially marginalized and poor populations. Such projections can also highlight options to increase population resilience.119,120,121 The ability of a community to anticipate, plan for, and reduce impacts is enhanced when these efforts build on other environmental and social programs directed at sustainably and equitably addressing human needs.122 Resilience is enhanced by community-driven planning processes where residents of vulnerable and impacted communities define for themselves the complex climate challenges they face and the climate solutions most relevant to their unique vulnerabilities.110,123,124,125 A flood-related disaster in central Appalachia in spring 2013 highlighted how community-based coping strategies related to faith and spirituality, cultural values and heritage, and social support can enhance resilience post-disaster.126
+
+Communities in Louisiana and New Jersey, for example, are already experiencing a host of negative environmental exposures coupled with extreme coastal and inland flooding. Language-appropriate educational campaigns can highlight the effectiveness of ecological protective measures (such as restoring marshes and dunes to prevent or reduce surge flooding) for increasing resilience. Resilience also can be built by creating institutional readiness, recognizing the importance of resident mobility (geographic movements at various scales such as commuting, migration, and evacuation), acknowledging the importance and support of social networks (such as family, church, and community), and facilitating adaptation to changing conditions.127,128
+
+Key Message 3
+
+ADAPTATION REDUCES RISKS
+AND IMPROVES HEALTH
+Proactive adaptation policies and programs reduce the risks and impacts from climate-sensitive health outcomes and from disruptions in healthcare services. Additional benefits to health arise from explicitly accounting for climate change risks in infrastructure planning and urban design.
+
+Adapting to the Health Risks of Climate Change
+Individuals, communities, public health departments, healthcare facilities, organizations, and others are taking action to reduce health and social vulnerabilities to current climate change and to increase resilience to the risks projected in coming decades.129
+
+Examples of state-level adaptation actions include conducting vulnerability and adaptation assessments, developing comprehensive response plans (for example, extreme heat),110,130 climate-proofing healthcare infrastructure, and implementing integrated surveillance of climate-sensitive infectious disease (for example, Lyme disease). Incorporating short-term to seasonal forecasts into public health programs and activities can protect population health today and under a warming climate.129 Over decades or longer, emergency preparedness and disaster risk reduction planning can benefit from incorporating climate projections to ensure communities are prepared for changing weather patterns.131
+
+Local efforts include altering urban design (for example, by using cool roofs, tree shades, and green walkways) and improving water management (for example, via desalination plants or watershed protection). These can provide health and social justice benefits, elicit neighborhood participation, and increase resilience for specific populations, such as outdoor workers.107,132,133
+
+Adaptation options at multiple scales are needed to prepare for and manage health risks in a changing climate. For example, options to manage heat-related mortality include individual acclimatization (the process of adjusting to higher temperatures) as well as protective measures, such as heat wave early warnings,134 air conditioning at home, cooling shelters,135 green space in the neighborhood,136,137 and resilient power grids to avoid power outages during extreme weather events.138
+
+Early warning and response systems can protect population health now and provide a basis for more effective adaptation to future climate.139,140,141 Improvements in forecasting weather and climate conditions and in environmental observation systems, in combination with social factors, can provide information on when and where changing weather patterns could result in increasing numbers of cases of, for example, heat stress or an infectious disease.31,45,142,143,144 Such early warning systems can provide more time to pre-position resources and implement control programs, thereby preventing adverse health outcomes. For example, to help communities prepare for extreme heat, federal agencies are partnering with local entities to bring together stakeholders across the fields of public health, meteorology, emergency management, and policy to develop useful information systems that can prevent heat-related illnesses and deaths.145 Adaptation efforts outside the health sector can have health benefits when, for example, infrastructure planning is designed to cool ambient temperatures and attenuate storm water runoff146,147 and when interagency planning initiatives involve transportation, ecosystem management, urban planning, and water management.148 Adaptation measures developed and deployed in other sectors can harm population health if they are developed and implemented without taking health into consideration.
+
+ 	
+Box 14.3: Healthcare
+The U.S. healthcare sector is a significant contributor to climate change, accounting for about 10% of total U.S. greenhouse gas emissions.149 Healthcare facilities are also a critical component of communities’ emergency response system and resilience to climate change. Measures within healthcare institutions that decrease greenhouse gas emissions could significantly reduce U.S. emissions, reduce operating costs, and contribute to greater resilience of healthcare infrastructure. For example, U.S. hospitals could save roughly $15 billion over 10 years by adopting basic energy efficiency and waste-reduction measures (cumulative; no discount rate reported).150 Combined heat and power systems can enhance hospitals’ resilience in the face of interruptions to the power grid while reducing costs and emissions in normal operations.151
+
+ 	 	
+Figure 14.3: Hospitals at Risk from Storm Surge by Hurricanes
+
+
+Hurricane Flooding	1	2	3	4	5
+Hospital Flooding by Hurricane Category	1	2	3	4	5	NoneMapbox CLICK HERE TO INTERACT
+
+Figure 14.3: These maps shows the locations of hospitals in Charleston County, South Carolina, and Miami-Dade County, Florida, with respect to storm surge inundation for different categories of hurricanes making landfall at high tide. Colors indicate the lowest category hurricane affecting a given location, with darker blue shading indicating areas with the greatest susceptibility to flooding and darker red dots indicating the most vulnerable hospitals. Four of the 38 (11%) hospitals in Miami-Dade County face possible storm surge inundation following a Category 2 hurricane; this could increase to 26 (68%) following a Category 5 hurricane. Charleston hospitals are more exposed to inundation risks. Seven of the 11 (64%) hospitals in Charleston County face possible storm surge inundation following a Category 2; this could increase to 9 (82%) following a Category 4. The impacts of a storm surge will depend on the effectiveness of resilience measures, such as flood walls, deployed by the facilities. Data from National Hurricane Center 2018152 and the Department of Homeland Security 2018.153
+In addition, healthcare facilities may benefit from modifications to prepare for potential consequences of climate change. For example, Nicklaus Children’s Hospital, formerly Miami Children’s, invested $11.3 million in a range of technology retrofits, including a hurricane-resistant shell, to withstand Category 4 hurricanes for uninterrupted, specialized medical care services.151 The hospital was able to operate uninterrupted during Hurricane Irma and provided shelter for spouses and families of storm-duty staff and some storm evacuees. Assessment of climate change related risks to healthcare facilities and services can inform healthcare sector disaster preparedness efforts. For example, analyses in Los Angeles County suggest that preparing for increased wildfire risk should be a priority for area hospitals.154
+
+Key Message 4
+
+REDUCING GREENHOUSE GAS
+EMISSIONS RESULTS IN HEALTH
+AND ECONOMIC BENEFITS
+Reducing greenhouse gas emissions would benefit the health of Americans in the near and long term. By the end of this century, thousands of American lives could be saved and hundreds of billions of dollars in health-related economic benefits gained each year under a pathway of lower greenhouse gas emissions.
+
+Reducing greenhouse gas emissions (Ch. 29: Mitigation) would benefit the health of Americans in the near and long term.1,155 Adverse health effects attributed to climate change have many potential economic and social costs, including medical expenses, caregiving services, or lost productivity, as well as costs that are harder to quantify, such as those associated with pain, suffering, inconvenience, or reduced enjoyment of leisure activities.156 These health burdens are typically borne by the affected individual as well as family, friends, employers, communities, and insurance or assistance programs.
+
+Under a lower scenario (RCP4.5) by the end of this century, thousands of lives could be saved and hundreds of billions of dollars of health-related costs could be avoided compared to a higher scenario (RCP8.5).157 Annual health impacts (including from temperature extremes, poor air quality, and vector-borne diseases) and health-related costs are projected to be approximately 50% less under a lower scenario (RCP4.5) than under a higher scenario (RCP8.5) (methods are summarized in Traceable Accounts) (see also Ch. 13: Air Quality).37,157,158,159,160,161,162,163,164,165,166,167 The projected lives saved and economic benefits are likely to underestimate the true value because they do not include benefits of impacts that are difficult to quantify, such as mental health or long-term health impacts (see the Scenario Products Section in App. 3 for more on scenarios).
+
+Temperature-Related Mortality
+The projected increase in the annual number of heat wave days is substantially reduced under a lower scenario (RCP4.5) compared to a higher scenario (RCP8.5), reducing heat wave intensities161,168 and resulting in fewer high-mortality heat waves162,168 without considering adaptation (Figure 14.4). In 49 large cities in the United States, changes in extreme hot and extreme cold temperatures are projected to result in more than 9,000 additional premature deaths per year under a higher scenario by the end of the century, although this number would be lower if considering acclimatization or other adaptations (for example, increased use of air conditioning). Under a lower scenario, more than half of these deaths could be avoided each year. Annual damages associated with the additional extreme temperature-related deaths in 2090 were projected to be $140 billion (in 2015 dollars) under a higher scenario (RCP8.5) and $60 billion under a lower scenario (RCP4.5).157
+
+ 	 	
+Figure 14.4: Projected Change in Annual Extreme Temperature Mortality
+Projected Change in Annual Extreme Temperature MortalityTwo maps of the continental United States show estimated changes in annual net mortality (in deaths per 100,000 people) due to extremely hot and cold days in 49 U.S. cities for 2080 to 2099 (compared to 1989 to 2000) under a lower scenario (RCP4.5) and a higher scenario (RCP8.5). Under the lower scenario, mortality rates across most cities are projected to increase by 210,000 to 600,000 deaths per year. Orlando, Florida, is projected to experience the greatest change—an additional 610,000 to 800,000 deaths per year. Under the higher scenario, the majority of major U.S. cities are projected to experience an additional 610,000 to 1 million deaths per year. Under both scenarios, mortality rates are higher in the eastern half of the United States.
+Figure 14.4: The maps show estimated changes in annual net mortality due to extremely hot and cold days in 49 U.S. cities for 2080–2099 as compared to 1989–2000. Across these cities, the change in mortality is projected to be an additional 9,300 deaths each year under a higher scenario (RCP8.5) and 3,900 deaths each year under a lower scenario (RCP4.5). Assuming a future in which the human health response to extreme temperatures in all 49 cities was equal to that of Dallas today (for example, as a result of availability of air conditioning or physiological adaptation) results in an approximate 50% reduction in these mortality estimates. For example, in Atlanta, an additional 349 people are projected to die from extreme temperatures each year by the end of century under RCP8.5. Assuming residents of Atlanta in 2090 have the adaptive capacity of Dallas residents today, this number is reduced to 128 additional deaths per year. Cities without circles should not be interpreted as having no extreme temperature impact. Data not available for the U.S. Caribbean, Alaska, or Hawai‘i & U.S.-Affiliated Pacific Islands regions. Source: adapted from EPA 2017.157
+SHRINK
+
+Labor Productivity
+Under a higher scenario (RCP8.5), almost two billion labor hours are projected to be lost annually by 2090 from the impacts of temperature extremes, costing an estimated $160 billion in lost wages (in 2015 dollars) (Ch. 1: Overview, Figure 1.21).157,167,169 States within the Southeast and Southern Great Plains regions are projected to experience higher impacts, with labor productivity in jobs with greater exposure to heat projected to decline by 3% (Ch. 19: Southeast).164,170 Some counties in Texas and Florida are projected to experience more than 6% losses in annual labor hours by the end of the century.157,160
+
+Infectious Diseases
+Annual national cases of West Nile neuroinvasive disease are projected to more than double by 2050 due to increasing temperatures, among other factors,30,171 resulting in approximately $1 billion per year in hospitalization costs and premature deaths under a higher scenario (RCP8.5; in 2015 dollars).37 In this same scenario, an additional 3,300 cases and $3.3 billion in costs (in 2015 dollars) are projected each year by the end of the century. Approximately half of these cases and costs would be avoided under a lower scenario (RCP4.5).37,157
+
+Water Quality
+By the end of the century, warming under a higher scenario (RCP8.5) is projected to increase the length of time recreational waters have concentrations of harmful algal blooms (cyanobacteria) above the recommended public health threshold by one month annually; these bacteria can produce a range of toxins that can cause gastrointestinal illness, neurological disorders, and other illnesses.157,165 The increase in the number of days where recreational waters pose this health risk is almost halved under a lower scenario (RCP4.5).
+
+TRACEABLE ACCOUNTS 
+REFERENCES 
+USGCRP Globalchange.gov earth logo
+
+13 Logos #1 13 Logos #2
+
+U.S. Global Change Research Program
+1800 G Street, NW, Suite 9100, Washington, DC 20006 USA
+Tel: +1 202.223.6262 | Fax: +1 202.223.3065
+
+Contact Us • Credits • Privacy Policy • Site Map
+
+Some figures and images are copyright protected.
+Permission of the copyright owner must be obtained
+before making use of copyrighted material.

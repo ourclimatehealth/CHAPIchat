@@ -1,0 +1,211 @@
+Navigation
+Skip to Content
+
+
+Office of Science and Technology Integration
+Modeling Program Division
+
+Search
+Sign In
+Navigation
+Home
+About Us 
+Programs 
+Projects 
+News
+Key Documents
+Grant Opportunities
+Events
+Archives 
+AQ FAQs - OSTI Modeling
+NWS OSTI
+ OSTI Modeling
+ Programs
+ Air Quality
+ AQ FAQs
+AIR QUALITY FAQS
+QUESTIONS:
+How do I interpret fine particulate matter or smoke or dust concentrations with respect to my health?
+Where can we get information on what are safe levels of ozone?
+How is the air quality in NYC so much better than the rest of the Northeast?
+How can I get archived forecast products?
+COMMENT/QUESTION:
+How do I interpret fine particulate matter or smoke or dust concentrations with respect to my health?
+
+RESPONSE:
+PROVIDED BY:
+Ivanka Stajner
+National Weather Service
+
+Fine particulate matter (PM) is often composed of smoke and/or dust. According to the EPA, the presence of airborne PM is linked to a number of health problems, including coughing, wheezing, reduced lung function, asthma attacks, heart attacks, strokes and even early death. PM2.5 is the category of PM that is 2.5 microns or less in diameter. The PM2.5 maps that are available as air quality forecasting guidance products are computer-model predictions of PM2.5 that are used by state and local air quality forecasters to assist them in issuing Air Quality Index (AQI) forecasts. The AQI links air quality-- in this case, for PM2.5 concentrations-- to health effects and cautionary language or interpretive guidance for individuals. The EPA developed the following scale that relates ambient PM2.5 concentrations, in units of micrograms per cubic meter, to health risk.
+
+Air Quality Index for PM 2.5
+(based on 24-hour average concentration)
+Index Values (Concentration Range)	Air Quality Descriptors
+ 	Who needs to be concerned	What should I do?
+0 - 50
+(0-12 µg/m3)	Good
+ 	It's a great day to be active outside.	It's a great day to be active outside.
+51 - 100
+(12.1-35.4 µg/m3)	Moderate
+ 	Some people who may be unusually sensitive to ozone.	
+Unusually sensitive people: Consider reducing prolonged or heavy outdoor exertion. Watch for symptoms such as coughing or shortness of breath. These are signs to take it easier.
+
+Everyone else: It's a good day to be active outside.
+
+101 - 150
+(35.5 – 55.4 µg/m3)	
+Unhealthy for Sensitive Groups
+ 
+
+Sensitive groups include: people with lung disease such as asthma, older adults, children and teenagers, and people who are active out- doors.	
+Sensitive groups: Reduce prolonged or heavy outdoor exertion. Take more breaks, do less intense activities. Watch for symptoms such as coughing or shortness of breath. Schedule outdoor activities in the morning when ozone is lower.
+
+People with asthma should follow their asthma action plans and keep quick relief medicine handy.
+
+151- 200
+(55.5 – 150.4 µg/m3)	Unhealthy
+ 	Everyone	
+Sensitive groups: Avoid prolonged or heavy outdoor exertion. Schedule outdoor activities in the morning when ozone is lower. Consider moving activities indoors. People with asthma, keep quick-relief medicine handy.
+
+Everyone else: Reduce prolonged or heavy outdoor exertion. Take more breaks, do less intense activities. Schedule outdoor activities in the morning when ozone is lower.
+
+201 - 300
+(150.5 – 250.4 µg/m3)	Very Unhealthy
+ 	Everyone	
+Sensitive groups: Avoid all physical activity outdoors. Move activities indoors or reschedule to a time when air quality is better. People with asthma, keep quick-relief medicine handy.
+
+Everyone else: Avoid prolonged or heavy outdoor exertion. Schedule outdoor activities in the morning when ozone is lower. Consider moving activities indoors.
+
+301 - 500
+( 250.5 – 500.4 µg/m3)	Hazardous
+ 	Everyone	Everyone: Avoid all physical activity outdoors.
+(This PM2.5 AQI table was last updated September 21, 2020 and can be downloaded as a pdf)
+ 
+Back to Top
+ 
+COMMENT/QUESTION:
+I like the ozone map now available, but can't really use it. There is no "guidance" given on the explanatory page as to what is considered a high range and low range. Where can we get information on what are safe levels and what are not?
+
+RESPONSE:
+PROVIDED BY:
+Chet Wayland, Director
+Air Quality Assessment Division
+EPA’s Office of Air Quality Planning and Standards
+
+The ozone maps available as air quality forecasting guidance products represent concentrations of forecasted ground-level ozone. The guidance is used by state and local air quality forecasters to assist them in issuing Air Quality Index (AQI) forecasts. The AQI links air quality-- in this case, for ozone concentrations-- to health effects and cautionary language or interpretive guidance for individuals.
+
+When ozone is the only pollutant affecting air quality, the risks to people’s health can be described from both short-term exposure to ozone (based on 1-hr averaged concentrations) and longer-term exposure to ozone (based on 8-hr average concentrations). EPA developed the following scale that relates shorter and longer-term exposure to the ambient ozone concentrations, in parts per billion (ppb), to health risk.
+
+Air Quality Index for Ozone
+(based on 8-hour average concentration)
+Index Values (Concentration Range)	Air Quality Descriptors
+ 	Who needs to be concerned	What should I do?
+0 - 50
+(0 - 54 ppb)	Good
+ 	No need for concern	It's a great day to be active outside.
+51 - 100
+(55 - 70 ppb)	Moderate
+ 	Some people who may be unusually sensitive to ozone.	
+Unusually sensitive people: Consider reducing prolonged or heavy outdoor exertion. Watch for symptoms such as coughing or shortness of breath. These are signs to take it easier.
+
+Everyone else: It's a good day to be active outside.
+
+101 - 150
+(71 - 85 ppb)	
+Unhealthy for Sensitive Groups
+ 
+
+Sensitive groups include: people with lung disease such as asthma, older adults, children and teenagers, and people who are active out- doors.	
+Sensitive groups: Reduce prolonged or heavy outdoor exertion. Take more breaks, do less intense activities. Watch for symptoms such as coughing or shortness of breath. Schedule outdoor activities in the morning when ozone is lower.
+
+People with asthma should follow their asthma action plans and keep quick relief medicine handy.
+
+151- 200
+(86 - 105 ppb)	Unhealthy
+ 	Everyone	
+Sensitive groups: Avoid prolonged or heavy outdoor exertion. Schedule outdoor activities in the morning when ozone is lower. Consider moving activities indoors. People with asthma, keep quick-relief medicine handy.
+
+Everyone else: Reduce prolonged or heavy outdoor exertion. Take more breaks, do less intense activities. Schedule outdoor activities in the morning when ozone is lower.
+
+201 - 300
+(106 - 200 ppb)	Very Unhealthy
+ 	Everyone	
+Sensitive groups: Avoid all physical activity outdoors. Move activities indoors or reschedule to a time when air quality is better. People with asthma, keep quick-relief medicine handy.
+
+Everyone else: Avoid prolonged or heavy outdoor exertion. Schedule outdoor activities in the morning when ozone is lower. Consider moving activities indoors.
+
+301 - 500
+( ≥ 201 ppb)	Hazardous
+ 	Everyone	Everyone: Avoid all physical activity outdoors.
+(This ozone AQI table was last updated May 10, 2016 and can be downloaded as a pdf)
+
+Back to Top
+
+ 
+
+COMMENT/QUESTION:
+I found this service surfing around your website. Could someone please explain how the air quality in NYC could be so much better than the rest of the Northeast?
+
+RESPONSE:
+PROVIDED BY:
+Ken Schere, Senior Science Advisor
+Atmospheric Modeling and Analysis Division
+EPA’s National Exposure Research Laboratory
+
+By looking at ozone, it may seem as though the air quality is better in the middle of NYC than elsewhere around it. This is misleading though. Ozone is produced through a complex set of chemical reactions in the atmosphere. It needs the starting ingredients of nitrogen dioxide and hydrocarbons to make the reactions happen. These gases are emitted in copious amounts from urban areas, such as NYC. One usually finds higher ozone in a downwind direction from the urban area, since it takes a few hours for the chemical reactions to occur and form higher ozone concentrations. So the pollutant gases emitted within NYC may cause higher ozone to form a few hours downwind, such as in southern CT or Long Island . However, if the winds are calm, the ozone-forming reactions will occur closer to the urban source areas and cause ozone buildup in the urban cores.
+
+A complicating factor is that one of the precursor gases emitted in urban areas, nitrogen oxide, also depletes ozone. The effect is most dramatic in the evening and overnight hours when there is little or no sunlight. The net effect of these chemical and transport processes often causes the ozone concentrations within the core of large urban areas to be lower than the surrounding areas. However the air is not "cleaner" here even if the ozone concentrations are lower. The urban core is bathed in the ozone precursor gases, which themselves can be irritating or in some cases, toxic. A host of other pollutants, including fine particles, are also released in the urban areas. And under conditions of light winds and stagnation, ozone too can build up within the urban cores.
+
+Back to Top
+
+ 
+
+COMMENT/QUESTION:
+I would like to acquire NOAA's historical air quality forecast guidance. How can I get archived forecast products?
+
+RESPONSE:
+PROVIDED BY:
+Youngsun Jung
+Manager, National Air Quality Forecast Capability
+Science and Technology Integration
+National Weather Service
+
+An historical archive of operational air quality forecast guidance products is accessible through the National Centers for Environmental Information (NCEI), including gridded guidance products for ozone, PM2.5, smoke, and dust. The data are archived in GRIB2 format, which requires specialized software (available through NCEI) for decoding and visualization. Users can download archived files by selecting the data type in the Select WMO Header(s) pull-down menu. Available here
+
+Back to Top
+RELATED
+NAQFC
+
+FAQs
+Publications
+Archives
+Events
+NOAA Sites
+
+NWS Air Quality Forecast Guidance
+National Centers for Environmental Prediction
+Air Resources Laboratory
+Telecommunications Operations Center
+NESDIS Hazard Mapping Satellite System for Fire and Smoke
+EPA Sites
+
+AIRNow
+Air Quality Awareness Week
+usa.gov
+Office of Science and Technology Integration
+1325 East West Highway
+Silver Spring, MD 20910-3280
+ Email Us
+US Dept of Commerce   
+National Oceanic and Atmospheric Administration   
+National Weather Service   
+Disclaimer   
+Information Quality   
+Help   
+Glossary   
+Acronyms   
+Privacy Policy   
+Freedom of Information Act (FOIA)   
+About Us
+Career Opportunities   

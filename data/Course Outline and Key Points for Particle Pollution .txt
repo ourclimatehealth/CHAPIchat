@@ -1,0 +1,322 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Particle Pollution and Your Patients' Health
+CONTACT US
+Course Outline and Key Points for Particle Pollution
+On this page:
+
+What is Particle Pollution?
+Particle Pollution Exposure
+Cardiovascular Effects
+Respiratory Effects
+Patient Exposure and the Air Quality Index
+Patient Exposure and High Particle Pollution Events
+
+What is Particle Pollution?
+
+What is particle pollution and what types of particles are health concerns?
+Particle pollution is a mixture of solids and liquid droplets made up of a number of different components.
+Your patients should be concerned about particles that are 10 micrometers in diameter or smaller (coarse, fine, and ultrafine particles) because these are the particles that can affect the heart and lungs and cause serious health effects.
+Fine and coarse particles differ by their sources, composition, dosimetry, and health effects as observed in scientific studies. This course will mainly focus on the health effects of fine particles since the scientific evidence of health effects is much stronger than for other size fractions.
+Where does particle pollution come from?
+Some particles are emitted directly from a source, such as construction sites, unpaved roads, smokestacks, or fires.
+Other particles form in complicated reactions in the atmosphere from chemicals that are emitted from power plants, industries, and automobiles. The particles, formed by chemical reaction, make up most of the fine particle pollution in the U.S.
+Cooking, smoking, dusting, and vacuuming can also produce particle pollution, particularly in indoor settings.
+Particles produced by combustion are more likely to be fine particles, while particles of crustal (earth) and biological origin are more likely to be coarse particles.
+Where and when is particle pollution a problem?
+Particle pollution is found everywhere, and pollution levels can be elevated any time of year. Particle pollution may be visible in the air, but can also be a problem in air that looks clean.
+Particle pollution levels can be especially high near busy roads, when there is smoke in the air, and when the weather is calm.
+Particle pollution generated in one area can travel hundreds or thousands of miles and influence the air quality of regions far from the original source.
+High outdoor concentrations can increase indoor concentrations of particle pollution because particles can penetrate buildings.
+Fine particles often have a seasonal pattern that varies by region of the country.
+In mountainous areas where wood is burned for heat, particle pollution levels can be especially high during wintertime inversions.
+To find out more about particle pollution patterns in your area, visit EPA's AirData website.
+
+Particle Pollution Exposure
+Why is particle pollution exposure a health concern?
+An extensive body of scientific evidence shows exposure to fine particles can cause cardiovascular effects,  including heart attacks, heart failure, and strokes, resulting in hospital admissions, emergency department visits, and, in some cases, premature death. 
+The scientific evidence shows exposure to fine particles is also likely to cause respiratory effects, including asthma attacks resulting in hospital admissions and emergency department visits, reduced lung development in children, and increased respiratory symptoms such as coughing, wheezing, and shortness of breath.  
+There is more limited scientific evidence for a broader range of health effects associated with fine particle exposure (e.g., developmental and reproductive effects, cancer).
+Although the overall level of confidence in the exposure-health effect relationship varies across the health effects examined, epidemiologic studies have shown that the association between particle pollution and morbidity and mortality is not limited to acute effects on high air pollution days, but can also result from chronic exposures to particle pollution - including those particle pollution concentrations observed during a typical day.
+What groups are at increased risk from particle pollution?
+Sensitive groups, also called at-risk populations, are at increased risk of experiencing adverse health effects related to air pollution exposures. The severity of the health effects that these groups experience may be much greater than in the general population.
+Sensitive groups considered to be at increased risk of particle pollution-related health effects include: people with heart or lung disease, children (less than 18), older adults, people with diabetes, and people of lower SES.
+Children are at greater risk because they generally spend more time outdoors at greater activity levels than adults, 
+resulting in higher exposures and higher doses of ambient particle pollution per body weight and lung surface area. Children are more likely to have asthma than adults, and children’s developing lungs are prone to damage, including irreversible effects through adolescence.
+
+Increased risk in older adults is related to the higher prevalence of pre-existing lung or cardiovascular diseases found in this age group, as well as the gradual decline in physiological defenses that occur as part of the aging process.
+A growing body of scientific evidence indicates that people with diabetes experience changes in heart (e.g., heart rate variability) and vasculature function, as well as markers of inflammation in response to acute exposures to fine particles. These changes in the cardiovascular system may lead to more severe effects, in some cases resulting in cardiovascular-related hospital admissions or premature mortality.
+People with lower SES generally have been found to have a higher prevalence of pre-existing diseases, limited access to medical care, and increased nutritional deficiencies, which might increase the group’s risk of adverse health effects from particle pollution. In addition, they may be exposed to higher levels of pollutants due to the location of their homes, schools, and work environments. Clinicians and public health officials should be aware of the potential role of SES on the risk of particle pollution-related health effects. However, other than conveying advice about reducing exposure and planning for the management of respiratory and cardiovascular diseases, there may be minimal actions they can suggest at the individual level. 
+Are there symptoms of particle pollution exposure?
+There may be no immediate symptoms even at relatively high levels of exposure.  
+A person with lung disease may not be able to breathe as deeply or as vigorously as normal and may experience coughing, chest discomfort, wheezing, shortness of breath, and unusual fatigue. 
+For a person with cardiovascular disease, exposure to unhealthy levels of particle pollution may not produce any change in respiratory symptoms, yet can still cause serious problems in a short period of time, including heart attacks.
+How does an individual's genetic background influence particle pollution response?
+Available studies implicate oxidative stress as an important pathway for the effects of particles and suggest that the genetic background of an individual influences health effects and might affect both acute and chronic exposure outcomes.
+How is particle pollution deposited in the respiratory system?
+There are three primary mechanisms of particle pollution deposition in the airways:
+Impaction (primarily coarse particles).
+Sedimentation (primarily fine particles).
+Diffusion (ultrafine particles).
+Particles may be deposited in three different regions of the respiratory system:
+Extrathoracic (nasal, pharyngeal, and laryngeal passages).
+Tracheobronchial.
+Alveolar (pulmonary).
+Three key factors affect deposition: mode of breathing (i.e., mouth, nose, or oronasal), breathing pattern (i.e., tidal volume, breathing frequency), and the characteristics of particles (i.e., size, shape, mass, hygroscopicity, and solubility).
+Coarse particles that penetrate beyond the nasopharynx deposit in the large airways, primarily the tracheobronchial region. 
+High linear velocities in the bronchi cause coarse particles to concentrate in the areas of highest impaction, the airways’ bifurcations. Prone to epithelial damage and even metaplasia, these “hot spots” also have high particle densities per tissue surface area. 
+Additional hot spots can be created in locations with excess mucus accumulation or excess production or when there is an abnormal growth in the airways that disturbs the airflow. 
+Deeper breathing promotes peripheral particle pollution deposition (i.e., in small airways and alveoli); fast shallow breathing favors more central deposition (i.e., in the trachea and large bronchi).
+During quiet breathing, most of us breathe through the nose, which can effectively filter most coarse particles.
+In general, larger particles will be deposited in the large airways while smaller particles will penetrate more deeply into the small peripheral airways and the alveoli (the pulmonary region).
+Higher minute ventilation (e.g., during exercise) increases particle dose and deposition by two mechanisms: 
+It causes a gradual switch from nose to oronasal breathing, which reduces the nose’s role as a physiologic filter.
+It increases tidal volume and breathing rate, which increases the total volume of air (and particles) inhaled. Moreover, higher airflow carries the particles more peripherally, increasing the deposition of ultrafine particles in the alveolar region.
+What are the lung’s defense mechanisms against fine particles?
+Inhaled fine particle pollution deposited on the surface of the airways may stay intact or may partially or totally dissolve. Deposited fine particle pollution is cleared by two mechanisms:
+Mucociliary clearance.
+Phagocytosis.
+Mucociliary clearance, the pulmonary system’s first and the most critical line of defense against fine particles, removes the vast majority of inhaled particles deposited in the tracheobronchial airways. This system receives additional support from the body’s cough, immunologic, phagocytic, and enzymatic defenses. The mucociliary escalator of the tracheobronchial airways very effectively moves particles toward the nasopharynx. There, the particle pollution-loaded mucus is swallowed or expectorated. Under normal conditions, mucociliary transport in healthy individuals clears most insoluble particles within 24 hours of  deposition. When normal clearance becomes impaired (as in the case of many chronic conditions such as smoking or with respiratory diseases like asthma and COPD), particle pollution retention increases and adverse health effects are compounded.
+Phagocytosis is the primary clearance mechanism for removing any foreign material (particles, microorganisms) from the alveolar region. Phagocytes are present throughout the respiratory tract. Alveolar macrophages are particularly important and remove particles following phagocytosis by migration to the tracheobronchial airways or into the interstitium to reach the lymphatic system. The efficiency of phagocytosis decreases with decreasing particle size below about 1 μm and particles can be retained in the alveolar region for multiple years.
+Some particles move from the epithelial surface into the interstitium where they may enter pulmonary lymph flow with transport to lymph nodes and subsequently reach the blood and other organs (e.g., heart or brain).
+Some particles will accumulate in the lung, remaining there permanently.
+The respiratory tract is not only a dominant portal of entry for airborne pollutants, but it also serves as the site of initiation for subsequent neural, cardiac and vascular responses. Repeated, frequent exposure to particle pollution may overburden the pulmonary defense system, resulting in more severe local and systemic responses.
+
+Cardiovascular Effects
+Why is particle pollution a cardiovascular health concern?
+Cardiovascular disease accounts for the greatest number of deaths in the United States. One in three Americans has heart or blood vessel disease. 
+Traditional risk factors for cardiovascular disease, such as male gender, age, increased blood pressure, high cholesterol, and smoking, account for about 50 percent of cardiac events. Other factors acting independently, or together with established risk factors, likely contribute to the development of cardiovascular disease.
+Air pollution exposure is known to exacerbate existing, and contribute to the development of, cardiovascular disease. Evidence linking ambient particle pollution exposure and adverse effects on cardiovascular disease is particularly strong.
+The American Heart Association concluded both that exposure to increased concentrations of fine particle pollution over a few hours to weeks can trigger cardiovascular disease-related mortality and nonfatal events and that exposures of a few years or more to increased concentrations of fine particle pollution increases the risk of cardiovascular mortality and decreases life expectancy.
+Your patients with cardiovascular disease, including those who have angina, heart failure, particular arrhythmias, or that have risk factors for heart disease, may be at greater risk of having an adverse cardiovascular event from exposure to fine particles. 
+Ninety-two percent of patients with cardiovascular disease are not informed of health risks related to air pollution. 
+Reducing population exposure to fine particle pollution has been shown to be associated with decreases in cardiovascular mortality (even within a few years of reduced exposure). 
+How does particle pollution affect the cardiovascular system?
+The mechanisms by which exposure to fine particle pollution can affect the cardiovascular system are under continuous examination. Exposure to inhaled fine particles appears to affect cardiovascular health through three primary pathways:
+Particles induce an inflammatory response in the lungs, leading to release of cytokines and other mediators that ‘spill-over’ into the systemic circulation.
+Some ultrafine particles can translocate from the alveolus into the circulation and then interact directly with the heart and vasculature with or without the participation of inflammatory cells. 
+Particles might activate pulmonary sensory receptors and modulate the autonomic nervous system.
+Oxidative stress is an underlying effect due to particle exposure that has been shown to impact endothelial function, pro-thrombotic processes, cardiac electrophysiology, and lipid metabolism.
+What are the cardiovascular effects?
+Acute and chronic exposure to fine particle pollution has been shown to increase the risk of hospitalizations for cardiovascular conditions and mortality. 
+Multi-city epidemiologic studies of mortality and hospital admissions have provided evidence of regional heterogeneity in risk estimates - to date, the underlying factors that contribute to this heterogeneity have yet to be identified. 
+Clinically important cardiovascular effects of inhaled particles include: 
+Acute coronary syndrome, including myocardial infarction and unstable angina.
+Arrhythmia.
+Exacerbation of chronic heart failure.
+Stroke.
+Sudden cardiac death.
+Such effects can be measured after acute exposure, and there is accumulating evidence that chronic exposure accelerates atherosclerosis and reduces life expectancy.
+What are the acute exposure effects?
+Population-based studies, small repeated-measure panel studies, and acute exposure studies in humans support the conclusion that inhalation of particle pollution induces small changes in blood pressure, oxygen saturation, endothelial function, systemic changes in acute phase reactants, coagulation factors, inflammatory mediators, and measures of oxidative stress. 
+Well-established clinical cardiovascular health effects associated with acute exposure to fine particles include: 
+Systemic blood pressure and endothelial function changes.
+Acute coronary syndrome (including myocardial infarction and unstable angina). 
+Increased ventricular arrhythmias in people with implantable (or internal) cardiac defibrillators (ICDs).
+Exacerbation of heart failure (hospitalization and mortality).
+Ischemic stroke.
+Cardiovascular mortality.
+Modulation of plaque stability and thrombus formation associated with fine particle exposure is suggested by epidemiological data.
+What are the chronic exposure effects?
+There is accumulating evidence that risk from chronic exposure (months to years) to inhaled fine particles accelerates atherosclerosis and reduces life expectancy.
+Atherosclerosis: several epidemiology studies show that chronic air pollution promotes atherosclerosis as indicated by the positive association between chronic particle exposure and an increase in coronary artery calcium, the severity of coronary artery disease, and an increased thickness of the internal carotid artery.
+Cardiovascular disease mortality: This mortality is likely via mechanisms that include pulmonary and systemic inflammation, accelerated atherosclerosis, and altered cardiac autonomic function. The mechanisms of death associated with exposure to acute and chronic particle pollution are not fully known; however, prothrombotic effects precipitating myocardial infarction and stroke, autonomic instability precipitating arrhythmia, and increased oxidative stress worsening heart failure are speculated to account for the increased risk. Chronic exposure to particle pollution is most strongly associated with mortality attributable to ischemic heart disease, arrhythmia, heart failure, and cardiac arrest.
+Several seminal large cohort studies support the association of chronic exposure to air pollution and mortality. The Harvard-Six Cities Study and the American Cancer Society's Cancer Prevention II Study both show an association between chronic exposure to ambient air pollution, particularly fine particle pollution, and an increased risk of death.
+A follow-up of the Harvard Six Cities Study showed that the risk of mortality diminished in proportion to the reduction in air pollution. 
+
+Respiratory Effects
+Why is particle pollution a respiratory health concern?
+Studies have linked particle pollution exposure to a variety of respiratory health effects, including:
+Respiratory symptoms including cough, phlegm, and wheeze.
+Acute, reversible decrement in pulmonary function.
+Inflammation of the airways and lung (this is acute and neutrophilic).
+Bronchial hyperreactivity.
+Acute phase reaction.
+Respiratory infections.
+Respiratory emergency department visits.
+Respiratory hospitalizations.
+Decreased lung function growth in children.
+Chronic loss of pulmonary function in adults.
+Asthma development.
+Premature mortality in people with chronic lung disease.
+People with heart or lung disease, older adults, children, people with diabetes, and people of lower SES are at greater risk of particle pollution-related health effects.
+Taking simple steps to reduce exposure will reduce the severity of lung and systemic adverse health effects in both healthy and more sensitive people.
+How does particle pollution affect the respiratory system?
+Particles deposited in the respiratory tract in sufficient amounts can induce inflammation. The extent of pulmonary inflammation depends on particle dose and composition.
+Airway inflammation increases airway responsiveness to irritants and may reduce lung function by causing bronchoconstriction.
+At a cellular level, inflammation may damage or kill cells and compromise the integrity of the alveolar-capillary barrier. 
+Repeated exposure to particle pollution aggravates the initial injury and promotes chronic inflammation with cellular proliferation and extracellular matrix reorganization.
+The overall balance between injury (inflammatory activity) and repair (anti-inflammatory defenses) plays an important role in the pathogenesis and progression of inflammatory respiratory diseases such as asthma.
+Inhalation of particle pollution may affect the stability or progression of these conditions through inflammatory effects in the respiratory tree.
+What are the respiratory effects of acute exposures?
+Studies have reported respiratory effects related to acute exposure to fine particles, including respiratory symptoms (especially in children, and those diagnosed with asthma), reduction in pulmonary function, and increased airway inflammation and responsiveness. Additionally, epidemiologic studies have demonstrated that respiratory effects associated with particle pollution can be serious enough to result in emergency department visits and hospital admissions, including COPD and respiratory infections.  
+The combination of experimental and epidemiologic studies has provided evidence of a relationship between short-term (daily) exposures to particle pollution and a number of respiratory-related effects, including elevated morbidity, higher frequency of emergency department visits and hospital admissions, and excess mortality. Often people with pre-existing diseases are at greatest risk for potential respiratory-related health effects due to short-term particle exposures.
+What are the respiratory effects of chronic exposure?
+Epidemiologic studies conducted in the U.S. and abroad provide evidence of associations between chronic exposure to fine particles and both decrements in lung function growth in children and increased respiratory symptoms.
+How does particle pollution affect people with asthma?
+According to 2014 data, approximately 24 million Americans have asthma-- about 1 in 12 children (8.6 percent) and 1 in 14 adults (7.4 percent). 
+Asthma symptoms can be triggered by numerous environmental factors that can lead to bronchoconstriction and aggravate the disease. These environmental factors include exercise, humidity, temperature, allergens, viral infection, stress, and inhalation of air pollutants. Sensitivity to specific environmental triggers varies between individuals. 
+People with asthma are at increased risk of health effects due to particle pollution exposure compared to healthy individuals:
+Airway hyper-reactivity and bronchoconstriction can cause particle deposition to increase in the conducting airways and some peripheral regions as a result of both obstruction and increased air flow to the better-ventilated areas of the lung.
+Most particle pollution is pro-inflammatory and can aggravate pre-existing airway inflammation, which increases pro-inflammatory mechanisms and accelerates the inflammatory cascade.
+People with allergic asthma are at increased risk for particle pollution-related health effects during times of high-allergen exposure.
+Biological particles (i.e., microbes, viruses, and spores) may lead to asthma exacerbation by aggravating inflammation and causing infection. 
+In general, epidemiologic data provide substantial evidence for the association between particle pollution exposure and adverse effects in individuals with allergies and asthma, as assessed by frequency and severity of respiratory symptoms, pulmonary function changes, medication use, and ambient particle pollution levels.
+There is evidence that both the development of asthma and its exacerbation can be associated with particle pollution exposure.
+What are the health disparities for asthma?
+Asthma effects are more problematic in young children, the elderly, minorities, and those with low SES. Minority children have higher prevalence of asthma and higher rates of asthma-related emergency room visits, hospitalizations, and deaths than white children. 
+Factors contributing to disparities include living near high-density traffic or industrial sources of particle pollution, poor indoor air quality, and limited access to asthma education and medical services.
+Children with asthma seem to be more affected by particle pollution exposure than adults with asthma. This may be, in part, due to where particle pollution deposits in children (tracheobronchial region of the lung), as well as the fact children tend to be more active and spend more time outdoors.
+How does particle pollution affect people with COPD?
+COPD is a major cause of disability and is the third leading cause of death in the United States. It is a lung disease characterized primarily by chronic airway inflammation, mucous hypersecretion, and progressive airflow limitation.
+COPD comprises a spectrum of clinical disorders that include emphysema, bronchiectasis, and chronic bronchitis. COPD risk factors are both genetic and environmental.
+Elevated particle pollution contributes to the exacerbation of this disease and likely its pathogenesis. 
+Like people with asthma, people with COPD are at greater health risk from particle pollution exposure than healthy individuals due to the following key underlying mechanisms:
+Airway inflammation being aggravated by pro-inflammatory particle pollution.
+Increased sputum production combined with variable airway narrowing and uneven ventilation produces heterogeneous particle deposition, which creates localized regions (hot spots) with excessive particle accumulation. This accumulation, when combined with reduced particle clearance, substantially increases the probability of tissue injury beyond inflammation.
+A few controlled human exposure studies of elderly COPD patients reported an association between respiratory effects and fine particle pollution. Even fewer studies have explored the effects that ambient particle pollution may have on COPD development. 
+Epidemiological panel studies exploring the potential relationship between daily particle pollution levels and respiratory effects in people with COPD reported increased symptomatic response, increased use of evening medication (winter time), and small decrements in spirometric lung function in the days immediately following elevated particle pollution levels. 
+Time-series studies appear to show evidence of an association between acute exposures (i.e., daily) to particle pollution and morbidity (i.e., emergency department visits and hospital admissions) and mortality among individuals with COPD.
+What is the role of fine particles in lung cancer incidence and mortality?
+In the context of EPA, the evaluation of scientific evidence for cancer and other health effects for particle pollution occurs in an Integrated Science Assessment (ISA), as part of the National Ambient Air Quality Standards (NAAQS) review process.  
+The 2009 ISA (the most recent ISA for particle pollution) describes that epidemiologic studies generally demonstrated consistent positive associations between fine particle exposure and lung cancer mortality, but studies generally did not report associations between fine particles and lung cancer incidence.
+Evidence from toxicological studies indicated that various combustion-related sources (e.g., wood smoke, coal combustion) are mutagenic and genotoxic, which provides biological plausibility for the effects observed in epidemiologic studies, and some components of particle pollution are known human carcinogens.
+More recently, the International Agency for Research on Cancer (IARC) conducted an evaluation on the carcinogenicity of outdoor air pollution, including particle pollution, and concluded that both are Group I (known human carcinogens). This IARC review focused on all routes of exposure and included an evaluation of individual components of particle pollution that are known human carcinogens.
+A 2014 meta-analysis found evidence of a relationship between fine particle exposure and lung cancer incidence and mortality. 
+Information pertaining to publicly available drafts of EPA evaluations of the scientific evidence for particle pollution and lung cancer and other health effects (post-2009 ISA) can be found at EPA's Integrated Science Assessments website.
+
+Patient Exposure and the Air Quality Index
+
+Should I recommend that my patients reduce their exposure to particle pollution?
+Yes, all people should be educated about the health effects from unhealthy levels of particle pollution and how to reduce exposure.  
+Patients more likely to be affected by particle pollution exposure that will benefit the most from exposure-reduction measures are:
+People with heart or lung disease.
+People with diabetes
+Older adults.
+Children. 
+You should encourage awareness of daily air quality through weather forecasts and EPA's AirNow website (includes sign up for notifications via email or a free app).  
+What is the Air Quality Index?
+The Air Quality Index, or AQI, is a nationally uniform color-coded index for reporting and forecasting daily air quality.
+The AQI tells the public how clean or polluted the air is and how to avoid health effects associated with poor air quality.
+The AQI focuses on health effects that may be experienced within a few hours or days after breathing polluted air and uses a normalized scale from 0 to 500; the higher the AQI value, the greater the level of pollution and the greater the health concern. 
+The AQI is divided into six categories that correspond to different levels of health concern. The breakpoints between these categories are selected based on a review of the health effects evidence.
+Some individuals are much more sensitive to air pollution than others. Checking the AQI each day will help these people notice at what levels they begin to experience effects.
+The AQI levels of health concern correlate with pollutant-specific health and cautionary statements that suggest simple measures people can take to reduce their exposure to air pollution (Figure 9).
+For most adults, activities that involve moderate physical exertion (i.e., minute ventilation rates ranging from 25 to 45 liters per minute) include climbing stairs, playing tennis or baseball, simple garden or construction work, and light jogging, cycling, or hiking. 
+Activities that involve heavy physical exertion, with minute ventilation rates greater than 45 liters per minute, typically include playing basketball or soccer, chopping wood, heavy manual labor, and vigorous running, cycling, or hiking. 
+Because fitness levels vary widely among individuals, what is moderate exertion for one person may be heavy exertion for another.  No matter how fit a person is, cutting back on the level and/or duration of exertion when particle levels are unhealthy will reduce the inhaled dose and help protect against the harmful effects of particle pollution.
+Where can I find daily air quality reports?
+Air quality reports and forecasts can be found in the following locations:
+With the weather forecasts in local newspapers, on television, and on the radio.
+Through the national news media, including USA Today, The Weather Channel, and CNN.
+On the AirNow website.
+Also on the airnow.gov website is an AirNow App that provides real-time air quality information that you can use to protect your health while planning your day.
+On airnow.gov, you can sign up for EnviroFlash -- a free email or text notification service that is available in many locations. Each user can select the AQI level at which he or she wants to be notified (e.g., unhealthy for sensitive groups) and whether to receive forecasts and/or real-time air quality levels. 
+What can I advise my patients to do when air quality is unhealthy?
+Your patients can reduce their exposures simply by taking it easier when particle pollution levels are at unhealthy levels.
+They can reduce their exposure by reducing the time they spend being active outdoors (e.g., gardening 30 minutes instead of an hour), by reducing the intensity of outdoor activity (e.g., jogging instead of running), or by being active outdoors when air quality is better. 
+The chances of being affected by unhealthy levels of particle pollution increase the longer a person is active outdoors and the more strenuous the activity.
+When particle pollution levels are elevated, your patients with respiratory disease may not be able to breathe as deeply or as vigorously as normal and may experience coughing and chest discomfort, wheezing, shortness of breath, or unusual fatigue. These symptoms indicate they should reduce exposure to particle pollution and follow your advice. For example, people with asthma should carefully follow their asthma action plans when particle pollution levels are high.
+For people with heart disease, exposure to high particle pollution levels can cause serious problems in a short period of time—even heart attacks—with no warning signs. The Patient Education Tools module contains outreach materials that can help you provide advice to patients with heart disease. Also, see Clinical scenarios 1, 2, and 3.
+While healthy children do not usually experience serious health effects from short-term exposures to particle pollution, evidence indicates that long-term exposures can affect lung function growth.  EPA's Air Quality and Outdoor Activity Guidance for Schools can help you provide advice to parents.
+How can my patients reduce particle pollution exposure near roadways?
+Walkers, runners, and bikers can reduce their particle pollution exposure by planning times and routes that avoid busy roads.
+Drivers can reduce exposure to particle pollution by keeping the vehicle ventilation setting on "recirculate" when driving on busy roads. 
+How effective are air quality notifications in reducing potentially adverse exposures in the real world?
+Evidence indicates that air quality alerts are helpful and advocacy from health care professionals is powerful.
+Information from the 2005 Behavior Risk Factor Surveillance System (BRFSS) indicates that people are more likely to pay attention to the AQI if advised to by a health care professional; however, few health care professionals tell their patients about the AQI.
+The AQI advisories for particle pollution have not been in place as long as those for ozone, so, currently, there is no evidence of reductions in particle pollution exposures, morbidity, or mortality due to averting behaviors in response to particle pollution advisories.  However, we can infer that averting behavior, similar to that reported in response to ozone advisories, is likely to occur as the public becomes educated about the risks associated with particle pollution exposures and how to reduce them. 
+Several studies looking at ozone alerts show evidence of individual-averting behaviors in response to air quality advisories, especially for populations potentially at increased risk of an air pollution-related health effect, such as children, older adults, and people with asthma.
+What educational materials are available?
+The Patient Education Tools section of the course has education materials, including fact sheets for your office to print and a poster to educate patients about the health effects of outdoor air pollution.
+You can advise your patients to visit the AirNow Website to find air quality forecasts and real-time air quality information, to learn about the health effects of particle pollution, and to get information about the AQI.
+
+Patient Exposure and High Particle Pollution Events
+
+Introduction
+Almost every year, in many parts of the country, particle pollution levels reach the very unhealthy or hazardous ranges of the AQI. These events are usually associated with fires or dust storms.
+The fires are often wildfires, but on a smaller spatial and temporal scale high particle pollution levels may be found near other types of fires or combustion. Examples of these high particle events can include transport of urban particles or residential wood burning in valleys during winter-time inversions.
+What steps can I advise for my patients who live in areas where fires are likely to occur?
+Health care professionals should provide patients with recommendations in advance of the fire season, including information for the general public and for people at greatest risk from smoke exposure. Recommended exposure-reduction measures should be based on several factors, including the risk factors of the individual and the expected duration of the event. 
+General recommendations to reduce exposure in smoky areas:
+Pay attention to local air quality reports and any alerts or advisories related to smoke. The AQI is based on data from local air quality monitors and tells you about the air quality in your area and precautions you can take to protect your health. (EPA's AirNow website)
+Avoid strenuous or prolonged work or exercise outdoors. If you are active outdoors, pay attention to symptoms - they are an indication that you need to reduce exposure.
+Drink plenty of fluids to keep respiratory membranes moist.
+If you are advised to stay indoors, take steps to keep indoor air as clean as possible. Keep windows and doors closed, unless it’s extremely hot outside. Run the air conditioner if you have one. Keep the fresh-air intake closed and the filter clean to prevent additional smoke from coming inside. If you don’t have an air conditioner, staying inside with the windows closed may be dangerous in extremely hot weather. If this is the case, seek alternative shelter, such as with relatives, friends, or a cleaner air shelter.
+Avoid strenuous activity indoors.
+Consider buying air filtration devices before a smoke emergency occurs. 
+Have a several-day supply of nonperishable foods that do not require cooking. Cooking - especially frying and broiling- can add to indoor pollution levels.
+If driving is necessary, run your car’s air conditioner in recirculate mode to avoid drawing smoky air into the car. 
+Avoid activities that increase indoor pollution (no candles, vacuuming or smoking).
+Advise your patients to contact you if they experience any new cardiovascular or respiratory symptoms or if existing health problems worsen.
+Your patients with heart or lung disease, children, older adults, people with diabetes, and people of lower SES are at the greatest risk from wildfire smoke and should be prepared to take more protective measures. In addition, women that are pregnant and their developing baby are considered at increased risk from the effects of smoke from fires. Additional recommendations for these patients to reduce exposure in smoky areas:
+Discuss whether and when they should leave the area.
+Confirm that patients with asthma or other respiratory diseases have a respiratory management plan (e.g., asthma action plan) that includes what to do during a high particle pollution event.
+Go over prescriptions, and advise patients to have at least a five-day supply of medication on hand.
+Advise your patients to call you if symptoms worsen.
+Talk about whether they are able to create a “clean room” in the home, where particle levels are kept lower. A good choice is an interior room, with as few windows and doors as possible, such as a bedroom. They should add a HEPA filter air cleaner to the “clean room” to help keep particle levels low. The air cleaner should be the right type and size for the room they choose, and advise them to have extra filters on hand. They should not use an air cleaner that generates ozone. Additional information about the proper use of air filtration devices and for maintaining a clean room can be found in the Wildfire Guide.
+These precautions are described in more detail in the “Specific Strategies to Reduce Smoke Exposure” section of the Wildfire Guide.  
+
+How can my patients use respirators to protect themselves from smoke?
+For a respirator to provide protection, it must filter very small particles and it must fit well, providing a tight seal around the wearer’s mouth and nose. Adequate seals cannot be obtained for men with beards or for most children. A “fit test” while wearing a respirator is needed to ensure that it fits well enough to provide the expected protection.
+However, because disposable respirators (N95 or P100) are increasingly available in hardware and home repair stores and pharmacies, many people will use them, either during smoke events or during fire ash cleanup. Therefore, health professionals in fire-prone areas should provide guidance on the proper selection and use of respirators, which can provide some level of protection, as long as a close-fitting model and size is selected and they are used properly.
+Encourage your patients to only use respirators after first implementing other, more effective methods of exposure reduction, including staying indoors, reducing activity, and using HEPA air cleaners indoors to reduce overall smoke exposure.
+Refer patients to the one-page fact sheet (Appendix B in the Wildfire Guide), California Department of Health's Protect Your Lungs from Wildfire Smoke (PDF) (1pg, 650 KB)  that is designed for the general public. In lay terms (including using the term “mask” instead of “respirator”), it describes how to correctly choose and use a disposable N95 or P100 particulate respirator.
+Advise your patients that one-strap paper masks, surgical masks, or other face coverings are likely to provide far less or no protection.
+PREVIOUS    |    NEXT
+
+Particulate Pollution Course Home
+Learn About the Course
+What is Particle Pollution?
+Particle Pollution Exposure
+Cardiovascular Effects
+Respiratory Effects
+Patient Exposure & the Air Quality Index
+Patient Exposure & High Particle Pollution Events
+Clinical Scenarios
+Frequent Questions
+Course Outline & Key Points
+Review Questions
+Patient Education Tools
+Course Evaluation
+References
+Glossary
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON OCTOBER 13, 2023
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.

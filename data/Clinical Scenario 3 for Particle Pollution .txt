@@ -1,0 +1,82 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Particle Pollution and Your Patients' Health
+CONTACT US
+Clinical Scenario 3 for Particle Pollution
+Back to Clinical Scenarios
+
+Mr. Jones is a 57-year-old man with a five-year history of coronary artery disease, complicated by an anterior myocardial infarction three years earlier that has caused the left ventricular (LV) ejection fraction to decrease to 40 percent. Residual ischemia was treated with a drug-eluting stent to the mid-left anterior descending artery after a large diagonal and septal artery.
+
+Approximately six months later, on a hot and hazy summer evening, Mr. Jones sustained an episode of ventricular fibrillation. A bystander witnessed the arrest and immediately initiated CPR. Subsequently, he was defibrillated by EMS personnel and recovered without complications. This event occurred despite his adherence to his medications, which included aspirin, a platelet P2Y12 receptor inhibitor, a statin, an ACE inhibitor, and a long-acting beta-adrenergic receptor blocker.
+
+Repeat coronary angiography disclosed a patent LAD stent and no new obstructive lesions. Subsequently, an ICD was implanted. Over time, his LV ejection fraction has remained 35 to 40 percent without evidence of ischemia or aneurysmal dilation. Recently, a temperature inversion led to the accumulation of air pollutants with the appearance of a dense haze. He noted an increase in minor symptoms such as eye and throat irritation and intermittent cough. His breathing was not affected, but while walking to his mailbox he suddenly felt weak. As he started to sit, he received a therapeutic shock from the ICD. Subsequently, an interrogation of the device showed sustained and rapid ventricular tachycardia.
+
+Discussion
+Studies show positive associations between increases in particle pollution and both ICD discharges and supraventricular and ventricular arrhythmia in patients with ischemic heart disease (Peters et al., 2005, Berger et al., 2006, Sarnat et al., 2006, Link et al., 2013), although it is not clear whether air pollution triggers clinically important arrhythmias in other people. An increase in ventricular and supraventricular arrhythmias in persons with ICDs (indicated by an increase in the discharge of the ICD) has been positively associated with increases in fine particle concentrations, which is supported by evidence of a linear exposure response (Peters et al., 2000; Rich et al., 2005; Dockery et al., 2005; Link et al., 2013). Stronger associations were found between air pollution and ventricular arrhythmias for episodes within a few days of a previous arrhythmia, suggesting that arrhythmias were triggered by air pollution episodes in combination with other factors that increased the patient’s susceptibility to arrhythmia.
+
+Exposure to particle pollution has been shown to affect heart rate variability and cardiac repolarization and increase ST segment changes in ischemia. Such changes provide some plausible mechanisms for higher risk of arrhythmia (i.e., autonomic changes or precipitation of ischemia) when superimposed on a myocardium primed for triggered activity or re-entry.
+
+Balanced response
+Some individuals appear to be susceptible to the effects of particle pollution and/or associated gaseous pollutants such that they are at greater risk for ventricular arrhythmia. It is important to advise patients with a history of ventricular arrhythmia to limit their exposure to air pollution. As discussed previously, patients with heart failure are susceptible to the adverse health effects of particle pollution and it is common for heart failure patients to have a history of arrhythmia and ICD implantation.
+
+At the present time, there are no clinical characteristics that allow one to identify who will be at greatest risk and manifest a strong association between increased air pollution and an increase in the frequency of arrhythmia. In fact, the degree of impaired cardiac function, previous myocardial infarction, ejection fraction less than 35 percent, and antiarrhythmic drugs did not modify the effect of air pollution on the risk of arrhythmia (Dockery et al., 2005).
+
+In patients who present with clustering of events, it is worth investigating whether these events are associated with increases in local air pollution exposure and educating the patient on approaches to reduce exposure. While there are no data to guide specific therapy to decrease vulnerability for arrhythmia in those who are sensitive, recent studies showing the ability of omega-3 fatty acids to mitigate the effects of air pollution on heart rate variability (Romieu et al., 2005) and oxidative stress (Romieu et al., 2008) suggest that some physiologic responses can be decreased and might offer insight into strategies to decrease the health effects of air pollution in high-risk individuals that could be studied in the future.
+
+Back to Clinical Scenarios
+
+Particulate Pollution Course Home
+Learn About the Course
+What is Particle Pollution?
+Particle Pollution Exposure
+Cardiovascular Effects
+Respiratory Effects
+Patient Exposure & the Air Quality Index
+Patient Exposure & High Particle Pollution Events
+Clinical Scenarios
+Frequent Questions
+Course Outline & Key Points
+Review Questions
+Patient Education Tools
+Course Evaluation
+References
+Glossary
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON JUNE 26, 2023
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.

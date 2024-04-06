@@ -1,0 +1,79 @@
+Skip to main content
+Air Now Logo
+AirNow
+AQI & Health
+Fires
+Maps & Data
+Education
+International
+Resources
+Recursos en español
+
+Show Alerts Popup
+1
+
+Show Announcements Popup
+2
+Get Current and Forecast Air Quality for Your Area
+ZIP Code, City, or State
+Using the Air Quality Index 
+Use the Air Quality Index (AQI) to learn more about your local air quality and the best times for your outdoor activities.
+
+The U.S. Air Quality Index – daily index
+What it is: The U.S. Air Quality Index, or AQI, is EPA’s tool for communicating daily air quality. It uses color-coded categories and provides statements for each category that tell you about air quality in your area, which groups of people may be affected, and steps you can take to reduce your exposure to air pollution. It’s also used as the basis for air quality forecasts and current air quality reporting.
+
+Who issues it: EPA has issued a national index for air quality since 1976 to provide an easy-to-understand daily report on air quality in a format that’s the same from state to state. The AQI as we know it today was issued in 1999; it’s been updated several times since to reflect the latest health-based air quality standards.
+
+What pollutants it covers: There’s a U.S. AQI for five major pollutants that are regulated by the Clean Air Act: ozone, particle pollution (also called particulate matter), carbon monoxide, nitrogen dioxide and sulfur dioxide. The AQI for each pollutant is generally based on the health-based national ambient air quality standard for that pollutant and the scientific information that supports that standard.
+
+What time frame it covers: It varies by pollutant. The ozone AQI is an 8-hour index; for particle pollution, it’s 24 hours.
+
+Where can you get it: Metro areas with a population of more than 350,000 are required to report the daily AQI. Many more areas report it as a public service. You can find the daily AQI on AirNow and on state and local agency websites. Some agencies also report the AQI via their local news media, or by telephone hotlines.
+
+
+How to use it: Check the previous day’s AQI to learn more about air quality in your community.
+
+More about the AQI
+
+More about air quality trends in the U.S.
+
+AQI Forecasts
+What they are: A prediction of the day’s AQI. Forecasts usually are issued in the afternoon for the next day.
+
+Who issues them: State and local air quality forecasters across the country. They use a number of tools – including weather forecast models, satellite images, air monitoring data, and computer models that estimate how pollution travels on the air. They also use their own knowledge of how pollution behaves in certain communities to issue the air quality forecast for the next day.
+
+What pollutants they cover: Most state and local air quality forecasters issue forecasts for ozone and particle pollution, which are two of the most widespread pollutants in the U.S. A few areas also issue forecasts for nitrogen dioxide and carbon monoxide.
+
+What time frame they cover: In most areas, AQI forecasts focus on the next day. For ozone, an AQI forecast focuses on the period during the day when average 8-hour ozone concentrations are expected to be the highest. For PM, the forecast predicts the average 24-hour concentration for the next day.
+
+What they tell you: AQI forecasts tell you what the next day’s AQI is expected to be, which groups of people may be affected, and steps individuals can take to reduce their exposure to air pollution.
+
+Where you can get them: State and local agencies provide AQI forecasts as a public service. You can find forecasts for your area on AirNow, on state, local and tribal air agency websites, in your local news media, and through some national media outlets.
+
+
+How to use them: Use AQI forecasts to help you plan your outdoor activities for the day. Much like a weather forecast lets you know whether to pack an umbrella, an air quality forecast lets you know when you may want to change your outdoor activities to reduce the amount of air pollution you breathe in. Many forecasters also provide a “forecast discussion,” which lets you know when pollution is expected to be highest during the day – and if there are times when air quality is expected to be better.
+
+Some areas issue AQI forecasts for several days, to help you plan. But because things can change, it’s a good idea to check the forecast every day.
+
+The NowCast AQI
+What it is: The NowCast AQI shows your current air quality using the AQI colors and scale.
+
+Who issues it: EPA uses two algorithms, called “NowCasts,” to relate hourly readings from air quality monitors to the AQI for ozone and the AQI for particle pollution.
+
+What pollutants it covers: EPA calculates a NowCast for two pollutants: ozone and particle pollution. There is a separate algorithm for each.
+
+What time frame it covers: The NowCast shows you air quality for the most current hour available by using a calculation that involves multiple hours of past data. The NowCast uses longer averages during periods of stable air quality and shorter averages when air quality is changing rapidly, such as during a wildfire.
+
+What it tells you: The NowCast gives you the latest information on air quality where you are. Because air quality can change during the day, you can expect to see the NowCast AQI change, too.
+
+Where you can get it: Anywhere you see “current air quality” information on AirNow.gov -- that has been calculated using the NowCast. The AirNow app and the AirNow widget use the NowCast, too. EPA also provides current air quality information to state and local agencies, media, app developers and others, through its Application Programming Interface (also called an API).
+
+How to use it: Check the NowCast AQI to see if now is a good time for your outdoor activity. Even on days when the AQI forecast isn’t good, there may be times during the day when air quality is OK for outdoor activity.
+
+Technical information about the NowCast algorithms
+
+AirNow.gov - Home of the U.S. Air Quality Index
+
+Home | Site Map | Contact Us | Accessibility
+Contact Us RSSXFacebook
+Back to top

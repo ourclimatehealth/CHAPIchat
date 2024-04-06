@@ -1,0 +1,157 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Particle Pollution and Your Patients' Health
+CONTACT US
+Particle Pollution and Respiratory Effects
+On this page:
+
+Why is particle pollution a respiratory health concern?
+How does particle pollution affect the respiratory system?
+What are the respiratory effects of acute exposure?
+What are the respiratory effects of chronic exposure?
+How does particle pollution affect people with asthma?
+What are the health disparities for asthma?
+How does particle pollution affect people with COPD?
+What is the role of fine particles in lung cancer incidence and mortality?
+
+Why is particle pollution a respiratory health concern?
+Studies have linked particle pollution exposure to a variety of respiratory health effects, including:
+
+Respiratory symptoms including cough, phlegm, and wheeze.
+Acute, reversible decrement in pulmonary function.
+Inflammation of the airways and lung (this is acute and neutrophilic).
+Bronchial hyperreactivity.
+Acute phase reaction.
+Respiratory infections.
+Respiratory emergency department visits.
+Respiratory hospitalizations.
+Decreased lung function growth in children.
+Chronic loss of pulmonary function in adults.
+Asthma development.
+Premature mortality in people with chronic lung disease.
+People with heart or lung disease, older adults, children, people with diabetes, and people of lower SES are at greater risk of particle pollution-related health effects.
+
+Though the respiratory system has remarkable resilience to air pollution via its repeated mobilization of defense and repair mechanisms, constant exposure to elevated particle pollution will contribute to reduced respiratory function, even in apparently healthy people. Therefore, although we cannot completely avoid particle pollution exposure, taking simple steps to reduce exposure will reduce the severity of lung and systemic adverse health effects in both healthy and more sensitive people.
+
+
+How does particle pollution affect the respiratory system?
+Particles deposited in the respiratory tract in sufficient amounts can induce inflammation, which has been demonstrated in both animal and controlled human exposure studies. The extent of pulmonary inflammation depends on particle dose and composition. Controlled human exposure studies have demonstrated increased markers for pulmonary inflammation following exposure to a variety of different particle types. For example, organic carbon particles and transition metals from combustion sources can elicit a strong inflammatory response (U.S. EPA, 2009).
+
+Airway inflammation increases airway responsiveness to irritants (e.g., cold air, particle pollution, allergens, lipopolysaccharides, and gaseous pollutants) and may reduce lung function by causing bronchoconstriction. At a cellular level, inflammation may damage or kill cells and compromise the integrity of the alveolar-capillary barrier. Repeated exposure to particle pollution aggravates the initial injury and promotes chronic inflammation with cellular proliferation and extracellular matrix reorganization (Berend, 2016).
+
+Mobilization of the pulmonary immune system and other defense mechanisms is essential in the response to particle pollution. The overall balance between injury (inflammatory activity) and repair (anti-inflammatory defenses) plays an important role in the pathogenesis and progression of inflammatory respiratory diseases such as asthma. Inhalation of particle pollution may affect the stability or progression of these conditions through inflammatory effects in the respiratory tree.
+
+
+What are the respiratory effects of acute exposure?
+Studies have reported respiratory effects related to acute exposure to fine particles, including respiratory symptoms (especially in children and those diagnosed with asthma), reduction in pulmonary function, and increased airway inflammation and responsiveness. Additionally, epidemiologic studies have demonstrated that respiratory effects associated with particle pollution can be serious enough to result in emergency department visits and hospital admissions, including COPD and respiratory infections.  
+
+The relationship between exposure to ambient particle pollution concentrations and adverse respiratory effects was clearly demonstrated in a series of studies conducted in the Utah Valley by Pope (1989, 1991). When a steel mill, which was the source of 90 percent of local particle pollution emissions in the Utah Valley, was out of operation for one year, hospital admissions for bronchitis and asthma in the valley decreased by almost 50 percent and were comparable to those in other regions not polluted by the mill. Once mill operation resumed, hospital admissions increased. The mortality rate in the valley showed a similarly positive association with particle pollution levels during the same period.
+
+The combination of experimental and epidemiologic studies has provided evidence of a relationship between short-term (daily) exposures to particle pollution and a number of respiratory-related effects, including elevated morbidity, higher frequency of emergency department visits and hospital admissions, as well as excess mortality. Often people with pre-existing diseases are at greatest risk for potential respiratory-related health effects due to short-term particle exposures (Ling and van Eeden, 2009).
+
+
+What are the respiratory effects of chronic exposure?
+Epidemiologic studies conducted in the U.S. and abroad provide evidence of associations between long-term exposure to fine particles and both decrements in lung function growth in children and increased respiratory symptoms.
+
+The Children's Health Study (Gauderman et al., 2015) evaluated three separate cohorts of children who had longitudinal lung-function measurements recorded over the same 4-year age range (11 to 15 years) and in the same five study communities but during different calendar periods. The study shows an association between improvements in air quality in southern California and measurable improvements in lung-function development in children. Improved lung function (mean attained FEV1 and FVC values at 15 years of age) was most strongly associated with lower levels of particle pollution (PM2.5 and PM10) and nitrogen dioxide. These associations were observed in boys and girls, Hispanic white and non-Hispanic white children, and children with asthma and children without asthma, which suggests that all children have the potential to benefit from reduced exposure to particle pollution.
+
+This same group conducted another epidemiological study that looked at the impact of improvement in particle pollution levels in Southern California between 1993 and 2012. It found that as ambient pollution levels improved there was a statistically significant decrease in bronchitic symptoms in children, especially among those with asthma (Berhane et al. 2016).  
+
+
+How does particle pollution affect people with asthma?
+According to 2014 data, approximately 24 million Americans have asthma-- about 1 in 12 children (8.6 percent) and 1 in 14 adults (7.4 percent)(CDC, 2016). (For the most recent asthma data, go to CDC's asthma data page.) Asthma is a disease characterized by a variable degree of chronic airway inflammation associated with airway hyper-reactivity, reversible bronchoconstriction (used as an index of severity), and excessive mucus production. These abnormalities lead to symptoms and signs of asthma that include episodes of wheezing, coughing, chest tightness, and dyspnea. Asthma symptoms can be triggered by numerous environmental factors that can lead to bronchoconstriction and aggravate the disease. These environmental factors include exercise, humidity, temperature, allergens, viral infection, stress, and inhalation of air pollutants. Sensitivity to specific environmental triggers varies between individuals. 
+
+Several factors may cause people with asthma to be at increased risk of particle pollution-related health effects compared to healthy individuals.
+
+Airway hyper-reactivity and bronchoconstriction can affect particle deposition in a number of ways. Deposition can be increased in the conducting airways and some peripheral regions as a result of both obstruction and increased air flow to the better ventilated areas of the lung.
+Most particle pollution is pro-inflammatory and can aggravate pre-existing airway inflammation, which increases pro-inflammatory mechanisms and accelerates the inflammatory cascade.
+Allergens are a major factor in asthma development and exacerbation. The intensity of asthma symptoms and bronchial responsiveness varies with allergen sensitization, and people with allergic asthma are at increased risk for particle pollution-related health effects during times of high-allergen exposure (Silverman et al., 1992). 
+Biological particles (i.e., microbes, viruses, and spores) may lead to asthma exacerbation by aggravating inflammation and causing infection. In general, epidemiologic data provide substantial evidence for the association between particle pollution exposure and adverse effects in individuals with allergies and asthma, as assessed by frequency and severity of respiratory symptoms, pulmonary function changes, medication use, and ambient particle pollution levels. There is evidence that both the development of asthma and its exacerbation can be associated with particle pollution exposure.
+
+
+What are the health disparities for asthma?
+Asthma effects are more problematic in young children, older adults, minorities, and those with lower SES. Minority children have higher prevalence of asthma and higher rates of asthma-related emergency room visits, hospitalizations, and deaths than white children. Environmental factors related to SES may be important in contributing to these asthma disparities. For example, poor inner city children with asthma may be at increased risk from air pollution because they live near high-density traffic or industrial sources of particle pollution or because they have poor indoor air quality due to housing conditions. Because such children may have limited access to medical services and asthma education, these effects may be magnified (Gold et. al, 2005).
+
+Children with asthma seem to be more affected by particle pollution than adults with asthma. This may be in part due to anatomical factors that lead to higher deposition of particle pollution in the tracheobronchial region of the lung in children. Other proposed factors that contribute to children being at increased risk of particle pollution-related health effects include behavioral factors such as increased exercise and time outdoors.
+
+
+How does particle pollution affect people with COPD?
+COPD is a major cause of disability and is the third leading cause of death in the United States (Ford et al, 2013). COPD is a lung disease characterized primarily by chronic airway inflammation, mucous hypersecretion, and progressive airflow limitation. These structural changes result in symptoms of cough, dyspnea, and increased sputum production. COPD comprises a spectrum of clinical disorders that include emphysema, bronchiectasis, and chronic bronchitis. COPD risk factors are both genetic and environmental. Elevated particle pollution contributes to the exacerbation of this disease and likely its pathogenesis. The role of other factors, such as developmental factors, is not well understood.
+
+Like people with asthma, people with COPD are at greater health risk from particle pollution exposure than healthy individuals. There is a substantial overlap between the asthma and COPD phenotypes. The key underlying mechanisms are:
+
+Airway inflammation dominated by neutrophilic infiltration of the airways is aggravated by pro-inflammatory particle pollution.
+Increased sputum production combined with variable airway narrowing and uneven ventilation produces heterogeneous particle deposition, which creates localized regions (hot spots) with excessive particle accumulation. This accumulation, when combined with reduced particle clearance, substantially increases the probability of tissue injury beyond inflammation (Kim and Kang, 1997).
+A few controlled human exposure studies of elderly COPD patients reported an association between respiratory effects and fine particle pollution. Even fewer studies have explored the effects that ambient particle pollution may have on COPD development.
+
+Epidemiological panel studies exploring the potential relationship between daily particle pollution levels and respiratory effects in people with COPD reported increased symptomatic response, increased use of evening medication (winter time), and small decrements in spirometric lung function in the days immediately following elevated particle pollution (PM10 and PM2.5) levels. Other endpoints showed an inconsistent response (Silkoff et al., 2005, Pope and Kanner, 1993). Though the induced effects may be insignificant, frequent exacerbation of symptoms and lung function impairment may accelerate COPD progression.
+
+Time-series studies appear to show evidence of an association between acute exposures (i.e., daily) to particle pollution and morbidity (i.e., emergency department visits and hospital admissions) and mortality among individuals with COPD. 
+
+
+What is the role of fine particles in lung cancer incidence and mortality?
+Prior to discussing the relationship between particle exposure and lung cancer, it is important to note the evolving scientific evidence. In the context of EPA, the evaluation of scientific evidence for cancer and other health effects for particle pollution occurs in an Integrated Science Assessment (ISA)as part of the National Ambient Air Quality Standards (NAAQS) review process.
+
+The 2009 ISA (the most recent ISA for particle pollution) describes that epidemiologic studies generally demonstrated consistent positive associations between fine particle exposure and lung cancer mortality, but studies generally did not report associations between fine particles and lung cancer incidence (Pope et al., 1995; Dockery et al., 1993). Evidence from toxicological studies indicated that various combustion-related sources (e.g., wood smoke, coal combustion) are mutagenic and genotoxic, which provides biological plausibility for the effects observed in epidemiologic studies, and some components of particle pollution are known human carcinogens (e.g., specific arsenic, cadmium and chromium compounds).
+
+More recently, the International Agency for Research on Cancer (IARC) conducted an evaluation on the carcinogenicity of outdoor air pollution, including particle pollution, and concluded that both are Group I agents (carcinogenic to humans). This IARC review focused on all routes of exposure and included an evaluation of individual components of particle pollution that are known human carcinogens.
+
+Since 2009, there has been a dramatic increase in the number of epidemiologic studies that have examined chronic particle pollution exposures and both lung cancer incidence and mortality.  Many of these studies are summarized in a meta-analysis by Hamra et al. (2014) that provides evidence of a relationship between fine particle exposure and lung cancer incidence and mortality. As part of the upcoming review of decisions to retain or revise the NAAQS for particle pollution, the EPA recently began an evaluation of evidence for cancer and other health effects resulting from particle pollution exposures that has been published since completion of the 2009 ISA.  Information pertaining to publicly available drafts of EPA evaluations of the scientific evidence for particle pollution and lung cancer and other health effects can be found at EPA's Integrated Science Assessments website.
+
+PREVIOUS    |    NEXT
+
+Particulate Pollution Course Home
+Learn About the Course
+What is Particle Pollution?
+Particle Pollution Exposure
+Cardiovascular Effects
+Respiratory Effects
+Patient Exposure & the Air Quality Index
+Patient Exposure & High Particle Pollution Events
+Clinical Scenarios
+Frequent Questions
+Course Outline & Key Points
+Review Questions
+Patient Education Tools
+Course Evaluation
+References
+Glossary
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON JUNE 26, 2023
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.
