@@ -1,0 +1,75 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of ajrccm
+Am J Respir Crit Care Med. 2023 Mar 1; 207(5): 510–511. Published online 2022 Nov 7. doi: 10.1164/rccm.202210-1968ED
+PMCID: PMC10870902PMID: 36342427
+Can Breathing Poor-quality Air Lead to Poor-quality Sleep in Children?
+John R. Balmes 1 , 2
+Author information Copyright and License information PMC Disclaimer
+See the article "Early Life Exposure to PM2.5 and Sleep Disturbances in Preschoolers from 551 Cities of China." with 36170612.
+High-quality sleep is essential for child neurodevelopment, school performance, and general well-being. Unfortunately, sleep disorders are a common problem during childhood (1). In young children, sleep-disordered breathing and daytime sleepiness are more prevalent than are often recognized. Given the importance of healthy sleep for optimal child development, the identification of preventable risk factors is critical. Although there is evidence that exposure to air pollution is a risk factor for sleep-disordered breathing in adults (2), the published literature shows mixed results (3), leading to calls for more studies with a better assessment of air pollution exposures and objective measurement of sleep outcomes. In children, there is less available data about the impact of exposure to air pollution on sleep disturbances in general and sleep-disordered breathing in particular.
+
+In this issue of the Journal, Cai and colleagues (pp. 602–612) report the results of a large population-based cohort of children aged 3–7 years recruited from 551 cities across China (4). Sleep quality was measured using the CSHQ (Children’s Sleep Habits Questionnaire), and exposure to fine particulate matter (PM2.5) was estimated using a validated satellite-based model. Early-life PM2.5 exposure was associated with a higher total CSHQ score with a stronger association for postnatal exposure, especially for exposure during the first 18 months after birth, than exposure during pregnancy. Sleep-disordered breathing and daytime somnolence were the outcomes most strongly associated with postnatal PM2.5 exposure. The investigators had a rich set of covariate data with which they could assess potential effect modification and found that children who were breastfed for less than 6 months and those who had been admitted to a neonatal ICU had significantly increased risk for sleep disturbances.
+
+Although the study by Cai and colleagues was not the first to associate exposure to air pollution and sleep disturbances in children, it is the most definitive. In addition to the large national sample in China, the authors used a well-validated survey instrument to collect sleep quality data and had rich air pollution data, not only for PM2.5 but also for other important air pollutants. With the air pollution exposure data, Cai and colleagues were able to fit two-pollutant models by adding SO2, NO2, CO, O3, and coarse particulate matter (PM2.5–10), respectively, into the model with PM2.5 to examine possible confounding by coexposure to other air pollutants. As a sensitivity analysis, they also adjusted for the residential distance to major roadways as a proxy of traffic-related noise exposure in the model.
+
+In brief, the study by Cai and colleagues provides evidence that both prenatal and postnatal exposure to PM2.5 is associated with impaired sleep quality in preschool-aged children from a large, nationwide population in China. The study has multiple strengths, including the exploration of critical exposure windows for the adverse effects of PM2.5 exposure on sleep health, including by trimester during pregnancy and during the first 36 months after birth. The authors used a validated satellite-based model to estimate PM2.5 exposures with a high spatial-temporal resolution, which allowed coverage of areas disproportionally excluded from previous studies in China because of a lack of ground-level PM2.5 monitoring data. The study population had sufficient variation in PM2.5 exposure to enable investigation of the exposure–response relationship between PM2.5 and sleep health across a range of exposures.
+
+The study also had several limitations, including potential recall bias as a consequence of parental completion of the CSHQ, likely exposure misclassification because of lack of indoor air quality assessment and lack of data on child’s time spent away from the residential address, and potential residual confounding from other residential characteristics. Caveats about the results of the study are that there was a high parental report of sleep disturbance in the study children, 76% on the basis of CSHQ score, and the relatively high mean PM2.5 concentration, 55 μg/m3, which potentially reduces the generalizability to areas with much lower concentrations of pollution. Despite these limitations, the study is a major contribution to the relatively scant published literature on exposure to air pollution and the risk of childhood sleep quality and disorders.
+
+Exposure to PM2.5 during early childhood has been associated with an array of adverse health effects, such as shorter telomere length (i.e., accelerated biological aging) (5), epigenetic modifications (6–8), gene expression changes (9), reduced somatic and lung function growth (10–12), altered brain development (13), and slower neurodevelopment (14). Although the mechanism of how PM2.5 may affect sleep quality in children is not precisely known, it has been proposed that exposure may interrupt sleep through upper airway inflammation, leading to obstruction and central nervous system effects, including potential neuroinflammation (2, 15).
+
+What is the takeaway message for providers of health care for children? During poor air quality episodes, such as those that occur in heavily polluted Asian cities or with wildfire smoke in Australia or the western United States, reduction of exposure by keeping children indoors with windows closed and using portable filtration devices should reduce the risk of impacts on sleep. And what is the message for air quality regulators and governmental leaders? Policies that reduce harmful emissions from traffic and power generation by moving economies away from fossil fuel combustion, as well as improved forest management to reduce the risk of catastrophic wildfires, will lower the risk of poor air quality episodes that harm children’s health.
+
+Go to:
+Footnotes
+Originally Published in Press as DOI: 10.1164/rccm.202210-1968ED on November 7, 2022
+
+Author disclosures are available with the text of this article at www.atsjournals.org.
+
+Go to:
+References
+1. Ophoff D, Slaats MA, Boudewyns A, Glazemakers I, Van Hoorenbeeck K, Verhulst SL. Sleep disorders during childhood: a practical review. Eur J Pediatr . 2018;177:641–648. [PubMed] [Google Scholar]
+2. Zanobetti A, Redline S, Schwartz J, Rosen D, Patel S, O’Connor GT, et al. Associations of PM10 with sleep and sleep-disordered breathing in adults from seven U.S. urban areas. Am J Respir Crit Care Med . 2010;182:819–825. [PMC free article] [PubMed] [Google Scholar]
+3. Liu J, Wu T, Liu Q, Wu S, Chen J-C. Air pollution exposure and adverse sleep health across the life course: a systematic review. Environ Pollut . 2020;262:114263. [PMC free article] [PubMed] [Google Scholar]
+4. Cai J, Shen Y, Zhao Y, Meng X, Niu Y, Chen R, et al. Early life exposure to PM2.5 and sleep disturbances in preschoolers from 551 cities of China. Am J Respir Crit Care Med . 2023;207:602–612. [PubMed] [Google Scholar]
+5. Martens DS, Cox B, Janssen BG, Clemente DBP, Gasparrini A, Vanpoucke C, et al. Prenatal air pollution and newborns’ predisposition to accelerated biological aging. JAMA Pediatr . 2017;171:1160–1167. [PMC free article] [PubMed] [Google Scholar]
+6. Maghbooli Z, Hossein-Nezhad A, Adabi E, Asadollah-Pour E, Sadeghi M, Mohammad-Nabi S, et al. Air pollution during pregnancy and placental adaptation in the levels of global DNA methylation. PLoS One . 2018;13:e0199772. [PMC free article] [PubMed] [Google Scholar]
+7. Vrijens K, Trippas AJ, Lefebvre W, Vanpoucke C, Penders J, Janssen BG, et al. Association of prenatal exposure to ambient air pollution with circulating histone levels in maternal cord blood. JAMA Netw Open . 2020;3:e205156. [PMC free article] [PubMed] [Google Scholar]
+8. Zhao Y, Wang P, Zhou Y, Xia B, Zhu Q, Ge W, et al. Prenatal fine particulate matter exposure, placental DNA methylation changes, and fetal growth. Environ Int . 2021;147:106313. [PubMed] [Google Scholar]
+9. Deyssenroth MA, Rosa MJ, Eliot MN, Kelsey KT, Kloog I, Schwartz JD, et al. Placental gene networks at the interface between maternal PM2.5 exposure early in gestation and reduced infant birthweight. Environ Res . 2021;199:111342. [PMC free article] [PubMed] [Google Scholar]
+10. Spears D, Dey S, Chowdhury S, Scovronick N, Vyas S, Apte J. The association of early-life exposure to ambient PM2.5 and later-childhood height-for-age in India: an observational study. Environ Health . 2019;18:62. [PMC free article] [PubMed] [Google Scholar]
+11. Patterson WB, Glasson J, Naik N, Jones RB, Berger PK, Plows JF, et al. Prenatal exposure to ambient air pollutants and early infant growth and adiposity in the Southern California mother’s milk study. Environ Health . 2021;20:67. [PMC free article] [PubMed] [Google Scholar]
+12. Jedrychowski WA, Perera FP, Maugeri U, Mroz E, Klimaszewska-Rembiasz M, Flak E, et al. Effect of prenatal exposure to fine particulate matter on ventilatory lung function of preschool children of non-smoking mothers. Paediatr Perinat Epidemiol . 2010;24:492–501. [PMC free article] [PubMed] [Google Scholar]
+13. Binter AC, Kusters MSW, van den Dries MA, Alonso L, Lubczyńska MJ, Hoek G, et al. Air pollution, white matter microstructure, and brain volumes: periods of susceptibility from pregnancy to preadolescence. Environ Pollut . 2022;313:120109. [PubMed] [Google Scholar]
+14. Castagna A, Mascheroni E, Fustinoni S, Montirosso R. Air pollution and neurodevelopmental skills in preschool- and school-aged children: a systematic review. Neurosci Biobehav Rev . 2022;136:104623. [PubMed] [Google Scholar]
+15. Abou-Khadra MK. Association between PM10 exposure and sleep of Egyptian school children. Sleep Breath . 2013;17:653–657. [PubMed] [Google Scholar]
+Articles from American Journal of Respiratory and Critical Care Medicine are provided here courtesy of American Thoracic Society
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

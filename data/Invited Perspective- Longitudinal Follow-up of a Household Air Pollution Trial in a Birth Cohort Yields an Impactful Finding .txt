@@ -1,0 +1,79 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of envhper
+Environ Health Perspect. 2024 Mar; 132(3): 031306. Published online 2024 Mar 20. doi: 10.1289/EHP14480
+PMCID: PMC10953815PMID: 38506829
+Invited Perspective: Longitudinal Follow-up of a Household Air Pollution Trial in a Birth Cohort Yields an Impactful Finding
+John R. Balmescorresponding author 1 , 2
+Author information Article notes Copyright and License information PMC Disclaimer
+See "Prenatal Household Air Pollution Exposure and Childhood Blood Pressure in Rural Ghana" in volume 132, 037006.
+High systolic blood pressure (BP) is a leading risk factor in the latest Global Burden of Disease comparative risk factor analysis, accounting for ∼11million deaths and 9% of all disability-adjusted life years.1 Household air pollution (HAP) from domestic combustion of solid fuels for cooking and heating is also an important risk factor, with >2.3million attributable deaths, a substantial portion due to cardiovascular conditions (e.g., ischemic heart disease and stroke).2 Because at least one-third of the global population still cooks with solid fuels3 and hypertension is a key risk factor for cardiovascular disease, how exposures to HAP affect BP is a research question of considerable public health interest. An association between exposure to ambient air pollution and higher BP is supported by multiple studies,4,5 but the evidence for an association with exposure to HAP is less robust.6 Prior to the paper by Daouda et al. in this issue of Environmental Health Perspectives,7 there were no published studies of in utero exposure to HAP and BP later in childhood.
+
+Observational epidemiological studies have consistently documented associations between chronic exposures to higher concentrations of HAP and adverse health outcomes, including childhood pneumonia, low birth weight, adverse pregnancy outcomes, and adult hypertension.8 However, randomized controlled trials of cleaner cooking interventions have largely failed to demonstrate improvements in primary outcomes in children. Even trials of liquefied petroleum gas (LPG) that were able to achieve substantial reductions in HAP exposure did not find associations with primary outcomes such as increased birth weight or lower risk of pneumonia.9,10 On the other hand, exposure–response analyses from these trials have found associations between higher pollutant concentrations and worse health outcomes, supporting HAP as an important risk factor.11,12 This is the current enigmatic state of HAP health effects research.
+
+Randomized trials of interventions to reduce children’s exposure to HAP have typically assessed short-term health outcomes, with study durations of ≤2 y. However, following participants for longer periods would allow the impact of prenatal and early childhood exposures on subsequent respiratory and cardiovascular health, somatic growth, and neurodevelopment to be assessed. For example, I was a co-investigator of the Randomized Exposure Study of Pollution Indoors and Respiratory Effects (RESPIRE) and Chronic Respiratory Effects of Early Childhood Exposure to Respirable PM Cohort (CRECER) studies in rural Guatemala. The initial analysis based on receiving the chimney stove intervention or not found a nonsignificant reduction in low birth weight associated with the intervention,13 but a follow-up exposure–response analysis up to 5 years of age showed improved somatic growth with lower HAP exposure.14
+
+Similarly, the Ghana Randomized Air Pollution and Health Study (GRAPHS) is one of the few randomized clean cooking intervention studies to have longitudinally evaluated health outcomes over time. GRAPHS was a cluster-randomized trial that evaluated the efficacy of two interventions (LPG and an improved biomass cookstove) compared with a traditional open fire control.10 Although the primary outcomes were birth weight and pneumonia within the first year of life, other health outcomes were evaluated longitudinally in a subset of the original intervention cohort, following the children to 4 years of age. As Daouda et al. report,7 intention-to-treat analyses preserving the original trial design showed that a) diastolic BP at 4 years of age (another major risk factor for adult disease) was lower among children born in the LPG arm, b) the improved biomass stove was not associated with BP, and c) girls were more susceptible to the apparent effect of the LPG intervention than boys.
+
+These results demonstrate that longer-term follow-up of randomized trials designed to study short-term health outcomes can provide valuable data, especially if exposure monitoring can be continued. The study results also add BP to the list of health outcomes for which evidence suggests early life exposures may have effects later in childhood. Further, the study provides evidence that young girls may be more susceptible to the effect of HAP on BP, as well as that late gestation may be a critical window of in utero exposure.
+
+Of note, the GRAPHS LPG intervention lasted only 1 y. After that, gas cylinders were no longer provided, and participants in the intervention arm reverted to using traditional open fire stoves. Nevertheless, children in the LPG arm had lower diastolic BP at 4 years of age, providing further support for the lasting efficacy of prenatal interventions to reduce HAP exposure. Future studies should consider including sustainability of intervention(s) in their designs to avoid elimination of health, environmental, and quality-of-life benefits upon the conclusion of the studies.
+
+Although it is unclear how clean cooking needs to be to have a meaningful impact on health in low-resource settings, we do have sufficient evidence to recommend that reducing exposure to HAP is important even if the intervention does not achieve World Health Organization air quality guideline levels.15 Hypertension is an important public health issue in Western, Central, Eastern, and Southern Africa.16 Given that the antecedents of adult hypertension likely begin in early life,17 reducing children’s exposure to risk factors, such as HAP, through cleaner cooking interventions, such as LPG or electric stoves, may have an impact later in the life course. A major challenge is how to feasibly deliver LPG or electricity to communities in low-income countries, especially rural ones. The global health and development sectors need to communicate and work together better to enable feasible delivery of clean energy in low-resource settings.
+
+Go to:
+Notes
+Refers to https://doi.org/10.1289/EHP13225
+
+Go to:
+Notes
+Conclusions and opinions are those of the individual authors and do not necessarily reflect the policies or views of EHP Publishing or the National Institute of Environmental Health Sciences.
+
+Go to:
+References
+1. GBD 2019 Risk Factors Collaborators. 2020. Global burden of 87 risk factors in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2020. Lancet 396(10258):1223–1249, PMID: , 10.1016/S0140-6736(20)30752-2. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+2. Bennitt FB, Wozniak SS, Causey K, Burkart K, Brauer M, GBD Risk Factor Collaborators. 2021. Estimating disease burden attributable to household air pollution: new methods within the Global Burden of Disease Study. Lancet Glob Health 9(special issue):S18, 10.1016/S2214-109X(21)00126-1. [CrossRef] [Google Scholar]
+3. WHO (World Health Organization). 2023. Household air pollution. [Fact sheet.]. 15 December 2023. https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health [accessed 8 January 2024].
+4. Yang BY, Qian Z, Howard SW, Vaughn MG, Fan SJ, Liu KK, et al.. 2018. Global association between ambient air pollution and blood pressure: a systematic review and meta-analysis. Environ Pollut 235:576–588, PMID: , 10.1016/j.envpol.2018.01.001. [PubMed] [CrossRef] [Google Scholar]
+5. Lederer AM, Fredriksen PM, Nkeh-Chungag BN, Everson F, Strijdom H, De Boever P, et al.. 2021. Cardiovascular effects of air pollution: current evidence from animal and human studies. Am J Physiol Heart Circ Physiol 320(4):H1417–H1439, PMID: , 10.1152/ajpheart.00706.2020. [PubMed] [CrossRef] [Google Scholar]
+6. Kumar N, Phillip E, Cooper H, Davis M, Langevin J, Clifford M, et al.. 2021. Do improved biomass cookstove interventions improve indoor air quality and blood pressure? A systematic review and meta-analysis. Environ Pollut 290:117997, PMID: , 10.1016/j.envpol.2021.117997. [PubMed] [CrossRef] [Google Scholar]
+7. Daouda M, Kaali S, Spring E, Mujtaba MN, Jack D, Prah RKD, et al.. 2024. Prenatal household air pollution exposure and childhood blood pressure in rural Ghana. Environ Health Perspect 132(3):037006, 10.1289/EHP13225. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+8. Balmes JR. 2019. Household air pollution from domestic combustion of solid fuels and health. J Allergy Clin Immunol 143(6):1979–1987, PMID: , 10.1016/j.jaci.2019.04.016. [PubMed] [CrossRef] [Google Scholar]
+9. Clasen TF, Chang HH, Thompson LM, Kirby MA, Balakrishnan K, Díaz-Artiga A, et al.. 2022. Liquefied petroleum gas or biomass for cooking and effects on birth weight. N Engl J Med 387(19):1735–1746, PMID: , 10.1056/NEJMoa2206734. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+10. Jack DW, Ae-Ngibise KA, Gould CF, Boamah-Kaali E, Lee AG, Mujtaba MN, et al.. 2021. A cluster randomised trial of cookstove interventions to improve infant health in Ghana. BMJ Glob Health 6(8):e005599, PMID: , 10.1136/bmjgh-2021-005599. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+11. Balakrishnan K, Steenland K, Clasen T, Chang H, Johnson M, Pillarisetti A, et al.. 2023. Exposure–response relationships for personal exposure to fine particulate matter (PM2.5), carbon monoxide, and black carbon and birthweight: an observational analysis of the multicountry Household Air Pollution Intervention Network (HAPIN) trial. Lancet Planet Health 7(5):e387–e396, PMID: , 10.1016/S2542-5196(23)00052-9. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+12. Kinney PL, Asante KP, Lee AG, Ae-Ngibise KA, Burkart K, Boamah-Kaali E, et al.. 2021. Prenatal and postnatal household air pollution exposures and pneumonia risk: evidence from the Ghana Randomized Air Pollution and Health Study. Chest 160(5):1634–1644, PMID: , 10.1016/j.chest.2021.06.080. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+13. Thompson LM, Bruce N, Eskenazi B, Diaz A, Pope D, Smith KR. 2011. Impact of reduced maternal exposures to wood smoke from an introduced chimney stove on newborn birth weight in rural Guatemala. Environ Health Perspect 119(10):1489–1494, PMID: , 10.1289/ehp.1002928. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+14. Lu W, Jenny A, Romero C, Diaz-Artiga A, Kuster A, Canuz E, et al.. 2024. Biomass smoke exposure and somatic growth among children: the RESPIRE and CRECER prospective cohort studies in rural Guatemala. Environ Int 183:108401, PMID: , 10.1016/j.envint.2023.108401. [PubMed] [CrossRef] [Google Scholar]
+15. WHO. 2021. WHO Global Air Quality Guidelines: Particulate Matter (PM2.5 and PM10), Ozone, Nitrogen Dioxide, Sulfur Dioxide and Carbon Monoxide. https://iris.who.int/bitstream/handle/10665/345329/9789240034228-eng.pdf?sequence=1&isAllowed=y [accessed 8 January 2024]. [PubMed]
+16. Mohamed SF, Uthman OA, Mutua MK, Asiki G, Abba MS, Gill P. 2021. Prevalence of uncontrolled hypertension in people with comorbidities in sub-Saharan Africa: a systematic review and meta-analysis. BMJ Open 11(12):e045880, PMID: , 10.1136/bmjopen-2020-045880. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+17. Dwyer T, Sun C, Magnussen CG, Raitakari OT, Schork NJ, Venn J, et al.. 2013. Cohort profile: the International Childhood Cardiovascular Cohort (i3c) Consortium. Int J Epidemiol 42(1):86–96, PMID: , 10.1093/ije/dys004. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Articles from Environmental Health Perspectives are provided here courtesy of National Institute of Environmental Health Sciences
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

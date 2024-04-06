@@ -1,0 +1,323 @@
+Skip to main content
+BMJ Journals
+Log In  Basket  
+Search for this keyword
+search
+Advanced search
+BMJ Open Respiratory Research
+Latest Content Archive Authors About
+You are here
+Home Archive Volume 7, Issue 1
+Email alerts
+Article
+Text
+Article
+info
+Citation
+Tools
+Share
+Rapid Responses
+Article
+metrics
+Alerts
+THIS ARTICLE HAS A CORRECTION. PLEASE SEE:
+Correction: Ambient air pollution, lung function and COPD: cross-sectional analysis from the WHO Study of AGEing and adult health wave 1 - March 01, 2021
+Download PDFPDF
+
+Download PDF + Supplemental DataPDF +
+Supplementary
+Material
+
+XML
+Environmental exposure
+Ambient air pollution, lung function and COPD: cross-sectional analysis from the WHO Study of AGEing and adult health wave 1 
+http://orcid.org/0000-0002-1392-5286Mona Elbarbary1, http://orcid.org/0000-0003-1039-4835Artem Oganesyan2, Trenton Honda3, Patrick Kelly1, Ying Zhang1, Yuming Guo4, Geoffrey Morgan1, Yanfei Guo5 and Joel Negin1
+Correspondence to Mona Elbarbary; melb2717@uni.sydney.edu.au
+Abstract
+Background Long-term exposure to ambient air pollution leads to respiratory morbidity and mortality; however, the evidence of the effect on lung function and chronic obstructive pulmonary disease (COPD) in older adult populations is inconsistent.
+
+Objective To address this knowledge gap, we investigated the associations between particulate matter (PM), nitrogen dioxide (NO2) exposure and lung function, as well as COPD prevalence, in older Chinese adults.
+
+Methods We used data from the WHO Study on global AGEing and adult health (SAGE) China Wave 1, which includes 11, 693 participants from 64 townships in China. A cross-sectional analysis explored the association between satellite-based air pollution exposure estimates (PM with an aerodynamic diameter of ≤10 µm [PM10], ≤2.5 µm [PM2.5] and NO2) and forced expiratory volume in one second (FEV1), forced vital capacity (FVC), the FEV1/FVC ratio and COPD (defined as post-bronchodilator FEV1/FVC <70%). Data on lung function changes were further stratified by COPD status.
+
+Results Higher exposure to each pollutant was associated with lower lung function. An IQR (26.1 µg/m3) increase in PM2.5 was associated with lower FEV1 (−71.88 mL, 95% CI –92.13 to –51.64) and FEV1/FVC (−2.81, 95% CI −3.37 to –2.25). For NO2, an IQR increment of 26.8 µg/m3 was associated with decreases in FEV1 (−60.12 mL, 95% CI –84.00 to –36.23) and FVC (−32.33 mL, 95% CI –56.35 to –8.32). A 31.2 µg/m3 IQR increase in PM10 was linked to reduced FEV1 (−8.86 mL, 95% CI −5.40 to 23.11) and FEV1/FVC (−1.85, 95% CI −2.24 to –1.46). These associations were stronger for participants with COPD. Also, COPD prevalence was linked to higher levels of PM2.5 (POR 1.35, 95% CI 1.26 to 1.43), PM10 (POR 1.24, 95% CI 1.18 to 1.29) and NO2 (POR 1.04, 95% CI 0.98 to 1.11).
+
+Conclusion Ambient air pollution was associated with lower lung function, especially in individuals with COPD, and increased COPD prevalence in older Chinese adults.
+
+http://creativecommons.org/licenses/by-nc/4.0/
+This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+
+https://doi.org/10.1136/bmjresp-2020-000684
+
+Supplementary materials
+Request Permissions
+If you wish to reuse any or all of this article please use the link below which will take you to the Copyright Clearance Center’s RightsLink service. You will be able to get a quick price and instant permission to reuse the content in many different ways.
+
+Request permissions
+Key messages
+To explore and quantify the association between common outdoor air pollutants and chronic obstructive pulmonary disease (COPD) prevalence, as well as lung function, in older individuals from China with and without COPD.
+
+Long-term exposure to ambient particulate matter (with an aerodynamic diameter of ≤10 µm (PM10) and ≤2.5 µm (PM)2.5)) and NO2 was observed to be associated with a higher prevalence of COPD among older Chinese adults. Detrimental changes in lung function parameters (forced expiratory volume in one second (FEV1), forced vital capacity (FVC) and FEV1/FVC) were also associated with increased levels of PM2.5, PM10 and NO2, and were found to be more significant in participants with COPD.
+
+This population-based cross-sectional analysis is one of the first studies to suggest that people with COPD might be at a higher risk of decrements in lung function associated with ambient air pollution exposure. The findings also highlight the role of outdoor air pollution exposure in relation to the prevalence of COPD among older adults from developing countries.
+
+Introduction
+Air pollution represents a significant public health threat, causing over 4 million premature deaths worldwide.1 The full list of medical conditions either mediated or caused directly by ambient air pollution is long and is a subject of active research.2 3 Yet some of the first and best-established health effects attributed to air pollution are those affecting the respiratory system.4 According to data from the Global Burden of Disease study, 43% of lung diseases, including lung cancer, chronic obstructive pulmonary disease (COPD) and lower respiratory infections, are attributed to elevated levels of air pollutants leading to more than 1.8 million annual deaths.5 COPD is one of the leading causes of death and disability globally,6 with an estimated worldwide prevalence of 10%.7 It has been established that both indoor and outdoor air pollution worsen COPD.7 8
+
+A large proportion of deaths related to both ambient air pollution and airway diseases occur in low-income and middle-income countries, where rapid economic development resulting in active infrastructure building, mining and urbanisation results in some of the highest levels of air pollution in the world.9 China, for example, has undergone a period of rapid industrialisation that has resulted in massive increases in emissions of various air pollutants.10 According to the WHO database of air pollution monitoring, 283 of the top 500 polluted cities in the world are found in China.11 Furthermore, the vast majority of Chinese cities fail to meet the air quality guidelines recommended by the WHO.12
+
+Older adults are known to be more susceptible to the detrimental health effects of air pollution.13 This age group has a higher incidence and prevalence of chronic, progressive lung disorders, such as COPD.8 14 These factors make older adults particularly susceptible to suffering from rapid urbanisation and increased air pollution emissions.
+
+Although the association between ambient air pollution and impaired lung function as well as COPD seems logical and intuitive given the clear associations with a broad range of respiratory mortality and morbidity outcomes, the data regarding the type of pollutants and clinical endpoints have not been consistently measured. For example, air pollutants have been associated with various degrees of lung function impairment and COPD worsening in some publications,15 16 whereas others failed to find any significant links between the exposure and the outcome.17 18 The heterogeneity of the results from previous studies can be partially explained by variations in population sampling methods, exposure estimation techniques, and measurement and control of important confounders. The lack of studies coming from developing countries, including China, is one of the most significant gaps in the data. To address these limitations in the existing literature, we aimed to investigate the long-term effects of outdoor air pollution on the lung function and COPD prevalence in a nationally representative population of older Chinese adults.
+
+Methods
+Study population
+The WHO Study on global AGEing and adult health (SAGE) is a nationally representative, cross-sectional survey of China. Full details on the study methodology are available elsewhere.19 Briefly, in the SAGE China survey, information was collected from Chinese adult respondents through an interview between 2007 and 2010.19 As a result of a multistage random sampling strategy, a total of 11 693 adult participants, aged 50 years and older, were ultimately included in the analysis (Figure S1).
+
+Supplemental material
+[bmjresp-2020-000684supp001.pdf]
+Patient involvement
+The study design, analysis, interpretation of the results and the writing or editing of this research paper were made without patient involvement.
+
+Outcome measurement
+As part of SAGE China Wave 1, lung function tests were performed using a MIR SpiroDoc Diagnostic Portable Spirometer (Medical International Research, Rome, Italy). Participants were instructed to wear a nose clip, and tests were conducted in a sitting position until three satisfactory spirometric measurements were obtained.20 Forced vital capacity (FVC), forced expiratory volume in one second (FEV1) and the FEV1/FVC ratio were calculated from the averages of the three readings. COPD was defined as a post-bronchodilator FEV1/FVC less than 70%.21
+
+Exposure assessment
+Data concentrations of particulate matter (PM) and nitrogen dioxide (NO2) were predicted through models using combined data from satellite remote sensing, meteorology, land use information and ground monitoring on the pollutants from stations throughout China. From 2004 to 2016, measurements of pollutants’ daily ground-level concentrations were obtained from 1479 stations of the China National Environmental Monitoring Centre. A detailed description of PM and NO2 predictions from these models has been published previously.22–24
+
+Using the monitor data, 10-fold validation was applied to evaluate the predictive ability of the models for both PM and NO2. The adjusted coefficient of determination (R2) and root-mean-squared error are presented in online supplemental table S1.
+
+Exposure to long-term outdoor air pollution was defined as the average concentration of PM and NO2 for the 3 years (2005–2007). Lastly, we geocoded the community locations of participants and linked these to the estimated annual concentrations of PM and NO2.
+
+Covariates
+Demographic, behavioural and socioeconomic confounders and potential effect modifiers were identified a priori through a literature search.25 26 Demographic confounders included age, sex, body mass index (BMI) and marital status. Behavioural variables were smoking status (never, current, former), and tobacco consumption (mean daily tobacco consumption), alcohol use (never or ever), fruit and vegetable consumption (sufficient and insufficient), and physical activity (low, moderate and high). Socioeconomic variables involved education level and household income. The level of education based on the participants’ self-reporting was divided into the following categories: (1) no formal education, (2) primary school, (3) middle school, (4) college or higher. Household income was categorised into two levels (low or high) using a median income of 15 000 Chinese yuan (¥) as a threshold. Additionally, we considered the place of residence as either urban or rural. Domestic fuel type was included as an indicator of indoor air pollution. Two fuel types were mainly used: clean fuels, including electricity and natural gas, and unclean fuels, such as coal, wood, dung and agricultural residues.
+
+Statistical analysis
+We examined the association between lung function metrics and an IQR increase in 3-year moving averages of PM10, PM2.5 and NO2 in single pollutant models. To assess for potential dependence in lung function measurements for participants in the same community, data clustering was accounted using a two-level linear regression model, where participants were considered as the first-level unit and the community as the second-level unit. The effect estimates were expressed as absolute differences in lung function measures associated with each IQR (μg/m3) increase in ambient PM2.5, PM10 or NO2 concentrations.
+
+For models using COPD as an outcome, logistic regression may overestimate the prevalence ratio, given a high prevalence of COPD in the study sample (19.5%). Therefore, we used a modified Poisson regression with robust error variance to directly estimate the prevalence OR of COPD. In fully adjusted models, we controlled for age, sex, BMI, smoking status (never, current, former), tobacco consumption, physical activity, education level, daily fruit and vegetable intake, alcohol use, place of residence, type of fuel used at home and median annual household income. Additionally, several variables were investigated as potential effect modifiers (age, sex, smoking and asthma history, and household income). Interactions were assessed by including multiplicative terms between pollutant variables and several potential effect modifiers into the models. Significance of effect modification was determined if the p value for the hypothesis test of the interaction was <0.01.
+
+Sensitivity analyses were performed. First, average pollutants concentrations were used for 1 and 5 years before the baseline survey to ensure that our results were not being driven primarily by our selection of an exposure window. Second, we excluded the participants with cardiovascular diseases and additionally adjusted for city-specific covariates, such as gross domestic product (GDP) and percentage of the population living in urban areas. All analyses were conducted using STATA V.15 (StataCorp, College Station, Texas, USA) and p value<0.05 was used to determine statistical significance.
+
+Results
+Characteristics for participants with complete data in fully adjusted lung function models are summarised in table 1. The mean age of participants with COPD was 64 years, and 61 for participants without COPD. About 51% of the participants were female, and the majority were living in rural areas (57%), reported never smoking (63%), and came from households earning less than ¥15 000 annually (54%). Some 3.5% of study subjects had been previously diagnosed with asthma, and 52% were currently using unclean fuel at their homes. Lastly, COPD prevalence was 19.5%.
+
+VIEW INLINE VIEW POPUP
+Table 1
+Population baseline characteristics
+
+Online supplemental table S2, figures S1–S3 show the distribution of residential ambient air pollution concentrations. Mean (±SD) annual estimates of PM10, PM2.5 and NO2 were 91.11 (±28.95 µg/m3), 54.02 (±17.02 µg/m3) and 28.97 (±22.42 µg/m3), respectively. NO2 concentrations were highly correlated with PM2.5 (r=0.92), but less so with PM10.
+
+Lung function and air pollution: full cohort
+In the full cohort, including both non-COPD and COPD participants, an IQR increase in the 3-year moving average of all pollutants showed adverse associations with lung function (table 2). In adjusted models, an IQR increase in PM10 exposure was associated with lower FEV1 (−29.08 mL, 95% CI –43.26 to –14.89) and FEV1/FVC ratio (−1.85, 95% CI −2.24 to –1.46). For each IQR increase in NO2, lower FEV1 (−60.12 mL, 95% CI –84.00 to –36.23) and FVC (−32.33 mL, 95% CI –56.35 to –8.32) was observed. Furthermore, results showed negative associations between PM2.5 concentrations and lung function, with stronger effects on FEV1 than FVC. The FEV1/FVC ratio showed no association with ambient NO2 exposure. For all pollutants, significant effect modification by BMI and lower household income was identified (all pinteract <0.001). For NO2 and PM10, older age (>65 years) was linked with lower FEV1. Associations were further investigated in non-COPD and COPD participants separately.
+
+VIEW INLINE VIEW POPUP
+Table 2
+Associations of lung function and ambient air pollution exposure
+
+COPD and air pollution
+Consistent with our findings for lung function, we found an IQR increase in the 3-year moving average of PM2.5 and PM10 to be associated with 35% and 24% increased prevalence odds ratio (POR) of COPD (POR 1.35, 95% CI 1.26 to 1.43; POR 1.24, 95% CI 1.18 to 1.29), respectively, when COPD status was treated as a binary outcome (figure 1). A nominally positive, non-significant, association was observed for NO2. Effect modification for PM2.5 was seen in former smokers (p=0.04).
+
+Figure 1
+Download figure
+Open in new tab
+Download powerpoint
+Figure 1
+Association between chronic obstructive pulmonary disease prevalence ratio and ambient air pollution exposure.
+
+Lung function and air pollution: non-COPD participants
+In participants without COPD, an IQR increase in each pollutant showed significant inverse associations with FEV1 (PM10 −25.31, β 95% CI –36.81 to –13.8; PM2.5 –53.81, β 95% CI –107.09 to –0.53; and NO2 −74.88, β 95% CI –146.61 to –3.15). However, an IQR increment in 3-year moving averages of PM10, PM2.5 and NO2 was not significantly associated with FVC (table 3).
+
+VIEW INLINE VIEW POPUP
+Table 3
+Air pollution exposure in patients with COPD and without COPD
+
+Lung function and air pollution: COPD participants
+In participants with COPD, all pollutants were statistically significantly associated with decrements in FEV1 and FVC. Additionally, the magnitude of association was more substantial than that found in non-COPD participants (table 3), with an IQR increase in PM10, PM2.5 and NO2 associated with FEV1 −25.31 mL (95% CI –36.81 to –13.80), −53.81 mL (95% CI –107.09 to –0.53) and −74.88 mL (95% CI –146.61 to –3.15), respectively. Smaller magnitudes of association were observed in FVC measurement (table 3).
+
+Results of PM10, PM2.5 and NO2 subgroup analyses for COPD and FEV1 are shown in tables 4 and 5, respectively. FEV1-stratified analyses showed stronger associations for PM10 and NO2 in older participants, subjects from lower-income households, and individuals with a history of asthma. The same effect modification patterns were observed for FVC-stratified analyses (data not shown). Participants from lower-income households had mean FEV1 levels three-to-five times lower than higher-income participants (all p<0.001); individuals with a history of asthma showed FEV1 levels lower than those with no previous history of asthma, per unit increase in PM10, PM2.5 or NO2, although the later findings did not reach statistical significance. In COPD subgroup analyses, NO2 association was also found to be stronger among participants with asthma (p=0.003).
+
+VIEW INLINE VIEW POPUP
+Table 4
+FEV1 subgroup analyses for PM10, PM2.5 and NO2
+
+VIEW INLINE VIEW POPUP
+Table 5
+COPD subgroup analyses for PM10, PM2.5 and NO2
+
+Our sensitivity analyses produced comparable effect estimates to our main models (online supplemental tables S3 and S4). When using different exposure windows and additionally adjusting for city-specific covariates, such as GDP, percentage of the population living in urban areas, similar effect estimates were observed. For instance, each IQR increase in the 1-year average concentration of PM10 was associated with a reduction in FEV1 (β −34.44, 95% CI –46.09 to –22.79) and an increase in COPD prevalence by 30% (POR 1.30, 95% CI 1.21 to 1.39). When excluding the participants with cardiovascular diseases, the models also produced consistent effect estimates (online supplemental tables S3 and S4).
+
+Discussion
+Long-term exposure to higher concentrations of PM2.5 and PM10 was associated with increased prevalence of COPD among older Chinese adults. Impaired lung function related to air pollution exposure was also observed. Reduced FEV1 was linked to all three pollutants; PM2.5 and PM10 were additionally associated with decreased FEV1/FVC ratio, while NO2 was associated with lower FVC. We further found more significant magnitude effect estimates among participants with COPD, suggesting that this may be a particularly susceptible group to the deleterious pulmonary effects of air pollution.
+
+COPD prevalence
+Air pollution has been recognised as a likely risk factor for COPD, although only a small number of studies have investigated this association in China.21 A cross-sectional study of almost 6000 residents of Guangdong province showed statistically significant associations between elevated levels of PM2.5 and PM10 and increased prevalence of COPD.27 For daily mean PM2.5>75 mg/m3 and PM10 >50 to≤150 mg/m3, the adjusted OR for COPD prevalence was 2.530 (95% CI 1.280 to 5.001) and 2.442 (95% CI 1.449 to 4.117), respectively. Accordingly, the present population-based analysis showed 35% (POR 1.35, 95% CI 1.26 to 1.43) and 24% (POR 1.24, 95% CI 1.18 to 1.29) increase in COPD prevalence due to high exposure to PM2.5 and PM10, respectively. Presumably, the difference in prevalence is due to distinct distribution of study populations. Likewise, in a large-scale (n=2 85 046) longitudinal cohort with 13 years of follow-up, Guo et al found a higher incidence of COPD among those exposed to higher PM2.5 concentrations.28
+
+The negative effect of the long-term exposures to PM2.5 and PM10 is further supported by the results from Western countries29 30; however, findings regarding COPD and air pollution are not consistent. For example, a meta-analysis of four large European cohorts did not demonstrate any significant associations between prevalence and incidence of COPD and different air pollutants.31 We found no significant associations of COPD prevalence with NO2, which contradicts the findings from the UK Biobank study and a US cohort study.29 30
+
+This heterogeneity in findings may be explained by different outcome and exposure assessments, or uncontrolled confounding in some studies. Most of the evidence supporting the positive association between NO2 and COPD incidence or prevalence is derived from research on the general population of adults from Western countries,32 whereas we evaluated older adults from China. Also, the NO2 association may be more susceptible to confounding due to NO2 being primarily a traffic-related air pollutant with high spatial variation and people having a much greater variability in traffic-related pollution exposure than PM. Thus, geographic and population-related factors might have impacted the magnitude of the effect.
+
+Lung function
+Long-term exposure to air pollution has also been previously shown in some, but not all, studies to adversely affect lung function. Subjects from our cohort demonstrated an obstructive pattern of lung function decline,33 with significant associations between FEV1 reduction and PM2.5, PM10 and NO2 exposures, as well as FEV1/FVC decrease and exposure to PM2.5 and PM10. The associations we observed for FEV1 are broadly consistent with the outcomes reported by other studies from economically developing countries27 28 34 as well as some European studies.28 35–38 However, a meta-analysis of European multicentre cohort studies (ESCAPE) showed no associations between PM2.5 and decrements in FEV1.35
+
+Our findings regarding the decrease in FEV1/FVC ratio with increased PM exposure have also recently been reported in some Asian cohorts.27 28 34 Liu et al demonstrated 0.09% (95% CI −0.170 to –0.010) and 0.024% (95% CI −0.092 to 0.040) declines in FEV1/FVC ratio for PM2.5 and PM10 exposure, respectively, among Chinese adult participants.27 A large longitudinal Taiwanese cohort showed a 0.21% decrease in FEV1/FVC with 5 µg/m³ increment in PM2.5 with an annual decrease of 0.09%.28 Interestingly, the UK Biobank Study found PM2.5, but not PM10, increment to be associated with FEV1/FVC decrease,29 while another study from the UK failed to show significant associations between FEV1/FVC decline and PM10 exposure.36
+
+In contrast to most previous research,27–29 34 35 37 we did not find PM2.5 or PM10 to be associated with decrements in FVC. This disparity might be related to distinct demography of our study population as well as differences in sources and chemical composition of PM.
+
+The present results also indicated direct correlations between lower-income households (≤¥15 000) and decreased FEV1 for all three pollutants. This finding illustrates the enhanced effects of air pollution on low-income populations, which can be justified by higher exposure to common health risk factors, substandard living conditions, poorer nutrition, more frequent childhood infections and worse access to healthcare services.38 Similar associations were previously displayed by other studies.26 29 In our analysis, PM10 and NO2 exposure were linked to lower FEV1 values in elderly individuals, which was also demonstrated previously.36 This might be a valuable complement to the list of other effect modification characteristics. For instance, some studies reported that the history of smoking, obesity or gender was associated with poorer outcomes,28 34 36 whereas healthy diet consisting of regular intake of fruits and vegetables mitigated the adverse effects from ambient air pollution.36
+
+The discrepancies in the publications mentioned above may arise from several possible explanations. First, studies varied in the populations assessed and the geographic regions studied. The adjustment for potential confounders was not consistent in all studies, and it is not entirely clear to what extent it could have influenced the outcomes. Second, the exposure assessment of the pollutants differed among cohorts, which might have also impacted the results. Third, in some publications, the heterogeneities between included studies and subgroups could have significantly contributed to the statistical insignificance. Fourth, differences in applied statistical methods (with their respective limitations) might also have played a role in variation in the outcome assessment. Fifth, additive effects of co-pollutants, which is highly likely to vary across world regions, could have influenced the magnitude of the associations within the various endpoints. Last, and possibly most importantly, almost no study assessed different phenotypes of COPD, which can be a critical factor for data stratification.
+
+COPD versus non-COPD
+The negative impact of increased exposure to air pollutants on the respiratory function was more pronounced in participants with COPD compared with those without the disease. One of the primary explanations for this finding is the fact that individuals with COPD have already decreased pulmonary physiological function.39 This group has a higher risk of developing other respiratory diseases, including airway infections and lung cancer, than the general population.21 Moreover, individuals with COPD often have other chronic comorbidities, such as cardiovascular disease, as well as mental or metabolic disorders.40 Studies showed that patients with COPD have elevated levels of specific inflammatory markers at the baseline,31 which may play an essential role in the mechanisms and progression of the disease.41
+
+To our knowledge, this is the first study to report the detrimental effects of long-term ambient air pollution on individuals with COPD in comparison to people without COPD. Previous research reported enhanced adverse effects from air pollutants on lung function in individuals with pre-existing chronic conditions, such as heart disease, asthma, diabetes, obesity or smoking.29 36 Additionally, exposure to air pollution was demonstrated to increase the frequency of COPD exacerbations42 and mortality.8 An interesting finding was reported by Dorion et al, where subjects with occupations considered at risk for COPD (eg, coal mine operatives, chemical and related process operatives) had three times lower levels of FEV1 and FVC per each unit increase in PM2.5 and NO2 compared with those with other occupations.29 Forbes et al reported the effect modification for PM10, NO2 and SO2 when excluding patients with asthma, emphysema or bronchitis compared with the general cohorts.36 However, no direct comparison between these groups was available.
+
+Strengths and limitations
+This study has several limitations. First, analyses are limited by the cross-sectional study design and offer little information on the longitudinal effects of evaluated pollutants. Second, differential physical activity patterns, changes in participant addresses and discriminatory infiltration of outdoor pollution to the indoor environment may have contributed to misclassification of exposure levels. Other potential confounding factors, including secondhand tobacco smoking, various environmental components and the impact of other air pollutants, were not assessed. Finally, further studies are warranted to investigate the effects of particulates of different sizes as well as other gaseous pollutants. These limitations are offset by some important strengths. The results of the current study are based on representative populations of adults from eight different provinces in China, whereas most previously published work has been focused on specific areas of the country. Additionally, we were able to adjust for many important confounders and estimated exposure using high-quality spatiotemporal air pollution exposure models.
+
+Future research and conclusions
+Although the link between outdoor air pollution and impaired respiratory function has been previously explored, discrepancies in the findings related to the type of pollutants and specific lung function parameters remain. Moreover, there is still a lack of data coming from low-income and middle-income countries. The populations of these countries are of particular interest as they are more often affected by both severe outdoor air pollution and chronic lung diseases, including COPD. The elderly population in Asian countries, including China, is one of the most vulnerable groups in this regard. Air pollution and COPD will continue to be major public health problems worldwide. Considering the ever-ageing global population, future research should focus on older participants with robust study design and powerful statistical models. The influence of COPD phenotype should also be investigated in future studies.
+
+In conclusion, this study contributes to the current evidence regarding the association between ambient air pollution and decreased lung function, as well as increased prevalence of COPD, among adults from developing countries. Our findings further indicate that individuals with COPD are more vulnerable to high levels of air pollutants with a higher risk of decline in respiratory function.
+
+Acknowledgments
+The authors thank the participants of this study, without which this work would not be possible.
+
+References
+↵World Health Organization. Ambient air pollution: a global assessment of exposure and burden of disease, 2016. Available: https://apps.who.int/iris/bitstream/handle/10665/250141/9789241511353-eng.pdf?sequence=1Google Scholar
+↵Dastoorpoor M, Idani E, Goudarzi G, et al. Acute effects of air pollution on spontaneous abortion, premature delivery, and stillbirth in Ahvaz, Iran: a time-series study. Environ Sci Pollut Res Int 2018;25:5447–58.doi:10.1007/s11356-017-0692-9pmid:http://www.ncbi.nlm.nih.gov/pubmed/29214476PubMedGoogle Scholar
+↵Elbarbary M, Honda T, Morgan G, et al. Ambient air pollution exposure association with anaemia prevalence and haemoglobin levels in Chinese older adults. Int J Environ Res Public Health 2020;17:3209. doi:10.3390/ijerph17093209pmid:http://www.ncbi.nlm.nih.gov/pubmed/32380747PubMedGoogle Scholar
+↵Neisi A, Vosoughi M, Idani E, et al. Comparison of normal and dusty day impacts on fractional exhaled nitric oxide and lung function in healthy children in Ahvaz, Iran. Environ Sci Pollut Res Int 2017;24:12360–71.doi:10.1007/s11356-017-8853-4pmid:http://www.ncbi.nlm.nih.gov/pubmed/28357800PubMedGoogle Scholar
+↵GBD 2017 Disease and Injury Incidence and Prevalence Collaborators. Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990-2017: a systematic analysis for the global burden of disease study 2017. Lancet 2018;392:1789–858.doi:10.1016/S0140-6736(18)32279-7pmid:http://www.ncbi.nlm.nih.gov/pubmed/30496104CrossRefPubMedGoogle Scholar
+↵GBD 2015 Mortality and Causes of Death Collaborators. Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the global burden of disease study 2015. Lancet 2016;388:1459–544.doi:10.1016/S0140-6736(16)31012-1pmid:http://www.ncbi.nlm.nih.gov/pubmed/27733281CrossRefPubMedGoogle Scholar
+↵Gan WQ, FitzGerald JM, Carlsten C, et al. Associations of ambient air pollution with chronic obstructive pulmonary disease hospitalization and mortality. Am J Respir Crit Care Med 2013;187:721–7.doi:10.1164/rccm.201211-2004OCpmid:http://www.ncbi.nlm.nih.gov/pubmed/23392442CrossRefPubMedWeb of ScienceGoogle Scholar
+↵Soriano JB, Abajobir AA, Abate KH, et al. Global, regional, and national deaths, prevalence, disability-adjusted life years, and years lived with disability for chronic obstructive pulmonary disease and asthma, 1990-2015: a systematic analysis for the global burden of disease study 2015. Lancet Respir Med 2017;5:691–706.doi:10.1016/S2213-2600(17)30293-Xpmid:http://www.ncbi.nlm.nih.gov/pubmed/28822787PubMedGoogle Scholar
+↵Mannucci PM, Franchini M. Health effects of ambient air pollution in developing countries. Int J Environ Res Public Health 2017;14:1048. doi:10.3390/ijerph14091048pmid:http://www.ncbi.nlm.nih.gov/pubmed/28895888PubMedGoogle Scholar
+↵Chan CK, Yao X. Air pollution in mega cities in China. Atmos Environ 2008;42:1–42.doi:10.1016/j.atmosenv.2007.09.003CrossRefWeb of ScienceGoogle Scholar
+↵World Health Organisation. WHO global ambient air quality database. ambient air Qual. Database (update 2018), 2018. Available: https://whoairquality.shinyapps.io/AmbientAirQualityDatabase/Google Scholar
+↵Rohde RA, Muller RA. Air pollution in China: mapping of concentrations and sources. PLoS One 2015;10:e0135749. doi:10.1371/journal.pone.0135749pmid:http://www.ncbi.nlm.nih.gov/pubmed/26291610PubMedGoogle Scholar
+↵Simoni M, Baldacci S, Maio S, et al. Adverse effects of outdoor pollution in the elderly. J Thorac Dis 2015;7:34–45.doi:10.3978/j.issn.2072-1439.2014.12.10pmid:http://www.ncbi.nlm.nih.gov/pubmed/25694816CrossRefPubMedGoogle Scholar
+↵Bentayeb M, Simoni M, Baiz N, et al. Adverse respiratory effects of outdoor air pollution in the elderly. Int J Tuberc Lung Dis 2012;16:1149–61.doi:10.5588/ijtld.11.0666pmid:http://www.ncbi.nlm.nih.gov/pubmed/22871325CrossRefPubMedGoogle Scholar
+↵Annesi-Maesano I. Air pollution and chronic obstructive pulmonary disease exacerbations: when prevention becomes feasible. Am J Respir Crit Care Med 2019;199:547–8.doi:10.1164/rccm.201810-1829EDpmid:http://www.ncbi.nlm.nih.gov/pubmed/30326733PubMedGoogle Scholar
+↵Edginton S, O'Sullivan DE, King W, et al. Effect of outdoor particulate air pollution on FEV1 in healthy adults: a systematic review and meta-analysis. Occup Environ Med 2019;76:583–91.doi:10.1136/oemed-2018-105420pmid:http://www.ncbi.nlm.nih.gov/pubmed/31189694Abstract/FREE Full TextGoogle Scholar
+↵Frischer T, Studnicka M, Gartner C, et al. Lung function growth and ambient ozone: a three-year population study in school children. Am J Respir Crit Care Med 1999;160:390–6.doi:10.1164/ajrccm.160.2.9809075pmid:http://www.ncbi.nlm.nih.gov/pubmed/10430703CrossRefPubMedWeb of ScienceGoogle Scholar
+↵Moore E, Chatzidiakou L, Kuku M-O, et al. Global associations between air pollutants and chronic obstructive pulmonary disease hospitalizations. A systematic review. Ann Am Thorac Soc 2016;13:1814–27.doi:10.1513/AnnalsATS.201601-064OCpmid:http://www.ncbi.nlm.nih.gov/pubmed/27314857PubMedGoogle Scholar
+↵Kowal P, Chatterji S, Naidoo N, et al. Data resource profile: the world Health organization study on global ageing and adult health (SAGE). Int J Epidemiol 2012;41:1639–49.doi:10.1093/ije/dys210pmid:http://www.ncbi.nlm.nih.gov/pubmed/23283715CrossRefPubMedWeb of ScienceGoogle Scholar
+↵Moore VC. Spirometry: step by step. Breathe 2012;8:232–40.doi:10.1183/20734735.0021711Abstract/FREE Full TextGoogle Scholar
+↵Agarwal R, Chakrabarti A, Denning DW, et al. Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease - 2020 Report.Google Scholar
+↵Chen G, Li S, Knibbs LD, et al. A machine learning method to estimate PM2.5 concentrations across China with remote sensing, meteorological and land use information. Sci Total Environ 2018;636:52–60.doi:10.1016/j.scitotenv.2018.04.251pmid:http://www.ncbi.nlm.nih.gov/pubmed/29702402PubMedGoogle Scholar
+↵Chen G, Wang Y, Li S, et al. Spatiotemporal patterns of PM10 concentrations over China during 2005-2016: A satellite-based estimation using the random forests approach. Environ Pollut 2018;242:605–13.doi:10.1016/j.envpol.2018.07.012pmid:http://www.ncbi.nlm.nih.gov/pubmed/30014938PubMedGoogle Scholar
+↵Zhan Y, Luo Y, Deng X, et al. Satellite-Based Estimates of Daily NO2 Exposure in China Using Hybrid Random Forest and Spatiotemporal Kriging Model. Environ Sci Technol 2018;52:4180–9.doi:10.1021/acs.est.7b05669pmid:http://www.ncbi.nlm.nih.gov/pubmed/29544242PubMedGoogle Scholar
+↵Lamichhane DK, Leem JH, Kim HC. Associations between ambient particulate matter and nitrogen dioxide and chronic obstructive pulmonary diseases in adults and effect modification by demographic and lifestyle factors. Int J Environ Res Public Health 2018;15:363. doi:10.3390/ijerph15020363pmid:http://www.ncbi.nlm.nih.gov/pubmed/29463050PubMedGoogle Scholar
+↵Wheeler BW, Ben-Shlomo Y. Environmental equity, air quality, socioeconomic status, and respiratory health: a linkage analysis of routine data from the health survey for England. J Epidemiol Community Health 2005;59:948–54.doi:10.1136/jech.2005.036418pmid:http://www.ncbi.nlm.nih.gov/pubmed/16234422Abstract/FREE Full TextGoogle Scholar
+↵Liu S, Zhou Y, Liu S, et al. Association between exposure to ambient particulate matter and chronic obstructive pulmonary disease: results from a cross-sectional study in China. Thorax 2017;72:788–95.doi:10.1136/thoraxjnl-2016-208910pmid:http://www.ncbi.nlm.nih.gov/pubmed/27941160Abstract/FREE Full TextGoogle Scholar
+↵Guo C, Zhang Z, Lau AKH, et al. Effect of long-term exposure to fine particulate matter on lung function decline and risk of chronic obstructive pulmonary disease in Taiwan: a longitudinal, cohort study. Lancet Planet Health 2018;2:e114–25.doi:10.1016/S2542-5196(18)30028-7pmid:http://www.ncbi.nlm.nih.gov/pubmed/29615226CrossRefPubMedGoogle Scholar
+↵Doiron D, de Hoogh K, Probst-Hensch N, et al. Air pollution, lung function and COPD: results from the population-based UK Biobank study. Eur Respir J 2019;54:1802140.doi:10.1183/13993003.02140-2018pmid:http://www.ncbi.nlm.nih.gov/pubmed/31285306Abstract/FREE Full TextGoogle Scholar
+↵Wang M, Aaron CP, Madrigano J, et al. Association between long-term exposure to ambient air pollution and change in quantitatively assessed emphysema and lung function. JAMA 2019;322:546–56.doi:10.1001/jama.2019.10255pmid:http://www.ncbi.nlm.nih.gov/pubmed/31408135PubMedGoogle Scholar
+↵Schikowski T, Adam M, Marcon A, et al. Association of ambient air pollution with the prevalence and incidence of COPD. Eur Respir J 2014;44:614–26.doi:10.1183/09031936.00132213pmid:http://www.ncbi.nlm.nih.gov/pubmed/24488569Abstract/FREE Full TextGoogle Scholar
+↵Zhang Z, Wang J, Lu W. Exposure to nitrogen dioxide and chronic obstructive pulmonary disease (COPD) in adults: a systematic review and meta-analysis. Environ Sci Pollut Res Int 2018;25:15133–45.doi:10.1007/s11356-018-1629-7pmid:http://www.ncbi.nlm.nih.gov/pubmed/29558787PubMedGoogle Scholar
+↵Johnson JD, Theurer WM. A stepwise approach to the interpretation of pulmonary function tests. Am Fam Physician 2014;89:359–66.pmid:http://www.ncbi.nlm.nih.gov/pubmed/24695507PubMedGoogle Scholar
+↵Lin H, Guo Y, Di Q, et al. Consumption of fruit and vegetables might mitigate the adverse effects of ambient PM2.5 on lung function among adults. Environ Res 2018;160:77–82.doi:10.1016/j.envres.2017.09.007pmid:http://www.ncbi.nlm.nih.gov/pubmed/28963967PubMedGoogle Scholar
+↵Adam M, Schikowski T, Carsin AE, et al. Adult lung function and long-term air pollution exposure. escape: a multicentre cohort study and meta-analysis. Eur Respir J 2015;45:38–50.doi:10.1183/09031936.00130014pmid:http://www.ncbi.nlm.nih.gov/pubmed/25193994Abstract/FREE Full TextGoogle Scholar
+↵Forbes LJL, Kapetanakis V, Rudnicka AR, et al. Chronic exposure to outdoor air pollution and lung function in adults. Thorax 2009;64:657–63.doi:10.1136/thx.2008.109389pmid:http://www.ncbi.nlm.nih.gov/pubmed/19359266Abstract/FREE Full TextGoogle Scholar
+↵Ackermann-Liebrich U, Leuenberger P, Schwartz J, et al. Lung function and long term exposure to air pollutants in Switzerland. study on air pollution and lung diseases in adults (SAPALDIA) team. Am J Respir Crit Care Med 1997;155:122–9.doi:10.1164/ajrccm.155.1.9001300pmid:http://www.ncbi.nlm.nih.gov/pubmed/9001300CrossRefPubMedWeb of ScienceGoogle Scholar
+↵O'Neill MS, Jerrett M, Kawachi I, et al. Health, wealth, and air pollution: advancing theory and methods. Environ Health Perspect 2003;111:1861–70.doi:10.1289/ehp.6334pmid:http://www.ncbi.nlm.nih.gov/pubmed/14644658CrossRefPubMedWeb of ScienceGoogle Scholar
+↵O'Donnell DE, Laveneziana P, Webb K, et al. Chronic obstructive pulmonary disease: clinical integrative physiology. Clin Chest Med 2014;35:51–69.doi:10.1016/j.ccm.2013.09.008pmid:http://www.ncbi.nlm.nih.gov/pubmed/24507837CrossRefPubMedWeb of ScienceGoogle Scholar
+↵Cavaillès A, Brinchault-Rabin G, Dixmier A, et al. Comorbidities of COPD. Eur Respir Rev 2013;22:454–75.doi:10.1183/09059180.00008612pmid:http://www.ncbi.nlm.nih.gov/pubmed/24293462Abstract/FREE Full TextGoogle Scholar
+↵Bradford E, Jacobson S, Varasteh J, et al. The value of blood cytokines and chemokines in assessing COPD. Respir Res 2017;18:180. doi:10.1186/s12931-017-0662-2pmid:http://www.ncbi.nlm.nih.gov/pubmed/29065892PubMedGoogle Scholar
+↵DeVries R, Kriebel D, Sama S. Outdoor air pollution and COPD-Related emergency department visits, hospital admissions, and mortality: a meta-analysis. COPD 2017;14:113–21.doi:10.1080/15412555.2016.1216956pmid:http://www.ncbi.nlm.nih.gov/pubmed/27564008PubMedGoogle Scholar
+Supplementary materials
+Supplementary Data
+This web only file has been produced by the BMJ Publishing Group from an electronic file supplied by the author(s) and has not been edited for content.
+
+Data supplement 1
+Supplementary Data
+This web only file has been produced by the BMJ Publishing Group from an electronic file supplied by the author(s) and has not been edited for content.
+
+Data supplement 1
+Footnotes
+Contributors Study design and conceptualisation: ME, TH, YZ, JN. Data curation: ME, YG, YG. Statistical analysis: ME, PK. Funding acquisition: ME. Methodology: ME, TH, YZ, JN, PJK. Interpretation of the findings: ME, AO, TH. Data visualisation: ME, YG. Original and final draft writing: ME, AO. All authors provided the approval of the final version to be published.
+
+Funding This research was supported by PhD Top Up Award from NHMRC Centre for Air Quality and Health Research and Evaluation and School of Public Health Ageing Research Award from the University of Sydney Fund.
+
+Competing interests None declared.
+
+Patient consent for publication Not required.
+
+Ethics approval This study was approved by the Ethics Committee of the Chinese Centre for Disease Control and Prevention (approval number 200601).
+
+Provenance and peer review Not commissioned; externally peer reviewed.
+
+Data availability statement Data may be obtained from a third party and are not publicly available. We used data from the WHO Study on global AGEing and adult health (SAGE) to analyse and report the findings. Data access policy is available on https://apps.who.int/healthinfo/systems/surveydata/index.php/catalog/13.
+
+Supplemental material This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.
+
+
+Other content recommended for you
+Ambient air pollution is associated with airway inflammation in older women: a nested cross-sectional analysis
+Michael J Abramson et al., Open Resp Res, 2020
+Association between exposure to ambient particulate matter and chronic obstructive pulmonary disease: results from a cross-sectional study in China
+Sha Liu et al., Thorax, 2017
+Impact of ambient air pollution on lung function in preterm-born school-aged children
+William John Watkins et al., Thorax, 2024
+Effect of outdoor particulate air pollution on FEV1 in healthy adults: a systematic review and meta-analysis
+Stefan Edginton et al., Occup Environ Med, 2019
+Ambient air pollution exposure and chronic bronchitis in the Lifelines cohort
+Dany Doiron et al., Thorax, 2021
+Relationship between pulmonary function and indoor air pollution from coal combustion among adult residents in an inner-city area of southwest China
+Jie et al., Brazilian Journal of Medical and Biological Research, 2014
+Indoor NO2 air pollution and lung function of professional cooks
+Arbex et al., Brazilian Journal of Medical and Biological Research, 2007
+Safety of parathyroidectomy in older vs. younger patients with primary hyperparathyroidism
+Marlena Mueller et al., Endocrine Connections, 2021
+Self-Reported Dual Sensory Impairment and Subjective Cognitive Complaints Among Older Adults in the 2019 National Health Interview Survey
+Jason R. Smith et al., American Journal of Audiology, 2022
+AI improves detail, estimate of urban air pollution
+by Blaine Friedlander et al., TechXplore.com, 2023
+Powered by
+British Thoracic SocietyBritish Sleep SocietyAssociation of Respiratory Nursing SpecialistsBritish Association for Lung Research
+CONTENT
+Latest Content
+Archive
+Browse by collection
+Most read articles
+Most cited articles
+Responses
+Highlights from Sleep Research
+JOURNAL
+About
+Editorial board
+Sign up for email alerts
+Thank you to our reviewers
+AUTHORS
+Submit an article
+Instructions for authors
+Editorial policies
+Open Access at BMJ
+FAQs
+Policies
+BMJ Author Hub
+HELP
+Contact us
+Reprints
+Permissions
+Advertising
+Feedback form
+RSSTwitterFacebook
+Website Terms & Conditions
+Privacy & Cookies
+Contact BMJ
+Cookie settings
+Online ISSN: 2052-4439
+Copyright © 2023 BMJ Publishing Group Ltd & British Thoracic Society. All rights reserved.
+
+Cookies and privacyWe and our 50 partners store and/or access information on a device, such as unique IDs in cookies to process personal data. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time in the privacy policy page. These choices will be signaled to our partners and will not affect browsing data.Cookie policy
+We and our partners process data to provide:
+Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.List of Partners (vendors)
+
+I Accept
+Reject All
+Manage preferences
+PDF
+Help

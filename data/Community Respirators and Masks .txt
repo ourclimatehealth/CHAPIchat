@@ -1,0 +1,286 @@
+Skip directly to site contentSkip directly to search
+Español | Other Languages
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People
+The National Institute for Occupational Safety and Health (NIOSH)
+Workplace Safety and Health Topics
+Personal Protective Equipment for the Public
+NIOSH logo and tagline
+Community Respirators and Masks
+Print
+On This Page
+How Respirators and Masks Protect You
+How Respirators and Masks Protect Others Around You
+Filtration and Fit
+Manufacturing Quality
+Types of Respirators and Masks
+Respirator and Mask Performance
+Safety Precautions
+Considerations for Specific Groups of People
+You can be exposed to hazards (like germs, mold, nuisance dust, wildfire smoke, and air pollution) in the air in various situations. This page will help you understand the differences between various kinds of respirators and masks so that you can identify the type that will meet your needs best.
+
+You can protect yourself by taking steps to reduce exposures. To decrease exposure to infectious respiratory diseases, increase physical distancing, add fresh outdoor air, and use air filters. During wildfires or poor air quality, you can close windows, use air filters, and limit time outdoors.
+
+Wearing a respirator or mask is another way to reduce exposures to respiratory hazards. Respirators fit closely to your face and protect you by filtering particles out of the air you breathe. They also filter out droplets and particles that you exhale when breathing, coughing, or sneezing to prevent the spread of germs to others. Masks also filter out your exhaled breath to protect others. If a mask fits closely to your face, it also provides some protection from germs spread by others.
+
+Based on the type of respiratory hazard and the length of exposure, health effects can range from mild irritation and discomfort to severe illness or disease. Common respiratory hazards include:
+
+Infectious Diseases
+
+Exposure to germs in the air can cause respiratory infectious diseases, like influenza and COVID-19. Respiratory secretions can form small particles and droplets that can be spread from person to person. If the particles and droplets carry germs that stay infectious in the air, they can lead to infection. During periods of increased infections or when you are sick, it is not always possible to stay home or stay away from others to keep you from becoming sick. You can wear a respirator or mask to reduce your exposure to germs as well as prevent you from spreading your germs to others.
+
+Mold
+
+Mold grows in places with a lot of moisture. People are commonly exposed to mold when cleaning water-damaged buildings after weather events like floods and hurricanes. They are exposed to particles from the mold as well as vapors and gases from cleaning products when remediating flood damage in their house. Refer to the CDC guidance on Respiratory Protection for Residents and/or Cleaning Homes that Were Flooded.
+
+Nuisance Dust
+
+Nuisance dust consists of any solid particle in the air. Cleaning, grinding, sanding, smoking, or polishing can create nuisance dust. Nuisance dust also includes pollen. You can wear a respirator or mask to reduce your exposure to nuisance dust.
+
+Wildfire Smoke and Air Pollution
+
+Wildfire smoke and other types of air pollution consist of small particles, other compounds like vapors, and gases such as carbon monoxide. During periods of extremely poor air quality, it’s not always possible to reduce exposure enough to prevent health effects by closing windows or limiting time outdoors. Refer to the CDC guidance to Protect Yourself from Wildfire Smoke and the EPA Wildfire Smoke Resources to Protect Your Health for guidance and health fact sheets.
+
+When employers require respirators in a workplace, they should be used as part of a respiratory protection program. The Occupational Safety and Health Administration requires many workplaces to follow their Respiratory Protection Standard. There are multiple types of NIOSH Approved atmosphere-supplying respirators and air purifying respirators available for workplace settings. Information about NIOSH Approved respirators for use in workplace settings is available through various NIOSH infographics.
+
+How Respirators and Masks Protect You
+Air purifying particulate respirators and masks work by removing particles and blocking droplets. This reduces your exposure to harmful respiratory hazards. Correctly wearing a respirator or mask can protect you from some respiratory hazards.
+
+Image of individual wearing a mask showing how inhaled air flows through the filter to remove particles to protect you.
+Example of how respirators and masks protect you
+
+Respirators are more protective than masks. You can use respirators such as filtering facepiece respirators (FFRs) and elastomeric respirators (quarter-mask and half-mask types) at home and out in the community. Wearing a NIOSH Approved® respirator reduces your exposure to hazards in the air. Masks are a less protective option. Examples include barrier face coverings (BFCs), disposable face masks, and cloth masks. Disposable face masks and cloth masks are the least effective at reducing exposures.
+
+How Respirators and Masks Protect Others Around You
+Respirators and masks may filter particles and block droplets when you exhale (breathe, talk, cough, etc.). This reduces the risk that a person with a respiratory infection will spread germs to others. If you have a respiratory infection, there’s a change you could pass your infection to others. Wearing a respirator or mask reduces the number of germs that you exhale into the environment around you. This is one way to prevent the spread of respiratory germs from person to person, like wearing a mask to prevent the spread of the germ that causes COVID-19.
+
+Image of individual wearing a mask showing how exhaled air flows through the filter to remove particles to protect others.
+Example of how respirators and mask protect others
+
+There is no standard test to measure the level of protection a respirator or mask provides to others around you. The more closely a respirator or mask fits to your face including fulling covering your nose and mouth, the more likely the filter is to capture your exhaled particles or droplets. A respirator or mask with a loose fit will allow more particles and droplets to exit through the gaps around your face. Additionally, the better the filtration of the respirator or mask, the better the expected level of protection. If you are sick, isolating yourself away from others is a more effective way to protect others than wearing a respirator or mask.
+
+Wearing an air purifying particulate respirator or mask will filter particles, but it does not filter out harmful gases or vapors.
+
+Filtration and Fit
+Respirators and masks intended for particles reduce your exposure by filtering some particles out and blocking droplets when you inhale. They can help protect you from particles like smoke, air pollution, mold, and germs in the air you inhale. They do not filter out harmful gases and vapors such as carbon monoxide or gasoline. It is important to consider the level of filtration and fit when selecting a respirator or mask.
+
+Respirators and some masks, like BFCs, are manufactured to standards developed in collaboration with government and industry partners. These standards specify requirements like the level of filtration, fit, and quality controls the respirator or mask must meet. Standards give you confidence that a respirator or mask will protect you as intended if worn appropriately. Some masks, like many disposable face masks and cloth masks, are not made to a standard. They provide unknown levels of protection.
+
+To help you know how well your respirator or mask filters out particles, you can look to see if the manufacturer claims a percentage filtration based on standards. NIOSH Approved respirators, like N95® filtering facepiece respirators, meet the most rigorous standards. Respirators conforming to international standards, like the KN95, are also tested to a standard. NIOSH Approved and international respirators will report the level of filtration they provide, such as a minimum of 95% or a minimum of 80%. However, those conforming to international standards may not have the rigorous quality assurance requirements meeting those that are NIOSH Approved. Depending on the intended use, manufacturers may test their respirators and masks to numerous different standards. Masks that claim to meet the ASTM BFC Standard will report the level of filtration they provide, such as a minimum of 20%.
+
+The respirator and mask can only filter particles that try to pass through the filter material. Filtering facepiece respirators and elastomeric respirators cover the nose and mouth and fit tightly against the face creating a seal (tight-fitting) that forces the particles to pass through the filter material. Masks are designed to cover your nose and mouth but not form a tight seal to your face (loose-fitting). Using masks that are tighter to your face forces particle through the filter material. If gaps exist between your face and the respirator or mask, some small particles that you cannot see can enter your nose or mouth through those gaps. Minimizing these gaps is important. The bridge of the nose and the sides of the respirator or mask are common locations for leaks. Facial hair is also a common cause for gaps. Because the size and shape of your face is unique, you might need to try a few different respirators or masks to find one that forms a good seal to your face.
+
+individual wearing a tight-fitting respirator showing how inhaled and exhaled air should flow through the filter media.
+Example of tight-fitting respirator
+
+Image of individual wearing a loose-fitting mask showing how inhaled and exhaled air can flow around the edges.
+Example of loose-fitting mask
+
+NIOSH Approved respirators and BFCs will come with instructions on how to wear, store, and clean or properly dispose of the respirator or BFC. You should wear these according to the manufacturer’s instructions without modifications. How to Use Your N95 Respirator and How to Care for Your Mask provide generic instructions on how to properly wear an N95 respirator and how to care for a cloth and disposable face mask.
+
+Manufacturing Quality
+High manufacturing quality gives you confidence that a respirator or mask will protect you as intended. Manufacturing quality demonstrates that the manufacturer is able to consistently manufacture a product to the specifications of the original design. Some standards require the manufacturer to have a written quality plan. Others, like the NIOSH approval process for respirators, require the manufacturer to show the quality of their respirator or mask. NIOSH also conducts factory and product audits for NIOSH Approved respirators to ensure manufacturers maintain quality.
+
+Types of Respirators and Masks
+Image of an elastomeric half-mask respiratorImage of an elastomeric quarter-mask respirator
+NIOSH Approved elastomeric half-mask respirator and elastomeric quarter-mask respirator
+How Well It Protects You: NIOSH Approved elastomeric half-mask respirators (EHMRs) and elastomeric quarter-mask respirators (EQMRs) protect you against gases, vapors, and particles when equipped with the appropriate filter, cartridge, or canister.
+
+How Well It Protects Others Around You: Some EHMRs and EQMRs, such as those without exhalation valves, filter the air you breathe out and you can use them to protect others around you. If the EHMR or EQMR do not filter the air you breathe out, you should not use them if your goal is to protect others around you.
+
+Filtration: These are reusable respirators that, when equipped with particle filters, achieve a minimum of 95% filtration efficiency.
+
+Fit: EHMRs and EQMRs cover the nose and mouth and are tight-fitting.
+
+Manufacturing Quality: NIOSH Approved EHMRs and EQMRs meet NIOSH requirements including demonstrated manufacturing quality. You can find respirators that meet these standards and more information on their availability on the NIOSH Certified Equipment List.
+
+Image of a NIOSH Approved filtering facepiece respirator
+NIOSH Approved filtering facepiece respirator
+How Well It Protects You: NIOSH Approved FFRs, such as N95 respirators, protect you against particles. They do not protect against gases or vapors.
+
+How Well It Protects Others Around You: Some NIOSH Approved FFRs have exhalation valves that open to let air escape when you breathe out. This makes it easier to breathe and can make the respirator more comfortable to wear. An FFR with an exhalation valve may not protect others as well as one without a valve.
+
+Without exhalation valves: NIOSH Approved FFRs without exhalation valves filter the air you breathe out. You can use this type to protect others around you.
+With exhalation valves: If the NIOSH Approved FFR has an exhalation valve, some of the air will come out of the exhalation valve and reduce the level of protection to others. Wearing one of these will provide similar levels of protection to others as BFCs and some disposable face masks and cloth masks.
+Filtration: NIOSH Approved FFRs are a disposable respirator that achieve a minimum of 95% filtration efficiency.
+
+Fit: NIOSH Approved FFRs seal against your face around the nose and mouth and are tight-fitting.
+
+Manufacturing Quality: NIOSH Approved FFRs meet NIOSH requirements including demonstrated manufacturing quality. You can find lists of respirators that meet this standard and more information on their availability on the NIOSH Certified Equipment List.
+
+Image of an international filtering facepiece respirator
+International filtering facepiece respirator
+How Well It Protects You: International FFRs, such as KN95s, protect you against particles. They do not protect against gases or vapors.
+
+How Well It Protects Others Around You: Some international FFRs have exhalation valves that open to let air escape when you breathe out. This makes it easier to breathe and can make the respirator more comfortable to wear. An international FFR with an exhalation valve may not protect others as well as one without a valve.
+
+Without exhalation valves: International FFRs without exhalation valves filter the air you breathe out. You can wear this type to protect others around you.
+With exhalation valves: If the international FFR has exhalation valves, the level of protection to others is variable. You should not wear this type if your goal is to protect others around you.
+Filtration: International FFRs are a disposable type of respirator that achieve a level of filtration efficiency based on the specified standard with a minimum of 80%.
+
+Fit: International FFRs seal against your face around the nose and mouth and are tight-fitting. Since manufacturers designed these respirators for populations outside of the United States, they may not seal as well to your face as a NIOSH Approved respirator.
+
+Manufacturing Quality: International FFRs meet the requirements specified by the country which includes manufacturing quality. However, international standards often do not require the manufacturer to demonstrate quality.
+
+Image of a barrier face covering
+Barrier face covering
+How Well It Protects You: BFCs protect you against particles. They do not protect against gases or vapors.
+
+How Well It Protects Others Around You: BFCs filter the air you breathe out, so you can wear them to protect others around you.
+
+Filtration: BFCs can be disposable or reusable masks that achieve a minimum of 20% filtration efficiency against particles. There are two kinds of BFCs intended to provide a higher level of protection, Enhanced Performance and Enhanced Performance Plus BFCs. These BFCs offer a minimum of 50% and 80% filtration.
+
+Fit: They cover the nose and mouth. Manufacturers must design BFCs to fit snugly to your face to reduce gaps. However, they may not provide as tight of a seal as a NIOSH Approved FFR or elastomeric respirator.
+
+Manufacturing Quality: BFCs meet the ASTM F3502-21 consensus standard and are tested by a laboratory. The manufacturer must specify how to wear it properly to reduce gaps and, if reusable, the number of times you can wash the BFC. The NIOSH Personal Protective Equipment Information (PPE-Info) webpage has lists of BFCs that the manufacturer claims to meet enhanced recommendations, as well as more information on their availability.
+
+Image of a disposable face mask
+Disposable face mask
+How Well It Protects You: Disposable face masks may block droplets. They may not filter small particles, and they do not protect against gases or vapors.
+
+How Well It Protects Others Around You: They may protect others around you.
+
+Filtration: Disposable face masks are one time use masks that provide varying levels of filtration.
+
+Fit: They cover your nose and mouth and are loose-fitting.
+
+Manufacturing Quality: There are no standards or regulations for disposable face masks. It is very difficult to know the level of filtration and protection they provide.
+
+Image of a cloth mask
+Cloth mask
+How Well It Protects You: Cloth masks may block droplets. They may not protect against small particles, and they do not protect against gases and vapors.
+
+How Well It Protects Others Around You: They may protect others around you.
+
+Filtration: Cloth masks are reusable masks that provide varying levels of filtration.
+
+Fit: They cover your nose and mouth and are loose-fitting.
+
+Manufacturing Quality: There are no standards or regulations for cloth masks. It is very difficult to know the level of filtration and protection they provide.
+
+Respirator and Mask Performance
+Different standards for respirators and masks allow manufacturers to provide products that meet a variety of needs. These differences can also cause confusion when trying to select the best product for your situation. The table below summarizes these differences so that you can identify the types of respirators or masks that meet your needs.
+
+Type of Respirators and Masks	Filtration1	Fit2	How Well It Protects You3	How Well It Protects Others Around You4	Manufacturing Quality5Type of Respirators and Masks
+NIOSH Approved elastomeric half-mask respirator and elastomeric quarter-mask respirator
+equipped with particle filters without exhalation valves or with filtered exhalation valves
+
+Greater than 95%	Tight-fitting	Best	Best	Best
+NIOSH Approved elastomeric half-mask respirator and elastomeric quarter mask respirator
+equipped with particle filters with exhalation valves
+
+Greater than 95%	Tight-fitting	Best	Variable	Best
+NIOSH Approved filtering facepiece respirator
+without exhalation valves
+
+Greater than 95%	Tight-fitting	Best	Best	Best
+NIOSH Approved filtering facepiece respirator
+with exhalation valves
+
+Greater than 95%	Tight-fitting	Best	Best	Best
+International filtering facepiece respirator
+without exhalation valves
+
+Greater than 80%	Tight-fitting	Good	Best	Variable
+International filtering facepiece respirator
+with exhalation valves
+
+Greater than 80%	Tight-fitting	Good	Variable	Variable
+Enhanced performance plus barrier face covering	Greater than 80%	Loose-fitting	Good	Best	Good
+Enhanced performance barrier face covering	Greater than 50%	Loose-fitting	Good	Best	Good
+Barrier face covering	Greater than 20%	Loose-fitting	Good	Best	Good
+Disposable face mask	Reported between 10% and 99%	Loose-fitting	Variable	Variable	Poor
+Cloth mask	Reported between 10% and 99%	Loose-fitting	Variable	Variable	Poor
+1Determined according to the standard test methods used to evaluate the product.
+
+2Tight-fitting indicates the respirator is designed to form a seal to the face; loose-fitting indicates the BFC or mask is not designed to form a seal to the face.
+
+3How well a respirator or mask protects you is rated by comparing the filtration and fit to the historical use of respirators and masks in workplace settings. This includes use for protection from hazardous particles and infectious particles and droplets.
+
+Best indicates a known level of filtration and fit that is the same or better than a NIOSH Approved filtering facepiece respirator (FFR).
+Good indicates a known level of filtration which is less than a NIOSH Approved FFR and is designed to be either tight- or loose-fitting.
+Variable indicates the level of filtration is either unknown or studies have shown a wide range depending on how it is made.
+4How well a respirator or mask protects others around you is rated by comparing the filtration to the historical use of medical masks by healthcare personnel to protect nearby patients.
+
+Best indicates the respirator or mask provides the same or better filtration and fit as an FDA-cleared medical mask.
+Variable indicates the level of filtration is either unknown or studies have shown a wide range in filtration depending on how it is made.
+5The level of manufacturing quality is rated by the quality control standards used when manufacturing a respirator or mask.
+
+Best indicates manufacturing is done under a quality control program that requires the manufacturer to demonstrate the quality to a regulatory body.
+Good indicates manufacturing is done under a quality control program where the manufacturer does not have to demonstrate the quality to a regulatory body.
+Poor indicates that, generally speaking, manufacturing is not done under a quality control standard.
+Variable indicates a variety of standards apply for this type of respirator and each standard has its own quality control component which vary.
+Safety Precautions
+Wearing a respirator can make it harder to breathe. If you have a medical condition such as a heart or lung problem, ask your doctor before using a respirator or mask.
+
+If you have difficulty breathing, get dizzy, or have other symptoms while wearing a respirator, go to a place with cleaner air and remove it.
+
+Wearing a respirator, especially if it is hot or you are physically active, can increase heat-related illness. Take breaks often and drink water.
+
+Considerations for Specific Groups of People
+Children
+Children ages 2 years and older can wear respirators and masks. However, NIOSH Approved respirators do not come in suitable sizes for very young children. Choose a comfortable respirator or mask that your child can wear properly. If a respirator or mask fits poorly or is uncomfortable, a child might take it off or wear it incorrectly (for example, pulling it down from their nose). This reduces the intended benefits.
+
+Choose a size that fits over the child’s nose and under the chin but does not impair vision.
+Follow the user instructions for the respirator or mask. These instructions may show how to make sure it fits properly.
+NIOSH Approved respirators and international respirators may be available in smaller sizes that fit children. However, manufacturers typically design them to be used by adults in workplaces. They may not have been tested for broad use in children.
+
+People with Disabilities
+People of all ages with certain disabilities may find it difficult to wear a respirator or mask. Challenges may be caused by:
+
+Being sensitive to materials on the face
+Difficulty understanding the importance of wearing a respirator or mask for protection
+Having difficulty controlling behavior to keep the respirator or mask in place
+People with certain disabilities or their caregivers can assess whether they need to wear a respirator or mask. They should do this by considering the person’s ability to:
+
+Wear a respirator or mask correctly with proper fit
+Avoid frequent touching of the respirator or mask and face
+Limit sucking, drooling, or having excess saliva on the respirator or mask
+Remove the respirator or mask without assistance
+Communicate
+To make communicating easier, individuals may consider wearing a clear mask or a mask with a clear panel. If a clear mask is not available, they might use other options to communicate while wearing a mask that covers the lips. Examples include using written communication, closed captioning, or decreasing background noise.
+
+N95 and NIOSH Approved are certification marks of the U.S. Department of Health and Human Services (HHS) registered in the United States and several international jurisdictions.
+
+Last Reviewed: May 16, 2023
+Source: National Institute for Occupational Safety and Health
+Facebook Twitter LinkedIn Syndicate
+home
+Workplace Safety and Health Topics
+Personal Protective Equipment for the Public
+plus icon
+Community Respirators and Masks
+How to Use Your N95® Respirator
+How to Care for Your Mask
+Making Enhanced Performance Barrier Face Coverings
+Follow NIOSH
+ Facebook
+ Pinterest
+ Twitter
+ YouTube
+NIOSH Homepage
+NIOSH A-Z
+Workplace Safety & Health Topics
+Publications and Products
+Programs
+Contact NIOSH
+About CDC
+Contact Us
+800-232-4636
+Facebook
+Twitter
+Instagram
+LinkedIn
+Youtube
+Pinterest
+Snapchat
+U.S. Department of Health & Human Services
+Accessibility
+External Links
+Privacy
+Policies
+No Fear Act
+FOIA
+Nondiscrimination
+OIG
+Vulnerability Disclosure Policy
+USA.gov

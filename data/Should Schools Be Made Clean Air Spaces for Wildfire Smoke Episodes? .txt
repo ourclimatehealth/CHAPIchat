@@ -1,0 +1,146 @@
+[Skip to Navigation]
+Our website uses cookies to enhance your experience. By continuing to use our site, or clicking "Continue," you are agreeing to our Cookie Policy | Continue
+JAMA Network HomeJAMA Network Open
+Enter Search Term
+ 
+open access Trending
+Regional Nursing Home Preparedness for Wildfire Risk in the Western US
+Research June 26, 2023
+Exposure to Wildfire Smoke Among Schoolchildren in California, 2006 to 2021
+Research April 5, 2023
+More
+This Issue 
+Views 1,337  Citations 0  
+2
+Download PDF
+Cite This
+Permissions
+Comment
+Invited Commentary Environmental Health
+April 5, 2023
+Should Schools Be Made Clean Air Spaces for Wildfire Smoke Episodes?
+John R. Balmes, MD1,2
+Author Affiliations Article Information
+JAMA Netw Open. 2023;6(4):e235780. doi:10.1001/jamanetworkopen.2023.5780
+related articles icon Related
+Articles
+Primarily due to drought and extreme heat caused by climate change, massive wildfires are becoming increasingly common in the US1 and many other areas of the world. California has seen many such fires, in part due to a legacy of fire suppression, a build-up of fuel on the forest floor, and an aging electricity transmission infrastructure. In addition to the immediate danger they pose to communities, wildfires produce copious amounts of smoke that can travel long distances and can have adverse health outcomes. Wildfire smoke is a complex mixture of particulate matter and irritant gases that is somewhat analogous to tobacco smoke without the nicotine. The best studied component of wildfire smoke in terms of health outcomes is fine particulate matter 2.5 μm or smaller in diameter (PM2.5). The increased frequency of large wildfires in the western US is undermining the improvement in outdoor PM2.5 air quality from regulatory policies instituted by federal and state governments, which require major investments across multiple economic sectors.2
+
+Velasquez and colleagues3 report the results of an analysis quantifying exposure to wildfire-specific PM2.5 among school-aged children in California during the years 2006 to 2021. They used a publicly available data set of average daily wildfire PM2.5 levels at zip code resolution to isolate wildfire-specific PM2.5 from ambient PM2.5. They combined those data with a recently published study4 to estimate the infiltration of wildfire smoke into buildings in California and the number of student-days that wildfire PM2.5 exposure was greater than 5, 12, and 35 μg/m3 in schools. These exposure metrics are health-based values from the World Health Organization annual average concentration guideline,5 the US Environmental Protection Agency (EPA) annual average concentration national ambient air quality standard, and the EPA 24-hour average standard,6 respectively. The authors’ analysis showed that the average number of student-days with exposures greater than 12 μg/m3 per year during the study period was more than 5 000 000, with a small fraction of schools accounting for the majority of exposure days.3 There was also a disproportionate impact of wildfire smoke days on children from indigenous backgrounds.
+
+Velasquez et al3 only assessed exposures to wildfire PM2.5, and there was no attempt to associate health outcomes with the estimated exposures. The study3 also has several limitations, including an ecological design (ie, there were no individual-level covariate data available to better support the analysis), no actual measurements of indoor PM2.5 in schools during wildfire days, and no consideration of exposure to wildfire PM2.5 of children when not in school. Why, then, is this article of considerable interest to health care practitioners? It is precisely because the risk of exposure to wildfire smoke appears to be disproportionately high in a sizable fraction of schools in California, many of which serve racial and ethnic minority populations of generally low socioeconomic status. The outcomes of exposure to wildfire smoke on the respiratory health of children are well described,7 and recently reported evidence suggests that the relative respiratory toxicity of wildfire PM2.5 may be considerably higher than outdoor PM2.5 from non-wildfire sources, such as transportation and electricity generation.8 On the basis of prior knowledge of health outcomes and the vulnerability of the children with the greatest exposure, the authors3 make a call for equitable interventions to reduce exposures and thereby improve children’s health.
+
+What interventions at schools make sense? Because children spend a large fraction of their day in school, the buildings need to be made clean spaces through improved filtration.9 Where feasible, central ventilation systems should be fitted with high-efficiency particle (HEPA) filters with a minimum efficiency reporting value (MERV) rating of 13 or higher. In schools without central ventilation or where installation of a MERV 13 filter is infeasible, reduction of PM2.5 exposures in individual classrooms can be achieved with portable HEPA filtration devices. With the implementation of adequate filtration, the air quality of schools can often be made safer than that of homes during wildfire smoke events. Given that children from low-income, racial and ethnic minority communities often have greater exposure and vulnerability than those from more affluent communities, an equitable approach to reducing children’s exposures should focus on school filtration interventions rather than on individual behavior-dependent interventions such as wearing masks. In the long-run, school filtration interventions may even be cost-effective because supplying masks repeatedly to large numbers of students in wildfire-prone areas could be expensive.
+
+School districts should evaluate school buildings for the ability to establish clean air shelter schools and prioritize funding for upgraded air handling systems using this information.9 School staff could monitor wildfire risk to air quality using either data from the EPA’s AirNow Fire and Smoke Map tool9 or low-cost PM2.5 sensors to assess the levels of PM2.5 in their area. Given the projected increased frequency and severity of mega-wildfires with ongoing global warming, proactively working to make schools safe for children during poor air quality episodes caused by such fires makes good public health sense.
+
+Back to topArticle Information
+Published: April 5, 2023. doi:10.1001/jamanetworkopen.2023.5780
+
+Open Access: This is an open access article distributed under the terms of the CC-BY License. © 2023 Balmes JR. JAMA Network Open.
+
+Corresponding Author: John R. Balmes, MD, Department of Medicine, University of California, San Francisco, Box 0843, San Francisco, CA 94143-0843 (john.balmes@ucsf.edu).
+
+Conflict of Interest Disclosures: Dr Balmes reported serving as a physician member of the California Air Resources Board, a state agency, during the conduct of the study.
+
+References
+1.
+Zhuang  Y﻿, Fu  R﻿, Santer  BD﻿, Dickinson  RE﻿, Hall  A﻿.  Quantifying contributions of natural variability and anthropogenic forcings on increased fire weather risk over the western United States. ﻿  Proc Natl Acad Sci U S A. 2021;118(45):e2111875118. doi:10.1073/pnas.2111875118PubMedGoogle ScholarCrossref
+2.
+Childs  ML﻿, Li  J﻿, Wen  J﻿,  et al.  Daily local-level estimates of ambient wildfire smoke PM2.5 for the contiguous US. ﻿  Environ Sci Technol. 2022;56(19):13607-13621. doi:10.1021/acs.est.2c02934PubMedGoogle ScholarCrossref
+3.
+Velasquez  EE﻿, Benmarhnia  T﻿, Casey  JA﻿, Aguilera  R﻿, Kiang  MV﻿.  Quantifying exposure to wildfire smoke among schoolchildren in California, 2006-2021. ﻿  JAMA Netw Open. 2023;6(4):e235863. doi:10.1001/jamanetworkopen.2023.5863
+ArticleGoogle Scholar
+4.
+Liang  Y﻿, Sengupta  D﻿, Campmier  MJ﻿, Lunderberg  DM﻿, Apte  JS﻿, Goldstein  AH﻿.  Wildfire smoke impacts on indoor air quality assessed using crowdsourced data in California. ﻿  Proc Natl Acad Sci U S A. 2021;118(36):e2106478118. doi:10.1073/pnas.2106478118PubMedGoogle ScholarCrossref
+5.
+World Health Organization. WHO global air quality guidelines: particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide and carbon monoxide. 2021. Accessed February 26, 2023. https://apps.who.int/iris/bitstream/handle/10665/345329/9789240034228-eng.pdf
+6.
+US Environmental Protection Agency. NAAQS table. Updated April 5, 2022. Accessed February 26, 2023. https://www.epa.gov/criteria-air-pollutants/naaqs-table
+7.
+Holm  SM﻿, Miller  MD﻿, Balmes  JR﻿.  Health effects of wildfire smoke in children and public health tools: a narrative review. ﻿  J Expo Sci Environ Epidemiol. 2021;31(1):1-20. doi:10.1038/s41370-020-00267-4PubMedGoogle ScholarCrossref
+8.
+Aguilera  R﻿, Corringham  T﻿, Gershunov  A﻿, Leibel  S﻿, Benmarhnia  T﻿.  Fine particles in wildfire smoke and pediatric respiratory health in California. ﻿  Pediatrics. 2021;147(4):e2020027128. doi:10.1542/peds.2020-027128PubMedGoogle ScholarCrossref
+9.
+US Environmental Protection Agency. AirNow: Wildfires. Accessed February 22, 2023. https://www.airnow.gov/wildfires/
+Comment
+See More About
+Environmental Health Pediatrics Public Health
+Sign up for emails
+based on your interests
+open access Trending
+Research
+Regional Nursing Home Preparedness for Wildfire Risk in the Western US
+June 26, 2023
+Research
+Exposure to Wildfire Smoke Among Schoolchildren in California, 2006 to 2021
+April 5, 2023
+Research
+Association of Wildfire Air Pollution With Clinic Visits for Psoriasis
+January 13, 2023
+Select Your Interests
+JOB LISTINGS ON JAMA CAREER CENTER®
+Physician - OB/GYN
+Atascocita, Texas
+Physician - OB/GYN
+Bay Area Bld. B, Texas
+Physician- OB/GYN Generalist- Monroe Medical Group/Monroe Hospital
+Monroe, WI
+Seeking OB/GYN - Shawnee, OK, SSM Health - Supportive Colleagues & Aggressive Compensation!
+Shawnee, OK
+Chairperson, Department of OB/GYN
+Bridgeport, Connecticut
+See more at JAMA Career Center
+Others Also Liked
+Potential impacts of Washington State’s wildfire worker protection rule on construction workers
+Christopher Zuidema et al., Annals of Work Exposures and Health, 2021
+Health and economic cost estimates of short-term total and wildfire PM2.5 exposure on work loss: using the consecutive California Health Interview Survey (CHIS) data 2015–2018
+Ying-Ying Meng et al., BMJ Public Health, 2024
+Educating families about the impacts of wildfire smoke on children’s health: opportunities for healthcare professionals
+Catherine E Slavik et al., Paediatrics Open, 2023
+Powered by
+open access Trending
+Regional Nursing Home Preparedness for Wildfire Risk in the Western US
+Research June 26, 2023
+Exposure to Wildfire Smoke Among Schoolchildren in California, 2006 to 2021
+Research April 5, 2023
+Association of Wildfire Air Pollution With Clinic Visits for Psoriasis
+Research January 13, 2023
+JAMA Network Open
+CONTENT
+Home New Online Current Issue
+PODCAST
+JAMA Network Open Editors' Summary
+JOURNAL INFORMATION
+For Authors Editors & Publishers RSS Contact Us
+JN Learning / CME Store Apps Jobs Institutions Reprints & Permissions
+JAMA Network
+PUBLICATIONS
+JAMA JAMA Network Open JAMA Cardiology JAMA Dermatology JAMA Health Forum JAMA Internal Medicine JAMA Neurology JAMA Oncology JAMA Ophthalmology JAMA Otolaryngology–Head & Neck Surgery JAMA Pediatrics JAMA Psychiatry JAMA Surgery Archives of Neurology & Psychiatry (1919-1959)
+SITES
+Art and Images in Psychiatry Artificial Intelligence (AI) Resource Center Best of the JAMA Network Caring for the Critically Ill Patient Clinical Crosswords from JAMA Coronavirus Resource Center Evidence-Based Medicine: An Oral History Fishbein Fellowship Genomics and Precision Health Hypertension JAMA Forum Archive JAMA Network Audio JAMA Network Video JAMA Network Conferences JAMA Surgery Guide to Statistics and Methods Medical News Mpox (Monkeypox) Research Ethics Topics and Collections Visual Abstracts War and Health Women's Health
+FEATURED ARTICLES
+Antiretroviral Drugs for HIV Treatment and Prevention in Adults - 2022 IAS-USA Recommendations CONSERVE 2021 Guidelines for Reporting Trials Modified for the COVID-19 Pandemic Creation and Adoption of Large Language Models in Medicine Global Burden of Cancer, 2010-2019 Global Burden of Long COVID Global Burden of Melanoma Global Burden of Skin Diseases, 1990-2017 Global Disparities in Parkinson Disease Guidelines for Reporting Outcomes in Trial Protocols: The SPIRIT-Outcomes 2022 Extension Mass Violence and the Complex Spectrum of Mental Illness and Mental Functioning Neuropsychiatry Sequelae of COVID-19 A New Framework for Dementia Nomenclature Organization and Performance of US Health Systems Pharmacy Benefit Managers: History, Business Practices, Economics, and Policy Promoting EDI in Genetics Research PTSD and Cardiovascular Disease Red Blood Cell Transfusion: 2023 AABB International Guidelines Reimagining Children’s Rights in the US Spirituality in Serious Illness and Health The US Medicaid Program: Coverage, Financing, Reforms, and Implications for Health Equity
+USPSTF RECOMMENDATION STATEMENTS
+Screening for Colorectal Cancer Screening for Hypertension Screening for Lung Cancer Screening for Prediabetes and Type 2 Diabetes In Children Screening for Prediabetes and Type 2 Diabetes In Adults Statins for Primary Prevention of Cardiovascular Disease Vitamin and Mineral Supplements for Primary Prevention of of Cardiovascular Disease and Cancer
+BLOGS
+AMA Style Insider
+INFORMATION
+For Authors For Institutions & Librarians For Advertisers For Subscription Agents For Employers & Job Seekers For the Media Equity, Diversity, Inclusion Online Commenting Policy Public Access and Open Access Policy Statement on Potentially Offensive Content
+JAMA NETWORK PRODUCTS
+AMA Manual of Style JAMAevidence Peer Review Congress
+JN LEARNING
+Home State CME Clinical Challenge CME Atrial Fibrillation Course Women's Health Course CME / MOC Reporting Preferences About CME & MOC
+Subscriptions & Renewals Manage Emails Update My Address Support Center My Account
+JAMA CAREER CENTER
+Physician Job Listings
+       
+Get the latest from JAMA Network Open
+Email address
+Sign Up
+Privacy Policy | Terms of Use
+Jama Network Logo
+© 2024 American Medical Association. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+Terms of Use| Privacy Policy| Accessibility Statement| Cookie Settings
+
+Silverchair Logo

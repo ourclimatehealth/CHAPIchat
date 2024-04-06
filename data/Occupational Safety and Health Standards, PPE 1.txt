@@ -1,0 +1,567 @@
+Skip to main content
+U.S. flag
+An official website of the United States government.
+
+Here’s how you know
+
+Here’s how you know
+United States Department of Labor
+U.S. DEPARTMENT OF LABOR
+MENU
+OSHA
+By Standard Number 1910.134 App A - Fit Testing Procedures (Mandatory).
+Part Number:
+1910
+Part Number Title:
+Occupational Safety and Health Standards
+Subpart:
+1910 Subpart I
+Subpart Title:
+Personal Protective Equipment
+Standard Number:
+1910.134 App A
+Title:
+Fit Testing Procedures (Mandatory).
+GPO Source:
+e-CFR
+Appendix A to § 1910.134 - Fit Testing Procedures (Mandatory)
+Part I. OSHA-Accepted Fit Test Protocols
+A. Fit Testing Procedures - General Requirements
+The employer shall conduct fit testing using the following procedures. The requirements in this appendix apply to all OSHA-accepted fit test methods, both QLFT and QNFT.
+
+1. The test subject shall be allowed to pick the most acceptable respirator from a sufficient number of respirator models and sizes so that the respirator is acceptable to, and correctly fits, the user.
+
+2. Prior to the selection process, the test subject shall be shown how to put on a respirator, how it should be positioned on the face, how to set strap tension and how to determine an acceptable fit. A mirror shall be available to assist the subject in evaluating the fit and positioning of the respirator. This instruction may not constitute the subject's formal training on respirator use, because it is only a review.
+
+3. The test subject shall be informed that he/she is being asked to select the respirator that provides the most acceptable fit. Each respirator represents a different size and shape, and if fitted and used properly, will provide adequate protection.
+
+4. The test subject shall be instructed to hold each chosen facepiece up to the face and eliminate those that obviously do not give an acceptable fit.
+
+5. The more acceptable facepieces are noted in case the one selected proves unacceptable; the most comfortable mask is donned and worn at least five minutes to assess comfort. Assistance in assessing comfort can be given by discussing the points in the following item A.6. If the test subject is not familiar with using a particular respirator, the test subject shall be directed to don the mask several times and to adjust the straps each time to become adept at setting proper tension on the straps.
+
+6. Assessment of comfort shall include a review of the following points with the test subject and allowing the test subject adequate time to determine the comfort of the respirator:
+
+(a) Position of the mask on the nose
+
+(b) Room for eye protection
+
+(c) Room to talk
+
+(d) Position of mask on face and cheeks
+
+7. The following criteria shall be used to help determine the adequacy of the respirator fit:
+
+(a) Chin properly placed;
+
+(b) Adequate strap tension, not overly tightened;
+
+(c) Fit across nose bridge;
+
+(d) Respirator of proper size to span distance from nose to chin;
+
+(e) Tendency of respirator to slip;
+
+(f) Self-observation in mirror to evaluate fit and respirator position.
+
+8. The test subject shall conduct a user seal check, either the negative and positive pressure seal checks described in appendix B-1 of this section or those recommended by the respirator manufacturer which provide equivalent protection to the procedures in appendix B-1. Before conducting the negative and positive pressure checks, the subject shall be told to seat the mask on the face by moving the head from side-to-side and up and down slowly while taking in a few slow deep breaths. Another facepiece shall be selected and retested if the test subject fails the user seal check tests.
+
+9. The test shall not be conducted if there is any hair growth between the skin and the facepiece sealing surface, such as stubble beard growth, beard, mustache or sideburns which cross the respirator sealing surface. Any type of apparel which interferes with a satisfactory fit shall be altered or removed.
+
+10. If a test subject exhibits difficulty in breathing during the tests, she or he shall be referred to a physician or other licensed health care professional, as appropriate, to determine whether the test subject can wear a respirator while performing her or his duties.
+
+11. If the employee finds the fit of the respirator unacceptable, the test subject shall be given the opportunity to select a different respirator and to be retested.
+
+12. Exercise regimen. Prior to the commencement of the fit test, the test subject shall be given a description of the fit test and the test subject's responsibilities during the test procedure. The description of the process shall include a description of the test exercises that the subject will be performing. The respirator to be tested shall be worn for at least 5 minutes before the start of the fit test.
+
+13. The fit test shall be performed while the test subject is wearing any applicable safety equipment that may be worn during actual respirator use which could interfere with respirator fit.
+
+14. Test Exercises.
+
+(a) Employers must perform the following test exercises for all fit testing methods prescribed in this appendix, except for the two modified ambient aerosol CNC quantitative fit testing protocols, the CNP quantitative fit testing protocol, and the CNP REDON quantitative fit testing protocol. For the modified ambient aerosol CNC quantitative fit testing protocols, employers shall ensure that the test subjects (i.e., employees) perform the exercise procedure specified in Part I.C.4(b) of this appendix for full-facepiece and half-mask elastomeric respirators, or the exercise procedure specified in Part I.C.5(b) for filtering facepiece respirators. Employers shall ensure that the test subjects (i.e., employees) perform the exercise procedure specified in Part I.C.6(b) of this appendix for the CNP quantitative fit testing protocol, or the exercise procedure described in Part I.C.7(b) of this appendix for the CNP REDON quantitative fit testing protocol. For the remaining fit testing methods, employers shall ensure that the test exercises are performed in the appropriate test environment in the following manner:
+
+(1) Normal breathing. In a normal standing position, without talking, the subject shall breathe normally.
+
+(2) Deep breathing. In a normal standing position, the subject shall breathe slowly and deeply, taking caution so as not to hyperventilate.
+
+(3) Turning head side to side. Standing in place, the subject shall slowly turn his/her head from side to side between the extreme positions on each side. The head shall be held at each extreme momentarily so the subject can inhale at each side.
+
+(4) Moving head up and down. Standing in place, the subject shall slowly move his/her head up and down. The subject shall be instructed to inhale in the up position (i.e., when looking toward the ceiling).
+
+(5) Talking. The subject shall talk out loud slowly and loud enough so as to be heard clearly by the test conductor. The subject can read from a prepared text such as the Rainbow Passage, count backward from 100, or recite a memorized poem or song.
+
+Rainbow Passage
+When the sunlight strikes raindrops in the air, they act like a prism and form a rainbow. The rainbow is a division of white light into many beautiful colors. These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. There is, according to legend, a boiling pot of gold at one end. People look, but no one ever finds it. When a man looks for something beyond reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+
+(6) Grimace. The test subject shall grimace by smiling or frowning. (This applies only to QNFT testing; it is not performed for QLFT)
+
+(7) Bending over. The test subject shall bend at the waist as if he/she were to touch his/her toes. Jogging in place shall be substituted for this exercise in those test environments such as shroud type QNFT or QLFT units that do not permit bending over at the waist.
+
+(8) Normal breathing. Same as exercise (1).
+
+(b) Each test exercise shall be performed for one minute except for the grimace exercise which shall be performed for 15 seconds. The test subject shall be questioned by the test conductor regarding the comfort of the respirator upon completion of the protocol. If it has become unacceptable, another model of respirator shall be tried. The respirator shall not be adjusted once the fit test exercises begin. Any adjustment voids the test, and the fit test must be repeated.
+
+B. Qualitative Fit Test (QLFT) Protocols
+1. GENERAL
+(a) The employer shall ensure that persons administering QLFT are able to prepare test solutions, calibrate equipment and perform tests properly, recognize invalid tests, and ensure that test equipment is in proper working order.
+
+(b) The employer shall ensure that QLFT equipment is kept clean and well maintained so as to operate within the parameters for which it was designed.
+
+2. ISOAMYL ACETATE PROTOCOL
+Note:
+This protocol is not appropriate to use for the fit testing of particulate respirators. If used to fit test particulate respirators, the respirator must be equipped with an organic vapor filter.
+
+(a) Odor Threshold Screening
+
+Odor threshold screening, performed without wearing a respirator, is intended to determine if the individual tested can detect the odor of isoamyl acetate at low levels.
+
+(1) Three 1 liter glass jars with metal lids are required.
+
+(2) Odor-free water (e.g., distilled or spring water) at approximately 25 °C (77 °F) shall be used for the solutions.
+
+(3) The isoamyl acetate (IAA) (also known at isopentyl acetate) stock solution is prepared by adding 1 ml of pure IAA to 800 ml of odor-free water in a 1 liter jar, closing the lid and shaking for 30 seconds. A new solution shall be prepared at least weekly.
+
+(4) The screening test shall be conducted in a room separate from the room used for actual fit testing. The two rooms shall be well-ventilated to prevent the odor of IAA from becoming evident in the general room air where testing takes place.
+
+(5) The odor test solution is prepared in a second jar by placing 0.4 ml of the stock solution into 500 ml of odor-free water using a clean dropper or pipette. The solution shall be shaken for 30 seconds and allowed to stand for two to three minutes so that the IAA concentration above the liquid may reach equilibrium. This solution shall be used for only one day.
+
+(6) A test blank shall be prepared in a third jar by adding 500 cc of odor-free water.
+
+(7) The odor test and test blank jar lids shall be labeled (e.g., 1 and 2) for jar identification. Labels shall be placed on the lids so that they can be peeled off periodically and switched to maintain the integrity of the test.
+
+(8) The following instruction shall be typed on a card and placed on the table in front of the two test jars (i.e., 1 and 2): “The purpose of this test is to determine if you can smell banana oil at a low concentration. The two bottles in front of you contain water. One of these bottles also contains a small amount of banana oil. Be sure the covers are on tight, then shake each bottle for two seconds. Unscrew the lid of each bottle, one at a time, and sniff at the mouth of the bottle. Indicate to the test conductor which bottle contains banana oil.”
+
+(9) The mixtures used in the IAA odor detection test shall be prepared in an area separate from where the test is performed, in order to prevent olfactory fatigue in the subject.
+
+(10) If the test subject is unable to correctly identify the jar containing the odor test solution, the IAA qualitative fit test shall not be performed.
+
+(11) If the test subject correctly identifies the jar containing the odor test solution, the test subject may proceed to respirator selection and fit testing.
+
+(b) Isoamyl Acetate Fit Test
+
+(1) The fit test chamber shall be a clear 55-gallon drum liner suspended inverted over a 2-foot diameter frame so that the top of the chamber is about 6 inches above the test subject's head. If no drum liner is available, a similar chamber shall be constructed using plastic sheeting. The inside top center of the chamber shall have a small hook attached.
+
+(2) Each respirator used for the fitting and fit testing shall be equipped with organic vapor cartridges or offer protection against organic vapors.
+
+(3) After selecting, donning, and properly adjusting a respirator, the test subject shall wear it to the fit testing room. This room shall be separate from the room used for odor threshold screening and respirator selection, and shall be well-ventilated, as by an exhaust fan or lab hood, to prevent general room contamination.
+
+(4) A copy of the test exercises and any prepared text from which the subject is to read shall be taped to the inside of the test chamber.
+
+(5) Upon entering the test chamber, the test subject shall be given a 6-inch by 5-inch piece of paper towel, or other porous, absorbent, single-ply material, folded in half and wetted with 0.75 ml of pure IAA. The test subject shall hang the wet towel on the hook at the top of the chamber. An IAA test swab or ampule may be substituted for the IAA wetted paper towel provided it has been demonstrated that the alternative IAA source will generate an IAA test atmosphere with a concentration equivalent to that generated by the paper towel method.
+
+(6) Allow two minutes for the IAA test concentration to stabilize before starting the fit test exercises. This would be an appropriate time to talk with the test subject; to explain the fit test, the importance of his/her cooperation, and the purpose for the test exercises; or to demonstrate some of the exercises.
+
+(7) If at any time during the test, the subject detects the banana-like odor of IAA, the test is failed. The subject shall quickly exit from the test chamber and leave the test area to avoid olfactory fatigue.
+
+(8) If the test is failed, the subject shall return to the selection room and remove the respirator. The test subject shall repeat the odor sensitivity test, select and put on another respirator, return to the test area and again begin the fit test procedure described in (b) (1) through (7) above. The process continues until a respirator that fits well has been found. Should the odor sensitivity test be failed, the subject shall wait at least 5 minutes before retesting. Odor sensitivity will usually have returned by this time.
+
+(9) If the subject passes the test, the efficiency of the test procedure shall be demonstrated by having the subject break the respirator face seal and take a breath before exiting the chamber.
+
+(10) When the test subject leaves the chamber, the subject shall remove the saturated towel and return it to the person conducting the test, so that there is no significant IAA concentration buildup in the chamber during subsequent tests. The used towels shall be kept in a self-sealing plastic bag to keep the test area from being contaminated.
+
+3. SACCHARIN SOLUTION AEROSOL PROTOCOL
+The entire screening and testing procedure shall be explained to the test subject prior to the conduct of the screening test.
+
+(a) Taste threshold screening. The saccharin taste threshold screening, performed without wearing a respirator, is intended to determine whether the individual being tested can detect the taste of saccharin.
+
+(1) During threshold screening as well as during fit testing, subjects shall wear an enclosure about the head and shoulders that is approximately 12 inches in diameter by 14 inches tall with at least the front portion clear and that allows free movements of the head when a respirator is worn. An enclosure substantially similar to the 3M hood assembly, parts # FT 14 and # FT 15 combined, is adequate.
+
+(2) The test enclosure shall have a 3⁄4 -inch (1.9 cm) hole in front of the test subject's nose and mouth area to accommodate the nebulizer nozzle.
+
+(3) The test subject shall don the test enclosure. Throughout the threshold screening test, the test subject shall breathe through his/her slightly open mouth with tongue extended. The subject is instructed to report when he/she detects a sweet taste.
+
+(4) Using a DeVilbiss Model 40 Inhalation Medication Nebulizer or equivalent, the test conductor shall spray the threshold check solution into the enclosure. The nozzle is directed away from the nose and mouth of the person. This nebulizer shall be clearly marked to distinguish it from the fit test solution nebulizer.
+
+(5) The threshold check solution is prepared by dissolving 0.83 gram of sodium saccharin USP in 100 ml of warm water. It can be prepared by putting 1 ml of the fit test solution (see (b)(5) below) in 100 ml of distilled water.
+
+(6) To produce the aerosol, the nebulizer bulb is firmly squeezed so that it collapses completely, then released and allowed to fully expand.
+
+(7) Ten squeezes are repeated rapidly and then the test subject is asked whether the saccharin can be tasted. If the test subject reports tasting the sweet taste during the ten squeezes, the screening test is completed. The taste threshold is noted as ten regardless of the number of squeezes actually completed.
+
+(8) If the first response is negative, ten more squeezes are repeated rapidly and the test subject is again asked whether the saccharin is tasted. If the test subject reports tasting the sweet taste during the second ten squeezes, the screening test is completed. The taste threshold is noted as twenty regardless of the number of squeezes actually completed.
+
+(9) If the second response is negative, ten more squeezes are repeated rapidly and the test subject is again asked whether the saccharin is tasted. If the test subject reports tasting the sweet taste during the third set of ten squeezes, the screening test is completed. The taste threshold is noted as thirty regardless of the number of squeezes actually completed.
+
+(10) The test conductor will take note of the number of squeezes required to solicit a taste response.
+
+(11) If the saccharin is not tasted after 30 squeezes (step 10), the test subject is unable to taste saccharin and may not perform the saccharin fit test.
+
+Note to paragraph 3(a):
+If the test subject eats or drinks something sweet before the screening test, he/she may be unable to taste the weak saccharin solution.
+
+(12) If a taste response is elicited, the test subject shall be asked to take note of the taste for reference in the fit test.
+
+(13) Correct use of the nebulizer means that approximately 1 ml of liquid is used at a time in the nebulizer body.
+
+(14) The nebulizer shall be thoroughly rinsed in water, shaken dry, and refilled at least each morning and afternoon or at least every four hours.
+
+(b) Saccharin solution aerosol fit test procedure.
+
+(1) The test subject may not eat, drink (except plain water), smoke, or chew gum for 15 minutes before the test.
+
+(2) The fit test uses the same enclosure described in 3. (a) above.
+
+(3) The test subject shall don the enclosure while wearing the respirator selected in section I. A. of this appendix. The respirator shall be properly adjusted and equipped with a particulate filter(s).
+
+(4) A second DeVilbiss Model 40 Inhalation Medication Nebulizer or equivalent is used to spray the fit test solution into the enclosure. This nebulizer shall be clearly marked to distinguish it from the screening test solution nebulizer.
+
+(5) The fit test solution is prepared by adding 83 grams of sodium saccharin to 100 ml of warm water.
+
+(6) As before, the test subject shall breathe through the slightly open mouth with tongue extended, and report if he/she tastes the sweet taste of saccharin.
+
+(7) The nebulizer is inserted into the hole in the front of the enclosure and an initial concentration of saccharin fit test solution is sprayed into the enclosure using the same number of squeezes (either 10, 20 or 30 squeezes) based on the number of squeezes required to elicit a taste response as noted during the screening test. A minimum of 10 squeezes is required.
+
+(8) After generating the aerosol, the test subject shall be instructed to perform the exercises in section I. A. 14. of this appendix.
+
+(9) Every 30 seconds the aerosol concentration shall be replenished using one half the original number of squeezes used initially (e.g., 5, 10 or 15).
+
+(10) The test subject shall indicate to the test conductor if at any time during the fit test the taste of saccharin is detected. If the test subject does not report tasting the saccharin, the test is passed.
+
+(11) If the taste of saccharin is detected, the fit is deemed unsatisfactory and the test is failed. A different respirator shall be tried and the entire test procedure is repeated (taste threshold screening and fit testing).
+
+(12) Since the nebulizer has a tendency to clog during use, the test operator must make periodic checks of the nebulizer to ensure that it is not clogged. If clogging is found at the end of the test session, the test is invalid.
+
+4. BITREX™ (DENATONIUM BENZOATE) SOLUTION AEROSOL QUALITATIVE FIT TEST PROTOCOL
+The Bitrex™ (Denatonium benzoate) solution aerosol QLFT protocol uses the published saccharin test protocol because that protocol is widely accepted. Bitrex is routinely used as a taste aversion agent in household liquids which children should not be drinking and is endorsed by the American Medical Association, the National Safety Council, and the American Association of Poison Control Centers. The entire screening and testing procedure shall be explained to the test subject prior to the conduct of the screening test.
+
+(a) Taste Threshold Screening.
+
+The Bitrex taste threshold screening, performed without wearing a respirator, is intended to determine whether the individual being tested can detect the taste of Bitrex.
+
+(1) During threshold screening as well as during fit testing, subjects shall wear an enclosure about the head and shoulders that is approximately 12 inches (30.5 cm) in diameter by 14 inches (35.6 cm) tall. The front portion of the enclosure shall be clear from the respirator and allow free movement of the head when a respirator is worn. An enclosure substantially similar to the 3M hood assembly, parts # FT 14 and # FT 15 combined, is adequate.
+
+(2) The test enclosure shall have a 3⁄4 inch (1.9 cm) hole in front of the test subject's nose and mouth area to accommodate the nebulizer nozzle.
+
+(3) The test subject shall don the test enclosure. Throughout the threshold screening test, the test subject shall breathe through his or her slightly open mouth with tongue extended. The subject is instructed to report when he/she detects a bitter taste.
+
+(4) Using a DeVilbiss Model 40 Inhalation Medication Nebulizer or equivalent, the test conductor shall spray the Threshold Check Solution into the enclosure. This Nebulizer shall be clearly marked to distinguish it from the fit test solution nebulizer.
+
+(5) The Threshold Check Solution is prepared by adding 13.5 milligrams of Bitrex to 100 ml of 5% salt (NaCl) solution in distilled water.
+
+(6) To produce the aerosol, the nebulizer bulb is firmly squeezed so that the bulb collapses completely, and is then released and allowed to fully expand.
+
+(7) An initial ten squeezes are repeated rapidly and then the test subject is asked whether the Bitrex can be tasted. If the test subject reports tasting the bitter taste during the ten squeezes, the screening test is completed. The taste threshold is noted as ten regardless of the number of squeezes actually completed.
+
+(8) If the first response is negative, ten more squeezes are repeated rapidly and the test subject is again asked whether the Bitrex is tasted. If the test subject reports tasting the bitter taste during the second ten squeezes, the screening test is completed. The taste threshold is noted as twenty regardless of the number of squeezes actually completed.
+
+(9) If the second response is negative, ten more squeezes are repeated rapidly and the test subject is again asked whether the Bitrex is tasted. If the test subject reports tasting the bitter taste during the third set of ten squeezes, the screening test is completed. The taste threshold is noted as thirty regardless of the number of squeezes actually completed.
+
+(10) The test conductor will take note of the number of squeezes required to solicit a taste response.
+
+(11) If the Bitrex is not tasted after 30 squeezes (step 10), the test subject is unable to taste Bitrex and may not perform the Bitrex fit test.
+
+(12) If a taste response is elicited, the test subject shall be asked to take note of the taste for reference in the fit test.
+
+(13) Correct use of the nebulizer means that approximately 1 ml of liquid is used at a time in the nebulizer body.
+
+(14) The nebulizer shall be thoroughly rinsed in water, shaken to dry, and refilled at least each morning and afternoon or at least every four hours.
+
+(b) Bitrex Solution Aerosol Fit Test Procedure.
+
+(1) The test subject may not eat, drink (except plain water), smoke, or chew gum for 15 minutes before the test.
+
+(2) The fit test uses the same enclosure as that described in 4. (a) above.
+
+(3) The test subject shall don the enclosure while wearing the respirator selected according to section I. A. of this appendix. The respirator shall be properly adjusted and equipped with any type particulate filter(s).
+
+(4) A second DeVilbiss Model 40 Inhalation Medication Nebulizer or equivalent is used to spray the fit test solution into the enclosure. This nebulizer shall be clearly marked to distinguish it from the screening test solution nebulizer.
+
+(5) The fit test solution is prepared by adding 337.5 mg of Bitrex to 200 ml of a 5% salt (NaCl) solution in warm water.
+
+(6) As before, the test subject shall breathe through his or her slightly open mouth with tongue extended, and be instructed to report if he/she tastes the bitter taste of Bitrex.
+
+(7) The nebulizer is inserted into the hole in the front of the enclosure and an initial concentration of the fit test solution is sprayed into the enclosure using the same number of squeezes (either 10, 20 or 30 squeezes) based on the number of squeezes required to elicit a taste response as noted during the screening test.
+
+(8) After generating the aerosol, the test subject shall be instructed to perform the exercises in section I. A. 14. of this appendix.
+
+(9) Every 30 seconds the aerosol concentration shall be replenished using one half the number of squeezes used initially (e.g., 5, 10 or 15).
+
+(10) The test subject shall indicate to the test conductor if at any time during the fit test the taste of Bitrex is detected. If the test subject does not report tasting the Bitrex, the test is passed.
+
+(11) If the taste of Bitrex is detected, the fit is deemed unsatisfactory and the test is failed. A different respirator shall be tried and the entire test procedure is repeated (taste threshold screening and fit testing).
+
+5. IRRITANT SMOKE (STANNIC CHLORIDE) PROTOCOL
+This qualitative fit test uses a person's response to the irritating chemicals released in the “smoke” produced by a stannic chloride ventilation smoke tube to detect leakage into the respirator.
+
+(a) General Requirements and Precautions
+
+(1) The respirator to be tested shall be equipped with high efficiency particulate air (HEPA) or P100 series filter(s).
+
+(2) Only stannic chloride smoke tubes shall be used for this protocol.
+
+(3) No form of test enclosure or hood for the test subject shall be used.
+
+(4) The smoke can be irritating to the eyes, lungs, and nasal passages. The test conductor shall take precautions to minimize the test subject's exposure to irritant smoke. Sensitivity varies, and certain individuals may respond to a greater degree to irritant smoke. Care shall be taken when performing the sensitivity screening checks that determine whether the test subject can detect irritant smoke to use only the minimum amount of smoke necessary to elicit a response from the test subject.
+
+(5) The fit test shall be performed in an area with adequate ventilation to prevent exposure of the person conducting the fit test or the build-up of irritant smoke in the general atmosphere.
+
+(b) Sensitivity Screening Check
+
+The person to be tested must demonstrate his or her ability to detect a weak concentration of the irritant smoke.
+
+(1) The test operator shall break both ends of a ventilation smoke tube containing stannic chloride, and attach one end of the smoke tube to a low flow air pump set to deliver 200 milliliters per minute, or an aspirator squeeze bulb. The test operator shall cover the other end of the smoke tube with a short piece of tubing to prevent potential injury from the jagged end of the smoke tube.
+
+(2) The test operator shall advise the test subject that the smoke can be irritating to the eyes, lungs, and nasal passages and instruct the subject to keep his/her eyes closed while the test is performed.
+
+(3) The test subject shall be allowed to smell a weak concentration of the irritant smoke before the respirator is donned to become familiar with its irritating properties and to determine if he/she can detect the irritating properties of the smoke. The test operator shall carefully direct a small amount of the irritant smoke in the test subject's direction to determine that he/she can detect it.
+
+(c) Irritant Smoke Fit Test Procedure
+
+(1) The person being fit tested shall don the respirator without assistance, and perform the required user seal check(s).
+
+(2) The test subject shall be instructed to keep his/her eyes closed.
+
+(3) The test operator shall direct the stream of irritant smoke from the smoke tube toward the faceseal area of the test subject, using the low flow pump or the squeeze bulb. The test operator shall begin at least 12 inches from the facepiece and move the smoke stream around the whole perimeter of the mask. The operator shall gradually make two more passes around the perimeter of the mask, moving to within six inches of the respirator.
+
+(4) If the person being tested has not had an involuntary response and/or detected the irritant smoke, proceed with the test exercises.
+
+(5) The exercises identified in section I.A. 14. of this appendix shall be performed by the test subject while the respirator seal is being continually challenged by the smoke, directed around the perimeter of the respirator at a distance of six inches.
+
+(6) If the person being fit tested reports detecting the irritant smoke at any time, the test is failed. The person being retested must repeat the entire sensitivity check and fit test procedure.
+
+(7) Each test subject passing the irritant smoke test without evidence of a response (involuntary cough, irritation) shall be given a second sensitivity screening check, with the smoke from the same smoke tube used during the fit test, once the respirator has been removed, to determine whether he/she still reacts to the smoke. Failure to evoke a response shall void the fit test.
+
+(8) If a response is produced during this second sensitivity check, then the fit test is passed.
+
+C. Quantitative Fit Test (QNFT) Protocols
+The following quantitative fit testing procedures have been demonstrated to be acceptable: Quantitative fit testing using a non-hazardous test aerosol (such as corn oil, polyethylene glycol 400 [PEG 400], di-2-ethyl hexyl sebacate [DEHS], or sodium chloride) generated in a test chamber, and employing instrumentation to quantify the fit of the respirator; Quantitative fit testing using ambient aerosol as the test agent and appropriate instrumentation (condensation nuclei counter) to quantify the respirator fit; Quantitative fit testing using controlled negative pressure and appropriate instrumentation to measure the volumetric leak rate of a facepiece to quantify the respirator fit.
+
+1. GENERAL
+(a) The employer shall ensure that persons administering QNFT are able to calibrate equipment and perform tests properly, recognize invalid tests, calculate fit factors properly and ensure that test equipment is in proper working order.
+
+(b) The employer shall ensure that QNFT equipment is kept clean, and is maintained and calibrated according to the manufacturer's instructions so as to operate at the parameters for which it was designed.
+
+2. GENERATED AEROSOL QUANTITATIVE FIT TESTING PROTOCOL
+(a) Apparatus.
+
+(1) Instrumentation. Aerosol generation, dilution, and measurement systems using particulates (corn oil, polyethylene glycol 400 [PEG 400], di-2-ethyl hexyl sebacate [DEHS] or sodium chloride) as test aerosols shall be used for quantitative fit testing.
+
+(2) Test chamber. The test chamber shall be large enough to permit all test subjects to perform freely all required exercises without disturbing the test agent concentration or the measurement apparatus. The test chamber shall be equipped and constructed so that the test agent is effectively isolated from the ambient air, yet uniform in concentration throughout the chamber.
+
+(3) When testing air-purifying respirators, the normal filter or cartridge element shall be replaced with a high efficiency particulate air (HEPA) or P100 series filter supplied by the same manufacturer.
+
+(4) The sampling instrument shall be selected so that a computer record or strip chart record may be made of the test showing the rise and fall of the test agent concentration with each inspiration and expiration at fit factors of at least 2,000. Integrators or computers that integrate the amount of test agent penetration leakage into the respirator for each exercise may be used provided a record of the readings is made.
+
+(5) The combination of substitute air-purifying elements, test agent and test agent concentration shall be such that the test subject is not exposed in excess of an established exposure limit for the test agent at any time during the testing process, based upon the length of the exposure and the exposure limit duration.
+
+(6) The sampling port on the test specimen respirator shall be placed and constructed so that no leakage occurs around the port (e.g., where the respirator is probed), a free air flow is allowed into the sampling line at all times, and there is no interference with the fit or performance of the respirator. The in-mask sampling device (probe) shall be designed and used so that the air sample is drawn from the breathing zone of the test subject, midway between the nose and mouth and with the probe extending into the facepiece cavity at least 1⁄4 inch.
+
+(7) The test setup shall permit the person administering the test to observe the test subject inside the chamber during the test.
+
+(8) The equipment generating the test atmosphere shall maintain the concentration of test agent constant to within a 10 percent variation for the duration of the test.
+
+(9) The time lag (interval between an event and the recording of the event on the strip chart or computer or integrator) shall be kept to a minimum. There shall be a clear association between the occurrence of an event and its being recorded.
+
+(10) The sampling line tubing for the test chamber atmosphere and for the respirator sampling port shall be of equal diameter and of the same material. The length of the two lines shall be equal.
+
+(11) The exhaust flow from the test chamber shall pass through an appropriate filter (i.e., high efficiency particulate filter) before release.
+
+(12) When sodium chloride aerosol is used, the relative humidity inside the test chamber shall not exceed 50 percent.
+
+(13) The limitations of instrument detection shall be taken into account when determining the fit factor.
+
+(14) Test respirators shall be maintained in proper working order and be inspected regularly for deficiencies such as cracks or missing valves and gaskets.
+
+(b) Procedural Requirements.
+
+(1) When performing the initial user seal check using a positive or negative pressure check, the sampling line shall be crimped closed in order to avoid air pressure leakage during either of these pressure checks.
+
+(2) The use of an abbreviated screening QLFT test is optional. Such a test may be utilized in order to quickly identify poor fitting respirators that passed the positive and/or negative pressure test and reduce the amount of QNFT time. The use of the CNC QNFT instrument in the count mode is another optional method to obtain a quick estimate of fit and eliminate poor fitting respirators before going on to perform a full QNFT.
+
+(3) A reasonably stable test agent concentration shall be measured in the test chamber prior to testing. For canopy or shower curtain types of test units, the determination of the test agent's stability may be established after the test subject has entered the test environment.
+
+(4) Immediately after the subject enters the test chamber, the test agent concentration inside the respirator shall be measured to ensure that the peak penetration does not exceed 5 percent for a half mask or 1 percent for a full facepiece respirator.
+
+(5) A stable test agent concentration shall be obtained prior to the actual start of testing.
+
+(6) Respirator restraining straps shall not be over-tightened for testing. The straps shall be adjusted by the wearer without assistance from other persons to give a reasonably comfortable fit typical of normal use. The respirator shall not be adjusted once the fit test exercises begin.
+
+(7) The test shall be terminated whenever any single peak penetration exceeds 5 percent for half masks and 1 percent for full facepiece respirators. The test subject shall be refitted and retested.
+
+(8) Calculation of fit factors.
+
+(i) The fit factor shall be determined for the quantitative fit test by taking the ratio of the average chamber concentration to the concentration measured inside the respirator for each test exercise except the grimace exercise.
+
+(ii) The average test chamber concentration shall be calculated as the arithmetic average of the concentration measured before and after each test (i.e., 7 exercises) or the arithmetic average of the concentration measured before and after each exercise or the true average measured continuously during the respirator sample.
+
+(iii) The concentration of the challenge agent inside the respirator shall be determined by one of the following methods:
+
+(A) Average peak penetration method means the method of determining test agent penetration into the respirator utilizing a strip chart recorder, integrator, or computer. The agent penetration is determined by an average of the peak heights on the graph or by computer integration, for each exercise except the grimace exercise. Integrators or computers that calculate the actual test agent penetration into the respirator for each exercise will also be considered to meet the requirements of the average peak penetration method.
+
+(B) Maximum peak penetration method means the method of determining test agent penetration in the respirator as determined by strip chart recordings of the test. The highest peak penetration for a given exercise is taken to be representative of average penetration into the respirator for that exercise.
+
+(C) Integration by calculation of the area under the individual peak for each exercise except the grimace exercise. This includes computerized integration.
+
+(D) The calculation of the overall fit factor using individual exercise fit factors involves first converting the exercise fit factors to penetration values, determining the average, and then converting that result back to a fit factor. This procedure is described in the following equation:
+
+Formula to determine overall fit factor
+Where ff1, ff2, ff3, etc. are the fit factors for exercises 1, 2, 3, etc.
+
+(9) The test subject shall not be permitted to wear a half mask or quarter facepiece respirator unless a minimum fit factor of 100 is obtained, or a full facepiece respirator unless a minimum fit factor of 500 is obtained.
+
+(10) Filters used for quantitative fit testing shall be replaced whenever increased breathing resistance is encountered, or when the test agent has altered the integrity of the filter media.
+
+3. AMBIENT AEROSOL CONDENSATION NUCLEI COUNTER (CNC) QUANTITATIVE FIT TESTING PROTOCOL.
+The ambient aerosol condensation nuclei counter (CNC) quantitative fit testing (PortaCount®) protocol quantitatively fit tests respirators with the use of a probe. The probed respirator is only used for quantitative fit tests. A probed respirator has a special sampling device, installed on the respirator, that allows the probe to sample the air from inside the mask. A probed respirator is required for each make, style, model, and size that the employer uses and can be obtained from the respirator manufacturer or distributor. The primary CNC instrument manufacturer, TSI Incorporated, also provides probe attachments (TSI mask sampling adapters) that permit fit testing in an employee's own respirator. A minimum fit factor pass level of at least 100 is necessary for a half-mask respirator (elastomeric or filtering facepiece), and a minimum fit factor pass level of at least 500 is required for a full-facepiece elastomeric respirator. The entire screening and testing procedure shall be explained to the test subject prior to the conduct of the screening test.
+
+(a) PortaCount® Fit Test Requirements. (1) Check the respirator to make sure the sampling probe and line are properly attached to the facepiece and that the respirator is fitted with a particulate filter capable of preventing significant penetration by the ambient particles used for the fit test (e.g., NIOSH 42 CFR 84 series 100, series 99, or series 95 particulate filter) per manufacturer's instruction.
+
+(2) Instruct the person to be tested to don the respirator for five minutes before the fit test starts. This purges the ambient particles trapped inside the respirator and permits the wearer to make certain the respirator is comfortable. This individual shall already have been trained on how to wear the respirator properly.
+
+(3) Check the following conditions for the adequacy of the respirator fit: Chin properly placed; Adequate strap tension, not overly tightened; Fit across nose bridge; Respirator of proper size to span distance from nose to chin; Tendency of the respirator to slip; Self-observation in a mirror to evaluate fit and respirator position.
+
+(4) Have the person wearing the respirator do a user seal check. If leakage is detected, determine the cause. If leakage is from a poorly fitting facepiece, try another size of the same model respirator, or another model of respirator.
+
+(5) Follow the manufacturer's instructions for operating the Portacount® and proceed with the test.
+
+(6) The test subject shall be instructed to perform the exercises in section I. A. 14. of this appendix.
+
+(7) After the test exercises, the test subject shall be questioned by the test conductor regarding the comfort of the respirator upon completion of the protocol. If it has become unacceptable, another model of respirator shall be tried.
+
+(b) PortaCount® Test Instrument.
+
+(1) The PortaCount® will automatically stop and calculate the overall fit factor for the entire set of exercises. The overall fit factor is what counts. The Pass or Fail message will indicate whether or not the test was successful. If the test was a Pass, the fit test is over.
+
+(2) Since the pass or fail criterion of the PortaCount® is user programmable, the test operator shall ensure that the pass or fail criterion meet the requirements for minimum respirator performance in this Appendix.
+
+(3) A record of the test needs to be kept on file, assuming the fit test was successful. The record must contain the test subject's name; overall fit factor; make, model, style, and size of respirator used; and date tested.
+
+4. MODIFIED AMBIENT AEROSOL CONDENSATION NUCLEI COUNTER (CNC) QUANTITATIVE FIT TESTING PROTOCOL FOR FULL-FACEPIECE AND HALF-MASK ELASTOMERIC RESPIRATORS.
+(a) When administering this protocol to test subjects, employers shall comply with the requirements specified in Part I.C.3 of this appendix (ambient aerosol condensation nuclei counter (CNC) quantitative fit testing protocol), except they shall use the test exercises described below in paragraph (b) of this protocol instead of the test exercises specified in section I.C.3(a)(6) of this appendix.
+
+(b) Employers shall ensure that each test subject being fit tested using this protocol follows the exercise and duration procedures, including the order of administration, described in Table A-1 of this appendix.
+
+Table A-1 - Modified Ambient Aerosal CNC Quantitative Fit Testing Protocol for Full Facepiece and Half-Mask Elastomeric Respirators
+Exercises1	Exercise procedure	Measurement procedure
+Bending Over	The test subject shall bend at the waist, as if going to touch his/her toes for 50 seconds and inhale 2 times at the bottom2	A 20 second ambient sample, followed by a 30 second mask sample.
+Jogging-in-Place	The test subject shall jog in place comfortably for 30 seconds	A 30 second mask sample.
+Head Side-to-Side	The test subject shall stand in place, slowly turning his/her head from side to side for 30 seconds and inhale 2 times at each extreme2	A 30 second mask sample.
+Head Up-and-Down	The test subject shall stand in place, slowly moving his/her head up and down for 39 seconds and inhale 2 times at each extreme2	A 30 second mask sample followed by a 9 second ambient sample.
+1Exercises are listed in the order in which they are to be administered.
+
+2It is optional for test subjects to take additional breaths at other times during this exercise.
+
+5. MODIFIED AMBIENT AEROSOL CONDENSATION NUCLEI COUNTER (CNC) QUANTITATIVE FIT TESTING PROTOCOL FOR FILTERING FACEPIECE RESPIRATORS.
+(a) When administering this protocol to test subjects, employers shall comply with the requirements specified in Part I.C.3 of this appendix (ambient aerosol condensation nuclei counter (CNC) quantitative fit testing protocol), except they shall use the test exercises described below in paragraph (b) of this protocol instead of the test exercises specified in section I.C.3(a)(6) of this appendix.
+
+(b) Employers shall ensure that each test subject being fit tested using this protocol follows the exercise and duration procedures, including the order of administration, described in Table A-2 of this appendix.
+
+Table A-2 - Modified Ambient Aerosal CNC Quantitative Fit Testing Protocol for Filtering Facepiece Respirators
+Exercises1	Exercise
+procedure	Measurement
+procedure
+Bending Over	The test subject shall bend at the waist, as if going to touch his/her toes for 50 seconds and inhale 2 times at the bottom2	A 20 second ambient sample, followed by a 30 second mask sample.
+Talking	The test subject shall talk out loud slowly and loud enough so as to be heard clearly by the test conductor for 30 seconds. He/she will either read from a prepared text such as the Rainbow Passage, count backward from 100, or recite a memorized poem or song	A 30 second mask sample.
+Head Side-to-Side	The test subject shall stand in place, slowly turning his/her head from side to side for 30 seconds and inhale 2 times at each extreme2	A 30 second mask sample.
+Head Up-and-Down	The test subject shall stand in place, slowly moving his/her head up and down for 39 seconds and inhale 2 times at each extreme2	A 30 second mask sample followed by a 9 second ambient sample.
+1Exercises are listed in the order in which they are to be administered.
+
+2It is optional for test subjects to take additional breaths at other times during this exercise.
+
+6. CONTROLLED NEGATIVE PRESSURE (CNP) QUANTITATIVE FIT TESTING PROTOCOL.
+The CNP protocol provides an alternative to aerosol fit test methods. The CNP fit test method technology is based on exhausting air from a temporarily sealed respirator facepiece to generate and then maintain a constant negative pressure inside the facepiece. The rate of air exhaust is controlled so that a constant negative pressure is maintained in the respirator during the fit test. The level of pressure is selected to replicate the mean inspiratory pressure that causes leakage into the respirator under normal use conditions. With pressure held constant, air flow out of the respirator is equal to air flow into the respirator. Therefore, measurement of the exhaust stream that is required to hold the pressure in the temporarily sealed respirator constant yields a direct measure of leakage air flow into the respirator. The CNP fit test method measures leak rates through the facepiece as a method for determining the facepiece fit for negative pressure respirators. The CNP instrument manufacturer Occupational Health Dynamics of Birmingham, Alabama also provides attachments (sampling manifolds) that replace the filter cartridges to permit fit testing in an employee's own respirator. To perform the test, the test subject closes his or her mouth and holds his/her breath, after which an air pump removes air from the respirator facepiece at a pre-selected constant pressure. The facepiece fit is expressed as the leak rate through the facepiece, expressed as milliliters per minute. The quality and validity of the CNP fit tests are determined by the degree to which the in-mask pressure tracks the test pressure during the system measurement time of approximately five seconds. Instantaneous feedback in the form of a real-time pressure trace of the in-mask pressure is provided and used to determine test validity and quality. A minimum fit factor pass level of 100 is necessary for a half-mask respirator and a minimum fit factor of at least 500 is required for a full facepiece respirator. The entire screening and testing procedure shall be explained to the test subject prior to the conduct of the screening test.
+
+(a) CNP Fit Test Requirements.
+
+(1) The instrument shall have a non-adjustable test pressure of 15.0 mm water pressure.
+
+(2) The CNP system defaults selected for test pressure shall be set at −15 mm of water (-0.58 inches of water) and the modeled inspiratory flow rate shall be 53.8 liters per minute for performing fit tests.
+
+Note:
+CNP systems have built-in capability to conduct fit testing that is specific to unique work rate, mask, and gender situations that might apply in a specific workplace. Use of system default values, which were selected to represent respirator wear with medium cartridge resistance at a low-moderate work rate, will allow inter-test comparison of the respirator fit.)
+
+(3) The individual who conducts the CNP fit testing shall be thoroughly trained to perform the test.
+
+(4) The respirator filter or cartridge needs to be replaced with the CNP test manifold. The inhalation valve downstream from the manifold either needs to be temporarily removed or propped open.
+
+(5) The employer must train the test subject to hold his or her breath for at least 10 seconds.
+
+(6) The test subject must don the test respirator without any assistance from the test administrator who is conducting the CNP fit test. The respirator must not be adjusted once the fit-test exercises begin. Any adjustment voids the test, and the test subject must repeat the fit test.
+
+(7) The QNFT protocol shall be followed according to section I. C. 1. of this appendix with an exception for the CNP test exercises.
+
+(b) CNP Test Exercises.
+
+(1) Normal breathing. In a normal standing position, without talking, the subject shall breathe normally for 1 minute. After the normal breathing exercise, the subject needs to hold head straight ahead and hold his or her breath for 10 seconds during the test measurement.
+
+(2) Deep breathing. In a normal standing position, the subject shall breathe slowly and deeply for 1 minute, being careful not to hyperventilate. After the deep breathing exercise, the subject shall hold his or her head straight ahead and hold his or her breath for 10 seconds during test measurement.
+
+(3) Turning head side to side. Standing in place, the subject shall slowly turn his or her head from side to side between the extreme positions on each side for 1 minute. The head shall be held at each extreme momentarily so the subject can inhale at each side. After the turning head side to side exercise, the subject needs to hold head full left and hold his or her breath for 10 seconds during test measurement. Next, the subject needs to hold head full right and hold his or her breath for 10 seconds during test measurement.
+
+(4) Moving head up and down. Standing in place, the subject shall slowly move his or her head up and down for 1 minute. The subject shall be instructed to inhale in the up position (i.e., when looking toward the ceiling). After the moving head up and down exercise, the subject shall hold his or her head full up and hold his or her breath for 10 seconds during test measurement. Next, the subject shall hold his or her head full down and hold his or her breath for 10 seconds during test measurement.
+
+(5) Talking. The subject shall talk out loud slowly and loud enough so as to be heard clearly by the test conductor. The subject can read from a prepared text such as the Rainbow Passage, count backward from 100, or recite a memorized poem or song for 1 minute. After the talking exercise, the subject shall hold his or her head straight ahead and hold his or her breath for 10 seconds during the test measurement.
+
+(6) Grimace. The test subject shall grimace by smiling or frowning for 15 seconds.
+
+(7) Bending Over. The test subject shall bend at the waist as if he or she were to touch his or her toes for 1 minute. Jogging in place shall be substituted for this exercise in those test environments such as shroud-type QNFT units that prohibit bending at the waist. After the bending over exercise, the subject shall hold his or her head straight ahead and hold his or her breath for 10 seconds during the test measurement.
+
+(8) Normal Breathing. The test subject shall remove and re-don the respirator within a one-minute period. Then, in a normal standing position, without talking, the subject shall breathe normally for 1 minute. After the normal breathing exercise, the subject shall hold his or her head straight ahead and hold his or her breath for 10 seconds during the test measurement. After the test exercises, the test subject shall be questioned by the test conductor regarding the comfort of the respirator upon completion of the protocol. If it has become unacceptable, another model of a respirator shall be tried.
+
+(c) CNP Test Instrument.
+
+(1) The test instrument must have an effective audio-warning device, or a visual-warning device in the form of a screen tracing, that indicates when the test subject fails to hold his or her breath during the test. The test must be terminated and restarted from the beginning when the test subject fails to hold his or her breath during the test. The test subject then may be refitted and retested.
+
+(2) A record of the test shall be kept on file, assuming the fit test was successful. The record must contain the test subject's name; overall fit factor; make, model, style and size of respirator used; and date tested.
+
+7. CONTROLLED NEGATIVE PRESSURE (CNP) REDON QUANTITATIVE FIT TESTING PROTOCOL.
+(a) When administering this protocol to test subjects, employers must comply with the requirements specified in paragraphs (a) and (c) of part I.C.6 of this appendix (“Controlled negative pressure (CNP) quantitative fit testing protocol,”) as well as use the test exercises described below in paragraph (b) of this protocol instead of the test exercises specified in paragraph (b) of part I.C.6 of this appendix.
+
+(b) Employers must ensure that each test subject being fit tested using this protocol follows the exercise and measurement procedures, including the order of administration described in Table A-3 of this appendix.
+
+Table A-3 - CNP REDON Quantitative Fit Testing Protocol
+Exercises1	Exercise procedure	Measurement procedure
+Facing Forward	Stand and breathe normally, without talking, for 30 seconds	Face forward, while holding breath for 10 seconds.
+Bending Over	Bend at the waist, as if going to touch his or her toes, for 30 seconds	Face parallel to the floor, while holding breath for 10 seconds
+Head Shaking	For about three seconds, shake head back and forth vigorously several times while shouting	Face forward, while holding breath for 10 seconds
+REDON 1	Remove the respirator mask, loosen all facepiece straps, and then redon the respirator mask	Face forward, while holding breath for 10 seconds.
+REDON 2	Remove the respirator mask, loosen all facepiece straps, and then redon the respirator mask again	Face forward, while holding breath for 10 seconds.
+1Exercises are listed in the order in which they are to be administered.
+
+(c) After completing the test exercises, the test administrator must question each test subject regarding the comfort of the respirator. When a test subject states that the respirator is unacceptable, the employer must ensure that the test administrator repeats the protocol using another respirator model.
+
+(d) Employers must determine the overall fit factor for each test subject by calculating the harmonic mean of the fit testing exercises as follows:
+
+Formula to Determine Overall Fit Factor
+Where:
+
+N = The number of exercises;
+
+FF1 = The fit factor for the first exercise;
+
+FF2 = The fit factor for the second exercise; and
+
+FFN = The fit factor for the nth exercise.
+
+Part II. New Fit Test Protocols
+A. Any person may submit to OSHA an application for approval of a new fit test protocol. If the application meets the following criteria, OSHA will initiate a rulemaking proceeding under section 6(b)(7) of the OSH Act to determine whether to list the new protocol as an approved protocol in this appendix A.
+
+B. The application must include a detailed description of the proposed new fit test protocol. This application must be supported by either:
+
+1. A test report prepared by an independent government research laboratory (e.g., Lawrence Livermore National Laboratory, Los Alamos National Laboratory, the National Institute for Standards and Technology) stating that the laboratory has tested the protocol and had found it to be accurate and reliable; or
+
+2. An article that has been published in a peer-reviewed industrial hygiene journal describing the protocol and explaining how test data support the protocol's accuracy and reliability.
+
+C. If OSHA determines that additional information is required before the Agency commences a rulemaking proceeding under this section, OSHA will so notify the applicant and afford the applicant the opportunity to submit the supplemental information. Initiation of a rulemaking proceeding will be deferred until OSHA has received and evaluated the supplemental information.
+
+[63 FR 20098, April 23, 1998; 69 FR 46993, August 4, 2004]
+
+OSHA
+Standards
+Enforcement
+Topics
+Media Center
+Contact Us
+United States Department of Labor
+U.S. DEPARTMENT OF LABOR
+Occupational Safety and Health Administration
+200 Constitution Ave NW
+Washington, DC 20210
+ 1-800-321-OSHA
+1-800-321-6742
+www.osha.gov
+
+FEDERAL GOVERNMENT
+OCCUPATIONAL SAFETY & HEALTH
+ABOUT THE SITE
+Connect With OSHA
+

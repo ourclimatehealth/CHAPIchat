@@ -1,0 +1,247 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of jacig
+J Allergy Clin Immunol Glob. 2022 Nov; 1(4): 273–281. Published online 2022 Jul 20. doi: 10.1016/j.jacig.2022.05.007
+PMCID: PMC9838882NIHMSID: NIHMS1840930PMID: 36643820
+Effect of ozone on allergic airway inflammation
+Mehrdad Arjomandi, MD,a,b,∗ Hofer Wong, BS,a Rachel Tenney, MD,a,b Nina Holland, PhD,c and John R. Balmes, MDa,c
+Author information Article notes Copyright and License information PMC Disclaimer
+Associated Data
+Supplementary Materials
+Go to:
+Abstract
+Background
+Exposure to ozone (O3) is associated with increased risk of exacerbations of asthma, but the underlying mechanisms are not well studied.
+
+Objective
+We sought to determine whether O3 exposure would enhance airway inflammatory responses to allergen and the GSTM1-null genotype would modulate this enhancement.
+
+Methods
+In a crossover design, 10 asthmatic participants (5 with GSTM1-null genotype) who had specific sensitization to Dermatophagoides pteronyssinus (DP) were exposed to 160 ppb O3 or filtered air (FA) control for 4 hours on 2 separate days at least 3 weeks apart. At 20 hours after exposure, endobronchial challenge with DP allergen, and sham normal saline (NS) instillation, were performed in separate bronchi. Six hours later, a second bronchoscopy was performed to collect bronchoalveolar lavage (BAL) from the DP- and NS-challenged segments for analyses of inflammatory biomarkers. Linear regression compared cell and cytokine responses across the 4 exposure groups (FA-NS, O3-NS, FA-DP, O3-DP). Effect modification by GSTM1 genotype was assessed in stratified regressions.
+
+Results
+BAL eosinophil counts were increased in segments challenged with DP compared to sham-challenged segments (P < .01). DP challenge compared to sham also caused a significant increase in BAL concentrations of the TH2 cytokines IL-4, IL-5, IL-10, and IL-13 (P < .03 for all comparisons). O3 exposure did not significantly affect BAL cells or cytokine after DP challenge. Compared to GSTM1-present participants, GSTM1-null participants had significantly lower eosinophil (P < .041) and IL-4 (P < .014) responses to DP challenge after O3 exposure.
+
+Conclusions
+While O3 did not cause a clear differential effect on airway inflammatory responses to allergen challenge, those responses did appear to be modulated by the antioxidant enzyme, GSTM1.
+
+Key words: Ozone, allergen, airway inflammation, glutathione S-transferase mu
+Ozone (O3) is a major gaseous component of air pollution in many countries. Epidemiological evidence suggests that people with asthma are at increased risk for exacerbation when exposed to elevated levels of ambient O3.1 Controlled human exposure studies have not consistently shown subjects with asthma to be more sensitive to O3 in terms of lung function response, although the neutrophilic airway inflammatory response does appear to be greater in asthmatic than in nonasthmatic subjects.2,3 In addition, there is evidence that lung function and airway inflammatory responses to O3 are not well-correlated in healthy subjects.4 Asthma is a disease characterized by airway inflammation, particularly during the late-phase response to allergen, and the degree of airway inflammation is an important predictor of asthma severity. Thus, one possible explanation for the epidemiological findings is that O3 exposure may enhance the inflammatory response to triggers of asthma, such as allergen, not reflected in prior controlled human studies measuring lung function parameters alone.
+
+Animal toxicological data provide evidence that O3 exposure can enhance allergic inflammatory responses in the lungs,5,6 but at least 1 study in a dog model showed that O3 preexposure attenuated the late-phase response to sublobar placement of antigen.7 Controlled human exposure studies have confirmed that O3 exposure can enhance both the early and late bronchoconstrictor responses to inhaled antigen in some, but not all allergic asthmatic subjects.8,9 Unlike bronchoconstriction, the effect of O3 on allergen-induced airway inflammation has not been well studied, and most of the published studies did not assess potential changes in airway inflammation during the late-phase response. However, in the 2 studies that did, significant O3-induced enhancement was not consistently observed.10,11
+
+Ozone is a prototypic oxidant pollutant that can generate reactive oxygen species (ROS) in the airways when inhaled, potentially leading to oxidative stress. Although innate antioxidant defenses are available to detoxify ROS in the airway, individuals differ in their ability to deal with an oxidant burden, such as inhaled O3, and such differences are in part genetically determined. Decreased ability to detoxify ROS may lead to enhanced airway inflammation, and thus potentially to increased bronchoconstriction and asthma symptoms. The glutathione S-transferase (GST) enzymes comprise a large supergene family located on at least 7 chromosomes that are critical to the protection of cells from ROS.12 Glutathione S-transferase mu 1 (GSTM1) is a polymorphic gene with a common null allele.13,14 The null allele is unable to produce a functional enzyme, which would in turn be expected to affect response to oxidative stress. A total of 30% to 65% of the general population is GSTM1 null.15 The results of several controlled human exposure studies have suggested that individuals who are GSTM1 null have greater lung function responses to O3 exposure compared to individuals with the form of the gene that produces functional enzyme.16,17 However, 2 studies did not demonstrate an effect of GSTM1 status on the airway inflammatory and lung function responses to O3 in both asthmatic and nonasthmatic adult subjects.18,19 A third study of nonasthmatic subjects using a higher O3 concentration (400 ppb) did show that the GSTM1-null genotype was associated with increased airway inflammation 24 hours after exposure.20
+
+On the basis of previous work indicating that O3 enhanced the physiologic responses to inhaled allergen, we hypothesized that O3 exposure would also enhance allergic airway inflammation. To test this hypothesis, we conducted a controlled human exposure study with a repeated measure crossover design that used O3 or FA exposure before administration of local endobronchial allergen challenge (LEAC) with Dermatophagoides pteronyssinus (DP) and saline in different lobes of the lungs. We also hypothesized that the effects of inhaled O3 on the specific airway inflammatory responses to allergen would be enhanced in asthmatic individuals with the GSTM1-null genotype compared to those who have the functional form of the GSTM1 gene.
+
+Go to:
+Methods
+Study design
+This study had a repeated measure design in which specifically sensitized asthmatic participants were exposed to either clean filtered air (FA) or 160 ppb of O3 for 4 hours in a climate-controlled chamber followed by a challenge bronchoscopy approximately 20 hours later and a sampling bronchoscopy 6 hours after the endobronchial challenge. The concentration of O3 studied was chosen because 160 ppb over 4 hours is the same cumulative exposure as 80 ppb over 8 hours, an exposure that balanced safety concerns with sufficient exposure to likely induce a detectable enhancement of allergic airway responses. Spirometry was performed immediately before exposure (0 hours), immediately after exposure (4 hours), and on the following morning before bronchoscopy (24 hours). In addition, spirometry was performed on an hourly basis after the challenge bronchoscopy through discharge of the participant approximately 2 hours after the sampling bronchoscopy. Each participant returned and underwent the second exposure type with a minimum of 2 weeks in between exposure sessions to allow for recovery from any inflammation or injury sustained during the prior session. The order of exposures was counterbalanced and randomized. The investigators did not know the GSTM1 genotype of participants during data collection.
+
+Participants
+The inclusion/exclusion criteria included: (1) age between 18 to 50 years; (2) ability to perform moderate-intensity exercise; (3) being healthy with no history of cardiovascular, hematologic, or pulmonary diseases other than mild asthma; (4) specific sensitization to the house dust mite, DP; (5) no history of acute infection within the 6 weeks before the start of the study; (6) nonsmoker as defined as having a history of less than ½ pack-year lifetime tobacco use and no history of any tobacco use in the past 6 months; and (7) no history of illicit drug use. The participants were asked to stop their asthma and allergy medications in a sequential manner according to the duration of action of each medication (inhaled corticosteroids for 2 weeks, antihistamines and leukotriene inhibitors for 3 days, long-acting bronchodilators for 2 days, and short-acting bronchodilators for 8 hours). The participants were informed of the risks of the experimental protocol and signed a consent form that had been approved by the University of California San Francisco Institutional Review Board. All participants received financial compensation for their participation.
+
+Ten participants were recruited via advertisements placed in campus newsletters, local San Francisco newspapers, and internet websites (eg, www.craigslist.org). A total of 542 individuals responded to the Craigslist postings and all were contacted by e-mail; 34 subjects passed the initial phone screening and were brought in for further assessment of their eligibility. From those, 13 were found to be ineligible during the screening visit: 5 were ineligible because of lack of airway hyperresponsiveness, 6 were ineligible because of negative DP skin test results, and 2 were ineligible because of concern for pulmonary interstitial and vascular lung disease diagnoses. From the 21 eligible participants, 5 withdrew consent because of work scheduling issues, 4 were lost to follow-up, 1 moved out of the area, and 1 was discontinued because of a severe hypotensive episode with syncope resulting from anaphylaxis. Overall, 10 participants completed the entire study. No screening was done for GSTM1 genotype. The 50% prevalence of the GSTM1-null genotype was by chance, but is consistent with the known prevalence of this variant.
+
+Allergy skin testing before enrollment
+To determine allergy status, and sensitivity to DP an allergy skin testing with a set of 10 common aeroallergens [DP, birch mix, Chinese elm, cat, dog, mountain cedar, mugwort sage, olive tree, perennial rye, Aspergillus fumigatus] and controls of saline and histamine was performed inside the forearm. Sensitivity was defined as a >2 × 2 mm skin wheal response, except for DP (>3 × 3 mm skin wheal). If the particpant was sensitive to DP on the initial skin prick test, a dilutional skin test using log concentrations (1.5 AU to 15,000 AU) of DP allergen was also be performed to determine the dose of DP allergen to be used for the allergen bronchoscopy.
+
+Methacholine challenge testing before enrollment
+To assess asthma status, a methacholine inhalation test was performed following a protocol modified from the American Thoracic Society (ATS) guidelines,21 using a nebulizer (DeVilbiss) and dosimeter (Rosenthal) set to deliver 9 μL per breath. Participants inhaled aerosol from the nebulizer in 5 breaths (1 every 12 seconds over a 1-minute period), and spirometry was measured 3 minutes after each dose. The next dose was administered within 30 seconds of completing the spirometry. Increasing doses of methacholine (0.0625, 0.125, 0.25, 0.5, 1, 2, 4, 8 mg/mL) were given, until a 20% decrease in FEV1 from saline FEV1 was achieved. A positive methacholine test was defined as a 20% decrease in FEV1 at <8 mg/mL.
+
+Climate-controlled chamber and atmospheric monitoring
+The experiments took place in a ventilated, climate-controlled chamber at 20°C and 50% relative humidity. The chamber is a stainless steel-and-glass room of 2.5 × 2.5 × 2.4 m (model W00327-3R; Nor-Lake, Hudson, Wis) that was custom built and designed to maintain temperature and relative humidity within 2.0°C and 4% from the set points, respectively (WebCtrl software; Automated Logic, Kennesaw, Ga). Temperature and relative humidity were recorded every 30 seconds and displayed in real time (LabView 6.1; National Instruments, Austin, Tex).
+
+Exposure session
+After a telephone interview, participants were scheduled for an initial visit to the laboratory, where a medical history questionnaire was completed. A 30-minute exercise test designed to determine a workload that generated the target ventilatory rate was also completed on the initial visit. Each exposure session was 4 hours long, with participants exercising for the first 30 minutes and then resting for the next 30 minutes of each hour in the climate-controlled chamber. The exercise consisted of running on a treadmill or pedaling a cycle ergometer. Exercise intensity was adjusted for each subject to achieve a target expired minute ventilation (VE) of 20 L/min/m2 body surface area. During exercise, VE was calculated (LabView 6.1) from tidal volume and breathing frequency measured using a pneumotachograph at the 10-minute and 20-minute intervals of each 30-minute exercise period. Participants remained inside the chamber for the entire 4-hour exposure period. The type of exposure (FA or O3) was chosen randomly before each session and was not revealed to the participants.
+
+Spirometry
+Each participant’s spirometry and peak expiratory flow were measured at each of the 0-hour, 4-hour, and 24-hour time points. Spirometry was performed on a dry rolling-seal spirometer (S&M Instruments, Louisville, CA) following ATS performance criteria.22 The best values for forced vital capacity (FVC) and FEV1 from 3 acceptable FVC maneuvers were used in data analysis. After the challenge bronchoscopy, the participants performed spirometry on an hourly basis using a portable spirometer (EasyOne, NDD Medical Technologies, Andover, Mass), again according to ATS performance criteria.
+
+Bronchoscopy, endobronchial allergen challenge, and lavage procedures
+The technique of LEAC has been shown to be safer and more effective at inducing a measurable allergic airway inflammatory response than whole lung inhalational challenge because bronchoconstriction is localized and a relatively larger amount of allergen can be delivered to the challenged lung segment and a second lung segment can be sham-challenged with saline.23,24
+
+DP allergen for LEAC was obtained from Hollister-Stier Laboratories (Spokane, Wash). An investigational new drug application for nonapproved use of DP allergen manufactured for skin prick testing was filed and was approved by the US Food and Drug Administration (BB-IND 13354).
+
+Allergen challenge bronchoscopies were performed 20 ± 2 hours after exposure. This time was chosen because previous studies have documented the presence of an ozone-induced inflammatory response in many participants at this time point.25 Our laboratory’s procedures of bronchoscopy and bronchoalveolar lavage (BAL) have been previously discussed in detail.25 Briefly, intravenous access was established, supplemental O2 was delivered, and the upper airways were anesthetized with topical lidocaine. Sedation with intravenous midazolam and fentanyl was used as needed for participant comfort. In addition, the LEAC bronchoscopies were conducted according to the guidelines of the European Respiratory Society.24 The bronchoscope was first directed into the right upper lobe anterior segment orifice (RUL), where a control challenge was performed with 20 mL of sterile 0.9% saline (normal saline, NS) prewarmed to 37°C. The bronchoscope was then advanced to the right middle lobe medial segment orifice (RML), where the allergen challenge was performed with 20 mL of prewarmed DP allergen solution. The concentration of DP chosen for LEAC was 1/10 the dilution that elicited a 3 mm diameter skin wheal response. The exact concentrations of DP allergen used are shown in Table E1 in this article’s Online Repository at www.jaci-global.org. The bronchoscope was then withdrawn and the participant taken back to the clinical research center for monitoring and recovery. After the challenge bronchoscopy, the participant was monitored continuously and underwent hourly spirometry before the sampling bronchoscopy.
+
+The sampling bronchoscopy was performed 6 hours after the challenge bronchoscopy. The bronchoscope was first directed into the RUL where lavage was performed with two 50 mL aliquots of NS warmed to 37°C. The bronchoscope was then directed to the RML where again lavage was performed with two 50 mL aliquots of NS warmed to 37°C. The RUL and RML BAL fluid returns were collected in separate containers and were immediately put on ice. After the sampling bronchoscopy, the participant was observed for an approximate 2-hour recovery period.
+
+Total cells were counted on uncentrifuged aliquots of BAL using a hemocytometer. Differential cell counts were obtained from slides prepared using a cytocentrifuge at 25 x g for 5 minutes, and stained with Diff-Quik as previously described.25 Cells were counted by 2 independent observers; the average of the 2 counts was used in data analysis. BAL fluid was then centrifuged at 180 x g for 15 minutes, and the supernatant was separated and recentrifuged at 1200 x g for 15 minutes to remove any cellular debris before freezing at −80°C.
+
+Concentrations of BAL cytokines were measured using a Milliplex human 9-plex cytokine assay (Millipore, Saint Charles, Mo). Cytokines measured included the following: granulocyte macrophage colony-stimulating factor (GM-CSF), IL-1β, IL-4, IL-5, IL-6, IL-7, IL-8, IL-10, IL-13, and TNF-α. The lower limit of detection for GM-CSF, IL-1β, IL-4, IL-5, IL-6, IL-10, IL-13, and TNF-α was 3.2 pg/mL and for IL-8 was 16.0 pg/mL.
+
+GSTM1 Genotyping
+DNA was isolated from whole blood using a QIAamp Blood DNA Maxi kit (Qiagen, Hilden, Germany). The assessment of GSTM1 genotype was done by multiplex PCR using the following primers: 5′-CTGGATTGTAGCAGATCATGC-3′ and 5′-TACTTGATTGATGGGGCTCAC-3′. Briefly, 100 ng of DNA was added to 50 μL reaction containing 0.1 μmol of primers, and 0.2 mmol each deoxyribonucleotide triphosphate, 2.5 U of Taq polymerase, and 1.5 mmol magnesium chloride. Amplification was performed up to 40 steps. Products for the polymorphisms were identified on 3.5% agarose gel.
+
+Data management and statistical analysis
+All data were entered into a database (Excel 2007; Microsoft, Redmond, Wash) and then analyzed by Stata IE 14.0 software (StataCorp, College Station, Tex). The Student t test was used for initial pairwise comparisons of spirometric parameters and between the 2 exposure types. The change in spirometric parameters over the course of each exposure was calculated linearly using the 0-hour value as the baseline. Each subject served as their own control. Data are presented as means ± SDs. Multiple variable regression was used to compare cell and cytokine responses across the 4 exposure groups (FA-NS, O3-NS, FA-DP, O3-DP). Effect modification by GSTM1 genotype was assessed in stratified regressions. P < .05 was considered to be statistically significant in all analyses.
+
+Go to:
+Results
+Participant characteristics
+Participant characteristics are shown in Table I. Of the 10 participants who completed the study protocol, all 10 had mild asthma. Five were GSTM1 present and 5 were GSTM1 null. The 2 GSTM1 genotype groups were similar except the GSTM1-null group was older and had a higher mean body mass index.
+
+Table I
+Baseline characteristics of participants
+
+Characteristic	GSTM1 null	GSTM1 present	P value
+No.	5	5	—
+Sex (M/F)	2/3	3/2	—
+Age (years)	41.0 ± 5.9	29.6 ± 5.2	.01
+Height (cm)	173.5 ± 7.1	167.6 ± 10.5	.32
+Weight	102.5 ± 27.3	89.1 ± 23.0	.42
+BMI (kg/m2)	34.12 ± 9.09	31.39 ± 6.34	.59
+BSA (m2)	2.15 ± 0.26	1.98 ± .30	.35
+PC20	1.79 ± 2.23	0.81 ± 0.87	.38
+FEV1 (L)	3.19 ± 0.77	3.16 ± 0.55	.94
+FEV1 percent predicted	85.4 ± 21.41	89.8 ± 13.01	.70
+FVC (L)	4.46 ± 0.76	4.07 ± 0.73	.43
+FVC percent predicted	94.8 ± 9.93	97.0 ± 9.46	.72
+Ratio (FEV1/FVC)	0.72 ± 0.14	0.78 ± 0.07	.41
+Open in a separate window
+Data shown are means ± SDs. Participants were all asthmatic and atopic. BMI, Body mass index; BSA, body surface area.
+
+Climate-controlled chamber conditions
+The temperature and relative humidity in the climate-controlled chamber were (mean ± SD) 18.9 ± 2.9°C and 46.7 ± 11.9%, respectively. The mean O3 concentrations for the FA and O3 exposures were 14.5 ± 3 ppb and 160.7 ± 5 ppb, respectively (see Table E2 in the Online Repository at www.jaci-global.org).
+
+Ozone-induced changes in spirometric indices
+The mean pre- and postexercise spirometric values for FEV1, FVC, and FEV1/FVC are shown in Table E3 (in the Online Repository at www.jaci-global.org) and Fig 1. FA exposure did not cause any significant change in FEV1 or FVC. By contrast, O3 exposure caused a significant decline in FVC (P = .005) and a nonsignificant decline in FEV1 (P = .094); these differences between the FA and O3 exposures were statistically significant (Fig 1). No statistically significant differences were seen 18 hours after the 2 types of exposure, before the challenge bronchoscopies. There were also no differences in lung function response to O3 between GSTM1-present and GSTM1-null participants.
+
+An external file that holds a picture, illustration, etc.
+Object name is gr1.jpg
+Fig 1
+Lung function changes across O3 or FA exposure followed by DP allergen and NS control challenge via LEAC. Changes in FEV1 as a percent predicted of normal values over time (in hours, h) are shown. Blue shaded bars show the FEV1 across FA or O3 exposure; red shaded bars, FEV1 after LEAC; and green bar, FEV1 after sampling bronchoscopy with BAL. Row A shows comparison between FA and O3 exposure. Rows B and C show comparisons of FEV1 response between GSTM1 present and absent participants after O3 and FA exposures, respectively.
+
+Endobronchial allergen challenge–induced changes in spirometric indices
+The mean post-LEAC hourly spirometric indices are shown in Fig 1. LEAC caused a significant decline in FEV1 and FVC beginning 1 hour after LEAC. At 3 hours after LEAC, the magnitude of decrease in FEV1 was significantly greater after O3 by (mean ± SEM) 10.0 ± 3.2 percent predicted compared to after FA (P = .002); the actual difference between FEV1 response at 3 hours after LEAC was 6.7 ± 3.3 percent predicted lower after O3 compared to after FA (P = .011). At 6 hours after LEAC, the magnitude of decrease in FEV1 was significantly greater in participants with GSTM1 present compared to those with GSTM1 absent (mean ± SEM, 15.7 ± 5.2% predicted; P = .008). However, O3 exposure did not cause any significant difference in the FEV1 response at 6 hours after LEAC.
+
+Ozone- and allergen-induced changes in BAL inflammatory cell indices
+BAL cellular data are shown in Fig 2. Independent of O3 exposure, DP challenge compared to saline challenge caused a significant BAL leukocytosis (P = .02), mainly as a result of increased eosinophils (P < .001) and lymphocytes (P < .005). There was also a nonsignificant trend towards increased neutrophils (P = .11), which seemed to be mainly due to the neutrophilic response in participants with the GSTM1-present genotype (P = .09 in wild-type vs P = .879 in null). BAL macrophage counts did not significantly change. Independent of allergen challenge, O3 exposure on its own did not cause any changes in BAL total cells or cell composition.
+
+An external file that holds a picture, illustration, etc.
+Object name is gr2.jpg
+Fig 2
+Bar plots (mean ± SEM) of cell concentrations in BAL fluid obtained 6 hours after LEAC. Left to right, Histograms for each color-coded cell type: FA-NS, O3-NS, FA-DP, O3-DP. (A) All subjects. (B) GSTM1-present participants. (C) GSTM1-absent participants. GSTM1 null, Glutathione S-transferase mu1–null genotype; GSTM1 WT, glutathione S-transferase mu1–present genotype. Symbol indicates significant differences between groups: ∗P < .05.
+
+Overall, O3 exposure combined with DP allergen challenge did not cause any changes in BAL total cells or cell composition. However, in participants with the GSTM1-null genotype, O3 exposure caused a significant attenuation of the BAL eosinophil response after DP challenge (P = .041), but not in participants with the GSTM1-present genotype. GSTM1 genotype had no significant effect on the BAL counts of other cell types.
+
+Ozone- and allergen-induced changes in BAL inflammatory cytokine indices
+BAL cytokine data are shown in Fig 3. Independent of O3 exposure, allergen challenge compared to saline challenge caused a significant increase in BAL concentrations of TH2 cytokines including IL-4, IL-5, IL-10, and IL-13 (P ≤ .026 for all comparisons), but no significant change in TH1 cytokines (IL-1β, IL-6, IL-8, TNF-α, or GM-CSF). Independent of allergen challenge, O3 exposure did not cause any changes in TH1 or TH2 cytokines.
+
+An external file that holds a picture, illustration, etc.
+Object name is gr3.jpg
+Fig 3
+Bar plots (mean ± SEM) of cytokine concentrations in BAL fluid obtained 6 hours after LEAC. Left to right, Histograms for each color-coded cell type: FA-NS, O3-NS, FA-DP, O3-DP. (A) All participants. (B) Participants with GSTM1 present. (C) Participants with GSTM1 absent. The upper limit of detection for IL-5, IL-8, and IL-13 was 400 pg/mL. The lower limits of detection were as follows: IL-4, IL-5, IL-8, and GM-CSF, 0.03 pg/mL; IL-10, 16 pg/mL; and IL-13: 0.13 pg/mL. When values were outside of the detection range, the upper and lower limits of detection were used. GSTM1 absent, Glutathione S-transferase mu1–null genotype; GSTM1 present, glutathione S-transferase mu1 wild-type genotype. Symbols indicate differences between groups: §P < .1, ∗P < .05.
+
+Overall, O3 exposure combined with DP allergen challenge caused a significant decrease in BAL IL-8 concentration (P = .021) and a nonsignificant decrease in IL-4 (P = .110), but no significant changes in other BAL cytokine concentrations. However, in participants with the GSTM1-null genotype, and not in participants with the GSTM1-present genotype, O3 exposure caused a significant attenuation of the BAL IL-4 concentration after DP challenge (P = .014). Other BAL TH2 cytokines also showed a similar but nonsignificant attenuation trend (IL-5 [P = .088], IL-10 [P = .088], IL-13 [P = .152]). Interestingly, TH1 cytokines also showed a similar attenuation signal with the combination of O3 exposure and DP challenge in subjects with the GSTM1-null genotype (significant: IL-8 [P = .007]; nonsignificant trend: TNF-α [P = .136] and GM-CSF [P = .064]).
+
+Go to:
+Discussion
+In this study, we attempted to address the following questions: 1) whether O3 exposure enhances the specific airway inflammatory responses of asthmatic participants during late-phase reactions to inhaled LEAC, and 2) whether asthmatic individuals with the GSTM1-null genotype have greater allergic inflammatory responses than those who have GSTM1 present. Our results suggest that O3, at least at the concentration (160 ppb) and exposure duration (4 hours) tested, appears to have mixed effects on allergen-induced airway inflammation. While there were no significant changes in BAL total cells or cell composition after O3-allergen exposure compared to FA-allergen exposure, BAL concentrations of most cytokines assayed were nonsignificantly lower after O3-allergen exposure; IL-8 was significantly lower. The absence of a significant O3 effect on BAL cell composition after allergen challenge may be due to the timing of the sampling bronchoscopy (24 hours after the end of the O3 exposure), possibly too late to observe this effect.2 It may also be that the instillation of saline and allergen may have masked the effect of O3 exposure.
+
+Remarkably, the absence of GSTM1 appears to be associated with decreased magnitude of the inflammatory response to endobronchial allergen challenge after O3 exposure with attenuation of allergic cells (eosinophils) and both TH2 (IL-4) and TH1 (IL-8) cytokines. These results must be interpreted with caution, given our small sample size. Despite the small sample size, however, we did find that O3 exposure significantly enhanced the lung function response to allergen at 3 hours after local endobronchial challenge, consistent with previously published studies that used whole lung inhalation challenge.8,9
+
+As expected from previous research in our laboratory and elsewhere, O3 exposure did induce a significant but temporary decrease in lung function.2,4,25 The mechanism underlying the significant enhancement by O3 exposure of the bronchoconstrictor response to allergen at 3 hours after local endobronchial challenge is probably enhanced local bronchoconstriction of the allergen-challenged lung segment. We directly observed narrowing of the lumen of the previously challenged segment at the time of the sampling bronchoscopy 6 hours after allergen challenge bronchoscopies after both O3 and FA exposures. Ozone exposure itself is known to cause some bronchoconstriction even in nonasthmatic participants, possibly as a result of airway edema and/or neuroreceptor stimulation.26 It is likely that the direct effects of O3 on the airways are additive to those of specific allergen challenge. Although previous reports in the literature have suggested that the GSTM1 null genotype enhances lung function responses to O3,27, 28, 29 we found no evidence for such an effect. In fact, the participants with GSTM1 present had the largest decreases in FEV1 and FVC after 4 hours’ exposure to O3.
+
+The novel finding of our study, a suggestion that the airway inflammatory cytokine response to specific allergen challenge is decreased after O3 exposure, also requires mechanistic explanation. One possibility is that O3 exposure leads to activation of innate immunity which may, in turn, dampen TH2 responses to allergen. The results of several studies support such an effect of exposure to an innate immune stimulus, through an IFN-γ–dependent mechanism30, 31, 32 that may involve both a Toll-like receptor pathway32 and lung macrophages.30 However, there is also evidence that O3 activation of innate immunity actually enhances TH2 responses.33 Other investigators have found evidence of IL-8 involvement in the late-phase inflammatory response to allergen in sensitized participants.34 Thus, our finding of a decreased IL-8 cytokine response after O3 preexposure to allergen in GSTM1-null participants is intriguing and perhaps consistent with the decreased TH2 cytokine responses to allergen after O3 preexposure in these participants.
+
+We also found no evidence of an enhanced airway neutrophilic inflammatory response after O3-allergen exposure in the GSTM1-null participants. To our surprise, the GSTM1-null participants had lower airway cellular and cytokine responses to O3-allergen exposure than GSTM1-present participants. We had hypothesized that GSTM1-null participants would experience greater oxidative stress after O3 preexposure than GSTM1-present participants and thus would have greater airway cellular and cytokine inflammatory responses to subsequent allergen challenge. Although we actually found a suggestion of a decreased airway inflammatory response to allergen after O3 preexposure in the GSTM1-null participants, this finding should be considered preliminary until confirmed in another study.
+
+Our study has both strengths and limitations. It is one of the few controlled human exposure studies of an air pollutant to use LEAC followed by measurement of biomarkers of airway inflammation in BAL. It is also the first study to assess the impact of the common GSTM1-null genetic variant on airway responses to allergen after O3 exposure. Of note, a previously published controlled human exposure study that used LEAC after diesel exhaust exposure did not find an effect of the GSTM1-null genotype.35
+
+Limitations include relative lack of power to study small changes (eg, the trend toward an increase in BAL neutrophils after O3-allergen exposure might have become significant with a larger sample size). Our study was not designed to truly elicit an ozone effect on its own, but rather to understand the effect of ozone on subsequent allergic inflammation, for which we did observe a significant response. That said, although we did not observe a significant airway inflammatory response to O3, we did observe a significant FVC response and a near-significant FEV1 response to O3. We recruited participants with relatively mild allergic asthma for safety reasons, given that the effects of O3 inhalation on LEAC in specifically sensitized asthmatic participants had not been previously studied. It is possible that patients with more severe asthma are at greater risk for O3-induced effects on allergic inflammatory responses. Another potential limitation is the simultaneous use of saline and allergen endobronchial challenge in different lobes. To avoid any potential cross contamination of saline and allergen, we performed the saline challenge in RUL and the allergen challenge in RML, and asked the participants to remain in the semirecumbent position as much as possible during the period between the LEAC and sampling bronchoscopies. In addition, during the sampling bronchoscopy, we first performed lavage of the RUL followed by lavage of the RML. Nevertheless, it is possible that local allergen challenge contributes to a systemic signal which could affect lung responses at other sites including the site challenged with saline. However, such cross-reactions would only introduce a bias towards not seeing a difference in responses between saline and allergen challenge. Finally, the exposure to O3 (160 ppb over 4 hours) could be questioned because it represents a higher level of exposure than is currently observed in the United States. As noted in the Methods section, this concentration and duration were chosen in an effort to balance safety with sufficient exposure to possibly induce an enhancement of allergic airway inflammation; the cumulative exposure is the same as 80 ppb over 8 hours, which can be observed currently in some areas of the United States.
+
+Our results confirm previous reports that O3 preexposure enhances the lung function response to allergen in specifically sensitized asthmatic individuals. The novel finding of this study, however, is that O3 exposure appears to decrease the cytokine component of the airway inflammatory response to allergen in these individuals. Moreover, the absence of the antioxidant enzyme, GSTM1, does not seem to increase the bronchoconstrictor response and may decrease the airway inflammatory response to allergen after O3 exposure. Other recent studies also suggest that GSTM1-deficient individuals do not always have enhanced responses to O3 exposure.36, 37, 38
+
+Key messages
+•
+Ozone may increase risk of asthma exacerbation but the exact mechanisms are not clear.
+•
+Susceptibility to ozone-induced airway inflammation may be associated with GSTM1 genotype.
+•
+Ozone may enhance allergen-induced airway recruitment of neutrophils.
+•
+The GSTM1-null mutation may decrease both eosinophil and cytokine allergic airway responses after O3 exposure.
+Go to:
+Footnotes
+Supported by California Air Resources Board (CARB) contract 03-315 (to J.R.B.), National Institutes of Health (NIH)/National Heart, Lung, and Blood Institute K23 HL083099 (to M.A.), and NIH/National Center for Research Resources, University of California, San Francisco–Clinical and Translational Science Institute grant UL1 RR024131. The contents of this report are solely the responsibility of the authors and do not necessarily represent the official views of either CARB or the NIH.
+
+Disclosure of potential conflict of interest: The authors declare that they have no relevant conflicts of interest.
+
+Go to:
+Supplementary data
+Table E1-E4:
+:
+
+Click here to view.(40K, docx)
+Go to:
+References
+1. US Environmental Protection Agency Integrated science assessment of ozone and related photochemical oxidants. Final report, April 2020. https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=348522 Available at:
+2. Scannell C., Chen L., Aris R.M., Tager I., Christian D., Ferrando R., et al. Greater ozone-induced inflammatory responses in subjects with asthma. Am J Respir Crit Care Med. 1996;154:24–29. doi: 10.1164/ajrccm.154.1.8680687. [PubMed] [CrossRef] [Google Scholar]
+3. Basha M.A., Gross K.B., Gwizdala C.J., Haidar A.H., Popovich J., Jr. Bronchoalveolar lavage neutrophilia in asthmatic and healthy volunteers after controlled exposure to ozone and filtered purified air. Chest. 1994;106:1757–1765. doi: 10.1378/chest.106.6.1757. [PubMed] [CrossRef] [Google Scholar]
+4. Balmes J.R., Chen L.L., Scannell C., Tager I., Christian D., Hearne P.Q., et al. Ozone-induced decrements in FEV1 and FVC do not correlate with measures of inflammation. Am J Respir Crit Care Med. 1996;153:904–909. doi: 10.1164/ajrccm.153.3.8630571. [PubMed] [CrossRef] [Google Scholar]
+5. Depuydt P.O., Lambrecht B.N., Joos G.F., Pauwels R.A. Effect of ozone exposure on allergic sensitization and airway inflammation induced by dendritic cells. Clin Exp Allergy. 2002;32:391–396. doi: 10.1046/j.1365-2222.2002.01364.x. [PubMed] [CrossRef] [Google Scholar]
+6. Wagner J.G., Jiang Q., Harkema J.R., Illek B., Patel D.D., Ames B.N., et al. Ozone enhancement of lower airway allergic inflammation is prevented by gamma-tocopherol. Free Radic Biol Med. 2007;43:1176–1188. doi: 10.1016/j.freeradbiomed.2007.07.013. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+7. Turner C.R., Kleeberger S.R., Spannhake E.W. Preexposure to ozone blocks the antigen-induced late asthmatic response of the canine peripheral airways. J Toxicol Environ Health. 1989;28:363–371. doi: 10.1080/15287398909531355. [PubMed] [CrossRef] [Google Scholar]
+8. Jörres R., Nowak D., Magnussen H. The effect of ozone exposure on allergen responsiveness in subjects with asthma or rhinitis. Am J Respir Crit Care Med. 1996;153:56–64. doi: 10.1164/ajrccm.153.1.8542163. [PubMed] [CrossRef] [Google Scholar]
+9. Kehrl H.R., Peden D.B., Ball B., Folinsbee L.J., Horstman D. Increased specific airway reactivity of persons with mild allergic asthma after 7.6 hours of exposure to 0.16 ppm ozone. J Allergy Clin Immunol. 1999;104:1198–1204. doi: 10.1016/s0091-6749(99)70013-8. [PubMed] [CrossRef] [Google Scholar]
+10. Chen L.L., Tager I.B., Peden D.B., Christian D.L., Ferrando R.E., Welch B.S., et al. Effect of ozone exposure on airway responses to inhaled allergen in asthmatic subjects. Chest. 2004;125:2328–2335. doi: 10.1378/chest.125.6.2328. [PubMed] [CrossRef] [Google Scholar]
+11. Holz O., Mücke M., Paasch K., Böhme S., Timm P., Richter K., et al. Repeated ozone exposures enhance bronchial allergen responses in subjects with rhinitis or asthma. Clin Exp Allergy. 2002;32:681–689. doi: 10.1046/j.1365-2222.2002.01358.x. [PubMed] [CrossRef] [Google Scholar]
+12. Hayes J.D., Flanagan J.U., Jowsey I.R. Glutathione transferases. Annu Rev Pharmacol Toxicol. 2005;45:51–88. doi: 10.1146/annurev.pharmtox.45.120403.095857. [PubMed] [CrossRef] [Google Scholar]
+13. Hayes J.D., Strange R.C. Potential contribution of the glutathione S-transferase supergene family to resistance to oxidative stress. Free Radic Res. 1995;22:193–207. doi: 10.3109/10715769509147539. [PubMed] [CrossRef] [Google Scholar]
+14. Hayes J.D., Strange R.C. Glutathione S-transferase polymorphisms and their biological consequences. Pharmacology. 2000;61:154–166. doi: 10.1159/000028396. [PubMed] [CrossRef] [Google Scholar]
+15. Gilliland F.D., Li Y.F., Dubeau L., Berhane K., Avol E., McConnell R., et al. Effects of glutathione S-transferase M1, maternal smoking during pregnancy, and environmental tobacco smoke on asthma and wheezing in children. Am J Respir Crit Care Med. 2002;166:457–463. doi: 10.1164/rccm.2112064. [PubMed] [CrossRef] [Google Scholar]
+16. Kim C.S., Alexis N.E., Rappold A.G., Kehrl H., Hazucha M.J., Lay J.C., et al. Lung function and inflammatory responses in healthy young adults exposed to 0.06 ppm ozone for 6.6 hours. Am J Respir Crit Care Med. 2011;183:1215–1221. doi: 10.1164/rccm.201011-1813OC. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+17. Moreno-Macías H., Dockery D.W., Schwartz J., Gold D.R., Laird N.M., Sienra-Monge J.J., et al. Ozone exposure, vitamin C intake, and genetic susceptibility of asthmatic children in Mexico City: a cohort study. Respir Res. 2013;14:14. doi: 10.1186/1465-9921-14-14. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+18. Vagaggini B., Bartoli M.L., Cianchetti S., Costa F., Bacci E., Dente F.L., et al. Increase in markers of airway inflammation after ozone exposure can be observed also in stable treated asthmatics with minimal functional response to ozone. Respir Res. 2010;11:5. doi: 10.1186/1465-9921-11-5. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+19. Arjomandi M., Balmes J.R., Frampton M.W., Bromberg P., Rich D.Q., Stark P., et al. Respiratory Responses to ozone exposure. MOSES (The Multicenter Ozone Study in Older Subjects) Am J Respir Crit Care Med. 2018;197:1319–1327. doi: 10.1164/rccm.201708-1613OC. [PubMed] [CrossRef] [Google Scholar]
+20. Alexis N.E., Zhou H., Lay J.C., Harris B., Hernandez M.L., Lu T.S., et al. The glutathione-S-transferase Mu 1 null genotype modulates ozone-induced airway inflammation in human subjects. J Allergy Clin Immunol. 2009;124:1222–1228.e5. doi: 10.1016/j.jaci.2009.07.036. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+21. Crapo R.O., Casaburi R., Coates A.L., Enright P.L., Hankinson J.L., Irvin C.G., et al. Guidelines for methacholine and exercise challenge testing—1999. Am J Respir Crit Care Med. 2000;161:309–329. doi: 10.1164/ajrccm.161.1.ats11-99. [PubMed] [CrossRef] [Google Scholar]
+22. Miller M.R., Hankinson J., Brusasco V., Burgos F., Casaburi R., Coates A., et al. ATS/ERS Task Force. Standardisation of spirometry. Eur Respir J. 2005;26:319–338. doi: 10.1183/09031936.05.00034805. [PubMed] [CrossRef] [Google Scholar]
+23. Krug N., Teran L.M., Redington A.E., Gratziou C., Montefort S., Polosa R., et al. Safety aspects of local endobronchial allergen challenge in asthmatic patients. Am J Respir Crit Care Med. 1996;153(4 pt 1):1391–1397. doi: 10.1164/ajrccm.153.4.8616571. [PubMed] [CrossRef] [Google Scholar]
+24. Frew A.J., Carroll M.P., Gratziou C., Krug N. Endobronchial allergen challenge. Eur Respir J Suppl. 1998;26:33S–35S. [PubMed] [Google Scholar]
+25. Arjomandi M., Schmidlin I., Girling P., Boylen K., Ferrando R., Balmes J. Sputum induction and bronchoscopy for assessment of ozone-induced airway inflammation in asthma. Chest. 2005;128:416–423. doi: 10.1378/chest.128.1.416. [PubMed] [CrossRef] [Google Scholar]
+26. De Swert K.O., Joos G.F. Extending the understanding of sensory neuropeptides. Eur J Pharmacol. 2006;533:171–181. doi: 10.1016/j.ejphar.2005.12.066. [PubMed] [CrossRef] [Google Scholar]
+27. Bergamaschi E., De Palma G., Mozzoni P., Vanni S., Vettori M.V., Broeckaert F., et al. Polymorphism of quinone-metabolizing enzymes and susceptibility to ozone-induced acute effects. Am J Respir Crit Care Med. 2001;163:1426–1431. doi: 10.1164/ajrccm.163.6.2006056. [PubMed] [CrossRef] [Google Scholar]
+28. Romieu I., Sienra-Monge J.J., Ramírez-Aguilar M., Moreno-Macías H., Reyes-Ruiz N.I., Estela del Río-Navarro B., et al. Genetic polymorphism of GSTM1 and antioxidant supplementation influence lung function in relation to ozone exposure in asthmatic children in Mexico City. Thorax. 2004;59:8–10. [PMC free article] [PubMed] [Google Scholar]
+29. Chen C., Arjomandi M., Tager I.B., Holland N., Balmes J.R. Effects of antioxidant enzyme polymorphisms on ozone-induced lung function changes. Eur Respir J. 2007;30:677–683. doi: 10.1183/09031936.00160806. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+30. Tang C., Inman M.D., van Rooijen N., Yang P., Shen H., Matsumoto K., et al. Th type 1–stimulating activity of lung macrophages inhibits Th2-mediated allergic airway inflammation by an IFN-gamma–dependent mechanism. J Immunol. 2001;166:1471–1481. doi: 10.4049/jimmunol.166.3.1471. [PubMed] [CrossRef] [Google Scholar]
+31. Nakagome K., Okunishi K., Imamura M., Harada H., Matsumoto T., Tanaka R., et al. IFN-gamma attenuates antigen-induced overall immune response in the airway as a Th1-type immune regulatory cytokine. J Immunol. 2009;183:209–220. doi: 10.4049/jimmunol.0802712. [PubMed] [CrossRef] [Google Scholar]
+32. Krishnaswamy J.K., Jirmo A.C., Baru A.M., Ebensen T., Guzmán C.A., Sparwasser T., et al. Toll-like receptor-2 agonist-allergen coupling efficiently redirects Th2 cell responses and inhibits allergic airway eosinophilia. Am J Respir Cell Mol Biol. 2012;47:852–863. doi: 10.1165/rcmb.2011-0414OC. [PubMed] [CrossRef] [Google Scholar]
+33. Hansen G., Berry G., DeKruyff R.H., Umetsu D.T. Allergen-specific Th1 cells fail to counterbalance Th2 cell–induced airway hyperreactivity but cause severe airway inflammation. J Clin Invest. 1999;103:175–183. doi: 10.1172/JCI5155. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+34. Jacobi H.H., Poulsen L.K., Reimert C.M., Skov P.S., Ulfgren A.K., Jones I., et al. IL-8 and the activation of eosinophils and neutrophils following nasal allergen challenge. Int Arch Allergy Immunol. 1998;116:53–59. doi: 10.1159/000023925. [PubMed] [CrossRef] [Google Scholar]
+35. Carlsten C., Blomberg A., Pui M., Sandstrom T., Wong S.W., Alexis N., et al. Diesel exhaust augments allergen-induced lower airway inflammation in allergic individuals: a controlled human exposure study. Thorax. 2016;35:35–44. doi: 10.1136/thoraxjnl-2015-207399. Erratum in: Thorax 2016;71:385. [PubMed] [CrossRef] [Google Scholar]
+36. Song J., Zhu J., Tian G., Li H., Li H., An Z., et al. Short time exposure to ambient ozone and associated cardiovascular effects: a panel study of healthy young adults. Environ Int. 2020;137 doi: 10.1016/j.envint.2020.105579. [PubMed] [CrossRef] [Google Scholar]
+37. Frampton M.W., Pietropaoli A., Dentler M., Chalupa D., Little E.L., Stewart J., et al. Cardiovascular effects of ozone in healthy subjects with and without deletion of glutathione-S-transferase M1. Inhal Toxicol. 2015;27:113–119. doi: 10.3109/08958378.2014.996272. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+38. Balmes J.R., Arjomandi M., Bromberg P.A., Costantini M.G., Dagincourt N., Hazucha M.J., et al. Ozone effects on blood biomarkers of systemic inflammation, oxidative stress, endothelial function, and thrombosis: the Multicenter Ozone Study in oldEr Subjects (MOSES) PLoS One. 2019;14 doi: 10.1371/journal.pone.0222601. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Articles from The Journal of Allergy and Clinical Immunology: Global are provided here courtesy of Elsevier
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

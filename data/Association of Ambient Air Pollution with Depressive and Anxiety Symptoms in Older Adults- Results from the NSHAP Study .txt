@@ -1,0 +1,292 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of envhper
+Environ Health Perspect. 2017 Mar; 125(3): 342–348. Published online 2016 Aug 12. doi: 10.1289/EHP494
+PMCID: PMC5332196PMID: 27517877
+Association of Ambient Air Pollution with Depressive and Anxiety Symptoms in Older Adults: Results from the NSHAP Study
+Vivian C. Pun, Justin Manjourides, and Helen Suh†
+Author information Article notes Copyright and License information PMC Disclaimer
+Associated Data
+Supplementary Materials
+Go to:
+Abstract
+Background: Ambient fine particulate matter (PM2.5) is among the most prevalent sources of environmentally induced inflammation and oxidative stress, both of which are implicated in the pathogenesis of most mental disorders. Evidence, however, concerning the impact of PM2.5 on mental health is just emerging.
+Objective: We examined the association between PM2.5 and current level of depressive and anxiety symptoms using a nationally representative probability sample (n = 4,008) of older, community-dwelling individuals living across the United States (the National Social Life, Health and Aging project).
+Methods: Mental health was evaluated using validated, standardized questionnaires and clinically relevant cases were identified using well-established cutoffs; daily PM2.5 estimates were obtained using spatiotemporal models. We used generalized linear mixed models, adjusting for potential confounders, and explored effect modification.
+Results: An increase in PM2.5 was significantly associated with anxiety symptoms, with the largest increase for 180-days moving average (OR = 1.61; 95% CI: 1.35, 1.92) after adjusting for socioeconomic measures (SES); PM2.5 was positively associated with depressive symptoms, and significantly for 30-day moving average (OR = 1.16; 95% CI: 1.05, 1.29) upon SES adjustment. The observed associations were enhanced among individuals who had low SES and history of comorbidity. When considering mental health as chronic conditions, PM2.5 was significantly associated with incident depressive symptoms for all exposure windows examined, but with incident anxiety symptoms only for shorter exposure windows, which may be due to a drop in power resulting from the decreased between-subject variability in chronic PM2.5 exposure.
+Conclusion: PM2.5 was associated with depressive and anxiety symptoms, with associations the strongest among individuals with lower SES or among those with certain health-related characteristics.
+Citation: Pun VC, Manjourides J, Suh H. 2017. Association of ambient air pollution with depressive and anxiety symptoms in older adults: results from the NSHAP study. Environ Health Perspect 125:342–348; http://dx.doi.org/10.1289/EHP494
+Go to:
+Introduction
+Mental health disorders accounted for over 140 million disability-adjusted life years worldwide in 2010 (Whiteford et al. 2013) and is the third most costly non-fatal condition in the United States, totaling $60 billion annually (Soni 2011). Adult mental disorder rates are substantial, with 18% experiencing anxiety disorder and 9.8% major depressive, dysthymic, and bipolar disorder in the past year (NIH/NIMH 2015). One of the hypothesized biological pathways is that mental disorders occur through oxidative stress and neuro-inflammation pathways (Ng et al. 2008; Vogelzangs et al. 2013). Compared to other organs, the brain is vulnerable to oxidative stress damage because of its high-energy use, low-endogenous scavenger levels, high-metabolic demands, and high-cellular lipid and protein content (Halliwell 2006; Mattson 2001). It is also susceptible to secondary and self-perpetuating damage from oxidative cellular injury via activated neuro-inflammatory responses or other pathways (Halliwell 2006; Ng et al. 2008). While genetic profiles, brain damage, substance abuse, socioeconomic status, and life situations have been important risk factors of mental disorders, recent evidence has indicated a role of physical environmental factors in the pathogenesis of mental disorders.
+
+Airborne particulate matter (PM) pollution is a major source of environmentally induced inflammation and oxidative stress (Block and Calderón-Garcidueñas 2009). Ambient PM exposure has been consistently linked to adverse cardiovascular and respiratory effects, with oxidative stress and systemic inflammation considered the primary pathways through which air pollution damages health (Brook et al. 2004, 2010). While epidemiologic studies in the 1980s suggested associations between air pollution and mood (Bullinger 1989), depressive symptoms (Jacobs et al. 1984), and psychiatric emergencies (Rotton and Frey 1984), only recently have studies examined the possible effects of PM on mental illness and stress, with conflicting results (Lim et al. 2012; Marques and Lima 2011; Mehta et al. 2015; Power et al. 2015; Szyszkowicz 2007; Szyszkowicz et al. 2009; Wang et al. 2014). Toxicological studies, however, have shown neuropathological effects (e.g., increased levels of pro-inflammatory cytokines, degenerated dopaminergic neurons) and neurobehavioral responses (e.g., depression-like behaviors) upon PM exposure (Calderón-Garcidueñas et al. 2003; Campbell et al. 2005; Davis et al. 2013; Fonken et al. 2011; Veronesi et al. 2005). In this study, we used data from the National Social Life, Health and Aging Project (NSHAP) to examine the association of exposure to PM with aerodynamic diameter of ≤ 2.5 μm (PM2.5) with current depressive and anxiety symptom severity.
+
+Go to:
+Methods
+Participants NSHAP is a longitudinal, nationally representative study of community-dwelling individuals (57–85 years) without known cognitive impairment living across the United States, with oversampling of African-Americans, Hispanics, men, and individuals between 75–84 years old (Shega et al. 2014; Waite et al. 2014a, 2014b). Numerous social, psychological, functional, and physiological health measures were collected for each participant in two data collection waves. Wave 1 was conducted from July 2005 to March 2006, with in-home interviews, biospecimen collection, and respondent completed questionnaires performed for 3,005 individuals. The same data were obtained in Wave 2 (August 2010 to May 2011) for 3,377 participants, including 2,261 Wave 1 respondents, 161 Wave 1 eligible, but non-interviewed respondents, and 955 spouses or cohabitating romantic partners (see Figure S1). Individuals from Wave 1 who did not participate in Wave 2 included those who were either deceased, moved away, or whose health (e.g., stroke) was too poor to participate in Wave 2. Participants and nonrespondents did not differ with regard to air pollution levels and cognitive scores. The overall weighted response rate was 75.5% and 76.9% for Waves 1 and 2, respectively (O’Muircheartaigh et al. 2009; Smith et al. 2009). The protocol was approved by the Institutional Review Boards of Northeastern University, the University of Chicago, and NORC at the University of Chicago. All participants provided written informed consent.
+Mental Health Measures Current level of depressive symptomatology was assessed using an 11-item form of the Center for Epidemiological Studies–Depression (CESD-11) Scale questionnaire (Kohout et al. 1993). The CESD-11 is a shorter version of the well-validated 20-item CESD (CESD-20) and is a self-reported screening tool that has been shown to capture the same dimensions as CESD-20 with similar precision. Participants were asked to indicate their response to 11 statements (see Table S1). Each statement asked participants to rate the frequency of their feelings during the previous week as rarely or none of the time (0), some of the time (1), occasionally (2), and most of the time (3), corresponding to a 4-point Likert scale. Positively phrased statements were reverse coded before summation (range: 0 to 33), with higher summed scores indicating more severe depressive symptoms. The Cronbach’s alpha for internal consistency was 0.80 for the entire NSHAP sample. A score of ≥ 9 on the CESD-11 was used to identify individuals with moderate-to-severe depressive symptoms based on previous studies (Kohout et al. 1993; Torres 2012).
+The Hospital Anxiety and Depression Scale (HADS) has been used successfully as a self-rating instrument to measure current state of anxiety, with well-established reliability and validity in population-based studies (Mykletun et al. 2001). NSHAP participants were asked to complete a 7-item anxiety subscale of HADS (HADS-A) to indicate the frequency of feelings of anxious mood, thoughts, and restlessness over the past week on a 4-point Likert scale (see Table S1) One positively phrased statement was reverse coded. Individual statement scores were then summed to obtain the total HADS-A score (range: 0 to 21), with higher scores indicating increasing levels of anxiety. The Cronbach’s alpha of the HADS-A was 0.76. A HADS-A cutoff score of 8 gives the optimal sensitivity and specificity (approximately 0.80) to categorize individuals as having an anxiety disorder or not (Bjelland et al. 2002). Thus, we defined participants with a cutoff score of ≥ 8 as cases with moderate-to-severe anxiety symptoms.
+
+Exposure Assessment Daily PM2.5 estimates on a 6-km grid covering the conterminous United States were obtained from a set of five spatio-temporal generalized additive mixed models (GAMMs) of daily PM2.5 mass levels in the conterminous United States, fit separately to 1999–2001, 2002–2004, 2005–2007, 2008–2009, and 2010–2011. These models were based on the spatiotemporal GAMM of monthly PM2.5 mass from 1999–2007 documented in Yanosky et al. (2014). PM2.5 data were obtained primarily from the U.S. Environmental Protection Agency (EPA) Air Quality System database and Interagency Monitoring of Protected Visual Environments (IMPROVE) network (IMPROVE 2013; U.S. EPA 2016). The model included three meteorological covariates (i.e., wind speed, temperature, and total precipitation) that influence pollutant dispersion as well as several geospatial covariates (i.e., smoothed county population density from the 2000 U.S. Census, point-source PM2.5 emissions density within 7.5 km, proportion of urban land use within 1 km, elevation, and annual average PM2.5 for 2002 from the U.S. EPA’s Community Multiscale Air Quality model). Finally, the daily PM2.5 model includes traffic-related PM levels, represented as the output of a Gaussian line-source dispersion modeling approach. The line-source model uses ADMS-Roads software (version 4.0; Cambridge Environmental Research Consultants Ltd.) and associated spatially smoothed traffic intensity and daily meteorological inputs to describe small-scale spatial gradients in primary PM concentrations near roadways. The daily PM2.5 model has undergone validation during development using cross-validation techniques (see Yanosky et al. 2014), and had a cross-validation R 2 of 0.76. NSHAP participants were matched to the grid (n = 894 in total) closest to their residential addresses. Two participants were excluded from the study as their residential addresses were outside the conterminous United States. The mean distance between each grid centroid–residential address pair was 2.23 km, with a range of 0.05–4.21 km.
+Statistical Analysis Given the longitudinal study design and multiple participants per household, we used the generalized linear mixed models PROC GLIMMIX procedure (version 9.3; SAS Institute Inc.) to study the association of PM2.5 and each mental health condition, modeled as binary outcome based on a CESD-11 score ≥ 9 and HADS-A ≥ 8 for moderate-to-severe depressive and anxiety symptoms, respectively, and to account for random effects of repeated measurements for participants and households. We fit penalized spline models to evaluate deviations from linearity, with the linear model preferable for each outcome based on Akaike information criterion. We examined associations for PM2.5 exposure windows averaged from previous 7 days, to up to 4 years prior to the interview date of NSHAP participants to study the impact of semi-acute and chronic PM2.5 exposure for mental disorders, respectively.
+In the basic models, we adjusted for age, sex, race, year, season and day of week of questionnaire completion, region of residence (West, Midwest, South, Northeast), and whether participants lived within a metropolitan statistical area (MSA). Multivariable models were also constructed to control for confounding by socioeconomic measures (SES) as assessed using individual-specific education attainment and family income, and census-level median household income and percent of population with income below poverty level. To further evaluate potential confounding, additional wave-specific covariates were selected a priori based on their previous associations with mental illness or air pollution: individual-specific obesity status [i.e., body mass index (BMI) ≥ 30)], current smoking status, physical activity, alcohol consumption (drinks per day), UCLA Loneliness scale (range: 0–9), current use of antidepressant medication, and history of diabetes, hypertension, stroke, heart failure, emphysema, chronic obstructive pulmonary disease (COPD) or asthma (see Table S2). Two covariates (i.e., BMI and family income) had 10% and 29% missing data, respectively; their missing values were imputed by simple mean substitution. Missing data of other covariates (< 5%) were not imputed. Both base and SES-adjusted analyses were restricted to a subset of data for which values for all covariates were not missing [i.e., 6,199 nonmissing out of 6,382 total observations (97.1%) for covariates]. Additional covariates were added individually in separate basic models to avoid multicollinearity and reduce potential bias on the estimates if covariates were not shown to be confounders (Xing and Xing 2010). Since certain covariates (e.g., sex) could be possible effect modifiers, their modification of PM2.5-mental health findings was examined through interaction terms, using the PROC GLIMMIX procedure, which provides added options to compute customized odds ratios and the corresponding confidence intervals (CIs) automatically for each level of the interaction term.
+
+We conducted several sensitivity analyses. First, we considered mental health measures as continuous rather than binary measures. Second, we restricted the longitudinal analysis to individuals who participated in both waves, to those living in MSAs only, those who did not move between waves or did not currently take antidepressant medication, respectively. We also reanalyzed the models using multiple imputation technique. Third, we constructed the model using PM2.5 concentrations measured at the nearest U.S. EPA ambient monitors within 60 km of the residential address. Lastly, we considered our depression and anxiety outcomes to be chronic relapsing disorders, by restricting our analyses to Wave 2 participants who did not have moderate-to-severe depressive (CESD-11 < 9) or anxiety (HADS-A < 8) symptoms in Wave 1. In doing so, we acknowledge that if mental disorders are chronic conditions, PM2.5 exposures for Wave 2 could not be associated with mental disorders that occurred at Wave 1 or earlier. If that is the case, inclusion of individuals reporting mental disorders in Wave 1 in longitudinal analyses would bias the effect estimates towards the null. Since information on the history of mental illness was not available in the study, we conducted logistic regression analysis examining the association between PM2.5 exposure and incident moderate-to-severe depressive and anxiety symptoms in Wave 2. Results are expressed as the odds ratio (OR) per 5 μg/m3 increment in PM2.5 exposure; all effect estimates and their corresponding confidence intervals were obtained through the ODDSRATIO (DIFF = ALL) option in the GLIMMIX procedure.
+
+Go to:
+Results
+A total of 4,008 community-dwelling participants were available for analysis. Overall, participants were on average 69 and 72 years old in Wave 1 and 2 respectively, and nearly half were men (Table 1). Most participants were white, exercised ≥ 1 time per week, and had a high school education or greater. Approximately three-fifths of the participants reported a history of high blood pressure or hypertension; one-fifth diabetes, one-sixth emphysema, COPD, or asthma; and 10% or less stroke or heart failure, respectively. Participants reported slightly higher current use of antidepressant medications and lower UCLA Loneliness score in Wave 2 than in Wave 1. The prevalence of current moderate-to-severe depressive symptoms decreased from 24% in Wave 1 to 21% in Wave 2, while that of moderate-to-severe anxiety symptoms increased in Wave 2 (14%) compared with Wave 1 (21%). Four (< 1%) and 744 participants (12%) did not complete the depression or anxiety assessments, respectively, with missingness not related to air pollution exposures. Intra-wave correlation for CESD-11 score was 0.55, and that for HADS-A score was 0.37. The mean annual concentration (± SD) of PM2.5 was 11.1 (± 3.0) μg/m3 and 8.8 (± 2.2) μg/m3 in Wave 1 and 2, respectively (Table 1; see also Table S3). Refer to Table S4 for descriptive characteristics stratified by data collection wave and pollution category.
+
+Table 1
+Characteristics of NSHAP study participants by wave.
+
+Characteristic	Study population
+Wave 1 (July 2005–March 2006)	Wave 2 (August 2010–May 2011)
+No. of participants	3,005	3,377
+Age (year, mean ± SD)	69.3 ± 7.8	72.4 ± 8.1
+Male (%)	48.4	45.5
+Race (%)
+White	70.5	71.5
+Black	17.0	15.4
+Hispanic nonblack	10.2	10.9
+Other	2.3	2.3
+BMI (kg/m2, mean ± SD)	29.1 ± 6.1	29.3 ± 6.1
+Obesity (% ≥ 30 BMI)	35.1	36.7
+Alcohol consumption (drinks/day, mean ± SD)	1.1 ± 1.6	0.94 ± 1.4
+Current smoking (%)	14.8	13.3
+Physical activity (%)
+3 or more times per week	61.4	40.9
+1–2 times per week	15.4	15.5
+1–3 times per month	6.3	8.7
+Less than 1 time per month	6.4	9.3
+Never	10.4	25.6
+Socioeconomic status
+Individual level
+Education attainment (%)
+College degree or greater	21.9	24.5
+High school or vocational school	54.9	56.4
+Less than high school	23.3	19.1
+Family income ($ in thousands, mean ± SD)	51.3 ± 64.4	59.3 ± 74.2
+% ≤ $35,000	37.7	31.0
+Census levela
+Median household income ($ in thousands, mean ± SD)	52.7 ± 25.1	56.4 ± 27.3
+Population with income below poverty level (%)	15.3	14.4
+Loneliness score (mean ± SD)	4.0 ± 1.4	3.1 ± 2.3
+Diabetes (%)	21.4	23.7
+Hypertension (%)	57.3	61.6
+Stroke (%)	8.9	9.4
+Heart failure (%)	9.5	5.0
+Emphysema, COPD or asthma (%)	17.2	15.4
+Antidepressant use (%)	12.5	15.2
+CESD-11 score (mean ± SD)	5.6 ± 5.2	5.1 ± 4.9
+Number (%) ≥ 9	730 (24.3)	703 (20.8)
+HADS-A score (mean ± SD)	3.6 ± 3.5	4.7 ± 3.7
+Number (%) ≥ 8	378 (13.5)	605 (21.3)
+PM2.5 annual concentration (μg/m3, mean ± SD)	11.1 ± 3.0	8.8 ± 2.3
+Note: 2,261 participants were in both Wave 1 and Wave 2; 744 participants were in wave 1 only; 1,114 were in wave 2 only. There was a total of 6,382 observations. BMI, body mass index; CESD, Center for Epidemiological Studies–Depression; COPD, chronic obstructive pulmonary disease; HADS-A, Hospital Anxiety and Depression Scale–anxiety subscale; SD, standard deviation. aEstimated for census tract of residence using data from the U.S. Census Bureau (2000).
+Open in a separate window
+The associations of ambient PM2.5 in the previous 7, 30, 180, and 365 days and 4 years prior with each measure of mental health are presented in Table 2. In basic models, a 5 μg/m3 increase in PM2.5 was significantly and positively associated with moderate-to-severe anxiety symptoms for all exposure windows, with the largest increase in odds for 180-days PM2.5 exposure (OR = 1.55; 95% CI: 1.31, 1.85). On the other hand, exposure to PM2.5 averaged over the previous 7 days and 30 days was significantly associated with 1.09 (95% CI: 1.01, 1.17) and 1.20 times (95% CI: 1.08, 1.33) the odds of moderate-to-severe depressive symptoms, respectively. Elevations in odds, though statistically insignificant, were also seen for longer moving averages. Analysis of an extended range of exposure windows shows that the effect estimates of depressive and anxiety symptoms increase gradually and are the largest at 60-days and 180-days PM2.5 exposure, respectively (see Figure S2). Pattern of associations from multivariable models, which further adjusted for SES, were generally consistent to those from basic models (Table 2). Findings were similar in sensitivity analyses a) considering mental health measures as linear continuous variables, b) controlling for additional covariates, c) using an alternative imputation technique, d) using different PM2.5 exposure measures from nearby ambient monitors, and e) restricting to individuals who participated in both waves, lived in MSAs, did not move between waves, or did not currently take antidepressant medication (see Tables S5–S9).
+
+Table 2
+ORs (95% CIs) for mental illness per 5 μg/m3 increment in PM2.5 levels over various moving averages.
+
+PM2.5 moving averages	Depression: CESD-11 ≥ 9 vs. < 9	Anxiety: HADS-A ≥ 8 vs. < 8
+Basica	Multivariable adjustedb	Basica	Multivariable adjustedb
+7-days	1.09 (1.01, 1.17)*	1.08 (1.00, 1.16)**	1.14 (1.05, 1.24)*	1.14 (1.05, 1.24)*
+30-days	1.20 (1.08, 1.33)*	1.16 (1.05, 1.29)*	1.34 (1.19, 1.50)*	1.31 (1.20, 1.51)*
+180-days	1.10 (0.94, 1.28)	1.04 (0.89, 1.22)	1.55 (1.31, 1.85)*	1.61 (1.35, 1.92)*
+365-days	1.10 (0.93, 1.31)	1.06 (0.89, 1.27)	1.33 (1.10, 1.61)*	1.39 (1.15, 1.69)*
+4-years	1.17 (1.00, 1.38)**	1.14 (0.97, 1.34)	1.29 (1.08, 1.54)*	1.34 (1.12, 1.61)*
+Note: CESD, Center for Epidemiological Studies–Depression; HADS-A, Hospital Anxiety and Depression Scale–anxiety subscale. aBasic models adjusted for age, sex, race/ethnicity, year, season, day of week, region, and residence within a metropolitan statistical area (MSA). bMultivariable models adjusted for age, sex, race/ethnicity, year, season, day of week, region, residence within an MSA, education attainment and family income of the participants, and median household income, percentage of population below poverty level in the census tract of residence. *p < 0.05. **p < 0.10.
+Open in a separate window
+Table 3 (see also Table S10) shows evidence of effect modification for the relationship between mental illness and average 30-day PM2.5 level, the exposure window that shows generally significant associations. Individuals who had less than a high school education were at significantly higher odds of PM2.5-associated moderate-to-severe anxiety symptoms (p-interact < 0.001), and suggestive higher odds of moderate-to-severe depressive symptoms. The association of PM2.5 and depressive symptoms was also greater for individuals with low census-level SES (i.e., high percentage of population with income below poverty level) or for those with a history of stroke or respiratory illnesses. Participants who had a history of stroke or heart failure also showed increased odds of moderate-to-severe anxiety symptoms associated with PM2.5, compared to those who had no such history.
+
+Table 3
+Effect modification analysis of the association of mental illness with 5 μg/m3 increment in PM2.5 levels over preceding 30-days moving average in multivariable models with interaction terms for the potential modifier.
+
+Effect modifier	Depression: CESD-11 ≥ 9 vs. < 9	Anxiety: HADS-A ≥ 8 vs. < 8
+OR (95% CI)	pinteract	OR (95% CI)	pinteract
+Sex
+Male	1.11 (0.97, 1.27)		1.36 (1.17, 1.58)
+Female	1.12 (0.98, 1.27)	0.905	1.39 (1.21, 1.59)	0.793
+BMI
+< 30	1.09 (0.97, 1.23)		1.40 (1.23, 1.60)
+≥ 30	1.14 (0.99, 1.32)	0.579	1.34 (1.13, 1.57)	0.592
+Smoking
+No	1.10 (0.98, 1.23)		1.37 (1.21, 1.79)
+Yes	1.20 (0.98, 1.46)	0.396	1.42 (1.12, 1.55)	0.771
+Socioeconomic status
+Individual level
+Education
+College degree or greater	1.12 (0.93, 1.36)		1.20 (0.98, 1.47)
+High school or vocational school	1.02 (0.90, 1.16)	0.347	1.28 (1.11, 1.47)	0.583
+Less than high school	1.37 (1.15, 1.64)	0.105	1.97 (1.60, 2.41)	< 0.001
+Family income
+>$35,000	1.15 (1.02, 1.30)		1.39 (1.21, 1.59)
+≤$35,000	1.05 (0.91, 1.21)	0.220	1.34 (1.14, 1.58)	0.703
+Census-levela
+Median household income
+High	1.01 (0.82, 1.24)		1.45 (1.17, 1.81)
+Median	1.09 (0.96, 1.24)	0.513	1.43 (1.24, 1.65)	0.895
+Low	1.23 (1.04, 1.45)	0.117	1.20 (0.99, 1.45)	0.152
+% population with income below poverty level
+Low	0.86 (0.70, 1.04)		1.27 (1.03, 1.56)
+Median	1.18 (1.04, 1.34)	0.003	1.45 (1.26, 1.66)	0.229
+High	1.18 (1.00, 1.40)	0.007	1.28 (1.05, 1.55)	0.938
+Diabetes
+No	1.10 (0.98, 1.23)		1.33 (1.17, 1.51)
+Yes	1.13 (0.95, 1.34)	0.794	1.58 (1.29, 1.93)	0.086
+Hypertension
+No	1.09 (0.95, 1.25)		1.36 (1.18, 1.56)	
+Yes	1.13 (1.00, 1.28)	0.625	1.39 (1.20, 1.62)	0.752
+Stroke
+No	1.07 (0.96, 1.19)		1.33 (1.18, 1.50)
+Yes	1.55 (1.22, 1.98)	0.002	1.84 (1.40, 2.41)	0.018
+Heart failure
+No	1.14 (1.02, 1.27)		1.32 (1.17, 1.49)
+Yes	0.90 (0.69, 1.17)	0.088	1.97 (1.47, 2.63)	0.007
+Emphysema, COPD or asthma
+No	1.07 (0.95, 1.20)		1.34 (1.18, 1.52)
+Yes	1.28 (1.07, 1.53)	0.048	1.48 (1.22, 1.79)	0.305
+Note: Multivariable models adjusted for age, sex, race/ethnicity, year, season, day of week, region, residence within a metropolitan statistical area (MSA), education attainment and family income of the participants, and median household income, percentage of population below poverty level in the census tract of residence. CESD, Center for Epidemiological Studies–Depression; COPD, chronic obstructive pulmonary disease; HADS-A, Hospital Anxiety and Depression Scale–anxiety subscale. aEstimated for census tract of residence using data from the U.S. Census Bureau (2000).
+Open in a separate window
+When anxiety and depression were considered as chronic relapsing disorders using logistic regression (Table 4), increments of PM2.5 levels in all exposure windows were positively and statistically significantly associated with incident moderate-to-severe depressive symptoms in Wave 2, corresponding to 1.35–1.68 times the odds in multivariable models. Increase in PM2.5 levels averaged over the previous 7-days was also significantly associated with incident moderate-to-severe anxiety symptoms (OR = 1.36; 95% CI: 1.09, 1.68). The increase and statistical significance in odds of incident moderate-to-severe anxiety symptoms gradually reduced with longer PM2.5 exposure windows.
+
+Table 4
+Logistic regression analysis [ORs (95% CIs)] of the association between mental disorders and 5 μg/m3 increment in PM2.5 levels over various moving averages—restricting to WAVE 2 participants who did not have moderate-to-severe depressive (CESD-11 < 9) or anxiety (HADS-A < 8) symptoms in Wave 1.
+
+PM2.5 moving averages	No moderate-to-severe depressive symptoms in Wave 1 (1,724). Depression: CESD-11 ≥ 9 vs. < 9	No moderate-to-severe anxiety symptoms in Wave 1 (1,551). Anxiety: HADS-A ≥ 8 vs. < 8
+Basica	Multivariable adjustedb	Basica	Multivariable adjustedb
+7-days	1.37 (1.10, 1.70)*	1.35 (1.08, 1.68)*	1.35 (1.09, 1.68)*	1.36 (1.09, 1.68)*
+30-days	1.52 (1.14, 2.03)*	1.54 (1.15, 2.05)*	1.24 (0.93, 1.65)	1.22 (0.92, 1.63)
+180-days	1.44 (1.04, 2.00)*	1.48 (1.06, 2.06)*	1.10 (0.80, 1.51)	1.08 (0.78, 1.49)
+365-days	1.64 (1.16, 2.31)*	1.68 (1.18, 2.39)*	1.08 (0.77, 1.52)	1.07 (0.75, 1.51)
+4-years	1.63 (1.19, 2.23)*	1.66 (1.21, 2.29)*	1.06 (0.77, 1.44)	1.05 (0.76, 1.44)
+Note: CESD, Center for Epidemiological Studies–Depression; HADS-A, Hospital Anxiety and Depression Scale–anxiety subscale. aBasic models adjust for age, sex, race/ethnicity, year, season, day of week, region and residence within a metropolitan statistical area (MSA). bMultivariable models adjusted for age, sex, race/ethnicity, year, season, day of week, region, residence within a MSA, education attainment and family income of the participants, and median household income, percentage of population below poverty level in the census tract of residence. *p < 0.05.
+Open in a separate window
+Go to:
+Discussion
+In our nationally representative sample of U.S. older adults, we observed statistically significantly positive associations with moderate-to-severe anxiety symptoms for all PM2.5 exposure windows (e.g., OR = 1.55; 95% CI: 1.31, 1.85 for PM2.5 averaged over 180 days). We also found increased odds of moderate-to-severe depressive symptoms associated with a 5 μg/m3 increment in PM2.5 exposure, with the largest increase associated with PM2.5 averaged over 30 days (OR = 1.20; 95% CI: 1.08, 1.33). Patterns of associations remain in multivariable models adjusting for SES. The observed associations were enhanced among individuals who were of low SES or had history of certain health-related conditions.
+
+We found that reported depressive and anxiety symptoms at Wave 1 were only weakly correlated with corresponding symptoms at Wave 2. This supports our assumption that each mental health condition is reversible (Bedrosian et al. 2013; NIH/NIMH 2017), and is consistent with the CES-D and HADS-A questionnaires that evaluate current rather than chronic depression and anxiety symptoms. However, when depression and anxiety were considered as chronic conditions using logistic regression, PM2.5 was significantly associated with incident moderate-to-severe depressive symptoms in Wave 2 for all exposure windows examined, with higher effect estimates as compared to when depressive symptoms were assumed to be reversible disorders. In contrast, PM2.5 exposures were significantly associated with incident moderate-to-severe anxiety symptoms only for shorter exposure windows. These findings, which should be interpreted with caution, suggest that shorter-term PM2.5 exposures might be more biologically relevant to incident anxiety symptoms. However, associations of chronic PM2.5 exposure with anxiety should not be ruled out, as the decreased between-subject variability in long-term PM2.5 exposures leads to wider confidence intervals.
+
+This study provides among the first evidence of positive associations between ambient PM2.5 exposures and adverse mental health symptoms, and is the first study to report increased odds of moderate-to-severe depressive symptoms associated with PM2.5 exposure. To date, only three epidemiologic studies have examined the association of long-term exposure to PM with mental health risk (Mehta et al. 2015; Power et al. 2015; Wang et al. 2014). Our observed positive and significant association between PM2.5 and moderate-to-severe anxiety symptoms is consistent with findings from Power et al. (2015) who also reported positive association of PM2.5 with phobic anxiety among a cohort of U.S. nurses, thus lending support for our findings. Yet, our findings of increased odds of depressive symptoms associated with PM2.5 differs from those of a Boston study that found a significant negative association (Wang et al. 2014). The conflicting findings may be attributed to our study’s larger sample size, use of participant-specific exposure measures, greater geographical coverage, and longer exposure windows examined. Other studies have reported positive and statistically significant association between short-term PM exposure (e.g., 1–3 lagged day) and suicidal risk (Bakian et al. 2015; Kim et al. 2010; Szyszkowicz et al. 2010), which may lend support to our findings of increased incident anxiety symptoms with semi-acute PM2.5 exposure windows.
+
+While the biological pathways through which PM2.5 exposures influence mental health remain unknown, PM2.5 exposures may harm mental health through increased neuroinflammation, oxidative stress, cerebrovascular damage and neurodegeneration (Block and Calderón-Garcidueñas 2009; MohanKumar et al. 2008), as evidenced by findings from animal studies that show associations between PM and elevated hippocampal pro-inflammatory cytokine expression (Campbell et al. 2005; Fonken et al. 2011), upregulated expression of innate immunity and oxidative stress pathways (Sama et al. 2007), robust inflammatory and stress protein brain responses (Calderón-Garcidueñas et al. 2003), neuropathological damage in the brains of Apo E-deficient mice (Veronesi et al. 2005), and depression-like responses in mice (Fonken et al. 2011). PM2.5 pollution may also harm mental health by increasing markers of glucocorticoid activity and levels of the stress hormone cortisol (Thomson et al. 2013; Tomei et al. 2003) or through aggravating major respiratory or cardiac medical conditions (Power et al. 2015; Wang et al. 2014). Cardiopulmonary diseases positively associated with PM, such as asthma and heart failure, are also associated with increased prevalence of depression and anxiety disorders (Aben et al. 2003; Aström 1996; Cully et al. 2009; Dossa et al. 2011; Maurer et al. 2008; Scott et al. 2007), possibly mediated through biological (e.g., chronic inflammation) and behavioral (e.g., fear, social isolation) mechanisms (Hsu et al. 2014; Loubinoux et al. 2012; Yohannes and Alexopoulos 2014). Our findings of effect modification of the PM-mental health associations by individuals who had stroke, heart failure, or hypertension provide support for the importance of PM-mediated aggravation of cardiopulmonary conditions and our findings of PM2.5-mediated impacts on adverse mental health symptoms. In addition, our evidence of effect modification by SES suggests that PM exposure may have stronger impacts on depression symptoms among individuals with lower SES. We found that more participants living in neighborhoods with a greater percentage of the population with income below poverty level also had higher ambient PM2.5 pollution level near their residences; previous studies reported greater psychological stress and adverse mental health among people living in census tracts with lower SES and higher unemployment and poverty proportions (Bell and Ebisu 2012; Schwartz et al. 2011). Thus, a combination of greater pollution exposure and susceptibility may best explain how SES modified the association between PM exposure and depression symptoms.
+
+Our study has several limitations. First, CESD and HADS-A are not clinical diagnostic instruments, nor are they designed to assess chronic mental disorder. Also, dichotomizing the continuous scores will likely reduce statistical power (Greenland 1995). However, these questionnaires are widely used screening tools for current level of depressive and anxiety symptom severity in the somatic, psychiatric and general population settings (Bjelland et al. 2002; Radloff 1977); and they provide cutoff scores for probable cases that are of clinical relevance, with high sensitivity, specificity and internal consistency (Dozeman et al. 2011). Second, residual confounding or confounding by unmeasured covariates and/or pollution (e.g., traffic noise pollution) is possible. Nonetheless, adjustment for several known confounding variables, including those related to SES and behaviors, did not eliminate the observed most significant associations and positive trends of PM2.5 with our mental health measures. Third, we assessed PM2.5 exposures using individual-specific exposures based on the nearest grid point values to the residential addresses, with the average distance of 2.23 km. While more precise than nearest monitor values, they do not account for time spent indoors or personal behaviors and thus are imperfect proxies of personal PM2.5 exposures and thus contribute to exposure misclassification. Last, findings from the current study may not be generalizable to younger age groups.
+
+The nationally representative sample of older, community-dwelling Americans was a major strength of our study, since previous research of PM and mental health used convenience samples. We evaluated two affective measures to provide a comprehensive picture of air pollution’s impact on mental health, rather than one mental health measure as in existing studies. Our study was well-powered to detect meaningful associations and adjusted for confounding from individual- and census-level SES measures. Moreover, we showed effect modification of the PM2.5-mental health associations by participant characteristics, providing insight into susceptibility. We also considered multiple PM2.5 exposure windows; consistent with a previous study (Power et al. 2015), we found that intermediate-term PM2.5 exposure (e.g., 30 to 180 days) may be the most biological relevant exposure period to adverse mental symptoms, compared to longer exposure windows. Lastly, our findings were robust to multiple sensitivity analyses.
+
+Go to:
+Conclusions
+We reported evidence of positive association between PM2.5 and moderate-to-severe depressive and anxiety symptoms among a representative sample of U.S. older adults. Our findings suggest that people with low SES or with a history of underlying health conditions may be more susceptible to increased odds of mental disorders after PM exposure.
+
+Go to:
+Supplemental Material
+(637 KB) PDF
+Click here for additional data file.(622K, pdf)
+Go to:
+Acknowledgments
+We acknowledge M.-A. Kioumourtzoglou from Harvard University for her advice on regression modeling, and J. Yanosky from Pennsylvania State University for providing daily PM2.5 grid data.
+
+Go to:
+Footnotes
+This work was supported by National Institute of Environmental Health Sciences, National Institutes of Health (NIH) (grant 1R01ES022657-01A1), with health and other covariate data obtained through NIH grants R01-AG021487, R37-AG030481, R01-AG033903, and R01-ES019168.
+
+The authors declare they have no actual or potential competing financial interests.
+
+Go to:
+References
+Aben I, Verhey F, Strik J, Lousberg R, Lodder J, Honig A. A comparative study into the one year cumulative incidence of depression after stroke and myocardial infarction. J Neurol Neurosurg Psychiatry. 2003;74:581–585. [PMC free article] [PubMed] [Google Scholar]
+Aström M. 1996. Generalized anxiety disorder in stroke patients: a 3-year longitudinal study. Stroke 27 270 275, doi: 10.1161/01.STR.27.2.270 [PubMed] [CrossRef] [Google Scholar]
+Bakian AV, Huber RS, Coon H, Gray D, Wilson P, McMahon WM, et al. 2015. Acute air pollution exposure and risk of suicide completion. Am J Epidemiol 181 295 303, doi: 10.1093/aje/kwu341 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Bedrosian TA, Weil ZM, Nelson RJ. 2013. Chronic dim light at night provokes reversible depression-like phenotype: possible role for TNF. Mol Psychiatry 18 930 936, doi: 10.1038/mp.2012.96 [PubMed] [CrossRef] [Google Scholar]
+Bell ML, Ebisu K. 2012. Environmental inequality in exposures to airborne particulate matter components in the United States. Environ Health Perspect 120 1699 1704, doi: 10.1289/ehp.1205201 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Bjelland I, Dahl AA, Haug TT, Neckelmann D. 2002. The validity of the Hospital Anxiety and Depression Scale: an updated literature review. J Psychosom Res 52 69 77, doi: 10.1016/S0022-3999(01)00296-3 [PubMed] [CrossRef] [Google Scholar]
+Block ML, Calderón-Garcidueñas L. 2009. Air pollution: mechanisms of neuroinflammation and CNS disease. Trends Neurosci 32 506 516, doi: 10.1016/j.tins.2009.05.009 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Brook RD, Franklin B, Cascio W, Hong Y, Howard G, Lipsett M, et al. 2004. Air pollution and cardiovascular disease: a statement for healthcare professionals from the Expert Panel on Population and Prevention Science of the American Heart Association. Circulation 109 2655 2671, doi: 10.1161/01.CIR.0000128587.30041.C8 [PubMed] [CrossRef] [Google Scholar]
+Brook RD, Rajagopalan S, Pope CA, III, Brook JR, Bhatnagar A, Diez-Roux AV, et al. 2010. Particulate matter air pollution and cardiovascular disease: an update to the scientific statement from the American Heart Association. Circulation 121 2331 2378, doi: 10.1161/CIR.0b013e3181dbece1 [PubMed] [CrossRef] [Google Scholar]
+Bullinger M. Psychological effects of air pollution on healthy residents—a time-series approach. J Environ Psychol. 1989;9:103–118. [Google Scholar]
+Calderón-Garcidueñas L, Maronpot RR, Torres-Jardon R, Henríquez-Roldán C, Schoonhoven R, Acuña-Ayala H, et al. 2003. DNA damage in nasal and brain tissues of canines exposed to air pollutants is associated with evidence of chronic brain inflammation and neurodegeneration. Toxicol Pathol 31 524 538, doi: 10.1080/01926230390226645 [PubMed] [CrossRef] [Google Scholar]
+Campbell A, Oldham M, Becaria A, Bondy SC, Meacher D, Sioutas C, et al. 2005. Particulate matter in polluted air may increase biomarkers of inflammation in mouse brain. Neurotoxicology 26 133 140, doi: 10.1016/j.neuro.2004.08.003 [PubMed] [CrossRef] [Google Scholar]
+Cully JA, Jimenez DE, Ledoux TA, Deswal A. Recognition and treatment of depression and anxiety symptoms in heart failure. Prim Care Companion J Clin Psychiatry. 2009;11:103–109. [PMC free article] [PubMed] [Google Scholar]
+Davis DA, Bortolato M, Godar SC, Sander TK, Iwata N, Pakbin P, et al. 2013. Prenatal exposure to urban air nanoparticles in mice causes altered neuronal differentiation and depression-like responses. PLoS One 8 e64128, doi: 10.1371/journal.pone.0064128 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Dossa A, Glickman ME, Berlowitz D. 2011. Association between mental health conditions and rehospitalization, mortality, and functional outcomes in patients with stroke following inpatient rehabilitation. BMC Health Serv Res 11 311, doi: 10.1186/1472-6963-11-311 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Dozeman E, van Schaik DJF, van Marwijk HWJ, Stek ML, van Der Horst HE, Beekman ATF. 2011. The center for epidemiological studies depression scale (CES-D) is an adequate screening instrument for depressive and anxiety disorders in a very old population living in residential homes. Int J Geriatr Psychiatry 26 239 246, doi: 10.1002/gps.2519 [PubMed] [CrossRef] [Google Scholar]
+Fonken LK, Xu X, Weil ZM, Chen G, Sun Q, Rajagopalan S, et al. 2011. Air pollution impairs cognition, provokes depressive-like behaviors and alters hippocampal cytokine expression and morphology. Mol Psychiatry 16 987 995, doi: 10.1038/mp.2011.76 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Greenland S. Avoiding power loss associated with categorization and ordinal scores in dose-response and trend analysis. Epidemiology. 1995;6:450–454. [PubMed] [Google Scholar]
+Halliwell B. 2006. Oxidative stress and neurodegeneration: where are we now? J Neurochem 97 1634 1658, doi: 10.1111/j.1471-4159.2006.03907.x [PubMed] [CrossRef] [Google Scholar]
+Hsu NW, Tsao HM, Chen HC, Chou P. 2014. Anxiety and depression mediate the health-related quality of life differently in patients with cardiovascular disease and stroke-preliminary report of the Yilan study: a population-based community health survey. PLoS One 9 e107609, doi: 10.1371/journal.pone.0107609 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+IMPROVE (Interagency Monitoring of Protected Visual Environments) Interagency Monitoring of Protected Visual Environments Homepage. 2013 http://vista.cira.colostate.edu/improve/ [accessed 8 January 2015]
+Jacobs SV, Evans GW, Catalano R, Dooley D. Air pollution and depressive symptomatology: exploratory analyses of intervening psychosocial factors. Popul Environ. 1984;7:260–272. [Google Scholar]
+Kim C, Jung SH, Kang DR, Kim HC, Moon KT, Hur NW, et al. 2010. Ambient particulate matter as a risk factor for suicide. Am J Psychiatry 167 1100 1107, doi: 10.1176/appi.ajp.2010.09050706 [PubMed] [CrossRef] [Google Scholar]
+Kohout FJ, Berkman LF, Evans DA, Cornoni-Huntley J. Two shorter forms of the CES-D (Center for Epidemiological Studies Depression) depression symptoms index. J Aging Health. 1993;5:179–193. [PubMed] [Google Scholar]
+Lim YH, Kim H, Kim JH, Bae S, Park HY, Hong YC. 2012. Air pollution and symptoms of depression in elderly adults. Environ Health Perspect 120 1023 1028, doi: 10.1289/ehp.1104100 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Loubinoux I, Kronenberg G, Endres M, Schumann-Bard P, Freret T, Filipkowski RK, et al. 2012. Post-stroke depression: mechanisms, translation and therapy. J Cell Mol Med 16 1961 1969, doi: 10.1111/j.1582-4934.2012.01555.x [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Marques S, Lima ML. 2011. Living in grey areas: industrial activity and psychological health. J Environ Psychol 31 314 322, doi: 10.1016/j.jenvp.2010.12.002 [CrossRef] [Google Scholar]
+Mattson MP. Totowa, NJ: Humana Press; 2001. Mechanisms of neuronal apoptosis and excitotoxicity. In: Pathogenesis of Neurodegenerative Disorders. pp. 1–20. [Google Scholar]
+Maurer J, Rebbapragada V, Borson S, Goldstein R, Kunik ME, Yohannes AM, et al. 2008. Anxiety and depression in COPD. Chest 134 4 suppl 43S 56S, doi: 10.1378/chest.08-0342 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Mehta AJ, Kubzansky LD, Coull BA, Kloog I, Koutrakis P, Sparrow D, et al. 2015. Associations between air pollution and perceived stress: the Veterans Administration Normative Aging Study. Environ Health 14 1 10, doi: 10.1186/1476-069X-14-10 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+MohanKumar SMJ, Campbell A, Block M, Veronesi B. 2008. Particulate matter, oxidative stress and neurotoxicity. Neurotoxicology 29 479 488, doi: 10.1016/j.neuro.2007.12.004 [PubMed] [CrossRef] [Google Scholar]
+Mykletun A, Stordal E, Dahl AA. 2001. Hospital Anxiety and Depression (HAD) scale: factor structure, item analyses and internal consistency in a large population. Br J Psychiatry 179 540 544, doi: 10.1192/bjp.179.6.540 [PubMed] [CrossRef] [Google Scholar]
+NIH/NIMH (National Institutes of Health, National Institute of Mental Health) Any Mood Disorder Among Adults. 2015 http://www.nimh.nih.gov/health/statistics/prevalence/any-mood-disorder-among-adults.shtml [accessed 4 July 2015]
+NIH/NIMH. Depression Treatment. 2017 https://www.nimh.nih.gov/health/topics/depression/index.shtml [accessed 23 January 2017]
+Ng F, Berk M, Dean O, Bush AI. 2008. Oxidative stress in psychiatric disorders: evidence base and therapeutic implications. Int J Neuropsychopharmacol 11 851 876, doi: 10.1017/S1461145707008401 [PubMed] [CrossRef] [Google Scholar]
+O’Muircheartaigh C, Eckman S, Smith S. 2009. Statistical design and estimation for the National Social Life, Health, and Aging Project. J Gerontol B Psychol Sci Soc Sci 64(suppl 1) i12 i19, doi: 10.1093/geronb/gbp045 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Power MC, Kioumourtzoglou MA, Hart JE, Okereke OI, Laden F, Weisskopf MG. 2015. The relation between past exposure to fine particulate air pollution and prevalent anxiety: observational cohort study. BMJ 350 h1111, doi: 10.1136/bmj.h1111 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Radloff LS. CES-D scale: a self-report depression scale for research in the general population. Appl Psychol Meas. 1977;1:385–401. [Google Scholar]
+Rotton J, Frey J. Psychological costs of air pollution: atmospheric conditions, seasonal trends, and psychiatric emergencies. Popul Environ. 1984;7:3–16. [Google Scholar]
+Sama P, Long TC, Hester S, Tajuba J, Parker J, Chen LC, et al. 2007. The cellular and genomic response of an immortalized microglia cell line (BV2) to concentrated ambient particulate matter. Inhal Toxicol 19 1079 1087, doi: 10.1080/08958370701628721 [PubMed] [CrossRef] [Google Scholar]
+Schwartz J, Bellinger D, Glass T. 2011. Exploring potential sources of differential vulnerability and susceptibility in risk from environmental hazards to expand the scope of risk assessment. Am J Public Health 101(suppl 1) S94 S101, doi: 10.2105/AJPH.2011.300272 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Scott KM, Von Korff M, Ormel J, Zhang M, Bruffaerts R, Alonso J, et al. 2007. Mental disorders among adults with asthma: results from the World Mental Health Survey. Gen Hosp Psychiatry 29 123 133, doi: 10.1016/j.genhosppsych.2006.12.006 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Shega JW, Sunkara PD, Kotwal A, Kern DW, Henning SL, McClintock MK, et al. 2014. Measuring cognition: the Chicago Cognitive Function Measure in the National Social Life, Health and Aging Project, Wave 2. J Gerontol B Psychol Sci Soc Sci 69(suppl 2) S166 S176, doi: 10.1093/geronb/gbu106 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Smith S, Jaszczak A, Graber J, Lundeen K, Leitsch S, Wargo E, et al. 2009. Instrument development, study design implementation, and survey conduct for the National Social Life, Health, and Aging Project. J Gerontol B Psychol Sci Soc Sci 64(suppl 1) i20 i29, doi: 10.1093/geronb/gbn013 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Soni A. Rockville, MD: Agency for Healthcare Research and Quality,; 2011. Top 10 Most Costly Conditions among Men and Women, 2008: Estimates for the U.S. Civilian Noninstitutionalized Adult Population, Age 18 and Older. Statistical Brief #331. https://meps.ahrq.gov/data_files/publications/st331/stat331.shtml [accessed 23 January 2017] [PubMed] [Google Scholar]
+Szyszkowicz M. 2007. Air pollution and emergency department visits for depression in Edmonton, Canada. Int J Occup Med Environ Health 20 241 245, doi: 10.2478/v10001-007-0024-2 [PubMed] [CrossRef] [Google Scholar]
+Szyszkowicz M, Rowe BH, Colman I. 2009. Air pollution and daily emergency department visits for depression. Int J Occup Med Environ Health 22 355 362, doi: 10.2478/v10001-009-0031-6 [PubMed] [CrossRef] [Google Scholar]
+Szyszkowicz M, Willey JB, Grafstein E, Rowe BH, Colman I. 2010. Air pollution and emergency department visits for suicide attempts in Vancouver, Canada. Environ Health Insights 4 79 86, doi: 10.4137/EHI.S5662 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Thomson EM, Vladisavljevic D, Mohottalage S, Kumarathasan P, Vincent R. 2013. Mapping acute systemic effects of inhaled particulate matter and ozone: multiorgan gene expression and glucocorticoid activity. Toxicol Sci 135 169 181, doi: 10.1093/toxsci/kft137 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Tomei F, Rosati MV, Ciarrocca M, Baccolo TP, Gaballo M, Caciari T, et al. Plasma cortisol levels and workers exposed to urban pollutants. Ind Health. 2003;41:320–326. [PubMed] [Google Scholar]
+Torres E. 2012. Psychometric properties of the Center for Epidemiologic Studies Depression Scale in African-American and Black Caribbean Adults. Issues Ment Health Nurs 33 687 696, doi: 10.3109/01612840.2012.697534 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+U.S. Census Bureau. Government Printing Office. 2000. Census 2000 CD. Washington, DC.: U.S. [Google Scholar]
+U.S. EPA (Environmental Protection Agency) U.S. EPA Air Quality System. 2016 https://www.epa.gov/aqs [accessed 23 January 2017]
+Veronesi B, Makwana O, Pooler M, Chen LC. 2005. Effects of subchronic exposures to concentrated ambient particles. VII. Degeneration of dopaminergic neurons in Apo E–/– mice. Inhal Toxicol 17 235 241, doi: 10.1080/08958370590912888 [PubMed] [CrossRef] [Google Scholar]
+Vogelzangs N, Beekman ATF, de Jonge P, Penninx BWJH. 2013. Anxiety disorders and inflammation in a large adult cohort. Transl Psychiatry 3 e249, doi: 10.1038/tp.2013.27 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Waite LJ, Cagney K, Dale W, Huang E, Laumann EO, McClintock M, et al. Ann Arbor, MI: Inter-university Consortium for Political and Social Research; 2014a. National Social Life, Health, and Aging Project (NSHAP): Wave 2 and Partner Data Collection. ICPSR34921-v1. http://www.icpsr.umich.edu/icpsrweb/NACDA/studies/34921 [accessed 23 January 2017] [Google Scholar]
+Waite LJ, Laumann EO, Levinson W, Lindau ST, O’Muircheartaigh CA. Ann Arbor, MI: Inter-university Consortium for Political and Social Research; 2014b. National Social Life, Health, and Aging Project (NSHAP): Wave 1. ICPSR20541-v6. http://www.icpsr.umich.edu/icpsrweb/NACDA/studies/20541 [accessed 23 January 2017] [Google Scholar]
+Wang Y, Eliot MN, Koutrakis P, Gryparis A, Schwartz JD, Coull BA, et al. 2014. Ambient air pollution and depressive symptoms in older adults: results from the MOBILIZE Boston Study. Environ Health Perspect 122 553 558, doi: 10.1289/ehp.1205909 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Whiteford HA, Degenhardt L, Rehm J, Baxter AJ, Ferrari AJ, Erskine HE, et al. Global burden of disease attributable to mental and substance use disorders: findings from the Global Burden of Disease Study 2010. Lancet. 2013;382:1575–1586. [PubMed] [Google Scholar]
+Xing G, Xing C. 2010. Adjusting for covariates in logistic regression models. Genet Epidemiol 34 769 772, doi: 10.1002/gepi.20526 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Yanosky JD, Paciorek CJ, Laden F, Hart JE, Puett RC, Liao D, et al. 2014. Spatio-temporal modeling of particulate air pollution in the conterminous United States using geographic and meteorological predictors. Environ Health 13 63, doi: 10.1186/1476-069X-13-63 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Yohannes AM, Alexopoulos GS. 2014. Depression and anxiety in patients with COPD. Eur Respir Rev 23 345 349, doi: 10.1183/09059180.00007813 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Articles from Environmental Health Perspectives are provided here courtesy of National Institute of Environmental Health Sciences
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

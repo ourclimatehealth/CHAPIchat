@@ -1,0 +1,226 @@
+Skip to Main Content
+Journal of Allergy and Clinical Immunology
+Log in
+
+Search for...
+
+
+PARADIGMS AND PERSPECTIVES| VOLUME 152, ISSUE 5, P1081-1083, NOVEMBER 2023
+
+Download Full Issue
+Increasing wildfire smoke from the climate crisis: Impacts on asthma and allergies
+John R. Balmes, MD 
+Stephanie M. Holm, MD, PhD, MPH Published:September 20, 2023DOI:https://doi.org/10.1016/j.jaci.2023.09.008
+PlumX Metrics
+
+Key words
+Climate change
+wildfire smoke
+PM2.5
+asthma
+allergies
+Catastrophic wildfires have been increasing around the globe, including in Australia, Chile, Indonesia, Portugal, Russia, the United States, and Canada. Over the past year alone, there have been massive fires in Canada that have blanketed major sections of North America with poor air quality because of wildfire smoke. Climate change is a major driver of the increased frequency and severity of wildfires owing to warmer temperatures, drought, and more extreme weather.1 Because catastrophic wildfires fueled by high winds are more difficult to suppress and there has been an increase in the population living within the wildland-urban interface (WUI), fires are overrunning neighborhoods and whole towns. The recent devastation of the town of Lahaina on Maui reminds us of the extreme danger of WUI fires.
+Smoke from catastrophic wildfires has also caused extended periods of poor air quality in large areas downwind. Wildfire smoke is a heterogenous mixture of carbon dioxide, carbon monoxide, nitrogen oxides, particulate matter (PM), complex hydrocarbons such as polycyclic aromatic hydrocarbons and dioxins, and irritant gases (eg, acrolein, benzene, and formaldehyde)—many of the same toxic and carcinogenic substances as found in cigarette smoke.2 The composition of wildfire emissions varies depending on the type of fuel, meteorologic conditions, and burning conditions. Wildfire smoke undergoes chemical transformations in the atmosphere that alter its composition as the smoke travels downwind; secondary pollutants, such as ozone and secondary organic aerosol, are also generated. When synthetic materials burn in WUI fires, even more toxic materials such as phosgene and hydrochloric acid are emitted. Fine PM (particulate matter <2.5 μm in diameter [PM2.5]) is a major toxic component of wildfire smoke and is used to assess public exposure to smoke. Concentrations of PM2.5 because of wildfire smoke have been extremely high in US cities, with a peak of 200 μg/m3 in New York City in June 2023.3 For reference, the health-based US Environmental Protection Agency 24-hour average air quality standard is 35 μg/m3.
+Allergic and immunologic effects of wildfire smoke
+Studies assessing allergic and immunologic changes at the cellular level have shown changes in innate immunity and protein expression following exposure to wildfire smoke.4 These allergic and immunologic effects of wildfire smoke are particularly problematic because climate change is increasing other allergic triggers in addition to the increases in wildfires and wildfire smoke. Global warming has led to higher allergen exposure owing to changes in growing seasons and areas (eg, wider distribution of ragweed in the United States).5
+Perhaps the best-established health effect of short-term exposure to wildfire smoke is exacerbation of asthma in children and adults.6 Whereas short-term exposure to ambient PM2.5 from nonwildfire sources such as combustion of fossil fuels increases the risk of asthma exacerbations, wildfire-specific PM2.5 may be even more toxic to children’s respiratory health.7 Wildfire-exposed individuals experience symptoms of conjunctivitis and rhinitis, especially if they have preexisting atopy.
+Wildfire smoke likely affects the lower airways and lungs by mechanisms similar to those associated with nonwildfire PM2.5 exposure, including alteration of TH1/TH2 cell responses, oxidative stress, and disrupted epithelial barrier function.4 A specific example of a wildfire smoke component with known immunologic effects is polycyclic aromatic hydrocarbons. These compounds can affect regulatory T cells' function through an epigenetic mechanism, namely, methylation of FOXP3, which increases manifestations of atopic conditions such as asthma, conjunctivitis, and rhinitis.8
+Similar to the evidence in studies regarding asthma, there is strong evidence supporting increased risk of exacerbations of chronic obstructive pulmonary disease in association with exposure to wildfire smoke.6 Some studies also support increased risk of emergency department visits and hospitalizations for acute bronchitis and pneumonia with wildfire smoke exposure, but the evidence is mixed.6
+In addition, there are other potential allergic and immunologic effects of wildfire smoke that are less well described. Increased health care utilization for symptoms of atopic dermatitis secondary to wildfire smoke exposure has been reported.9 This is consistent with evidence from studies of nonwildfire PM2.5 indicating that exposure increases the risk of atopic dermatitis.
+Because exposure to high levels of wildfire smoke is usually short-term and episodic, little is known about recurrent exposures, even though catastrophic fires will increase for the foreseeable future, making recurrent exposures likely. On the basis of studies of long-term exposures to nonwildfire PM2.5, the potential health impacts of recurrent exposures to high levels of wildfire-specific PM2.5 are of concern, especially for young children and during gestation.10 Evidence from studies of human exposures to nonwildfire PM2.5 and animal exposures to wildfire-specific PM2.5 suggest that abnormal development of immune function, slowed growth of lung function, and new-onset asthma are possible outcomes of wildfire-specific PM2.5 exposure, For example, a study of rhesus monkeys exposed to ambient wildfire smoke during infancy reported altered immune function and decreased growth of lung function in adolescence.4
+As we have already noted, young children, who have developing organ systems, are likely at increased risk for adverse allergic and immunologic effects of wildfire smoke. Children and adults with asthma and other preexisting respiratory or atopic conditions are at risk for exacerbations. Outdoor workers are vulnerable because of increased duration of exposure and increased minute ventilation during exertion. It is also imperative to note that extreme heat is often present during episodes of poor air quality owing to wildfire smoke; the combined impacts of heat and wildfire smoke increase the risk of adverse health outcomes.
+People from low-income communities of color have increased vulnerability to health effects of wildfire smoke exposure from the cumulative impacts of structural determinants of health, including poverty, racial/ethnic discrimination, poor-quality housing, lack of access to health care, food insecurity, and dirty jobs requiring work outside.3,6,10 These factors increase both susceptibility to adverse health outcomes and exposure to wildfire smoke.
+Protecting our patients
+To prevent adverse health effects of wildfire smoke, especially in vulnerable patients, it is wise to take preemptive steps to make homes more resilient to exposure, especially in wildfire-prone areas (Fig 1). These include creating a clean air space in the home by installing a minimum efficiency reporting value (MERV) 13 filter in a central ventilation system and/or using portable high-efficiency particulate air (HEPA) filtration devices or “air cleaners” (ie, those that contain a mechanical HEPA filter rather than an ionizer). Although some commercial HEPA air cleaners are relatively inexpensive, do-it-yourself approaches (eg, a box fan with MERV 13 filters) have also been shown to be effective in the short term. If one must go outside during episodes of poor air quality owing to wildfire smoke, wearing a National Institute for Occupational Safety and Health–-certified N95 respirator (or “N95 mask”) can substantially reduce exposure,10 although further reductions in exposure would be possible in the future if a respirator were designed and regulated for use by the general public. Avoiding exercise and heavy exertion outdoors will also reduce exposure. Those with asthma should be sure to have medications on hand during wildfire season and talk to their health care provider about including wildfire smoke and other air pollution events in their asthma action plan.
+Figure thumbnail gr1
+Fig 1Tips to protect people with asthma and allergies from wildfire smoke. An infographic developed by the Western States Pediatric Environmental Health Specialty Unit.
+View Large ImageDownload Hi-res imageDownload (PPT)
+Efforts to tackle the climate crisis and improve forest management are urgently needed to reduce the risk of wildfires. Clinicians are uniquely poised to advocate for such efforts to minimize these adverse health effects for our patients.
+Disclosure statement
+Disclosure of potential conflict of interest: The authors declare that they have no relevant conflicts of interest.
+References
+Spreading like wildfire: the rising threat of extraordinary landscape fires. UN Environment Programme.
+(Available at:)
+http://www.unep.org/resources/report/spreading-wildfire-rising-threat-extraordinary-landscape-fires
+Date: 2022
+Date accessed: July 22, 2023
+View in Article 
+Google Scholar
+Jaffe D.A.
+O'Neill S.M.
+Larkin N.K.
+Holder A.L.
+Peterson D.L.
+Halofsky J.E.
+et al.
+Wildfire and prescribed burning impacts on air quality in the United States.
+J Air Waste Manag Assoc. 2020; 70: 583-615
+View in Article 
+Scopus (135)
+PubMed
+Crossref
+Google Scholar
+Bhatia A.
+Katz J.
+Sanger-Katz M.
+Just how bad is the pollution in New York? New York Times June 9, 2023.
+(Available at:)
+https://www.nytimes.com/interactive/2023/06/08/upshot/new-york-city-smoke.html
+Date accessed: July 19, 2023
+View in Article 
+Google Scholar
+Noah T.L.
+Worden C.P.
+Rebuli M.E.
+Jaspers I.
+The effects of wildfire smoke on asthma and allergy.
+Curr Allergy Asthma Rep. 2023; 23: 375-387
+View in Article 
+Scopus (7)
+PubMed
+Crossref
+Google Scholar
+D’Amato G.
+Holgate S.T.
+Pawankar R.
+Ledford D.K.
+Cecchi L.
+Al-Ahmad M.
+et al.
+Meteorological conditions, climate change, new emerging factors, and asthma and related allergic disorders. A statement of the World Allergy Organization.
+World Allergy Organ J. 2015; 8: 25
+View in Article 
+Scopus (357)
+PubMed
+Abstract
+Full Text
+Full Text PDF
+Google Scholar
+Reid C.E.
+Maestas M.M.
+Wildfire smoke exposure under climate change: impact on respiratory health of affected communities.
+Curr Opin Pulm Med. 2019; 25: 179-187
+View in Article 
+Scopus (65)
+PubMed
+Crossref
+Google Scholar
+Aguilera R.
+Corringham T.
+Gershuno A.
+Leibel S.
+Benmarhnia T.
+Fine particles in wildfire smoke and pediatric respiratory health in California.
+Pediatrics. 2021; 147e2020027128
+View in Article 
+Scopus (39)
+PubMed
+Crossref
+Google Scholar
+Hew K.M.
+Walker A.I.
+Kohli A.
+Garcia M.
+Syed A.
+McDonald-Hyman C.
+et al.
+Childhood exposure to ambient polycyclic aromatic hydrocarbons is linked to epigenetic modifications and impaired systemic immunity in T cells.
+Clin Exp Allergy. 2015; 45: 238-248
+View in Article 
+Scopus (106)
+PubMed
+Crossref
+Google Scholar
+Fadadu R.P.
+Grimes B.
+Jewell N.P.
+Vargo J.
+Young A.T.
+Abuabara K.
+et al.
+Association of wildfire air pollution and health care use for atopic dermatitis and itch.
+JAMA Dermatol. 2021; 157: 658-666
+View in Article 
+Scopus (54)
+PubMed
+Crossref
+Google Scholar
+Holm S.M.
+Miller M.D.
+Balmes J.R.
+Health effects of wildfire smoke in children and public health tools: a narrative review.
+J Expo Sci Environ Epidemiol. 2021; 31: 1-20
+View in Article 
+Scopus (81)
+PubMed
+Crossref
+Google Scholar
+Article info
+Publication history
+Published online: September 20, 2023
+Accepted: September 15, 2023
+Received in revised form: September 15, 2023
+Received: July 28, 2023
+Identification
+DOI: https://doi.org/10.1016/j.jaci.2023.09.008
+
+Copyright
+© 2023 American Academy of Allergy, Asthma & Immunology
+ScienceDirect
+Access this article on ScienceDirect
+Figures
+Figure thumbnail gr1
+Fig 1Tips to protect people with asthma and allergies from wildfire smoke. An infographic developed by the Western States Pediatric Environmental Health Specialty Unit.
+Related Articles
+View Abstract
+Home
+Access for Developing Countries
+ARTICLES & ISSUES
+Articles in Press
+Current IssueE
+List of Issues
+Supplements
+Program and Abstracts of Papers
+Cover Gallery
+COLLECTIONS
+All Collections
+Shared Science
+Online CME
+FOR AUTHORS
+About Open Access
+Graphical Abstract Guidelines
+Instructions for Authors
+Permission to Reuse
+Researcher Academy
+Submit Your Manuscript
+Information for Reviewers
+ABOUT JACI
+About JACI
+Access to JACI
+About Open Access
+Contact Us
+Diversity, Equity, and Inclusion Initiatives
+Editorial Board
+Information for Advertisers
+Sign up for eAlerts
+AAAAI
+AAAAI Information
+AAAAI Website
+AAAAI News
+Become a Member
+Submit Manuscript
+FOLLOW US
+Facebook
+Twitter
+The content on this site is intended for healthcare professionals.
+
+
+We use cookies to help provide and enhance our service and tailor content. To update your cookie settings, please visit the Cookie settings | Your Privacy Choices for this site.
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors.
+All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+For all open access content, the Creative Commons licensing terms apply.
+
+Privacy Policy   Terms and Conditions   Accessibility   Help & Contact
+
+RELX
+

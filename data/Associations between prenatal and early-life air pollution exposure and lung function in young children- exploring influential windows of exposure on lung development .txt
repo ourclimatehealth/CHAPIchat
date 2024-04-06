@@ -1,0 +1,248 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of nihpa
+Environ Res. Author manuscript; available in PMC 2024 Apr 1.Published in final edited form as:Environ Res. 2023 Apr 1; 222: 115415. Published online 2023 Feb 3. doi: 10.1016/j.envres.2023.115415
+PMCID: PMC9974878NIHMSID: NIHMS1872729PMID: 36738772
+Associations between prenatal and early-life air pollution exposure and lung function in young children: exploring influential windows of exposure on lung development
+Andreas M Neophytou,*,a Liza Lutzker,b Kristen M Good,a,c Jennifer K Mann,b Elizabeth M Noth,b Stephanie M Holm,b,d Sadie Costello,b Tim Tyner,e,f Kari C. Nadeau,g,h Ellen A Eisen,b Fred Lurmann,i S Katharine Hammond,b and John R Balmesb,e
+Author information Copyright and License information PMC Disclaimer
+The publisher's final edited version of this article is available at Environ Res
+Associated Data
+Supplementary Materials
+Data Availability Statement
+Go to:
+Abstract
+Background:
+Evidence in the literature suggests that air pollution exposures experienced prenatally and early in life can be detrimental to normal lung development, however the specific timing of critical windows during development is not fully understood.
+
+Objectives:
+We evaluated air pollution exposures during the prenatal and early-life period in association with lung function at ages 6–9, in an effort to identify potentially influential windows of exposure for lung development.
+
+Methods:
+Our study population consisted of 222 children aged 6–9 from the Fresno-Clovis metro area in California with spirometry data collected between May 2015 and May 2017. We used distributed-lag non-linear models to flexibly model the exposure-lag-response for monthly average exposure to fine particulate matter (PM2.5) and ozone (O3) during the prenatal months and first three years of life in association with forced vital capacity (FVC), and forced expiratory volume in the first second (FEV1), adjusted for covariates.
+
+Results:
+PM2.5 exposure during the prenatal period and the first 3-years of life was associated with lower FVC and FEV1 assessed at ages 6–9. Specifically, an increase from the 5th percentile of the observed monthly average exposure (7.55 μg/m3) to the median observed exposure (12.69 μg/m3) for the duration of the window was associated with 0.42 L lower FVC (95% confidence interval (CI): −0.82, −0.03) and 0.38 L lower FEV1 (95% CI: −0.75, −0.02). The shape of the lag-response indicated that the second half of pregnancy may be a particularly influential window of exposure. Associations for ozone were not as strong and typically CIs included the null.
+
+Conclusions:
+Our findings indicate that prenatal and early-life exposures to PM2.5 are associated with decreased lung function later in childhood. Exposures during the latter months of pregnancy may be especially influential.
+
+Keywords: air pollution, lung function, influential windows of exposure, distributed lag-models
+Go to:
+1. Introduction
+Exposure to air pollution has been shown to be associated with adverse respiratory health outcomes in children including decreased lung function (Schultz et al., 2017). Several studies have reported associations of exposures occurring early in life, as well as prenatal exposures, with wheeze, asthma, and adverse lung function outcomes in childhood (Bose et al., 2018; Cai et al., 2020; Hsu et al., 2015; Jedrychowski et al., 2010; Khreis et al., 2017; Nishimura et al., 2013).
+
+Adverse effects on children’s lung function have been linked to exposures occurring throughout the lifetime (Rice et al., 2016), but with lung development progressing at the most rapid rate in-utero, during infancy and in early life, these periods can be of potentially greatest concern. Recent studies using flexible approaches for the lag-response have linked prenatal exposures to air pollutants, including ultrafine particles, particulate matter with diameter ≤2.5 μm (PM2.5), and nitrates, to asthma onset (Bose et al., 2018; Hsu et al., 2015; Wright et al., 2021). Exposures to particulate matter with diameter ≤10 μm (PM10), PM2.5, and nitrogen dioxide (NO2) during the prenatal and early-life windows have also been linked to lower lung function in children at later ages (Cai et al., 2020; Lee et al., 2018; Morales et al., 2015); however, these separate windows have not always been explored together, or in some cases were based on methods that required strong a priori assumptions about the timing of exposure. There remains considerable uncertainty on critical windows of exposure occurring prenatally and early in childhood for the respiratory effects of air pollution (Rice and Mein, 2020).
+
+In the current study, we seek to explore associations between prenatal and early-life exposure to PM2.5 and ozone (O3) and spirometry-based lung function parameters, using flexible distributed-lag models for the exposure-lag response considering prenatal and early life exposures in the same window. We explore these associations in a population experiencing relatively high exposures and potentially more vulnerable due to socioeconomic indicators.
+
+Go to:
+1. Methods
+2.1. Study population
+The study population is described in greater detail elsewhere (Mann et al., 2021). Briefly, children aged 6–8 and enrolled in the Fresno Unified School district (FUSD) were recruited through a partnership with the FUSD. In order to ensure heterogeneity of traffic-related air pollution exposure among study participants, K-6 schools from the FUSD were randomly sampled across traffic density strata based on California Department of Transportation (Caltrans) Annual Average Daily Traffic volumes (Margolis et al., 2009). Children ages 6 to 8 in the selected schools were sent home with flyers containing information about the study. Interested parents contacted the study center to assess their child’s eligibility. Eligibility was determined based on the following criteria: age 6–8 at time of recruitment, residence in Fresno or Clovis for at least the past 3 months, residence within 20 km of the central air quality monitoring site, no plans to move from the Fresno/Clovis area in the next 2 years, English- or Spanish-speaking, and no cancer, HIV, or autoimmune disease. All study protocols were approved by the Institutional Review Boards at the University of California, Berkeley, the University of California, San Francisco-Fresno (UCSF Fresno), and Stanford University. Written, informed permission was obtained from each accompanying parent or guardian and written child assent for participation was also obtained.
+
+Eligible participants were invited for an on-site interview and assessment at the study center between May 2015 and May 2017. Participants’ parents or guardians were interviewed using a detailed, structured health and general history questionnaire, and anthropometric and blood pressure measurements and non-fasting blood and urine samples were taken from each child. Information on child’s demographics (age, sex, race/ethnicity), as well as parental socioeconomic indicators such as maternal education level and household income, was collected.
+
+2.2. Exposure assessment
+Exposure to PM2.5 and O3 was assessed based on air pollution measurements obtained from the US Environmental Protection Agency’s (US EPA) Air Quality System (AQS). Daily average particulate matter under (PM2.5) and 8-hour ozone (O3) were interpolated using inverse distance-squared weighting(Li and Heap, 2011) on the individual level based on each participant’s residential history. Monthly average exposure values were then estimated for the lifetime of each participant, beginning a year prior to birth and up to the month when lung function measurements were taken, based on daily average (PM2.5) and 8-hour (O3) concentrations from this period. Data from up to four air quality measurement stations were included in each interpolation using a maximum interpolation radius of 50 km. However, when a residence was located within 0.25 km of one or more stations with valid observations the exposure values was based solely on the concentrations from the stations within 0.25 km. Missing values were assigned for months were less than 75% days had data availability, or when information on residential history did not include the month in question. Less than 2% of all person-months of exposure was missing across all participants. Participant date of birth was used to differentiate between prenatal and postnatal exposures. The 9 months immediately preceding date of birth were assessed as the prenatal window of exposure and the 36 months immediately after participant’s date of birth were assessed as the early childhood exposure window.
+
+2.3. Lung function assessment
+Lung function parameters were assessed based on spirometry tests performed using EasyOne spirometers (Medical Technologies, Chelmsford, MA, USA) during each participant’s on-site visit. In accordance with the American Thoracic Society (ATS) guidelines (American Thoracic Society, 1995), each participant was asked to complete three spirometry efforts (from a maximum of eight) deemed as acceptable by the EasyOne software. Subsequently, each of these three efforts was graded by a pulmonologist (JRB) to assess quality and reproducibility, primarily according to the criteria outlined in Enright et al. (Enright et al., 2000), with the modification that we considered acceptable any effort with an Forced Expiratory Time (FET) ≥1 second, (in line with the 2019 update to the ATS/European Respiratory Society spirometry standards (Graham et al., 2019)), which eliminated the requirement for a minimum FET). Lung function was assessed both pre- and post-bronchodilator administration. The current study made use of only baseline pre-bronchodilator spirometry measures of forced vital capacity (FVC) and forced expiratory volume in one second (FEV1), as well as the FEV1/FVC ratio. For each pre-bronchodilator session, if the pulmonologist found that there were two or more efforts with good quality and reproducible FEV1 and FVC, the best FEV1 and best FVC were used. If the pulmonologist found that two or more efforts had good quality and reproducible FEV1, but unacceptable FVC, only the best FEV1 was used and FVC was set to missing. Of the 299 participants, 222 were deemed to have acceptable pre-bronchodilator sessions and of those, 17 had only acceptable FEV1 measures with the rest having acceptable measures of both FEV1 and FVC.
+
+2.4. Statistical Analyses
+We assessed the relationship between exposure to PM2.5 and O3 and lung function parameters using DLNMs (Gasparrini, 2014). Models were fit for exposures in the period including prenatal months and the first three years of life (45 months total) in separate models for each combination of pollutants (PM2.5 and O3) and outcomes (FVC, FEV1 and FEV1/FVC). Models were fitted as linear models with a cross-basis function (Armstrong, 2006; Gasparrini, 2014) for the exposure using natural cubic splines for both the exposure-response and lag-response. Models were also adjusted for child age in months (linear term), natural splines for child’s height and calendar time at the time of lung function assessment, as well as indicator/categorical variables for sex, child race/ethnicity, family income, maternal education levels, and an indicator for whether the child lived with a smoker. Race/ethnicity was considered because environmental racism and structural healthcare inequities both vary by race/ethnicity, thus creating the potential for confounding bias.
+
+In all models, the cross-basis function was defined using natural splines for both the exposure-response (3 degrees of freedom with knot placement placed equally based on the log-transformed range of exposure) and the lag-response (knots based on log-transformed 45-month range). As sensitivity analyses, we also considered b-splines for the exposure-response and lag-response relationships in the cross-basis functions, as well as including a term for average exposure over the rest of childhood (years 4–9 depending on child’s age at outcome assessment) in the model. To account for potential exposure misclassification due to lack of information on duration of gestation we repeated analysis with only the 8 months immediately preceding participant’s date of birth representing the prenatal window of exposure, thus reversing the potential for measurement error from shorter duration of gestation to longer.
+
+Go to:
+2. Results
+Sociodemographic characteristics for the 222 participants with eligible outcome data are summarized in Table 1. Briefly, 82% of participants were Hispanic/Latinx and approximately 47% were female. Mean age of participants was 96.2 months (8.0 years; standard deviation (sd)=6.6 months). The 77 participants from the original cohort of 299 without eligible outcome data excluded that were from the analyses, were somewhat younger on average (mean age 93.8 months; sd=8.8) but otherwise appeared comparable to the analytical sample (supplemental Table S1). Median FVC was 1.73 L (IQR: 1.55 – 1.97). Median FEV1 was 1.53 L (IQR: 1.34 – 1.72).
+
+Table 1:
+Demographic characteristics for a sample of children aged 6–9 in the Fresno area sampled in 2015–2017 (n=222).
+
+Characteristic	N (%)
+Female	104 (46.8)
+Race/ethnicity	
+ White	7 (3.1)
+ Black	27 (12.2)
+ Hispanic	182 (82.0)
+ Asian/PI	6 (2.7)
+Maternal education	
+ <8th grade	19 (8.6)
+ Some high school	46 (20.7)
+ High school/GED	41 (18.5)
+ Some college	72 (32.4)
+ College grad.	32 (14.4)
+ Advanced degree	11 (5.0)
+Family income	
+ <$15k	60 (27.0)
+ >$15k – ≤$30k	87 (39.2)
+ >$30k – ≤$50k	39 (17.6)
+ >$50k – ≤$75k	22 (9.9)
+ >$75k – ≤$100k	9 (4.1)
+ >$100k	3 (1.4)
+ Living with smoker	52 (24.3)
+Open in a separate window
+The mean average monthly PM2.5 exposure for the prenatal and first 3 years of life period across participants was 16.70 μg/m3 (sd=9.46), with a median value of 12.69 μg/m3 (IQR: 9.82 – 21.53). The mean O3 was 47.06 ppb (sd=18.32) with a median value of 48.67 ppb (IQR: 30.34 – 62.78). Average prenatal (9-months prior to date of birth) and early childhood exposures (36 months after date of birth) were moderately correlated on the individual level (Pearson correlation coefficient ρ=0.40).
+
+Results from DLNMs indicate that PM2.5 exposure during the prenatal and early-life window is associated with overall lower FVC (Figure 1) and FEV1 (Figure 2). Specifically, an increase from 7.55 μg/m3 (the 5th percentile of the observed average monthly exposure distribution) to 12.69 μg/m3 (corresponding to the median of the observed exposure distribution) for the duration of the exposure window was associated with 0.42 L lower FVC (95% confidence interval (CI): 0.83, −0.03) and 0. L lower FEV1 (95% CI: −0.75, −0.02). Those reductions are equivalent to 24% and 25% of the observed average FVC and FEV1 values in the population respectively. The shape of the dose-response for exposure and FVC (Figure 1) appears to indicate a negative association for the range between the lowest observed (3.69 μg/m3) and approximately 10 μg/m3, followed by a relative plateauing of the association before a further decline associated with higher exposures (> 30 μg/m3). The shape of the dose-response for FEV1 was similar (Figure 2). The same increase from 7.55 μg/m3 to 12.69 μg/m3 for the duration of the exposure window was not observed to be associated with any change in the FEV1/FVC ratio (0.0% change (95% CI: −11.2%, 11.2%)).
+
+An external file that holds a picture, illustration, etc.
+Object name is nihms-1872729-f0001.jpg
+Figure 1:
+Exposure-response corresponding to the cumulative effect of PM2.5 exposure during the prenatal months and first 3 years of life for FVC. The exposure-response is centered so that the null corresponds to the lowest observed exposure (3.69 μg/m3), while the boxplot at the bottom of the figure corresponds to the monthly average exposure distribution for the window of interest across participants.
+
+An external file that holds a picture, illustration, etc.
+Object name is nihms-1872729-f0002.jpg
+Figure 2:
+Exposure-response corresponding to the cumulative effect of PM2.5 exposure during the prenatal months and first 3 years of life for FEV1. The exposure-response is centered so that the null corresponds to the lowest observed exposure (3.69 μg/m3), while the boxplot at the bottom of the figure corresponds to the monthly average exposure distribution for the window of interest across participants.
+
+Based on the shape of the lag-response, while associations were negative for almost the entire window examined, the strongest associations between exposure to PM2.5 and lower FVC were observed between the fourth to ninth month of pregnancy (Figure 3). An increase in exposure from 7.55 μg/m3 to the median observed exposure of 12.69 μg/m3 for each of the 7th to 9th months of pregnancy alone (corresponding to the last trimester of pregnancy), while maintaining exposure for the rest of the 45-month window constant, was associated with 0.10 L lower FVC (95% CI: −0.21, 0.00). Results for FEV1 indicated a similar shape for the lag-response with the highest effect estimates observed during months corresponding to the second half of pregnancy (Supplemental Figure S1).
+
+An external file that holds a picture, illustration, etc.
+Object name is nihms-1872729-f0003.jpg
+Figure 3:
+Lag-response for the effect on FVC of monthly average exposure to PM2.5 set at 10 μg/m3 compared to the lowest observed exposure (3.69 μg/m3) for each month in the exposure window of interest. The x-axis represents month of exposure with zero corresponding to the first month of pregnancy.
+
+More details of the lag-response and exposure-response portion of the function for FVC and FEV1 are depicted in Supplemental Figures S2 and S3, respectively. Associations corresponding to the entire lag-window and separately for prenatal and postnatal exposures for both FVC and FEV1 are summarized in supplemental Table S2. Associations were more pronounced for the prenatal window, though all CIs included the null. Associations between O3 exposure and lung function were smaller in magnitude for the overall window and CIs included the null (Supplemental Figures S4–S5). The lag-response for O3 again pointed to the latter prenatal period as a potential influential window of exposure, though CIs were wide and included the null for the duration of the exposure window (Supplemental Figure S6). An increase in exposure from the 5th percentile of the observed exposure distribution (17.94 ppb) to the median of the observed (48.67 ppb) during the last trimester of pregnancy, while holding exposure for the rest of the window constant was associated with 0.17 L lower FVC (95 CI: −0.44, 0.09).
+
+Results from sensitivity analyses using b-splines for the exposure and lag-response functions were very similar, as were results from models including an additional term for average exposure from year 4 to outcome assessment, and models only including the 8 months immediately preceding birth as the prenatal window of exposure (supplemental Table S3).
+
+Go to:
+3. Discussion
+We observed associations between prenatal PM2.5 exposures and lower lung function, specifically lower FVC, as well as associations between PM2.5 exposures during the most recent month of exposure and lung function. The magnitude of observed associations was greater for the prenatal period suggesting a potentially influential window of exposure for lung development. Specifically, the lag-response for the PM2.5-lung function relationships suggested that exposures during the latter two trimesters of pregnancy appeared to be the time windows more strongly associated with lower FVC and similarly with lower FEV1 assessed at ages 6–9 years.
+
+Following the embryonic stage where organogenesis and the formation of trachea and bronchi take place, fetal lung development includes the formation of the smaller airways of the bronchial tree (formed by 16 weeks of gestation), followed by formation of primitive alveoli and synthesis of surfactant with alveolar saccules being formed beginning at approximately 27–28 weeks of gestation (Kajekar, 2007), while alveolar division is continuous in infancy and early childhood with the majority of division completed by ages 2–3 years. The flexible nature of handling the exposure-lag-response with DLNMs that cover this entire period of rapid lung growth allowed us to explore exposure effects over a prolonged time period, and explore for potentially influential windows of exposure. A better understanding of such windows may also shed light on the potential mechanisms by which air pollution exposures exert their effects. Our results are consistent with potential effects of air pollution beginning early in the second trimester and persisting through the end of pregnancy, spanning the saccular and beginning of alveolar phase of lung development (Kajekar, 2007).
+
+Our study focused on exposures during the prenatal and early childhood period. Exposures experienced in utero are believed to exert potential effects through maternal systemic responses. Maternal inhalation of air pollutants potentially induces inflammatory and oxidative stress responses which could in turn lead to an inflammatory response in the fetus. Extremely fine particles are also thought to potentially cross the placental barrier (Laine et al., 2020). Postnatal exposures, though directly inhaled by the developing child, are thought to exert effects through similar inflammatory and oxidative stress mechanisms (To et al., 2020).
+
+The lung function outcome was assessed later in childhood, indicating that potentially detrimental effects of exposures during the prenatal window may persist later in life. Some evidence in the literature suggests that reduction in air pollution and lower exposures experienced later in life may actually result in improvement in lung function overall and ‘catch-up’ of lung function trajectories (Gauderman et al., 2015). This type of improvement and ‘catch-up’ in lung function was originally believed to be due to improved alveolar growth rather than increase in number, as it was thought that alveolarization is primarily completed by ages 2–3 years. However, evidence shows that alveolarization may in fact continue throughout childhood (Jobe, 2013; Merkus, 2016; Narayanan et al., 2012), indicating the possibility for increase in lung function later in childhood. Nevertheless, the extent to which detrimental effects on lung function owed to prenatal and early-life exposures are reversible later in life is not known especially if these effects occur prior to the alveolar phase of development.
+
+Results from the current study are comparable in magnitude with previous findings reporting associations between lower FVC and FEV1 in children aged 7 years and PM2.5 exposure during the last weeks of pregnancy (Lee et al., 2018). Our study was not sufficiently powered to examine exposure at the week-level resolution, but we also identified the latter part of pregnancy as a potentially influential window. Furthermore, we were able to examine a larger window that included the first 3 years of life and showed stronger cumulative effects of exposures over this entire window.
+
+Our findings were almost symmetric in terms of associations with both FEV1 and FVC, with a corresponding lack of association with the FEV1/FVC ratio. This is consistent with either evidence of overall reduced lung growth or dysynaptic lung growth where small airway growth may not keep pace with alveolar growth. Although dysynaptic growth is a normal physiologic phenomenon, early life environmental exposures (e.g., secondhand tobacco smoke and air pollution) have been associated with increased dysynaptic growth(Fayon and Beaufils, 2021; Trager et al., 2005) and it has been lined to risk of chronic obstructive pulmonary disease later in life(Smith et al., 2020).
+
+While we observed strong associations between PM2.5 exposures during this window and lung function later in childhood, evidence of an association between O3 exposure and the outcome was less conclusive. While O3 has been linked with adverse lung function outcomes especially in children, studies flexibly modelling the exposure-lag-response for O3 seem to be lacking in the literature (Holm and Balmes, 2022).
+
+The study has several strengths, including the rich exposure data on an individual level allowing for assessment of relevant time windows, particularly in prenatal and early life periods relevant to lung development. The DLNM approach allowed us to flexibly model prolonged exposure without the strict assumptions behind using average exposures that fail to take into account the cumulative and time-varying nature of exposure or a priori defined windows such as trimester-specific exposures which if examined separately may lead to bias (Wilson et al., 2017). It allows for the estimation of a cumulative effect of the same environmental exposure and potential intervention variable while at the same time allowing the exposure to have a different effect during different times, for example prenatal compared to postnatal exposures. The study population was also exposed to levels of air pollution that are higher than typical in the U.S. and not always in accordance with US EPA standards. The mean observed concentration of 16.7 μg/m3 for PM2.5 for the duration of the exposure window across participants was higher that the US EPA’s primary National Ambient Air Quality Standard for average annual exposure of 12 μg/m3 (USEPA, 2012). The population in question is also characterized by minority race/ethnicity, lower socioeconomic indicators and a high rate of poverty (Table 1; (Mann et al., 2021). These characteristics may lead to a more vulnerable population with a higher burden of exposure potentially leading to higher burdens of adverse health outcomes. It should be noted that the prenatal period in several of the participants overlapped or at least partially overlapped with a particularly active wildfire season for California and in particular the Central Valley in 2008, resulting in higher concentrations of PM (Wegesser et al., 2009). The exposure-response curves estimated in this study, however, indicated that potential effects exist even at lower ranges of exposure.
+
+Measurement error with respect to the exposure through the prediction of individual level exposures and outcome is possible, however, this is expected to be mostly non-differential and likely lead to bias towards the null and/or inflation of confidence intervals. One possible source of differential measurement error has to do with the lack of information of duration of gestation, thus resulting in the inclusion of time in the earlier part of the prenatal window of exposure that was not actually spent in utero for participants with shorter gestational periods. As duration of gestation is also linked to the outcome, this type of error could be differential, however sensitivity analysis focusing on a shorter window of prenatal exposures did not lead to major changes in our findings.
+
+The cross-sectional nature of our data results in limitations, as the outcome and covariates were only assessed at one point in time. A longitudinal design with repeated outcome measures would be valuable to assess potential effects beginning earlier in life and establish trajectories of lung development with potential exposure effects at different points in time. We lacked the power to examine exposures throughout the lifetime in the same degree of flexibility, as a prolonged lag window would have required a more richly parameterized cross-basis function in order to examine potentially influential windows with the same degree of flexibility. Our results regarding the prenatal months and first 3 years of life, however, were robust to inclusion of average exposures for the rest of the lifetime, and represent a window corresponding to the timing of where most lung development up to and including most of alveolarization occurs. The study was also underpowered to detect associations of smaller magnitudes which may exist at different lags: the point estimates for individual months were below the null for PM2.5 exposure for the greater majority of the window considered, however confidence intervals included the null other than for a select prenatal period. We did not consider both pollutants in the same model, as the data lacked the power to support the analysis of two cross-basis functions together. Recent applications of Bayesian additive regression trees have enabled the use of distributed-lag frameworks with exposure mixtures and should be considered in future applications with more power. (Mork and Wilson, 2021) The same method could also address one limitation of the current DLNM approach, which assumes a smooth lag-response function when this may not in fact be the case, especially around birth and the changes in terms of the exposure experienced in utero as opposed to a directly inhaled exposure.
+
+Go to:
+4. Conclusion
+In summary, our findings are consistent with a detrimental effect of higher air pollution exposures experienced prenatally and early in life with respect to lung function later in childhood. The flexible modelling of the lag-response function for the prolonged exposures experienced over a long window indicated that the latter two trimesters of pregnancy maybe an especially influential window of exposure, though when looking at point estimates reductions in lung function were seen for almost the entire window considered. These results reinforce the notion that prenatal and early-life periods represent vulnerable stages for potential effects of air pollution on respiratory development and health in children.
+
+Go to:
+Data availability:
+Raw data were generated at UC Berkeley School of Public Health. Derived CHAPS study data are available on request from Dr. John Balmes (ude.yelekreb@semlabj). Once a data request is submitted and approved, the CHAPS Data Manager will arrange for data access through the CHAPS secure data server. The data are not publicly available due to their containing information that could compromise the privacy of the CHAPS research participants.
+
+​
+Highlights
+Prenatal and early life exposure to particulates was related to lower lung function in children
+The second half of pregnancy may be an especially influential window of exposure
+Participants were children aged 6–9, predominantly of color and low-income
+Observed exposures were relatively high
+Go to:
+Supplementary Material
+1
+Click here to view.(77K, docx)
+Go to:
+Funding:
+This work was supported by the National Institutes of Environmental Health Sciences [grant numbers: NIEHS R00 ES027511, NIEHS R24 ES03088, NIEHS P01ES022849] and by the US Environmental Protection Agency [grant number: EPAR834596]
+
+Declaration of interests
+Andreas Neophytou reports financial support was provided by National Institute of Environmental Health Sciences. John R. Balmes, Liza Lutzker, Stephanie Holm, Elizabeth M. Noth, Sadie Costello, Tim Tyner, Ellen Eisen, Kari C. Nadeau, S Katharine Hammond reports financial support was provided by National Institute of Environmental Health Sciences. John R. Balmes reports a relationship with California Air Resources Board that includes: board membership.
+
+Go to:
+Abbreviations:
+ATS	American Thoracic Society
+CI	confidence interval
+DLNM	distributed-lag non-linear model
+FEV1	forced expiratory volume in the first second
+FUSD	Fresno unified school district
+FVC	forced vital capacity
+NO2	nitrogen dioxide
+O3	ozone
+PM	particulate matter
+PM2.5	particulate matter with diameter ≤2.5 μm
+US EPA	US Environmental Protection Agency
+Go to:
+Footnotes
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+CRediT authorship contribution statement
+
+AMN: Conceptualization, Data curation, Formal analysis, Funding acquisition, Methodology, Writing - original draft; LL: Data curation, Investigation, Project administration, Validation; Writing – review and editing; KMG: Data curation, Formal analysis, Writing – review and editing; JKM: Investigation, Project administration, Validation; EMN: Data curation, Methodology, Investigation, Validation, Writing – review and editing; SMH: Methodology, Investigation, Writing – review and editing; SC: Methodology, Investigation, Writing – review and editing; TT: Project administration, Investigation, Validation; KCN: Funding acquisition, Investigation, Writing – review and editing; EE: Methodology, Investigation, Writing – review and editing; SKH: Funding acquisition, Methodology, Investigation, Writing – review and editing; JRB: Funding acquisition, Methodology, Investigation, Writing – review and editing.
+
+Declaration of competing interest
+
+The authors declare no conflicts of interest
+
+Go to:
+References
+American Thoracic Society, 1995. Standardization of Spirometry, 1994 Update. American Thoracic Society. Am J Respir Crit Care Med 152, 1107–1136. 10.1164/ajrccm.152.3.7663792 [PubMed] [CrossRef] [Google Scholar]
+Armstrong B, 2006. Models for the Relationship between Ambient Temperature and Daily Mortality. Epidemiology 17, 624–631. [PubMed] [Google Scholar]
+Bose S, Rosa MJ, Mathilda Chiu YH, Leon Hsu HH, Di Q, Lee A, Kloog I, Wilson A, Schwartz J, Wright RO, Morgan WJ, Coull BA, Wright RJ, 2018. Prenatal nitrate air pollution exposure and reduced child lung function: Timing and fetal sex effects. Environ. Res 167, 591–597. 10.1016/j.envres.2018.08.019 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Cai Y, Hansell AL, Granell R, Blangiardo M, Zottoli M, Fecht D, Gulliver J, Henderson AJ, Elliott P, 2020. Prenatal, Early-Life, and Childhood Exposure to Air Pollution and Lung Function: The ALSPAC Cohort. Am. J. Respir. Crit. Care Med 202, 112–123. 10.1164/rccm.201902-0286OC [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Enright PL, Linn WS, Avol EL, Margolis HG, Gong H, Peters JM, 2000. Quality of Spirometry Test Performance in Children and Adolescents. Chest 118, 665–671. 10.1378/chest.118.3.665. [PubMed] [CrossRef] [Google Scholar]
+Fayon M, Beaufils F, 2021. The lower respiratory airway wall in children in health and disease. ERJ Open Res 7, 0874–2020. 10.1183/23120541.00874-2020 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Gasparrini A, 2014. Modeling exposure-lag-response associations with distributed lag non-linear models. Stat. Med 33, 881–899. 10.1002/sim.5963 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Gauderman WJ, Urman R, Avol E, Berhane K, McConnel R, Rappaport E, Chang R, Lurmann F, Gilliland F, 2015. Association of Improved Air Quality with Lung Development in Children. N Engl J Med 372, 905–913. 10.1056/NEJMoa1414123 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Graham BL, Steenbruggen I, Miller MR, Barjaktarevic IZ, Cooper BG, Hall GL, Hallstrand TS, Kaminsky DA, McCarthy K, McCormack MC, Oropez CE, M. R, Stanojevic S, Swanney MP, Thompson BR, 2019. Standardization of Spirometry 2019 Update. An Official American Thoracic Society and European Respiratory Society Technical Statement. Am. J. Respir. Crit. Care Med 200, e70–e88. 10.1164/rccm.201908-1590ST [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Holm SM, Balmes JR, 2022. Systematic Review of Ozone Effects on Human Lung Function, 2013 Through 2020. Chest 161, 190–201. 10.1016/j.chest.2021.07.2170 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Hsu HHL, Chiu YHM, Coull BA, Kloog I, Schwartz J, Lee A, Wright RO, Wright RJ, 2015. Prenatal particulate air pollution and asthma onset in urban children: Identifying sensitive windows and sex differences. Am. J. Respir. Crit. Care Med 192, 1052–1059. 10.1164/rccm.201504-0658OC [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Jedrychowski WA, Perera FP, Maugeri U, Mrozek-Budzyn D, Mroz E, KlimaszewskaRembiasz M, Flak E, Edwards S, Spengler J, Jacek R, Sowa A, 2010. Intrauterine exposure to polycyclic aromatic hydrocarbons, fine particulate matter and early wheeze. Prospective birth cohort study in 4-year olds. Pediatr. Allergy Immunol 21, 723–732. 10.1111/j.1399-3038.2010.01034.x [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Jobe AH, 2013. Good news for lung repair in preterm infants. Am. J. Respir. Crit. Care Med 187, 1043–1044. 10.1164/rccm.201303-0485ED [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Kajekar R, 2007. Environmental factors and developmental outcomes in the lung. Pharmacol. Ther 114, 129–145. 10.1016/j.pharmthera.2007.01.011 [PubMed] [CrossRef] [Google Scholar]
+Khreis H, Kelly C, Tate J, Parslow R, Lucas K, Nieuwenhuijsen M, 2017. Exposure to traffic-related air pollution and risk of development of childhood asthma: A systematic review and meta-analysis. Env. Int 100, 1–31. https://doi.org/doi: 10.1016/j.envint.2016.11.012 [PubMed] [CrossRef] [Google Scholar]
+Laine JE, Bodinier B, Robinson O, Plusquin M, Scalbert A, Keski-Rahkonen P, Robinot N, Vermeulen R, Pizzi C, Asta F, Nawrot T, Gulliver J, Chatzi L, Kogevinas M, Nieuwenhuijsen M, Sunyer J, Vrijheid M, Chadeau-Hyam M, Vineis P, 2020. Prenatal Exposure to Multiple Air Pollutants, Mediating Molecular Mechanisms, and Shifts in Birthweight. Environ. Sci. Technol 54, 14502–14513. 10.1021/acs.est.0c02657 [PubMed] [CrossRef] [Google Scholar]
+Lee AG, Le Grand B, Hsu HHL, Chiu YHM, Brennan KJ, Bose S, Rosa MJ, Brunst KJ, Kloog I, Wilson A, Schwartz J, Morgan W, Coull BA, Wright RO, Baccarelli AA, Wright RJ, 2018. Prenatal fine particulate exposure associated with reduced childhood lung function and nasal epithelia GSTP1 hypermethylation: Sex-specific effects. Respir. Res 19, 1–12. 10.1186/s12931-018-0774-3 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Li J, Heap AD, 2011. A review of comparative studies of spatial interpolation methods in environmental sciences: Performance and impact factors. Ecol. Inform 6, 228–241. 10.1016/j.ecoinf.2010.12.003 [CrossRef] [Google Scholar]
+Mann JK, Lutzker L, Holm SM, Margolis HG, Neophytou AM, Eisen EA, Costello S, Tyner T, Holland N, Tindula G, Prunicki M, Nadeau K, Noth EM, Lurmann F, Hammond SK, Balmes JR, 2021. Traffic-related air pollution is associated with glucose dysregulation, blood pressure, and oxidative stress in children. Environ. Res 195, 110870. 10.1016/j.envres.2021.110870 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Margolis HG, Mann JK, Lurmann FW, Mortimer KM, Balmes JR, Hammond SK, Trager IB, 2009. Altered pulmonary function in children with asthma associated with highway traffic near residence. Int. J. Environ. Health Res 19, 139–155. 10.1080/09603120802415792 [PubMed] [CrossRef] [Google Scholar]
+Merkus PJFM, 2016. Catch-up alveolar development into adulthood: Also in those born prematurely? Eur. Respir. J 47, 710–713. 10.1183/13993003.00005-2016 [PubMed] [CrossRef] [Google Scholar]
+Morales E, Garcia-Esteban R, De La Cruz OA, Basterrechea M, Lertxundi A, Martinez López de Dicastillo MD, Zabaleta C, Sunyer J, 2015. Intrauterine and early postnatal exposure to outdoor air pollution and lung function at preschool age. Thorax 70, 64–73. 10.1136/thoraxjnl-2014-205413 [PubMed] [CrossRef] [Google Scholar]
+Mork D, Wilson A, 2021. Estimating perinatal critical windows of susceptibility to environmental mixtures via structured Bayesian regression tree pairs. Biometrics. 10.1111/biom.13568. [PubMed] [CrossRef] [Google Scholar]
+Narayanan M, Owers-Bradley J, Beardsmore CS, Mada M, Ball I, Garipov R, Panesar KS, Kuehni CE, Spycher BD, Williams SE, Silverman M, 2012. Alveolarization continues during childhood and adolescence: new evidence from helium-3 magnetic resonance. Am. J. Respir. Crit. Care Med 185, 186–191. 10.1164/rccm.201107-1348OC [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Nishimura KK, Galanter JM, Roth LA, Oh SS, Thakur N, Nguyen EA, Thyne S, Farber HJ, Serebrisky D, Kumar R, Brigino-Buenaventura E, Davis A, LeNoir MA, Meade K, Rodriguez-Cintron W, Avila PC, Borrell LN, Bibbins-Domingo K, Rodriguez-Santana JR, Sen S, Lurmann F, Balmes JR, Burchard EG, 2013. EarlyLife air pollution and asthma risk in minority children the GALA II and SAGE II studies. Am J Respir Crit Care Med 188, 309–318. 10.1164/rccm.201302-0264OC [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Rice MB, Mein SA, 2020. Prenatal air pollution and child lung function: The impossible search for a vulnerable trimester. Am. J. Respir. Crit. Care Med 202, 15–16. 10.1164/rccm.202003-0764ED [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Rice MB, Rifas-Shiman SL, Litonjua AA, Oken E, Gillman MW, Kloog I, LuttmannGibson H, Zanobetti A, Coull BA, Schwartz J, Koutrakis P, Mittleman MA, Gold DR, 2016. Lifetime Exposure to Ambient Pollution and Lung Function in Children. Am. J. Respir. Crit. Care Med 193, 881–888. 10.1164/rccm.201506-1058OC [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Schultz ES, Litonjua AA, Melén E, 2017. Effects of Long-Term Exposure to Traffic-Related Air Pollution on Lung Function in Children. Curr. Allergy Asthma Rep 17. 10.1007/s11882-017-0709-y [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Smith BM, Kirby M, Hoffman EA, Kronmal RA, Aaron SD, Allen NB, Bertoni A, Coxson HO, Cooper C, Couper DJ, Criner G, Dransfield MT, Han MK, Hansel NN, Jacobs DR, Kaufman JD, Lin CL, Manichaikul A, Martinez FJ, Michos ED, Oelsner EC, Paine R, Watson KE, Benedetti A, Tan WC, Bourbeau J, Woodruff PG, Barr RG, 2020. Association of Dysanapsis with Chronic Obstructive Pulmonary Disease among Older Adults. JAMA - J. Am. Med. Assoc 323, 2268–2280. 10.1001/jama.2020.6918 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+To T, Zhu J, Stieb D, Gray N, Fong I, Pinault L, Jerrett M, Robichaud A, Ménard R, van Donkelaar A, Martin RV, Hystad P, Brook JR, Dell S, 2020. Early life exposure to air pollution and incidence of childhood asthma, allergic rhinitis and eczema. Eur. Respir. J 55. 10.1183/13993003.00913-2019 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Trager IB, Balmes J, Lurmann F, Ngo L, Alcorn S, Künzli N, 2005. Chronic exposure to ambient ozone and lung function in young adults. Epidemiology 16, 751–759. 10.1097/01.ede.0000183166.68809.b0 [PubMed] [CrossRef] [Google Scholar]
+U.S. Environmental Protection Agency (USEPA), 2012. National Ambient Air Quality Standards (NAAQS) [WWW Document]. URL http://www.epa.gov/air/criteria.html
+Wegesser TC, Pinkerton KE, Last JA, 2009. California Wildfires of 2008: Coarse and Fine Particulate Matter Toxicity. Environ. Health Perspect 117, 893–897. 10.1289/ehp.0800166 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Wilson A, Chiu YHM, Hsu HHL, Wright RO, Wright RJ, Coull BA, 2017. Potential for Bias When Estimating Critical Windows for Air Pollution in Children’s Health. Am. J. Epidemiol 186, 1281–1289. [PMC free article] [PubMed] [Google Scholar]
+Wright RJ, Hsu H-HL, Chiu Y-HM, Coull BA, Simon MC, Hudda N, Schwartz J, Kloog I, Durant JL, 2021. Prenatal Ambient Ultrafine Particle Exposure and Childhood Asthma in the Northeastern United States. Am. J. Respir. Crit. Care Med 204, 788–796. 10.1164/rccm.202010-3743oc [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

@@ -1,0 +1,58 @@
+Skip to Article Content
+Skip to Article Information
+Wiley Online Library
+
+RespirologyVolume 26, Issue 9 p. 830-831
+Editorial
+Free Access
+Long-term changes to lung mechanics following smoke exposure are cause for concern
+Stephanie Holm MD, PhD, MPH
+First published: 03 August 2021
+https://doi.org/10.1111/resp.14127
+See related: article
+About
+Sections
+ 
+
+Abstract
+See related article
+
+Wildfire smoke exposure is of increasing public health concern. Recent wildfire seasons, such as the 2019–2020 bushfire season in Australia1 and the 2020 fire season in the western United States,2 have seen millions of burned acres and exposed millions of people to wildfire smoke plumes, sometimes for weeks at a time. This is particularly problematic because of the known adverse health effects of exposure to wildfire smoke; there are robust associations between wildfire particulate matter (PM) and both mortality and respiratory morbidity.3 There have also been suggestions of cardiovascular effects and effects on birth outcomes.4, 5 With these wide-ranging health effects from exposure to wildfire smoke and increasing frequency of exposure, it is particularly useful to understand not only immediate health effects, but also whether there may be long-lasting effects from individual exposure events. Yet, there is a dearth of studies looking at long-term health effects resulting from fire smoke exposures.3
+
+A recent publication in Respirology by Holt et al.6 compares respiratory outcomes between residents who lived downwind of a 6-week coal mine fire in 2014 (in the town of Morwell, Victoria, Australia) and those who were not reached by the smoke plume (from the town of Sale, Victoria, Australia). The authors report that there was minimal non-fire air pollution in Morwell and Sale during and after the fire, suggesting that the primary difference in exposure between these populations was exposure to the coal mine fire. In a prior paper from the same group, it was demonstrated that there were no changes in lung function parameters between adults with asthma in the two cities, 3 years after the coal mine fire.7 In this paper,6 an analysis of all the adults who had respiratory assessments demonstrated a difference in lung mechanics, as measured by forced oscillation, with higher fire-associated fine particulate matter (PM2.5). This is a notable finding given the persistence of measurable changes 4 years after the fire.
+
+Forced oscillation techniques (FOTs) are a useful supplement to spirometric measures; they require less patient cooperation and complement other forms of lung function testing by measuring different parameters.8 In the study by Holt et al.,6 there were differences in reactance (measured by FOT) associated with fire PM exposure—a measure of both how difficult it is to get the respiratory tree moving initially (inertance) and how compliant it is once in motion (elastance). For each 10 μg/m3 increase in PM2.5 exposure during the fire, there was a 0.015-cm H2O/L/s decrease in post-bronchodilator reactance in 5 s measured 4 years later (95% CI 0.004, 0.027), which is compared to the age-related effect.6 While the reporting of results as years of lung ageing is provocative, the authors note that many of their participants were outside reference prediction ranges, and thus standardized references were not used. Instead, coefficient on age from this same sample of participants was used to estimate an age effect.
+
+While the interpretation of the smoke exposure in terms of lung ageing should be viewed cautiously, there was a notable dose–response curve showing increasing reactance associated with increased fire PM2.5 exposure. That finding is important as we consider the potential long-term health effects of smoke exposure in increasingly exposed populations. This argues for further attention to be paid to policy efforts to decrease mega-fires and associated smoke events.
+
+CONFLICT OF INTEREST
+None declared.
+
+LINKED CONTENT
+This publication is linked to a related article. To view this article, visit https://doi.org/10.1111/resp.14102.
+
+REFERENCES
+Download PDF
+ Back
+Additional links
+ABOUT WILEY ONLINE LIBRARY
+Privacy Policy
+Terms of Use
+About Cookies
+Manage Cookies
+Accessibility
+Wiley Research DE&I Statement and Publishing Policies
+Developing World Access
+HELP & SUPPORT
+Contact Us
+Training and Support
+DMCA & Reporting Piracy
+OPPORTUNITIES
+Subscription Agents
+Advertisers & Corporate Partners
+CONNECT WITH WILEY
+The Wiley Network
+Wiley Press Room
+Copyright © 1999-2024 John Wiley & Sons, Inc or related companies. All rights reserved, including rights for text and data mining and training of artificial technologies or similar technologies.
+
+Wiley Home Page

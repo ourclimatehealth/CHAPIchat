@@ -1,0 +1,255 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of chest
+Chest. 2022 Jan; 161(1): 190–201. Published online 2021 Aug 10. doi: 10.1016/j.chest.2021.07.2170
+PMCID: PMC8783034PMID: 34389296
+Systematic Review of Ozone Effects on Human Lung Function, 2013 Through 2020
+Stephanie M. Holm, MD, PhD, MPHa,c,d,∗ and John R. Balmes, MDb,c,d
+Author information Copyright and License information PMC Disclaimer
+Associated Data
+Supplementary Materials
+Go to:
+Abstract
+Background
+Ozone effects on lung function are particularly important to understand in the context of the air pollution-health outcomes epidemiologic literature, given the complex relationships between ozone and other air pollutants with known lung function effects.
+
+Research Question
+What has been learned about the association between ozone exposures and lung function from epidemiology studies published from 2013 through 2020?
+
+Study Design and Methods
+On March 18, 2018, and September 8, 2020, PubMed was searched using the terms health AND ozone, filtering to articles in English and about humans, from 2013 or later. An additional focused review searching for ozone AND (lung function OR FEV1OR FVC) was performed June 26, 2021. Articles were selected for this review if they reported a specific relationship between a lung function outcome and ozone exposure.
+
+Results
+Of 3,271 articles screened, 53 ultimately met criteria for inclusion. A systematic review with assessment of potential for bias was conducted, but a meta-analysis was not carried out because of differences in exposure duration and outcome quantification. Consistent evidence exists of small decreases in children’s lung function, even associated with very low levels of short-term ozone exposure. The effects on adult lung function from exposure to low-level, short-term ozone are less clear, although ozone-associated decrements may occur in the elderly. Finally, long-term ozone exposure decreases both lung function and lung function growth in children, although few new studies have examined long-term ozone and lung function in adults.
+
+Interpretation
+Much of this literature involves concentrations below the current US Environmental Protection Agency’s National Ambient Air Quality Standard of 70 parts per billion over an 8-h averaging time, suggesting that this current standard may not protect children adequately from ozone-related decrements in lung function.
+
+Key Words: adult, air pollution, child, epidemiology, spirometry
+Abbreviations: EPA, Environmental Protection Agency; ISA, Integrated Science Assessment; NAAQS, National Ambient Air Quality Standards; PEF, peak expiratory flow; ppb, parts per billion
+Ozone is an air pollutant with detrimental effects on lung function. It is generated as a secondary pollutant, involving reactions with nitrogen oxides,1 and thus varies with levels of these pollutants. This covariance means that real-world effects of ozone on lung function may be particularly difficult to assess in a single epidemiologic study.
+
+Based on the 2013 US Environmental Protection Agency (EPA) Integrated Science Assessment (ISA)2 review of the health effects of ozone, the National Ambient Air Quality Standard (NAAQS) was decreased from 75 to 70 parts per billion (ppb) over an 8-h averaging time. Yet, evidence of health effects at low levels continues to accumulate, raising the possibility of a need for further regulatory action.
+
+Multihour ozone levels of 80 ppb or higher consistently produce significant decreases in lung function in healthy adults.2 At the time of the 2013 EPA review, only a handful of studies had assessed lung function in association with ozone exposures of < 80 ppb or for exposure durations longer than several days.2 In the 8 years since that review, the Results of multiple epidemiologic studies of the short- and long-term lung function effects of ozone have been reported, many of which involved exposures of less than the current NAAQS.
+
+The EPA released its most recent ISA for ozone in early 2020. Because of regulation limiting the science that could be considered by the federal EPA, the lung function section of that ISA focuses almost exclusively on experimental studies. This article fills the remaining knowledge gap by systematically reviewing the epidemiologic studies.
+
+Go to:
+Methods
+This systematic review follows an initial review3 performed to cover all published work on the health effects of ozone in children and adults in the 5 years after the 2013 ISA. On March 18, 2018, we searched PubMed using the terms health AND ozone, filtering to articles in English and about humans from 2013 or later. Screening of abstracts and articles was performed by S. M. H. On September 8, 2020, this was repeated. The 2020 search was identical with one exception: articles describing effects on COVID-19 were excluded for consistency. A third search was performed June 26, 2021, in both PubMed and Embase, using the more focused search terms ozone AND (lung function OR FEV1 OR FVC). To be included, an article must have estimated a specific ozone-lung function relationship (such as ozone associated with a difference in FEV1), not simply an estimate for a mixture of pollutants that includes ozone, nor for a relationship between ozone and “reduced lung function.” After screening and full-text review, a total of 53 articles were included in this review (Fig 1).
+
+An external file that holds a picture, illustration, etc.
+Object name is gr1.jpg
+Figure 1
+Flow chart showing ozone health effects articles search strategy.
+
+All studies involving real-world ozone exposures were included; only experimental studies and reviews were excluded. Both short- and long-term studies of lung function were reviewed, using the same 1-month cutpoint as defined in the 2013 ISA. Unfortunately, different studies use different ozone metrics (eg, peak 8-h average, peak 12-h average, 24-h average), and no clear way exists to convert between these metrics. Data extraction was performed by S. M. H., and data were entered into a table summarizing the study design, the studied population, method of ozone assessment, outcomes, and other notes (e-Appendix 1).
+
+Primary assessments of study quality were performed by both authors using the Newcastle-Ottawa scale. Each author performed the assessments independently, and disagreements were resolved by consensus. The Newcastle-Ottawa scale was chosen because it is the most frequently used in air pollution systematic reviews and is considered an acceptable bias assessment technique (See e-Appendix 2 for specific adaptations of the scale used in this study).4,5 A secondary bias assessment was performed by S. M. H., using the Risk of Bias In Non-Randomized Studies of Interventions tool on the recommendation of peer reviewers.6 Risk-of-bias assessments for all articles are included in e-Appendixes 3 and 4.
+
+Summary measures were described as reported (ORs, risk differences, etc.). Results were scaled linearly per 10 ppb of ozone when appropriate. Results in micrograms per cubed meter were converted with a conversion factor of 2. Where the range of participant ages was not listed, it was assumed to be the reported mean ± 2 times the SD.
+
+We decided against performing meta-analyses because it would be inappropriate to pool estimates from different types of exposure models (multiplicative vs additive), those involving different units of lung function outcomes (absolute volume vs % predicted using standardized populations), and those with different durations of ozone exposure. Instead, Results are plotted separately (for the first two items) and ordered by exposure duration (the third item) so that patterns resulting from exposure duration can be seen. The Preferred Reporting Items in Systematic Reviews and Meta-Analyses checklist was completed (e-Appendix 5).
+
+Go to:
+Results
+Short-Term Ozone and Lung Function in Children and Adolescents
+In children, new research continues to suggest small decrements in lung function associated with short-term exposures, including to relatively low levels of ozone (mean, 5-56 ppb). Nine of the 11 new studies that assessed the relationship between short-term ozone exposures and FEV1 in children demonstrated small decreases associated with increases of 10 ppb of ozone over times ranging from 1 day to 2 weeks (change of 0 to –69 mL, –0.01 to –9% predicted, or +2.6 to 11%), and all showed levels of less than the current NAAQS (Fig 2).7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 Although the CIs for some estimated effects crossed the null, the relative consistency in findings suggested that increases in ozone concentration, even at low levels, are associated with decreases in FEV1 in healthy children, although it may be a relatively small effect. Limitations of these studies include lack of copollutant control in nearly half of the studies and lack of control for socioeconomic status, as well as exposure misclassification resulting from the use of measurements from fixed outdoor locations; the studies by Karakatsani et al8 and Dimakopoulou et al18 are the only studies reported during the review period that used personal ozone monitoring. The three studies rated as having the lowest risk of bias among this group19, 20, 21 all had point estimates with larger associated decreases (–2% to –42%).
+
+An external file that holds a picture, illustration, etc.
+Object name is gr2.jpg
+Figure 2
+A-C, Forest plots showing estimates of differences in FEV1 associated with increases of 10 ppb ozone in children, from studies published from 2013 through 2020 within the studies that reported differences in milliliters (A), within the studies that reported differences in percent predicted (B), and in studies that reported multiplicative changes (C), in percent differences.
+
+Measurement of FVC can be more difficult to obtain than FEV1 in children (because of the need for a more sustained exhalation), and fewer studies reported short-term FVC effects for children (Fig 3).7,8,11,14,15,19,21 However, generally consistent small decreases in FVC in children and adolescents were found, associated with short-term ozone exposures (–14 to –81 mL per 10 ppb ozone, –0.3% predicted, or a –11% difference).
+
+An external file that holds a picture, illustration, etc.
+Object name is gr3.jpg
+Figure 3
+A-C, Forest plots showing estimates of differences in FVC associated with increases of 10 ppb ozone in children, from studies published from 2013 through 2020 within the studies that reported differences in milliliters (A), within the studies that reported differences in percent predicted (B), and in studies that reported multiplicative changes (C), in percent differences.
+
+Peak expiratory flow (PEF) is used sometimes to recognize exacerbations in children with asthma.22 Some additional studies have used PEF to assess the association between short-term ozone exposures and airways obstruction in healthy children (Fig 4)19,20,23, 24, 25, 26: all but one estimated that PEF decreased as ambient ozone concentration increased (–28 to 1 L/min or –13% to –9% difference). An additional study that measured oxidants (but thought mostly to represent ozone) also found a 0.26% decrease in PEF for healthy children associated with increases in oxidants (95% CI, –0.49 to –0.03).27 Although PEF often is criticized as more sensitive to participant effort, these findings are very consistent with those demonstrating decreases in FEV1.
+
+An external file that holds a picture, illustration, etc.
+Object name is gr4.jpg
+Figure 4
+A-B, Forest plots showing estimates of differences in PEF associated with increases of 10 ppb ozone in children, from studies published from 2013 through 2020 within the studies that reported differences in milliliters (A) and in studies that reported multiplicative changes (B), in percent differences. PEF = peak expiratory flow.
+
+Some subpopulations of children may be at increased risk of ozone-related lung function decrements after short-term exposures. Certain genotypes of the SOD2 V16A gene seem to interact with ozone exposures to produce significant differences in forced expiratory flow at 25th to 75th percent of the FVC.28 Another study found a small, nonsignificant decrease in forced expiratory flow at 25th to 75th percent of the FVC in children with asthma,29 again with a gene by environment effect; participants with no GSTM1 gene product showed a significant decrease of 6 mL/s per 10 ppb of ozone. Findings are conflicting regarding whether the relationship between lung function and ozone exposure may be stronger in girls30 or boys.31 Another study suggested that findings were larger among those who were not breastfed as infants,32 a third study found that effects are larger in youths with mood disorders15 and a fourth study found larger effects of ozone exposure in children who were overweight or obese.33
+
+The five studies that assessed the ozone-lung function relationship among children with asthma seemed to demonstrate smaller, null, or occasionally inverse relationships between ozone and FEV1 and FVC.11,17,21,34 Ierodiakanou et al11 and Li et al17 both adjusted for medication use, Benka-Coker et al34 adjusted for asthma severity (a proxy for medication use), and all participants in the study by Hernandez et al21 were receiving long-term inhaled corticosteroids. Given the small or null findings in the studies of children with asthma, the use of inhaled corticosteroids by many of these children may have decreased responsiveness to ozone, resulting in some residual confounding. The findings from the Benka-Coker et al34 study were not included in the figures because that study used Z scores. Two additional studies were published in the review interval that described ozone-lung function Results in children, but were not included in the figures or description above because the results for ozone exposure had been published previously35 or because the results described in the article were not internally consistent.36
+
+Overall, small but consistent decreases in lung function associated with short-term ozone exposure seem to occur in healthy children, including at low levels. These effects are less strong in children with asthma, and we hypothesize that this may be the result of amelioration of the inflammatory response by inhaled corticosteroids. However, recent evidence suggests that particular genotypes may increase susceptibility to ozone, making certain children at particularly high risk.
+
+Short-Term Ozone and Lung Function in Adults
+Multiple new epidemiologic studies of ozone exposures and lung function in adults were published during the review period. By design, these studies were conducted at real-life levels of exposure (mean ozone levels in these studies ranged from 1 to 42 ppb), with associated coexposures.7,37, 38, 39, 40, 41, 42, 43, 44 All of these studies involved either general population cohorts or cohorts of healthy adults. The observed associations were of small magnitude or null, with decreases in FEV1 usually associated with longer durations of exposure (eg, multiple days) and in the elderly (Fig 5). The potential for bias may exist in these studies because they largely do not account for exposures to copollutants. The one study that did adjust for coexposures also included personal ozone monitoring37 and found a decrease of 220 mL associated with increases of 10 ppb in ozone, when adjusted for fine particles (PM2.5) (95% CI, –420 to –20 mL), suggesting that the other studies may have underestimated the ozone effect. In the only study that evaluated multiple age groups of adults,7 a decrease in FEV1 was associated with ozone exposure in the elderly (in those older than 65 years, –35 mL [95% CI, –69 to –6 mL]), but not in other adults (15-64 years of age, 29 mL [95% CI, –6 to 64 mL]). This is at odds with older published literature in which smaller effects are seen in the elderly compared with younger adults.
+
+An external file that holds a picture, illustration, etc.
+Object name is gr5.jpg
+Figure 5
+A-C, Forest plots showing estimates of differences in FEV1 associated with increases of 10 ppb ozone in adults, from studies published from 2013 through 2020 within the studies that reported differences in milliliters (A), within the studies that reported differences in percent predicted (B), and in studies that reported multiplicative changes (C), in percent differences.
+
+Regarding FVC, similar patterns were found as seen as for FEV1, although the effects were generally smaller (Fig 6),7,38,40 with larger decreases seen in the elderly.7,37 Two of the studies in younger adults found increased FVC associated with ozone exposure,7,41 and a study that assessed indoor home ozone found an increase in FEV1 to FVC ratio associated with ozone exposure.43
+
+An external file that holds a picture, illustration, etc.
+Object name is gr6.jpg
+Figure 6
+A-B, Forest plots showing estimates of differences in FVC associated with increases of 10 ppb ozone in adults, from studies published from 2013 through 2020 within the studies that reported differences in milliliters (A) and in studies that reported multiplicative changes (B), in percent differences.
+
+Two studies that presented Results only graphically were left off the forest plots,45,46 but both seemed to show nonsignificant decreases in FEV1 and FVC associated with same-day ozone exposure. Additionally, one study47 used only repeated measurements of PEF to assess lung function in adults and found decreases associated with increased ozone exposure (–0.66 L/m; 95% CI, –1.21 to –0.12 per 10 ppb ozone).
+
+A few studies looked at specific subpopulations of adults, including those with pre-existing illness. Twelve-month ozone exposure was associated with an increased FEV1 of 3.95% predicted and FVC of 2.15% predicted in lung transplant recipients,48 which may be partially the result of strong inverse correlations between ozone and other air pollutants in this study. Ozone exposure was associated with a decrease of 0.41% predicted for FVC associated with long-term ozone in idiopathic pulmonary fibrosis patients.49 In dairy workers, a doubling of low-level ozone exposure was not associated with differences in FEV1 or FVC.50 Two different studies considered lung function changes in adults with COPD in association with ozone. In patients with COPD with a history of lung volume reduction surgery, same-day ozone exposure was associated with an increase in % predicted FEV1 (4.94% predicted; 95% CI, –7.92% to 17.80% predicted) and a decrease in % predicted FVC (–14.93% predicted; 95% CI, –1.03% to 29.33% predicted).51 In a broader cohort of patients with COPD, ozone exposure lagged 3 to 5 days was associated with decreases in FEV1, with the largest effect at the 5-day lag (–5.92% change in mean FEV1, measured in liters; 95% CI, –11.20% to –0.64%).52
+
+The epidemiologic evidence in the review interval suggests a more harmful effect in older adults of short-term ozone exposure. This is somewhat contradictory to prior controlled exposure evidence that suggests a greater effect of ozone exposure on lung function in younger adults.
+
+Long-Term Ozone and Lung Function in Children and Adolescents
+An increased number of studies evaluating the relationship between long-term ozone exposure and lung function in children was published during the review period (Fig 2). Thirteen new studies show decreases in lung function associated with long-term exposures (mean range of ozone levels in these studies, 3-44 ppb). Among the seven studies that report Results related to ozone averaged over 2 years or more, a fairly consistent pattern of decreases in FEV1 is reported (+15 mL to –71 mL, –9% predicted, or a 1 % decrease all per 10 ppb ozone).10,12,13,18,31,33,53, 54, 55 Among those studies that assessed ozone exposures of 1 month to 1 year, a relationship with FEV1 in children does not seem to exist.11,14,53,56,57 Only four of these ozone-lung function estimates included copollutant control, suggesting that the effect could be underestimated.10,13,14,18
+
+Two studies evaluated lung function growth during adolescence: those reported in Hwang et al10 and the Children’s Health Study (in both an Health Effects Institute report and a published article).55,58 The Hwang et al study showed a large decrease in lung function growth associated with exposure to ozone over the prior 2 years for both FEV1 (–41.4 mL; 95% CI, –67.54 to –15.31 mL) and FVC (–45.41 mL; 95%, –71.39 to –19.42 mL).10 In the study by Gauderman et al,55 a nonsignificant trend toward a decrease in lung function growth from 11 to 15 years was found, although the association of the ozone exposure with 15-year data alone suggested a trend toward an increase in lung function measures. Taken together, these suggest that cross-sectional analyses may mask some of the effects of ozone exposure, which are particularly strong when evaluating growth in FEV1.
+
+Nine of the 13 studies that reported results for long-term exposure to ozone and FEV1 also reported results for FVC (Fig 3).10, 11, 12, 13,18,33,54,56,57 Unlike for FEV1, the results for FVC overall do not seem to suggest a clear relationship between long-term ozone exposure and FVC, although a few studies have found a relationship.13,14 The two studies that assessed lung function growth in adolescence10,55 report conflicting results, with a clear decrement in FVC growth associated with ozone exposure in the Hwang et al study,10 but a null finding in the Gauderman et al study.55 Two studies additionally reported PEF results associated with long-term exposure to ozone (Fig 4) and also found significant decreases.18,33
+
+Assessing the overall pattern, growth of FEV1 may be particularly susceptible to ozone effects; patterns for the relationship between FVC and ozone were less clear. Larger decrements in % predicted FEV1 seem to be associated with longer-term increases in exposure to ozone in children (eg, multiple years) compared with shorter-term increases, including in the studies that assessed children using multiple exposure averages.11,13,53
+
+Long-Term Ozone and Lung Function in Adults
+Only three new reports of long-term ozone exposure and lung function in adults were published during the review period. Paulin et al59 found a decrease in FEV1 associated with 10-year ozone exposure in current or former smokers (–2.10% predicted FEV1; 95% CI, –4.10% to –0.11% predicted). In a large cohort study, decreases in baseline lung function associated with 1-year average ozone exposure were reported (FEV1, –51.0 mL [95% CI, –100.4 to 1.7 mL]; and FVC, –90.6 mL [95% CI, –160.6 to –20.7 mL]) and in the change in lung function associated with interval ozone exposure (median interval, 10 years; FEV1, –53.2 mL [95% CI –104.3 to –2.0 mL]; and FVC, –104.8 mL [95% CI, –192.9 to –16.7 mL]).60 In patients with COPD with a history of lung volume reduction surgery, 6- to 12-month ozone exposure was associated with a decrease in both % predicted FEV1 (–0.227% predicted; 95% CI, –0.539% to 0.085% predicted) and FVC (–0.499% predicted; 95% CI, –1.03% to 0.030% predicted).51
+
+Go to:
+Discussion
+A substantial body of research on the respiratory effects of ozone was published during the 8-year period of this review. Multiple studies involved average ozone levels at or less than the current US EPA standard (70 ppb over an 8-h averaging time), with the exception of the article exploring genotypes,29 which reported mean levels up to 97 ppb. Although the studies in adults do not show a clear relationship between low-level ozone exposure and lung function, those in children suggest that even at low levels, well below the current EPA standard, children’s lung function may be affected adversely by ozone exposure, particularly over longer periods. Thus, the current EPA NAAQS may not be adequately protective of children’s respiratory health.
+
+However, further research is needed, particularly regarding changes in lung function with long-term ozone exposure. Most of the reported research has come from North America and Europe, whereas large areas (eg, East Asia, the Sahara) that have substantial ozone exposure are underrepresented. Also, a need exists for further elucidation of particularly susceptible subgroups regarding long-term ozone exposures.
+
+We summarized the relevant epidemiologic studies, but some limitations to this literature exist. First, few of the studies account for copollutant exposures. In addition, different investigators have used different metrics to summarize ozone exposure (24-h averages, highest 8-h average concentrations, maximum daily values), and regulatory bodies in different countries use volume (ppb) or mass (μg/m3) metrics. The current EPA NAAQS61 is for a maximum 8-h daily average; the fourth highest 8-h average value over a 3-year period is the actual value that must be less than 70 ppb (0.070 ppm). The ozone target value for the European Union is a maximum daily 8-h average of 120 μg/m3 with 25 exceptions allowed over a 3-year period.62 These differing standards mean that research from different regions target different metrics, increasing the difficulty of making new policy decisions based on the literature.
+
+Much of the modeling has been carried out assuming a linear relationship between ozone concentration and lung function effects, and all but one of the studies reviewed here relied on linear models. Yet, investigators who have attempted to study ozone exposure-response curves for lung function have found a suggestion of nonlinearity59 similar to the typically nonlinear relationships seen for other outcomes (eg, mortality).63,64 Moreover, a linear model assumes that it is possible to have the exposure reach zero, which is a nonsensical assumption when the exposure is ambient ozone.
+
+Go to:
+Interpretation
+In summary, adverse effects on lung function from relatively low-level exposure to ozone are likely, especially for children and possibly the elderly. Mounting evidence suggests that children’s lung function may be affected by long-term ozone exposure, particularly when considering lung function growth. Therefore, the current US EPA ozone NAAQS may not provide a sufficient margin of safety to protect public health.
+
+Take-home Points
+Study Question: What has been learned about the association between ozone exposures and lung function from studies published from 2013 through 2020?
+
+Results: Multiple new studies have demonstrated associations between low-level ozone exposure and decreases in children’s lung function, both for short- and long-term averages; the new literature in adults is less clear.
+
+Interpretation: Evidence is accumulating for health effects of ozone of less than the current 70 parts per billion ambient air quality standard, particularly in children.
+
+Go to:
+Acknowledgments
+Author contributions: S. M. H. is the guarantor of the content of the manuscript, including the extracted data and summaries. S. M. H. conceived of the initial plan for this review with J. R. B. S. M. H. performed the initial literature reviews, independently performed bias assessments, summarized the articles, organized resolution of discrepancies in bias assessments, created figures, wrote the initial draft of the manuscript, and took the lead in critically revising it. J. R. B. read all selected articles, performed independent bias assessments, participated in resolution of discrepancies in bias assessments, and critically revised the manuscript. Both authors gave final approval of the submitted manuscript and agree to be accountable for all aspects of the work.
+
+Financial/nonfinancial disclosures: None declared.
+
+Role of sponsors: The Environmental Defense Fund had no role in the determination of review criteria, search strategy, collection or interpretation of data, the later literature searches, writing of this report, or the decision to submit for publication.
+
+Other contributions: The authors thank current and former members of the Balmes Research Group for their tireless support and championing of each other’s work and much encouragement over the course of this study, including Anthony Nardone, Zesemayat Mekonnen, Graham Flitz, Barune Thapa, Shreya Thatai, Raj Fadadu, Ruwan Thilakaratne, Amy Zhang, and Alexandra Tien-Smith; P. Holm for reading and copy-editing drafts of this article in many different iterations; and E. Holm for helping with cross-referencing of reference lists.
+
+Additional information: The e-Appendixes can be found in the Supplemental Materials section of the online article.
+
+Go to:
+Footnotes
+FUNDING/SUPPORT: The authors have reported to CHEST that no funding was received for this study. Early work on a similar topic was funded with support from the Environmental Defense Fund. The Environmental Defense Fund suggested review of the literature in 2018 relating ambient ozone to all health outcomes since the US EPA’s 2013 Integrated Science Assessment, and a summary was provided.
+
+Go to:
+Supplementary Data
+e-Online Data:
+Click here to view.(1.1M, pdf)
+e-Online Data:
+Click here to view.(50K, xlsx)
+Go to:
+References
+1. Balmes J.R., Holm S.M. In: Murray & Nadel’s Textbook of Respiratory Medicine. Broaddus V.C., Ernst J.D., King T.E., et al., editors. Elsevier; 2022. Indoor and outdoor air pollution; pp. 1423–1434. [Google Scholar]
+2. United States Environmental Protection Agency Integrated Science Assessment (ISA) for ozone and related photochemical oxidants (final report, Apr 2020). Environmental Protection Agency website. https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=348522
+3. Holm S.M., Balmes J.R., Roy A. Human health effects of ozone: the state of evidence since EPA’s last Integrated Science Assessment. 2018. Environmental Defense Fund website. https://www.edf.org/sites/default/files/content/Ozone_Summary_Report.pdf
+4. Sheehan M.C., Lam J., Navas-Acien A., Chang H.H. Ambient air pollution epidemiology systematic review and meta-analysis: a review of reporting and methods practice. Environ Int. 2016;92-93:647–656. [PubMed] [Google Scholar]
+5. Cochrane Scientific Committee Review of the development of the risk of bias tool for nonrandomised studies for interventions—ROBINS-I. 2017 [cited]. Cochrane website. https://methods.cochrane.org/sites/default/files/public/uploads/scientific_committee_statement_report_robins_i_fin.pdf
+6. Sterne J.A., Hernán M.A., Reeves B.C., et al. ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions. BMJ. 2016;355:i4919. [PMC free article] [PubMed] [Google Scholar]
+7. Jung S.-W., Lee K., Cho Y.-S., et al. Association by spatial interpolation between ozone levels and lung function of residents at an industrial complex in South Korea. Int J Environ Res Public Health. 2016;13(7):728. [PMC free article] [PubMed] [Google Scholar]
+8. Karakatsani A., Samoli E., Rodopoulou S., et al. Weekly personal ozone exposure and respiratory health in a panel of Greek schoolchildren. Environ Health Perspect. 2017;125(7):077017. [PMC free article] [PubMed] [Google Scholar]
+9. Yoda Y., Takagi H., Wakamatsu J., et al. Acute effects of air pollutants on pulmonary function among students: a panel study in an isolated island. Environ Health Prev Med. 2017;22(1):33. [PMC free article] [PubMed] [Google Scholar]
+10. Hwang B.-F., Chen Y.-H., Lin Y.-T., Wu X.-T., Leo Lee Y. Relationship between exposure to fine particulates and ozone and reduced lung function in children. Environ Res. 2015;137:382–390. [PubMed] [Google Scholar]
+11. Ierodiakonou D., Zanobetti A., Coull B.A., et al. Ambient air pollution, lung function, and airway responsiveness in asthmatic children. J Allergy Clin Immunol. 2016;137(2):390–399. [PMC free article] [PubMed] [Google Scholar]
+12. Neophytou A.M., White M.J., Oh S.S., et al. Air pollution and lung function in minority youth with asthma in the GALA II (Genes-Environments and Admixture in Latino Americans) and SAGE II (Study of African Americans, Asthma, Genes, and Environments) Studies. Am J Respir Crit Care Med. 2016;193(11):1271–1280. [PMC free article] [PubMed] [Google Scholar]
+13. Tsui H.-C., Chen C.-H., Wu Y.-H., Chiang H.-C., Chen B.-Y., Guo Y.L. Lifetime exposure to particulate air pollutants is negatively associated with lung function in non-asthmatic children. Environ Pollut. 2018;236:953–961. [PubMed] [Google Scholar]
+14. Chen C.-H., Chan C.-C., Chen B.-Y., Cheng T.-J., Leon Guo Y. Effects of particulate air pollution and ozone on lung function in non-asthmatic children. Environ Res. 2015;137:40–48. [PubMed] [Google Scholar]
+15. Dales R.E., Cakmak S. Does mental health status influence susceptibility to the physiologic effects of air pollution? A population based study of Canadian children. PLoS One. 2016;11(12):e0168931. [PMC free article] [PubMed] [Google Scholar]
+16. Barbone F., Catelan D., Pistelli R., et al. A Panel Study on Lung Function and Bronchial Inflammation among Children Exposed to Ambient S02 from an Oil Refinery. Int J Environ Res Public Health. 2019;16(6):1057. [PMC free article] [PubMed] [Google Scholar]
+17. Li Y.-R., Feng L.-T., Chen B.-Y., et al. Association of urban particle numbers and sources with lung function among children with asthma or allergies. Science of the Total Environment. 2016;542:841–844. [PubMed] [Google Scholar]
+18. Dimakopoulou K., Douros J., Samoli E., et al. Long-term exposure to ozone and children’s respiratory health: Results from the RESPOZE study. Environ Res. 2020;182:109002. [PubMed] [Google Scholar]
+19. Zhang J., Feng L., Hou C., Gu Q. How the constituents of fine particulate matter and ozone affect the lung function of children in Tianjin, China. Environ Geochem Health. 2020;42(10):3303–3316. [PubMed] [Google Scholar]
+20. Huang J., Song Y., Chu M., et al. Cardiorespiratory responses to low-level ozone exposure: the inDoor Ozone Study in childrEn (DOSE) Environ Int. 2019;131:105021. [PubMed] [Google Scholar]
+21. Hernandez M.L., Dhingra R., Burbank A.J., et al. Low-level ozone has both respiratory and systemic effects in African American adolescents with asthma despite asthma controller therapy. J Allergy Clin Immunol. 2018;142(6):1974–1977.e3. [PMC free article] [PubMed] [Google Scholar]
+22. National Heart, Lung, and Blood Institute . National Heart, Lung, and Blood Institute; 2007. Expert Panel Report 3: Guidelines for the Diagnosis and Management of Asthma. [Google Scholar]
+23. Kurai J., Noma H., Sano H., Iwata K., Tohda Y., Watanabe M. Association of short-term ozone exposure with pulmonary function and respiratory symptoms in schoolchildren: a panel study in a western Japanese city. J Med Invest. 2018;65(3.4):236–241. [PubMed] [Google Scholar]
+24. Samoli E., Dimakopoulou K., Evangelopoulos D., et al. Is daily exposure to ozone associated with respiratory morbidity and lung function in a representative sample of schoolchildren? Results from a panel study in Greece. J Expo Sci Environ Epidemiol. 2017;27(3):346–351. [PubMed] [Google Scholar]
+25. Adman M.A., Hashim J.H., Manaf M.R.A., Norback D. Associations between air pollutants and peak expiratory flow and fractional exhaled nitric oxide in students. Int J Tuberc Lung Dis. 2020;24(2):189–195. [PubMed] [Google Scholar]
+26. Amadeo B., Robert C., Rondeau V., et al. Impact of close-proximity air pollution on lung function in schoolchildren in the French West Indies. BMC Public Health. 2015;15(1):45. [PMC free article] [PubMed] [Google Scholar]
+27. Hasunuma H., Yamazaki S., Tamura K., et al. Association between daily ambient air pollution and respiratory symptoms in children with asthma and healthy children in western Japan. J Asthma. 2018;55(7):712–719. [PubMed] [Google Scholar]
+28. Chen B.-Y., Chen C.-H., Chuang Y.-C., et al. Schoolchildren’s antioxidation genotypes are susceptible factors for reduced lung function and airway inflammation caused by air pollution. Environ Res. 2016;149:145–150. [PubMed] [Google Scholar]
+29. Moreno-Macías H., Dockery D.W., Schwartz J., et al. Ozone exposure, vitamin C intake, and genetic susceptibility of asthmatic children in Mexico City: a cohort study. Respir Res. 2013;14(1):14. [PMC free article] [PubMed] [Google Scholar]
+30. Altuğ H., Gaga E.O., Döğeroğlu T., et al. Effects of air pollution on lung function and symptoms of asthma, rhinitis and eczema in primary school children. Environ Sci Pollut Res. 2013;20(9):6455–6467. [PubMed] [Google Scholar]
+31. Zeng X.-W., Vivian E., Mohammed K.A., et al. Long-term ambient air pollution and lung function impairment in Chinese children from a high air pollution range area: the Seven Northeastern Cities (SNEC) study. Atmos Environ. 2016;138:144–151. [Google Scholar]
+32. Zhang C., Guo Y., Xiao X., et al. Association of breastfeeding and air pollution exposure with lung function in Chinese children. JAMA Netw Open. 2019;2(5):e194186. [PMC free article] [PubMed] [Google Scholar]
+33. Xing X., Hu L., Guo Y., et al. Interactions between ambient air pollution and obesity on lung function in children: the Seven Northeastern Chinese Cities (SNEC) Study. Science of the Total Environment. 2020;699:134397. [PubMed] [Google Scholar]
+34. Benka-Coker W., Hoskovec L., Severson R., Balmes J., Wilson A., Magzamen S. The joint effect of ambient air pollution and agricultural pesticide exposures on lung function among children with asthma. Environ Res. 2020;190:109903. [PMC free article] [PubMed] [Google Scholar]
+35. Fernández-Plata R., Rojas-Martínez R., Martínez-Briseño D., García-Sancho C., Pérez-Padilla R. Effect of passive smoking on the growth of pulmonary function and respiratory symptoms in schoolchildren. Revista de Investigacion Clinica. 2016;68:119–127. [PubMed] [Google Scholar]
+36. Pasalic E., Hayat M., Greenwald R. Air pollution, physical activity, and markers of acute airway oxidative stress and inflammation in adolescents. J Ga Public Health Assoc. 2016;6(2 suppl):314–330. [PMC free article] [PubMed] [Google Scholar]
+37. Zhang J., Sun H., Chen Q., Gu J., Ding Z., Xu Y. Effects of individual ozone exposure on lung function in the elderly: a cross-sectional study in China. Environ Sci Pollut Res. 2019;26(12):11690–11695. [PubMed] [Google Scholar]
+38. Int Panis L., Provost E.B., Cox B., et al. Short-term air pollution exposure decreases lung function: a repeated measures study in healthy adults. Environ Health. 2017;16(1):60. [PMC free article] [PubMed] [Google Scholar]
+39. Yoda Y., Otani N., Sakurai S., Shima M. Acute effects of summer air pollution on pulmonary function and airway inflammation in healthy young women. J Epidemiol. 2014;24(4):312–320. [PMC free article] [PubMed] [Google Scholar]
+40. Dauchet L., Hulo S., Cherot-Kornobis N., et al. Short-term exposure to air pollution: associations with lung function and inflammatory markers in non-smoking, healthy adults. Environ Int. 2018;121:610–619. [PubMed] [Google Scholar]
+41. Day D.B., Xiang J., Mo J., et al. Association of ozone exposure with cardiorespiratory pathophysiologic mechanisms in healthy adults. JAMA Intern Med. 2017;177(9):1344. [PMC free article] [PubMed] [Google Scholar]
+42. Rice M.B., Ljungman P.L., Wilker E.H., et al. Short-term exposure to air pollution and lung function in the Framingham Heart Study. Am J Respir Crit Care Med. 2013;188(11):1351–1357. [PMC free article] [PubMed] [Google Scholar]
+43. Bräuner E.V., Karottki D.G., Frederiksen M., et al. Residential ozone and lung function in the elderly. Indoor Built Environ. 2016;25(1):93–105. [Google Scholar]
+44. Liu J.-Y., Hsiao T.-C., Lee K.-Y., Chuang H.-C., Cheng T.-J., Chuang K.-J. Association of ultrafine particles with cardiopulmonary health among adult subjects in the urban areas of northern Taiwan. Science of the Total Environment. 2018;627:211–215. [PubMed] [Google Scholar]
+45. Zhou Y., Liu Y., Song Y., et al. Short-term effects of outdoor air pollution on lung function among female non-smokers in China. Sci Rep. 2016;6(1):34947. [PMC free article] [PubMed] [Google Scholar]
+46. Lepeule J., Bind M.-A.C., Baccarelli A.A., et al. Epigenetic influences on associations between air pollutants and lung function in elderly men: the Normative Aging Study. Environ Health Perspect. 2014;122(6):566–572. [PMC free article] [PubMed] [Google Scholar]
+47. Chang L.-T., Hong G.-B., Weng S.-P., et al. Indoor ozone levels, houseplants and peak expiratory flow rates among healthy adults in Taipei, Taiwan. Environ Int. 2019;122:231–236. [PubMed] [Google Scholar]
+48. Benmerad M., Slama R., Botturi K., et al. Chronic effects of air pollution on lung function after lung transplantation in the Systems Prediction of Chronic Lung Allograft Dysfunction (SysCLAD) study. Eur Respir J. 2017;49(1):1600206. [PubMed] [Google Scholar]
+49. Johannson K.A., Vittinghoff E., Morisset J., et al. Air pollution exposure is associated with lower lung function, but not changes in lung function, in patients with idiopathic pulmonary fibrosis. Chest. 2018;154(1):119–125. [PMC free article] [PubMed] [Google Scholar]
+50. Martenies S.E., Schaeffer J.W., Erlandson G., et al. Associations between bioaerosol exposures and lung function changes among dairy workers in Colorado. J Occup Environ Med. 2020;62(6):424–430. [PMC free article] [PubMed] [Google Scholar]
+51. Kariisa M., Foraker R., Pennell M., et al. Short- and long-term effects of ambient ozone and fine particulate matter on the respiratory health of chronic obstructive pulmonary disease subjects. Arch Environ Occup Health. 2015;70(1):56–62. [PubMed] [Google Scholar]
+52. Li H., Wu S., Pan L., et al. Short-term effects of various ozone metrics on cardiopulmonary function in chronic obstructive pulmonary disease patients: Results from a panel study in Beijing, China. Environmental Pollution. 2018;232:358–366. [PubMed] [Google Scholar]
+53. Usemann J., Decrue F., Korten I., et al. Exposure to moderate air pollution and associations with lung function at school-age: a birth cohort study. Environ Int. 2019;126:682–689. [PubMed] [Google Scholar]
+54. Urman R., McConnell R., Islam T., et al. Associations of children’s lung function with ambient air pollution: joint effects of regional and near-roadway pollutants. Thorax. 2014;69(6):540–547. [PMC free article] [PubMed] [Google Scholar]
+55. Gauderman W.J., Urman R., Avol E., et al. Association of improved air quality with lung development in children. N Engl J Med. 2015;372(10):905–913. [PMC free article] [PubMed] [Google Scholar]
+56. Fuertes E., Bracher J., Flexeder C., et al. Long-term air pollution exposure and lung function in 15 year-old adolescents living in an urban and rural area in Germany: the GINIplus and LISAplus cohorts. Int J Hygiene Environ Health. 2015;218(7):656–665. [PubMed] [Google Scholar]
+57. Barone-Adesi F., Dent J.E., Dajnak D., et al. Long-term exposure to primary traffic pollutants and lung function in children: cross-sectional study and meta-analysis. PLoS One. 2015;10(11) [PMC free article] [PubMed] [Google Scholar]
+58. Gilliland F, Avol E, McConnell R, et al. Effects of policy-driven air quality improvements on children’s respiratory health. Health Effects Institute Research report. Report number 190, January 2017. [PMC free article] [PubMed]
+59. Paulin L.M., Gassett A.J., Alexis N.E., et al. Association of long-term ambient ozone exposure with respiratory morbidity in smokers. JAMA Intern Med. 2020;180(1):106. [PMC free article] [PubMed] [Google Scholar]
+60. Wang M., Aaron C.P., Madrigano J., et al. Association between long-term exposure to ambient air pollution and change in quantitatively assessed emphysema and lung function. JAMA. 2019;322(6):546. [PMC free article] [PubMed] [Google Scholar]
+61. United States Environmental Protection Agency Ozone national ambient air quality standards (NAAQS). 2020. Environmental Protection Agency website. https://www.epa.gov/ground-level-ozone-pollution/ozone-national-ambient-air-quality-standards-naaqs
+62. European Commission Air quality standards. European Commission website. https://ec.europa.eu/environment/air/quality/standards.htm
+63. Bae S., Lim Y.-H., Kashima S., et al. Non-linear concentration-response relationships between ambient ozone and daily mortality. PLoS One. 2015;10(6) [PMC free article] [PubMed] [Google Scholar]
+64. Collart P., Dramaix M., Levêque A., Mercier G., Coppieters Y. Concentration-response curve and cumulative effects between ozone and daily mortality: an analysis in Wallonia. Belgium. Int J Environ Health Res. 2018;28(2):147–158. [PubMed] [Google Scholar]
+Articles from Chest are provided here courtesy of American College of Chest Physicians
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

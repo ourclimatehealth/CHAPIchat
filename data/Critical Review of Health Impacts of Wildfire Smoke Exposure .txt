@@ -1,0 +1,429 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of envhper
+Environ Health Perspect. 2016 Sep; 124(9): 1334–1343. Published online 2016 Apr 15. doi: 10.1289/ehp.1409277
+PMCID: PMC5010409PMID: 27082891
+Critical Review of Health Impacts of Wildfire Smoke Exposure
+Colleen E. Reid, 1 , 2 ,† Michael Brauer, 3 Fay H. Johnston, 4 , 5 Michael Jerrett, 1 , 6 John R. Balmes, 1 , 7 and Catherine T. Elliott 3 , 8
+Author information Article notes Copyright and License information PMC Disclaimer
+See "Smoke Signals: Teasing Out Adverse Health Effects of Wildfire Emissions" in volume 124 on page A166.
+Associated Data
+Supplementary Materials
+Go to:
+Abstract
+Background: Wildfire activity is predicted to increase in many parts of the world due to changes in temperature and precipitation patterns from global climate change. Wildfire smoke contains numerous hazardous air pollutants and many studies have documented population health effects from this exposure.
+Objectives: We aimed to assess the evidence of health effects from exposure to wildfire smoke and to identify susceptible populations.
+Methods: We reviewed the scientific literature for studies of wildfire smoke exposure on mortality and on respiratory, cardiovascular, mental, and perinatal health. Within those reviewed papers deemed to have minimal risk of bias, we assessed the coherence and consistency of findings.
+Discussion: Consistent evidence documents associations between wildfire smoke exposure and general respiratory health effects, specifically exacerbations of asthma and chronic obstructive pulmonary disease. Growing evidence suggests associations with increased risk of respiratory infections and all-cause mortality. Evidence for cardiovascular effects is mixed, but a few recent studies have reported associations for specific cardiovascular end points. Insufficient research exists to identify specific population subgroups that are more susceptible to wildfire smoke exposure.
+Conclusions: Consistent evidence from a large number of studies indicates that wildfire smoke exposure is associated with respiratory morbidity with growing evidence supporting an association with all-cause mortality. More research is needed to clarify which causes of mortality may be associated with wildfire smoke, whether cardiovascular outcomes are associated with wildfire smoke, and if certain populations are more susceptible.
+Citation: Reid CE, Brauer M, Johnston FH, Jerrett M, Balmes JR, Elliott CT. 2016. Critical review of health impacts of wildfire smoke exposure. Environ Health Perspect 124:1334–1343; http://dx.doi.org/10.1289/ehp.1409277
+Go to:
+Introduction
+Wildfires are a global occurrence. Changes in temperature and precipitation patterns from climate change are increasing wildfire prevalence and severity (Westerling et al. 2006; Settele et al. 2014) resulting in longer fire seasons (Flannigan et al. 2013; Westerling et al. 2006) and larger geographic area burned (Gillett et al. 2004). Wildfire smoke contains many air pollutants of concern for public health, such as carbon monoxide (CO), nitrogen dioxide, ozone, particulate matter (PM), polycyclic aromatic hydrocarbons (PAHs), and volatile organic compounds (Naeher et al. 2007). Current estimated annual global premature mortality attributed to wildfire smoke is 339,000 (interquartile range of sensitivity analyses: 260,000–600,000) (Johnston et al. 2012), but the overall impact on public health in terms of respiratory, cardiovascular, and other morbidity effects is unknown. A better synthesis of current knowledge on the health effects of wildfire smoke is needed to guide public health responses.
+
+Wildfire smoke epidemiology is an active area of research (Henderson and Johnston 2012) with new methods uncovering associations that were previously undetectable. Studies of health outcomes associated with wildfire smoke exposure tend to be retrospective and researchers have to rely on administrative health outcome data such as mortality or hospitalization records. Achieving adequate statistical power has been challenging because such severe outcomes are less common, fires tend to be episodic and short in duration, and exposed populations from individual events are often small. Many recent studies have increased statistical power by investigating very high exposure events that last for longer periods, large populations over many years in regions with frequent fires, more common health outcomes such as medication dispensations, or a combination of these methods.
+
+Previous reviews of wildfire health impacts have either not included the full range of health end points associated with community exposure to wildfire smoke (Dennekamp and Abramson 2011; Henderson and Johnston 2012) or have summarized the literature without critical analysis of specific studies (Finlay et al. 2011; Liu et al. 2015; Youssouf et al. 2014). Our review follows a modified version of the systematic review methodology outlined in Woodruff and Sutton (2014) to analyze studies critically and to only evaluate the strongest evidence.
+
+Go to:
+Methods
+We searched PubMed, Web of Science, and PsychInfo to identify scientific papers related to wildfire smoke exposure and relevant health outcomes. We conceptualized wildfires as those within the definition of landscape fires defined in Johnston et al. (2012). Our search strategy (Figure 1) yielded 778 journal articles in PubMed and 1,248 journal articles in Web of Science in November 2013. We then selected studies that potentially focused on human health effects related to wildfire smoke based on title and yielded 248 journal articles from PubMed and 217 from Web of Science. After discarding duplicates, 350 articles remained. PsychInfo did not yield any new peer-reviewed journal articles.
+
+An external file that holds a picture, illustration, etc.
+Object name is ehp.1409277.g001.jpg
+Figure 1
+Review of studies flow chart.
+
+After reading abstracts, we removed articles if they assessed only exposure and not associated health effects, reported health surveillance outcomes without analysis of associations with exposure, did not analyze primary or secondary health data, did not adequately describe the exposure assessment or it was not clearly related to wildfire smoke, or were not published fully in English. This yielded 103 studies that we reviewed. We continually searched for new papers and subsequently added 12 more by August 2015. These papers included human experimental studies of woodsmoke, studies of effects on wildland firefighters, and studies whose outcomes were self-reported respiratory symptoms associated with wildfire smoke, but these are not included in this paper.
+
+From the remaining epidemiological studies (N = 53), we extracted information and made an expert judgment on the risk of bias for each study based on their sample size, exposure assessment methods, control for potential confounding factors, and use of objective outcome measures (see Table S1). We deemed studies to have a lower risk of bias if there were no concerns in any of these categories, moderate risk if there were minor concerns in one or more categories, and higher risk if either there were multiple concerns about bias or if one concern was sufficiently large based on our collective judgment.
+
+All evaluation of results from these studies is based on the authors’ interpretation of the reported findings in each paper. In this review “significant” means a 95% confidence interval (CI) that does not include the null, “suggestive” means a 95% CI that does include the null but would not with a slightly relaxed criterion such as a 90% CI, and “no association” means that the 95% CI includes the null with no indication of a relationship. We assumed that exposure to smoke from all types of landscape fires were comparable. We use the term wildfire to refer to all types of landscape fires.
+
+Assessing human exposure to wildfire smoke is challenging for many reasons. Wildfires tend to occur in rural areas in which air pollution monitoring networks might be absent or less comprehensive than in cities. The studies we reviewed used various exposure assignment methods such as self-report, assignment to the nearest regulatory air pollution monitor, comparison of fire periods to non-fire periods, and use of satellite data or air quality modeling output. Heterogeneity of exposure assessment methods across studies (Table 1; see also Table S1) made a quantitative meta-analysis of effect estimates inappropriate. While publication bias could be present in this literature, we could not assess its extent due to the scarcity of studies for each health outcome.
+
+Table 1
+Findings from epidemiological research studies (N = 43) ordered by health outcome.
+
+Outcome	Article	Exposure assessment type	Direction of association
+Mortality
+All	Sastry 2002	Monitored PM	↑↑
+Morgan et al. 2010	Monitored PM	↑↑
+Johnston et al. 2011	Smoky versus non-smoky days	↑↑
+Faustini et al. 2015	Smoky versus non-smoky days	↑↑
+Linares et al. 2015	Monitored PM	↑↑
+Shaposhnikov et al. 2014	Monitored PM	↑↑
+Respiratory	Johnston et al. 2011	Smoky versus non-smoky days	↔
+Morgan et al. 2010	Monitored PM	↔
+Faustini et al. 2015	Smoky versus non-smoky days	↔
+Linares et al. 2015	Monitored PM	↔
+Cardiovascular	Nunes et al. 2013	Modeled PM and satellite data	↑↑
+Faustini et al. 2015	Smoky versus non-smoky days	↑↑
+Johnston et al. 2011	Smoky versus non-smoky days	↑
+Morgan et al. 2010	Monitored PM	↔
+Linares et al. 2015	Monitored PM	↔
+Respiratory morbidity
+Lung function in people without asthma or bronchial hyperreactivity	Jacobson et al. 2012	Monitored PM	↓↓
+Jacobson et al. 2014	Monitored PM	↓↓
+Jalaludin et al. 2000	Monitored PM	↓↓
+Physician visits	Lee et al. 2009	Monitored PM	↑↑
+Henderson et al. 2011	Monitored PM	↑↑
+Modeled PM	↑
+Binary satellite indicator of smoke	↑
+Moore et al. 2006	Temporal comparison	↑↑
+Mott et al. 2002	Temporal comparison	↑↑
+Lee et al. 2009	Monitored PM	↑↑
+ED visits	Rappold et al. 2011	Temporal and spatial comparisons	↑↑
+Tham et al. 2009	Monitored PM	↑↑
+Thelen et al. 2013	Modeled PM	↑↑
+Johnston et al. 2014	Smoky versus non-smoky days	↑↑
+Hospitalizations	Morgan et al. 2010	Monitored PM	↑↑
+Henderson et al. 2011	Monitored PM	↑↑
+Modeled PM	↑
+Binary satellite indicator of smoke	↑
+Johnston et al. 2007	Monitored PM	↑
+Delfino et al. 2009	PM monitoring, statistical modeling, and satellite information	↑↑
+Martin et al. 2013	Smoky versus non-smoky days	↑↑
+Chen et al. 2006	PM monitoring for categorical exposures	↑↑
+Cançado et al. 2006	PM monitoring	↑↑
+Mott et al. 2005	Temporal comparison	↑↑
+Ignotti et al. 2010	% annual hours > 80 μg/m3	↑↑
+Tham et al. 2009	Monitored PM	↔
+Asthma
+Lung function among people with asthma	Jacobson et al. 2012	Monitored PM	↔
+Jalaludin et al. 2000	Monitored PM	↔
+Vora et al. 2011	Temporal comparison	↔
+Wiwatanadate and Liwsrisakun 2011	Monitored PM	↔
+Medications	Elliott et al. 2013	PM monitoring, statistical modeling, and satellite information	↑↑
+Yao et al. 2016	Modeled PM	↑↑
+Tse et al. 2015	Temporal and spatial comparisons	↑↑
+Vora et al. 2011	Temporal comparison	↑↑
+Johnston et al. 2006	Monitored PM	↑↑
+Arbex et al. 2000	Measurement of PM	↑
+Physician visits	Henderson et al. 2011	Monitored PM	↑↑
+Modeled PM	↑↑
+Binary satellite indicator	↑
+Yao et al. 2014 2016	Monitored PM	↑↑
+Modeled PM	↑↑
+ED visits	Johnston et al. 2002	Monitored PM	↑↑
+Rappold et al. 2011	Temporal and spatial comparisons	↑↑
+Duclos et al. 1990	Temporal comparison	↑↑
+Johnston et al. 2014	Smoky versus non-smoky days	↑↑
+Smith et al. 1996	Temporal comparison	↑
+Tse et al. 2015	Temporal and spatial comparisons	↔
+Hospitalizations	Morgan et al. 2010	Monitored PM	↑↑
+Delfino et al. 2009	PM monitoring, statistical modeling, and satellite information	↑↑
+Arbex et al. 2007	PM monitoring	↑↑
+Martin et al. 2013	Smoky versus non-smoky days	↑↑
+Johnston et al. 2007	Monitored PM	↑
+Tse et al. 2015	Temporal and spatial comparisons	↔
+COPD
+Physician visits	Yao et al. 2016	Monitored PM	↑↑
+Modeled PM	↑↑
+ED visits	Rappold et al. 2011	Temporal and spatial comparisons	↑↑
+Duclos et al. 1990	Temporal comparison	↑↑
+Johnston et al. 2014	Smoky versus non-smoky days	↑↑
+Hospitalizations	Morgan et al. 2010	Monitored PM	↑↑
+Johnston et al. 2007	Monitored PM	↑↑
+Delfino et al. 2009	PM monitoring, statistical modeling, and satellite information	↑↑
+Martin et al. 2013	Smoky versus non-smoky days	↑↑
+Mott et al. 2005	Temporal comparisona	↑↑
+Respiratory infections
+Physician visits	Yao et al. 2016	Monitored PMb	↑↑
+Modeled PMb	↔
+Monitored PMc	↑↑
+Modeled PMc	↑↑
+Henderson et al. 2011	Monitored PMd	↔
+ED visits	Duclos et al. 1990	Temporal comparisonb	↑↑
+Rappold et al. 2011	Temporal and spatial comparisonsb	↑
+Hospitalizations	Johnston et al. 2007	Monitored PM	↔
+Pneumonia and bronchitis
+ED visits	Rappold et al. 2011	Temporal and spatial comparisons	↑↑
+Johnston et al. 2014	Smoky versus non-smoky days	↔
+Hospitalizations	Delfino et al. 2009	PM monitoring, statistical modeling, and satellite information	↑↑
+Morgan et al. 2010	Monitored PM	↑↑
+Martin et al. 2013	Smoky versus non-smoky days	↑
+Duclos et al. 1990	Temporal comparisone	↑↑
+Cardiovascular morbidity
+Physician visits	Henderson et al. 2011	Monitored PM	↔
+Modeled PM	↔
+Binary satellite indicator	↔
+Moore et al. 2006	Temporal comparison	↔
+Lee et al. 2009	Monitored PM	↔
+Yao et al. 2016	Monitored PM	↓↓
+Modeled PM	↔
+ED visits	Rappold et al. 2011	Temporal and spatial comparisons	↔
+Johnston et al. 2014	Smoky versus non-smoky days	↔
+Hospitalizations	Morgan et al. 2010	Monitored PM	↔
+Hanigan et al. 2008	PM estimated from visibility data	↔
+Henderson et al. 2011	Monitored PM	↔
+Modeled PM	↔
+Binary satellite indicator	↔
+Johnston et al. 2007	Monitored PM	↔
+Martin et al. 2013	Smoky versus non-smoky days	↔
+CHF
+ED visits	Rappold et al. 2011	Temporal and spatial comparisons	↑↑
+Hospitalizations	Delfino et al. 2009	PM monitoring, statistical modeling, and satellite information	↑
+Morgan et al. 2010	Monitored PM	↔
+Martin et al. 2013	Smoky versus non-smoky days	↔
+Cardiac arrest
+Out-of-hospital	Dennekamp et al. 2015	PM monitoring	↑↑
+Haikerwal et al. 2015	Modeled PM	↑↑
+ED visits	Johnston et al. 2014	Smoky versus non-smoky days	↔
+Acute MI
+ED visits	Haikerwal et al. 2015	Modeled PM	↔
+Hospitalizations	Haikerwal et al. 2015	Modeled PM	↑↑
+IHD
+Physician visits	Lee et al. 2009	Monitored PM	↑↑
+ED visits	Johnston et al. 2014	Smoky versus non-smoky days	↑
+Haikerwal et al. 2015	Modeled PM	↑
+Hospitalizations	Mott et al. 2005	Temporal comparison	↑
+Haikerwal et al. 2015	Modeled PM	↑
+Morgan et al. 2010	Monitored PM	↔
+Delfino et al. 2009	PM monitoring, statistical modeling, and satellite information	↔
+Johnston et al. 2007	Monitored PM	↓↓ and ↑↑f
+Martin et al. 2013	Smoky versus non-smoky days	↔
+Hypertension
+Physician visits	Henderson et al. 2011	Monitored PM	↔
+Hospitalizations	Arbex et al. 2010	PM monitoring	↑↑
+Cardiac dysrhythmias/arrhythmias
+ED visits	Johnston et al. 2014	Smoky versus non-smoky days	↔
+Hospitalizations	Delfino et al. 2009	PM monitoring, statistical modeling, and satellite information	↔
+Martin et al. 2013	Smoky versus non-smoky days	↔
+Cerebrovascular disease
+ED visits	Johnston et al. 2014	Smoky versus non-smoky days	↔
+Hospitalizations	Delfino et al. 2009	PM monitoring, statistical modeling, and satellite information	↑
+Morgan et al. 2010	Monitored PM	↔
+Angina
+Dispensations of fast-acting nitroglycerin	Yao et al. 2016	Monitored PM	↑↑
+ED visits	Haikerwal et al. 2015	Modeled PM	↑
+Hospitalizations	Haikerwal et al. 2015	Modeled PM	↔
+Birth outcomes
+Birth weight	Holstius et al. 2012	Temporal comparison	↓↓
+Proportion of cohort surviving	Jayachandran 2009	Satellite data	↓↓
+Low birth weight	Cândido da Silva et al. 2014	Monitored PM	↑↑
+Mental health
+Physician visits	Moore et al. 2006	Temporal comparison	↔
+Hospitalizations	Duclos et al. 1990	Temporal comparison	↔
+aAsthma and COPD combined.
+
+bUpper respiratory infections.
+
+cLower respiratory infections.
+
+dUpper respiratory infections and acute bronchitis combined.
+
+eBronchitis alone.
+
+fSignificantly elevated for indigenous population, but significantly lower risk for whole population.
+
+↔ No association. ↑ Suggestive increase. ↑↑ Significant increase. ↓↓ Significant decrease.
+
+Open in a separate window
+Go to:
+Results
+Our review covers the following health outcomes: mortality, respiratory morbidity, cardiovascular morbidity, birth outcomes, and mental health. We further discuss the evidence from toxicological studies and for susceptible population subgroups. Table S1 provides more details on reviewed studies.
+
+After review of 53 epidemiological papers, we evaluated 27 as having lower potential for bias, 17 as moderate potential for bias and 10 as higher potential for bias. Of the 10 deemed to have higher risk of bias, 4 did not adequately adjust for important covariates (Azevedo et al. 2011; Cooper et al. 1994; Prass et al. 2012; Resnick et al. 2015), 2 were likely underpowered due to small sample size (Cooper et al. 1994; Vedal and Dutton 2006), 3 used retrospective self-report for exposure assessment with high potential for bias (Ho et al. 2014; McDermott et al. 2005; Marshall et al. 2007), and the exposure assessment in 2 other studies was not clearly related to smoke from wildfires (Analitis et al. 2012, Caamano-Isorna et al. 2011). The remaining 43 studies deemed to have low to moderate risk of bias are discussed below. More detail on the findings from each study is provided in Table S2.
+
+Mortality Growing evidence from the more recent, adequately statistically powered studies demonstrates associations between wildfire smoke exposure and all-cause mortality, but more studies are needed to determine whether specific causes of mortality are most affected.
+A study of the 1997 southeast Asian wildfire found an increase in mortality in Malaysia associated with a measure of visibility and measured PM10 (PM ≤ 10 μm in aerodynamic diameter) both linearly and with various discrete levels of PM10 (Sastry 2002). A study of the 2010 heat wave and wildfires in Moscow reported findings of an interaction between high temperatures and high PM10 on deaths and that smoke exposure was responsible for about 29% of the 10,859 excess deaths during the 44-day heat wave (Shaposhnikov et al. 2014). A cross-sectional analysis of cardiovascular mortality among people older than 65 years in the Brazilian Amazon, where the predominant source of air pollution is from wildfires, found a significant association between the percentage of hours of PM2.5 over 25 μg/m3 and cardiovascular mortality (Nunes et al. 2013).
+
+The most recent studies of wildfire smoke and mortality take advantage of long time series data and provide growing evidence of significant increases in mortality. A study of 13.5 years of data including 48 days affected by wildfire smoke in Sydney, Australia, demonstrated a significant increase in mortality associated with smoke-affected days (Johnston et al. 2011). An earlier study of mortality in Sydney, using 8 years of data, found a suggestive increase in mortality associated with wildfire-related PM10 (Morgan et al. 2010). A meta-analysis of data from 2003 to 2010 in 10 cities in southern Europe found increases in cardiovascular mortality associated with PM10 that were stronger on smoke-affected days than on non-affected days, but smoke was not significantly associated with respiratory mortality (Faustini et al. 2015). In Madrid, mortality, but not specifically respiratory or cardiovascular mortality, was associated with PM10 on days with advection events associated with biomass burning (Linares et al. 2015). Further multi-year studies in regions regularly affected by wildfire smoke could help clarify if specific causes of mortality are associated with wildfire smoke exposure.
+
+Respiratory Morbidity Epidemiological studies have demonstrated significant associations between wildfire smoke exposure and declines in lung function among non-asthmatic children (Jacobson et al. 2012, 2014), and increases in physician visits for respiratory problems (Henderson et al. 2011; Lee et al. 2009; Moore et al. 2006; Mott et al. 2002), respiratory emergency department (ED) visits (Johnston et al. 2014; Rappold et al. 2011; Tham et al. 2009; Thelen et al. 2013) and respiratory hospitalizations (Cançado et al. 2006; Chen et al. 2006; Delfino et al. 2009; Henderson et al. 2011; Ignotti et al. 2010; Martin et al. 2013; Morgan et al. 2010; Mott et al. 2005). Findings for specific respiratory end points are reviewed below.
+Asthma. Evidence from multiple epidemiological studies demonstrates that wildfire smoke exposure contributes to exacerbations of asthma. Studies have documented increased physician visits (Henderson et al. 2011; Yao et al. 2016), ED visits (Duclos et al. 1990; Johnston et al. 2002, 2014; Rappold et al. 2011) and hospitalizations (Arbex et al. 2007; Delfino et al. 2009; Martin et al. 2013; Morgan et al. 2010; Mott et al. 2005) for asthma associated with wildfire smoke exposure. Some studies found suggestive increases in asthma ED visits (Smith et al. 1996) and asthma hospital admissions (Johnston et al. 2007); these studies may have lacked statistical power due to short time periods (Smith et al. 1996) or small affected populations (Johnston et al. 2007). Another study did not find a significant increase in ED visits or hospitalizations among a cohort of asthmatic children in the year after large wildfires in San Diego, California, compared to the year prior to those fires (Tse et al. 2015).
+
+Four studies demonstrated no significant acute changes in lung function among people with asthma related to PM from wildfires (Jacobson et al. 2012; Jalaludin et al. 2000; Vora et al. 2011; Wiwatanadate and Liwsrisakun 2011), although significant declines in lung function were found among those without asthma (Jacobson et al. 2012) and children without bronchial hyper-reactivity (Jalaludin et al. 2000). One possible explanation for these counter-intuitive findings is increased use of rescue medication in response to elevated levels of smoke among those diagnosed with asthma as was found in one (Vora et al. 2011) of two studies (Vora et al. 2011; Jacobson et al. 2012) that investigated this mechanism.
+
+Other studies documented associations between medication usage for obstructive lung disease and wildfire smoke exposure. Both usage of reliever medication and initiation of oral steroid use were associated with wildfire smoke in a panel study of adults and children in Australia (Johnston et al. 2006). People with asthma reported elevated levels of rescue medication usage during a wildfire in Southern California (Vora et al. 2011). Dispensations of reliever medications were related to metrics of wildfire smoke exposure in British Columbia (Elliott et al. 2013; Yao et al. 2016). Researchers found increases in physician-dispensed short-acting beta-agonists but not physician-prescribed oral corticosteroids for children with asthma in years after two catastrophic wildfires in southern California compared to the year prior to each wildfire (Tse et al. 2015). An association between visits to hospitals for inhalation therapy and daily mass of air particle sediment collected in four nearby water containers was found during one sugarcane-burning season in Brazil (Arbex et al. 2000).
+
+All previously mentioned studies examined exacerbations of asthma, whereas only one study investigated incident asthma related to wildfire smoke. Methodological concerns in that portion of the study suggest a high potential for bias as new diagnoses occurring after, but not during, two large wildfire episodes were included (Tse et al. 2015).
+
+Chronic obstructive pulmonary disease (COPD). Epidemiological evidence of associations between wildfire smoke exposure and exacerbation of COPD is mounting. Elevated rates of hospitalizations (Delfino et al. 2009; Johnston et al. 2007; Martin et al. 2013; Morgan et al. 2010; Mott et al. 2005), ED visits (Duclos et al. 1990; Johnston et al. 2014; Rappold et al. 2011), and physician visits for COPD (Yao et al. 2016) have been associated with wildfire smoke exposure. Additionally, the findings of increased reliever medication dispensing during wildfire smoke exposure in British Columbia may indicate increases in COPD or asthma exacerbations (Elliott et al. 2013; Yao et al. 2016).
+
+Respiratory infections. The evidence for associations between wildfire smoke exposure and respiratory infections is inconsistent. Duclos et al. (1990) found a higher rate of ED visits for respiratory infections during major wildfires in California compared to a reference period. Rappold et al. (2011) found a suggestive increase in ED visits for upper respiratory infections in smoke-affected counties in North Carolina during peat fires compared to a reference period and this temporal increase was not found in non-smoke-affected counties. Henderson et al. (2011) and Yao et al. (2016), however, found no association between wildfire smoke exposure and physician visits for upper respiratory infections in British Columbia. Johnston et al. (2007) reported no association between PM predominantly from wildfires and hospitalizations for respiratory infections in Australia.
+
+The evidence does suggest an association between wildfire smoke and acute bronchitis and pneumonia, however. Although Johnston et al. (2014) did not find an association between ED visits for pneumonia and bronchitis associated with wildfire smoke in Australia, most other studies did. Yao et al. (2016) found significant increases in physician visits for lower respiratory infections associated with PM2.5 over 10 fire seasons in British Columbia. Rappold et al. (2011) documented increased ED visits for pneumonia and acute bronchitis associated with exposure to smoke from a peat fire. Duclos et al. (1990) found higher rates of hospitalization for bronchitis during a wildfire compared to a reference period. Moreover, Martin et al. (2013) reported associations between days with high levels of bushfire smoke and hospitalizations for pneumonia and acute bronchitis in Newcastle, Australia, although this association was not found in the larger city of Sydney; the authors attribute this to lack of precision in estimates of specific respiratory outcomes. Two studies have documented similar associations between wildfire smoke and background PM with bronchitis and pneumonia (Delfino et al. 2009; Morgan et al. 2010), suggesting that effects of wildfire and urban PM on these outcomes are similar.
+
+Cardiovascular Morbidity Results from studies of associations between cardiovascular outcomes and wildfire smoke exposure are inconsistent. Many studies of wildfire smoke exposure have found no associations with grouped cardiovascular disease outcomes (Hanigan et al. 2008; Henderson et al. 2011; Johnston et al. 2007, 2014; Lee et al. 2009; Martin et al. 2013; Moore et al. 2006; Morgan et al. 2010; Rappold et al. 2011; Yao et al. 2016), although a few have documented evidence for specific end points. Rates of out-of-hospital cardiac arrests were associated with wildfire-related PM2.5 in Australia (Dennekamp et al. 2015; Haikerwal et al. 2015). Hospitalizations but not ED visits for acute myocardial infarctions (MI) were associated with wildfire-related PM2.5 during the same fires (Haikerwal et al. 2015). ED visits for congestive heart failure (CHF) were associated with wildfire smoke exposure from a peat fire in North Carolina (Rappold et al. 2011), but only a suggestive association was found for CHF hospitalizations and PM2.5 during a wildfire in southern California (Delfino et al. 2009). Johnston et al. (2014) did not find any association between wildfire smoke and ED cardiac failure. Other studies have found no associations between wildfire smoke exposure and CHF (Martin et al. 2013; Morgan et al. 2010) or cardiac dysrhythmias (Delfino et al. 2009; Johnston et al. 2014; Martin et al. 2013). And no associations were found in the one study that investigated angina in relation to wildfire PM2.5 (Haikerwal et al. 2015).
+Study results are also mixed for ischemic heart disease (IHD). Higher counts of hospitalizations for IHD than expected based on historical data were found in Sarawak, Malaysia, during the prolonged very high PM levels of the 1997 Southeast Asian wildfires (Mott et al. 2005). ED visits for IHD were higher on smoke-affected days in Sydney, Australia (Johnston et al. 2014), but two other studies in Australia (Martin et al. 2013; Morgan et al. 2010) and one in California (Delfino et al. 2009) reported no associations for IHD hospital admissions. A study in Darwin, Australia, found increased risk of IHD hospitalizations only among the indigenous population, whereas the results suggested an inverse association among the whole population (Johnston et al. 2007). Researchers also found a positive association between PM10 during a wildfire and clinic visits for IHD in a Native American reservation in California (Lee et al. 2009).
+
+Very few studies have investigated other cardiovascular outcomes, making definitive conclusions difficult. Arbex et al. (2010) found increases in hospitalizations for hypertension associated with exposure to total suspended particles over 2 years within a community seasonally exposed to smoke from burning sugarcane, but there was no clear difference in this finding between burning and non-burning periods, which implies that the relationship may not be due to the source of the particles. Henderson et al. (2011) did not find any relationship between PM10 during a wildfire and physician visits for hypertension. One (Delfino et al. 2009) of three (Delfino et al. 2009; Morgan et al. 2010; Johnston et al. 2014) studies to investigate cerebrovascular disease or stroke found a suggestive association with wildfire smoke exposure.
+
+Too few studies and too many inconsistencies in findings exist to determine whether wildfire smoke exposure is associated with specific cardiovascular outcomes, despite evidence that exposure to ambient PM is associated with increased risk of cardiovascular morbidity (Brook et al. 2010).
+
+Birth Outcomes Corroborative evidence suggests that wildfire smoke exposure effects on birth outcomes are plausible. For example, a growing literature exists on associations between adverse birth outcomes and exposure to ambient air pollution (Woodruff et al. 2010), to wood smoke from household cooking and heating in developing countries (e.g., Lakshmi et al. 2013) and to household heating in developed countries (Gehring et al. 2014). While these exposures are chronic compared to the more acute nature of exposure to smoke from some wildfires, some studies have demonstrated links between wildfire smoke exposure and birth outcomes. Holstius et al. (2012) found lower birth weights, overall and for the second and third trimesters specifically, for babies that gestated during the 2003 southern California wildfires compared to babies from the same region born before or more than 9 months after the fires. Jayachandran (2009) found that prenatal smoke exposure from the 1997 Southeast Asian wildfire in the third trimester was the most important predictor of ‘missing’ children from the Indonesian 2000 Census, the only way to estimate early life deaths from the scant data in Indonesia. Pregnant women exposed to very high levels of PM2.5 from agricultural burning in the Brazilian Amazon had higher rates of low birthweight babies compared to those exposed to lower levels (Cândido da Silva et al. 2014).
+Mental Health Outcomes Although many studies have documented evidence of psychological impairment related to wildfires (e.g. Papanikolaou et al. 2011), few have investigated smoke exposure as a cause. We found six studies that investigated the association between objective mental health impacts and wildfire smoke exposure; however, four of those were deemed to have higher potential for bias (Ho et al. 2014; McDermott et al. 2005; Marshall et al. 2007; Caamano-Isorna et al. 2011). In the two studies that remain, one found no increase in physician visits for mental illness associated with PM during the 2003 wildfire season in British Columbia (Moore et al. 2006) and the other found no increase in mental health hospitalizations during the 1987 California fires compared to a reference period (Duclos et al. 1990).
+Toxicological Studies A major pathway by which PM causes respiratory effects is through pulmonary oxidative stress and inflammation (Nakayama Wong et al. 2011). Systemic responses are the main pathways through which PM is thought to influence cardiovascular health. These are hypothesized to be induced either directly by the movement of pro-inflammatory, pro-coagulation, and pro-oxidant components of PM to the circulation, indirectly as a consequence of the pulmonary changes induced by PM, or through PM-mediated changes in the autonomic nervous system (Brook et al. 2010; Delfino et al. 2010).
+In vivo animal studies of wildfire-derived PM exposure compared to controls have demonstrated increased oxidative stress and cell death in mice (Williams et al. 2013), and lower counts of lung macrophages, higher levels of inflammatory cells and cytokines, and greater antioxidant depletion in a study of smoke from a California wildfire in a mouse model (Wegesser et al. 2009, 2010).Similarly, increased respiratory inflammation and reduced lung mechanics compared with controls was documented from a mouse study of biomass smoke from burning sugarcane in Brazil (Mazzoli-Rocha et al. 2008). In vivo studies in humans have also demonstrated increased inflammatory responses, specifically elevated band neutrophil counts in peripheral blood (Tan et al. 2000) and elevated cytokines (van Eeden et al. 2001) associated with air pollution levels during the 1997 Southeast Asian wildfires.
+
+In vitro studies have documented increased inflammation in rat alveolar macrophages exposed to PM2.5 from prescribed fires (Myatt et al. 2011) and in human bronchial epithelial cells exposed to wildfire-derived PM2.5 compared to cells exposed to ambient PM (Nakayama Wong et al. 2011). After exposure to wildfire-derived PM, human lung epithelial cells showed declines in glutathione, an important antioxidant (Pavagadhi et al. 2013); mouse peritoneal monocytes showed increased hydrogen peroxide production and oxygen radical generation (Leonard et al. 2007); and mouse macrophages (Franzi et al. 2011), rat macrophages (Myatt et al. 2011), and human lung epithelial cells (Pavagadhi et al. 2013) had increased cell death.
+
+Oxidative stress can also lead to DNA damage. All size fractions of PM extracted from wildfire smoke caused DNA damage in mouse peritoneal monocytes (Leonard et al. 2007). Studies in regions near sugarcane burning in the Brazilian Amazon observed higher numbers of micronucleated cells, a measure of genotoxicity, in buccal cells from children in highly smoke-affected areas compared to children in a control community (Sisenando et al. 2012); however, it is unclear if the higher pollution in the study communities was solely due to agricultural burning because two factories are located in the exposed but not in the control region. Another study found more micronucleated buccal cells in sugarcane workers compared to nearby hospital administrative workers (Silveira et al. 2013), but the authors do not mention any control for other differences in these two populations that could explain this finding.
+
+A recent study demonstrated the potential for early life exposure to wildfire smoke to confer immune effects, measured as reduced cytokine synthesis in peripheral blood cells, lasting into adolescence in Rhesus macaque monkeys (Miller et al. 2013). Short-term inhalation of wood smoke in general and not specifically from a wildfire can compromise lung immune responses, which may be one reason for the observed increased likelihood of lung infections in children exposed to wood smoke (Zelikoff et al. 2002). There is therefore growing evidence to support the theory that incidence of respiratory infections can be increased by exposure to wildfire smoke.
+
+In summary, existing toxicological evidence supports potential respiratory and cardiovascular health effects of wildfire smoke exposure. The body of evidence, however, is relatively small compared to toxicological studies of general PM.
+
+Vulnerable Populations Few epidemiological studies have investigated whether specific populations are more susceptible to wildfire smoke exposure than the general population. Susceptibility factors investigated include those related to lifestage, pre-existing disease, socioeconomic status (SES), and ethnicity. Unless otherwise stated, all subgroup differences are based on observed changes in the magnitudes of point estimates, not on significance tests.
+The findings for differential effects by age are inconclusive. A study of PM10 exposure in Malaysia from the 1997 Southeast Asian wildfires found higher rates of mortality among people 65–74 years old compared to others; a smaller suggestive effect was found among those ≥ 75 years old (Sastry 2002). People ≥ 65 years old had higher rates of respiratory hospitalizations compared to younger adults exposed to biomass burning in the Brazilian Amazon (Ignotti et al. 2010) and wildfire smoke in Australia (Morgan et al. 2010). Such older adults were also found to have higher rates of hospitalization for asthma than their younger counterparts during California wildfires (Delfino et al. 2009), and higher rates of out-of-hospital cardiac arrests and hospitalizations for IHD in Victoria, Australia (Haikerwal et al. 2015).
+
+Other studies, however, have found higher effects for younger adults than for older adults. Wildfire PM-related respiratory admissions during Indonesian wildfires exceeded predictions for 40- to 64-year-olds but not for those ≥ 65 years (Mott et al. 2005). Similarly, ED visits for COPD, and pneumonia and acute bronchitis were more strongly associated with peat fire smoke among people < 65 years old compared to people ≥ 65 in North Carolina (Rappold et al. 2011). Although respiratory physician visits were associated with PM10 among people 60–70 years old and among those ≥ 80 in a British Columbia wildfire, younger adults exhibited stronger associations (Henderson et al. 2011). No differences were found in either of the two studies that investigated differential effects by age for cardiovascular outcomes (Morgan et al. 2010, Henderson et al. 2011).
+
+Children with asthma did not experience increased respiratory symptoms or medication use during Australian wildfires, whereas adults did (Johnston et al. 2006). Similarly, the highest PM-related increase in physician visits for asthma during a wildfire in British Columbia was found for adults (Henderson et al. 2011), as was true for ED visits for asthma on smoke-affected days in Australia (Johnston et al. 2014). Asthma hospitalizations among children ages 0–5 years were more strongly associated with wildfire PM2.5 exposure than were asthma hospitalizations for both older children and adults < 65 years old during a California wildfire; but the greatest association was found for people ≥ 65 years (Delfino et al. 2009).
+
+Some studies have used previous health care utilization as a measure of pre-existing health conditions. One study found no effect modification by number of physician visits in the previous year (Henderson et al. 2011). In contrast, people ≥ 65 years old who were hospitalized for any cardiorespiratory outcome in the first half of the year were at increased risk of being hospitalized during the 1997 Southeast Asian fires compared with similar temporal comparisons in previous years without fires (Mott et al. 2005). Pre-existing cardiac or respiratory conditions may plausibly increase vulnerability to wildfire smoke exposure; however, the available evidence is currently inconclusive.
+
+A recent study found that body mass index modified the association of wildfire smoke exposure on exacerbations of asthma, as measured by prevalence of physician-dispensed short-acting beta-agonists for children with asthma in southern California (Tse et al. 2015).
+
+Few studies have investigated how socio-economic status (SES) influences responses to wildfire smoke exposure. Henderson et al. (2011) noted findings of no effect modification by neighborhood SES on associations between wildfire smoke exposure and physician visits in British Columbia, Canada, but detailed results were not presented. In contrast, during a North Carolina peat fire, North Carolina counties with lower SES had higher rates of ED visits for asthma and CHF compared to counties with higher SES (Rappold et al. 2012). Similarly, in Indonesia, districts with lower food consumption demonstrated larger adverse associations between smoke exposure and survival of birth cohorts than those with higher household food consumption (Jayachandran 2009).
+
+To our knowledge only one ethnic subgroup has been studied in relation to differential health outcomes associated with wildfire smoke exposure. Indigenous people in Australia experienced higher rates of hospitalization for respiratory infections (Hanigan et al. 2008), and IHD (Johnston et al. 2007) associated with exposure to bushfire smoke than non-indigenous people. This effect may be explained by underlying health status, access to medical services, or other social characteristics in this group (Martin et al. 2013).
+
+Go to:
+Discussion
+Our critical review demonstrated consistent evidence of associations between wildfire smoke exposure with general respiratory morbidity and with exacerbations of asthma and COPD (Table 1). Mounting epidemiological evidence and plausible toxicological mechanisms suggest an association between wildfire smoke exposure and respiratory infections, but inconsistencies remain. Increasing evidence suggests an association between wildfire smoke exposure and all-cause mortality, especially from more recent, higher-powered studies (e.g., Johnston et al. 2011; Morgan et al. 2010; Faustini et al. 2015). The current evidence for cardiovascular morbidity from wildfire smoke exposure remains mixed; many studies are inconclusive or negative, but some have demonstrated significant increases for specific cardiovascular outcomes, such as cardiac arrests. Toxicological findings are consistent with cardiac effects through evidence of systemic inflammation and increased coagulability. Most of the other end points of interest, including birth outcomes, mental health, and cancer have not been sufficiently studied.
+
+Our review highlights the lack of information about which populations are most susceptible to wildfire smoke exposure. People already diagnosed with asthma or COPD are more susceptible. We found inconsistent evidence of differential effects by age or SES. Two studies have suggested differential effects by Australian indigenous status with no investigation of other ethnic groups.
+
+Many gaps exist in understanding the public health implications of exposure to wildfire smoke. Larger studies with greater statistical power and more spatially refined exposure assessments are needed to better characterize impacts on mortality, cardiovascular disease, birth outcomes, and mental health effects. Currently, evidence exists of exacerbation, but not incidence, of asthma and COPD from wildfire smoke exposure. In temperate parts of the world, where wildfire smoke exposure is episodic, it is unlikely that changes in asthma incidence would be observed. Studies have not been conducted in populations more chronically exposed to wildfire smoke. Additionally, other health outcomes associated with wildfire smoke exposure have not yet been sufficiently studied, such as otitis media, which has been associated with exposure to secondhand tobacco smoke (Kong and Coates 2009), air pollution from woodsmoke (MacIntyre et al. 2011) and recently wildfire smoke (Yao et al. 2016). Human experimental studies of exposures to wildfire smoke could help clarify biological mechanisms. Very little information exists on health effects associated with measures of pollutants in wildfire smoke other than PM, such as ozone or PAHs. Although this review combined results from studies of various types of fires, it is possible that smoke originating from peat fires, forest fires, grassland fires, and agricultural burning could lead to differential health effects due to different constituents in the smoke. To our knowledge, no studies have yet investigated chronic exposure to wildfire smoke, but many populations in Southeast Asia, Africa, and Latin America are exposed regularly for extended periods (Johnston et al. 2012).
+
+Characterization of the exposure–response function is critical for setting smoke levels for public health warnings or interventions, and it is not yet known whether current levels based on undifferentiated PM sufficiently characterize the effects of wildfire smoke. Four studies (Arbex et al. 2010; Chen et al. 2006; Johnston et al. 2002; Sastry 2002) have attempted to identify effects at different exposure levels, but these studies are hard to compare because of differences in exposure assessment methods, health outcomes, types of fires, and population susceptibilities.
+
+Go to:
+Conclusions
+We found consistent evidence of associations between wildfire smoke exposure and respiratory morbidity in general, and specifically for exacerbations of asthma and COPD. Growing evidence suggests associations with respiratory infections and all-cause mortality. More research is needed to determine whether wildfire smoke exposure is consistently associated with cardiovascular effects, specific causes of mortality, birth outcomes, and mental health outcomes. Research into which populations are most susceptible to health effects from wildfire smoke exposure is also needed to inform public health planning for future wildfires.
+
+Go to:
+Supplemental Material
+(916 KB) PDF
+Click here for additional data file.(895K, pdf)
+Go to:
+Footnotes
+This review was part of a contracted work for the British Columbia Centres for Disease Control with project funding from Health Canada (reference no. 4500285055) and was partially supported under a cooperative agreement from the U.S. Centers for Disease Control and Prevention through the Association of Schools of Public Health (grant no. CD300430), a U.S. Environmental Protection Agency (EPA) STAR Fellowship Assistance Agreement (no. FP-91720001-0) awarded by the U.S. EPA and a grant from the Bureau of Land Management (L14AC00173).
+
+The views expressed in this article are solely those of the authors and the U.S. EPA does not endorse any products or commercial services mentioned in this article.
+
+The authors declare they have no actual or potential competing financial interests.
+
+Go to:
+References
+Analitis A, Georgiadis I, Katsouyanni K. Forest fires are associated with elevated mortality in a dense urban setting. Occup Environ Med. 2012;69:158–162. [PubMed] [Google Scholar]
+Arbex MA, Böhm GM, Saldiva PH, Conceição GM, Pope AC, III, Braga AL. Assessment of the effects of sugar cane plantation burning on daily counts of inhalation therapy. J Air Waste Manag Assoc. 2000;50:1745–1749. [PubMed] [Google Scholar]
+Arbex MA, Martins LC, de Oliveira RC, Pereira LAA, Arbex FF, Cançado JED, et al. Air pollution from biomass burning and asthma hospital admissions in a sugar cane plantation area in Brazil. J Epidemiol Community Health. 2007;61:395–400. [PMC free article] [PubMed] [Google Scholar]
+Arbex MA, Saldiva PHN, Pereira LAA, Braga ALF. Impact of outdoor biomass air pollution on hypertension hospital admissions. J Epidemiol Community Health. 2010;64:573–579. [PubMed] [Google Scholar]
+Azevedo JM, Gonçalves FL, de Fátima Andrade M. Long-range ozone transport and its impact on respiratory and cardiovascular health in the north of Portugal. Int J Biometeorol. 2011;55:187–202. [PubMed] [Google Scholar]
+Brook RD, Rajagopalan S, Pope CA, III, Brook JR, Bhatnagar A, Diez-Roux AV, et al. Particulate matter air pollution and cardiovascular disease: an update to the scientific statement from the American Heart Association. Circulation. 2010;121:2331–2378. [PubMed] [Google Scholar]
+Caamano-Isorna F, Figueiras A, Sastre I, Montes-Martínez A, Taracido M, Piñeiro-Lamas M. 2011. Respiratory and mental health effects of wildfires: an ecological study in Galician municipalities (north-west Spain). Environ Health 10 48, doi: 10.1186/1476-069X-10-48 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Cançado JE, Saldiva PHN, Pereira LAA, Lara L, Artaxo P, Martinelli LA, et al. 2006. The impact of sugar cane-burning emissions on the respiratory system of children and the elderly. Environ Health Perspect 114 725 729, doi: 10.1289/ehp.8485 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Cândido da Silva AM, Moi GP, Mattos IE, Hacon Sde S. 2014. Low birth weight at term and the presence of fine particulate matter and carbon monoxide in the Brazilian Amazon: a population-based retrospective cohort study. BMC Pregnancy Childbirth 14 309, doi: 10.1186/1471-2393-14-309 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Chen L, Verrall K, Tong S. Air particulate pollution due to bushfires and respiratory hospital admissions in Brisbane, Australia. Int J Environ Health Res. 2006;16:181–191. [PubMed] [Google Scholar]
+Cooper CW, Mira M, Danforth M, Abraham K, Fasher B, Bolton P. Acute exacerbations of asthma and bushfires [Letter]. Lancet. 1994;343:1509. [PubMed] [Google Scholar]
+Delfino RJ, Brummel S, Wu J, Stern H, Ostro B, Lipsett M, et al. The relationship of respiratory and cardiovascular hospital admissions to the southern California wildfires of 2003. Occup Environ Med. 2009;66:189–197. [PMC free article] [PubMed] [Google Scholar]
+Delfino RJ, Staimer N, Tjoa T, Arhami M, Polidori A, Gillen DL, et al. Associations of primary and secondary organic aerosols with airway and systemic inflammation in an elderly panel cohort. Epidemiology. 2010;21:892–902. [PMC free article] [PubMed] [Google Scholar]
+Dennekamp M, Abramson MJ. The effects of bushfire smoke on respiratory health. Respirology. 2011;16:198–209. [PubMed] [Google Scholar]
+Dennekamp M, Straney LD, Erbas B, Abramson MJ, Keywood M, Smith K, et al. 2015. Forest fire smoke exposures and out-of-hospital cardiac arrests in Melbourne, Australia: a case-crossover study. Environ Health Perspect 123 959 964, doi: 10.1289/ehp.1408436 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Duclos P, Sanderson LM, Lipsett M. The 1987 forest fire disaster in California: assessment of emergency room visits. Arch Environ Health. 1990;45:53–58. [PubMed] [Google Scholar]
+Elliott CT, Henderson SB, Wan V. 2013. Time series analysis of fine particulate matter and asthma reliever dispensations in populations affected by forest fires. Environ Health 12 11, doi: 10.1186/1476-069X-12-11 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Faustini A, Alessandrini ER, Pey J, Perez N, Samoli E, Querol X, et al. Short-term effects of particulate matter on mortality during forest fires in southern Europe: results of the MED-PARTICLES project. Occup Environ Med. 2015;72:323–329. [PubMed] [Google Scholar]
+Finlay SE, Moffat A, Gazzard R, Baker D, Murray V 2012. Health impacts of wildfires. PLoS Curr 4 e4f959951cce2c, doi: 10.1371/4f959951cce2c [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Flannigan M, Cantin AS, de Groot WJ, Wotton M, Newbery A, Gowman LM. Global wildland fire season severity in the 21st century. For Ecol Manage. 2013;294:54–61. [Google Scholar]
+Franzi LM, Bratt JM, Williams KM, Last JA. Why is particulate matter produced by wildfires toxic to lung macrophages? Toxicol Appl Pharmacol. 2011;257:182–188. [PMC free article] [PubMed] [Google Scholar]
+Gehring U, Tamburic L, Sbihi H, Davies HW, Brauer M. Impact of noise and air pollution on pregnancy outcomes. Epidemiology. 2014;25:351–358. [PubMed] [Google Scholar]
+Gillett NP, Weaver AJ, Zwiers FW, Flannigan MD. 2004. Detecting the effect of climate change on Canadian forest fires. Geophys Res Lett 31 L18211, doi: 10.1029/2004GL020876 [CrossRef] [Google Scholar]
+Haikerwal A, Akram M, Del Monaco A, Smith K, Sim MR, Meyer M, et al. 2015. Impact of fine particulate matter (PM2.5) exposure during wildfires on cardiovascular health outcomes. J Am Heart Assoc 4 e001653, doi: 10.1161/JAHA.114.001653 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Hanigan IC, Johnston FH, Morgan GG. 2008. Vegetation fire smoke, indigenous status and cardio-respiratory hospital admissions in Darwin, Australia, 1996–2005: a time-series study. Environ Health 7 42, doi: 10.1186/1476-069X-7-42 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Henderson SB, Brauer M, MacNab YC, Kennedy SM. 2011. Three measures of forest fire smoke exposure and their associations with respiratory and cardiovascular health outcomes in a population-based cohort. Environ Health Perspect 119 1266 1271, doi: 10.1289/ehp.1002288 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Henderson SB, Johnston FH. Measures of forest fire smoke exposure and their associations with respiratory health outcomes. Curr Opin Allergy Clin Immunol. 2012;12:221–227. [PubMed] [Google Scholar]
+Ho RC, Zhang MW, Ho CS, Pan F, Lu Y, Sharma VK. 2014. Impact of 2013 south Asian haze crisis: study of physical and psychological symptoms and perceived dangerousness of pollution level. BMC Psychiatry 14 81, doi: 10.1186/1471-244X-14-81 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Holstius DM, Reid CE, Jesdale BM, Morello-Frosch R. 2012. Birth weight following pregnancy during the 2003 Southern California wildfires. Environ Health Perspect 120 1340 1345, doi: 10.1289/ehp.1104515 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Ignotti E, Valente JG, Longo KM, Freitas SR, Hacon Sde S, Netto PA. Impact on human health of particulate matter emitted from burnings in the Brazilian Amazon region. Rev Saude Publica. 2010;44:121–130. [PubMed] [Google Scholar]
+Jacobson Lda S, Hacon Sde S, de Castro HA, Ignotti E, Artaxo P, Ponce de Leon AC. Association between fine particulate matter and the peak expiratory flow of schoolchildren in the Brazilian subequatorial Amazon: a panel study. Environ Res. 2012;117:27–35. [PubMed] [Google Scholar]
+Jacobson Lda S, Hacon Sde S, de Castro HA, Ignotti E, Artaxo P, Saldiva PH, et al. 2014. Acute effects of particulate matter and black carbon from seasonal fires on peak expiratory flow of schoolchildren in the Brazilian Amazon. PloS One 9 e104177, doi: 10.1371/journal.pone.0104177 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Jalaludin B, Smith M, O’Toole B, Leeder S. Acute effects of bushfires on peak expiratory flow rates in children with wheeze: a time series analysis. Aust NZ J Public Health. 2000;24:174–177. [PubMed] [Google Scholar]
+Jayachandran S. Air quality and early-life mortality: evidence from Indonesia’s wildfires. J Hum Resour. 2009;44:916–954. [Google Scholar]
+Johnston FH, Bailie RS, Pilotto LS, Hanigan IC. 2007. Ambient biomass smoke and cardio-respiratory hospital admissions in Darwin, Australia. BMC Public Health 7 240, doi: 10.1186/1471-2458-7-240 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Johnston F, Hanigan I, Henderson S, Morgan G, Bowman D. Extreme air pollution events from bushfires and dust storms and their association with mortality in Sydney, Australia 1994–2007. Environ Res. 2011;111:811–816. [PubMed] [Google Scholar]
+Johnston FH, Henderson SB, Chen Y, Randerson JT, Marlier M, Defries RS, et al. 2012. Estimated global mortality attributable to smoke from landscape fires. Environ Health Perspect 120 695 701, doi: 10.1289/ehp.1104422 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Johnston FH, Kavanagh AM, Bowman DM, Scott RK. Exposure to bushfire smoke and asthma: an ecological study. Med J Aust. 2002;176:535–538. [PubMed] [Google Scholar]
+Johnston FH, Purdie S, Jalaludin B, Martin KL, Henderson SB, Morgan GG. 2014. Air pollution events from forest fires and emergency department attendances in Sydney, Australia 1996–2007: a case-crossover analysis. Environ Health 13 105, doi: 10.1186/1476-069X-13-105 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Johnston FH, Webby RJ, Pilotto LS, Bailie RS, Parry DL, Halpin SJ. Vegetation fires, particulate air pollution and asthma: a panel study in the Australian monsoon tropics. Int J Environ Health Res. 2006;16:391–404. [PubMed] [Google Scholar]
+Kong K, Coates HL. Natural history, definitions, risk factors and burden of otitis media. Med J Aust. 2009;191(9) suppl:S39–S43. [PMC free article] [PubMed] [Google Scholar]
+Lakshmi PV, Virdi NK, Sharma A, Tripathy JP, Smith KR, Bates MN, et al. Household air pollution and stillbirths in India: analysis of the DLHS-II National Survey. Environ Res. 2013;121:17–22. [PubMed] [Google Scholar]
+Lee TS, Falter K, Meyer P, Mott J, Gwynn C. Risk factors associated with clinic visits during the 1999 forest fires near the Hoopa Valley Indian Reservation, California, USA. Int J Environ Health Res. 2009;19:315–327. [PubMed] [Google Scholar]
+Leonard SS, Castranova V, Chen BT, Schwegler-Berry D, Hoover M, Piacitelli C, et al. Particle size-dependent radical generation from wildland fire smoke. Toxicology. 2007;236:103–113. [PubMed] [Google Scholar]
+Linares C, Carmona R, Tobías A, Mirón IJ, Díaz J. 2015. Influence of advections of particulate matter from biomass combustion on specific-cause mortality in Madrid in the period 2004–2009. Environ Sci Pollut Res 22 7012 7019, doi: 10.1007/s11356-014-3916-2 [PubMed] [CrossRef] [Google Scholar]
+Liu JC, Pereira G, Uhl SA, Bravo MA, Bell ML. A systematic review of the physical health impacts from non-occupational exposure to wildfire smoke. Environ Res. 2015;136:120–132. [PMC free article] [PubMed] [Google Scholar]
+MacIntyre EA, Karr CJ, Koehoorn M, Demers PA, Tamburic L, Lencar C, et al. Residential air pollution and otitis media during the first two years of life. Epidemiology. 2011;22:81–89. [PubMed] [Google Scholar]
+Marshall GN, Schell TL, Elliott MN, Rayburn NR, Jaycox LH. Psychiatric disorders among adults seeking emergency disaster assistance after a wildland-urban interface fire. Psychiatr Serv. 2007;58:509–514. [PubMed] [Google Scholar]
+Martin KL, Hanigan IC, Morgan GG, Henderson SB, Johnston FH. Air pollution from bushfires and their association with hospital admissions in Sydney, Newcastle and Wollongong, Australia 1994–2007. Aust NZ J Public Health. 2013;37:238–243. [PubMed] [Google Scholar]
+Mazzoli-Rocha F, Magalhães CB, Malm O, Saldiva PH, Zin WA, Faffe DS. Comparative respiratory toxicity of particles produced by traffic and sugar cane burning. Environ Res. 2008;108:35–41. [PubMed] [Google Scholar]
+McDermott BM, Lee EM, Judd M, Gibbon P. Posttraumatic stress disorder and general psychopathology in children and adolescents following a wildfire disaster. Can J Psychiatry. 2005;50:137–143. [PubMed] [Google Scholar]
+Miller LA, Schelegle ES, Capitanio JP, Clay CC, Walby WF. Persistent immune effects of wildfire PM exposure during childhood development. California Air Resources Board Contract Number 10–303. 2013 Available: http://www.arb.ca.gov/research/apr/past/10-303.pdf; [accessed 21 January 2014)
+Moore D, Copes R, Fisk R, Joy R, Chan K, Brauer M. Population health effects of air quality changes due to forest fires in British Columbia in 2003: estimates from physician-visit billing data. Can J Public Health. 2006;97:105–108. [PMC free article] [PubMed] [Google Scholar]
+Morgan G, Sheppeard V, Khalaj B, Ayyar A, Lincoln D, Jalaludin B, et al. Effects of bushfire smoke on daily mortality and hospital admissions in Sydney, Australia. Epidemiology. 2010;21:47–55. [PubMed] [Google Scholar]
+Mott JA, Mannino DM, Alverson CJ, Kiyu A, Hashim J, Lee T, et al. Cardiorespiratory hospitalizations associated with smoke exposure during the 1997 Southeast Asian Forest Fires. Int J Hyg Environ Health. 2005;208:75–85. [PubMed] [Google Scholar]
+Mott JA, Meyer P, Mannino D, Redd SC, Smith EM, Gotway-Crawford C, et al. Wildland forest fire smoke: health effects and intervention evaluation, Hoopa, California, 1999. West J Med. 2002;176:157–162. [PMC free article] [PubMed] [Google Scholar]
+Myatt TA, Vincent MS, Kobzik L, Naeher LP, MacIntosh DL, Suh H. Markers of inflammation in alveolar cells exposed to fine particulate matter from prescribed fires and urban air. J Occup Environ Med. 2011;53:1110–1114. [PubMed] [Google Scholar]
+Naeher LP, Brauer M, Lipsett M, Zelikoff JT, Simpson CD, Koenig JQ, et al. Woodsmoke health effects: a review. Inhal Toxicol. 2007;19:67–106. [PubMed] [Google Scholar]
+Nakayama Wong LS, Aung HH, Lamé MW, Wegesser TC, Wilson DW. Fine particulate matter from urban ambient and wildfire sources from California’s San Joaquin Valley initiate differential inflammatory, oxidative stress, and xenobiotic responses in human bronchial epithelial cells. Toxicol In Vitro. 2011;25:1895–1905. [PubMed] [Google Scholar]
+Nunes KV, Ignotti E, Hacon Sde S. Circulatory disease mortality rates in the elderly and exposure to PM2.5 generated by biomass burning in the Brazilian Amazon in 2005. Cad Saude Publica. 2013;29:589–598. [PubMed] [Google Scholar]
+Papanikolaou V, Adamis D, Mellon RC, Prodromitis G. Psychological distress following wildfires disaster in a rural part of Greece: a case-control population-based study. Int J Emerg Ment Health. 2011;13:11–26. [PubMed] [Google Scholar]
+Pavagadhi S, Betha R, Venkatesan S, Balasubramanian R, Hande MP. Physicochemical and toxicological characteristics of urban aerosols during a recent Indonesian biomass burning episode. Environ Sci Pollut Res Int. 2013;20:2569–2578. [PubMed] [Google Scholar]
+Prass TS, Lopes SR, Dórea JG, Marques RC, Brandão KG. Amazon forest fires between 2001 and 2006 and birth weight in Porto Velho. Bull Environ Contam Toxicol. 2012;89:1–7. [PubMed] [Google Scholar]
+Rappold AG, Cascio WE, Kilaru VJ, Stone SL, Neas LM, Devlin RB, et al. 2012. Cardio-respiratory outcomes associated with exposure to wildfire smoke are modified by measures of community health. Environ Health 11 71, doi: 10.1186/1476-069X-11-71 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Rappold AG, Stone SL, Cascio WE, Neas LM, Kilaru VJ, Carraway MS, et al. 2011. Peat bog wildfire smoke exposure in rural North Carolina is associated with cardiopulmonary emergency department visits assessed through syndromic surveillance. Environ Health Perspect 119 1415 1420, doi: 10.1289/ehp.1003206 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Resnick A, Woods B, Krapfl H, Toth B. Health outcomes associated with smoke exposure in Albuquerque, New Mexico, during the 2011 Wallow fire. J Public Health Manag Pract. 2015;21(suppl 2):S55–S61. [PubMed] [Google Scholar]
+Sastry N. Forest fires, air pollution, and mortality in southeast Asia. Demography. 2002;39:1–23. [PubMed] [Google Scholar]
+Settele J, Scholes R, Betts R, Bunn S, Leadley P, Nepstad D, et al. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE, et al. eds.) New York: Cambridge University Press; 2014. Terrestrial and inland water systems. pp. 271–359. [Google Scholar]
+Shaposhnikov D, Revich B, Bellander T, Bedada GB, Bottai M, Kharkova T, et al. Mortality related to air pollution with the Moscow heat wave and wildfire of 2010. Epidemiology. 2014;25:359–364. [PMC free article] [PubMed] [Google Scholar]
+Silveira HC, Schmidt-Carrijo M, Seidel EH, Scapulatempo-Neto C, Longatto-Filho A, Carvalho AL, et al. 2013. Emissions generated by sugarcane burning promote genotoxicity in rural workers: a case study in Barretos, Brazil. Environ Health 12 87, doi: 10.1186/1476-069X-12-87 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Sisenando HA, Batistuzzo de Medeiros SR, Artaxo P, Saldiva PH, Hacon Sde S. 2012. Micronucleus frequency in children exposed to biomass burning in the Brazilian Legal Amazon region: a control case study. BMC Oral Health 12 6, doi: 10.1186/1472-6831-12-6 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Smith MA, Jalaludin B, Byles JE, Lim L, Leeder SR. Asthma presentations to emergency departments in western Sydney during the January 1994 bushfires. Int J Epidemiol. 1996;25:1227–1236. [PubMed] [Google Scholar]
+Tan WC, Qiu D, Liam BL, Ng TP, Lee SH, van Eeden SF, et al. The human bone marrow response to acute air pollution caused by forest fires. Am J Respir Crit Care Med. 2000;161(4 pt 1):1213–1217. [PubMed] [Google Scholar]
+Tham R, Erbas B, Akram M, Dennekamp M, Abramson MJ. The impact of smoke on respiratory hospital outcomes during the 2002–2003 bushfire season, Victoria, Australia. Respirology. 2009;14:69–75. [PubMed] [Google Scholar]
+Thelen B, French NH, Koziol BW, Billmire M, Owen RC, Johnson J, et al. 2013. Modeling acute respiratory illness during the 2007 San Diego wildland fires using a coupled emissions-transport system and generalized additive modeling. Environ Health 12 94, doi: 10.1186/1476-069X-12-94 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Tse K, Chen L, Tse M, Zuraw B, Christiansen S. Effect of catastrophic wildfires on asthmatic outcomes in obese children: breathing fire. Ann Allergy Asthma Immunol. 2015;114:308–311.e4. [PMC free article] [PubMed] [Google Scholar]
+van Eeden SF, Tan WC, Suwa T, Mukae H, Terashima T, Fujii T, et al. Cytokines involved in the systemic inflammatory response induced by exposure to particulate matter air pollutants (PM10). Am J Respir Crit Care Med. 2001;164:826–830. [PubMed] [Google Scholar]
+Vedal S, Dutton SJ. Wildfire air pollution and daily mortality in a large urban area. Environ Res. 2006;102:29–35. [PubMed] [Google Scholar]
+Vora C, Renvall MJ, Chao P, Ferguson P, Ramsdell JW. 2007 San Diego wildfires and asthmatics. J Asthma. 2011;48:75–78. [PMC free article] [PubMed] [Google Scholar]
+Wegesser TC, Franzi LM, Mitloehner FM, Eiguren-Fernandez A, Last JA. Lung antioxidant and cytokine responses to coarse and fine particulate matter from the great California wildfires of 2008. Inhal Toxicol. 2010;22:561–570. [PubMed] [Google Scholar]
+Wegesser TC, Pinkerton KE, Last JA. 2009. California wildfires of 2008: coarse and fine particulate matter toxicity. Environ Health Perspect 117 893 897, doi: 10.1289/ehp.0800166 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Westerling AL, Hidalgo HG, Cayan DR, Swetnam TW. Warming and earlier spring increase western US forest wildfire activity. Science. 2006;313:940–943. [PubMed] [Google Scholar]
+Williams KM, Franzi LM, Last JA. Cell-specific oxidative stress and cytotoxicity after wildfire coarse particulate matter instillation into mouse lung. Toxicol Appl Pharmacol. 2013;266:48–55. [PMC free article] [PubMed] [Google Scholar]
+Wiwatanadate P, Liwsrisakun C. Acute effects of air pollution on peak expiratory flow rates and symptoms among asthmatic patients in Chiang Mai, Thailand. Int J Hyg Environ Health. 2011;214:251–257. [PubMed] [Google Scholar]
+Woodruff TJ, Parker JD, Adams K, Bell ML, Gehring U, Glinianaia S, et al. International Collaboration on Air Pollution and Pregnancy Outcomes (ICAPPO). Int J Environ Res Public Health. 2010;7:2638–2652. [PMC free article] [PubMed] [Google Scholar]
+Woodruff TJ, Sutton P. 2014. The Navigation Guide systematic review methodology: a rigorous and transparent method for translating environmental health science into better health outcomes. Environ Health Perspect 122 1007 1014, doi: 10.1289/ehp.1307175 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Yao J, Eyamie J, Henderson SB. 2016. Evaluation of a spatially resolved forest fire smoke model for population-based epidemiologic exposure assessment. J Expo Sci Environ Epidemiol 26 233 240, doi: 10.1038/jes.2014.67 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Youssouf H, Liousse C, Roblou L, Assamoi EM, Salonen RO, Maesano C, et al. Non-accidental health impacts of wildfire smoke. Int J Environ Res Public Health. 2014;11:11772–11804. [PMC free article] [PubMed] [Google Scholar]
+Zelikoff JT, Chen LC, Cohen MD, Schlesinger RB. The toxicology of inhaled woodsmoke. J Toxicol Environ Health B Crit Rev. 2002;5:269–282. [PubMed] [Google Scholar]
+Articles from Environmental Health Perspectives are provided here courtesy of National Institute of Environmental Health Sciences
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

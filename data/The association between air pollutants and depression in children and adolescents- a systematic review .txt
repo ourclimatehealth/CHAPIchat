@@ -1,0 +1,265 @@
+Skip to content
+IOP Science home
+Accessibility Help
+Search
+Journals
+Books
+Publishing Support
+Login
+Environmental Research Communications
+Inclusive Publishing Trusted Science, find out more. 
+
+
+Purpose-led Publishing, find out more.
+
+
+
+TOPICAL REVIEW • THE FOLLOWING ARTICLE ISOPEN ACCESS
+The association between air pollutants and depression in children and adolescents: a systematic review
+Xinyao Lian1, Xiaoyu Wan1, Feifei Si2, Jianhui Guo1, Ziqi Tang1, Yaqi Wang1, Shaodong Xie3 and Jing Li4,1
+
+Published 17 October 2023 • © 2023 The Author(s). Published by IOP Publishing Ltd
+Environmental Research Communications, Volume 5, Number 10
+Citation Xinyao Lian et al 2023 Environ. Res. Commun. 5 102002
+DOI 10.1088/2515-7620/ad00a6
+DownloadArticle PDF
+Figures
+References
+Open science
+Article metrics
+458 Total downloads
+Submit
+Submit to this Journal
+Share this article
+Share this content via email
+Share on Facebook (opens new window)
+Share on Twitter (opens new window)
+Share on Mendeley (opens new window)
+Article and author information
+Abstract
+Depression is a common disease with a high prevalence among children and adolescents. Emerging evidence suggests that air pollution can increase the risk of depression. However, studies examining the relationship between air pollution and depression in children and adolescents are still in their nascent stages. We conducted a systematic review of current studies to investigate how air pollution and air quality issues relating to wildfires affect depression in children and adolescents aged 6 to 19. Our study found that both wildfire-related air exposure and air pollution may be associated with an increased risk of depression among children and teenagers. Ozone exerts a short-term impact on depression in young populations, whereas fine particulate matter (PM2.5) and NO2 have a long-term impact. Heterogeneity exists across studies, necessitating further investigation. Attention should be paid to the effects of air pollution and wildfires on the mental health of children and adolescents.
+
+Export citation and abstract
+BibTeX RIS
+Previous article in issue
+Next article in issue
+
+Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.
+
+Supplementary data
+1. Introduction
+Depression is a mood disorder characterized by persistent sadness, loss of interest, and decreased energy, as well as sleep disturbance, loss of appetite, and lack of concentration [1]. In contrast to adult depression, irritability, self-injury, impulsive suicide behavior is more prominent in children and adolescents [2]. The global prevalence of major depressive disorder among children and adolescents aged 5 to 19 was 933.07 per 100000 population in 2019, according to data from the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2019. The outbreak of COVID-19 has also significantly exacerbated depressive disorder symptoms in youth [3]. Since depression may increase the risk of cardiovascular diseases and other diseases in children [4], affect children's quality of life [5], impose a detrimental influence on their health, and bring financial and medical burden to families and society [6], it's crucial to identify the modifiable risk factors of depression in children and adolescents.
+
+Air pollution is a major environmental determinant for global disease burden [7]. There are associations between exposure to air pollution and various diseases, such as stroke, ischemic heart disease, asthma, and chronic obstructive pulmonary disease (COPD) [7, 8]. In recent years, researchers have paid more attention to the association between depression and air pollution, and many studies have demonstrated the short- and long-term effects of air pollution on depression in the general population [9–12]. From the perspective of pathophysiology, air pollution has been proved to lead to depression by causing neuroinflammation, oxidative stress, cerebrovascular damage, and neurodegeneration [13, 14]. Moreover, children and teenagers are sensitive to air pollution exposure and more likely to be seriously affected because they are not only under the development stage of brain and lung, but also going through a crucial period of cognitive and emotional development [15, 16]. On the other hand, from a psychosocial point of view, children and adolescents are at a time of high mood swings and are more susceptible to other factors caused by air pollution, such as reduced activity and poor parenting. Therefore, it deserves special attention to investigate the effect of air pollution on depression in children and adolescents.
+
+However, the majority of current studies concentrate on the effect of air pollution in adult population [17] and most current studies have not specifically summarized and analyzed the association between air pollution and depression in children and adolescents, so as to provide a reference for future research investigating the prevention and intervention of juvenile depression by controlling their exposure to air pollution, as well as for the subsequent investigation of the association between air pollution and depression in children and adolescents. In their review on air pollution and depression, Zundel et al mentioned that the lack of literature on the effects of air pollution exposure on depression in children and adolescents was a concern, but the review did not specifically discuss the available relevant research [18]. To fill the knowledge gap, this study provides a comprehensive review of the relationship between air pollution and depression in children and adolescents worldwide by integrating relevant literature. Furthermore, we also summarized the research progress on the impact of wildfire-related air exposure on depression in children and adolescents, due to the rise of air pollution caused by the increasing frequency of wildfires as a result of climate change [19], which may have a worse effect than general air pollution [20].
+
+2. Methods
+This study was conducted and reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines [21]. The protocol of the systematic review has been registered in PROSPERO (https://www.crd.york.ac.uk/PROSPERO/), and the registration number is CRD42023430424.
+
+2.1. Search strategy
+We identified relevant publications before April 6th, 2023 by searching through PubMed and Web of Science (All Databases), using the following keywords: 'air pollutants', 'air pollution', 'Particulate Matter', 'Ultrafine Fibers', 'Ultrafine Particles', 'inhalable particles', 'PM2.5', 'PM10', 'PM1', 'PM0.1', 'NO2', 'nitrogen dioxide', 'NOx', 'nitrogen oxides', 'Ozone', 'sulfur dioxide', 'SO2', 'carbon monoxide', 'wildfire' and 'depression', 'depressive', 'depressive symptoms', 'depression disorder', 'major depression disorder', and 'children', 'adolescent', 'child', 'young', ' juvenile'. The scope of web of science subscriptions and specific search criteria can be found in Supplementary Materials.
+
+2.2. Study selection
+Two independent researchers (XL and XW) first screened the titles and abstracts, then reviewed the full text against eligibility criteria. Any disagreements were resolved by discussion with the third researcher (YW). The Inclusion and exclusion criteria were presented in concise form in table S1.
+
+The following criteria were used to determine inclusion: (1) types of studies were observational, including case-control studies, cohort studies, and cross-sectional studies; (2) The subjects' ages ranged from 6 to 19 years; (3) studies had health outcomes for depression; (4) exposure including outdoor air pollution, including air quality issues as a result of wildfires; (5) exposure period included the period after birth.
+
+By contrast, the exclusion criteria for studies were as follows: (1) types of studies were reviews, conference abstracts, case reports, or comments; (2) study subjects were preschoolers, adults over 19 years old, or animals; (3) study outcomes did not include depression or studies did not explicitly show results related to depression; (4) exposure was pollution other than outdoor air pollution and wildfires, such as indoor air pollution; (5) studies only measured exposure before birth.
+
+2.3. Study quality assessment
+In this study, two review authors (XL and XW) independently used the quality assessment scales to assess the quality of included studies. Any disagreement should be discussed with the third researcher (YW) to reach a final consensus.
+
+The Newcastle-Ottawa Scale (NOS) quality assessment tool was used to assess the quality of the cohort studies included in the analysis. NOS evaluates three main aspects of each study, namely selection, comparability and outcome, based on eight criteria. Except for the minor items in comparability, which have a maximum score of 2 points, the other items have a maximum score of 1 point. The maximum score for each study is 9, and studies with less than 5 points are identified as having a high risk of bias [22].
+
+We used the Joanna Briggs Institute (JBI) critical appraisal tool to evaluate the quality of the cross-sectional studies included in the analysis. JBI critical appraisal checklist for analytical cross-sectional studies mainly consists of 8 evaluation items. Evaluators are required to make a judgment of 'yes', 'no', 'unclear' or 'not applicable' for each evaluation item [23]. To ensure adequate quality and low bias, the answer to 'yes' is required for ≥50%–75% of the questions [24].
+
+2.4. Data extraction
+Two researchers (XL and XW) independently extracted the data. We extracted key metadata that can reflect the study characteristics, including study population (population source, age group), type of exposure, methods of exposure measurement, period of exposure measurement, techniques of depression measurement, methods of statistical analysis, and primary outcomes.
+
+2.5. Data analysis
+Due to the limited number of articles, we only used descriptive methods to make qualitative synthesis based on different health outcomes. We selected only the data from the studies that used OR (95% confidence interval [CI]) as the indicator of the association strength to be presented briefly in the form of forest plots, and all association strengths were briefly described in the manuscript.
+
+3. Results
+Following our search strategy, we identified 504 articles in Pubmed and 923 articles in Web of Science. After automatically removing duplicates in Endnote X9, 1341 articles were eventually retrieved. After applying the inclusion and exclusion criteria, a total of 10 articles were identified. The flow chart of literature retrieval was presented in figure 1. According to the evaluation results of NOS and JBI, the quality of these 10 included studies was good. The detailed results are shown in tables 1 and 2.
+
+ Zoom In Zoom Out Reset image size
+Figure 1. Flow chart of study selection.
+
+Download figure:
+
+ Standard image High-resolution image
+Table 1. NOS scores in the cohort studies included in the analysis.
+
+Author (Publication year)	Selection	Comparability	Outcome	Final score
+ 	Item1	Item2	Item3	Item4	Item5	Item6	Item7	Item8	 
+Latham et al (2021) [28]	1	1	1	0	2	1	1	0	7/9
+Roberts et al (2019) [16]	1	1	1	0	2	1	1	0	7/9
+Jorcano et al (2019) [26]	1	1	1	1	2	1	1	0	8/9
+Yolton et al (2019) [25]	1	1	1	1	2	1	1	0	8/9
+Rasnick et al (2021) [27]	1	1	1	1	2	1	1	0	8/9
+Zhao et al (2019) [23]	1	1	1	1	2	1	1	0	8/9
+Manczak et al (2022) [28]	1	1	1	0	2	1	1	0	7/9
+Item1: Representativeness of the Exposed Cohort;Item2: Selection of the Non-Exposed Cohort;Item3: Ascertainment of Exposure;Item4: Demonstration That Outcome of Interest Was Not Present at Start of Study;Item5: Comparability of Cohorts on the Basis of the Design or Analysis;Item6: Was Follow-Up Long Enough for Outcomes to Occur;Item7: Was Follow-Up Long Enough for Outcomes to Occur;Item8: Adequacy of Follow Up of Cohorts;
+
+Table 2. JBI evaluation of the cross-sectional studies included in the analysis.
+
+Author (Publication year)	Q1	Q2	Q3	Q4	Q5	Q6	Q7	Q8	Total
+Zhang et al (2008) [35]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	8
+Brown et al (2019) [32]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	8
+Brown et al (2019) [33]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	8
+Q1: Were the criteria for inclusion in the sample clearly defined?Q2: Were the study subjects and the setting described in detail?Q3: Was the exposure measured in a valid and reliable way?Q4: Were objective, standard criteria used for measurement of the condition?Q5: Were confounding factors identified?Q6: Were strategies to deal with confounding factors stated?Q7: Were the outcomes measured in a valid and reliable way?Q8: Was appropriate statistical analysis used?
+
+3.1. Measurement of depression and air pollution exposure in children and adolescents
+Depression scales in the air pollution-related studies of children and adolescents are showed in table 3. The majority of current research utilized self-reported scales for children and adolescents aged above six to quantify the conditions, including the Children's Depression Inventory (CDI) [25], and the Child Behaviour Checklist for ages 6–18 (CBCL/6-18) [26]. In addition, there were also scales for parents to assess their children's depression status, such as the Behavior Assessment System for Children-2 (BASC-2) [25, 27]. For 18-year-old teenagers, diagnostic interview schedules and self-reports were used according to the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) [16, 28].
+
+Table 3. Summary of depression scales used in relevant studies.
+
+Author (Publication year)	Age	Depression scale
+Zhang et al (2008) [35]	6–13	The Achenbach's Child Behavior Checklist
+Jorcano et al (2019) [26]	7–10	The Child Behaviour Checklist for ages 6–18 (CBCL/6-18)
+ 	7–11	The Strength and Difficulties Questionnaire (SDQ)
+Manczak et al (2022) [34]; Roberts et al (2019) [16]; Yolton et al (2019) [25]	9–13	The Children's Depression Inventory (CDI)
+Manczak et al (2022) [34]	9–13	The Youth Self Report (YSR).
+Brown et al (2019) [32]; Brown et al (2019) [33];	11–19	The Patient Health Questionnaire, Adolescent version (PHQ-A)
+Yolton et al (2019) [25]; Rasnick et al (2021) [27]	12	The Behavior Assessment System for Children-2 (BASC-2)
+Zhaoet al (2019) [31]	15	Depression Screener for Teenagers (DesTeen)
+Latham et al (2021) [28]	18	The Diagnostic Interview Schedule
+Table 4 shows the specific characteristics of the included studies on the relationship between air pollution and depression in children and adolescents. In terms of the measurement of outdoor air pollutants, some studies directly used data from air quality monitoring stations [29, 30], while others estimated long-term pollution exposure by land use regression (LUR) models [25–27], chemical mass balance and UNMIX models [25], the Community Multiscale Air Quality (CMAQ-urban) Modelling System [28], KCL urban model [16], and universal kriging methodology [26]. The assessments of long-term exposure included average exposure from birth to the diagnose of depression or of a specific age group [25, 26], and exposure over a specific period (a certain 1–3 years) [16, 28, 30]. Short-term measurement time included daily average concentrations of the most severe 8 h at 0 (the same day), 1, 2, 3, and 7 days (with a lag of 0–7 days) before the assessment of depressive symptoms [31], and the average concentration of depressive symptoms at that point [16].
+
+Table 4. The characteristics of studies included in the review analysis.
+
+Author (Publication year)	Study Design	Sample size	Population	Age	Studied Pollutants a	Exposure assessment	Exposure duration	Outcome definition	Statistical analysis
+Latham et al (2021) [28]	cohort	2066	Members of the Environmental Risk (E-Risk) Longitudinal Twin Study(England)	The average age of the participants at the time of the assessment was 18.4 years (SD = 0.36)	NO2, NOX, PM2.5, and PM10	The Community Multiscale Air Quality (CMAQ-urban) Modelling System, a regional chemical transport model coupled to street-scale dispersion model	Age-10 ambient air pollution exposure	The Diagnostic Interview Schedule	Binary logistic regression
+Roberts et al (2019) [16]	cohort	284	Members of the Environmental Risk (E-Risk) Longitudinal Twin Study(England)	12&18 years	PM2.5, NO2	KCL urban model	In 2007, when the twins were aged 12 years.	Age-12: CDI; Age-18: Self-report at age 18 & private interviews using the Diagnostic Interview Schedule.	Linear regression & Binary logistic regression
+Jorcano et al (2019) [26]	cohort	13,182	Children from 8 European population-based birth cohorts(Europe)	7–11 years	NO2, NOx, PM10, PM2.5, PMcoarse, PM2.5abs, and PAHs	Land use regression (LUR) models & universal kriging methodology	The postnatal period (the period stretching from birth until the emotional and behavioural problems assessment)	CBCL/6-18 or SDQ	Logistic regression models
+Yolton et al (2019) [25]	cohort	344	Study participants were drawn from the Cincinnati Childhood Allergy and Air Pollution Study (CCAAPS)(America)	on average, age 12.2 years	TRAP/ECAT	Land-use regression (LUR) model & chemical mass balance and UNMIX models	Current exposure based on the home address at age 12 years, and average childhood exposure based on all reported home addresses from birth through 12 years	Parents completed BASC-2; Children completed CDI-2	Linear regression models
+Rasnick et al (2021) [27]	cohort	263	Study participants were drawn from the Cincinnati Childhood Allergy and Air Pollution Study (CCAAPS) (America)	12	Airborne Pb	Land use random forest (LURF) models	From birth through age 12	BASC-2	Distributed lag model (DLM) framework
+Zhang et al (2008) [35]	cross-sectional	1363	Students in grades 2–5 from three primary schools in Beijing (China)	6–13 years old	NOx, SO2, PM2.5, CO	According to the routine air quality monitoring data from 2001 to 2005 combined with field monitoring.	2001–2005; 2007	the Achenbach's Child Behavior Checklist	Univariate analysis of variance and chi-square test
+Zhao et al (2019) [31]	cohort	2827	Two ongoing population-based German birth cohorts:(Germany)	15	O3	Long-term exposure assessment: optimal interpolation technique, area-specific land use regression (LUR) models; Short-term exposure assessment: The maximum of the daily maximum 8-h average concentration was selected over 0 (same day), and 1, 2, 3, and 7 days prior to the depressive symptoms assessment (lags 0–7 days).	Long-term exposure assessment: a year prior to depression symptoms assessment; Short-term exposure assessment: 0 (same day), and 1, 2, 3, and 7 days prior to the depressive symptoms assessment.	DesTeen	Logistic regression models
+Manczak et al (2022) [34]	cohort	213	Participants in the San Francisco Bay Area were recruited through local advertisements beginning in Autumn 2013. (America)	ages 9–13 years	O3	Daily maximum eight-hour average concentrations of ozone for all air monitoring sites in California were extracted for the years 2012–2014 and inverse distance weighting was used to estimate ozone exposure for the center of each census tract from nearbysites	2012–2014	CDI-S and YSR.	A series of growth curvemodels with Huber-White robust standard errors using HLM8
+Brown et al (2019) [32]	cross-sectional	5866	3070 grade 7–12 students from Fort McMurray, Alberta, Canada (collected in 2017, 18 months after the 2016 wildfire) and 2796 grade 7–12 students from Red Deer, Alberta, Canada (collected in 2014) (Canada)	age ranged from 11 to 19	Wildfire	Fort McMurray wildfire exposure	18 months after the 2016 wildfire	PHQ-A	Permutation testing
+Brown et al (2019) [33]	cross-sectional	3070	The entire available population of Grades 7–12 students in Fort McMurray, Alberta, Canada (Canada)	Age ranged from 11 to 19	Wildfire	Impact of Fire Questionnaire	18 months after the 2016 wildfire	PHQ-A	Permutation testing
+a Abbreviations: PM2.5, fine particulate matter; PM10, inhalable particles; PMcoarse, particulate matter with diameters between 10 and 2.5 μm; PM2.5abs, the absorbance of PM2.5 filters; NO2, nitrogen dioxide; NOx, nitrogen oxides; O3, ozone; SO2, sulfur dioxide; CO, carbon monoxide; PAHs, polycyclic aromatic hydrocarbons; TRAP, traffic-related air pollution; ECAT, elemental carbon attributable to traffic.
+
+Wildfires can lead to increased release of air pollutants, and we considered that children and adolescents at wildfire sites experience wildfire-related air pollution exposure. In studies exploring the effect of wildfire-related air exposure, some compared the mental health status of groups of children and adolescents with and without wildfire exposure, but did not employ detailed measurements of wildfire-related air exposure, such as specific air pollutant concentrations [32, 33].
+
+3.2. Effects of outdoor air pollution on depression in children and adolescents
+3.2.1. Effects of common outdoor air pollutants on depression in children and adolescents
+There are more studies on the effects of fine particulate matter (PM2.5) and nitrogen oxide (NOx) exposure on depression in children and adolescents than other outdoor air pollutants. And most studies focus on the long-term effects of these common outdoor air pollutants. Figure 2 shows the detailed association between air pollution and depression in children and adolescents.
+
+ Zoom In Zoom Out Reset image size
+Figure 2. Association between air pollutants and depression in children and adolescents.
+
+Download figure:
+
+ Standard image High-resolution image
+3.2.1.1. Effects of PM2.5 on depression in children and adolescents
+Regarding the short-term effects of PM2.5, Roberts et al found no obvious association between PM2.5 exposure at age 12 and a higher risk of depression over the same period [16].
+
+As for the long-term effects of PM2.5, exposure to high levels of PM2.5 at the age of 12 was associated with an increased risk of major depression among adolescents in the United Kingdom [16]. Nevertheless, Latham et al 's study showed a weak association between PM2.5 exposure at age 10 and depression at age 18 [28]. Jorcano et al found no association between postpartum PM2.5 exposure and depressive symptoms in European children aged 7 to 11 years [26].
+
+No short-term impact of PM2.5 component exposure research has been discovered before, while long-term studies have shown that exposure to traffic-related air pollution (specifically PM2.5 element carbon exposure) during childhood was correlated to depression in youths around the 12 years old [25]. However, lead exposure in the air (as a part of the PM2.5 component) from birth to the investigated time had little effect on depression in 12-year-old children, and no sensitive window period was found [27].
+
+3.2.1.2. Effects of nitrogen oxide on depression in children and adolescents
+Limited research has been conducted to investigate the short-term impact of nitrogen dioxide (NO2) exposure on depression in children and adolescents, yielding inconclusive results without statistically significant findings [16]. In terms of long-term NO2 exposure, neither Latham et al nor Jorcano et al found an association between NOx and depressive symptoms [26, 28].
+
+However, Roberts et al discovered that exposure at the age of 12 was associated with an increased risk of major depression at the age of 18 [16].
+
+3.2.1.3. Effects of ozone and other air pollutants on depression in children and adolescents
+High exposure to ozone (O3) may lead a sharp increase in symptoms of depression during adolescence, according to Manczak et al [34]. However, in a study investigating both short- and long-term effects of O3 exposure on depression in 15-year-old adolescents, Zhao et al discovered no link [31].
+
+Other than the pollutants mentioned above, Zhang et al classified air pollution through a comprehensive analysis of PM2.5, NOx, SO2, and CO concentrations, and they discovered that schoolchildren in high-pollution areas had greater reporting rates of depression [35]. However, there were no direct short- or long-term effects of particulate matter other than PM2.5 and polycyclic aromatic hydrocarbons (PAHs) exposure on depression in children and adolescents [26, 28]. Furthermore, no study examined the individual effect of SO2, CO2, and other pollutants on depression in children and adolescents.
+
+3.2.2. Effects of air quality issues relating to wildfires on depression in children and adolescents
+There were no studies exploring the short-term effects of wildfire-related air pollution on the risk of depression in children and adolescents, but in two studies addressing the Fort McMurray wildfire on May 3, 2016 we were able to examine the long-term effects of wildfire-related air exposure on depression in children and adolescents. Teenagers who encountered the Fort McMurray wildfire had higher PHQ-A depression scores after 18 months of the event, according to the research held by Brown et al [32]. Yet another study showed no significant association between being at the scene of a wildfire and depression in children and adolescents [33]. Unfortunately there are no studies that explicitly explore the effects of wildfire-related air problems on depression in children and adolescents in more detail.
+
+In summary, it is highly likely that PM2.5 and its carbon fractions, NO2, O3, and air quality issues relating to wildfires are associated with depression in children and adolescents and warrant further research exploration.
+
+4. Discussion
+Air pollution may be linked to an increased risk of depression in children and adolescents. There is contradictory evidence over the association between long-term or short-term exposure to air pollution or wildfire-related air exposure and their depression in groups of children and adolescents, with some studies finding a strong relationship, and others finding no or only weak effects. The heterogeneity of these findings may be caused by variations in measurement techniques and duration of exposure among studies and depressed symptoms, or influenced by other factors, which necessitates further investigation. In addition, while the precise mechanisms underlying a relationship between exposure to air pollution and depression remains unclear, pathophysiological and sociopsychological research suggests that it is biologically plausible, particularly in vulnerable populations.
+
+Based on studies of the mechanisms associating air pollution and depression in the general population, we focus on the specificity of children and adolescents in the pathway from air pollution exposure to increased risk of depression. Air pollution has been shown to increase the risk of depression in the population through a variety of pathophysiological pathways, including deposition of heavy metal toxic elements in the prefrontal cortex [36], alteration of the Nrf2/NLRP5 signaling pathway that controls inflammation [36], neurotransmitter-related changes such as dopamine depletion in the central nervous system [10], disruption of the operation of brain networks associated with the hereditary basis of depression [37], and effects on hormone secretion [38–40]. There are fewer studies on the mechanisms associated with air pollution and depression in children and young animals. A study in Mexico found that both healthy children and puppies exposed to high levels of air pollution showed structural brain changes, and that the children showed significant cognitive deficits [41]. In addition, compared with adults, children and adolescents are more sensitive to air pollution during physical development. On the other hand, children and adolescents have more ventilation per unit of body weight, less efficient nasal filtration for larger particles and higher flow conditions, and may spend more time outdoors, all of which contribute to their potential greater exposure to air pollution [42], leading to additional health effects.
+
+In terms of the psychosocial environment, children and adolescents are emotionally immature and easily affected by the environment. Air pollution can increase the risk of depression by reducing opportunities for outdoor activities [43], lowering happiness [43], stimulating teenage stress responses [29], and leading to more fatigue and emotional distress [44]. Moreover, Joo et al demonstrated that mothers residing in communities with higher exposure to PM2.5 experience more depressive symptoms, which may result in increased child abuse and subsequently, an escalation in internalizing problem behaviors, including depression, among 10-year-old children [30]. At the same time, it may be more difficult for younger children to comply with individual measures for air pollution prevention such as wearing masks, which may lead to higher exposure to pollutants.
+
+In addition to general air pollution exposure, wildfire-related air exposure may increase the risk of depression in children and adolescents. Air pollution from wildfires contains high levels of PM, carcinogens such as polycyclic aromatic hydrocarbons, and toxic gases such as carbon monoxide, leading to serious health hazards [45]. Breanna et al 's study also suggested that air pollution exposure from wildfires may have different effects on health than general air pollution exposure due to differences in chemical composition [46]. Several studies have shown that wildfires may affect the occurrence of depression in children and adolescents through non-pathophysiological factors, such as witnessing house damage and sensing social support [33, 47, 48]. There is no direct and reliable evidence of an association between wildfire-related air pollution and depression, but through previous studies, we believe that subsequent in-depth exploration of the pathophysiological mechanisms underlying the association between wildfire-related air pollution and depression is necessary.
+
+There are still some limitations to the current studies, which need to be further improved. First, most studies have only concentrated on the impacts of particulate matter and nitrogen oxides, thus future research might need to examine more about the long- and short-term effects of SO2, CO2, O3, and other PM2.5 components on depression in children and adolescents. Second, different periods and measurement techniques for both depression and air pollution exposure may lead to differences in study outcomes. As for the measurement of depression, using emergency visits for depression as a variable may produce a more prominent correlation [31]. Additionally, while there have been studies exploring the association between air pollution and suicide in children and adolescents [49], they have not explicitly explored depression-induced suicide outcomes which is something that needs to be explored further. Regarding to exposure measurement, the following points need to be noted: Firstly, the estimation of children's air pollution exposure was primarily based on their home addresses. Using personal monitoring equipment and collecting more pollution data in places where children spend a lot of time, such as schools, will provide a more comprehensive picture of children's air pollution exposure [16, 28]. Secondly, analyzing exposure data at a finer time scale may enable the identification of important information, such as key exposure windows, rather than averaging exposure measurements over a wide time range [26]. Thirdly, careful control of confounding factors, such as indoor air pollution [28], may affect the study's findings. In particular, exposure to indoor solid fuel combustion weakened the association between outdoor SO2 and NO2 exposure and depressive symptoms, which was not included in the models of the association between air pollution and depression in children and adolescents [50]. Moreover, as potential effect modifiers, hereditary factors may also influence individuals' biological reaction to air pollution exposure and the subsequent development of mental health issues [16]. Currently there were more than one hundred genetic variants known to be associated with depression [51], and participants with a higher genetic risk were more likely to develop depression when exposed to high levels of air pollution [52]. But most studies do not include genetic factors in their models. Furthermore, most current pollution studies focus on single pollutants, the combined effects of multiple pollutants need to be further explored and discussed.
+
+When it comes to the analysis of wildfire-related air exposure, one of the most important shortcomings is that there are currently no pathophysiological studies of wildfire-related air pollution exposure and depression in children and adolescents, which needs to be explored further. Second, the limitations of some of the wildfire-related studies are also worth considering. Some studies have noted that certain variables may change in the period between the wildfire and the beginning of the investigation. These variables cannot be validated by the investigation, causing a divergence to the research [48]. Thus, conducting a longitudinal study as soon as the wildfire occurs can be conducive in addressing this issue. Additionally, the existing children and adolescents' studies on depression caused by wildfires primarily focused on school students, which may not accurately reflect the local youth group [48]. Youngsters without available data due to truancy and other issues may have higher chance to be affected by wildfires [48]. In the future, researchers may consider to expand the scope of schools or community units to obtain project participants, and supplementary data of students not investigated should also be noted.
+
+To our knowledge, this is the first review to examine the effects of air pollution on depression in children and adolescents. However, due to the limited number of articles, we only conducted a descriptive synthesis and did not examine possible differences between genders or ethnicities.
+
+5. Conclusion
+Children and adolescents may be exposed to more air pollution, and are more sensitive to air pollution exposure. Currently, there is only a limited number of studies examining the association between air pollution and depression in children and adolescents. Several studies have suggested that air pollutants and wildfire-related air exposure might cause depression in children and adolescents through multiple ways, however, other studies have produced conflicting results, which may be attributable to the heterogeneity of the study population, as well as disparities in measuring methods and time selection of both exposure and depression. Therefore, further research is needed to confirm these findings. At the same time, it is recommended that children and teenagers should wear masks and reduce outdoor activities during periods of heavy air pollution exposure. Teachers, parents or caregivers are also advised to be aware of the possible association between air pollution exposure and depression in children and adolescents, especially in cases of high air pollution exposure, and to encourage children and adolescents to participate in more indoor activities and to interact more.
+
+Acknowledgments
+This study was supported by special fund of State Key Joint Laboratory of Environmental Simulation and Pollution Control (23K02ESPCP).
+
+Data availability statement
+All data that support the findings of this study are included within the article (and any supplementary files).
+
+Conflicts of interest
+The authors declare that they have no conflicts of interest.
+
+Authors' contributions
+J L designed research and directed its implementation; X L finished data screening, data extraction, and data analysis; X L made the figures and tables; X L examined the data processing; X L and X W interpreted the results and wrote the manuscript; S X, F S, J G, Z T, and Y W reviewed and edited the writing.
+
+Show References
+Supplementary data
+Abstract
+1. Introduction
+2. Methods
+3. Results
+4. Discussion
+5. Conclusion
+Acknowledgments
+Data availability statement
+Conflicts of interest
+Authors' contributions
+References
+You may also like
+JOURNAL ARTICLES
+Early-life oxidative stress due to air pollution. A scoping review focusing on identifying potential '-OMICS' biomarkers from body fluids
+Oral health and halitosis among type 1 diabetic and healthy children
+On the importance of developing a new generation of breath tests for Helicobacter pylori detection
+Associations of sex, age and adiposity in endothelium-independent dilation in children
+Utilization of bioelectrical impedance vector analysis (BIVA) in children and adolescents without diagnosed diseases: a systematic review
+Four-second dynamic exercise testing (T4S) for the assessment of cardiac vagal modulation in obese adolescents
+Physics World Jobs
+Senior & Principal Criticality Safety Assessors
+AWE
+Science Program Officer, Heising-Simons Foundation
+Heising-Simons Foundation
+Postdoctoral position: Impacts of terrestrial climate change on the lunar orbit, Univ of Michigan
+University of Michigan: Earth and Environmental Sciences
+More jobsPost a job
+IOPSCIENCE
+Journals
+Books
+IOP Conference Series
+About IOPscience
+Contact Us
+Developing countries access
+IOP Publishing open access policy
+Accessibility
+IOP PUBLISHING
+Copyright 2024 IOP Publishing
+Terms and Conditions
+Disclaimer
+Privacy and Cookie Policy
+PUBLISHING SUPPORT
+Authors
+Reviewers
+Conference Organisers
+This site uses cookies. By continuing to use this site you agree to our use of cookies.
+IOP Publishing Twitter page
+IOP Publishing Facebook page
+IOP Publishing LinkedIn page
+IOP Publishing Youtube page
+IOP Publishing WeChat QR code
+IOP Publishing Weibo page
+IOP Publishing
+PDF
+Help

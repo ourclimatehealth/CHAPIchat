@@ -1,0 +1,366 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of npgopen
+J Expo Sci Environ Epidemiol. 2021; 31(3): 503–513. Published online 2021 Apr 15. doi: 10.1038/s41370-021-00323-7
+PMCID: PMC8134052PMID: 33859340
+The relationship between air pollutants and maternal socioeconomic factors on preterm birth in California urban counties
+Zesemayat K. Mekonnen,1 John W. Oehlert,2 Brenda Eskenazi,3 Gary M. Shaw,2 John R. Balmes,1,3,4 and Amy M. Padulacorresponding author5
+Author information Article notes Copyright and License information PMC Disclaimer
+Associated Data
+Supplementary Materials
+Go to:
+Abstract
+Background
+Preterm birth is the leading cause of perinatal morbidity and mortality in the U.S. and disparities among racial and ethnic groups persist. While etiologies of preterm birth have not been fully elucidated, it is probable that environmental and social factors play a role.
+
+Objective
+We hypothesized that there is an interactive association between exposure to fine particulate matter (PM2.5) or ozone (O3) and neighborhood socioeconomic factors that increase the risk of preterm birth.
+
+Methods
+We conducted a retrospective study using geocoded birth certificate data between 2007 and 2011, daily ambient air quality data on PM2.5 and O3, and American Community Survey (2007–2011 5-year estimates) data to assess census tract-level socioeconomic factors in California urban counties.
+
+Results
+Our study found a small positive association between maternal exposures to PM2.5 and O3 and preterm birth that varied by gestational exposure period. In mixed-effects models, we found an increase in the risk of preterm birth for a one-unit change in PM2.5 averaged across the entire pregnancy (AOR = 1.02, 95% CI: 1.01, 1.02) and O3 during 3-months pre-pregnancy (AOR = 1.03, 95% CI: 1.02, 1.04). Interaction between census tract-level factors and air pollutants showed an increase in the risk of preterm birth among mothers living in higher socioeconomic areas, though, a fixed cohort bias sensitivity analysis showed these associations were not significant.
+
+Significance
+These findings substantiate previous studies that showed associations between air pollution and preterm birth, even as pollution levels have decreased. This study has important implications for policy decisions and may help inform research on potential mechanisms of preterm birth.
+
+Keywords: Preterm birth, Air pollution, Socioeconomic status, Ozone, PM2.5
+Go to:
+Introduction
+Approximately 10% of all infants born in California are preterm [1]. Preterm birth is defined as birth at less than 37 weeks of gestational age and is the leading cause of perinatal morbidity and mortality in the United States [2]. It remains an important problem that has substantial public health costs to society in child follow-up care and future adverse health outcomes in adulthood [3, 4]. Children born prematurely are more likely to have developmental problems and learning disabilities such as cerebral palsy, impaired cognitive development, and sensory deficits as well as an increased risk of chronic disease in adulthood such as type 2 diabetes mellitus and cardiovascular disease [5].
+
+While the pathophysiology of preterm birth is still being investigated, it is probable that a combination of genetic, social, and environmental factors contribute [6]. Since preterm birth is thought to be a condition induced by multiple pathways and heterogeneous mechanisms, it is difficult to identify intervention targets and achieve prevention results [7]. Risk factors for preterm birth include advanced maternal age, self-reported race and ethnicity, a plurality of births, co-morbidities, a prior preterm birth history, and environmental or social factors [8]. In particular, previous studies have shown that the use of self-reported race and ethnicity is a risk factor for preterm birth and approximates lived experiences of systemic discrimination and racism [9–13]. Evidence on the role of chronic exposure to stress includes the effect of “weathering” and the increased allostatic load of stress experienced by women of color as well as changes seen to the hypothalamic-pituitary axis and immune system that may lead to preterm birth [14–18]. While there is no established standard measure or instrument to quantify racism in epidemiological studies, self-reported race and ethnicity may be used as a proxy for many domains of racism and racial discrimination, particularly in studies without contact with subjects [19]. Several studies, after accounting for the individual socioeconomic characteristics of mothers, reported an association between measures of neighborhood socioeconomic deprivation and preterm birth [3, 20].
+
+In conjunction with social factors, another important area of investigation is the role of environmental factors. Outdoor air pollution has been associated with an increased risk of morbidity and mortality associated with multiple diseases including cardiovascular disease, acute respiratory infection, asthma, and adverse pregnancy outcomes, including preterm birth [21]. Studies have shown that maternal exposure to air pollutants during pregnancy increases the risk of preterm birth through various processes related to inflammation, oxidative stress, endocrine disruption, and impaired oxygen transport across the placenta [22, 23]. In particular, several studies have found that fine particle matter with a diameter of less than or equal to 2.5 μm (PM2.5), is associated with preterm birth and adverse birth outcomes [21]. Padula et al. [24] investigated the relationship between exposure to traffic-related air pollution (TRAP) in the San Joaquin Valley during pregnancy and the risk of preterm birth [24]. They found increased odds of early preterm birth (i.e., delivery before 32 weeks gestation) in women exposed to the highest quartile of TRAP during the second trimester providing evidence in support of an air pollution-preterm birth association that has been reported by other investigators [25]. In addition, other studies conducted in the U.S. and globally have shown associations between ozone (O3) and preterm birth [26, 27].
+
+Moreover, exposure to air pollution is disproportionately higher in communities of color and lower socioeconomic status (SES) [28, 29]. Combined with the health inequities seen in preterm delivery among Black births, a reproductive and environmental justice framework is useful when studying the relationship between exposure to air pollutants and sociodemographic factors on preterm birth and its implications for policy [30, 31]. Environmental justice refers to the fair and equal treatment and right to a clean environment [32]. Pursuant to the Clean Air Act, the U.S. environmental protection agency (EPA) established a network of air pollution monitors in order to assess whether areas were in compliance with the nationally set ambient air quality standards. The use of air quality measurements from these monitors in combination with sociodemographic information on preterm birth can be an important way to assess if the current standards are unmet or inadequate [33, 34]. Several studies have shown stronger associations of preterm birth with exposure to air pollutants when interaction with neighborhood-level sociodemographic covariates is included in the analysis [35–37]. Reproductive justice refers to the right to have children or not and parent those children in a safe and healthy environment [38]. This intersectionality with environmental justice is an important rationale for investigating the relationship between exposure to air pollutants such as PM2.5 and O3 and social factors during pregnancy and preterm birth. We sought to determine if there is an interactive association between exposure to air pollutants and neighborhood socioeconomic factors that increased the risk of preterm birth in California urban counties during 2007–2011. Understanding etiologies of preterm birth including both racial/ethnic and environmental factors and their possible interaction may help inform policy decisions to address some of the health disparities that currently exist.
+
+Go to:
+Methods
+Study population
+Birth certificates from all births to women living in the six California counties of Alameda, Contra Costa, Fresno, Los Angeles, San Diego, and San Francisco from 2007 to 2011 were obtained from the Birth Statistical Master files at the California Department of Public Health. The study population originated from 1,132,953 births from these six counties between 2007 and 2011 (Supplemental data, Fig. S1). Exclusions for the study population included those with multiple births, i.e., twins or greater (n = 36,160), those with gestational age missing or less than 20 weeks or more than 42 weeks (n = 11,578), missing covariates (maternal age, education, race/ethnicity) (n = 49,169). All remaining birth records were merged with air pollution exposure data for O3 and PM2.5 (n = 68,394 did not have available air pollutant data). Finally, births without complete exposure defined as availability estimates for 3 months pre-pregnancy and at least 5 months post-conception were excluded (n = 13,701). The final study population included 953,951 singleton births.
+
+The maternal residence at birth locations, street addresses, obtained from California birth certificates were geocoded to x and y coordinates with ArcGIS software (ESRI, Redlands, CA) and residence addresses were corrected with ZP4 software (Semaphore Corporation, Aptos, CA). Maternal factors from the Birth Statistical Master files included: maternal age, maternal race and ethnicity, maternal education, maternal country of origin, source of payment for birth delivery (Medi-Cal, private, uninsured, other), number of prenatal care visits, month prenatal visits began, year of birth, the season of conception, and self-reported tobacco use. Additional data on current smoking status, prenatal care, maternal pre-pregnancy, and gestational diabetes and hypertension, maternal height, and pre-pregnancy weight were obtained from the hospital discharge record obtained through the office of statewide health planning and development. These data were linked to birth statistical master files using a probability matching algorithm that included infant birth date, birth hospital, delivery mode, and mother’s date of birth, and other maternal information [39, 40]. All protocols for the study were approved by the Committee for the Protection of Human Subjects within the Health and Human Services Agency of the State of California and the Institutional Review Boards of the University of California, San Francisco, and Stanford University.
+
+We used the 2007–2011 5-year American community survey to examine census tract-level variables of SES: the GINI index of income inequality, highest educational attainment for populations 25 years and older, percent unemployed population in the labor force for populations 25 years and older, median household income in dollars, the percent at poverty level, and households with public assistance income. These variables were used to capture area-level socioeconomic factors of an individual’s surroundings. The boundaries do not necessarily correspond to where individuals spend their time, but the census tract for this purpose is a proxy for the neighborhood.
+
+Ambient air quality data for daily ozone (O3) and fine particulate matter (PM2.5) were obtained from the national air monitoring stations/state and local air monitoring stations. The EPA developed a Bayesian space-time fusion model to estimate daily 8-h maximum O3 concentration and 24-h average of PM2.5 for each 2010 US census tract centroid in the United States. The model fuses data from the ground-based monitoring network with a community model for air quality model estimates with output on 12*12 km grids [41]. Data for ambient air quality data for daily O3 and PM2.5 were summarized into 1-month exposure periods backward from live birth until a 12-month exposure period had been estimated. They were then further pooled into 3-month or trimester estimates. Air pollutant measurements were dichotomized into high and low categories. The cutoff PM2.5 was set by the median, 12.9 µg/m3, which is slightly higher than the annual EPA limit of 12 µg/m3 [42]. For O3, the cutoff was set by the median, 39 ppb, which is substantially lower than the EPA 8-h max of 0.070 ppm [43].
+
+Data from air pollution estimates and socioeconomic factors were merged at the census tract level and birth records were assessed at the individual level.
+
+Statistical methods
+Primary analysis Statistical analyses were performed using the R statistical program in RStudio (RStudio, Inc, Boston, MA). We used logistic regression models to estimate odds ratios (OR) and 95% confidence intervals (CI) to quantify the risk of total preterm birth (<37 weeks gestation) and early preterm birth (<32 weeks gestation) at the individual level in relation to a 1-unit change in pollutant (PM2.5 and O3). Two-group comparisons for continuous parametric variables were made utilizing the Student t-test and a Wilcoxon rank-sum for non-parametric continuous variables. Two-group comparisons for dichotomous variables were made using a Pearson’s chi-square test. The correlation was calculated using Pearson’s correlation coefficients. According to our a priori analysis plan, each model was adjusted for the following covariates: maternal age (<20 and >35 years), race/ethnicity, education, prenatal care in the first trimester, cigarette use in the first trimester, year of birth, and insurance payment of delivery. Stratified analyses were conducted and tested for statistical multiplicative interaction using interaction terms between air pollution and census tract-level covariates (poverty, GINI index, education, public assistance, unemployed, median HH income). Census tract-level covariates were placed into dichotomous high and low categories. Then, each model included a single individual SES factor with a single pollutant as an interaction term. Wald chi-squared tests were calculated for the interaction terms (pollutant*individual SES factor) to determine which census tract-level SES variables had multiplicative interactions with air pollution to affect preterm birth.
+Secondary analysis Additional sensitivity analyses were conducted to validate our primary findings. Mixed-effects models were generated using census tract to account for spatial autocorrection of study subjects. To address potential fixed cohort bias, we performed a sensitivity analysis wherein we removed births with conception dates 20 weeks or more before the beginning of the cohort and 42 weeks or less before the cohort ended [44]. This excluded 8% of births.
+Go to:
+Results
+Demographic characteristics of the study population are shown in Table 1. The prevalence of preterm birth was 9.2% and differed among racial groups with the highest prevalence among Black women (12.9%). Preterm births were higher among mothers aged <20 or >35 years old. About a quarter of the population had a college degree or higher (26.5%) and roughly half of the individuals were insured by Medi-Cal (48.6%). Over the study period, there was a slight decrease in the frequency of preterm birth per year.
+
+Table 1
+Characteristics of the study population for singleton births of six counties in California, 2007–2011 N = 953,951.
+
+Preterm birth	Term birth
+N = 87, 495 (9.2%)	N = 866,456 (90.8%)
+Maternal age (years), Mean ± SD n (%)	28.6 ± 6.7	28.5 ± 6.3
+  15–20	8756 (10.6)	73,654 (89.4)
+  20–25	17,881 (9.2)	175,949 (90.8)
+  25–30	20,925 (8.5)	225,828 (91.5)
+  30–35	21,049 (8.5)	226,455 (91.5)
+  >35	18,884 (10.3)	164,570 (89.7)
+Race, n (%)
+  White	43,451 (8.6)	462,365 (91.4)
+  Black	8860 (12.9)	59,969 (87.1)
+  Native American/Alaskan Native	297 (9.3)	2913 (90.7)
+  Asian/Pacific Islander	9530 (8)	109,758 (92)
+  Other/unknown	25,357 (9.9)	231,451 (90.1)
+Ethnicity, n (%)
+  Hispanic (1)	48,176 (9.7)	448,935 (90.3)
+  Non-Hispanica (2)	39,319 (8.6)	417,521 (91.4)
+Maternal origin of birth, n (%)
+  Mother, foreign born	39,765 (8.9)	407,056 (91.1)
+  Mother, US born	47,709 (9.4)	459,136 (90.6)
+Maternal education, n (%)
+  Less than high school	25,976 (10.6)	217,999 (89.4)
+  High school/GED	23,703 (9.9)	215,704 (90.1)
+  Some college	20,320 (9.3)	197,219 (90.7)
+  College degree or more	17,496 (6.9)	235,534 (93.1)
+Maternal health, n (%)
+  Pre-existing hypertension	1699 (35.4)	3107 (64.6)
+  No history of pre-existing hypertension	85,796 (0.9)	863,349 (90.1)
+  Gestational hypertension	1640 (17.3)	7857 (82.7)
+  No gestational hypertension	85,855 (0.9)	858,599 (90.1)
+  Pre-existing diabetes	1721 (22.1)	6061 (77.9)
+  No history of pre-existing diabetes	85,774 (0.9)	860,395 (90.1)
+  Gestational diabetes	1824 (21.6)	6627 (78.4)
+  No gestational diabetes	85,671 (0.9)	859,829 (90.1)
+  Pre-eclampsia	7885 (28.3)	19,931 (71.7)
+  No pre-eclampsia	79,610 (0.9)	846,525 (90.1)
+Tobacco use, n (%)
+  Non-smokers	83,417 (0.9)	839,703 (90.1)
+  >0 and <10 cigs/day	1386 (13.8)	8662 (86.2)
+  10–20 cigs/day	51 (12.0)	374 (88.0)
+  >20 cigs/day	250 (14.8)	1433 (85.2)
+BMI (pre-pregnancy), M ± SD	26.2 ± 6.3	25.6 ± 6.1
+Number of Prenatal care visits, M ± SD	11.2 ± 4.5	12.4 ± 3.6
+Insurance at time of delivery, n (%)
+  Medi-Cal	47,685 (10.3)	415,961 (89.7)
+  Private	36,247 (8)	417,674 (92)
+Birth year, n (%)
+  2007	19,561 (9.9)	178,714 (90.1)
+  2008	17,400 (9.5)	165,718 (90.5)
+  2009	16,690 (9.3)	162,154 (90.7)
+  2010	17,302 (8.7)	181,466 (91.3)
+  2011	16,542 (8.5)	178,404 (91.5)
+Season of conception, n (%)
+  Fall	22,211	(9.3)	217,853	(90.7) 
+  Winter	21,740	(9)	218,864	(91)
+  Spring	21,736	(9.1)	215,990	(90.9)
+  Summer	21,808	(9.3)	213,749	(90.7)
+Parity, n (%)
+  Nulliparous	33,587	(8.6)	357,594	(91.4)
+  1 or more	53,908	(9.6)	508,862	(90.4)
+Sex of infant, n (%)
+  Female	39,340	(8.5)	425,275	(91.5)
+  Male	48,150	(0.8)	441,180	(90.2)
+  Unknown	5	(83.3)	1	(16.7)
+Exposure to PM2.5 (µg/m3), whole pregnancy, M ± SD	13.5 ± 3.1	13.2 ± 2.9
+Exposure to O3 (ppb), whole pregnancy, M ± SD	39.0 ± 7.6	38.8 ± 6.8
+Open in a separate window
+aIncluded unknown/other.
+
+Characteristics of the study population were compared across maternal exposure to air pollutants, PM2.5 and O3 (Table S1). Mothers with an “other” or unknown race were more likely to live in areas with higher PM2.5 and White mothers were more likely to live in areas with higher O3. Owing to the decrease of PM2.5 over the study period, the number of births in the high PM2.5 category diminished from 2007 (31.5%) to 2011 (2.3%).
+
+Census tract-level covariates were compared between preterm and term births (Table 2). Among preterm births, the average median household income of the census tract of maternal residence was lower ($55,716) than among term births ($59,947). All socioeconomic factors were statistically different between preterm and term birth census tracts except for the GINI index of income inequality. We calculated a correlation matrix for the census tract-level covariates, which revealed strong correlations between the poverty, income, education, and state and federal assistance programs (SNAP/CalFresh, a food assistance program, public assistance—only including general assistance and temporary assistance to needy families (TANF) assistance, and total assistance—including all programs) (Fig. S2).
+
+Table 2
+Bivariate analysis between neighborhood census-tract covariates and birth outcome.
+
+Preterm births	Term births	p-value
+N = 87,495 (9.2%)	N = 866,456 (90.8%)
+Neighborhood census tract-level variables, Mean ± SD
+ Median household income, dollars	55,716 ± 26,577	59,497 ± 28,216	<0.001
+ Percent of population with income below poverty level	19.2 ± 12.9	17.5 ± 12.3	<0.001
+ GINI index of income inequality	0.408 ± 0.06	0.408 ± 0.06	0.18
+ Percent of population that graduated high school*	72.9 ± 18.9	75.4 ± 18.8	<0.001
+ Percent total population unemployed*	35.3 ± 7.2	34.8 ± 7.2	<0.001
+ Percent on total assistance (include SSI, SNAP, Public assistance)	23.4 ± 17.3	21.1 ± 16.7	<0.001
+ Percent on public assistance	5.4 ± 5.1	4.8 ± 4.7	<0.001
+ Percent on SNAP/food stamps	11.1 ± 9.4	9.8 ± 8.9	<0.001
+ Percent on supplemental security income	6.5 ± 4.4	6.1 ± 4.3	<0.001
+Open in a separate window
+SSI supplemental security income, SNAP supplemental nutritional assistance program.
+
+*Population 25 years and older; P-value is from Chi-Squared Pearson test.
+
+Preterm birth and air pollution
+Table 3 presents the crude and adjusted ORs estimating the associations between maternal exposure to air pollutants with total preterm birth (<37 weeks) and early preterm birth (<32 weeks). We found a positive association between both PM2.5 and O3 and preterm birth (Fig. 1). We saw the highest risk of preterm birth associated with a 1-unit (μg/m3) increase in exposure to PM2.5 during the whole pregnancy exposure period [adjusted odds ratio (AOR) = 1.05, 95% CI: 1.03, 1.07], whereas we found the association between O3 and preterm birth to be highest in the 3-month pre-pregnancy period for every 1-unit (ppb) increase in O3 (AOR = 1.08, 95% CI: 1.06, 1.10). For early preterm birth (<32 weeks), we found the highest risk associated with O3 during the third trimester pregnancy period (AOR = 1.05, 95% CI: 0.93, 1.10) and no significant association for PM2.5 during any period.
+
+Table 3
+Association between maternal exposure to PM2.5 and O3 with preterm birth and early preterm birth by exposure period.
+
+Preterm birth (<37 weeks)	Early preterm birth (<32 weeks)
+N = 87,495/953,951	N = 15,418/87,495
+Crude	Adjusteda	Crude	Adjusteda
+Exposure to PM2.5	COR (95% CI)	AORa (95% CI)	COR (95% CI)	AORa (95% CI)
+3 months pre-pregnancy	1.10 (1.08, 1.12)	1.01 (0.99, 1.03)	1.01 (0.97, 1.05)	0.99 (0.95, 1.03)
+ First trimester	1.10 (1.09, 1.12)	1.00 (0.98, 1.02)	1.04 (1.00, 1.08)	0.95 (0.91, 0.99)
+ Second trimester	1.12 (1.10, 1.13)	1.02 (1.00, 1.03)	1.00 (0.97, 1.04)	1.01 (0.97, 1.05)
+ Third trimester	1.08 (1.07, 1.10)	0.97 (0.95, 0.99)	1.07 (1.03, 1.11)	0.91 (0.87, 0.96)
+Whole pregnancy	1.16 (1.14, 1.17)	1.05 (1.03, 1.07)	1.04 (1.01, 1.08)	0.96 (0.92, 1.00)
+Exposure to O3
+ 3 months pre-pregnancy	1.07 (1.05, 1.08)	1.08 (1.06, 1.10)	1.00 (0.96, 1.03)	1.01 (0.97, 1.05)
+  First trimester	1.05 (1.03, 1.06)	1.05 (1.03, 1.06)	1.03 (1.00, 1.07)	0.97 (0.94, 1.01)
+  Second trimester	1.01 (1.00, 1.03)	1.02 (1.00, 1.03)	1.01 (0.98, 1.05)	0.98 (0.94, 1.03)
+  Third trimester	1.04 (1.02, 1.05)	1.05 (1.03, 1.06)	1.02 (0.98, 1.07)	1.05 (0.93, 1.10)
+ Whole pregnancy	1.00 (0.98, 1.01)	1.04 (1.02, 1.05)	1.08 (1.05, 1.12)	0.94 (0.90, 0.97)
+Open in a separate window
+aAdjusted for a season of conception, maternal cigarette use, age, race/ethnicity, education, payment, prenatal visits began in the first trimester, year of birth.
+
+bHigh/low cutoff is median PM2.5 = 12.9, high/low cutoff for is median O3 = 39 ppb for the whole pregnancy (EPA limits are Annual PM2.5 = 12 µg/m3, 8-h max O3 = 0.070 ppm) include the reference category. High is the reference category.
+
+An external file that holds a picture, illustration, etc.
+Object name is 41370_2021_323_Fig1_HTML.jpg
+Fig. 1
+Associations between air pollutants, PM2.5 and O3, and preterm birth by maternal exposure period.
+Adjusted odds ratio (aOR) included a season of conception, cigarette use, age, race/ethnicity, payment, prenatal visits that began in the first trimester. A For preterm birth (<37 weeks), the aOR for all exposure periods was greater than one. For O3 exposure, the aOR was highest in the 3-month pre-pregnancy period for every 1-unit (ppb) increase in O3 (aOR = 1.10, 95% CI: 1.08, 1.12), while for PM2.5, the highest aOR of preterm birth was associated during the whole pregnancy exposure period (aOR = 1.10, 95% CI: 1.09, 1.12). B For early preterm birth (<32 weeks), an increased risk was associated with O3 during the whole pregnancy period (aOR = 1.07, 95% CI: 1.03, 1.11) and PM2.5 during the third trimester (aOR = 1.09, 95% CI: 1.04, 1.14).
+
+Associations between pollutants and preterm birth differed by the season of conception (Table S4). Births conceived in the spring (March–May) compared to other seasons had larger associations between O3 and preterm birth with AORs ranging between 1.03 and 4.48 across the different exposure periods. Births conceived in the summer (June–August) compared to other seasons had stronger associations between PM2.5 and preterm birth with AORs ranging between 1.06 and 1.41 across the different exposure periods. Overall, the remaining seasons of conception had associations that were less consistent and sometimes in opposite directions with each pollutant.
+
+We examined whether the relationship between air pollutants and preterm delivery differed by various measures of census tract-level SES during the entire pregnancy period for total preterm and early preterm birth (Table 4). We found that mothers who lived in areas with a high GINI index, a marker of income inequality, and were exposed to higher levels of PM2.5 during the whole pregnancy had increased risk of total preterm birth per 1-unit μg/m3 (AOR = 1.04, 95% CI: 1.01, 1.07: Table 4) than mothers who lived in lower GINI index areas (AOR = 0.97, 95% CI: 0.94, 0.99; Table 4). However, when we stratified the analysis for early preterm birth, the association between whole pregnancy exposure to PM2.5 and GINI index was no longer significant. In subsequent analyses of early preterm birth by exposure period, we observed that the only significant factor associated with an increased risk occurred for areas with high unemployment and high exposure to PM2.5 in the 3-month pre-pregnancy period (AOR = 1.08, 95% CI: 1.01, 1.17; Table S3) compared to low unemployment (AOR = 0.92, 95% CI: 0.86, 0.99; Table S3). Several censuses tract-level markers of low SES in conjunction with high O3 exposure during pregnancy were associated with increased risk of total preterm birth: low household income, low education, high total assistance, high supplemental nutritional assistance program (SNAP), high public assistance, high supplemental security income (SSI) and high poverty (AORs ranged from 1.04 to 1.11; Table 4) when compared to census tracts with higher SES (AORs ranged from 0.90 to 0.97; Table 4). However, for early preterm birth and O3 exposure, we found a reversal with census tracts characterized by higher SES associated with increased risk of preterm birth: high household income, high education, low public assistance, low employment, and low poverty (AORs ranged from 1.07 to 1.10; Table 4) compared to census tracts with lower SES (AORs ranged from 0.91 to 0.93; Table 4). In analyses by exposure period, O3 during the 3 months pre-pregnancy was associated with an increased risk of total preterm birth with high total assistance and high poverty (AOR = 1.03, 95% CI: 1.00, 1.06; Table S2) and a larger risk of total preterm birth with high GINI (AOR = 1.06, 95% CI: 1.03, 1.09; Table S2) compared to areas of low total assistance, low poverty, and low GINI. High O3 exposure during the third trimester and low SES factors including low education, high total assistance, and high SNAP were associated with early preterm birth (AORs ranged from 1.09 to 1.13; Table S3) compared to areas with high education, low total assistance, and low SNAP (AORs ranged from 0.88 to 0.90; Table S3).
+
+Table 4
+Interaction between whole pregnancy average maternal exposure to PM2.5 and O3 and neighborhood census tract-level covariates on preterm birth and early preterm birth (aORa ± 95%CI).
+
+Preterm birth (<37 weeks)		Early preterm birth (<32 weeks)	
+High SES	Low SES	High SES	Low SES
+Exposure to PM2.5	aORa (95% CI)	aORa (95% CI)	p-value	aORa (95% CI)	aORa (95% CI)	p-value
+Household Income ($)	1 (0.91, 1.03)	1 (0.97, 1.03)	0.63	1 (0.92, 1.06)	1 (0.94, 1.09)	0.75
+High school grad (%)	1 (1.00, 1.06)	1 (0.94, 1.00)	0.03	1 (0.91, 1.05)	1 (0.95, 1.10)	0.58
+Total assistance (%)	1 (0.97, 1.03)	1 (0.97, 1.03)	0.93	1 (0.95, 1.10)	1 (0.91, 1.05)	0.56
+SNAP (%)	1 (1.00, 1.06)	1 (0.95, 1.00)	0.06	1 (0.91, 1.05)	1 (0.95, 1.10)	0.56
+Public assistance (%)	1 (1.00, 1.06)	1 (0.94, 1.00)	0.05	1 (0.91, 1.05)	1 (0.96, 1.10)	0.47
+SSI (%)	1 (0.98, 1.04)	1 (0.96, 1.02)	0.41	1 (0.94, 1.06)	1 (0.92, 1.06)	0.75
+Poverty (%)	1 (0.98, 1.04)	1 (0.96, 1.02)	0.48	1 (0.90, 1.04)	1 (0.96, 1.11)	0.44
+Unemployment (%)	1 (1.00, 1.06)	1 (0.94, 1.00)	0.04	1 (0.94, 1.08)	1 (0.92, 1.07)	0.85
+GINI Index (%)	1 (0.94, 0.99)	1 (1.01, 1.07)	0.02	1 (0.93, 1.07)	1 (0.93, 1.08)	0.93
+Exposure to O3
+Household income ($)	0.9 (0.91, 0.97)	1.1 (1.03, 1.10)	<0.001	1.1 (1.02, 1.18)	0.9 (0.84, 0.98)	0.009
+High school grad (%)	0.9 (0.92, 0.97)	1.1 (1.03, 1.09)	<0.001	1.1 (1.01, 1.16)	0.9 (0.86, 0.99)	0.03
+Total assistance (%)	0.9 (0.90, 0.95)	1.1 (1.05, 1.11)	<0.001	1.1 (1.02, 1.17)	0.9 (0.85, 0.98)	0.02
+SNAP (%)	0.9 (0.88, 0.93)	1.1 (1.08, 1.14)	<0.001	1.1 (0.99, 1.15)	0.9 (0.87, 1.01)	0.08
+Public assistanceb (%)	0.9 (0.88, 0.93)	1.1 (1.08, 1.14)	<0.001	1.1 (1.01, 1.16)	0.9 (0.86, 0.99)	0.03
+SSI (%)	1 (0.94, 0.99)	1 (1.01, 1.07)	0.02	1 (0.97, 1.12)	1 (0.89, 1.03)	0.25
+Poverty (%)	1 (0.94, 0.99)	1 (1.01, 1.07)	0.01	1.1 (1.02, 1.18)	0.9 (0.85, 0.98)	0.01
+Unemployment (%)	1 (0.98, 1.03)	1 (0.97, 1.02)	0.69	1.1 (1.00, 1.15)	0.9 (1.00, 1.06)	0.05
+GINI index (%)	1 (0.97, 1.03)	1 (0.97, 1.03)	0.89	1 (0.92, 1.06)	1 (0.94, 1.09)	0.69
+Open in a separate window
+Bold values indicate statistical significance p < 0.05.
+
+Air pollution is a dichotomous variable, the cutoff is median PM2.5 = 12.9, high/low cutoff is median O3 = 39 ppb for the whole pregnancy (EPA limits are Annual PM2.5 = 12 µg/m3, 8-h max O3 = 0.070 ppm) include the reference category. Low is the reference category.
+
+High/low SES is defined by above vs. below the median for each socioeconomic factor.
+
+HH household, HS high school, Assistance Total assistance, SNAP supplemental nutrition assistance program, SSI supplemental security income, GINI GINI index for income inequality.
+
+aAdjusted for a season of conception, maternal cigarette use, age, race/ethnicity, education, payment, prenatal visits began in the first trimester, median used for high/low cut-off of census tract-level covariates; P-value is from Wald Chi-Squared test.
+
+b Public assistance includes general assistance and temporary assistance to needy families (TANF).
+
+We completed additional analysis to adjust for spatial autocorrection of study participants with mixed-effects models. We found a smaller association between our previous findings where whole pregnancy exposure to PM2.5 was associated with increased odds of preterm birth (AOR = 1.02, 95% CI: 1.01, 1.02; Table S5), while high O3 exposure in the 3 months pre-pregnancy period was associated with increased odds of preterm birth (AOR = 1.03, 95% CI: 1.01, 1.02). In addition, we also performed a fixed cohort sensitivity analysis that showed a reversal of the PM2.5 findings. This analysis showed no significant association between PM2.5 and preterm birth. For O3, we found the highest association for preterm birth was in the third trimester pregnancy period (AOR = 1.11, 95% CI:1.10, 1.15; Table S6).
+
+Go to:
+Discussion
+Our study showed a positive association between maternal exposure to both PM2.5 and O3 and preterm birth that is consistent with previous research studies. Our California study is one of the few studies to investigate the relationship between air pollutants and preterm birth with both individual-level and census tract-level markers of SES among urban counties. Our study is also notable that our data were collected for recent years during which air pollution in California has continued to decrease [45].
+
+We found that maternal exposures to PM2.5 and O3 were associated with increased odds of preterm birth and that associations varied by gestational timing of exposure. While prior studies have observed trimester-specific associations between preterm birth and air pollutants, the results have been mixed. Our analysis also incorporated an additional exposure window, 3 months prior to pregnancy. While we had initially observed that higher exposure to PM2.5 had its largest associations with the second trimester and whole pregnancy exposure periods, these associations were inconsistent in additional sensitivity analyses we completed using mixed-effects modeling and fixed cohort bias analysis. The association between exposure to PM2.5 and preterm birth during the whole pregnancy exposure period remained significant for the mixed-effects modeling but was no longer significant with the fixed cohort analysis. A study by Sheridan et al. [46] discusses this complexity in results and suggests that the use of shorter exposure windows may have a higher sensitivity to establishing a critical period for PM2.5 and preterm birth [46]. Another possible explanation for the null results in the fixed cohort analysis is the beneficial impact from regulations passed by the California Air Resources Board. In particular, the California Truck and Bus Regulation promulgated in 2008 reduced toxic air contaminants from heavy-duty diesel vehicles, of which PM2.5 is included [47, 48]. We saw an overall reduction in preterm births over our study period that may correlate with the impact of the California Truck and Bus Regulation. Future studies are needed to fully explore the impact this regulation has had on preterm birth.
+
+Interestingly, we found mothers exposed to higher levels of O3 during the 3 months prior to pregnancy exhibited the largest risk of preterm birth. This may be due to the inverse relationship between O3 and traffic-related air pollutants such as nitrogen oxides and PM2.5; however, it also suggests that critical periods surrounding conception and prior to pregnancy should be explored further. In addition, we saw different associations during critical periods of exposure to air pollutants for total preterm birth (<37 weeks) and early preterm birth (<32 weeks). Increased risk of early preterm birth was associated with high PM2.5 during the third trimester and high O3 over the whole pregnancy. This heightened risk of PM2.5 with early preterm birth during the third trimester was corroborated by our fixed cohort sensitivity analysis and has been shown in other studies. It may be due to the shortened third trimester period indicating possible overlap with the third trimester exposure period or may be due to the lower power in the subset data [46]. However, O3 exposure averaged over the entire pregnancy does not provide as much explanatory information is given seasonal variation of O3 throughout the year suggesting that another process may be underlying this finding.
+
+Furthermore, we observed different associations with exposures to air pollutants when analyzed by the season of conception, which has also been seen in other studies. Results from these prior studies have been mixed with some showing increased odds of preterm birth for those conceived in autumn and others showing an increased odds of preterm birth for those conceived in summer [49]. Our results showed an increased risk of preterm birth for individuals conceived in the summer across all gestational exposure periods for PM2.5. This finding is supported by the increased odds of preterm birth for mothers with high levels of exposure to PM2.5 during the second and third trimester given that peak PM2.5 is seen during the winter months and this would correlate with a summer season of conception. For O3, we saw the greatest association with those individuals who were conceived in the spring, also correlating with increased sunlight exposure [50]. However, caution should be used in interpreting the higher OR in the third trimester given the varying lengths of the cases and controls are seen secondary to the inherent nature of preterm birth, i.e., those gestations that end in preterm have by definition shorter opportunity to be exposed than term gestations. While additional seasonal factors such as variation in temperature or infection rates could play a role, we do not believe these other factors are the primary drivers of these findings. Further studies are needed to disentangle the strong differences found by season.
+
+Previous studies have suggested that neighborhood deprivation can modify the relationship between air pollution and preterm birth [37, 51, 52]. In our study, we found evidence of effect modification and showed larger associations between PM2.5 (third trimester and entire pregnancy exposure periods) and preterm birth in areas with high inequality (as measured by the GINI index) compared to areas of low inequality. Interestingly, we saw even more consistent effect modification of several census tract socioeconomic factors for the O3 exposure group. For the 3-month pre-pregnancy period, we saw positive associations for total preterm birth in mothers who lived in census tracts with a high percent of total assistance, a high percent of poverty, and a high GINI index. Given the positive association between O3 during the 3 months pre-pregnancy and preterm birth, this analysis may suggest that individuals with these markers of social deprivation are more vulnerable to the adverse effects of air pollution. In addition, we saw larger associations for almost all census tract-level factors and maternal exposure to O3 during the whole pregnancy for total preterm birth. Interestingly, when examining early preterm birth, we observed a higher risk of early preterm birth associated with higher exposure to O3 and higher levels of SES; however, the results should be taken in the context of the multiple comparisons of our secondary analyses. It is unclear what is driving this increase and it is possible that this finding was due to chance. We believe the further analysis is warranted.
+
+These and previous epidemiological findings indicate that a deeper mechanistic understanding of the associations between exposures to air pollutants and preterm birth would be useful. Studies that have explored mechanistic underpinnings suggest that exposures to air pollutants, including PM2.5 and O3, result in higher levels of reactive oxygen species and increased markers of oxidative stress that may lead to adverse birth outcomes [53]. Another study looked at the role of biomarkers to elucidate the relationship between air pollution and preterm birth [54]. The authors showed that biomarkers for inflammation such as C-reactive protein and oxidative stress increased, while telomere length decreased and markers for epigenetic modification such as DNA methylation were varied for individuals exposed to increasing levels of air pollutants [54]. Although this research is still preliminary, it offers a promising area of future research that may help alert clinicians to better monitor women who are at increased risk of preterm birth during their pregnancy.
+
+Strengths of our study include the large sample size and distribution of regions across the state of California, use of an innovative air quality model, and detailed individual-level covariates such as maternal cigarette use, pre-pregnancy BMI, and maternal comorbidities such as diabetes and hypertension that allowed us to evaluate the impact of these factors.
+
+Our study had several limitations. Misclassification bias could have occurred when assigning air pollution exposure estimates. We used maternal residence at delivery as a proxy for the residential location for the entire pregnancy and pre-pregnancy period. However, it is possible that individuals moved during these times, previous research has shown that residential mobility is unlikely to have substantially affected the associations we observed [55, 56]. In addition, we assumed that the pollutant levels were spatially homogeneous within the 12-km grid and did not account for a finer resolution of pollutant gradients that may have existed as well as exposures that could have taken place at the workplace, during commutes, and while participating in an outside activity. However, this measurement error would likely have led to an underestimation of our results biasing them towards the null. Furthermore, the California Truck and Bus Regulation adopted in December 2008 aimed to reduce man-made toxic air contaminants (including PM2.5) emissions from heavy-duty diesel vehicles that may have influenced the reduction in air pollution and could partially explain the decrease in preterm birth seen over our study period [47, 48]. Lastly, while we were able to include numerous individual-level covariates in our study, some of those are self-reported. For example, maternal cigarette use was self-reported and could possibly be underreported in our dataset.
+
+Go to:
+Conclusion
+Our study adds to the growing body of literature on the interactive impacts of socioeconomic factors and exposures to air pollution on preterm birth. Our findings are consistent with previous work on the associations between exposures to air pollution and preterm birth in California, with detailed air pollution exposure data and a large study population. It is notable that these associations with preterm birth persist even as the levels of these pollutants have recently decreased in California compared to earlier studies. These findings provide further evidence for the need for reproductive justice policies that can mitigate the impact exposures to air pollution have on the physical environment of under-resourced and low-income communities who have a higher burden of preterm birth.
+
+Go to:
+Supplementary information
+SupFigure 1(26K, docx)
+SupFigure 2(1.7M, docx)
+SupTable 1(22K, docx)
+SupTable 2(20K, docx)
+SupTable 3(19K, docx)
+SupTable 4(16K, docx)
+SupTable 5(14K, docx)
+SupTable 6(15K, docx)
+Go to:
+Funding
+This work was supported by UCSF Dean’s Summer Explore Award, Marguerite Schoeneman Award, JMP Thesis Grant, National Institute of Environmental Health Science (Padula, R01ES031261, R03ES028368), and by the March of Dimes Prematurity Research Center at Stanford University (MOD PR625253).
+
+Go to:
+Compliance with ethical standards
+Conflict of interest
+The authors declare no competing interests.
+
+Go to:
+Footnotes
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Go to:
+Supplementary information
+The online version contains supplementary material available at 10.1038/s41370-021-00323-7.
+
+Go to:
+References
+1. Knight AK, Smith AK. Epigenetic biomarkers of preterm birth and its risk factors. Genes. 2016; 7. 10.3390/genes7040015. [PMC free article] [PubMed]
+2. Goldenberg RL, Culhane JF, Iams JD, Romero R. Preterm birth 1: epidemiology and causes of preterm birth. Obstet Anesthesia Dig. 2009;29:6–7. doi: 10.1097/01.aoa.0000344666.82463.8d. [CrossRef] [Google Scholar]
+3. Giscombé CL, Lobel M. Explaining disproportionately high rates of adverse birth outcomes among African Americans: the impact of stress, racism, and related factors in pregnancy. Psychol Bull. 2005;131:662–83. doi: 10.1037/0033-2909.131.5.662. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+4. Stieb DM, Chen L, Eshoul M, Judek S. Ambient air pollution, birth weight and preterm birth: a systematic review and meta-analysis. Environ Res. 2012;117:100–11. doi: 10.1016/j.envres.2012.05.007. [PubMed] [CrossRef] [Google Scholar]
+5. Beck S, Wojdyla D, Say L, Betran AP, Merialdi M, Requejo JH, et al. The worldwide incidence of preterm birth: a systematic review of maternal mortality and morbidity. Bull World Health Org. 2010;88:31–38. doi: 10.2471/BLT.08.062554. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+6. Monangi NK, Brockway HM, House M, Zhang G, Muglia LJ. The genetics of preterm birth: progress and promise. Semin Perinatol. 2015;39:574–83. doi: 10.1053/j.semperi.2015.09.005. [PubMed] [CrossRef] [Google Scholar]
+7. Burris HH, Collins JW, Wright RO. Racial/ethnic disparities in preterm birth: clues from environmental exposures. Curr Opin Pediatr. 2011;23:227–32. doi: 10.1097/MOP.0b013e328344568f. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+8. Howson CP, Kinney MV, Mcdougall L, Lawn JE. Born too soon: preterm birth matters. Reprod Health. 2013;10:1–9. doi: 10.1186/1742-4755-10-S1-S1. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+9. Manly JJ. Deconstructing race and ethnicity: implications for measurement of health outcomes. Med Care. 2006;44:S10. doi: 10.1097/01.mlr.0000245427.22788.be. [PubMed] [CrossRef] [Google Scholar]
+10. Chae DH, Clouston S, Martz CD, Hatzenbuehler ML, Cooper HLF, Turpin R, et al. Area racism and birth outcomes among Blacks in the United States. Soc Sci Med. 2018;199:49–55. doi: 10.1016/j.socscimed.2017.04.019. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+11. Wheeler S, Maxson P, Truong T, Swamy G. Psychosocial stress and preterm birth: the impact of parity and race. Matern Child Health J. 2018;22:1430–5. doi: 10.1007/s10995-018-2523-0. [PubMed] [CrossRef] [Google Scholar]
+12. Giurgescu C, Zenk SN, Dancy BL, Park CG, Dieber W, Block R. Relationships among neighborhood environment, racial discrimination, psychological distress, and preterm birth in African American women. J Obstet Gynecol Neonatal Nurs. 2012;41:E51–E61. doi: 10.1111/j.1552-6909.2012.01409.x. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+13. Eichelberger KY, Alson JG, Doll KM. Should race be used as a variable in research on preterm birth? AMA J Ethics. 2018;20:296–302. doi: 10.1001/journalofethics.2018.20.3.sect1-1803. [PubMed] [CrossRef] [Google Scholar]
+14. Geronimus AT, Hicken M, Keene D, Bound J. “Weathering” and age patterns of allostatic load scores among Blacks and Whites in the United States. Am J Public Health. 2006;96:826–33. doi: 10.2105/AJPH.2004.060749. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+15. Olson DM, Severson EM, Verstraeten BSE, Ng JWY, McCreary JK, Metz GAS. Allostatic load and preterm birth. Int J Mol Sci. 2015;16:29856–74. doi: 10.3390/ijms161226209. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+16. Schell CJ, Dyson K, Fuentes TL, Roches SD, Harris NC, Miller DS, et al. The ecological and evolutionary consequences of systemic racism in urban environments. Science. 2020; 369. 10.1126/science.aay4497. [PubMed]
+17. Wallace ME, Harville EW. Allostatic load and birth outcomes among White and Black women in New Orleans. Matern Child Health J. 2013;17:1025–9. doi: 10.1007/s10995-012-1083-y. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+18. Shapiro GD, Fraser WD, Frasch MG, Séguin JR. Psychosocial stress in pregnancy and preterm birth: associations and mechanisms. J Perinat Med. 2013;41:631–45. doi: 10.1515/jpm-2012-0295. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+19. Corbie-Smith G, Henderson G, Blumenthal C, Dorrance J, Estroff S. Conceptualizing race in research. J Natl Med Assoc. 2008;100:1235–43. [PMC free article] [PubMed] [Google Scholar]
+20. O’Campo P, Burke JG, Culhane J, Elo IT, Eyster J, Holzman C, et al. Neighborhood deprivation and preterm birth among non-Hispanic Black and white women in eight geographic areas in the United States. Am J Epidemiol. 2008;167:155–63. doi: 10.1093/aje/kwm277. [PubMed] [CrossRef] [Google Scholar]
+21. Fleischer NL, Merialdi M, Donkelaar Van A, Vadillo-ortega F, Martin RV. Erratum: “outdoor air pollution, preterm birth, and low birth weight: analysis of the world health organization global survey on maternal and perinatal health” Environ Health Perspect. 2014;122:A151–A151. doi: 10.1289/ehp.1306837. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+22. Slama R, Darrow L, Parker J, Woodruff TJ, Strickland M, Nieuwenhuijsen M, et al. Meeting report: atmospheric pollution and human reproduction. Environ Health Perspect. 2008;116:791–8. doi: 10.1289/ehp.11074. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+23. Ferguson KK, Chin HB. Environmental chemicals and preterm birth: biological mechanisms and the state of the science. Curr Epidemiol Rep. 2017;4:56–71. doi: 10.1007/s40471-017-0099-7. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+24. Padula AM, Scd KMM, Tager IB, Hammond SK, Lurmann FW, Yang W et al. Traffic-related air pollution and risk of preterm birth in the San Joaquin Valley of California. Ann Epidemiol. 2014; 24. 10.1016/j.annepidem.2014.10.004. [PMC free article] [PubMed]
+25. Bosetti C, Nieuwenhuijsen MJ, Gallus S, Cipriani S, La Vecchia C, Parazzini F. Ambient particulate matter and preterm birth or birth weight: a review of the literature. Arch Toxicol. 2010;84:447–60. doi: 10.1007/s00204-010-0514-z. [PubMed] [CrossRef] [Google Scholar]
+26. Lin YT, Jung CR, Lee YL, Hwang BF. Associations between ozone and preterm birth in women who develop gestational diabetes. Am J Epidemiol. 2015;181:280–7. doi: 10.1093/aje/kwu264. [PubMed] [CrossRef] [Google Scholar]
+27. Huang H, Woodruff TJ, Baer RJ, Bangia K, August LM, Jellife-Palowski LL, et al. Investigation of association between environmental and socioeconomic factors and preterm birth in California. Environ Int. 2018;121:1066–78. doi: 10.1016/j.envint.2018.07.027. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+28. Gwynn RC, Thurston GD. The burden of air pollution: impacts among racial minorities. Environ Health Perspect. 2001;109:501–6. [PMC free article] [PubMed] [Google Scholar]
+29. Woodruff Tracey J, Parker Jennifer D, Kyle Amy D, Schoendorf Kenneth C. Disparities in exposure to air pollution during pregnancy. Environ Health Perspect. 2003;111:942–6. doi: 10.1289/ehp.5317. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+30. Morello-Frosch R, Shenassa Edmond D. The environmental “riskscape” and social inequality: implications for explaining maternal and child health disparities. Environ Health Perspect. 2006;114:1150–3. doi: 10.1289/ehp.8930. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+31. Olvera Alvarez HA, Kubzansky LD, Campen MJ, Slavich GM. Early life stress, air pollution, inflammation, and disease: an integrative review and immunologic model of social-environmental adversity and lifespan health. Neurosci Biobehav Rev. 2018;92:226–42. doi: 10.1016/j.neubiorev.2018.06.002. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+32. Hoover E, Cook K, Plain R, Sanchez K, Waghiyi V, Miller P, et al. Indigenous peoples of North America: environmental exposures and reproductive justice. Environ Health Perspect. 2012;120:1645–9. doi: 10.1289/ehp.1205422. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+33. Bravo MA, Anthopolos R, Bell ML, Miranda ML. Racial isolation and exposure to airborne particulate matter and ozone in understudied US populations: environmental justice applications of downscaled numerical model output. Environ Int. 2016;92–93:247–55. doi: 10.1016/j.envint.2016.04.008. [PubMed] [CrossRef] [Google Scholar]
+34. Miranda ML, Edwards SE, Keating MH, Paul CJ. Making the environmental justice grade: the relative burden of air pollution exposure in the United States. Int J Environ Res Public Health. 2011;8:1755–71. doi: 10.3390/ijerph8061755. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+35. Padula AM, Huang H, Baer RJ, August LM, Jankowska MM, Jellife-Pawlowski LL, et al. Environmental pollution and social factors as contributors to preterm birth in Fresno County. Environ Health. 2018; 17. 10.1186/s12940-018-0414-x. [PMC free article] [PubMed]
+36. Benmarhnia T, Huang J, Basu R, Wu J, Bruckner TA. Decomposition analysis of Black–White disparities in birth outcomes: the relative contribution of air pollution and social factors in California. Environ. Health Perspect. 2017;125:107003. doi: 10.1289/EHP490. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+37. Ponce NA, Hoggatt KJ, Wilhelm M, Ritz B. Preterm birth: the interaction of traffic-related air pollution with economic hardship in Los Angeles neighborhoods. Am J Epidemiol. 2005;162:140–8. doi: 10.1093/aje/kwi173. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+38. Sister Song. Reproductive justice. Sister Song. 2012.https://www.sistersong.net/reproductive-justice Accessed 19 Oct 2020.
+39. Shaw GM, Yang W, Roberts EM, Aghaeepour N, Mayo JA, Weber KA, et al. Residential agricultural pesticide exposures and risks of preeclampsia. Environ Res. 2018;164:546–55. doi: 10.1016/j.envres.2018.03.020. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+40. Herrchen B, Gould JB, Nesbitt TS. Vital statistics linked birth/infant death and hospital discharge record linkage for epidemiological studies. Comput Biomed Res. 1997;30:290–305. doi: 10.1006/cbmr.1997.1448. [PubMed] [CrossRef] [Google Scholar]
+41. Berrocal VJ, Gelfand AE, Holland DM. Space-time data fusion under error in computer model output: an application to modeling air quality. Biometrics. 2012;68:837–48. doi: 10.1111/j.1541-0420.2011.01725.x. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+42. The National Ambient Air Quality Standards for Particle Pollution. Revised air quality standards for particle pollution and updates to the air quality index (AQI). https://www.epa.gov/sites/production/files/2016-04/documents/2012_aqi_factsheet.pdf.
+43. The National Ambient Air Quality Standards. Overview of epa’s updates to the air quality standards for ground-level ozone. 2015 https://www.epa.gov/sites/production/files/2015-10/documents/overview_of_2015_rule.pdf.
+44. Strand LB, Barnett AG, Tong S. Methodological challenges when estimating the effects of season and seasonal exposures on birth outcomes. BMC Med Res Methodol. 2011;11:49. doi: 10.1186/1471-2288-11-49. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+45. Padula AM, Huang H, Baer RJ, August LM, Jankowska MM, Jellife-Pawlowski LL, et al. Environmental pollution and social factors as contributors to preterm birth in Fresno County. Environ Health. 2018;17:1–21. doi: 10.1186/s12940-018-0414-x. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+46. Sheridan P, Ilango S, Bruckner TA, Wang Q, Basu R, Benmarhnia T. Ambient fine particulate matter and preterm birth in California: identification of critical exposure windows. Am J Epidemiol. 2019;188:1608–15. doi: 10.1093/aje/kwz120. [PubMed] [CrossRef] [Google Scholar]
+47. California Air Resources Board. Truck and bus regulation—regulation & advisories. California air resources board. arb.ca.gov. 2008. https://ww2.arb.ca.gov/our-work/programs/truck-bus-regulation/truck-and-bus-regulation-regulation-advisories Accessed 21 Nov 2020.
+48. Pan S, Roy A, Choi Y, Sun S, Gao HO. The air quality and health impacts of projected long-haul truck and rail freight transportation in the United States in 2050. Environ Int. 2019;130:104922. doi: 10.1016/j.envint.2019.104922. [PubMed] [CrossRef] [Google Scholar]
+49. Jalaludin B, Mannes T, Morgan G, Lincoln D, Sheppeard V, Corbett S. Impact of ambient air pollution on gestational age is modified by season in Sydney, Australia. Environ Health. 2007;6:1–9. doi: 10.1186/1476-069X-6-16. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+50. Kinney PL. Interactions of climate change, air pollution, and human health. Curr Envir Health Rep. 2018;5:179–86. doi: 10.1007/s40572-018-0188-x. [PubMed] [CrossRef] [Google Scholar]
+51. Li Q, Wang Y, Guo Y, Zhou H, Wang X, Wang Q, et al. Effect of airborne particulate matter of 2.5 μm or less on preterm birth: a national birth cohort study in China. Environ Int. 2018;121:1128–36. doi: 10.1016/j.envint.2018.10.025. [PubMed] [CrossRef] [Google Scholar]
+52. Généreux M, Auger N, Goneau M, Daniel M. Neighbourhood socioeconomic status, maternal education and adverse birth outcomes among mothers living near highways. J Epidemiol Community Health. 2008;62:695 LP–700. doi: 10.1136/jech.2007.066167. [PubMed] [CrossRef] [Google Scholar]
+53. Nagiah S, Phulukdaree A, Naidoo D, Ramcharan K, Naidoo RN, Moodley D, et al. Oxidative stress and air pollution exposure during pregnancy. Hum Exp Toxicol. 2015;34:838–47. doi: 10.1177/0960327114559992. [PubMed] [CrossRef] [Google Scholar]
+54. Desai G, Chu L, Guo Y, Myneni AA, Mu L. Biomarkers used in studying air pollution exposure during pregnancy and perinatal outcomes: a review. Biomarkers. 2017;22:489–501. doi: 10.1080/1354750X.2017.1339294. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+55. Chen L, Bell EM, Caton AR, Druschel CM, Lin S. Residential mobility during pregnancy and the potential for ambient air pollution exposure misclassification. Environ Res. 2010;110:162–8. doi: 10.1016/j.envres.2009.11.001. [PubMed] [CrossRef] [Google Scholar]
+56. Pereira G, Bracken MB, Bell ML. Particulate air pollution, fetal growth and gestational length: the influence of residential mobility in pregnancy. Environ Res. 2016;147:269–74. doi: 10.1016/j.envres.2016.02.001. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Articles from Journal of Exposure Science & Environmental Epidemiology are provided here courtesy of Nature Publishing Group
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

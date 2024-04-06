@@ -1,0 +1,824 @@
+ 
+COVID-19  Regístrese MI CUENTA
+RevistasCursosCall for papersArtículos más leídos
+Open Respiratory Archives	 
+Search articles
+ 
+Inicio Open Respiratory Archives Impact of Air Pollution on Asthma: A Scoping Review
+  
+Home
+All contents
+Publish your article
+About the journal
+MetricsJournal Information 
+Previous article | Next article
+Vol. 5. Issue 2.
+(April - June 2023)
+Export reference Share Print Download PDF 
+Outline
+Abstract
+Keywords
+Abbreviations
+Resumen
+Palabras clave
+Visits
+7888
+REVIEW
+DOI: 10.1016/j.opresp.2022.100229
+ Full text access
+Impact of Air Pollution on Asthma: A Scoping Review
+Impacto de la contaminación del aire en el asma: una revisión exploratoria
+Olaia Bronte-Morenoa, Francisco-Javier González-Barcalab,c,d,e,
+, Xavier Muñoz-Galle,f,g, Ana Pueyo-Bastidah, Jacinto Ramos-Gonzálezi, Isabel Urrutia-Landaa
+a Department of Respiratory Medicine, Hospital Universitario Galdakao, Vizcaya, Spain
+b Department of Respiratory Medicine, Hospital Clínico Universitario de Santiago de Compostela, Spain
+c Traslational Research In Airway Diseases (TRIAD) Research Group, CIBER Enfermedades Respiratorias, Instituto de Salud Carlos III, Madrid, Spain
+d Department of Medicine, Universidad de Santiago de Compostela, Spain
+e CIBER Enfermedades Respiratorias (CibeRes), Spain
+f Department of Respiratory Medicine, Hospital Universitari Vall d’Hebron, Barcelona, Spain
+g Department of Cell Biology, Physiology and Immunology, Universitat Autònoma de Barcelona, Spain
+i Department of Respiratory Medicine, Hospital Universitario de Salamanca, Spain
+Ver más
+Article informationAbstract Full Text Bibliography Download PDF Statistics 
+ABSTRACT
+Asthma is the most common chronic respiratory disease and a major public health problem. Although the causal relationship between air pollution and asthma remains controversial, a large number of studies have provided increasingly consistent evidence of the involvement of air pollutants in asthma onset and exacerbations. We conducted a keyword search-based literature review using PubMed, Scopus and Web of Science databases for studies with titles or abstracts containing predefined terms. This narrative review discusses the current evidence on the pathological effects of pollution throughout life and the mechanisms involved in the onset, development, and exacerbation of asthma, and presents current measures and interventions for pollution damage control. Further global efforts are still needed to improve air quality.
+
+Keywords:
+AsthmaAir pollutionPollutantExacerbationParticulate matterInhaled allergenPathophysiological mechanism
+Abbreviations:
+ACOSAhRCCL20COPDDEPEDILC-2LRTNF-κBNLRPMROSThTLRTNFAIP3TRAPTRPTSLPVOCs
+RESUMEN
+El asma es la enfermedad respiratoria crónica más común, y un importante problema de salud pública. Aunque la relación causal entre la contaminación del aire y el asma sigue siendo controvertida, una gran cantidad de estudios han proporcionado evidencia cada vez más consistente de la participación de los contaminantes del aire en el inicio y las exacerbaciones del asma. Realizamos una revisión de la literatura basada en búsqueda de palabras clave utilizando las bases de datos PubMed, Scopus y Web of Science para estudios con títulos o resúmenes que contienen términos predefinidos. Esta revisión narrativa analiza la evidencia actual sobre los efectos patológicos de la contaminación a lo largo de la vida y los mecanismos involucrados en el inicio, desarrollo y exacerbación del asma, y presenta las medidas e intervenciones actuales para el control de daños por contaminación. Todavía se necesitan más esfuerzos globales para mejorar la calidad del aire.
+
+Palabras clave:
+AsmaContaminación ambientalContaminanteExacerbaciónMaterial particuladoAlergeno inhaladoMecanismo fisiopatológico
+FULL TEXT
+Introduction
+Asthma is a multifactorial disease that affects more than 300 million people worldwide. In addition to its genetic basis, epigenetic and environmental factors play a key role in its phenotypic expression.1 Approximately 7 million people die annually in the world—around 400,000 in Europe—from high concentrations of suspended particles, nitrogen dioxide (NO2) and ozone (O3),2 although exposure levels differ significantly between cities. Global life expectancy is estimated to have been reduced by at least one year,3,4 Moreover, household pollution increases the risk of respiratory illness in children and adults by 50%.5 Reducing air pollution to levels below the limits set by the World Health Organization (WHO) could prevent a significant number of premature deaths annually in the European Union (EU).6
+
+Air pollution is an established risk factor for asthma exacerbations, and an association has been found between exposure to air pollution and the development of asthma, especially in children. An estimated 13% of new paediatric asthma cases annually can be attributed to NO2 exposure.7 The application of WHO standards alone for acceptable particulate levels in 18 European countries could reduce the incidence of asthma in 66,600 children each year.8
+
+The impact of climate change was not included in this review because it deserves a specific article.
+
+Methods
+We carried out a literature search across Pubmed and Medline databases from January 1, 2008 and March 31, 2021, including articles that were published in English. We used the search terms “air pollution”, “ambient pollution”, “air contaminants”, “outdoor air pollution”, “indoor air pollution”, “gaseous pollutants” and “aeroallergens” associated with “asthma”. We included observational studies, cross-sectional, meta-analyses, systematic reviews and general reviews. A preference was given to observational studies published in the last 5 years.
+
+Asthma-related air pollutants
+Air pollution is the result of a complex mixture of pollutants that includes solid and liquid particles suspended in the air. This mixture, which causes damage to living beings and the environment, varies depending on geographic location and emission sources.
+
+The degree of penetration of pollutants into the respiratory tract depends on several factors, such as the particle diameter (the smaller the diameter, the further into the small airways it reaches) and the water solubility of inhaled gases (the higher the water solubility, the greater the penetrability).9 Upon contact with the respiratory system, pollutants first generate reactive oxygen species (ROS) that activate the local inflammatory signalling cascade. This inflammation subsequently spreads systemically with the mediation of inflammatory cells and cytokines released from the alveolar epithelium into the bloodstream.10
+
+The study of the effects of pollution should take into account the influence of weather. Accordingly, the geographical characteristics of each place and inclement weather conditions, such as storms and anticyclones, define what types and amount of wind affect air quality.11
+
+Pollutants may be classified as primary or secondary, depending on their origin. Primary pollutants are those emitted directly by human activity, while secondary pollutants are those that form when the primary pollutants react or interact in the atmosphere (Table 1).2
+
+Table 1.
+Main pollutants and sources of pollution.
+
+Pollutant 	Origin 
+Primary pollutants
+Carbon monoxide (CO) 	Industrial combustion, vehicles (fossil fuels and diesel) 
+Sulphur dioxide (SO2) 	Diesel and fossil fuelsNatural activity: volcanic eruptions 
+Secondary pollutants
+Nitrogen dioxide (NO2) 	Industrial combustion, vehicles (fossil fuels and diesel), thermal power plants 
+Ozone (O3) 	Photochemical reaction of NO2 and volatile organic components 
+Primary and secondary pollutants
+Particulate matter (PM) 	Power plants, vehicles (diesel fuels) 
+Main pollutants and sources of pollution: synergies and interactions
+This section will review the major asthma-related pollutants present in the air.
+
+Particulate matter
+Particulate matter (PM) comprises a complex mixture of solid or liquid particles that vary in number, size, shape, surface area, chemical composition, solubility, toxicity and origin.12 PM is classified according to the size of its aerodynamic diameter in microns (μm): PM10 (aerodynamic diameter less than 10μm), PM2.5 (aerodynamic diameter less than 2.5μm) and PM0.1 (ultrafine, aerodynamic diameter less than 0.1μm).13 PM10 penetrates the respiratory system and is deposited in the bronchial airways, while PM2.5 and PM0.1 can penetrate deeper into the respiratory system, reach the bloodstream and generate oxidation reactions and systemic inflammation.14 The harmful potential of these pollutants depends on their composition and size. In terms of composition, particles from diesel vehicles are highly hazardous because they contain heavy metals. PM originates mainly from road traffic, in particular diesel engine vehicles, although other sources of PM are power plants and factories, the phenomena of resuspension of material deposited on the ground and natural sources of PM (such as desert dust or biomass combustion).9
+
+Gaseous pollutants
+Inhaled gases are absorbed in different locations in the respiratory system and at different depths depending on their solubility in water. For this reason, SO2 is absorbed in the airways, while O3 and NO2 reach the lower respiratory tract (LRT) and penetrate the alveoli. NO2 comes mainly from the burning of fossil fuels (mostly due to road traffic), although it can also come from power plants and factories, while tropospheric O3 is a secondary pollutant that originates from volatile organic compounds (VOCs) or nitrogen oxides (NOx) present in the atmosphere in stable conditions upon activation by ultraviolet radiation. It is therefore mainly produced at the warmest time of the day and in summer. The highest concentrations of O3 are usually found on the outskirts of large cities and parks.15
+
+Indoor air pollutants
+Daily life today involves spending time indoors, so it is important to consider the quality of these spaces. Ventilation may be inadequate due to insufficient air volume, high levels of recirculation, incorrect placement of ventilation points, poor allocation of space (with non-ventilated areas), and poor maintenance or incorrect design of filtration systems.16 The main indoor air pollutants include tobacco smoke, suspended particles generated indoors, carbon monoxide (CO) and carbon dioxide (CO2), nitric oxide (NO), radon, VOCs, formaldehyde, dust mites, animal allergens and mould, among others (Table 2). It is important to note that, according to WHO data, around 3 billion people are exposed to pollutant levels that are well above acceptable levels due to the use in their homes of open fires and stoves in which biomass (wood, animal excreta or agricultural residues) and coal are burned, a common practice in developing countries.
+
+Table 2.
+Indoor air pollutants from human activity.
+
+Emission sources 	Pollutants 
+Construction materials 	Radon 
+Wood compounds 	Formaldehyde, fibreglass 
+Insulation 	Asbestos 
+Fireproof materials 	VOC, lead 
+Facilities and furniture 	CO, CO2, NO2, NO, VOC 
+Heating, kitchens 	Particulates 
+Photocopiers 	Ozone 
+Ventilation systems 	Microorganisms 
+Smoking 	CO 
+Air fresheners 	Fluorocarbons 
+Cleaning 	VOC 
+CO: carbon monoxide; CO2: carbon dioxide; NO: nitrogen monoxide; NO2: nitrogen dioxide; VOC: volatile organic compounds.
+
+Pathogenic mechanisms of air pollution as a cause of asthma
+The mechanisms by which the components of air pollution can cause asthma are not yet well known. Direct mechanisms have been proposed induced by the interaction of these agents with the epithelium of the bronchial tree and the generation of oxidative stress, and/or by immunological mechanisms mediated by interaction with dendritic cells or type 2 innate lymphoid cells (ILC-2) and T-helper 2 (Th2) or 17 (Th17) lymphocytes. Indirect mechanisms such as epigenetic changes, modifications in the respiratory microbiome, or interactions of pollutants with other antigenic agents have also been proposed.17
+
+Direct mechanisms
+Several studies postulate that the inhalation of pollutants, especially diesel exhaust particles (DEP), can generate oxidative stress on the bronchial cell surface. If ROS levels on the cell surface are low, the activation of antioxidant defence mechanisms can counteract their effects. Exposure to moderate doses may cause activation of the Th2 inflammatory pathway (basically eosinophilic) triggered by the stimulation of dendritic cells induced by thymic stromal lymphopoietin (TSLP) released by the epithelium.18–20 High levels of pollutants could lead to disruption of the bronchial epithelium with cell shedding and release of adhesion proteins that would trigger IL-8 production and neutrophilic inflammation (Fig. 1).21 In addition, the hydrocarbon fraction present in some DEP can stimulate aryl hydrocarbon receptors (AhR), generate intracellular ROS (which can act as second messengers) and, after activation of nuclear factor kappa B (NF-κB), induce a Th2 or Th17 response according to the modulatory activity of tumour necrosis factor-α-induced protein 3 (TNFAIP3).22,23
+
+Main components of inflammatory signalling in asthma triggered by exposure to environmental pollutants. The pollutants come into contact with the airway epithelium and trigger the generation of reactive oxygen species (ROS). Moderate or high levels of ROS may activate Th2 or Th17 inflammatory response mechanisms triggered by the release of different cytokines and proinflammatory factors and the involvement of different immune cell lineages (neutrophils, eosinophils). DEP: diesel exhaust particles; IL: interleukin; ILC-2: type 2 innate lymphoid cells; NLR: NOD-like receptor; ROS: reactive oxygen species; TLR: toll-like receptor; TSLP: thymic stromal lymphopoietin.
+Fig. 1.
+Main components of inflammatory signalling in asthma triggered by exposure to environmental pollutants. The pollutants come into contact with the airway epithelium and trigger the generation of reactive oxygen species (ROS). Moderate or high levels of ROS may activate Th2 or Th17 inflammatory response mechanisms triggered by the release of different cytokines and proinflammatory factors and the involvement of different immune cell lineages (neutrophils, eosinophils). DEP: diesel exhaust particles; IL: interleukin; ILC-2: type 2 innate lymphoid cells; NLR: NOD-like receptor; ROS: reactive oxygen species; TLR: toll-like receptor; TSLP: thymic stromal lymphopoietin.
+
+(0.42MB).
+Immunological mechanisms have also been linked to the onset of asthma from air pollutants. Activation of Toll-like receptors (TLR) or NOD-like receptors (NLR) determines the activation of NF-κB, which induces the expression of different pro-inflammatory cytokines such as IL-1B, IL-6 and IL-8, responsible for an innate immune response that essentially produces neutrophil inflammation. Activation of these receptors can also generate the production of IL-33, IL-25, and TSLP (Fig. 1). These molecular patterns (or alarmins) induce a Th2 response, basically eosinophilic, either by activation of dendritic cells or ILC-2s.24 It has also been suggested that the contact of DEP with the bronchial epithelium may promote the release of IL-17A, IL-17F and CCL20, which may activate the Th17 lymphocytes and thus generate a typically neutrophilic response.25
+
+Finally, air pollutants may activate transient receptor potential (TRP) channels such as the TRP vanilloid 1 (TRPV1) or TRP ankyrin (TPRA) channels and cause respiratory symptoms like cough and bronchospasm and the possible onset of asthma by non-inflammatory mechanisms.26
+
+Indirect mechanisms: interaction between pollution and inhaled allergens
+Although it has been suggested that exposure to air pollutants can cause asthma through indirect mechanisms such as epigenetic changes27–29 or modifications in the respiratory microbiome,30–32 the interaction between these pollutants and inhaled allergens is one of the best studied mechanisms for which there is greater evidence.
+
+Allergens such as pollen form part of atmospheric pollutants. Pollen grains generally have a particle diameter >10μm. Fungal spores and pollen fragments with smaller sizes (<2.5μm; PM2.5) are also found in the air, and can penetrate the alveolar regions of the lung. The concentrations and allergenic capacity of these aeroallergens are undergoing changes on the planet due to climate change. Thus, longer periods with high temperatures favour the atmospheric abundance of bioaerosols and aeroallergens such as pollen and, therefore, increased exposure.33
+
+Evidence shows that the immunogenicity of allergenic proteins may be altered due to coexposure with other air pollutants such as O3 and NO2. In this respect, there are several mechanisms that could explain the alteration in the allergenic capacity of these proteins.34 First, allergens can physically bind to pollutants such as the PM, which would act as an adjuvant, increasing the allergenic potential. In addition, this binding may alter the protein envelope and facilitate the release of allergenic substances such as pollen cytoplasmic granules. Furthermore, the binding of pollutants such as O3 with proteins such as pollen grains can induce the generation of intermediate ROS that facilitate the formation of protein aggregates (dimers) of greater allergenic potential.34
+
+The effects of the interaction of allergens with pollutants have been studied in animal models of asthma. Muranaka et al. (1986) studied the effects of coexposure to DEP and an allergen such as ovalbumin in a murine model, and confirmed the adjuvant activity of DEP in the respiratory mucosa as well as amplification of the allergic response.35 In order to reproduce the nature of human asthma as closely as possible, antigens such as house dust mites, cockroaches or pollen, which are physiologically more relevant, have been used in research.36 These models have shown that joint exposure to DEP and allergens has a synergistic effect and induces the expression of some Th2 response-related cytokines, such as IL-4, IL-5 or IL-13 and in some cases, the expression of Th17 response cytokines (Fig. 2).37,38 In this regard, coexposure to soybean and DEP has been reported to trigger a stronger asthmatic response in which there is increased airway hyperresponsiveness and increased amounts of cytokines related to a combined Th2/Th17 response in the bronchoalveolar lavage.39
+
+Inflammatory signalling triggered by the interaction of diesel exhaust particles and inhaled allergens. Exposure to low doses of allergens does not generate an immune response. However, this same exposure combined with exposure to diesel exhaust particles induces Th2-response-related IL-4, 5 or 13 expression and Th17-response-related IL-17A, 17F or cytokine CCL20 expression. Exposure to high doses of inhaled allergens generates a typical Th2 response. CCL20: chemokine ligand 20; DEP: diesel exhaust particles; IL: interleukin.
+Fig. 2.
+Inflammatory signalling triggered by the interaction of diesel exhaust particles and inhaled allergens. Exposure to low doses of allergens does not generate an immune response. However, this same exposure combined with exposure to diesel exhaust particles induces Th2-response-related IL-4, 5 or 13 expression and Th17-response-related IL-17A, 17F or cytokine CCL20 expression. Exposure to high doses of inhaled allergens generates a typical Th2 response. CCL20: chemokine ligand 20; DEP: diesel exhaust particles; IL: interleukin.
+
+(0.45MB).
+Pollution as a risk factor in the development of asthma. Epidemiology
+Childhood asthma
+Although experimental evidence of the relationship between air pollution and asthma is strong, the epidemiological evidence is less consistent, as some authors have been unable to demonstrate any significant relationship between this exposure and the incidence of asthma.40–43 Several studies seem to support an increased risk in the incidence and prevalence of asthma in children, associated with exposure to air pollutants, even in the population whose exposure does not exceed WHO-recommended limits.41,44–46 The prospective ACCESS study that included pregnant women from various hospitals in the Boston area (USA) analyzed data from 736 children, and found that prenatal exposure to high levels of PM2.5 was associated with a higher incidence of asthma at 6 years old, especially in males and if the exposure occurred in the second trimester of pregnancy.47 Data from the ISAAC study showed that increased exposure to road traffic was associated with an increase in asthma symptoms, although the results were not homogeneous and differences were observed between countries in terms of the most affected age group (in countries in northern and eastern Europe, this association was observed in the 13–14-year-old age group, while in populations in western Europe and North America, asthma symptoms increased in the 6–7-year-old group but not in the older group).45 Another study conducted using this same methodology in the Spanish population showed that the prevalence of asthma symptoms increased significantly in boys aged 6–7 years who had increased exposure to traffic. However, there was no significant increase in these symptoms in the 13–14-year-old group or in 6–7-year-old girls.41
+
+A meta-analysis by Bowatte et al. (2015) concluded that exposure to elevated levels of PM2.5 was consistently associated with an increased incidence of childhood asthma. Similar results were obtained for exposure to NO2 and black carbon, although the results were less consistent and the association was only significant in some age groups but not in others.44
+
+The results of the Southern California Children's Health study showed that increased exposure to elevated levels of NO2, O3, PM10 or PM2.5, both at school and at home, was associated with a higher incidence of asthma,42 similar to that observed in a later European multicentre study.40 In contrast, data analysis from five European cohorts failed to establish any significant relationship between exposure to pollutants and the incidence of asthma.43
+
+In conclusion, increased exposure to air pollutants appears to be associated with an increased incidence of asthma. The effect may vary depending on some variables such as age, sex, or time of exposure.
+
+Late-onset asthma
+Pollution can trigger asthma in individuals with no previous history of the disease due to a number of determinants such as genetic (polymorphisms in genes encoding antioxidant agents) and epigenetic changes (methylation of genes involved in innate immunity and asthma or changes in the microbiome), or immunological changes (Th2 and Th17 immune response triggered by exposure to DEP), among others.48 While the prenatal and early postnatal stages are considered key time windows of genetic susceptibility to any environmental exposure that may contribute to the subsequent development of asthma, further research is still needed in other stages, such as adolescence and older adulthood.49–52
+
+Age is a risk factor for developing pollution-induced asthma, as reflected by a higher number of hospitalizations for asthma between age 6 and 18 years (incidence that decreases until age 50). At older ages, misdiagnosis between asthma and chronic obstructive pulmonary disease (COPD) is an added difficulty in clarifying the relationship of pollution with the development of airway disease.53
+
+Several studies that have failed to show a clear relationship between pollution and incident asthma pose methodological problems that, if addressed, could change the evidence.43 More reliable data are needed on household pollution, the relevance of the distance to main roads and accurate measurement of particulate levels, among other issues.54 In adults but not children, there is an association between CO exposure and asthma exacerbations55; however, this pollutant is not always analyzed, so its weight in the development of the disease may be underestimated. Air pollution is normally measured using fixed air pollution stations, so it does not reflect individual exposure to these pollutants. Moreover, asthma is a globally underdiagnosed disease, which also contributes to the lack of sufficient evidence of the relationship between air pollution and asthma development.
+
+Recent studies show mixed results. In a cohort of women under long-term follow-up, the five pollutants analyzed were associated with incident COPD and none were related to the onset of asthma.56 A study that analyzed the impact of traffic-related air pollution (TRAP) in participants of a longitudinal health study at 45- and 50-year follow-ups concluded that living less than 200m from a major road was correlated with asthma, wheezing and reduced forced vital capacity, and this correlation was more evident in individuals with certain genetic variants of the enzyme glutathione S-transferase, probably due to deficient antioxidation.57 Another study that included follow-up of an adult cohort of 23,000 nurses showed a relationship between the NO2 and PM2.5 levels and the development of asthma, even though the exposure level was below the limit considered harmful by the EU.58
+
+One poorly researched aspect is the development of COPD in adult asthmatic patients. In the context of incident asthma, patients exposed to higher levels of PM2.5 and O3 are three times more likely to develop asthma-COPD overlap syndrome (ACOS), possibly mediated by an underlying mechanism of intensified remodelling.59,60
+
+Thus, even with still limited data, there is growing evidence of the potential impact of air pollution on the incidence of asthma in adults. A better understanding of the relationship between genetics and epigenetics and the development of technological advances that allow for more accurate determination of exposure to air pollution (such as the use of remote sensing by satellite or individual GPS-guided mobile sensors to obtain customized data) will greatly advance this knowledge.61
+
+Impact of pollution on asthma exacerbations
+Epidemiology
+Asthma is responsible for approximately 250,000 preventable deaths annually worldwide.62 The leading cause of asthma mortality is exacerbations, which in turn are responsible for a high number of emergency department (ED) visits and hospital admissions each year.63 About 20% of asthmatics have exacerbations that require ED visits or even hospitalization, accounting for more than 80% of the total direct costs associated with the disease.64,65 It is therefore a priority to take into account both risk factors for exacerbations and those related to individual and environmental factors such as allergens, infections and air pollution.63,66–68
+
+Multiple epidemiological studies suggest that air pollution is associated with asthma exacerbations. Elevated levels of PM, O3, CO, SO2 and NO2 can precipitate the onset of exacerbations, increasing ED visits and hospitalizations across all age ranges. In addition, exposure to PM2.5, NO2 and O3 has been associated with higher mortality in asthmatic individuals. Hospital admission due to asthma exacerbations in the paediatric population are more strongly associated with CO, NO2, SO2 and PM, while in adults, they are more strongly associated with CO, NO2 and SO2.69–73 Asthmatic individuals with allergies appear to be more susceptible to O3 and PM2.5 compared to non-allergic individuals.74
+
+Pollutants
+Nitrogen dioxide and carbon monoxide
+There is a positive correlation between asthma exacerbations and exposure to NO2 and CO in children and adults.75–78 However, the impact by age and season seems to differ. Altzibar et al. (2015) found that women in the adult population experienced more hospitalizations. In terms of seasons, exacerbations in children peaked in the autumn, compared to winter for adults.75
+
+Particulate matter
+The association between exposure to elevated PM levels and asthma exacerbations is clear. Multiple studies associate PM with the onset of asthma symptoms, need for medication, greater number of visits to the ED76 and hospital admissions, and deterioration in lung function,79 regardless of the effects of other pollutants or individual variability.77,80,81
+
+Road traffic pollution
+There is sufficient evidence to support the causal association between TRAP exposure and asthma exacerbations. Experimental and epidemiological studies suggest that exacerbations that occur during warm months may be mediated by TRAP exposure and coexposure to allergens.82
+
+Ozone
+In the short term, O3 increases the risk of asthma exacerbations and visits to the ED.83 In this respect, Li et al. (2019) observed that short-term exposure to O3 (measured as 1-h or 8-h daily maximum) is more consistently associated with exacerbations than the 24-h average exposures during warm seasons.63
+
+Severity of the exacerbation
+In adults, the relative risk of a moderate or severe exacerbation due to increased levels of O3, SO2 and NO2 is similar.71 However, in children, PM2.5, NO2 and O3 have been significantly associated with severe exacerbations.84
+
+Mechanisms involved in pollution-induced asthma exacerbations
+The pathophysiological mechanisms of asthma exacerbations related to air pollution exposure are not yet fully known, despite recent advances. Exposure to air pollution triggers oxidative stress in the lungs. The cells involved in the response increase the production of ROS with consequent lung injury and activation of signalling pathways leading to local inflammation and airway hyper-responsiveness.85,86 Children are more vulnerable because of their higher respiratory rate, immaturity of their respiratory system, and greater exposure to outside air.81
+
+Particulate matter
+PM is the most widely studied pollutant associated with asthma exacerbations. Elevated PM levels in both outside (air pollution, DEP, TRAP, forest fires, etc.) and indoor air (biomass combustion, wood stoves, gas stoves, etc.) have been associated with asthma exacerbations through multiple pathogenic pathways.86
+
+At the lung level, PM triggers complex and specific immune responses. Infiltration of the airways directly triggers local inflammation.73,81 In the LRT, dendritic cells, macrophages, neutrophils, eosinophils, and lymphocytes increase the production of ROS, triggering a cascade of molecular events including activation of cell signalling and transcription factors and release of signalling mediators.85,86 At the lung level, oxidative stress induces overproduction of IL-17 by the bronchial epithelium and the convergence of regulatory signals from dendritic cells that would act as triggers of exacerbation.87 In addition, defective phagocytosis of LRT macrophages due to increased prostaglandin E2 levels may increase the harmful effects of inhalation of PM on exacerbations.73 Inflammation is the end result of activation of all these pathways.73,86 The quantity of transition metals present in PM is related to their oxidizing and inflammatory effects.85 Furthermore, the oxidative stress triggered by DEP appears to be able to alter the function of pulmonary surfactant protein D, which can deregulate the eosinophilic response and thus induce exacerbation.85,88 In children, exposure to DEP has been associated with worse asthma control and elevated serum IL-17A levels.81,89
+
+Other mechanisms involved in exacerbations associated with PM are the increased risk of respiratory infections and the adjuvant effects of other components of air pollution.86,90
+
+Nitrogen dioxide and ozone
+The oxidative stress induced by exposure to elevated O3 and/or NO2 levels can directly trigger asthma exacerbations even before the activation of inflammation in the LRT.73,86,90 The mechanism involved appears to be the induction of lipid peroxidation of the cell membranes and the generation of ROS that impair the structure and function of the airways. In addition, O3 and NO2 may promote the release of inflammatory mediators, and O3 may act as an adjuvant to other components of air pollution, such as aeroallergens.73
+
+Sulphur dioxide
+Sulphur dioxide (SO2) triggers airway inflammation and eosinophilia, which induces bronchospasm.73 In animal models, SO2 has been found to be able to enhance IL-4-mediated Th2 inflammatory responses.91
+
+Prevention strategies
+Humans are in daily contact with air pollutants that can penetrate the body and cause significant health damage.6 It is therefore necessary to provide people with understandable and simple information that includes health recommendations and warns of the risks of air pollution. In this regard, the WHO and EU Air Quality Guidelines provide general guidance on the thresholds and limits of air pollutants and the health risks associated with non-compliance.2,92,93 In general, air pollution measurements include four atmospheric pollutants (PM, O3, NO2 and SO2) and apply globally.
+
+The pollutant limits established by regulatory frameworks are based on the limits of each pollutant separately, without taking into consideration the synergy and combination between them. It is therefore difficult for the general public to relate concentrations of a particular pollutant to air quality. International agencies have focused on developing indices that, based on the joint assessment of air pollutants, determine air quality and the impact of pollutants on human health, and have set out a number of recommendations according to the public's level of alert.94,95
+
+The measures to reduce the exposure of the population have proven to be effective, both by reducing emissions and by applying individual protection systems.96
+
+When coal was banned for sale in Dublin in 1990, it conditioned within the following 6 years, a 72% reduction in the concentration of black smoke, a 33% reduction in SO2 and a 16% reduction in respiratory mortality.97
+
+A traffic reduction system in Stockholm reduced NOx emissions by 8.5% and PM10 emissions by 13%. It is estimated that 27 premature deaths were prevented each year.98
+
+During the Beijing Olympics, PM2.5 levels fell by 59% and ozone levels dropped by 13%. Meanwhile, consultations for asthma decreased by 46% after these contaminants were reduced during the Olympics.99
+
+In a study with children who went to school by bus with different levels of filters for contaminants, it was observed that the levels of PM2.5 inside the bus were higher than those outside, but the levels of ultrafine particles (UFP) and polycyclic aromatic hydrocarbons were lower inside the bus. This was modified depending on the type of bus, since inside the bus with cleaner technologies a 25–40% reduction in PM2.5 was observed, as well as a 40–50% reduction in UFP. The use of cleaner technologies had an impact on children's health, with lower levels of FeNO and less school absenteeism. The effect was greater in children with asthma.100
+
+The protective effect of cooking in kitchens with closed fires (plancha) has been evaluated and compared with traditional open fires in parts of Latin America. A significant reduction in environmental CO and in the prevalence of wheezing has been verified.101
+
+Other measures are effective for reducing indoor pollution, such as choosing furniture with fewer chemical emissions, evaluating home systems regularly, ventilating the home frequently, using clean energy instead of biomass or fossil fuels, improving the efficiency of gas removal in stoves and kitchens.102
+
+Other measures that have also shown to reduce the impact of environmental pollution on human health are listed below:
+
+Recommendations to minimize air pollution
+•
+Use close-fitting particulate respirators, such as N95 masks, when air pollution levels are high or when travelling to areas with high ambient air pollution levels.
+
+•
+Switch from motorized to active transport (walking or cycling).
+
+•
+Choose travel routes that minimize near-road air pollution exposure, avoid major intersections and traffic jams, choose routes with open spaces, minimize travel during peak times, and avoid delays in areas of high air pollution.
+
+•
+Optimize driving style and apply measures such as driving with windows closed when in traffic. Maintain car air filtration systems and avoid keeping the engine idling.
+
+•
+Exercise outdoors regularly, but with moderate intensity, when air pollution levels are high.
+
+•
+Healthcare professionals should encourage patients to check their local air quality, and patients should be aware of air quality alerts and learn how to implement adequate protective behaviour on high air pollution days.
+
+Recommendations to minimize personal exposure to household air pollution
+•
+Use clean fuels and make sure the home has good ventilation as well as more efficient cookstoves.
+
+•
+Use portable air purifiers combined with measures to reduce sources of household air pollution and strategies to improve ventilation.
+
+•
+In the case of asthmatic patients, follow the planned treatment plan, since having well-controlled asthma is crucial to reduce or prevent the risks of air pollution.
+
+Conclusions
+Air pollution appears to have a significant role in both the incidence and prognosis of asthma, in which some sources and pollutants such as road traffic or DEP are of particular importance. Various mechanisms have been described such as direct damage to the respiratory epithelium, immunological mechanisms or epigenetic changes that seem to support the biological plausibility of this relationship between pollution and asthma, especially in people with greater genetic susceptibility. In addition, several publications show epidemiological evidence of an increased incidence of asthma and exacerbations of the disease, in both children and adults, due to exposure to higher levels of air pollution. All the available evidence justifies the need to establish and maintain active prevention strategies aimed at reducing exposure to air pollutants.
+
+Funding
+This research has not received specific aid from public sector agencies, the commercial sector or non-profit organizations.
+
+Authors' contributions
+All authors contributed equally to conceptualization, writing of original draft and writing and review of the final version of the manuscript.
+
+Conflicts of interest
+Gonzalez-Barcala Francisco-Javier has received speaker fees, consulting fees or research grants from ALK, Astra-Zeneca, Bial, Boehringer-Ingelheim, Chiesi, Gebro Pharma, GlaxoSmithKline, Laboratorios Esteve, Menarini, Mundipharma, Novartis, Rovi, Roxall, Sanofi, Stallergenes-Greer and Teva.
+
+G-B F-J is part of the Editorial board of Open Respiratory Archives and declares that they have remained outside the evaluation and decision-making process in relation to this article.
+
+Xavier Muñoz has received fees as a speaker, scientific advisor or participant of clinical studies of (in alphabetical order): AstraZeneca, Boehringer Ingelheim, Chiesi, Faes, Gebro, GlaxoSmithKline, Menarini, Mundifarma, Novartis, Sanofi, Teva.
+
+The rest of authors do not have any conflict of interest to disclose.
+
+REFERENCES
+[1]
+E. Toskala, D.W. Kennedy.
+Asthma risk factors.
+Int Forum Allergy Rhinol, 5 (2015), pp. S11-S16
+http://dx.doi.org/10.1002/alr.21557 | Medline
+[2]
+European Environment Agency. Air quality in Europe – 2020 report; 2020. https://www.eea.europa.eu//publications/air-quality-in-europe-2020-report [accessed 26.06.22].
+[3]
+Health Effects Institute. State of Global Air 2020. Special Report; 2020. Boston, MA: Health Effects Institute. https://www.stateofglobalair.org/resources [accessed 26.06.22].
+[4]
+World Health Organization (WHO). Air pollution; 2021. https://www.who.int/health-topics/air-pollution [accessed 26.06.22].
+[5]
+World Health Organization (WHO). Policies, regulations & legislation promoting healthy housing: a review; 2021. https://www.who.int/publications/i/item/9789240011298 [accessed 26.06.22].
+[6]
+S. Khomenko, M. Cirach, E. Pereira-Barboza, N. Mueller, J. Barrera-Gómez, D. Rojas-Rueda, et al.
+Premature mortality due to air pollution in European cities: a health impact assessment.
+Lancet Planet Health, 5 (2021), pp. e121-e134
+http://dx.doi.org/10.1016/S2542-5196(20)30272-2 | Medline
+[7]
+P. Achakulwisut, M. Brauer, P. Hystad, S.C. Anenberg.
+Global, national, and urban burdens of paediatric asthma incidence attributable to ambient NO(2) pollution: estimates from global datasets.
+Lancet Planet Health, 3 (2019), pp. e166-e178
+http://dx.doi.org/10.1016/S2542-5196(19)30046-4 | Medline
+[8]
+H. Khreis, M. Cirach, N. Mueller, K. de Hoogh, G. Hoek, M.J. Nieuwenhuijsen, et al.
+Outdoor air pollution and the burden of childhood asthma across Europe.
+Eur Respir J, 54 (2019), pp. 1802194
+http://dx.doi.org/10.1183/13993003.02194-2018 | Medline
+[9]
+F.J. Kelly, J.C. Fussell.
+Air pollution and airway disease.
+Clin Exp Allergy, 41 (2011), pp. 1059-1071
+http://dx.doi.org/10.1111/j.1365-2222.2011.03776.x | Medline
+[10]
+P.G. Gibson, H. Powell.
+Written action plans for asthma: an evidence-based review of the key components.
+Thorax, 59 (2004), pp. 94-99
+http://dx.doi.org/10.1136/thorax.2003.011858 | Medline
+[11]
+I.A. Pérez, M. García, M.L. Sánchez, N. Pardo, B. Fernández-Duque.
+Key points in air pollution meteorology.
+Int J Environ Res Public Health, 17 (2020), pp. 8349
+http://dx.doi.org/10.3390/ijerph17228349 | Medline
+[12]
+World Health Organization. Occupational and Environmental Health Team. WHO Air quality guidelines for particulate matter, ozone, nitrogen dioxide and sulfur dioxide: global update 2005: summary of risk assessment; 2006. World Health Organization. https://apps.who.int/iris/handle/10665/69477 [accessed 26.06.22].
+[13]
+D.E. Schraufnagel, J.R. Balmes, C.T. Cowl, S. De Matteis, S.H. Jung, K. Mortimer, et al.
+Air pollution and noncommunicable diseases: a review by the forum of International Respiratory Societies’ Environmental Committee. Part 2: air pollution and organ systems.
+Chest, 155 (2019), pp. 417-426
+http://dx.doi.org/10.1016/j.chest.2018.10.041 | Medline
+[14]
+A.J. Cohen, M. Brauer, R. Burnett, H.R. Anderson, J. Frostad, K. Estep, et al.
+Estimates and 25-year trends of the global burden of disease attributable to ambient air pollution: an analysis of data from the Global Burden of Diseases Study 2015.
+Lancet, 389 (2017), pp. 1907-1918
+[15]
+J.J. Zhang, Y. Wei, Z. Fang.
+Ozone pollution: a major health hazard worldwide.
+Front Immunol, 10 (2019), pp. 2518
+http://dx.doi.org/10.3389/fimmu.2019.02518 | Medline
+[16]
+L. Carazo Fernández, R. Fernández Alvarez, F.J. González-Barcala, J.A. Rodríguez Portal.
+Indoor air contaminants and their impact on respiratory pathologies.
+Arch Bronconeumol, 49 (2013), pp. 22-27
+http://dx.doi.org/10.1016/j.arbres.2012.04.005 | Medline
+[17]
+X. Muñoz, E. Barreiro, V. Bustamante, J.L. Lopez-Campos, F.J. González-Barcala, M.J. Cruz.
+Diesel exhausts particles: their role in increasing the incidence of asthma. Reviewing the evidence of a causal link.
+Sci Total Environ, 652 (2019), pp. 1129-1138
+[18]
+B. Bleck, D.B. Tse, T. Gordon, M.R. Ahsan, J. Reibman.
+Diesel exhaust particle-treated human bronchial epithelial cells upregulate Jagged-1 and OX40 ligand in myeloid dendritic cells via thymic stromal lymphopoietin.
+J Immunol, 185 (2010), pp. 6636-6645
+[19]
+S. Steiner, C. Bisig, A. Petri-Fink, B. Rothen-Rutishauser.
+Diesel exhaust: current knowledge of adverse effects and underlying cellular mechanisms.
+Arch Toxicol, 90 (2016), pp. 1541-1553
+http://dx.doi.org/10.1007/s00204-016-1736-5 | Medline
+[20]
+G.G. Xiao, M. Wang, N. Li, J.A. Loo, A.E. Nel.
+Use of proteomics to demonstrate a hierarchical oxidative stress response to diesel exhaust particle chemicals in a macrophage cell line.
+J Biol Chem, 278 (2003), pp. 50781-50790
+http://dx.doi.org/10.1074/jbc.M306423200 | Medline
+[21]
+D.L. Pham, T.H.K. Trinh, G.Y. Ban, S.H. Kim, H.S. Park.
+Epithelial folliculin is involved in airway inflammation in workers exposed to toluene diisocyanate.
+Exp Mol Med, 49 (2017), pp. e395-e495
+[22]
+A. Ma, B.A. Malynn.
+A20: linking a complex regulator of ubiquitylation to immunity and human disease.
+Nat Rev Immunol, 12 (2012), pp. 774-785
+http://dx.doi.org/10.1038/nri3313 | Medline
+[23]
+H. Vroman, I.M. Bergen, J.A.C. van Hulst, M. van Nimwegen, D. van Uden, M.J. Schuijs, et al.
+TNF-α-induced protein 3 levels in lung dendritic cells instruct T2 or T17 cell differentiation in eosinophilic or neutrophilic asthma.
+J Allergy Clin Immunol, 141 (2018), pp. 1620-1633
+http://dx.doi.org/10.1016/j.jaci.2017.08.012 | Medline
+[24]
+K.C. De Grove, S. Provoost, G.G. Brusselle, G.F. Joos, T. Maes.
+Insights in particulate matter-induced allergic airway inflammation: focus on the epithelium.
+Clin Exp Allergy, 48 (2018), pp. 773-786
+http://dx.doi.org/10.1111/cea.13178 | Medline
+[25]
+J.G. Martin, A. Panariti.
+Asthma phenotypes: do they matter?.
+Arch Bronconeumol, 53 (2017), pp. 177-179
+http://dx.doi.org/10.1016/j.arbres.2016.11.016 | Medline
+[26]
+V. Gallo, F.N. Dijk, J.W. Holloway, S.M. Ring, G.H. Koppelman, D.S. Postma, et al.
+TRPA1 gene polymorphisms and childhood asthma.
+Pediatr Allergy Immunol, 28 (2017), pp. 191-198
+[27]
+G. Bowatte, C.J. Lodge, L.D. Knibbs, B. Erbas, J.L. Perret, B. Jalaludin, et al.
+Traffic related air pollution and development and persistence of asthma and low lung function.
+Environ Int, 113 (2018), pp. 170-176
+http://dx.doi.org/10.1016/j.envint.2018.01.028 | Medline
+[28]
+F.C. de, A.J. Lichtenfels, D.A. van der Plaat, K. de Jong, C.C. van Diemen, D.S. Postma, et al.
+Long-term air pollution exposure, genome-wide DNA methylation and lung function in the lifelines cohort study.
+Environ Health Perspect, 126 (2018), pp. 027004
+http://dx.doi.org/10.1289/EHP2045 | Medline
+[29]
+M. Prunicki, L. Stell, D. Dinakarpandian, M. de Planell-Saguer, R.W. Lucas, S.K. Hammond, et al.
+Exposure to NO(2), CO, and PM(2.5) is linked to regional DNA methylation differences in asthma.
+Clin Epigenetics, 10 (2018), pp. 2
+http://dx.doi.org/10.1186/s13148-017-0433-4 | Medline
+[30]
+J.J. Lee, S.H. Kim, M.J. Lee, B.K. Kim, W.J. Song, H.W. Park, et al.
+Different upper airway microbiome and their functional genes associated with asthma in young adults and elderly individuals.
+Allergy, 74 (2019), pp. 709-719
+http://dx.doi.org/10.1111/all.13608 | Medline
+[31]
+A. Gisler, I. Korten, K. de Hoogh, D. Vienneau, U. Frey, F. Decrue, et al.
+Associations of air pollution and greenness with the nasal microbiota of healthy infants: a longitudinal study.
+Environ Res, 202 (2021), pp. 111633
+[32]
+P. Losol, J.P. Choi, S.H. Kim, Y.S. Chang.
+The role of upper airway microbiome in the development of adult asthma.
+Immune Netw, 21 (2021), pp. e19
+[33]
+L. Cecchi, G. D’Amato, J.G. Ayres, C. Galan, F. Forastiere, B. Forsberg, et al.
+Projections of the effects of climate change on allergic asthma: the contribution of aerobiology.
+Allergy, 65 (2010), pp. 1073-1081
+http://dx.doi.org/10.1111/j.1398-9995.2010.02423.x | Medline
+[34]
+K. Reinmuth-Selzle, C.J. Kampf, K. Lucas, N. Lang-Yona, J. Fröhlich-Nowoisky, M. Shiraiwa, et al.
+Air pollution and climate change effects on allergies in the anthropocene: abundance, interaction, and modification of allergens and adjuvants.
+Environ Sci Technol, 51 (2017), pp. 4119-4141
+http://dx.doi.org/10.1021/acs.est.6b04908 | Medline
+[35]
+M. Muranaka, S. Suzuki, K. Koizumi, S. Takafuji, T. Miyamoto, R. Ikemori, et al.
+Adjuvant activity of diesel-exhaust particulates for the production of IgE antibody in mice.
+J Allergy Clin Immunol, 77 (1986), pp. 616-623
+http://dx.doi.org/10.1016/0091-6749(86)90355-6 | Medline
+[36]
+S. Sagar, H. Akbarshahi, L. Uller.
+Translational value of animal models of asthma: challenges and promises.
+Eur J Pharmacol, 759 (2015), pp. 272-277
+http://dx.doi.org/10.1016/j.ejphar.2015.03.037 | Medline
+[37]
+T.H. Acciani, E.B. Brandt, G.K. Khurana Hershey, T.D. Le Cras.
+Diesel exhaust particle exposure increases severity of allergic asthma in young mice.
+Clin Exp Allergy, 43 (2013), pp. 1406-1418
+http://dx.doi.org/10.1111/cea.12200 | Medline
+[38]
+E.B. Brandt, J.M. Biagini Myers, T.H. Acciani, P.H. Ryan, U. Sivaprasad, B. Ruff, et al.
+Exposure to allergen and diesel exhaust particles potentiates secondary allergen-specific memory responses, promoting asthma susceptibility.
+J Allergy Clin Immunol, 136 (2015), pp. 295-303
+http://dx.doi.org/10.1016/j.jaci.2014.11.043 | Medline
+[39]
+D. Alvarez-Simon, X. Munoz, S. Gomez-Olles, M. de Homdedeu, M.D. Untoria, M.J. Cruz.
+Effects of diesel exhaust particle exposure on a murine model of asthma due to soybean.
+PLoS ONE, 12 (2017), pp. e0179569
+http://dx.doi.org/10.1371/journal.pone.0179569 | Medline
+[40]
+U. Gehring, A.H. Wijga, G. Hoek, T. Bellander, D. Berdel, I. Brüske, et al.
+Exposure to air pollution and development of asthma and rhinoconjunctivitis throughout childhood and adolescence: a population-based birth cohort study.
+Lancet Respir Med, 3 (2015), pp. 933-942
+http://dx.doi.org/10.1016/S2213-2600(15)00426-9 | Medline
+[41]
+F.J. Gonzalez-Barcala, S. Pertega, L. Garnelo, T.P. Castro, M. Sampedro, J.S. Lastres, et al.
+Truck traffic related air pollution associated with asthma symptoms in young boys: a cross-sectional study.
+Public Health, 127 (2013), pp. 275-281
+http://dx.doi.org/10.1016/j.puhe.2012.12.028 | Medline
+[42]
+R. McConnell, T. Islam, K. Shankardass, M. Jerrett, F. Lurmann, F. Gilliland, et al.
+Childhood incident asthma and traffic-related air pollution at home and school.
+Environ Health Perspect, 118 (2010), pp. 1021-1026
+http://dx.doi.org/10.1289/ehp.0901232 | Medline
+[43]
+A. Mölter, A. Simpson, D. Berdel, B. Brunekreef, A. Custovic, J. Cyrys, et al.
+A multicentre study of air pollution exposure and childhood asthma prevalence: the ESCAPE project.
+Eur Respir J, 45 (2015), pp. 610-624
+http://dx.doi.org/10.1183/09031936.00083614 | Medline
+[44]
+G. Bowatte, C. Lodge, A.J. Lowe, B. Erbas, J. Perret, M.J. Abramson, et al.
+The influence of childhood traffic-related air pollution exposure on asthma, allergy and sensitization: a systematic review and a meta-analysis of birth cohort studies.
+Allergy, 70 (2015), pp. 245-256
+http://dx.doi.org/10.1111/all.12561 | Medline
+[45]
+B. Brunekreef, A.W. Stewart, H.R. Anderson, C.K.W. Lai, D.P. Strachan, N. Pearce, et al.
+Self-reported truck traffic on the street of residence and symptoms of asthma and allergic disease: a global relationship in ISAAC phase 3.
+Environ Health Perspect, 117 (2009), pp. 1791-1798
+http://dx.doi.org/10.1289/ehp.0800467 | Medline
+[46]
+T. Olaniyan, M. Jeebhay, M. Röösli, R.N. Naidoo, N. Künzli, K. de Hoogh, et al.
+The association between ambient NO(2) and PM(2.5) with the respiratory health of school children residing in informal settlements: a prospective cohort study.
+Environ Res, 186 (2020), pp. 109606
+http://dx.doi.org/10.1016/j.envres.2020.109606 | Medline
+[47]
+H.H. Hsu, Y.H. Chiu, B.A. Coull, I. Kloog, J. Schwartz, A. Lee, et al.
+Prenatal particulate air pollution and asthma onset in urban children. Identifying sensitive windows and sex differences.
+Am J Respir Crit Care Med, 192 (2015), pp. 1052-1059
+http://dx.doi.org/10.1164/rccm.201504-0658OC | Medline
+[48]
+M.J. Cruz, C. Romero-Mesones, X. Muñoz.
+Can environmental pollution cause asthma?.
+Arch Bronconeumol (Engl Ed), 54 (2018), pp. 121-122
+http://dx.doi.org/10.1016/j.arbres.2017.08.008 | Medline
+[49]
+R.L. Miller, J. Lawrence.
+Understanding root causes of asthma. Perinatal environmental exposures and epigenetic regulation.
+Ann Am Thorac Soc, 15 (2018), pp. S103-S108
+http://dx.doi.org/10.1513/AnnalsATS.201706-514MG | Medline
+[50]
+N.M. Johnson, A.R. Hoffmann, J.C. Behlen, C. Lau, D. Pendleton, N. Harvey, et al.
+Air pollution and children's health—a review of adverse effects associated with prenatal exposure from fine to ultrafine particulate matter.
+Environ Health Prev Med, 26 (2021), pp. 72
+http://dx.doi.org/10.1186/s12199-021-00995-5 | Medline
+[51]
+A. Citerne, C. Roda, M. Viola, F. Rancière, I. Momas.
+Early postnatal exposure to traffic-related air pollution and asthma in adolescents: vulnerability factors in the PARIS birth cohort.
+Environ Res, 201 (2021), pp. 111473
+http://dx.doi.org/10.1016/j.envres.2021.111473 | Medline
+[52]
+A. Bettiol, E. Gelain, E. Milanesio, F. Asta, F. Rusconi.
+The first 1000 days of life: traffic-related air pollution and development of wheezing and asthma in childhood. A systematic review of birth cohort studies.
+Environ Health, 20 (2021), pp. 46
+http://dx.doi.org/10.1186/s12940-021-00728-9 | Medline
+[53]
+R.A. Silverman, K. Ito.
+Age-related association of fine particles and ozone with severe acute asthma in New York City.
+J Allergy Clin Immunol, 125 (2010), pp. 367-373
+http://dx.doi.org/10.1016/j.jaci.2009.10.061 | Medline
+[54]
+I. Annesi-Maesano, F. Forastiere.
+Doubts about the adverse effects of air pollution on asthma?.
+Eur Respir J, 54 (2019), pp. 1901900
+http://dx.doi.org/10.1183/13993003.01900-2019 | Medline
+[55]
+P. Orellano, N. Quaranta, J. Reynoso, B. Balbi, J. Vasquez.
+Effect of outdoor air pollution on asthma exacerbations in children and adults: systematic review and multilevel meta-analysis.
+PLoS ONE, 12 (2017), pp. e0174050
+[56]
+M. Hendryx, J. Luo, C. Chojenta, J.E. Byles.
+Air pollution exposures from multiple point sources and risk of incident chronic obstructive pulmonary disease (COPD) and asthma.
+Environ Res, 179 (2019), pp. 108783
+http://dx.doi.org/10.1016/j.envres.2019.108783 | Medline
+[57]
+G. Bowatte, B. Erbas, C.J. Lodge, L.D. Knibbs, L.C. Gurrin, G.B. Marks, et al.
+Traffic-related air pollution exposure over a 5-year period is associated with increased risk of asthma and poor lung function in middle age.
+Eur Respir J, 50 (2017), pp. 1602357
+http://dx.doi.org/10.1183/13993003.02357-2016 | Medline
+[58]
+S. Liu, Y.-H. Lim, M. Pedersen, J.T. Jørgensen, H. Amini, T. Cole-Hunter, et al.
+Long-term exposure to ambient air pollution and road traffic noise and asthma incidence in adults: the Danish Nurse cohort.
+Environ Int, 152 (2021), pp. 106464
+http://dx.doi.org/10.1016/j.envint.2021.106464 | Medline
+[59]
+G.D. Thurston, J.R. Balmes, E. Garcia, F.D. Gilliland, M.B. Rice, T. Schikowski, et al.
+Outdoor air pollution and new-onset airway disease. An Official American Thoracic Society Workshop Report.
+Ann Am Thorac, 17 (2020), pp. 387-398
+[60]
+T. To, J. Zhu, K. Larsen, J. Simatovic, L. Feldman, K. Ryckman, et al.
+Progression from asthma to chronic obstructive pulmonary disease. Is air pollution a risk factor?.
+Am J Respir Crit Care Med, 194 (2016), pp. 429-438
+http://dx.doi.org/10.1164/rccm.201510-1932OC | Medline
+[61]
+H. Johansson, T.B. Mersha, E.B. Brandt, G.K. Khurana Hershey.
+Interactions between environmental pollutants and genetic susceptibility in asthma risk.
+Curr Opin Immunol, 60 (2019), pp. 156-162
+[62]
+O. Enilari, S. Sinha.
+The global impact of asthma in adult populations.
+Ann Glob Health, 85 (2019), pp. 2
+http://dx.doi.org/10.5334/aogh.2412 | Medline
+[63]
+X. Li, Q. Chen, X. Zheng, Y. Li, M. Han, T. Liu, et al.
+Effects of ambient ozone concentrations with different averaging times on asthma exacerbations: a meta-analysis.
+Sci Total Environ, 691 (2019), pp. 549-561
+http://dx.doi.org/10.1016/j.scitotenv.2019.06.382 | Medline
+[64]
+R.H. Dougherty, J.V. Fahy.
+Acute exacerbations of asthma: epidemiology, biology and the exacerbation-prone phenotype.
+Clin Exp Allergy, 39 (2009), pp. 193-202
+http://dx.doi.org/10.1111/j.1365-2222.2008.03157.x | Medline
+[65]
+L.M. Graham, N. Eid.
+The impact of asthma exacerbations and preventive strategies.
+Curr Med Res Opin, 31 (2015), pp. 825-835
+[66]
+N. Abe, H. Yasudo, R. Fukano, T. Nakamura, S. Okada, H. Wakiguchi, et al.
+Multi-season analyses of causative pathogens in children hospitalized with asthma exacerbation.
+Pediatr Allergy Immunol, 30 (2019), pp. 724-731
+[67]
+I. Mikhail, M.H. Grayson.
+Asthma and viral infections: an intricate relationship.
+Ann Allergy Asthma Immunol, 123 (2019), pp. 352-358
+http://dx.doi.org/10.1016/j.anai.2019.06.020 | Medline
+[68]
+O.C. Ioachimescu, N.S. Desai.
+Nonallergic triggers and comorbidities in asthma exacerbations and disease severity.
+Clin Chest Med, 40 (2019), pp. 71-85
+http://dx.doi.org/10.1016/j.ccm.2018.10.005 | Medline
+[69]
+L.B. Mohr, S. Luo, E. Mathias, R. Tobing, S. Homan, D. Sterling.
+Influence of season and temperature on the relationship of elemental carbon air pollution to pediatric asthma emergency room visits.
+J Asthma, 45 (2008), pp. 936-943
+http://dx.doi.org/10.1080/02770900802404082 | Medline
+[70]
+Y. Liu, J. Pan, H. Zhang, C. Shi, G. Li, Z. Peng, et al.
+Short-term exposure to ambient air pollution and asthma mortality.
+Am J Respir Crit Care Med, 200 (2019), pp. 24-32
+[71]
+S.W. Shin, D.J. Bae, C.S. Park, J.U. Lee, R.H. Kim, S.R. Kim, et al.
+Effects of air pollution on moderate and severe asthma exacerbations.
+J Asthma, 57 (2020), pp. 875-885
+http://dx.doi.org/10.1080/02770903.2019.1611844 | Medline
+[72]
+M.S. Khan, S. Coulibaly, T. Matsumoto, Y. Yano, M. Miura, Y. Nagasaka, et al.
+Association of airborne particles, protein, and endotoxin with emergency department visits for asthma in Kyoto, Japan.
+Environ Health Prev Med, 23 (2018), pp. 41
+http://dx.doi.org/10.1186/s12199-018-0731-2 | Medline
+[73]
+X.Y. Zheng, H. Ding, L.N. Jiang, S.W. Chen, J.P. Zheng, M. Qiu, et al.
+Association between air pollutants and asthma emergency room visits and hospital admissions in time series studies: a systematic review and meta-analysis.
+PLoS ONE, 10 (2015), pp. e0138146
+http://dx.doi.org/10.1371/journal.pone.0138146 | Medline
+[74]
+N.A. Rosenquist, W.J. Metcalf, S.Y. Ryu, A. Rutledge, M.J. Coppes, J.J. Grzymski, et al.
+Acute associations between PM(2.5) and ozone concentrations and asthma exacerbations among patients with and without allergic comorbidities.
+J Expo Sci Environ Epidemiol, 30 (2020), pp. 795-804
+http://dx.doi.org/10.1038/s41370-020-0213-7 | Medline
+[75]
+J.M. Altzibar, I. Tamayo-Uria, V. De Castro, X. Aginagalde, M.V. Albizu, A. Lertxundi, et al.
+Epidemiology of asthma exacerbations and their relation with environmental factors in the Basque Country.
+Clin Exp Allergy, 45 (2015), pp. 1099-1108
+http://dx.doi.org/10.1111/cea.12419 | Medline
+[76]
+M.A. Marques Mejías, M. Tomás Pérez, I. Hernández, I. López, S. Quirce.
+Asthma exacerbations in the pediatric emergency department at a tertiary hospital: association with environmental factors.
+J Investig Allergol Clin Immunol, 29 (2019), pp. 365-370
+http://dx.doi.org/10.18176/jiaci.0364 | Medline
+[77]
+K.A. Evans, J.S. Halterman, P.K. Hopke, M. Fagnano, D.Q. Rich.
+Increased ultrafine particles and carbon monoxide concentrations are associated with asthma exacerbation among urban children.
+Environ Res, 129 (2014), pp. 11-19
+[78]
+J.S. Schildcrout, L. Sheppard, T. Lumley, J.C. Slaughter, J.Q. Koenig, G.G. Shapiro.
+Ambient air pollution and asthma exacerbations in children: an eight-city analysis.
+Am J Epidemiol, 164 (2006), pp. 505-517
+http://dx.doi.org/10.1093/aje/kwj225 | Medline
+[79]
+P.E. Pfeffer, I.S. Mudway, J. Grigg.
+Air pollution and asthma: mechanisms of harm and considerations for clinical interventions.
+Chest, 159 (2021), pp. 1346-1355
+http://dx.doi.org/10.1016/j.chest.2020.10.053 | Medline
+[80]
+N. Bouazza, F. Foissac, S. Urien, R. Guedj, R. Carbajal, J.M. Tréluyer, et al.
+Fine particulate pollution and asthma exacerbations.
+Arch Dis Child, 103 (2018), pp. 828-831
+http://dx.doi.org/10.1136/archdischild-2017-312826 | Medline
+[81]
+J. Wu, T. Zhong, Y. Zhu, D. Ge, X. Lin, Q. Li.
+Effects of particulate matter (PM) on childhood asthma exacerbation and control in Xiamen, China.
+BMC Pediatr, 19 (2019), pp. 194
+http://dx.doi.org/10.1186/s12887-019-1530-7 | Medline
+[82]
+Y.J. Lee, N. Rabinovitch.
+Relationship between traffic-related air pollution particle exposure and asthma exacerbations: association or causation?.
+Ann Allergy Asthma Immunol, 120 (2018), pp. 458-460
+[83]
+B.M. Byrwa-Hill, A. Venkat, A.A. Presto, J.R. Rager, D. Gentile, E. Talbott.
+Lagged association of ambient outdoor air pollutants with asthma-related emergency department visits within the Pittsburgh region.
+Int J Environ Res Public Health, 17 (2020), pp. 8619
+http://dx.doi.org/10.3390/ijerph17228619 | Medline
+[84]
+R. Tham, D. Vicendese, S.C. Dharmage, R.J. Hyndman, E. Newbigin, E. Lewis, et al.
+Associations between outdoor fungal spores and childhood and adolescent asthma hospitalizations.
+J Allergy Clin Immunol, 139 (2017), pp. 1140-1147
+[85]
+S.H. Gavett, H.S. Koren.
+The role of particulate matter in exacerbation of atopic asthma.
+Int Arch Allergy Immunol, 124 (2001), pp. 109-112
+http://dx.doi.org/10.1159/000053685 | Medline
+[86]
+A.J. Ghio.
+Mechanism of asthmatic exacerbation by ambient air pollution particles.
+Expert Rev Respir Med, 2 (2008), pp. 109-118
+[87]
+C.M. Weng, M.J. Lee, J.R. He, M.W. Chao, C.H. Wang, H.P. Kuo.
+Diesel exhaust particles up-regulate interleukin-17A expression via ROS/NF-κB in airway epithelium.
+Biochem Pharmacol, 151 (2018), pp. 1-8
+http://dx.doi.org/10.1016/j.bcp.2018.02.028 | Medline
+[88]
+S. Yousefi, S.K. Sharma, D. Stojkov, N. Germic, S. Aeschlimann, M.Q. Ge, et al.
+Oxidative damage of SP-D abolishes control of eosinophil extracellular DNA trap formation.
+J Leukoc Biol, 104 (2018), pp. 205-214
+http://dx.doi.org/10.1002/JLB.3AB1117-455R | Medline
+[89]
+E.B. Brandt, M.B. Kovacic, G.B. Lee, A.M. Gibson, T.H. Acciani, T.D. Le Cras, et al.
+Diesel exhaust particle induction of IL-17A contributes to severe asthma.
+J Allergy Clin Immunol, 132 (2013), pp. 1194-1204
+http://dx.doi.org/10.1016/j.jaci.2013.06.048 | Medline
+[90]
+S.R. Del Giacco, A. Bakirtas, E. Bel, A. Custovic, Z. Diamant, E. Hamelmann, et al.
+Allergy in severe asthma.
+Allergy, 72 (2017), pp. 207-220
+http://dx.doi.org/10.1111/all.13072 | Medline
+[91]
+X. Li, L. Huang, N. Wang, H. Yi, H. Wang.
+Sulfur dioxide exposure enhances Th2 inflammatory responses via activating STAT6 pathway in asthmatic mice.
+Toxicol Lett, 285 (2018), pp. 43-50
+[92]
+World Health Organization (WHO). Air quality guidelines for particulate matter, ozone, nitrogen dioxide and sulfur dioxide: global update 2005: summary of risk assessment; 2006. https://www.who.int/publications/list/who_sde_phe_oeh_06_02/es/ [accessed 26.06.22].
+[93]
+World Health Organization (WHO). Ambient (outdoor) air pollution; 2021. https://www.who.int/es/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health [accessed 26.06.22].
+[94]
+Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe. http://data.europa.eu/eli/dir/2008/50/oj [accessed 26.06.22].
+[95]
+C. Carlsten, S. Salvi, G.W.K. Wong, K.F. Chung.
+Personal strategies to minimise effects of air pollution on respiratory health: advice for providers, patients and the public.
+Eur Respir J, 55 (2020), pp. 1902056
+http://dx.doi.org/10.1183/13993003.02056-2019 | Medline
+[96]
+A.I. Tiotiu, P. Novakova, D. Nedeva, H.J. Chong-Neto, S. Novakova, P. Steiropoulos, et al.
+Impact of air pollution on asthma outcomes.
+Int J Environ Res Public Health, 17 (2020), pp. 6212
+http://dx.doi.org/10.3390/ijerph17176212 | Medline
+[97]
+L. Clancy, P. Goodman, H. Sinclair, D.W. Dockery.
+Effect of air-pollution control on death rates in Dublin, Ireland: an intervention study.
+Lancet, 360 (2002), pp. 1210-1214
+http://dx.doi.org/10.1016/S0140-6736(02)11281-5 | Medline
+[98]
+C. Johansson, L. Burman, B. Forsberg.
+The effects of congestions tax on air quality and health.
+Atmos Environ, 43 (2009), pp. 4843-4854
+[99]
+Y. Li, W. Wang, H. Kan, X. Xu, B. Chen.
+Air quality and outpatient visits for asthma in adults during the 2008 Summer Olympic Games in Beijing.
+Sci Total Environ, 408 (2010), pp. 1226-1227
+http://dx.doi.org/10.1016/j.scitotenv.2009.11.035 | Medline
+[100]
+S.D. Adar, J. D'Souza, L. Sheppard, J.D. Kaufman, T.S. Hallstrand, M.E. Davey, et al.
+Adopting clean fuels and technologies on school buses. Pollution and health impacts in children.
+Am J Respir Crit Care Med, 191 (2015), pp. 1413-1421
+http://dx.doi.org/10.1164/rccm.201410-1924OC | Medline
+[101]
+T. Smith-Sivertsen, E. Díaz, D. Pope, R.T. Lie, A. Díaz, J. McCracken, et al.
+Effect of reducing indoor air pollution on women's respiratory symptoms and lung function: the RESPIRE randomized trial, Guatemala.
+Am J Epidemiol, 170 (2009), pp. 211-220
+http://dx.doi.org/10.1093/aje/kwp100 | Medline
+[102]
+X.Q. Jiang, X.D. Mei, D. Feng.
+Air pollution and chronic airway diseases: what should people know and do?.
+J Thorac Dis, 8 (2016), pp. E31-E40
+Copyright © 2022. Sociedad Española de Neumología y Cirugía Torácica (SEPAR)
+
+
+Subscribe to our newsletter
+Enter your email address
+ 
+Publish in
+Open Respiratory Archives
+Instructions for authors
+Submit an article
+Ethics in publishing
+Open Access Option
+Language Editing services
+Highlighted articles
+GEMA 5.3. Spanish Guideline on the Management of Asthma
+See more
+Special content about COVID-19
+Encuesta sobre la actividad de los laboratorios de función pulmonar. Efectos durante la pandemia por SARS-CoV-2
+Prognostic Value of Diaphragmatic Ultrasound in Patients Admitted for COVID-19 Pneumonia
+Bilateral Chylothorax and COVID-19: Report Case
+Face Mask Exemptions, Respiratory Patients, and COVID-19 in Spain. Data From the 2021 ITC EUREST-PLUS Spain Survey
+See more
+Tools
+Print
+Send to a friend
+Export reference
+CrossMark
+Mendeley
+Statistics
+Recommended
+articles
+GEMA 5.3. Spanish Guideline on the Management of...
+Open Respir Arch. 2023;5:
+Estudio de prevalencia de asma en población general en...
+Open Respir Arch. 2023;5:
+Highlights del 55.° Congreso...
+Open Respir Arch. 2023;5:
+Revista relacionada
+
+
+
+facme
+Modelo de recertificación de las sociedades científico-médicas de España
+
+FACME. Federación de Asociaciones Científico Médicas Españolas
+
+ 
+
+Open Respiratory Archives
+Home
+Recursos
+Revistas
+Colecciones
+Formación
+Permisos reproducción
+Regístrese
+Publish in this journal
+Submit an article
+Instructions for authors
+Editorial Board
+Advertising
+Contract
+About Elsevier
+Support and contact information
+Careers
+Where we are
+Legal terms
+Terms and conditions
+Privacy policy
+Follow Elsevier
+  
+	All content on this site: Copyright © 2024 Elsevier España SLU, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.
+Cookies are used by this site. To decline or learn more, visit our Cookies page.	
+es en pt
+Are you a health professional able to prescribe or dispense drugs?
+
+  
+Quizás le interese:
+GEMA 5.3. Spanish Guideline on the Management of Asthma
+10.1016/j.opresp.2023.100277
+ No mostrar más
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie settings
+Accept all cookies

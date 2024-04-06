@@ -1,0 +1,129 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Wildfire Smoke and Your Patients' Health
+CONTACT US
+Fire or Smoke Event Plan
+When there’s a fire or smoke event, your patients should have a plan to reduce their smoke exposure. The plan should include: 
+
+Strategies to reduce exposure outdoors
+Strategies to reduce exposure indoors
+Information on clean air shelters and spaces
+Evacuation information
+Each of these is detailed below.  For additional information, see the Wildfire Guide factsheet Reduce Your Smoke Exposure (PDF).  
+
+Strategies to Reduce Exposure Outdoors
+The instructions given below are commonly part of AQI advisories during a smoke event:
+
+Image of 4 people on a ridge watching a wildfire burn in the distance
+ Stay indoors when appropriate: Particle levels and activity levels are generally lower indoors.
+
+Reduce activity level and time outdoors: Smoke levels can change a lot during the day, so wait until air quality is better before you are active outdoors. If you must go out when particle pollution from wildfire smoke is high, spend as little time outside as possible and reduce activity levels.
+
+Reduce smoke in your vehicle: Close the windows and vents. Run your car’s air conditioner in recirculate mode to reduce air intake from outside. Slow down when driving in smoky conditions as visibility may be limited.
+
+Recirculate air button found on car dashboard
+Consider wearing a respirator: If you go outdoors when smoke levels are in the unhealthy ranges, consider wearing a respirator. Use a “particulate respirator,” as described below. Masks such as paint masks, dust masks, or surgical masks do not prevent breathing in smoke. Learn how to select and correctly use the respirator to achieve the most protection possible. For more information about respirator use, including information about the risks of wearing a respirator, see the factsheet Protect Your Lungs from Wildfire Smoke or Ash (PDF).
+
+Choose a “particulate respirator” that has been tested and approved by the National Institute of Occupational Safety and Health (NIOSH). It will have the words “NIOSH” and either “N95” or “P100” printed on it.
+Choose a respirator that has two (2) straps to go around your head.
+Choose a size that will fit over your nose and under your chin and seal tightly to your face. Any leakage around the edge of the mask causes unfiltered air to enter and be inhaled.
+Follow instructions on the package about how to check for a tight face seal.
+NIOSH-certified respirators do NOT come in sizes suitable for children. Reduce children’s exposure to wildfire smoke by checking air quality, keeping them indoors, creating a clean air room, and being ready to evacuate if necessary. 
+Two types of N95 disposable particulate respirators
+Figure 8. Two types of N95 disposable particulate respirators. Note the presence and placement of the two straps above and below the ears. Photos courtesy of the California Department of Public Health.
+one strap incorrect respirator in use
+Figure 9. A one-strap paper mask is not a respirator and provides little or no protection from smoke particles. Photo courtesy of the California Department of Public Health.
+Wearing a respirator, especially if it’s hot or you are physically active, can increase the risk of heat-related illness. Take breaks often and drink water. If you have difficulty breathing, get dizzy, or have other symptoms while wearing a respirator, go to a place with cleaner air and remove it. People with heart or lung disease may be particularly sensitive to the added work of breathing, the reduction of tidal volume, and the accumulation of carbon dioxide accompanying the use of a N95 or P100 respirator. Consequently, health care professionals should provide guidance regarding the use of N95 or P100 respirators for such patients and, if determined appropriate, provide instruction on the proper use and precautions.
+
+Follow guidance for children and schools: Children are especially at risk for health effects from exposure to wildfire smoke and ash, mostly because their lungs are still growing. For more information about children and smoke, please see the Wildfire Guide factsheet Protecting Children from Wildfire Smoke and Ash (PDF), written with the American Academy of Pediatrics.  Air Quality and Outdoor Activity Guidance for Schools (PDF), based on the AQI, can help with decisions about when and where it is safe for students to be physically active while at school.
+
+Strategies to Reduce Exposure Indoors
+The most common advisory issued during a smoke episode is to stay indoors. The effectiveness of this strategy depends on how well the building limits smoke from coming indoors, and on efforts to minimize indoor pollution sources. Staying indoors will provide some protection from smoke, especially in a tightly closed, air-conditioned home in which the air conditioner re-circulates indoor air. Generally, newer homes keep ambient air pollution out more effectively than older homes.
+
+Staying inside with the doors and windows closed can reduce the entry of outdoor air into homes, in some cases by a third or more (Howard-Reed et al., 2002). Homes with central air conditioning generally re-circulate indoor air, though some outdoor smoky air can still be drawn inside (e.g., when people enter or exit). In homes without air conditioning, indoor concentrations of fine particles can approach 70-100% of the outdoor levels; however, more commonly the indoor concentrations are 50% or less of outdoor concentrations when windows and doors are closed (Allen et al. 2012, Chen and Zhao 2011). In very leaky homes and buildings, guidance to stay inside may provide little protection as outdoor particles can easily infiltrate indoors. In any home, if doors and windows are left open, particle levels indoors and outdoors will be about the same. For more information about indoor air quality, see the Wildfire Guide factsheet Indoor Air Filtration (PDF) and EPA's web page on Wildfires and Indoor Air Quality.
+
+Here are steps for your patients to follow to reduce exposure indoors:
+
+Close windows and doors: Limit the amount of smoke that comes indoors by keeping doors and windows closed. Use fans and air conditioning to stay cool. If a patient does not have an air conditioner and it’s too warm to stay inside with the windows closed, they should seek shelter elsewhere.
+
+Do not add to indoor pollution: Do not burn candles or use gas, propane, woodburning stoves, fireplaces, or aerosol sprays. Do not fry or broil meat, smoke tobacco products, or vacuum. All of these can increase particle levels indoors.
+
+Use HVAC system effectively:  During periods of smoke, patients whose homes have a fresh air intake should close the intake or set the system to recirculate mode. The central heating/cooling system filter can effectively reduce indoor particle concentrations when the system is operating or when only the fan is turned on. If the system has a standard fiberglass filter, upgrading to a filter rated MERV13 or higher can be especially important during smoky periods to effectively remove fine particle pollution from smoke in the indoor air (see more details about filters and addressing concerns about whether they will work in a particular HVAC system on the Preparing for Fire Season page). To maximize the filter’s effectiveness, patients can set the fan to run continuously. Whether they switch to a more efficient filter or not, running the system continuously by switching the thermostat fan from “Auto” to “On” can reduce particle concentrations by as much as 24 percent (Fisk and Chan 2017).
+
+Use a portable air cleaner: The effectiveness of a portable air cleaner in reducing air particle concentrations depends on several factors such as size of the air cleaner, area to be cleaned, filter efficiency, frequency of use, and fan speed. Under normal (non-smoky) conditions, portable air cleaners fitted with high-efficiency filters can reduce indoor particle concentrations by as much as 90 percent (Singer et al. 2016). During a wildfire smoke event, portable air cleaners fitted with high efficiency filters may reduce indoor particle concentrations by as much as 45% (Fisk and Chan 2017). Furthermore, portables can be operated continuously at a lower cost compared to the continuous operation of a central system (Fisk and Chan 2017).
+
+The portable air cleaner should be sized for the room and not generate ozone, which is a harmful air pollutant. Portable air cleaners can be used along with efficient central air systems with efficient filters to maximize the reduction of indoor particles. As mentioned earlier in the course, California has a table listing California-certified air cleanersby brand, model number and type. Certification is based on their low (usually near-zero) ozone emissions and electrical safety.
+
+Create a clean room in your home:  Spending as much time as possible in a clean room can help reduce exposure to wildfire smoke while indoors. Choose a room with no fireplace and as few windows and doors as possible. Use a portable air cleaner in the room and avoid activities that add to indoor particle levels. For more information see EPA's page Create a Clean Room to Protect Indoor Air Quality During a Wildfire.
+
+Air out the home when air quality improves: Open windows or the fresh air intake on the HVAC system to air out the home when smoke clears, even temporarily.
+
+
+Cleaner Air Shelters and Spaces
+Inform your patients about two types of public spaces where they can find relief from wildfire smoke.
+
+Cleaner air shelters are public spaces for people who are displaced by wildfire or smoke. Examples of potential cleaner air shelters include school gymnasiums, buildings at public fairgrounds and civic auditoriums. People who take refuge in these shelters may need to stay only one night or for extended periods (days or even weeks).
+For short periods (hours) of respite from smoke, people can seek out cleaner air spaces in their community. Examples could include libraries, museums, shopping malls, theaters, sports arenas, senior centers or any indoor area with effective particle filtration and air conditioning. Finding temporary relief from smoke (as well as heat/cold) for several hours, or perhaps the better part of a day is a good option for people who cannot keep the air in their home cleaner. For example, if they cannot close windows because their home will be too warm. Ideally, public health officials will identify these spaces.
+More information about the indoor air quality requirements for cleaner air shelters and spaces can be found in the Wildfire Guide.
+
+Evacuation
+The most common reason for evacuation during a wildfire is the direct threat of engulfment by the fire, not exposure to smoke. However, leaving an area of thick smoke is generally a good protective measure for members of at-risk groups.
+
+Evacuation is not an attractive option to many people. It can cause stress, and most people do not want to leave their homes. It is often difficult to predict the duration, intensity, and direction of smoke, making the need to leave uncertain. If smoky conditions are expected to continue for weeks, it may not be feasible for a large percentage of the affected population to evacuate. Therefore, it’s important for your patients to know how to reduce exposures when outdoors, what steps they can take to keep air cleaner in their homes, and where they can spend time in cleaner air spaces during the day.
+
+PREVIOUS    |    NEXT
+Wildfire Smoke Course Home
+About the Wildfire Smoke Course
+Public Health Impacts
+Health Concerns
+Health Effects
+Who is at Greater Risk?
+Air Quality and Smoke
+Challenges in Smoke Prediction
+Importance of Patient Education
+The Air Quality Index
+Reducing Exposure
+Preparing for Fire Season
+Fire or Smoke Event Plan
+Resources
+Knowledge Check Questions
+References
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON AUGUST 15, 2023
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.

@@ -1,0 +1,59 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of ochsnerj
+Ochsner J. 2019 Spring; 19(1): 4. Published online Spring 2019. doi: 10.31486/toj.19.0011
+PMCID: PMC6447209PMID: 30983893
+Growing Evidence for the Impact of Air Pollution on Depression
+Naureen A. Ali, BSc1 and Adeel Khoja, MBBS, MSc2
+Author information Copyright and License information PMC Disclaimer
+Go to:
+TO THE EDITOR
+The World Health Organization (WHO) estimates that 9 of every 10 people worldwide inhale polluted air, and exposure to polluted air is accountable for 7 million deaths annually.1 Studies have associated the adverse effects of air pollution with respiratory, cardiovascular, and neurovascular diseases.2 Air pollutants can also cause serious neurocognitive effects—ranging from behavioral variations to neurodegenerative disorders—that ultimately can have devastating effects on mental health.3,4 WHO has taken the initiative to include mental health in the domain of noncommunicable diseases (NCDs), as mental health is a strong risk factor for NCDs.5
+
+Mental disorders such as depression affect more than 300 million people worldwide; a rise of >18% was reported between 2005 and 2015.5 Data from the World Health Survey across 60 countries show that 9.3%-23% of people have a chronic physical disease and depression.6 Globally and regionally, depression is the tenth leading cause of disability-adjusted life years (DALYs). A DALY equates to 1 lost year of healthy life. By 2030, depression is expected to be among the 3 principal causes of DALYs.7
+
+According to data from China published in 2018, every 1 standard deviation rise in particulate matter over an average PM2.5 concentration increases the likelihood of having mental illness (including depression) by 6.67%, translating to an annual medical expense of $22.88 billion USD.4 MohanKumar et al found that air pollutants, specifically particulate matter, induce inflammation and oxidative stress in the brain that can lead to the manifestation of depression.2 Vert et al found that the rate of depression was 2 times higher for each 10 μg/m3 increase in the nitric oxide level.8 Szyszkowicz et al reported a 7.2% increase in the risk of emergency department visits for depressive episodes with every 19.4 μg/m3 of PM10 concentration.3
+
+These findings have important implications because most of the world's population resides in areas where particulate matter concentrations are greater than the WHO guidelines,1 and the association between air pollution and depression cannot be ignored. Public policies and individual actions are essential to reduce the effect of air pollution. Examples include creating green spaces and urban forestation for eliminating air toxins, avoiding exercising near crowded roads and streets, and improving household ventilation by substituting low-emission cook stoves for traditional solid household fuel.
+
+Further research into the effect of air pollution on mental health is warranted through public-private partnerships.
+
+Go to:
+REFERENCES
+1. Air pollution key facts. World Health Organization (WHO). www.who.int/news-room/air-pollution. Accessed January 16, 2019. [Google Scholar]
+2. MohanKumar SM, Campbell A, Block M, Veronesi B. Particulate matter, oxidative stress and neurotoxicity. Neurotoxicology. 2008. May;29(3):479-488. doi: 10.1016/j.neuro.2007.12.004. [PubMed] [CrossRef] [Google Scholar]
+3. Szyszkowicz M, Rowe BH, Colman I. Air pollution and daily emergency department visits for depression. Int J Occup Med Environ Health. 2009;22(4):355-362. doi: 10.2478/v10001-009-0031-6. [PubMed] [CrossRef] [Google Scholar]
+4. Chen S, Oliva P, Zhang P. Air pollution and mental health: evidence from China. The National Bureau of Economic Research. www.nber.org/papers/w24686. Published June 2018. Accessed February 5, 2019. [Google Scholar]
+5. Other dimensions of the NCD crisis: from mental health, ageing, dementia and malnutrition to deaths on the roads, violence and disability. World Health Organization (WHO). www.who.int/publications/10-year-review/ncd-other-dimensions/en/. Accessed January 16, 2019. [Google Scholar]
+6. Moussavi S, Chatterji S, Verdes E, Tandon A, Patel V, Ustun B. Depression, chronic diseases, and decrements in health: results from the World Health Surveys. Lancet. 2007. Sep 8;370(9590):851-858. [PubMed] [Google Scholar]
+7. Depression. World Health Organization (WHO). www.emro.who.int/health-topics/depression/index.html. Accessed January 16, 2019. [Google Scholar]
+8. Vert C, Sánchez-Benavides G, Martínez D, et al.. Effect of long-term exposure to air pollution on anxiety and depression in adults: a cross-sectional study. Int J Hyg Environ Health. 2017. August;220(6):1074-1080. doi: 10.1016/j.ijheh.2017.06.009. [PubMed] [CrossRef] [Google Scholar]
+Articles from The Ochsner Journal are provided here courtesy of Ochsner Clinic Foundation
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

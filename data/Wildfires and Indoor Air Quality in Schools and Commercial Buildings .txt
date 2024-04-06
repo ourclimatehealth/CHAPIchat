@@ -1,0 +1,160 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Indoor Air Quality (IAQ)
+CONTACT US
+Wildfires and Indoor Air Quality in Schools and Commercial Buildings
+Related Publications
+Flyer: Recommendations for Reducing Wildfire Smoke in Commercial Buildings and Schools (pdf) (797.5 KB)
+Protecting Building Occupants from Smoke During Wildfire and Prescribed Burn Events (pdf) (682.6 KB, March 2021) (ASHRAE Journal March 2021 by: Javins, Robarge, Snyder, Nilsson, and Emmerich)
+Used with permission from the American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) Journal. This article may not be copied nor distributed in either paper or digital form without ASHRAE’s permission. For more information about ASHRAE, visit www.ashrae.org.
+
+Related Topics
+For more information about protecting families from wildfire smoke in single-family homes, including how to create a clean room at home, see our webpage on Wildfires and Indoor Air Quality.
+
+As wildfire events increase in the U.S., public health and emergency response professionals in areas prone to wildfires or routine prescribed burning can help reduce exposure to smoke, whether outdoors or indoors, within the community during wildfire or prescribed burn events. Breathing in smoke is harmful to health, and fine particulate matter (PM2.5) is the greatest health concern. Exposure to fine particles in smoke can cause respiratory and cardiovascular health effects, especially for those with preexisting conditions like asthma and heart disease.
+
+When smoke from fires becomes a health hazard, state and local health departments may advise people to stay indoors and avoid outside activity when possible. Smoke events can last for days and weeks, which is why it is important for building owners and managers to have information on best practices for reducing exposure to smoke that may enter schools, commercial buildings, or multi-unit housing. Communities affected by wildfire smoke may also choose to set up or identify cleaner air spaces and cleaner air shelters where people can seek relief from smoke.
+
+This page provides several resources for building owners and managers, school facility managers, public health officials, and emergency managers to reduce smoke concentrations in buildings, including in dedicated cleaner air spaces, during wildfires and prescribed burns.
+
+On this page:
+
+Factsheets: Schools as Cleaner Air and Cooling Centers
+ASHRAE Planning Framework for Protecting Commercial Building Occupants from Smoke During Wildfire Events
+InterAgency: Wildfire Smoke: A Guide for Public Health Officials
+Creating Cleaner Air Spaces and Shelters during the COVID-19 Pandemic
+National Academies: Frameworks for Protecting Workers and the Public from Inhalation Hazards
+Additional Resources
+On other pages:
+
+Wildfire Smoke Preparedness in Community Buildings Grant Program
+Wildfires and Indoor Air Quality
+COVID-19, Wildfires, and Indoor Air Quality
+Creating Healthy Indoor Air Quality in Schools
+Factsheets: Schools as Cleaner Air and Cooling Centers
+The factsheets listed below can help guide important school partners on how to make schools safer during wildfires and heat waves. These disasters are expected to increase in frequency and severity as a result of climate change. 
+
+Schools as Cleaner Air and Cooling Centers - Tips for Facilities Managers (pdf)
+Schools as Cleaner Air and Cooling Centers - Tips for Principals and School Administrators (pdf)
+Schools as Cleaner Air and Cooling Centers - Tips for Teachers (pdf)
+Schools as Cleaner Air and Cooling Centers - Tips for Parents and Caregivers (pdf)
+These factsheets are based on lessons learned during an EPA pilot program launched in 2021 called Schools as Community Cleaner Air and Cooling Centers.
+
+Learn more about the program.
+Find related resources.
+ASHRAE Planning Framework for Protecting Commercial Building Occupants from Smoke During Wildfire Events
+ASHRAE (formerly the American Society of Heating, Refrigerating and Air Conditioning Engineers) offers guidance, Planning Framework for Protecting Commercial Building Occupants from Smoke During Wildfire Events, that recommends heating, ventilation, and air conditioning (HVAC) and other building measures to minimize occupant exposures and health impacts from smoke during wildfire and prescribed burn smoke events.
+
+HVAC equipment on rooftop of a commercial building
+HVAC equipment on rooftop of a commercial building
+The recommendations are designed for buildings that use HVAC systems with air-handling units that bring outside air into buildings or recirculate indoor air. The planning framework is specifically for commercial buildings, schools and other similar building types and is not intended for single-family homes.
+
+The planning framework focuses on reducing exposure to PM2.5 and provides recommendations and processes for developing a Smoke Readiness Plan for commercial buildings and other similar building types that can be implemented when smoke is forecast or during smoky days.
+
+The planning framework includes:
+
+Actions that should be taken before and during a smoke event,
+A checklist to determine if the HVAC system is ready for a smoke event,
+Information on how to properly use portable air cleaners,
+An overview of how to determine the safe operation of HVAC systems when using higher efficiency air filters, and
+References and additional resources.
+10 Elements of a Smoke Readiness Plan
+
+Technician examining HVAC system
+Technician examining HVAC system
+ 
+The planning framework identifies the following elements that building managers should include in a written, building-specific Smoke Readiness Plan:
+
+ Purchase smoke preparation supplies, such as portable air cleaners and extra filters.
+ Evaluate the ability of the HVAC system to handle a higher efficiency filter. (The planning framework recommends MERV 13 or higher filters during smoke events.)
+ Conduct a full maintenance check on the HVAC system and make repairs if needed.
+ Assess and maintain adequate air flows to protect occupant health and equipment during smoke events.
+ Prepare to add supplemental filtration at the intake air vent where possible.
+ Assess filter conditions by adding a port or pressure gauge to measure the filter pressure drop on at least one air-handling unit.
+ Weatherize the building to limit smoke intrusion. Consider measures such as limiting allowable entrances to reduce smoke entry.
+Checking air handling unit pre-filter
+Checking air handling unit pre-filter
+ Prepare to monitor indoor PM2.5 by purchasing one or more low-cost air sensors designed to measure the pollutant. These low-cost sensors can be used to show trends in PM2.5 levels (i.e., whether PM2.5 is increasing or decreasing). These low-cost sensors will not be as accurate as regulatory monitors, but can show whether your interventions are reducing indoor PM2.5.
+ Determine how to create temporary cleaner air spaces within the building.
+ Anticipate sources of indoor PM2.5, such as cooking, vacuum cleaning, use of printers or copiers and smoking, that can increase levels of PM2.5 within the building.
+Members of ASHRAE’s Guideline Project Committee (GPC) 44P developed this planning framework for the 2021 wildfire season, and it is available to the public free of charge.
+
+EPA, the National Institute of Standards and Technology (NIST), other federal and international organizations and industry are serving on ASHRAE’s committee to produce a guideline, Protecting Building Occupants from Smoke During Wildfire and Prescribed Burn Events, which is expected to be completed in 2022. The guideline document will provide comprehensive information for building design, commissioning, operation, and maintenance for schools, commercial buildings, and multi-unit residential buildings to protect occupants from smoke during wildfires and prescribed burns. The guideline will be the first of its kind to provide recommendations to help building owners and managers prepare and respond to smoke.    
+
+More information about the purpose and scope of the proposed guideline can be found on the ASHRAE Titles, Purposes and Scopes webpage under GPC 44P.
+
+Webinar: Protecting Indoor Air Quality During Smoke Events
+
+
+
+“Protecting Indoor Air Quality During Smoke Events” presented by Greg Nilsson
+This recording from the June 23, 2021, meeting of the Federal Interagency Committee on Indoor Air Quality (CIAQ) features the presentation “Protecting Indoor Air Quality During Smoke Events” by Greg Nilsson from the Indoor Air Quality Team, Construction Research Center, National Research Council Canada. The presentation discusses how standard ventilation practices in buildings need to be modified to protect indoor air quality when the outdoor air is heavily polluted during prolonged wildfire events. It also provides an overview of the ASHRAE Planning Framework for Protecting Commercial Building Occupants from Smoke During Wildfire Events to assist building operators to take the necessary steps to reduce smoke in the indoor environment during these prolonged smoke events.
+
+InterAgency: Wildfire Smoke: A Guide for Public Health Officials
+Wildfire Smoke: A Guide for Public Health Officials is designed to help local public health officials prepare for smoke events, to take measures to protect the public when smoke is present and communicate with the public about wildfire smoke and health. The 2019 version of the guide is the product of an inter-agency collaboration between the California Air Resources Board (CARB), California Office of Environmental Health Hazard Assessment (OEHHA), U.S. Centers for Disease Control and Prevention (CDC), U.S. Forest Service, and EPA.
+
+Building owners and facility managers may find the information about specific strategies to reduce exposure to wildfire smoke and recommended public health actions useful for managing their buildings and communicating to occupants during smoke events. In addition, Appendix B provides information about how to set up cleaner air spaces and cleaner air shelters. Steps include identifying suitable public spaces with air conditioning and high efficiency filtration, installing room air cleaners as appropriate, and taking steps to ensure safety and comfort in the space with higher occupancy. Appendix D provides guidance on protecting workers in offices and similar indoor workplaces from wildfire smoke, including considerations for adjusting ventilation while maintaining positive building pressure and conditions that may give reason for temporary reductions in outdoor air flow rates.
+
+Creating Cleaner Air Spaces and Shelters during the COVID-19 Pandemic
+Public health guidance for sheltering from wildfires in cleaner air spaces or cleaner air shelters should be adapted to accommodate safety measures related to COVID-19. For more information, see COVID-19, Wildfires, and Indoor Air Quality.
+
+National Academies: Frameworks for Protecting Workers and the Public from Inhalation Hazards
+The National Academies of Sciences, Engineering, and Medicine (NASEM) published a consensus study report, Frameworks for Protecting Workers and the Public from Inhalation Hazards, with recommendations addressing the need for a coordinated effort to improve communication and engagement around respiratory protection. The recommendations aim to ensure that all individuals have access to the devices and associated guidance needed to protect themselves from inhalation exposures, including wildfire smoke. This study was sponsored by the National Institute for Occupational Safety and Health (NIOSH), the CDC Foundation, the Department of State, and EPA.
+
+Additional Resources
+Air Cleaners and Filters in the Home
+AirNow.gov
+Air Sensor Toolbox
+Smoke-Ready Communities
+Smoke Sense Mobile App
+Related Links:
+
+EPA’s Wildland Fire Science
+Indoor Air Quality Home
+Learn about Indoor Air Quality
+IAQ by Building Type
+Network and Collaborate
+Popular IAQ Topics
+Frequently Asked Questions
+Publications
+Regional and State IAQ Information
+Webinars, Meetings & Updates
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON JANUARY 24, 2024
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.

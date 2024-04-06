@@ -1,0 +1,401 @@
+Skip to Main Content
+Oxford Academic
+Search Menu
+Information
+Account
+Menu
+International Journal of Epidemiology	International Epidemiological Association
+Article Navigation
+JOURNAL ARTICLE
+Ambient air pollution, healthy diet and vegetable intakes, and mortality: a prospective UK Biobank study 
+Mengying Wang, Tao Zhou, Qiying Song, Hao Ma, Yonghua Hu, Yoriko Heianza, Lu Qi
+International Journal of Epidemiology, Volume 51, Issue 4, August 2022, Pages 1243–1253, https://doi.org/10.1093/ije/dyac022
+Published: 18 February 2022 Article history
+pdfPDF
+ Views 
+ Cite
+Permissions Icon Permissions
+Share Icon Share 
+Abstract
+Background
+Recent studies suggest potential interactions of air pollutants with dietary factors and genetic susceptibility on mortality risk; however, evidence from prospective studies is still lacking. We aimed to assess the association between air pollution and mortality, and investigate the modification effects of a healthy diet and genetic susceptibility.
+
+Methods
+A total of 386 937 participants were enrolled from 2006 to 2010 and followed up to 2018 in the UK Biobank study. The annual average air pollutant concentrations of particulate matter (PM) with diameters ≤2.5 (PM2.5), ≤10 (PM10) and between 2.5 and 10 µm (PM2.5–10) and nitrogen oxides (NO2 and NOx) were calculated and linked to participants’ residential addresses. Healthy dietary patterns were evaluated by a healthy diet score (HDS) based on intakes of vegetables, fruit, fish, unprocessed red meat and processed meat. We also calculated genetic risk score (GRS) of the lifespan. We examined potential interactions by setting variable cross-product terms of air pollutants with diets or GRS in the models.
+
+Results
+We identified 11 881 deaths [2426 from cardiovascular diseases (CVD), 1211 from coronary heart disease (CHD) and 466 from stroke] during a median follow-up of 8.9 years. We found that PM2.5 [hazard ratio (HR), 1.27; 95% CI, 1.05–1.55], PM10 (HR, 1.18; 95% CI, 1.04–1.34), NO2 (HR, 1.05; 95% CI, 1.01–1.08), and NOx (HR, 1.02; 95% CI, 1.01–1.03) were associated with all-cause mortality. PM2.5 was also associated with increased risks of CVD mortality (HR, 1.68; 95% CI, 1.10–2.56) and CHD mortality (HR, 2.08; 95% CI, 1.16–3.75). In addition, we found that adherence to healthy dietary patterns modified associations of PM2.5, NO2 and NOx with all-cause mortality (P-interaction = 0.006, 0.006 and 0.02, respectively). Among the individual dietary components, vegetable intakes showed interactions with PM2.5, NO2 and NOx (P-interaction = 0.007, 0.004 and 0.02, respectively). The associations between air pollutants and increased risks of all-cause mortality were attenuated among participants with higher vegetable intakes. We did not observe interactions between air pollutants and HDS on CVD, CHD or stroke mortality (P-interaction > 0.05). Besides, we did not find interactions between air pollutants and genetic risk for lifespan on mortality risk.
+
+Conclusion
+This study provides evidence linking long-term exposure to various air pollutants to the risk of all-cause, CVD and CHD mortality, and the potential attenuation of a healthy diet, especially high vegetable intakes, on such relations. Our findings highlight the importance of adherence to a healthy diet in lowering ambient air-pollution-related mortality risk.
+
+air pollution, healthy diet, vegetable intakes, mortality
+Topic: cardiovascular diseasesdietair pollutantsair pollutionvegetablesmortalityhealthy dietbiobanks
+Issue Section: Air Pollution
+Key Messages
+Long-term exposure to various ambient air pollutants might be related to the risks of all-cause, cardiovascular diseases and coronary heart disease mortality.
+
+A healthy diet, especially high vegetable intakes, may attenuate adverse associations between air pollution and mortality risks.
+
+The importance of adherence to a healthy diet in lowering ambient air-pollution-related mortality risk needs to be addressed.
+
+Introduction
+Ambient air pollution is a leading cause of overall disease burden and mortality globally.1,2 It is estimated that ∼4.2 million deaths were attributable to ambient air pollution all over the world in 2016.3 In particular, ambient air pollution is a major contributor to cardiovascular diseases (CVD) mortality, which accounts for more than half of the total deaths caused by air pollution.4 Recently, numerous studies have provided compelling evidence that long-term exposure to ambient air pollution is associated with increased risks of all-cause and cause-specific mortality.5–10 Notably, most of the previous studies only evaluated particulate matter with aerodynamic diameter of ≤2.5 µm (PM2.5),5–7,9 nitrogen oxides (NO2 and NOx)11,12 and PM with an aerodynamic diameter of ≤10 µm (PM10),12,13 whereas investigations on other air pollutants such as PM with an aerodynamic diameter of between 2.5 and 10 µm (PM2.5–10) were limited.
+
+In addition, recently emerging evidence suggests that the relation between air pollution and human health is likely to be modified by lifestyle factors such as dietary intakes. A recent prospective cohort study (N = 548 845) in the USA showed that a Mediterranean diet modified the association between PM2.5, NO2 and CVD mortality, as participants with a higher alternative Mediterranean Diet Index score exhibited a reduced risk of CVD mortality related to air pollution.14 Several short-term intervention studies also lent support to the potential modification effects of individual foods or nutrients on the relation between air pollution and cardiopulmonary outcomes.15–17 However, prospective studies on the interactions between the habitual dietary patterns and comprehensively measured air pollutants are still lacking. Besides, growing evidence shows that human genetic variations may modify individual susceptibility to air pollution18,19 yet little is known about the interaction between air pollution and genetic variations on mortality risk.
+
+The UK Biobank study is a large-scale prospective cohort study with a wide range of information on air pollutants including PM2.5, PM10, PM2.5–10, NO2 and NOx, as well as dietary intakes and genetic variations. Therefore, we aimed to comprehensively assess the associations of air pollutants with all-cause and CVD mortality, and further investigate the potential modification effects of healthy dietary patterns and genetic variations on these associations.
+
+Methods
+Study design and populations
+UK Biobank study is a national cohort study of half a million community-dwelling adults aged 40–69 years initiated in the UK from 2006 to 2010. The information on the baseline questionnaire and anthropometric measures were collected at 22 assessment centres across England, Wales and Scotland. A detailed description of the cohort study and participants was published elsewhere.20,21 All participants gave written consent.
+
+In our main analysis (N = 502 506) we excluded participants who had a history of cancer or CVD on the basis of self-report or medical records (27 885 males and 33 174 females) as well as an additional 19 514 participants with missing dietary information. After excluding participants with missing air pollution measurements, a total of 386 937 participants were included in the final analysis.
+
+Air pollution measurements
+The Land Use Regression (LUR)-based model developed by the ESCAPE study group was adopted to estimate the annual average concentration of PM2.5, PM10, PM2.5–10, NO2 and NOx.22,23 The annual average air pollutant concentrations were calculated through pollutant-specific LUR models using the predictor variables obtained from the Geographic Information System and linked to participants’ residential addresses given at the UK Biobank baseline visit.24,25 Air pollution estimates for PM2.5, PM2.5–10 and NOx were only available for the year 2010, whereas NO2 and PM10 had the exposure data for several years (2005, 2006, 2007 and 2010 for NO2, and 2007 and 2010 for PM10), thus the means of the values of the two air pollutants were included in the analysis.
+
+Ascertainment of death
+Death dates were obtained by reviewing the death certificates held by the National Health Service Information Centre for participants in England and Wales and the National Health Service Central Register Scotland for participants from Scotland. The cause of death was coded according to the International Classification of Disease, 10th revised edition (ICD-10) assigned to the primary cause of death. We used ICD-10 code of I00–I99 to define deaths due to CVD, where coronary heart diseases (CHD) and stroke were identified as code of I20–I25 and I60–I64, respectively.
+
+Dietary intake and covariates assessment
+At baseline, all participants completed a touchscreen questionnaire to collect information about socio-demographic characteristics, lifestyles, dietary intakes and medical history of prevalent diseases.
+
+We assessed diet based on a touchscreen food frequency questionnaire (FFQ). Participants reported their daily intake of dietary consumption including poultry, beef, lamb/mutton, processed meat, oily fish, non-oily fish, fresh fruit, dried fruit, raw vegetables and cooked vegetables by answering touchscreen multiple-choice questions. Frequency categories of meat and fish were recoded: ‘never’ = 0, ‘less than once a week’ = 0.5, ‘once a week’ = 1, ‘2–4 times a week’ = 3, ‘5–6 times a week’ = 5.5 and ‘once or more daily’ = 7. Servings for beef, lamb/mutton and pork were summed to create the frequency of consumption of unprocessed red meat. For vegetables and fruit, participants were asked about how many heaped tablespoons of cooked/salad or raw vegetables or pieces of fresh/dried fruit they consumed per day. Tablespoons of cooked/salad and raw vegetables were added to create the consumption of vegetables and pieces of fresh and dried fruit were added to create the consumption of fruit. The validity and repeatability of the touchscreen FFQ have been described in a previous study.26 We defined healthy diets according to the healthy diet score (HDS) calculated on the basis of the following factors: vegetable intake of at least four tablespoons each day (median); fruit intake of at least three pieces each day (median); fish intake of at least twice each week (median); unprocessed red meat intake of no more than twice each week (median); and processed meat intake of no more than twice each week (median). One point was given for each favourable dietary factor and the total diet score ranged from 0 to 5.27 Participants were classified into three groups of poor dietary pattern (score of 0 or 1), medium dietary pattern (score of 2 or 3) or ideal dietary pattern (score of 4 or 5).28
+
+Data on several potential confounders including age, sex, race, average household income, Townsend deprivation index, smoking status, alcohol consumption status, body mass index (BMI) and physical activity were collected. The Townsend deprivation index is a composite measurement of deprivation based on unemployment, overcrowded household, non-car ownership and non-home ownership, with higher Townsend index scores indicating greater levels of deprivation.29 The index was calculated using the preceding national census data prior to participants joining the UK Biobank. Physical activity was measured using the metabolic equivalent task (MET)-minutes based on items from the short International Physical Activity Questionnaire. In addition, height and weight were measured by trained nurses during the baseline assessment centre visit and BMI was calculated through dividing the weight in kilograms by the square of the height in metres. The history of hypertension, diabetes and respiratory diseases [chronic obstructive pulmonary disease (COPD) and emphysema] was based on self-report or medical records, or both. Information on medications use (cholesterol-lowering medication, blood pressure medication, and insulin) was collected through a touchscreen question ‘Do you regularly take any of the following medications?’.
+
+Genotyping and genetic risk score
+The genotyping process and arrays used in the UK Biobank study have been published elsewhere.30 We calculated the genetic risk score (GRS) for lifespan based on previously reported genetic variants,31 where 12 single-nucleotide polymorphisms (SNPs) were included. Details regarding the selected SNPs are provided in Supplementary Table S1 (available as Supplementary data at IJE online). In the analytical sample, we only included unrelated participants of European descent.32 Finally, a total of 294 443 individuals were included to calculate lifespan GRS using a weighted method.33 The number of risk alleles (0, 1 or 2) for each individual was summed after multiplication with the risk estimate (years of life) between the SNP and lifespan: weighted GRS = (β1 × SNP1 + β2 × SNP2+ … + βn × SNPn) × (N/sum of the β coefficients). The GRS for lifespan ranged from 4.5 to 22.7, with a higher GRS indicating increased years of life. Participants were classified into three groups of low (score of 16.0–22.7), intermediate (score of 14.2–15.9) and high (score of 4.5–14.1) genetic risk for lifespan.
+
+Statistical analysis
+Descriptive statistics for continuous variables are presented as mean [standard deviation (SD)], whereas categorical variables are presented as percentages. We coded missing data as a missing indicator category for categorical variables such as smoking status and with mean values for continuous variables.
+
+Survival time for each participant was calculated as the duration from the response date of the baseline survey through to the death date or date of censoring, whichever came first. The Cox proportional hazard regression model was adopted to assess the association between air pollution and all-cause and cause-specific mortality. Hazard ratios (HRs) and 95% CIs were calculated for each 10 µg/m3 increase in PM2.5, PM10, PM2.5–10, NO2 and NOx. The multivariable models were adjusted for the potential confounding factors, namely, age, sex, race (White European, mixed, South Asian, Black, others), UK Biobank assessment centre, Townsend deprivation index, alcohol consumption status (current, former, never, missing), smoking status (current, former, never, missing), BMI (kg/m2), physical activity (MET-minutes/week), HDS (0, 1, 2, 3, 4, 5), diabetes (yes/no) and hypertension (yes/no). In the genetic analysis, we further adjusted for genotyping batch and the first 10 genetic principal components.
+
+We first conducted analyses to assess associations between air pollutants and mortality. To evaluate whether genetic predisposition to lifespan may modify the associations, we conducted a stratified analysis according to genetic susceptibility for lifespan and explored the potential gene–air pollution interactions on mortality risk. Then we tested the air pollution–healthy diet interaction by setting variable cross-product terms of air pollutants with the HDS in the models. When testing the interaction between the air pollution and individual dietary components, the models included other dietary components simultaneously.
+
+We also conducted several sensitivity analyses to determine the robustness of our findings. First, we additionally adjusted for average total household income (<£18 000, £18 000–£30 999, £31 000–£51 999, £52 000–£100 000, >£100 000 and ‘do not know’ or missing) and education years of the participants. Second, we further adjusted for the history of medications use including antihypertensive medications (yes/no), insulin (yes/no) and cholesterol-lowering medications (yes/no) as well as respiratory diseases (yes/no) at baseline. In addition, we restricted the sample to participants with complete data. Furthermore, in order to evaluate the effect of red wine consumption in testing the effect modification of the healthy diet, we conducted a sensitivity analysis to additionally adjust for red wine consumption among current alcohol drinkers. Finally, since participants with a history of CVD might be more susceptible to air pollution exposures, we conducted a sensitivity analysis including participants with a history of CVD.
+
+All analyses were performed using SAS software (version 9.4; SAS Institute Inc., Cary, NC, USA). All P-values for the tests were two-sided and P-values < 0.05 were considered statistically significant.
+
+Results
+Baseline characteristics
+The baseline characteristics of the participants are shown in Table 1. The mean age of participants eligible for the analysis was 56.1 ± 8.1 years. The proportion of males and females was 45.4% and 54.6%, respectively. Participants were mainly of White descent and current drinkers. In addition, the mean Townsend deprivation index of the participants was −1.4 ± 3.0. Only 10.1% of the participants were current smokers and the mean BMI and MET-minutes/week were 27.3 kg/m2 and 2664.3 min. In total, 39.3 % of the participants had an ideal dietary pattern. The self-reported prevalence of hypertension, diabetes and emphysema/COPD was 25.9%, 4.7% and 1.6%, respectively. In addition, mean ± SD estimates of PM2.5, PM10, PM2.5–10, NO2 and NOx were 10.0 ± 1.1, 19.3 ± 1.9, 6.4 ± 0.9, 29.2 ± 9.2 and 43.8 ± 15.5 µg/m3, respectively. PM2.5, NO2, NOx and PM10 were positively correlated with each other (correlation coefficient = 0.64–0.85, P <0.001), as the highest correlation was observed between PM2.5 and NOx (correlation coefficient = 0.85) (Supplementary Table S2, available as Supplementary data at IJE online).
+
+
+Table 1Baseline characteristics of participants in the UK Biobank study
+Entire cohort (N = 386 937)
+Characteristics	
+Age (years)	56.1 (8.1)
+Sex, male (%)	45.4
+Race, White (%)	94.4
+Body mass index (kg/m2)	27.3 (4.7)
+Townsend deprivation index	−1.4 (3.0)
+Current drinkers (%)	92.5
+Current smokers (%)	10.1
+MET (min/week)	2664.3 (2460.4)
+Healthy diet score (%)	
+  0–1	11.9
+  2–3	48.8
+  4–5	39.3
+Prevalent hypertension (%)	25.9
+Prevalent diabetes (%)	4.7
+Prevalent emphysema/COPD (%)	1.6
+PM2.5 (µg/m3)	10.0 (1.1)
+PM10 (µg/m3)	19.3 (1.9)
+PM2.5–10 (µg/m3)	6.4 (0.9)
+NO2 (µg/m3)	29.2 (9.2)
+NOx (µg/m3)	43.8 (15.5)
+MET, metabolic equivalent task; COPD, chronic obstructive pulmonary disease; PM2.5, particulate matter with aerodynamic diameter ≤2.5 µm; PM10, particulate matter with an aerodynamic diameter ≤10 µm; PM2.5–10, particulate matter with an aerodynamic diameter between 2.5 and 10 µm; NO2, nitrogen dioxide; NOx, nitrogen oxides.
+
+Open in new tab
+Association between various air pollutants and mortality
+During a median follow-up of 8.9 years (3 432 547 person-years), we identified 11 881 deaths among cohort participants, where 2426 deaths were attributed to CVD, 1211 deaths were attributed to CHD and 466 deaths were from stroke. The associations between each 10-µg/m3 increase in various air pollutants and all-cause and cause-specific mortality are presented in Table 2. In the multivariable model adjusted for age, sex, race, UK Biobank assessment centre, Townsend deprivation index, alcohol consumption, smoking status, BMI, MET-minutes/week, HDS, diabetes and hypertension, we found that PM2.5 (HR, 1.27; 95% CI, 1.05–1.55), PM10 (HR, 1.18; 95% CI, 1.04–1.34), NO2 (HR, 1.05; 95% CI, 1.01–1.08) and NOx (HR, 1.02; 95% CI, 1.01–1.03) were associated with all-cause mortality. In addition, we observed that exposure to PM2.5 was associated with higher risks of CVD mortality (HR, 1.68; 95% CI, 1.10–2.56) and CHD mortality (HR, 2.08; 95% CI, 1.16–3.75). However, we did not find an association between air pollution and stroke mortality.
+
+
+Table 2Adjusted HRs and 95% CIs for a 10-µg/m3 increase in air pollution concentrations with risk of all-cause and cause-specific mortality in the UK Biobank study
+Cause of death	Deaths	PM2.5	PM10	PM2.5–10	NO2	NOx
+All-cause	11 881	1.27 (1.05–1.55)	1.18 (1.04–1.34)	1.02 (0.83–1.25)	1.05 (1.01–1.08)	1.02 (1.01–1.03)
+Cardiovascular disease	2426	1.68 (1.10–2.56)	1.13 (0.85–1.50)	1.16 (0.74–1.81)	1.04 (0.97–1.11)	1.03 (1.00–1.05)
+Coronary heart disease	1211	2.08 (1.16–3.75)	1.35 (0.90–2.03)	1.41 (0.75–2.62)	1.08 (0.99–1.19)	1.04 (1.00–1.08)
+Stroke	466	0.66 (0.25–1.78)	0.79 (0.42–1.51)	0.67 (0.23–1.93)	0.97 (0.83–1.12)	0.96 (0.89–1.03)
+Adjusted for age, sex, race (White European, mixed, South Asian, Black, others), UK Biobank assessment centre, Townsend deprivation index, alcohol consumption status (current, former, never, missing), smoking status (current, former, never, missing), body mass index (kg/m2), physical activity (metabolic equivalent task-minutes/week), healthy diet score (0, 1, 2, 3, 4, 5), diabetes (yes/no) and hypertension (yes/no). HR, hazard ratio; PM2.5, particulate matter with aerodynamic diameter ≤2.5 µm, PM10, particulate matter with an aerodynamic diameter ≤10 µm; PM2.5–10, particulate matter with an aerodynamic diameter between 2.5 and 10 µm; NO2, nitrogen dioxide; NOx, nitrogen oxides.
+
+Open in new tab
+Effect modification by healthy dietary patterns and genetic susceptibility
+We found effect modification of the air pollution–mortality associations by HDS, the indicator for adherence to healthy dietary patterns (Table 3). The associations of PM2.5, NO2 and NOx with all-cause mortality were weaker among participants with higher HDS than those with lower HDS (P-interaction = 0.006, 0.006 and 0.02, respectively). However, no significant interaction of healthy dietary patterns with PM10 or PM2.5–10 on all-cause mortality was observed (Supplementary Table S3, available as Supplementary data at IJE online). We further assessed the interaction between air pollutants and each dietary component separately on all-cause mortality. We found that vegetable intakes showed an interaction with PM2.5 (P-interaction = 0.007), NO2 (P-interaction = 0.004) and NOx (P-interaction = 0.02) (Figure 1). The HR of the highest quintile vs the lowest quintile of PM2.5 for all-cause mortality was 1.17 (1.05–1.30) among participants with low vegetable intakes, 1.11 (0.96–1.29) for participants with medium vegetable intakes and 1.02 (0.93–1.13) for participants with high vegetable intakes. The corresponding HRs were 1.22 (1.07–1.39), 1.16 (0.98–1.38) and 1.12 (1.00–1.25) for NO2; and 1.18 (1.05–1.32), 1.02 (0.88–1.19) and 1.10 (1.00–1.21) for NOx. The interactions between air pollutants and other dietary components were not statistically significant. Besides, we did not observe interactions between air pollutants and HDS with CVD, CHD or stroke mortality (Supplementary Table S4, available as Supplementary data at IJE online).
+
+
+Table 3The HRs and 95% CIs of PM2.5, NO2 and NOx with all-cause mortality, stratified by healthy dietary patterns in the UK Biobank study
+Air pollution concentrations (quintiles)
+Q1	Q2	Q3	Q4	Q5	P-interaction
+PM2.5						0.006
+ Poor dietary pattern	1.00	1.00 (0.85–1.17)	1.02 (0.87–1.21)	1.00 (0.85–1.18)	1.12 (0.95–1.33)	
+ Medium dietary pattern	1.00	1.06 (0.98–1.16)	1.04 (0.96–1.13)	1.11 (1.02–1.20)	1.09 (1.00–1.20)	
+ Ideal dietary pattern	1.00	1.05 (0.95–1.16)	1.04 (0.94–1.15)	1.04 (0.94–1.15)	1.07 (0.96–1.19)	
+NO2						0.006
+ Poor dietary pattern	1.00	1.00 (0.85–1.18)	1.06 (0.90–1.24)	1.13 (0.96–1.34)	1.15 (0.94–1.40)	
+ Medium dietary pattern	1.00	1.03 (0.94–1.12)	1.07 (0.99–1.17)	1.12 (1.02–1.22)	1.18 (1.06–1.31)	
+ Ideal dietary pattern	1.00	1.06 (0.96–1.17)	1.06 (0.96–1.17)	1.07 (0.96–1.19)	1.13 (0.99–1.29)	
+NOx						0.02
+ Poor dietary pattern	1.00	1.02 (0.87–1.20)	1.03 (0.87–1.21)	1.00 (0.84–1.18)	1.10 (0.93–1.31)	
+ Medium dietary pattern	1.00	1.03 (0.94–1.12)	1.08 (0.99–1.18)	1.05 (0.97–1.15)	1.13 (1.03–1.24)	
+ Ideal dietary pattern	1.00	1.01 (0.92–1.12)	1.09 (0.99–1.21)	1.07 (0.97–1.19)	1.08 (0.96–1.20)	
+Adjusted for age, sex, race (White European, mixed, South Asian, Black, others), UK Biobank assessment centre, Townsend deprivation index, alcohol consumption status (current, former, never, missing), smoking status (current, former, never, missing), body mass index (kg/m2), physical activity (metabolic equivalent task-minutes/week), diabetes (yes/no) and hypertension (yes/no). HR, hazard ratio; PM2.5, particulate matter with aerodynamic diameter ≤2.5 µm; NO2, nitrogen dioxide; NOx, nitrogen oxides.
+
+Open in new tab
+Figure 1
+The associations of particulate matter with diameters of ≤2.5 µm, nitrogen dioxide and nitrogen oxides (in quintiles) with all-cause mortality stratified by vegetable intakes (tertiles). Multivariable model was adjusted for age, sex, race (White European, mixed, South Asian, Black, others), UK Biobank assessment centre, Townsend deprivation index, alcohol consumption (current, former, never, missing), smoking status (current, former, never, missing), body mass index (kg/m2), physical activity (metabolic equivalent task-minutes/week), diabetes (yes/no), hypertension (yes/no) and intakes of fruits, unprocessed red meat, fish and processed meat
+Open in new tabDownload slide
+The associations of particulate matter with diameters of ≤2.5 µm, nitrogen dioxide and nitrogen oxides (in quintiles) with all-cause mortality stratified by vegetable intakes (tertiles). Multivariable model was adjusted for age, sex, race (White European, mixed, South Asian, Black, others), UK Biobank assessment centre, Townsend deprivation index, alcohol consumption (current, former, never, missing), smoking status (current, former, never, missing), body mass index (kg/m2), physical activity (metabolic equivalent task-minutes/week), diabetes (yes/no), hypertension (yes/no) and intakes of fruits, unprocessed red meat, fish and processed meat
+
+In order to evaluate the effect modification of genetic susceptibility, we first assessed the association between lifespan GRS and mortality risk. In the models adjusting for sex, age, assessment centre, genotyping batch and the first 10 genetic principal components, we observed associations of lifespan GRS with all-cause mortality (HR, 0.96; 95% CI, 0.93–0.98; P < 0.001), CVD mortality (HR, 0.91; 95% CI, 0.87–0.96; P < 0.001) and CHD mortality (HR, 0.86; 95% CI, 0.80–0.93; P < 0.001) but not with stroke mortality (HR, 0.99; 95% CI, 0.87–1.12; P = 0.83). In addition, the associations between air pollution and mortality stratified by genetic risk of lifespan are shown in Supplementary Table S5 (available as Supplementary data at IJE online). We did not find statistically significant interactions between air pollutants and genetic susceptibility of lifespan on mortality risk (all P for interaction > 0.05).
+
+Sensitivity analyses
+The results were robust after further adjustment for average total household income and education levels (Supplementary Table S6, available as Supplementary data at IJE online) or additional adjustment for antihypertensive medications use, insulin use, cholesterol-lowering medications use and history of respiratory diseases at baseline (Supplementary Table S7, available as Supplementary data at IJE online). Also, the sensitivity analysis only including participants with complete data did not change the results appreciably (Supplementary Table S8, available as Supplementary data at IJE online). In addition, the results did not alter appreciably when including participants with a history of CVD (Supplementary Table S9, available as Supplementary data at IJE online) or additionally adjusting for red wine consumption among current alcohol drinkers (Supplementary Table S10, available as Supplementary data at IJE online). In order to explore the role of potential confounders in the interaction between air pollution and healthy dietary patterns, we first described the baseline characteristics of participants according to the HDS in Supplementary Table S11 (available as Supplementary data at IJE online). To minimize the potential influence of the correlated variables on the associations, we had carefully adjusted for these variables (educational years, BMI, etc.) in the analyses. We also assessed the interaction between air pollution and the HDS in subgroups stratified by BMI (<30 vs ≥30 kg/m2) or years of education (<15 vs ≥15 years). The results showed that the interaction between air pollution and the HDS was more evident among participants with lower BMI or higher educational years (Supplementary Table S12, available as Supplementary data at IJE online).
+
+Discussion
+In this prospective cohort study, we observed associations of PM2.5, PM10, NO2 and NOx with all-cause mortality. Exposure to PM2.5 might be also associated with elevations in risk for CVD and CHD mortality. Such associations were not modified by the lifespan GRS based on 12 SNPs. In addition, we found that healthy dietary patterns might modify the associations of PM2.5, NO2 and NOx with all-cause mortality, as lower HRs were found among participants with higher HDS. Among the individual dietary components, vegetable intakes showed the strongest modification effect. The associations between air pollutants and increased risks of all-cause mortality appeared be attenuated among participants with higher vegetable intakes.
+
+As the main air pollutant contributing to the global public health burden, PM2.5, has been associated with life-threatening risk in numerous epidemiologic studies.34,35 In the current analysis, we observed a robust association between PM2.5 and mortality after controlling for smoking and other covariates. We found that a per µg/m3 elevation in PM2.5 was associated with a 2% higher all-cause mortality risk, which was generally comparable with the estimates from previous investigations.5,10,34 We further observed that the associations of PM2.5 with CVD and CHD mortality were more marked compared with all-cause mortality, in concordance with several previous studies.36,37 However, we did not find an association between long-term exposure to PM2.5 and stroke mortality. The observed associations between PM2.5 and stroke mortality are inconsistent across different studies.38–40 Such discrepancy may be partly due to different stroke subtypes or sex differences.40,41 The number of stroke deaths was far lower than CHD deaths in the current analysis, somewhat limiting the power to detect the association, if any, between PM2.5 and risk of stroke mortality.
+
+In addition, we observed that PM10, NO2 and NOx were associated with all-cause mortality. Such observations are in line with several prospective studies.42,43 The association between PM2.5–10 and mortality is inconsistent across previous investigations44 and we found a non-significant association in the current analysis. Besides, findings from previous studies on PM10, PM2.5–10, NO2 and NOx with CVD mortality have been heterogeneous,45–47 possibly because of variations in confounding factors and the spatial resolution of air pollution concentrations across different studies. Furthermore, the previous studies were generally in support of high risks of CVD mortality associated with these air pollutants and we also observed elevated risks of CVD and CHD mortality with higher exposures to PM10, PM2.5–10, NO2 and NOx even though the associations were not statistically significant.
+
+Intriguingly, we observed that healthy dietary patterns modified the associations of PM2.5, NO2 and NOx with all-cause mortality, as mortality risks attributable to these air pollutants were mitigated among those with healthier dietary patterns, characterized by higher HDS. In addition, among individual dietary components, we found that vegetable intakes showed interactions with PM2.5, NO2 and NOx on all-cause mortality. Alleviated associations of these air pollutants with all-cause mortality were observed among participants with higher vegetable intakes compared with lower vegetable intakes. Our findings add novel data to the growing evidence of the modification effects of dietary factors on the relations of air pollutants and human health.14,48,49 Notably, we found that the interactions between air pollutants and the HDS were more pronounced among participants with lower BMI or higher educational years, which could be partially explained by the fact that individuals with lower BMI or higher years of education were more likely to have a higher HDS. Despite being carefully adjusted for in the analyses, the role of these confounders in the interaction between air pollution and the HDS on mortality risk should be explored further. However, we did not find an interaction between air pollution and HDS with CVD, CHD or stroke mortality. The negative results might be partly due to limited CVD, CHD or stroke deaths in the study.
+
+Our findings on the interactions of healthy dietary patterns, especially high vegetable intakes, with air pollution are biologically plausible. The healthy dietary pattern is rich in foods and nutrients that promote antioxidative and anti-inflammatory activities. Antioxidants such as vitamins and carotenoids in vegetables and fruit as well as omega-3 polyunsaturated fatty acids from fish oil play an important role in limiting oxidative and inflammatory damage.15,50 Long-term exposure to air pollution may adversely affect human health mainly through activating pathways mediating oxidative stress and inflammation, which lead to a variety of life-threatening impairments including systemic endothelial dysfunction, thrombosis pathways, autonomic imbalance and atherosclerosis progression.4,51 Thus, we assumed that the attenuated associations of PM2.5, NO2 and NOx with all-cause mortality among participants with healthy dietary patterns might be partly through antioxidant and anti-inflammatory components in healthy diets. Such a postulation is supported by multiple intervention studies that illustrated the attenuated risk of the adverse health effects of air pollution from intakes of specific dietary supplements with antioxidant and anti-inflammatory effects.15–17,52,53 For example, an intervention study showed supplementation of olive oil could ameliorate the short-term adverse vascular effect of concentrated PM while altering blood markers associated with vasoconstriction and fibrinolysis.17 Of note, vegetable intakes are well known for being rich in antioxidants including vitamin C and vitamin E. A previous study showed that a 6-month vitamin C and E supplementation decreased several biomarkers of oxidative stress and protected against the oxidative insult associated with PM exposure derived from a coal electric-power plant.53 In addition, the airway hyper-responsiveness induced by NO2 may be prevented by supplementation with vitamin C in healthy patients.54
+
+Previous studies have suggested that genetic susceptibility may modify the relations between environmental factors and human health outcomes;18,19 however, we did not observe an interaction between air pollution and genetic variations for lifespan on mortality risk. The GRS of the lifespan was calculated based on genetic variants that constituted only a small proportion of the variation seen in the human lifespan; this may partly explain the null interaction between the genetic score and air pollution on mortality risk.
+
+Strengths and limitations
+The strengths of this study include a large sample size, measurements of air pollutants using reliable prediction models and uniform information on detailed individual-level dietary intakes and other risk factors, which increased the precision of the effect estimates. Furthermore, the information on a wide range of air pollutants is available in the UK Biobank study, which enabled us to assess the association between air pollution and mortality risk comprehensively. However, there are also several potential limitations to be addressed. First, the number of deaths, especially for the mortality of stroke, was relatively low for stratified analyses. Second, air pollution levels were linked to participants’ home addresses, whereas individual activities such as time spent at home or in traffic were not considered, which might lead to exposure measurement errors. Third, since air pollution data were not available during follow-up in UK Biobank, the association between long-term exposure to air pollution and mortality risk would be interpreted with caution. Further studies with long-term repeated measurements are needed to validate the findings. Fourth, the dietary information in the UK Biobank study was self-reported and relatively simple, so the HDS might not exactly reflect overall healthy dietary behaviours. Furthermore, only a single dietary assessment was available at baseline and the changes in diet over the follow-up period were not evaluated. Future studies with expanded and repeated information on dietary intakes would be warranted to confirm the modification effect. Fifth, although multiple covariates were controlled, we could not exclude the possibility of residual confounding existing. In addition, we could not determine the causality of our findings due to the observational design of the study. Further clinical trials are needed to assess whether the observed associations are causal. Furthermore, only 12 SNPs were included in calculating the lifespan GRS, which might not reflect the variation in the human lifespan. Therefore, our findings should be confirmed in future studies. In addition, only 294 443 individuals of European descent were included for assessing the effect modification by genetic susceptibility of the air pollution–mortality associations; further studies are needed to investigate the genetic modification in other ethnic/racial groups. Finally, most of the participants were of European descent in the present study, thus the generalization of the results to other populations should be interpreted with caution.
+
+Conclusions
+In this prospective study, our results suggest that long-term exposure to ambient air pollution might be associated with the risk of all-cause, CVD and CHD mortality. Our study provides evidence to support the potential modification effects of dietary intakes, with vegetable intakes being the main contributor, in lowering the risk of premature deaths related to ambient air pollution. Our findings highlight the importance of adherence to a healthy diet in lowering ambient air-pollution-related mortality risk. Further intervention studies are warranted to validate our findings.
+
+Ethics approval
+Ethical approval was obtained from National Health Service National Research Ethics Service (Ref: 11/NW/0382).
+
+Data Availability
+This research has been conducted using the public UK Biobank resource.
+
+Supplementary data
+Supplementary data are available at IJE online.
+
+Author contributions
+M.W. and L.Q. conceived of and designed the study, interpreted the data and drafted and critically revised the manuscript. M.W. and T.Z. performed the statistical analysis. All authors contributed to the interpretation of the results and critical revision of the manuscript. All authors approved the final manuscript.
+
+Funding
+This work was supported by grants from the National Heart, Lung, and Blood Institute (HL071981, HL034594, HL126024), the National Institute of Diabetes and Digestive and Kidney Diseases (DK115679, DK091718, DK100383, DK078616) and the Fogarty International Center (TW010790). L.Q. is a recipient of the American Heart Association Scientist Development Award (0730094 N). L.Q. is also supported by the National Institute of General Medical Sciences (P20GM109036). M.W. is a recipient of a scholarship under the China Scholarship Council to pursue her study in the USA (201906010346). M.W. is also supported by China Postdoctoral Science Foundation (BX2021021).
+
+Acknowledgements
+We are grateful to all UK Biobank participants.
+
+Conflict of interest
+None declared.
+
+References
+1	Cohen AJ, Brauer M, Burnett R et al.  Estimates and 25-year trends of the global burden of disease attributable to ambient air pollution: an analysis of data from the Global Burden of Diseases Study 2015. Lancet 2017;389:1907–18.
+Google ScholarCrossrefPubMedWorldCat 
+2	Landrigan PJ, Fuller R, Acosta NJR et al.  The Lancet Commission on pollution and health. Lancet 2018;391:462–512.
+Google ScholarCrossrefPubMedWorldCat 
+3	World Health Organization. 9 Out of 10 People Worldwide Breathe Polluted Air, But More Countries Are Taking Action. Geneva, 2018. https://www.who.int/news-room/detail/02-05-2018-9-out-of-10-people-worldwide-breathe-polluted-air-but-more-countries-are-taking-action. (9 March 2021, date last accessed).
+4	Rajagopalan S, Al-Kindi SG, Brook RD. Air pollution and cardiovascular disease: JACC state-of-the-art review. J Am Coll Cardiol 2018;72:2054–70.
+Google ScholarCrossrefPubMedWorldCat 
+5	Li T, Zhang Y, Wang J et al.  All-cause mortality risk associated with long-term exposure to ambient PM2.5 in China: a cohort study. Lancet Public Health 2018;3:e470–77.
+Google ScholarCrossrefPubMedWorldCat 
+6	Yin P, Brauer M, Cohen A et al.  Long-term fine particulate matter exposure and nonaccidental and cause-specific mortality in a large national cohort of Chinese men. Environ Health Perspect 2017;125:117002.
+Google ScholarCrossrefPubMedWorldCat 
+7	Pope CA3rd, Lefler JS, Ezzati M et al.  Mortality risk and fine particulate air pollution in a large, representative cohort of U.S. adults. Environ Health Perspect 2019;127:77007.
+Google ScholarCrossrefPubMedWorldCat 
+8	Di Q, Dominici F, Schwartz JD. Air pollution and mortality in the Medicare population. N Engl J Med 2017;377:1498–99.
+Google ScholarPubMedWorldCat 
+9	Pinault L, Tjepkema M, Crouse DL et al.  Risk estimates of mortality attributed to low concentrations of ambient fine particulate matter in the Canadian community health survey cohort. Environ Health 2016;15:18.
+Google ScholarCrossrefPubMedWorldCat 
+10	Beelen R, Raaschou-Nielsen O, Stafoggia M et al.  Effects of long-term exposure to air pollution on natural-cause mortality: an analysis of 22 European cohorts within the multicentre ESCAPE project. Lancet 2014;383:785–95.
+Google ScholarCrossrefPubMedWorldCat 
+11	Klompmaker JO, Janssen NAH, Bloemsma LD et al.  Effects of exposure to surrounding green, air pollution and traffic noise with non-accidental and cause-specific mortality in the Dutch national cohort. Environ Health 2021;20:82.
+Google ScholarCrossrefPubMedWorldCat 
+12	Hvidtfeldt UA, Sorensen M, Geels C et al.  Long-term residential exposure to PM2.5, PM10, black carbon, NO2, and ozone and mortality in a Danish cohort. Environ Int 2019;123:265–72.
+Google ScholarCrossrefPubMedWorldCat 
+13	Kim H, Byun G, Choi Y, Kim S, Kim SY, Lee JT. Effects of long-term exposure to air pollution on all-cause mortality and cause-specific mortality in seven major cities of South Korea: Korean national health and nutritional examination surveys with mortality follow-up. Environ Res 2021;192:110290.
+Google ScholarCrossrefPubMedWorldCat 
+14	Lim CC, Hayes RB, Ahn J et al.  Mediterranean diet and the association between air pollution and cardiovascular disease mortality risk. Circulation 2019;139:1766–75.
+Google ScholarCrossrefPubMedWorldCat 
+15	Peter S, Holguin F, Wood LG et al.  Nutritional solutions to reduce risks of negative health impacts of air pollution. Nutrients 2015;7:10398–416.
+Google ScholarCrossrefPubMedWorldCat 
+16	Tong H. Dietary and pharmacological intervention to mitigate the cardiopulmonary effects of air pollution toxicity. Biochim Biophys Acta 2016;1860:2891–98.
+Google ScholarCrossrefPubMedWorldCat 
+17	Tong H, Rappold AG, Caughey M et al.  Dietary supplementation with olive oil or fish oil and vascular effects of concentrated ambient particulate matter exposure in human volunteers. Environ Health Perspect 2015;123:1173–79.
+Google ScholarCrossrefPubMedWorldCat 
+18	Ward-Caviness CK. A review of gene-by-air pollution interactions for cardiovascular disease, risk factors, and biomarkers. Hum Genet 2019;138:547–61.
+Google ScholarCrossrefPubMedWorldCat 
+19	Fave MJ, Lamaze FC, Soave D et al.  Gene-by-environment interactions in urban populations modulate risk phenotypes. Nat Commun 2018;9:827.
+Google ScholarCrossrefPubMedWorldCat 
+20	Sudlow C, Gallacher J, Allen N et al.  UK biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age. PLoS Med 2015;12:e1001779.
+Google ScholarCrossrefPubMedWorldCat 
+21	Fry A, Littlejohns TJ, Sudlow C et al.  Comparison of sociodemographic and health-related characteristics of UK biobank participants with those of the general population. Am J Epidemiol 2017;186:1026–34.
+Google ScholarCrossrefPubMedWorldCat 
+22	Eeftens M, Beelen R, de Hoogh K et al.  Development of land use regression models for PM(2.5), PM(2.5) absorbance, PM(10) and PM(coarse) in 20 European study areas: results of the ESCAPE project. Environ Sci Technol 2012;46:11195–205.
+Google ScholarCrossrefPubMedWorldCat 
+23	Beelen R, Hoek G, Vienneau D et al.  Development of NO2 and NOx land use regression models for estimating air pollution exposure in 36 study areas in Europe—the ESCAPE project. Atmos Environ 2013;72:10–23.
+Google ScholarCrossrefWorldCat 
+24	Aung N, Sanghvi MM, Zemrak F et al.  Association between ambient air pollution and cardiac morpho-functional phenotypes insights from the UK biobank population imaging study. Circulation 2018;138:2175–86.
+Google ScholarCrossrefPubMedWorldCat 
+25	Doiron D, de Hoogh K, Probst-Hensch N et al.  Air pollution, lung function and COPD: results from the population-based UK Biobank study. Eur Respir J 2019;54:1802140.
+Google ScholarCrossrefPubMedWorldCat 
+26	Bradbury KE, Young HJ, Guo W, Key TJ. Dietary assessment in UK Biobank: an evaluation of the performance of the touchscreen dietary questionnaire. J Nutr Sci 2018;7:e6.
+Google ScholarCrossrefPubMedWorldCat 
+27	Pazoki R, Dehghan A, Evangelou E et al.  Genetic predisposition to high blood pressure and lifestyle factors: associations with midlife blood pressure levels and cardiovascular events. Circulation 2018;137:653–61.
+Google ScholarCrossrefPubMedWorldCat 
+28	Lloyd-Jones DM, Hong Y, Labarthe D et al.  Defining and setting national goals for cardiovascular health promotion and disease reduction: the American Heart Association's strategic Impact Goal through 2020 and beyond. Circulation 2010;121:586–613.
+Google ScholarCrossrefPubMedWorldCat 
+29	Adams J, Ryan V, White M. How accurate are Townsend Deprivation Scores as predictors of self-reported health? A comparison with individual level data. J Public Health (Oxf) 2005;27:101–06.
+Google ScholarCrossrefPubMedWorldCat 
+30	Bycroft C, Freeman C, Petkova D, et al.  Genome-wide genetic data on ∼500,000 UK Biobank participants. bioRxiv; doi:10.1101/166298, 20 July 2017, preprint: not peer reviewed.
+31	Timmers PR, Mounier N, Lall K et al. ; eQTLGen Consortium. Genomics of 1 million parent lifespans implicates novel pathways and common diseases and distinguishes survival chances. Elife 2019;8:e39856.
+Google ScholarCrossrefPubMedWorldCat 
+32	Said MA, Verweij N, van der Harst P. Associations of combined genetic and lifestyle risks with incident cardiovascular disease and diabetes in the UK biobank study. JAMA Cardiol 2018;3:693–702.
+Google ScholarCrossrefPubMedWorldCat 
+33	Ripatti S, Tikkanen E, Orho-Melander M et al.  A multilocus genetic risk score for coronary heart disease: case-control and prospective cohort analyses. Lancet 2010;376:1393–400.
+Google ScholarCrossrefPubMedWorldCat 
+34	Dockery DW, Pope CA3rd, Xu X et al.  An association between air pollution and mortality in six U.S. cities. N Engl J Med 1993;329:1753–59.
+Google ScholarCrossrefPubMedWorldCat 
+35	Vodonos A, Awad YA, Schwartz J. The concentration-response between long-term PM2.5 exposure and mortality; a meta-regression approach. Environ Res 2018;166:677–89.
+Google ScholarCrossrefPubMedWorldCat 
+36	Pinault LL, Weichenthal S, Crouse DL et al.  Associations between fine particulate matter and mortality in the 2001 Canadian Census Health and Environment Cohort. Environ Res 2017;159:406–15.
+Google ScholarCrossrefPubMedWorldCat 
+37	Lepeule J, Laden F, Dockery D, Schwartz J. Chronic exposure to fine particles and mortality: an extended follow-up of the Harvard Six Cities study from 1974 to 2009. Environ Health Perspect 2012;120:965–70.
+Google ScholarCrossrefPubMedWorldCat 
+38	Cesaroni G, Badaloni C, Gariazzo C et al.  Long-term exposure to urban air pollution and mortality in a cohort of more than a million adults in Rome. Environ Health Perspect 2013;121:324–31.
+Google ScholarCrossrefPubMedWorldCat 
+39	Pope CA3rd, Burnett RT, Thurston GD et al.  Cardiovascular mortality and long-term exposure to particulate air pollution: epidemiological evidence of general pathophysiological pathways of disease. Circulation 2004;109:71–77.
+Google ScholarCrossrefPubMedWorldCat 
+40	Hoek G, Krishnan RM, Beelen R et al.  Long-term air pollution exposure and cardio- respiratory mortality: a review. Environ Health 2013;12:43.
+Google ScholarCrossrefPubMedWorldCat 
+41	Yuan S, Wang J, Jiang Q et al.  Long-term exposure to PM2.5 and stroke: a systematic review and meta-analysis of cohort studies. Environ Res 2019;177:108587.
+Google ScholarCrossrefPubMedWorldCat 
+42	Fischer PH, Marra M, Ameling CB et al.  Air pollution and mortality in seven million adults: the Dutch Environmental Longitudinal Study (DUELS). Environ Health Perspect 2015;123:697–704.
+Google ScholarCrossrefPubMedWorldCat 
+43	Heinrich J, Thiering E, Rzehak P et al.  Long-term exposure to NO2 and PM10 and all-cause and cause-specific mortality in a prospective cohort of women. Occup Environ Med 2013;70:179–86.
+Google ScholarCrossrefPubMedWorldCat 
+44	Adar SD, Filigrana PA, Clements N, Peel JL. Ambient coarse particulate matter and human health: a systematic review and meta-analysis. Curr Environ Health Rep 2014;1:258–74.
+Google ScholarCrossrefPubMedWorldCat 
+45	Atkinson RW, Butland BK, Anderson HR, Maynard RL. Long-term concentrations of nitrogen dioxide and mortality: a meta-analysis of cohort studies. Epidemiology 2018;29:460–72.
+Google ScholarCrossrefPubMedWorldCat 
+46	Dehbi HM, Blangiardo M, Gulliver J et al.  Air pollution and cardiovascular mortality with over 25 years follow-up: a combined analysis of two British cohorts. Environ Int 2017;99:275–81.
+Google ScholarCrossrefPubMedWorldCat 
+47	Beelen R, Stafoggia M, Raaschou-Nielsen O et al.  Long-term exposure to air pollution and cardiovascular mortality: an analysis of 22 European cohorts. Epidemiology 2014;25:368–78.
+Google ScholarCrossrefPubMedWorldCat 
+48	Lim CC, Hayes RB, Ahn J et al.  Association between long-term exposure to ambient air pollution and diabetes mortality in the US. Environ Res 2018;165:330–36.
+Google ScholarCrossrefPubMedWorldCat 
+49	Raaschou-Nielsen O, Andersen ZJ, Jensen SS et al.  Traffic air pollution and mortality from cardiovascular disease and all causes: a Danish cohort study. Environ Health 2012;11:60.
+Google ScholarCrossrefPubMedWorldCat 
+50	Galland L. Diet and inflammation. Nutr Clin Pract 2010;25:634–40.
+Google ScholarCrossrefPubMedWorldCat 
+51	Brook RD, Rajagopalan S, Pope CA3rd et al.  Particulate matter air pollution and cardiovascular disease: an update to the scientific statement from the American Heart Association. Circulation 2010;121:2331–78.
+Google ScholarCrossrefPubMedWorldCat 
+52	Romieu I, Tellez-Rojo MM, Lazo M et al.  Omega-3 fatty acid prevents heart rate variability reductions associated with particulate matter. Am J Respir Crit Care Med 2005;172:1534–40.
+Google ScholarCrossrefPubMedWorldCat 
+53	Possamai FP, Junior SA, Parisotto EB et al.  Antioxidant intervention compensates oxidative stress in blood of subjects exposed to emissions from a coal electric-power plant in South Brazil. Environ Toxicol Pharmacol 2010;30:175–80.
+Google ScholarCrossrefPubMedWorldCat 
+54	Mohsenin V. Effect of vitamin C on NO2-induced airway hyperresponsiveness in normal subjects: a randomized double-blind experiment. Am Rev Respir Dis 1987;136:1408–11.
+Google ScholarCrossrefPubMedWorldCat 
+© The Author(s) 2022; all rights reserved. Published by Oxford University Press on behalf of the International Epidemiological Association
+This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model (https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model)
+Supplementary data
+dyac022_Supplementary_Data - docx file
+CITATIONS
+3434 total citations on Dimensions.
+VIEWS
+5,022
+ALTMETRIC
+Article has an altmetric score of 18
+Information More metrics information
+Email alerts
+Article activity alert
+Advance article alerts
+New issue alert
+In progress issue alert
+Receive exclusive offers and updates from Oxford Academic
+Recommended
+Joint exposure to various ambient air pollutants and incident heart failure: a prospective analysis in UK Biobank
+Mengying Wang et al., European Heart Journal, 2021
+Air pollutants, genetic susceptibility, and abdominal aortic aneurysm risk: a prospective study
+Yudiyang Ma et al., European Heart Journal
+Air pollution, mortality, and hospital admissions in Scotland: A 16 years register-based study
+Abed Al Ahad et al., European Journal of Public Health, 2023
+Does a healthy diet counter the ill-effects of obesity?
+MedicalXpress, 2020
+Reduced traffic during lockdown did not improve air quality in urban areas as much as expected
+by Asociacion RUVID, Phys.org, 2021
+Genetic predisposition to atrial fibrillation accelerated by air pollution, research suggests
+by Justin Jackson et al., MedicalXpress, 2023
+Powered by
+Citing articles via
+Web of Science (28)
+Google Scholar
+Latest
+ 
+Most Read
+ 
+Most Cited
+Widowhood and mortality risk in Taiwan: a population-based matched cohort study
+Data Resource Profile: Household, Income and Labour Dynamics in Australia (HILDA) Survey
+Cohort Profile Update: Born in Bradford
+Warm season ambient ozone and children’s health in the USA
+Data Resource Profile: The Early Life Course data platform for research on perinatal and early childhood exposures and outcomes in Australia
+More from Oxford Academic
+Medicine and HealthPublic Health and EpidemiologyBooksJournals
+Looking for your next opportunity?
+ACADEMIC SURGICAL PATHOLOGIST
+, Vermont
+Academic Molecular Genetic Pathologist-Solid Tumor & Hematologic Malignancies
+, Vermont
+System Chief for the Division of Infectious Diseases
+New York, New York
+Transplant Infectious Diseases Specialist
+Long Island, New York
+View all jobs
+Oxford University Press	Journals Career Network
+About International Journal of Epidemiology
+Editorial Board
+Author Guidelines
+Contact the IEA
+Facebook
+Twitter
+Purchase
+Recommend to your Library
+Advertising and Corporate Services
+Journals Career Network
+International Journal of Epidemiology
+Online ISSN 1464-3685
+Copyright © 2024 International Epidemiological Association
+About Oxford Academic
+Publish journals with us
+University press partners
+What we publish
+New features 
+Authoring
+Open access
+Purchasing
+Institutional account management
+Rights and permissions
+Get help with access
+Accessibility
+Contact us
+Advertising
+Media enquiries
+Oxford University Press
+News
+Oxford Languages
+University of Oxford
+Oxford University Press is a department of the University of Oxford. It furthers the University's objective of excellence in research, scholarship, and education by publishing worldwide
+
+Oxford University Press
+Copyright © 2024 Oxford University Press Cookie settings Cookie policy Privacy policy Legal notice
+Oxford University Press uses cookies to enhance your experience on our website. By selecting ‘accept all’ you are agreeing to our use of cookies. You can change your cookie settings at any time. More information can be found in our Cookie Policy.
+
+Cookie settings
+Accept all

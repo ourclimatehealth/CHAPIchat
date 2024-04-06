@@ -1,0 +1,807 @@
+Skip to main content
+BMC
+Part of Springer Nature
+
+Search
+Explore journals
+Get published
+About BMC
+Login
+BMC Public Health
+Home
+About
+Articles
+Submission Guidelines
+Collections
+Join The Editorial Board
+Submit manuscript
+Research
+Open access
+Published: 06 January 2023
+Impact of ambient air pollution exposure during pregnancy on adverse birth outcomes: generalized structural equation modeling approach
+Aweke A. Mitku, Temesgen Zewotir, Delia North, Prakash Jeena, Kareshma Asharam, Sheena Muttoo, Hasheel Tularam & Rajen N. Naidoo 
+BMC Public Health volume 23, Article number: 45 (2023) Cite this article
+
+7278 Accesses
+
+1 Citations
+
+109 Altmetric
+
+Metricsdetails
+
+Abstract
+Background
+Air pollution and several prenatal factors, such as socio-demographic, behavioural, physical activity and clinical factors influence adverse birth outcomes. The study aimed to investigate the impact of ambient air pollution exposure during pregnancy adjusting prenatal risk factors on adverse birth outcomes among pregnant women in MACE birth cohort.
+
+Methods
+Data for the study was obtained from the Mother and Child in the Environment (MACE) birth cohort study in Durban, South Africa from 2013 to 2017. Land use regression models were used to determine household level prenatal exposure to PM2.5, SO2 and NOx. Six hundred and fifty-six births of pregnant females were selected from public sector antenatal clinics in low socio-economic neighbourhoods. We employed a Generalised Structural Equation Model with a complementary log–log-link specification.
+
+Results
+After adjustment for potential prenatal factors, the results indicated that exposure to PM2.5 was found to have both significant direct and indirect effects on the risk of all adverse birth outcomes. Similarly, an increased level of maternal exposure to SO2 during pregnancy was associated with an increased probability of being small for gestational age. Moreover, preterm birth act a mediating role in the relationship of exposure to PM2.5, and SO2 with low birthweight and SGA.
+
+Conclusions
+Prenatal exposure to PM2.5 and SO2 pollution adversely affected birth outcomes after controlling for other prenatal risk factors. This suggests that local government officials have a responsibility for better control of air pollution and health care providers need to advise pregnant females about the risks of air pollution during pregnancy.
+
+Peer Review reports
+Background
+Adverse birth outcomes are common health problems and incur significant health consequences such as infant morbidity and mortality, as well as hypertension, type 2 diabetes, and cardiovascular disease in adulthood [1,2,3,4,5]. Preterm birth (PB) and low birthweight [6] infants are at greater risk for mortality and a variety of health and developmental problems [7]. WHO [8] showed that in developing countries about 1 in 6 ( 16.5%) babies were born with low birthweight (< 2500 g). Globally, out of 7.6 million deaths of under-five children, 17% are due to prematurity [9]. More than 60% of preterm births (< 37 weeks gestational age) take place in South Asia and Sub-Saharan Africa [10]. Around 15% of low-birth-weight occurs in Sub-Saharan Africa [11]. Adverse birth outcomes are likely to compromise the health of the growing infant, and predict poorer health outcomes in later life [12].
+
+Recently, there has been growing evidence that air pollution exposure plays a vital role in the occurrence of adverse pregnancy outcomes such as PB, LBW and SGA [13, 14]. Maternal exposure to air pollution during pregnancy has been suggested to be associated with increased risks of adverse birth outcomes such as PB, LBW, SGA, and intrauterine growth retardation (IUGR) [13, 15,16,17,18,19,20,21]. These outcomes are associated with the most commonly measured air pollutants, such as particulate matter with an aerodynamic diameter of less than 2.5 μm (PM2.5), sulfur dioxide (SO2) and oxides of nitrogen (NOx) [20]. Demographic factors [22,23,24], lower socio-economic status and pre-pregnancy body mass index [25] and poor housing conditions [26] are also among the risk factors for adverse birth outcomes.
+
+In low and middle-income resource settings, alcohol use, or tobacco smoke exposure were behavioral risk factors to the health of women during their pregnancy and to that of their child [27, 28]. However, many of the studies in sub-Saharan Africa, lack the ability to adjust for these individual-level behavioural risk factors.
+
+Generalised structural equation models (GSEM) are more appropriate than individual regression models. These models allow multiple simultaneous equations to incorporate confounding and mediation, besides incorporating latent variables for representing more complex measures that are not measurable with a single variable [29]. GSEMs minimise the effect of residual confounding in associations, especially in observational studies. GSEMs also allow for the inclusion of variables with a mediating effect on the exposure and outcome variables. In traditional regression analysis, one needs to build different models for different outcomes given a set of covariates. This makes drawing conclusions difficult and probably inaccurate. However, GSEM is applied to construct models with latent variables [30]. It encompasses unobserved external or internal variables (latent variables), along with the observed distributions [31]. Thus, a mediation analysis using GSEM was conducted to look at the direct and indirect relationships between air pollution exposure and birth outcomes.
+
+Moreover, comprehensive models that adjust demographic, socio-economic, clinical, physical activity, and behavioural exposure predictors are needed to disentangle the impacts of prenatal air pollution exposure on adverse birth outcomes. These will promote intervention efforts to improve maternal and infant health in low and middle-income resource settings. Thus, we adopted a generalised structural equation modeling approach to address these issues and decompose the direct and indirect effects of prenatal ambient air pollution exposure on adverse birth outcomes, adjusting for prenatal exposure factors.
+
+Methods
+Data and variables
+Studies in the city of Durban have reported that increased levels of ambient air pollution in the city were found to be a major health concern [11, 32]. Recent studies also indicated that the participants in South Durban are exposed to high levels of NOx [33, 34]. We analysed data from the Mother and Child in the Environment (MACE) birth cohort, a study with ongoing recruitment in Durban, South Africa. This is described in detail elsewhere [35]. Here we report on the enrolled cohort of 996 pregnant women from March 2013 to May 2017 from eight public sector antenatal clinics in Five communities in the south of Durban (Merebank, Bluff, Wentworth and Austerville), located in close proximity to major industries, as well as communities in less heavily industrial areas in the north of Durban (KwaMashu, and Newlands East) were selected (Fig. 1). The selected communities were similar in socio-demographic profiles.
+
+Fig. 1
+figure 1
+Study area of MACE birth cohort, showing the location of the study areas (north/south Durban) within the city; Dots represent study participant households from Mitku et al. [36]
+
+Full size image
+All pregnant women that were at a gestational age of less than 20 weeks and resident for the full duration of the pregnancy in the geographical area within which the clinic was located as well as for the follow-up period of 5–6 years, were recruited into the study. Women with multiple pregnancies (n = 2); miscarriages (n = 55); stillbirths (n = 25); and termination of pregnancy (n = 2) were therefore excluded from the cohort. A further 225 participants who relocated outside the areas of interest and decide to use clinics closer to their new homes were excluded. This reduced the number of enrolled subjects followed up through to labour and delivery during their pregnancy to 687 participants. Finally, excluding 31 participants with postdate birth (gestational age above 42 weeks), the effective sample size is 656 mother–child pairs (see SupFigure 1 in Supplementary Material).
+
+Exposure assessment
+Air pollution exposure to PM2.5, SO2 and NOx measurements for participants in the MACE birth cohort was derived from a land use regression model. This is described in greater detail elsewhere [34, 37, 38]. Using the methodology used in the European Birth Cohorts (ESCAPE), samples of NOx were taken at 40 randomly selected sites in the north and south Durban areas (Fig. 1) using Ogawa samplers over two two-week periods during mid-summer and mid-winter, to account for seasonal variability. The air pollution monitoring campaign was undertaken over two-week periods with a one-week break in between to allow for sample preparation, for a duration of nine consecutive months. An annual average concentration was estimated from the results of the two measurements for each sampling site by adjusting it with data from the Air Quality Monitoring Station of the eThekwini Municipality. At one additional site (reference site), the pollutants were measured using the same sample media for the full year to allow for the site-specific measurements to be temporally adjusted to the long-term annual average for the observation period [38]. An annual adjusted average prenatal PM2.5, SO2 and NOx exposure (
+) was predicted, using a combined land use regression model based on pre-selected geographic predictors, such as land use types (area of industrial land use, open space land use, and the harbour), road length, topography, population, and housing density. The model developed accounted for 73% of the variance in ambient PM2.5, SO2 and NOx measurements. No temporal adjustments were made. The parameter estimates were used to predict PM2.5, SO2 and NOx exposure at the residential addresses of the study participants.
+
+Outcome variables
+The three adverse birth outcomes examined in this study were the following: PB, LBW and SGA. All of the data were extracted from MACE data. Gestational age was assessed by obstetricians based on last menstruation or early ultrasound estimates. PB was coded as a dichotomous variable as infants were born before 37 completed weeks of gestation or not. Birthweight data were coded as a dichotomous variable, indicating LBW as a birthweight 
+ 2,500 g (g). SGA was defined as 
+ the 10.th percentile for birth weight by gestational age [39, 40] across our sample and was categorised as a dichotomous variable. Birthweight (BW) measurement was obtained by trained nurses. Exploration of the data was performed using parallel coordinate plots, in order to examine trends of adverse birth outcomes across exposure to air pollution, and clinical factors. Details about parallel coordinate plots data visualization have been previously described [41].
+
+Prenatal risk factors
+This study considered observed covariates as prenatal risk factors. These are exposure to ambient PM2.5, SO2 and NOx pollution and clinical (gestational weight gain, BMI in the first trimester, and HIV status). Maternal socio-demographic status included demographic variables (maternal age, infant gender and low socio-economic status (unemployment, multiparous, low income), primary or less education), and low socio-economic housing). The perinatal health behavioural characteristics included alcohol use, smoking, and passive exposure to tobacco smoke during pregnancy. We also included walking and physical exercise as indicators of physical activity. Gestational weight gain was obtained as the difference in kilograms between the weight at the third and first trimesters and maternal BMI (in kg/m2) was calculated using first-trimester weight and height.
+
+Generalised Structural Equation Model (GSEM)
+A structural equation model [42] is a multivariate statistical model that involves relationships among endogenous and exogenous latent variables, accounting for measurement error. It provides a general framework for modelling stochastic dependence that arises through cause-effect relationships between random variables. SEM minimises the effect of residual confounding in associations, especially in observational studies [43]. It allowed including variables with a mediating effect on the exposure and outcome variables. A SEM model is composed of two sub-models: a measurement model and a structural or causal model. In path diagrams of SEM, the ovals signify latent variables and observed variables are shown in rectangles. A structural model constitutes a directional chain system that describes the hypothetical causal relationship between the constructs of theoretical interest (latent variables) using path diagrams [44, 45]. The structural component of the model has the following mathematical form:
+
+(1)
+where 
+ is a vector of latent endogenous variables for unit i, 
+ is a vector of intercept terms, 
+ is the matrix of coefficients giving the expected effects of the latent endogenous variables (
+ one each other, 
+ is a vector of latent exogenous variables, 
+ is a coefficient matrix giving the expected effect of latent exogenous variables (
+) on latent endogenous variables (
+, and 
+ is the vector of disturbances. I = 1, …, n, E(
+) = 0, COV(
+,
+) = 0, and (I-
+) is invertible.
+
+A measurement model describes the relationships between latent variables and their manifest variables. The measurement model is represented as
+
+(2)
+(3)
+where 
+ and 
+ are vectors of the observed indicators of 
+ and 
+, respectively, 
+ and 
+ are intercept vectors, 
+ and 
+ are matrices of factor loadings or regression coefficients giving the effect of the latent 
+ and 
+ on 
+ and 
+, respectively, and 
+ and 
+ are the unique factors of 
+ and 
+. We assume that the unique factors (
+ and 
+) have expected values of zero, have covariance matrices of 
+ and 
+, respectively, and are uncorrelated with each other and with 
+ and 
+.
+
+GSEM is a more flexible modelling approach than SEM, similar to a generalised linear model (GLM), as a more flexible alternative to ordinary least squares regression. The GSEM allows responses of continuous or binary, ordinal, count, or multinomial variables. GSEMs represents a generalisation of SEMs by allowing the use of discrete variables and non-Gaussian distributions. They combine observed (or manifest) and latent variables representing unmeasured constructs. A GSEM can be defined as
+
+(4)
+where x and y are vectors of manifest variables and 
+ represent the latent variables, while δ and ε denote the error terms. The functions (
+ 
+, 
+) provide a general way to represent the connections between the variables within the parentheses to those on the left-hand side of each equation in Eq. 4.
+
+The models were estimated by using the robust maximum likelihood approach with a method of mode-curvature adaptive Gauss–Hermite quadrature (MCAGH), which is superior in terms of accuracy to the nonadaptive methods.
+
+The goodness of fit for each model was assessed with the Akaike information criterion (AIC) and the Bayesian information criterion (BIC). Lower AIC and BIC values indicate better model fit. AIC and BIC both balance model fit with parsimony, and each penalises based on the number of parameters. BIC imposes a larger penalty for complex models. As a result, AIC may overfit the model while BIC may underfit the model, but generally, they correspond closely with one another [46]. In the current data, we have tested the GSEM model using the Bernoulli distribution with a probit, logit and complementary log–log link functions. The fitted model with a complementary log–log link was found with lower AIC and BIC values (Table 1). Then, our final model was fitted with a Bernoulli distribution and complementary log–log link.
+
+Table 1 Testing the Bernoulli distribution family under different link functions
+Full size table
+Indirect effects were calculated by multiplying the slope coefficients on each path. They were then summed to obtain the overall indirect effect of the variable. Total effects were calculated as a sum of the direct and indirect effects and reported in effect coefficients. These values were obtained using the nlcom command. We have used multiple imputation to address these missing points. All analyses were performed at a 5% significance level using STATA 15.0.
+
+Results
+Data Exploration
+The parallel coordinate plots revealed that mothers of infants with adverse birth outcomes LBW, SGA and PB tend to have average to higher prenatal exposure to PM2.5 (Fig. 2). For SO2 and NOx, similar trends of high range of variation from low to high were observed across different adverse birth outcomes. The parallel coordinate plots further displayed that infants with adverse birth outcomes were found to be born from mothers with lower BMI at first trimester (Fig. 2). Furthermore, both the scatter plot matrix and the colour map on correlations showed that exposure to NOx had a modest positive correlation with exposure to PM2.5 and SO2 pollution. On the other hand, PM2.5 is weakly and negatively correlated with exposure to SO2 (Fig. 3). This indicates the absence of multicollinearity among air pollution exposure measures. This all provokes the use of a comprehensive statistical model that considers the three adverse birth outcomes simultaneously to examine the adverse effect of air pollution and other adjusted factors.
+
+Fig. 2
+figure 2
+Parallel coordinates plot for trends of (A) low birthweight (B) small for gestational age (SGA) (C) preterm birth (PB) across maternal exposure to PM2.5, SO2 and NOx air pollution and other factors
+
+Full size image
+Fig. 3
+figure 3
+Correlation among measures of exposure to air pollution
+
+Full size image
+The median annual air pollutant levels of PM2.5, SO2 and NOx for individual women and the percentage of adverse birth outcomes by prenatal exposure factors for individual women and their newborns in the MACE birth cohort are shown in Table 2. The overall median level of exposure to PM2.5, SO2 and NOx was 13.0 μg/m3 (range 8.9– 14.1 μg/m3), 2.8 μg/m3 (range 2.1 – 5.9 μg/m3), and 34.4 μg/m3 (range 2.5 – 45.4 μg/m3) respectively. The mean maternal age was 26 years (SD: 5.7 years). Of 656 infants in the birth cohort, 66.5% were from south Durban. The median level of exposure to PM2.5 was similar across all adverse birth outcomes while a higher median exposure level to NOx (34.6 μg/m3 (range 2.5 – 45.4 μg/m3)) was observed among mothers with preterm birth (Table 2).
+
+Table 2 Percentage of adverse birth outcomes by prenatal exposure factors in the MACE Study (2013–2017)
+Full size table
+Figure 4 and Table 3 presents the final GSEM model containing both the structural and measurement components. The fitted model had a minimum AIC and BIC values compared to other competing models. It was found relatively parsimonious. The path diagram for the final model with all variables is given in Fig. 4. The single-headed arrows indicate causal effects and the associated parameter values show the coefficient estimates.
+
+Fig. 4
+figure 4
+GSEM predicting adverse birth outcomes (LBW, SGA and PB) among infants from MACE birth cohort. Significant relationships bolded. (Passive smoking (PSmoker), Primary or less maternal education (PLEduc), Maternal Unemployment (Unemp), Low maternal annual income (LInc), Low socio-economic housing (LSEH), Physical exercise (PhyEx))
+
+Full size image
+Table 3 Direct effects of GSEM predicting adverse birth outcomes (LBW, SGA and PB) among infants from MACE birth cohort
+Full size table
+Direct effects
+Table 3 and Fig. 4 presents the coefficient estimates of direct effects of pathways between prenatal air pollution exposure and adverse birth outcomes from the fitted generalised structural equation model. Results showed that increased prenatal exposure to particulate matter PM2.5 increased the risk of LBW (AOR = 1.3, 95% CI:1.02–1.42). Prenatal exposure to SO2 was directly associated with SGA (AOR = 1.1, 95% CI:1.01–1.13). i.e. as exposure level to SO2 increases the probability of being born small for gestational age increases. The direct effects of prenatal exposure to NOx on adverse birth outcomes were significant, but not in the expected direction (Fig. 4 and Table 3). Our results suggest that infants born from smoker mother have a significantly increased risk of PB (AOR = 1.9, 95% CI: 1.27–2.89). Moreover, infants from HIV positive mothers had a higher tendency to be born preterm (AOR = 0.8, 95% CI:0.49–0.96).
+
+The results also revealed that LBW (AOR = 0.9, 95% CI: 0.92–0.97), SGA (AOR = 0.9, 95% CI: 0.91–0.95) and PB (AOR = 0.94, 95% CI: 0.93–0.95) were negatively associated with increased BMI at first trimester. Increased gestational weight gain had associated with decreased odds of PB (AOR = 0.98, 95% CI:0.97 – 0.99). Among socio-economic variables, the results showed that the primary or less mother's education level had a negative significant association with PB (Fig. 4). Infants from mothers who had primary or less education have a significantly higher probability of being preterm (AOR = 2.7, 95% CI: 1.15–6.17). Our results also suggest that infants born from mother's living in lower socio-economic housing had associated with increased risk of LBW (AOR = 1.7, 95% CI: 1.61–1.85). Compared to male infants, females were less likely to be born with SGA (AOR = 0.9, 95% CI: 0.86–0.89) (Fig. 4 and Table 3).
+
+Indirect and total effects
+Table 4 displays the indirect, and total effects of prenatal exposure factors with the adverse birth outcomes. We found that prenatal exposure to PM2.5 (AOR = 0.03, 95% CI: 0.02 – 0.04), and SO2 (AOR = 0.002, 95% CI: 0.01 – 0.02) and NOx (AOR = 0.001, 95% CI: 0.0003 – 0.002) exhibits indirect effect on LBW through PB. Furthermore, all of the three pollutants were associated with SGA indirectly through PB. However, these indirect effects were considerably of low effect sizes (Table 4). Infants from mothers with a higher level of exposure to PM2.5, SO2 and NOx are more likely to be LBW and SGA partly because of being preterm. Even if the direct effects were not in the expected direction, we observed a low-level indirect effect of prenatal exposure to NOx on LBW and SGA through PB (Table 4).
+
+Table 4 Indirect and total effects of maternal prenatal exposure factors on adverse birth outcomes via preterm birth
+Full size table
+Both the estimated direct effect of PM2.5 on LBW (AOR = 1.3, 95% CI:1.02–1.42) and indirect effect on through PB (AOR = 0.03, 95% CI: 0.02 – 0.04) are relatively higher, resulting a significant stronger positive total effect (total effect = 1.94, 95% CI:1.49, 2.34). The indirect effect points to the existence of a mediating effect of PB on the effects of prenatal exposure to air pollution on being born LBW. This suggests that preterm infants with increased prenatal exposure to air pollution were more likely to be born with LBW. Lastly, PB has a mediating effect on how BMI at first trimester affects LBW (indirect effect = 0.003, 95% CI:0.0.002, 0.005) and SGA (indirect effect = 0.003, 95% CI:0.0.002, 0.005) (Table 4).
+
+Discussion
+Our study has demonstrated that the annual exposure to PM2.5 and SO2 air pollution constitute strong prenatal risk factor of adverse birth outcomes. The use of a novel statistical technique, GSEM showed that while the effects were mostly direct, the effect of air pollution through prenatal exposure to PM2.5 and SO2 on low birthweight and small for gestational age were mediated through preterm birth. This may be attributed to maternal exposure to PM2.5 increase throughout the entire pregnancy is related to an extra risk of preterm birth [48] and low birthweight may result from preterm birth [49]. The other possible reason may be including multiple measures of the mediating variable or construct, ceteris paribus, will be a better strategy for fully capturing percentage mediation [50].
+
+Elevated prenatal maternal exposure to PM2.5 was positively associated with low birthweight, preterm birth and SGA. Echoing findings elsewhere [51, 52], our study confirms that PM2.5 has consistent adverse effects on adverse birth outcomes. Similar to our findings, a systematic review by Shah et al. [6] found that exposure to PM2.5 increases the risk of LBW, while.a study in Canada, indicated that a 10-μg/m3 increase in PM2.5 over the entire pregnancy was associated with small for gestational age [53]. Brauer et al. [54] found consistent associations between PM2.5 exposure and risk of preterm birth. Ambient PM2.5 exposure increased the risk of preterm birth increased by 3% for every 5 μg/m3 increase in PM2.5 average concentration in the entire pregnancy in one Chinese study [55]. A recent meta-analysis found maternal exposure to PM2.5 per IQR increment increase risk of PB throughout entire pregnancy [56].
+
+Our finding suggests that a higher level of prenatal exposure to SO2 is associated with risk of small for gestational age. The concurs with a study in China, which showed a significant effect on adverse birth outcomes [54]. In this study, despite lower magnitude, we identified an indirect effect of exposure to PM2.5, and SO2 ambient air pollution on LBW and SGA. The mediation path contributing to this effect is through preterm birth. This suggests that preterm birth is an important mediator between prenatal exposure to ambient air pollution and adverse birth outcomes. While it may have a protective direct effect, NOx exposure has a positive indirect effect on LBW and SGA through preterm birth. This may be attributed to bias or residual confounding. However, these indirect association of NOx exposure with adverse birth outcomes are relatively weak in magnitude. Unlike this study by Brauer et al. found an association between exposure to NOx and LBW [54].
+
+Mothers who are smokers were more likely to experience the adverse birth outcome of preterm birth compared to non-smokers. This is consistent with previous studies in the US, UK and Brazil that had shown the risk of PB is higher in smokers [57,58,59]. Our result is also in line with a recent systematic review and meta-analysis [60], in which smoking, was identified as a risk factor where smoking in pregnancy increased the risk of preterm birth. Similarly, Guan et al. found that smoking is a risk factor for preterm birth [61]. A recent study showed that women at greatest risk for PB are those with low socio-economic status, smoking [62].
+
+This study used household-level air pollution estimates of exposure to pollutants NOx, PM2.5 and SO2, obtained through a land use regression model. Our work goes beyond previous findings by advancing a multivariate structural equation model to a more flexible generalised structural equation model, which allows effects of prenatal exposure to air pollution on, categorical responses, adverse birth outcomes. Another strength of this study was an adjustment for individual-level factors, such as maternal smoking status, weight gain, body mass index, syphilis and HIV status in addition to socio-demographic status, as compared to studies that utilise retrospective records, particularly from developing countries.
+
+This study has a number of limitations. The main limitation of this study is the use of a single average exposure level of pollutants during the whole pregnancy. The effect of exposure to pollutants may have a differential effect on adverse birth outcomes at different trimesters. The LUR approach, the methodology used in several large epidemiological studies globally, including in birth cohorts, does not include a temporal component. In this study, only ambient air pollution exposure was available. Misclassification is also possible for the outcome variables, preterm birth and LBW. Misclassification of the mediator is important potential source of error which may impact on the exposure-outcome associations.
+
+Conclusion
+In summary, this paper presented a Generalised structural equation model with a complementary log–log link that jointly explains adverse birth outcomes (low birthweight, SGA, and preterm birth), and prenatal exposure to ambient air pollution while accounting for socio-demographic, behavioural, physical activity and clinical risk factors. Our study revealed a consistent association of air pollution exposure to PM2.5 throughout pregnancy on increased risks of preterm birth, low birthweight and SGA.
+
+Generalised structural equation modeling allowed investigation of the effect of prenatal air pollution exposures on adverse birth outcomes. Using this approach, we found that air pollution exposure had adverse effects on low birthweight and small for gestational age. This suggests that, while policies promoting reducing exposure levels of pollution will reduce preterm birth, its effect on reducing the likelihood of LBW and SGA. Furthermore, more research should also investigate whether the timing of environmental exposures during pregnancy (i.e., by trimester) is associated with adverse birth outcomes in our study setting.
+
+Availability of data and materials
+The data that support the findings of this study are available from the MACE study but restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly available. Data are however available from the authors upon reasonable request and with permission from the MACE study.
+
+References
+Campbell E, Seabrook J. The influence of socioeconomic status on adverse birth outcomes. Can J Midwifery Res Pract. 2016;15:11–20.
+
+Google Scholar
+ 
+
+Campbell EE, Gilliland J, Dworatzek PD, De Vrijer B, Penava D, Seabrook JA. Socioeconomic status and adverse birth outcomes: a population-based Canadian sample. J Biosoc Sci. 2018;50(1):102–13.
+
+Article
+ 
+Google Scholar
+ 
+
+Nowak AL, Giurgescu C. The built environment and birth outcomes: a systematic review. MCN Am J Matern Child Nurs. 2017;42(1):14–20.
+
+Article
+ 
+Google Scholar
+ 
+
+Seabrook JA, Woods N, Clark A, De Vrijer B, Penava D, Gilliland J. The association between alcohol outlet accessibility and adverse birth outcomes: a retrospective cohort study. J Neonatal Perinatal Med. 2018;11(1):71–7.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Woods N, Gilliland J, Seabrook JA. The influence of the built environment on adverse birth outcomes. J Neonatal Perinatal Med. 2017;10(3):233–48.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Shah PS, Balkhair T. births KSGoDoPL: air pollution and birth outcomes: a systematic review. Environ Int. 2011;37(2):498–516.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Butler AS, Behrman RE. Preterm birth: causes, consequences, and prevention: National academies press. 2007.
+
+Google Scholar
+ 
+
+Wardlaw TM. Low birthweight: country, regional and global estimates: Unicef. 2004.
+
+Google Scholar
+ 
+
+Gladstone M, Oliver C, Van den Broek N. Survival, morbidity, growth and developmental delay for babies born preterm in low and middle income countries–a systematic review of outcomes measured. PLoS ONE. 2015;10(3): e0120566.
+
+Article
+ 
+Google Scholar
+ 
+
+World Health Organization. Born too soon: the global action report on preterm birth. 2012.
+
+Google Scholar
+ 
+
+Kistnasamy EJ, Robins TG, Naidoo R, Batterman S, Mentz G, Jack C, Irusen E. The relationship between asthma and ambient air pollutants among primary school students in Durban, South Africa. Int J Environ Health. 2008;2(3–4):365–85.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Gluckman PD, Hanson MA, Cooper C, Thornburg KL. Effect of in utero and early-life conditions on adult health and disease. N Engl J Med. 2008;359(1):61–73.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Pedersen M, Giorgis-Allemand L, Bernard C, Aguilera I, Andersen AMN, Ballester F, Beelen RM, Chatzi L, Cirach M, Danileviciute A. Ambient air pollution and low birthweight: a European cohort study (ESCAPE). Lancet Respir Med. 2013;1(9):695–704.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Nieuwenhuijsen MJ, Dadvand P, Grellier J, Martinez D, Vrijheid M. Environmental risk factors of pregnancy outcomes: a summary of recent meta-analyses of epidemiological studies. Environ Health. 2013;12(1):6.
+
+Article
+ 
+Google Scholar
+ 
+
+Yorifuji T, Kashima S, Doi H. Outdoor air pollution and term low birth weight in Japan. Environ Int. 2015;74:106–11.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Savitz DA, Bobb JF, Carr JL, Clougherty JE, Dominici F, Elston B, Ito K, Ross Z, Yee M, Matte TD. Ambient fine particulate matter, nitrogen dioxide, and term birth weight in New York. New York American journal of epidemiology. 2013;179(4):457–66.
+
+Article
+ 
+Google Scholar
+ 
+
+Clemens T, Turner S, Dibben C. Maternal exposure to ambient air pollution and fetal growth in North-East Scotland: a population-based study using routine ultrasound scans. Environ Int. 2017;107:216–26.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Huang JV, Leung GM, Schooling CM. The association of air pollution with birthweight and gestational age: evidence from Hong Kong’s ‘Children of 1997’birth cohort. J Public Health. 2016;39(3):476–84.
+
+Google Scholar
+ 
+
+Mendoza-Ramirez J, Barraza-Villarreal A, Hernandez-Cadena L, de la Garza OH, Sangrador JLT, Torres-Sanchez LE, Cortez-Lugo M, Escamilla-Nuñez C, Sanin-Aguirre LH, Romieu I. Prenatal exposure to nitrogen oxides and its association with birth weight in a cohort of Mexican Newborns from Morelos, Mexico. Ann Glob Health. 2018;84(2):274.
+
+Article
+ 
+Google Scholar
+ 
+
+Ritz B, Wilhelm M. Ambient air pollution and adverse birth outcomes: methodologic issues in an emerging field. Basic Clin Pharmacol Toxicol. 2008;102(2):182–90.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Guo L-Q, Chen Y, Mi B-B, Dang S-N, Zhao D-D, Liu R, Wang H-L, Yan H. Ambient air pollution and adverse birth outcomes: a systematic review and meta-analysis. J Zhejiang Univ-Sc B. 2019;20(3):238–52.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Gortzak-Uzan L, Hallak M, Press F, Katz M, Shoham-Vardi I. Teenage pregnancy: risk factors for adverse perinatal outcome. J Matern Fetal Med. 2001;10(6):393–7.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Kenny LC, Lavender T, McNamee R, O’Neill SM, Mills T, Khashan AS. Advanced maternal age and adverse pregnancy outcome: evidence from a large contemporary cohort. PLoS ONE. 2013;8(2): e56583.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Tshotetsi L, Dzikiti L, Hajison P, Feresu S. Maternal factors contributing to low birth weight deliveries in Tshwane District, South Africa. PLoS ONE. 2019;14(3): e0213058.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Du M-k, Ge L-y, Zhou M-l. Ying J, Qu F, Dong M-y, Chen D-q: Effects of pre-pregnancy body mass index and gestational weight gain on neonatal birth weight. J Zhejiang Univ-Sc B. 2017;18(3):263–71.
+
+Article
+ 
+Google Scholar
+ 
+
+Harville EW, Rabito FA. Housing conditions and birth outcomes: the national child development study. Environ Res. 2018;161:153–7.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Myers B, Koen N, Donald KA, Nhapi RT, Workman L, Barnett W, Hoffman N, Koopowitz S, Zar HJ, Stein DJ. Effect of hazardous alcohol use during pregnancy on growth outcomes at birth: findings from a South African cohort study. Alcohol Clin Exp Res. 2018;42(2):369–77.
+
+Article
+ 
+Google Scholar
+ 
+
+Vanker A, Barnett W, Brittain K, Gie R, Koen N, Myers B, Stein D, Zar H. Antenatal and early life tobacco smoke exposure in an African birth cohort study. Int J Tuberc Lung Dis. 2016;20(6):729–37.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Hoyle RH. Handbook of structural equation modeling: Guilford press. 2012.
+
+Google Scholar
+ 
+
+Baum CF, Lööf H, Nabavi P, Stephan A. A new approach to estimation of the R&D–innovation–productivity relationship. Econ Innov Technol. 2017;26(1–2):121–33.
+
+Article
+ 
+Google Scholar
+ 
+
+Fox J, Weisberg S. An R companion to applied regression: Sage publications. 2018.
+
+Google Scholar
+ 
+
+Naidoo RN, Robins TG, Batterman S, Mentz G, Jack C. Ambient pollution and respiratory outcomes among schoolchildren in Durban, South Africa. S Afr J Child Health. 2013;7(4):127–34.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Mitku AA, Zewotir T, North D, Naidoo RN. exploratory Data Analysis of Adverse Birth outcomes and exposure to oxides of nitrogen Using interactive parallel coordinates plot technique. Sci Rep. 2020;10(1):1–9.
+
+Article
+ 
+Google Scholar
+ 
+
+Muttoo S, Ramsay L, Brunekreef B, Beelen R, Meliefste K, Naidoo RN. Land use regression modelling estimating nitrogen oxides exposure in industrial south Durban, South Africa. Sci Total Environ. 2018;610:1439–47.
+
+Article
+ 
+Google Scholar
+ 
+
+Jeena PM, Asharam K, Mitku AA, Naidoo P. Naidoo RNJBp, childbirth: Maternal demographic and antenatal factors, low birth weight and preterm birth: findings from the mother and child in the environment (MACE) birth cohort. Durban, South Africa. 2020;20(1):1–11.
+
+Google Scholar
+ 
+
+Mitku AA, Zewotir T, North D, Jeena P, Asharam K, Muttoo S, Naidoo RN. The spatial modification of the non-linear effects of ambient oxides of nitrogen during pregnancy on birthweight in a South African birth cohort. Environ Res. 2020;183:109239.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Eeftens M, Beelen R, de Hoogh K, Bellander T, Cesaroni G, Cirach M, Declercq C, Dedele A, Dons E, de Nazelle A. Development of land use regression models for PM2. 5, PM2. 5 absorbance, PM10 and PMcoarse in 20 European study areas; results of the ESCAPE project. EnvironSci Tech. 2012;46(20):11195–205.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Tularam H, Ramsay LF, Muttoo S, Brunekreef B, Meliefste K, de Hoogh K. Naidoo RNJEP: A hybrid air pollution/land use regression model for predicting air pollution concentrations in Durban. South Africa. 2021;274: 116513.
+
+CAS
+ 
+Google Scholar
+ 
+
+Sun L, Hu Y, Qi H, Maternal-Fetal Medicine Committee. A Summary of Chinese Expert Consensus on Fetal Growth Restriction (An Update on the 2019 Version). Matern Fetal Med. 2022;4(3):162–8.
+
+Article
+ 
+Google Scholar
+ 
+
+Bardin R, Aviram A, Hiersch L, Hadar E, Gabbay-Benziv R. False diagnosis of small for gestational age and macrosomia–clinical and sonographic predictors. J Matern Fetal Neonatal Med. 2022;35(8):1539–45.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Mitku AA, Zewotir T, North D, Naidoo RN. Exploratory data analysis of adverse birth outcomes and exposure to oxides of nitrogen using interactive parallel coordinates plot technique. Sci Rep. 2020;10(1):1–9.
+
+Article
+ 
+Google Scholar
+ 
+
+Nocita M, Stevens A, van Wesemael B, Aitkenhead M, Bachmann M, Barthès B, Dor EB, Brown DJ, Clairotte M, Csorba A, Dardenne P. Soil spectroscopy: An alternative to wet chemistry for soil monitoring. Adv Agronomy. 2015;132:139–59.
+
+Article
+ 
+Google Scholar
+ 
+
+Hoyle RH. Structural equation modeling: Concepts, issues, and applications: Sage. 1995.
+
+Google Scholar
+ 
+
+Bollen KA. Structural equations with latent variables Wile. 1989.
+
+Google Scholar
+ 
+
+Muthén B. A general structural equation model with dichotomous, ordered categorical, and continuous latent variable indicators. Psychometrika. 1984;49(1):115–32.
+
+Article
+ 
+Google Scholar
+ 
+
+Burnham KP, Anderson DR. Multimodel inference: understanding AIC and BIC in model selection. Sociol Methods Res. 2004;33(2):261–304.
+
+Article
+ 
+Google Scholar
+ 
+
+Statistics S. General household survey 2015 statistical release P0318. Pretoria: Statistics South Africa; 2016.
+
+Google Scholar
+ 
+
+Li X, Huang S, Jiao A, Yang X, Yun J, Wang Y, Xue X, Chu Y, Liu F, Liu Y. Association between ambient fine particulate matter and preterm birth or term low birth weight: an updated systematic review and meta-analysis. Environ Pollut. 2017;227:596–605.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Cutland CL, Lackritz EM, Mallett-Moore T, Bardají A, Chandrasekaran R, Lahariya C, Nisar MI, Tapia MD, Pathirana J, Kochhar SJV. Low birth weight: Case definition & guidelines for data collection, analysis, and presentation of maternal immunization safety data. Vaccine. 2017;35(48Part A):6492.
+
+Article
+ 
+Google Scholar
+ 
+
+Blakely T, McKenzie S, Carter K. Misclassification of the mediator matters when estimating indirect effects. J Epidemiol Community Health. 2013;67(5):458–66.
+
+Article
+ 
+Google Scholar
+ 
+
+Ha S, Hu H, Roussos-Ross D, Haidong K, Roth J, Xu X. The effects of air pollution on adverse birth outcomes. Environ Res. 2014;134:198–204.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Mainolfi MB, Salihu HM, Wilson RE, Mbah AK. Low-level exposure to air pollution and risk of adverse birth outcomes in Hillsborough County, Florida. J Occup Environ Med. 2013;55(5):490–4.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Stieb DM, Chen L, Beckerman BS, Jerrett M, Crouse DL, Omariba DWR, Peters PA, van Donkelaar A, Martin RV, Burnett RT. Associations of pregnancy outcomes and PM2. 5 in a national Canadian study. Environ Health Perspect. 2016;124(2):243–9.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Brauer M, Lencar C, Tamburic L, Koehoorn M, Demers P, Karr C. A cohort study of traffic-related air pollution impacts on birth outcomes. Environ Health Perspect. 2008;116(5):680–6.
+
+Article
+ 
+Google Scholar
+ 
+
+Qian Z, Liang S, Yang S, Trevathan E, Huang Z, Yang R, Wang J, Hu K, Zhang Y, Vaughn M. Ambient air pollution and preterm birth: a prospective birth cohort study in Wuhan, China. Int J Hyg Environ Health. 2016;219(2):195–203.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Li X, Huang S, Jiao A, Yang X, Yun J, Wang Y, Xue X, Chu Y, Liu F, Liu Y. Association between ambient fine particulate matter and preterm birth or term low birth weight: an updated systematic review and meta-analysis. Environ Pollut. 2017;227:596–605.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Beta J, Akolekar R, Ventura W, Syngelaki A, Nicolaides KH. Prediction of spontaneous preterm delivery from maternal factors, obstetric history and placental perfusion and function at 11–13 weeks. Prenat Diagn. 2011;31(1):75–83.
+
+Article
+ 
+Google Scholar
+ 
+
+Damaso EL, Rolnik DL, Cavalli RC, Quintana SM, Duarte G, da Silva Costa F, Marcolin A. Prediction of preterm birth by maternal characteristics and medical history in the Brazilian population. J Pregnancy. 2019;2019:4395217.
+
+Article
+ 
+Google Scholar
+ 
+
+Soneji S, Beltrán-Sánchez H. Association of maternal cigarette smoking and smoking cessation with preterm Birth. JAMA Netw Open. 2019;2(4):e192514–e192514.
+
+Article
+ 
+Google Scholar
+ 
+
+Ion R, Bernal AL. Smoking and preterm birth. Reprod Sci. 2015;22(8):918–26.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Guan T, Xue T, Gao S, Hu M, Liu X, Qiu X, Liu X, Zhu T. Acute and chronic effects of ambient fine particulate matter on preterm births in Beijing, China: a time-series model. Sci Total Environ. 2019;650:1671–7.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Koullali B, Oudijk MA, Nijman TA, Mol BW, Pajkrt E. Risk assessment and management to prevent preterm birth. Semin Fetal Neonatal Med. 2016;21(2):80–8.
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Download references
+
+Acknowledgements
+We wish to acknowledge the Mother and Child in the Environment cohort study participants, all study fieldworkers and nursing staff at the participating clinics and hospitals. We also sincerely thank all the international collaborators (Utrecht, Michigan) and local collaborators of the MACE Study. AAM is grateful to DAAD (German Academic Exchange Program) for the scholarship.
+
+Funding
+The Mother and Child in the Environment (MACE) cohort study is funded by the following research funding agencies in South Africa: National Research Foundation (NRF) (grant number: 90550), Medical Research Council (MRC) and the AstraZeneca Research Trust. The funders played no role in the design and conduct of the study, or the data analysis and drafting of the manuscript.
+
+Author information
+Authors and Affiliations
+School of Mathematics, Statistics and Computer Science, College of Agriculture Engineering and Science, University of KwaZulu-Natal, Durban, South Africa
+
+Aweke A. Mitku, Temesgen Zewotir & Delia North
+
+Discipline of Occupational and Environmental Health, School of Nursing and Public Health, College of Health Sciences, University of KwaZulu-Natal, Durban, South Africa
+
+Aweke A. Mitku, Kareshma Asharam, Sheena Muttoo, Hasheel Tularam & Rajen N. Naidoo
+
+Department of Statistics, Bahir Dar University, Bahir Dar, Ethiopia
+
+Aweke A. Mitku
+
+Discipline of Paediatrics and Child Health, School of Clinical Medicine, College of Health Sciences, University of KwaZulu-Natal, Durban, South Africa
+
+Prakash Jeena
+
+Contributions
+AAM, TZ, DN conceptualized the research problem and developed the study design. AAM organized the data, conducted the statistical analysis and drafted the manuscript. SM and HT were responsible for the exposure characterisation. PJ, KA, and RNN were responsible for the child outcomes data. All authors critically reviewed and made substantial contributions to the manuscript. All authors read and approved the final manuscript.
+
+Corresponding author
+Correspondence to Aweke A. Mitku.
+
+Ethics declarations
+Ethics approval and consent to participate
+Written informed consent was obtained from all the participants in this study, participated voluntarily, received no financial incentives, and had the right to withdraw at any stage. Follow-ups of the study were approved by the Biomedical Research Ethics Committee (BREC) at the University of KwaZulu-Natal (UKZN) (BF263/12). All methods were carried out in accordance with the relevant guidelines.
+
+Consent for publication
+Not Applicable.
+
+Competing interests
+All authors declare that they have no competing interests.
+
+Additional information
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Supplementary Information
+Additional file 1:
+SupFigure 1. Flowchart illustrating final numberof participant women used in the study from MACE birth cohort 
+
+Rights and permissions
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+
+Reprints and permissions
+
+About this article
+Check for updates. Verify currency and authenticity via CrossMark
+Cite this article
+Mitku, A.A., Zewotir, T., North, D. et al. Impact of ambient air pollution exposure during pregnancy on adverse birth outcomes: generalized structural equation modeling approach. BMC Public Health 23, 45 (2023). https://doi.org/10.1186/s12889-022-14971-3
+
+Download citation
+
+Received
+09 August 2022
+
+Accepted
+29 December 2022
+
+Published
+06 January 2023
+
+DOI
+https://doi.org/10.1186/s12889-022-14971-3
+
+Share this article
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+Keywords
+Birth cohort
+Complementary log–log-link
+Indirect effects
+Parallel coordinates plot
+Prenatal exposure
+Download PDF
+Collection
+
+Air Pollution and Health
+Sections
+Figures
+References
+Abstract
+Background
+Methods
+Results
+Discussion
+Conclusion
+Availability of data and materials
+References
+Acknowledgements
+Funding
+Author information
+Ethics declarations
+Additional information
+Supplementary Information
+Rights and permissions
+About this article
+BMC Public Health
+ISSN: 1471-2458
+
+Contact us
+Submission enquiries: bmcpublichealth@biomedcentral.com
+General enquiries: ORSupport@springernature.com
+Read more on our blogs
+Receive BMC newsletters
+Manage article alerts
+Language editing for authors
+Scientific editing for authors
+Policies
+Accessibility
+Press center
+Support and Contact
+Leave feedback
+Careers
+Follow BMC
+BMC Twitter page
+BMC Facebook page
+BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Your US state privacy rights, Privacy statement and Cookies policy. Your privacy choices/Manage cookies we use in the preference centre.
+
+Springer Nature
+© 2024 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

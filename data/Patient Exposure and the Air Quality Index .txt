@@ -1,0 +1,148 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Ozone Pollution and Your Patients' Health
+CONTACT US
+Patient Exposure and the Air Quality Index
+Should I recommend that my patients reduce their exposure to ozone?
+Review Key Points
+
+How can my patients reduce exposure to ambient ozone and the consequent health effects?
+What is the Air Quality Index (AQI)?
+What can I advise my patients to do when air quality is forecast to be unhealthy?
+How effective are air quality alerts in reducing adverse effects in the real world?
+Where can the daily AQI be found?
+How can my patients get the daily AQI delivered to their email inbox?
+Where can I get more information?
+
+Should I recommend that my patients reduce their exposure to ozone?
+Information from clinical, epidemiological, and animal studies summarized above indicates that exposure to ambient ozone is a risk factor for triggering acute and chronic health effects. These include chest discomfort, cough, and shortness of breath and increases in daily mortality and hospital admissions for respiratory disease in the general population as well as those with lung disease; asthma attacks in people with asthma; and the possible development of new cases of asthma and other respiratory disease in people exposed to ozone over many years.  For example, during and following days when ozone levels are high, people with asthma may experience worsening respiratory symptoms, need more medication, and be more likely to go to emergency rooms or be admitted to the hospital.   As with most triggers, some people are more severely affected than others.
+
+Because ambient ozone exposure is a risk factor for triggering both acute and chronic health effects, it is desirable for people to reduce both short-term and cumulative exposure to ozone. People with asthma or other respiratory diseases who know they are affected by ozone exposure will benefit the most from exposure reductions; others may experience little or no benefit.
+
+Evidence also indicates that, across the population, reducing exposure to ozone will reduce public health impacts. For example, reduction in traffic congestion in Atlanta during the summer Olympic Games resulted in a prolonged reduction in ozone pollution and this reduction was associated with significantly lower rates of childhood asthma events. (Friedman et al., 2001). One of the main functions of the Air Quality Index (AQI) advisories is to notify the public when ozone levels are, or are expected to be, unhealthy, thereby giving people the opportunity to reduce their exposure.
+
+Health care providers should recommend that patients reduce their ozone exposure on days when air quality is bad, especially people with asthma, who are more susceptible to the effects of exposure. The Clinical Scenarios and Frequent Questions sections contain more clinically relevant interpretations of these data and suggestions for when and how to advise patients to reduce their exposure or increase medication usage.
+
+
+How can my patients reduce exposure to ambient ozone and the consequent health effects?
+People can reduce their exposure by reducing the time they spend outdoors or by reducing the level or duration of outdoor activity during the times of the day that ozone levels tend to be high. Ozone levels are typically highest in the warmer months (approximately April through October) and in the afternoon and early evening hours for most locations, but this can vary by location. In some locations, where there are high VOC levels combined with intense UV radiation, ozone levels can be high even during winter months. For example, high ozone concentrations can occur throughout the year in some southern and mountain locations (see What is Ozone? section of this course for more details).
+
+People can know when to reduce their exposure to ozone by paying attention to air quality reports and forecasts that notify the public when ozone levels are at unhealthy levels, thereby giving them the opportunity to plan activities accordingly. In the United States, State and local government agencies use EPA's AQI to provide these reports to the public.
+
+
+What is the Air Quality Index?
+The Air Quality Index, or AQI, is a nationally uniform index for reporting and forecasting daily air quality. It is used to report the five most common ambient air pollutants that are regulated under the Clean Air Act: ground-level ozone, particle pollution (or particulate matter), carbon monoxide, sulfur dioxide, and nitrogen dioxide. The AQI tells the public how clean or polluted the air is and how to avoid potential associated health effects.
+
+aqi logo
+The AQI uses a normalized scale from 0 to 500. Since levels rarely exceed a value of 200 in the United States, in most cases only the range from 0 to 300 is shown. The higher the AQI value, the greater the level of pollution and the greater the health concern. An AQI value of 100 generally corresponds to the level of the National Ambient Air Quality Standard for the pollutant. AQI values below 100 are generally considered to be satisfactory. When AQI values are above 100, air quality is considered to be unhealthy, at first for members of susceptible populations, then for everyone as AQI values get higher.
+The AQI is divided into six categories that correspond to different levels of health concern. For ozone, the breakpoints between these categories were selected based on a review of the health effects evidence. This evidence included concentration-response functions derived from a series of controlled human exposure studies. (Folinsbee et al., 1988; Horstmann et al., 1990; McDonnell et al., 1991). In these studies, healthy volunteers were exposed to ozone concentrations ranging from 80 to 120 ppb for 8 hours in environmental chambers. Activity patterns in these experiments were designed to simulate activities of a normal day, with periods of moderate activity interspersed with breaks for meals and for rest. Lung function and respiratory symptoms were recorded for each exposure and graded based on Table 1 (for healthy people) and Table 2 (for people with lung disease).
+
+Table showing Air Quality Index Values that correspond to colors and levels of health concern
+Figure 14: Air Quality Index (AQI) levels of health concern. This color-coded table shows generically how AQI values correlate with levels of health concern. For a copy of this table, download the booklet, "Air Quality Index - A Guide to Air Quality and Your Health," which explains the AQI and health effects of major air pollutants. (12pp, 333k) 
+"Good" (0 - 50): Air quality is excellent and poses little or no risk. 
+"Moderate" (51 - 100): Air quality is acceptable; however, there may be some health concern for a small number of unusually sensitive individuals. We cannot identify groups of people that are at greater risk when air quality is in this range. However, controlled human exposure studies indicate that there are individuals who experience health effects at more moderate levels of outdoor exertion or at lower ozone levels than the average person, and these individuals may experience effects when air quality is in the moderate range. 
+"Unhealthy for Sensitive Groups" (101 - 150): When air quality is in this range, people that are included in a sensitive group, whether the sensitivity is due to medical conditions, exposure conditions, or inherent susceptibility, may experience the effects described above when engaged in outdoor activities. However, exposures to ambient concentrations in this range are not likely to result in effects in the general population. For ozone, the sensitive group includes children; people with lung diseases, such as asthma, chronic bronchitis, and emphysema; older adults; and active people who work or exercise outdoors. EPA's risk assessment (Whitfield et al., 1996) indicates that at this level for healthy individuals (adults and children) at moderate exertion: 1) approximately 18% are estimated to experience moderate or greater lung function impairment, 2) approximately 9% are estimated to experience large or greater lung function impairments, and 3) approximately 2% are estimated to experience moderate to severe aggravated cough. 
+"Unhealthy" (151 - 200): When air quality is in this range, any individual who is active outdoors may experience the respiratory effects described above. Members of sensitive groups are likely to experience more severe effects. EPA's risk assessment (Whitfield et al., 1996) indicates that at this level for healthy individuals (adults and children) at moderate exertion: 1) approximately 30% are estimated to experience moderate or greater lung function impairment, 2) approximately 15% are estimated to experience large or greater lung function impairments, and 3) approximately 5% are estimated to experience moderate to severe respiratory symptoms (i.e., chest pain with deep inspiration and aggravated cough). 
+"Very Unhealthy" (201 - 300): When air quality is in this range, it is expected that there will be widespread effects among the general population and more serious effects in members of sensitive groups. EPA's risk assessment (Whitfield et al., 1996) indicates that at this level for healthy individuals (adults and children) at moderate exertion: 1) approximately 50% are estimated to experience moderate or greater lung function impairment, 2) approximately 20% are estimated to experience large or greater lung function impairments, and 3) approximately 10-15% are estimated to experience moderate to severe respiratory symptoms (i.e., chest pain with deep inspiration and aggravated cough). Individuals with asthma or other respiratory conditions will likely be more severely impacted than healthy individuals, leading some to increase medication usage and seek medical attention, including increased emergency room and clinic visits, and increased hospital admissions. 
+"Hazardous" (301 - 500): If air quality gets in this range, it will trigger health warnings of emergency conditions and there will be widespread coverage in the media. The AQI's levels of health concern correlate with pollutant-specific health and cautionary statements that suggest relatively simple measures people can take to reduce their exposure to air pollution. For example, when the AQI Index Value for ozone is between 101 and 150, or Code Orange, air quality is considered "unhealthy for sensitive groups," and active children and adults, and people with lung disease such as asthma, are advised to reduce prolonged or heavy exertion outdoors.
+capture
+Figure 15: The AQI Guide for Ozone includes cautionary statements and actions people can take to reduce their risk from exposure to air pollution at different levels of health concern. This brochure can be found online, where it includes AQI tables for other air pollutants.
+
+What can I advise my patients to do when air quality is forecast to be unhealthy?
+As discussed above, the EPA recommends limiting outdoor activities as the AQI for ozone rises to unhealthy levels. The chances of being affected by ozone increase the longer a person is active outdoors and the more strenuous the activity is. If a patient is planning to engage in an activity that requires moderate or heavy exertion, they can reduce the time spent on this activity or substitute another activity that requires less exertion (e.g., go for a walk rather than a jog). In addition, patients can plan outdoor activities when ozone levels are lower, usually in the morning or evening. Check State or local air quality agency's air quality websites for the most up to date information on local pollution levels or visit www.airnow.gov.
+
+In general, controlled human exposure studies indicate that there is a risk of experiencing respiratory symptoms and reduced lung function at the following ozone concentrations and exertion levels:
+
+At ozone levels above 120 ppb and heavy outdoor exertion for short periods of time (1 to 3 hours)
+At ozone levels between 60 and 80 ppb and intermittent moderate outdoor exertion for longer periods of time (4 to 8 hours)
+For most adults, activities that involve moderate exertion, with ventilation rates for adults that range from 35-45 liters/minute, include climbing stairs, playing tennis or baseball, simple garden or construction work, and brisk walking or light jogging, cycling, or hiking. Activities that involve heavy exertion, with ventilation rates greater than 45 liters/minute for adults, include playing basketball or soccer, chopping wood, heavy manual labor such as digging in the garden, and vigorous running, cycling, or hiking. Because fitness levels vary widely among individuals, what is moderate exertion for one person may be heavy exertion for another. No matter how fit a person is, cutting back on the level and/or duration of exertion when ozone levels are high will help protect him or her from ozone's harmful effects.
+
+The appearance of respiratory symptoms when ozone levels are high is an indication that reduction of exposure is warranted. These symptoms can include:
+
+Coughing
+Throat irritation
+Pain, burning, or discomfort in the chest when taking a deep breath
+Chest tightness, wheezing, or shortness of breath
+In general, children are less likely to notice or report symptoms than adults, even when measures of peak flow are being affected.
+
+
+How effective are air quality alerts in reducing adverse effects in the real world?
+For air quality advisories to have a positive effect on public health, they must be widely available and well-understood. Evidence indicates the AQI may indeed be helpful. Data from the 2005 Behavioral Risk Factor Surveillance System (BRFSS) conducted in six states (Colorado, Florida, Indiana, Kansas, Massachusetts, and Wisconsin) were analyzed to assess reductions or changes in outdoor activities because of media alerts on AQI and health professional advice to reduce or change outdoor activity levels (Wen et al., 2009). BRFSS is a standardized state-based telephone survey system designed to collect data on health risk behaviors and health conditions from adults aged 18 and older. About 31% (95% CI: 27.8–34.4%; P < 0.0001) of the respondents with lifetime asthma and 16% (95% CI: 15.1–17.1%; P < 0.0001) of those without asthma reported changes in outdoor activities because of media alerts of air quality. Among the respondents who ever received a health professional’s advice to reduce outdoor activity, about 51% of those without asthma (95% CI: 43.2–57.9%; P < 0.001) and 57% of those with lifetime asthma (95% CI: 49.1–63.7%; P < 0.001) reported a media alert-based outdoor activity change or reduction. This shows that receiving advice from a health professional is also a very important factor in the decision to change or reduce outdoor activities.
+
+An activity diary study (Mansfield et al., 2006) found that parents of children with asthma were more likely to report checking the AQI frequently, with more serious asthma being a predictor of more frequent checking. The activity diaries revealed that parents who thought that their asthmatic children were sensitive to air pollution reduced their children’s time outdoors by about 30 minutes on a “Code Red” day relative to a non-Code Red day. On days with Good (Green) air quality, the amount time spent outdoors was similar for asthmatic children who were believed to be sensitive and non-sensitive to air pollution.
+
+A 2009 paper (Neidell and Kinney 2009) estimates the statistical association between ambient ozone concentrations and asthma hospitalizations in Southern California while accounting for potential avoidance behavior in response to forecasted air quality. Data on asthma hospital admissions were merged with observed and forecasted air quality and meteorological data at the daily level for the years 1989–1997. Accounting for potential responses to information about pollution leads to significantly larger estimates of the relationship between ozone concentrations and asthma hospital admissions, particularly for susceptible populations. Individuals take substantial actions to reduce exposure to ozone.
+
+
+Where can the daily AQI be found?
+In many areas, the local media - newspapers, television and radio - will provide AQI reports telling the public when ozone levels are predicted to be unhealthy. These reports generally occur during the weather forecasts. Some national media, such as USA Today, The Weather Channel, and CNN also provide daily air quality reports.
+
+nickwalker
+Figure 16: Nick Walker of The Weather Channel giving an air quality forecast. Look for the AQI with your daily weather report.
+
+Find your local air quality forecast. Air quality forecasts and real-time air quality information can be found on EPA's AirNow website. Ozone air quality forecasts for more than 350 cities across the country are posted daily by 4:30 PM during the summertime ozone season.
+
+forecast aqi
+Figure 17: AQI forecast map. Same-day and next-day air quality forecasts for the United States can be found at https://www.airnow.gov. This on-line map shows forecasts for various pollutants by location. State and local agencies continually provide data for the forecasts, which are based on EPA's Air Quality Index (AQI). Clicking a spot on the actual forecast map links you to Web sites with information about air pollution in that location.  
+
+How can my patients get the daily AQI delivered to their email inbox?
+EnviroFlash is a system that sends e-mails about your daily air quality forecast, including alerts when there are unusual air quality events such as wildfires. The message is the same air quality information that the local radio or television stations provide, plus suggested safety measures when levels are unhealthy. This service is provided by state or local environmental agencies and the US Environmental Protection Agency. You can tell if a particular area participates in EnviroFlash by entering the zip code in the specified field on the sign-up page. More information about this free service can be found at www.enviroflash.info.
+
+
+Where can I get more information?
+Along with air quality forecasts and real-time air quality information, at the AIRNow Web site (www.airnow.gov) there are patient information materials you can use in your practice. Your patients can find information about the health effects of ground-level ozone, as well as other pollutants such as particle pollution, and information about the AQI. There is even a webpage for elementary school-aged children that includes a guide for teachers. These are also available in the Patient Education section of this course.
+
+PREVIOUS    |    NEXT
+Course Home
+About this Course
+What is Ozone?
+Health Effects in the General Population
+Health Effects in Patients with Asthma
+Patient Exposure and the Air Quality Index
+Clinical Scenarios
+Frequent Questions
+Course Outline & Key Points
+Review Questions
+Course Evaluation
+Patient Education Tools
+References
+Participation Certicate
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON NOVEMBER 30, 2023
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.

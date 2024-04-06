@@ -1,0 +1,182 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of elife
+eLife. 2021; 10: e74331. Published online 2021 Nov 17. doi: 10.7554/eLife.74331
+PMCID: PMC8598159PMID: 34787080
+No fire without smoke (particles)
+Stephanie M Holm1* and John Balmes1*
+Author information Copyright and License information PMC Disclaimer
+See the article "Exposure to landscape fire smoke reduced birthweight in low- and middle-income countries: findings from a siblings-matched case-control study" in volume 10, e69298.
+Go to:
+Abstract
+Pollution from landscape fires, which are increasing with climate change, leads to babies being born with lower birthweights in low- and middle-income countries.
+
+Research organism: Human
+Related research article Li J, Guan T, Guo Q, Geng G, Wang H, Guo F, Li J, Xue T. 2021. Exposure to landscape fire smoke reduced birthweight in low- and middle-income countries: findings from a siblings-matched case-control study. eLife 10:e69298. doi: 10.7554/eLife.69298
+
+Babies who are born with low birthweight (less than 2,500 g) or very low birthweight (less than 1,500g) are at risk of early postnatal complications, developmental problems during childhood, and additional diseases throughout their lifetime. Low birthweight is unfortunately very common, especially in low- and middle-income countries, where over 90% of low birth-weight babies are born (Blencowe et al., 2019). Because low birthweight is a global public health issue of major importance, the World Health Organization has made reducing its incidence one of its 2025 global targets. This is also a United Nations Sustainable Development Goal (World Health Organization, 2014).
+
+While poverty – with associated malnutrition and infections – is likely the greatest cause of low birthweight in low- and middle-income countries, exposure to toxic agents in the environment can also contribute. Exposure to air pollution has previously been linked to both low birthweight and premature births (Li et al., 2017), especially air pollution due to particulate matter measuring less than 2.5 microns in diameter (PM2.5). By comparison, the diameter of a human hair is about 60 microns. PM2.5 particles are small enough to be inhaled deep into the lungs, where they can injure the delicate air sacs, and even cross into the bloodstream and cause issues in other organs. Most of the research on exposure to PM2.5 and low birthweight focuses on urban air pollution rather than on landscape fire smoke, which includes wildfires, deforestation fires, and burning of agricultural crop residues.
+
+Climate change and deliberate deforestation have both contributed to a marked increase in large landscape fires in recent years (Hantson et al., 2017). The smoke from these fires contains many toxic agents, including PM2.5, and can lead to poor air quality over wide regions downwind from the fires. Now in eLife, Tao Xue from the Peking University Health Science Center and colleagues from the Peking Union Medical College, the University of Science and Technology Beijing, Tsinghua University and Zheijang University – with Jiajianghui Li and Tianjia Guan as joint first authors – report on how PM2.5 from landscape fires contributes to low birthweight in low and middle-income countries (Li et al., 2021).
+
+Li et al., 2021 collected information on almost 228,000 babies born between 2000 and 2014 in 54 low- and middle-income countries. Birthweight data and individual characteristics came from demographic and health Surveys. Exposure to landscape fire PM2.5 during pregnancy was assessed through a sophisticated approach known as a chemical transport model (Xue et al., 2021), which was evaluated by comparing it to another well-known satellite-based approach (van Donkelaar et al., 2016). A chemical transport model uses information about pollutant emissions and atmospheric conditions to model the levels of different air pollutants, while the satellite approach uses satellite imagery to approximate the concentration of particles in the air. Li et al. then used a study design called a ‘sibling-matched case-control’, where babies are compared to their less exposed siblings, to study the association between landscape fire PM2.5 and birthweight, including the specific categories of low and very low birthweight. This design allows researchers to control for many of the complex factors that affect birthweight, including genetics, socioeconomic status, and quality of local health care, which can be difficult to measure.
+
+Li et al. found that exposure to landscape PM2.5 during pregnancy meant babies had lower birthweights on average, and also that more babies met the criteria for low birthweight and very low birthweight (Figure 1). The association was stronger for female babies, first-born babies, and babies born to unemployed mothers. Moreover, babies born to families that had already had children with low average birthweights were most at risk. Li et al. controlled for multiple factors that might have led to bias in their results, including maternal age, child sex, multiple births, non-landscape fire PM2.5, birth order, temperature, humidity, month and year of birth, and country. Much of the effect of landscape fire PM2.5 was found in Sub-Saharan Africa, where approximately half of the babies were born, suggesting that other factors may have larger contributions to lower birthweights in other regions.
+
+An external file that holds a picture, illustration, etc.
+Object name is elife-74331-fig1.jpg
+Figure 1.
+Schematic representation of Li et al.'s findings.
+From the left, clockwise: (1) Landscape fires release particulate matter into the air, including particles measuring less than 2.5 microns in diameter (PM2.5). A magnifying glass shows how much smaller these particles are compared to the width of a strand of human hair (these particles are 2.5 microns or smaller; a hair is 60 microns) (2) Breathing in these tiny particles during pregnancy draws the particles deep into the lungs, where they lead to irritation and inflammation and enter the bloodstream affecting other organs, as well as the growing fetus. (3) When the baby is born, it weighs less than its siblings, who were exposed to lower levels of PM2.5 during pregnancy.
+
+This study has many strengths, including a large study population, information on individual maternal characteristics, a sophisticated approach to assessing landscape fire PM2.5 exposure, and careful data analysis. The results are consistent with several smaller studies from high-income countries (Holstius et al., 2012; Cândido da Silva et al., 2014; Abdo et al., 2019). Perhaps the most impactful contribution of Li et al. is the focus on exposure to landscape fire PM2.5 in low and middle-income countries.
+
+Despite its strengths, the study has several limitations. The survey data used did not have information on the date of conception, so a uniform nine month pregnancy period was used in the analysis. However, babies with low birthweights sometimes have shorter gestations, which would mean the exposure to landscape fire PM2.5 could have been underestimated for these babies. Another limitation is that the study relies on the mothers’ memory of the babies’ birthweights, rather than measurement. This could be an issue because recollection of birthweight can be influenced by how ill or healthy a child has been.
+
+Exposure to landscape fire smoke frequently occurs in low-resource settings, which already have many risk factors for low birthweight. For this reason, it is important to implement policies to reduce the additional risk secondary to PM2.5 from landscape fires. Such policies include the promotion of alternative agricultural practices to reduce deforestation and burning of crop residue; better forest management to decrease fuel buildup; and climate change mitigation actions that incentivize clean transportation and renewable power generation. According to Li et al.’s results, these measures could help mitigate low birthweights due to PM2.5 in low to middle-income countries where these particles are mostly released by landscape fires, rather than other types of air pollution.
+
+Go to:
+Biographies
+• 
+Stephanie M Holm is in the Department of Medicine, University of California, San Francisco, San Francisco, United States
+
+• 
+John Balmes is in the Department of Medicine, University of California, San Francisco, San Francisco, United States
+
+Go to:
+Competing interests
+No competing interests declared.
+
+Go to:
+References
+Abdo M, Ward I, O’Dell K, Ford B, Pierce JR, Fischer EV, Crooks JL. Impact of wildfire smoke on adverse pregnancy outcomes in Colorado, 2007-2015. International Journal of Environmental Research and Public Health. 2019;16:E3720. doi: 10.3390/ijerph16193720. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Blencowe H, Krasevec J, de Onis M, Black RE, An X, Stevens GA, Borghi E, Hayashi C, Estevez D, Cegolon L, Shiekh S, Ponce Hardy V, Lawn JE, Cousens S. National, regional, and worldwide estimates of low birthweight in 2015, with trends from 2000: a systematic analysis. The Lancet Global Health. 2019;7:e849–e860. doi: 10.1016/S2214-109X(18)30565-5. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Cândido da Silva AM, Moi GP, Mattos IE, Hacon S. Low birth weight at term and the presence of fine particulate matter and carbon monoxide in the Brazilian Amazon: a population-based retrospective cohort study. BMC Pregnancy and Childbirth. 2014;14:309. doi: 10.1186/1471-2393-14-309. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Hantson S, Scheffer M, Pueyo S, Xu C, Lasslop G, van Nes EH, Holmgren M, Mendelsohn J. Rare, intense, big fires dominate the global tropics under drier conditions. Scientific Reports. 2017;7:14374. doi: 10.1038/s41598-017-14654-9. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Holstius DM, Reid CE, Jesdale BM, Morello-Frosch R. Birth weight following pregnancy during the 2003 Southern California wildfires. Environmental Health Perspectives. 2012;120:1340–1345. doi: 10.1289/ehp.1104515. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Li X, Huang S, Jiao A, Yang X, Yun J, Wang Y, Xue X, Chu Y, Liu F, Liu Y, Ren M, Chen X, Li N, Lu Y, Mao Z, Tian L, Xiang H. Association between ambient fine particulate matter and preterm birth or term low birth weight: an updated systematic review and meta-analysis. Environmental Pollution. 2017;227:596–605. doi: 10.1016/j.envpol.2017.03.055. [PubMed] [CrossRef] [Google Scholar]
+Li J, Guan T, Guo Q, Geng G, Wang H, Guo F, Li J, Xue T. Exposure to landscape fire smoke reduced birthweight in low- and middle-income countries: findings from a siblings-matched case-control study. eLife. 2021;10:e69298. doi: 10.7554/eLife.69298. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+van Donkelaar A, Martin RV, Brauer M, Hsu NC, Kahn RA, Levy RC, Lyapustin A, Sayer AM, Winker DM. Global estimates of fine particulate matter using a combined geophysical-statistical method with information from satellites, models, and monitors. Environmental Science & Technology. 2016;50:3762–3772. doi: 10.1021/acs.est.5b05833. [PubMed] [CrossRef] [Google Scholar]
+World Health Organization Global nutrition targets 2025: low birth weight policy brief. 2014. [October 19, 2021]. https://www.who.int/publications/i/item/WHO-NMH-NHD-14.5
+Xue T, Geng G, Li J, Han Y, Guo Q, Kelly FJ, Wooster MJ, Wang H, Jiangtulu B, Duan X, Wang B, Zhu T. Associations between exposure to landscape fire smoke and child mortality in low-income and middle-income countries: a matched case-control study. The Lancet. Planetary Health. 2021;5:e588–e598. doi: 10.1016/S2542-5196(21)00153-4. [PubMed] [CrossRef] [Google Scholar]
+Articles from eLife are provided here courtesy of eLife Sciences Publications, Ltd
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of elife
+eLife. 2021; 10: e74331. Published online 2021 Nov 17. doi: 10.7554/eLife.74331
+PMCID: PMC8598159PMID: 34787080
+No fire without smoke (particles)
+Stephanie M Holm1* and John Balmes1*
+Author information Copyright and License information PMC Disclaimer
+See the article "Exposure to landscape fire smoke reduced birthweight in low- and middle-income countries: findings from a siblings-matched case-control study" in volume 10, e69298.
+Go to:
+Abstract
+Pollution from landscape fires, which are increasing with climate change, leads to babies being born with lower birthweights in low- and middle-income countries.
+
+Research organism: Human
+Related research article Li J, Guan T, Guo Q, Geng G, Wang H, Guo F, Li J, Xue T. 2021. Exposure to landscape fire smoke reduced birthweight in low- and middle-income countries: findings from a siblings-matched case-control study. eLife 10:e69298. doi: 10.7554/eLife.69298
+
+Babies who are born with low birthweight (less than 2,500 g) or very low birthweight (less than 1,500g) are at risk of early postnatal complications, developmental problems during childhood, and additional diseases throughout their lifetime. Low birthweight is unfortunately very common, especially in low- and middle-income countries, where over 90% of low birth-weight babies are born (Blencowe et al., 2019). Because low birthweight is a global public health issue of major importance, the World Health Organization has made reducing its incidence one of its 2025 global targets. This is also a United Nations Sustainable Development Goal (World Health Organization, 2014).
+
+While poverty – with associated malnutrition and infections – is likely the greatest cause of low birthweight in low- and middle-income countries, exposure to toxic agents in the environment can also contribute. Exposure to air pollution has previously been linked to both low birthweight and premature births (Li et al., 2017), especially air pollution due to particulate matter measuring less than 2.5 microns in diameter (PM2.5). By comparison, the diameter of a human hair is about 60 microns. PM2.5 particles are small enough to be inhaled deep into the lungs, where they can injure the delicate air sacs, and even cross into the bloodstream and cause issues in other organs. Most of the research on exposure to PM2.5 and low birthweight focuses on urban air pollution rather than on landscape fire smoke, which includes wildfires, deforestation fires, and burning of agricultural crop residues.
+
+Climate change and deliberate deforestation have both contributed to a marked increase in large landscape fires in recent years (Hantson et al., 2017). The smoke from these fires contains many toxic agents, including PM2.5, and can lead to poor air quality over wide regions downwind from the fires. Now in eLife, Tao Xue from the Peking University Health Science Center and colleagues from the Peking Union Medical College, the University of Science and Technology Beijing, Tsinghua University and Zheijang University – with Jiajianghui Li and Tianjia Guan as joint first authors – report on how PM2.5 from landscape fires contributes to low birthweight in low and middle-income countries (Li et al., 2021).
+
+Li et al., 2021 collected information on almost 228,000 babies born between 2000 and 2014 in 54 low- and middle-income countries. Birthweight data and individual characteristics came from demographic and health Surveys. Exposure to landscape fire PM2.5 during pregnancy was assessed through a sophisticated approach known as a chemical transport model (Xue et al., 2021), which was evaluated by comparing it to another well-known satellite-based approach (van Donkelaar et al., 2016). A chemical transport model uses information about pollutant emissions and atmospheric conditions to model the levels of different air pollutants, while the satellite approach uses satellite imagery to approximate the concentration of particles in the air. Li et al. then used a study design called a ‘sibling-matched case-control’, where babies are compared to their less exposed siblings, to study the association between landscape fire PM2.5 and birthweight, including the specific categories of low and very low birthweight. This design allows researchers to control for many of the complex factors that affect birthweight, including genetics, socioeconomic status, and quality of local health care, which can be difficult to measure.
+
+Li et al. found that exposure to landscape PM2.5 during pregnancy meant babies had lower birthweights on average, and also that more babies met the criteria for low birthweight and very low birthweight (Figure 1). The association was stronger for female babies, first-born babies, and babies born to unemployed mothers. Moreover, babies born to families that had already had children with low average birthweights were most at risk. Li et al. controlled for multiple factors that might have led to bias in their results, including maternal age, child sex, multiple births, non-landscape fire PM2.5, birth order, temperature, humidity, month and year of birth, and country. Much of the effect of landscape fire PM2.5 was found in Sub-Saharan Africa, where approximately half of the babies were born, suggesting that other factors may have larger contributions to lower birthweights in other regions.
+
+An external file that holds a picture, illustration, etc.
+Object name is elife-74331-fig1.jpg
+Figure 1.
+Schematic representation of Li et al.'s findings.
+From the left, clockwise: (1) Landscape fires release particulate matter into the air, including particles measuring less than 2.5 microns in diameter (PM2.5). A magnifying glass shows how much smaller these particles are compared to the width of a strand of human hair (these particles are 2.5 microns or smaller; a hair is 60 microns) (2) Breathing in these tiny particles during pregnancy draws the particles deep into the lungs, where they lead to irritation and inflammation and enter the bloodstream affecting other organs, as well as the growing fetus. (3) When the baby is born, it weighs less than its siblings, who were exposed to lower levels of PM2.5 during pregnancy.
+
+This study has many strengths, including a large study population, information on individual maternal characteristics, a sophisticated approach to assessing landscape fire PM2.5 exposure, and careful data analysis. The results are consistent with several smaller studies from high-income countries (Holstius et al., 2012; Cândido da Silva et al., 2014; Abdo et al., 2019). Perhaps the most impactful contribution of Li et al. is the focus on exposure to landscape fire PM2.5 in low and middle-income countries.
+
+Despite its strengths, the study has several limitations. The survey data used did not have information on the date of conception, so a uniform nine month pregnancy period was used in the analysis. However, babies with low birthweights sometimes have shorter gestations, which would mean the exposure to landscape fire PM2.5 could have been underestimated for these babies. Another limitation is that the study relies on the mothers’ memory of the babies’ birthweights, rather than measurement. This could be an issue because recollection of birthweight can be influenced by how ill or healthy a child has been.
+
+Exposure to landscape fire smoke frequently occurs in low-resource settings, which already have many risk factors for low birthweight. For this reason, it is important to implement policies to reduce the additional risk secondary to PM2.5 from landscape fires. Such policies include the promotion of alternative agricultural practices to reduce deforestation and burning of crop residue; better forest management to decrease fuel buildup; and climate change mitigation actions that incentivize clean transportation and renewable power generation. According to Li et al.’s results, these measures could help mitigate low birthweights due to PM2.5 in low to middle-income countries where these particles are mostly released by landscape fires, rather than other types of air pollution.
+
+Go to:
+Biographies
+• 
+Stephanie M Holm is in the Department of Medicine, University of California, San Francisco, San Francisco, United States
+
+• 
+John Balmes is in the Department of Medicine, University of California, San Francisco, San Francisco, United States
+
+Go to:
+Competing interests
+No competing interests declared.
+
+Go to:
+References
+Abdo M, Ward I, O’Dell K, Ford B, Pierce JR, Fischer EV, Crooks JL. Impact of wildfire smoke on adverse pregnancy outcomes in Colorado, 2007-2015. International Journal of Environmental Research and Public Health. 2019;16:E3720. doi: 10.3390/ijerph16193720. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Blencowe H, Krasevec J, de Onis M, Black RE, An X, Stevens GA, Borghi E, Hayashi C, Estevez D, Cegolon L, Shiekh S, Ponce Hardy V, Lawn JE, Cousens S. National, regional, and worldwide estimates of low birthweight in 2015, with trends from 2000: a systematic analysis. The Lancet Global Health. 2019;7:e849–e860. doi: 10.1016/S2214-109X(18)30565-5. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Cândido da Silva AM, Moi GP, Mattos IE, Hacon S. Low birth weight at term and the presence of fine particulate matter and carbon monoxide in the Brazilian Amazon: a population-based retrospective cohort study. BMC Pregnancy and Childbirth. 2014;14:309. doi: 10.1186/1471-2393-14-309. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Hantson S, Scheffer M, Pueyo S, Xu C, Lasslop G, van Nes EH, Holmgren M, Mendelsohn J. Rare, intense, big fires dominate the global tropics under drier conditions. Scientific Reports. 2017;7:14374. doi: 10.1038/s41598-017-14654-9. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Holstius DM, Reid CE, Jesdale BM, Morello-Frosch R. Birth weight following pregnancy during the 2003 Southern California wildfires. Environmental Health Perspectives. 2012;120:1340–1345. doi: 10.1289/ehp.1104515. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+Li X, Huang S, Jiao A, Yang X, Yun J, Wang Y, Xue X, Chu Y, Liu F, Liu Y, Ren M, Chen X, Li N, Lu Y, Mao Z, Tian L, Xiang H. Association between ambient fine particulate matter and preterm birth or term low birth weight: an updated systematic review and meta-analysis. Environmental Pollution. 2017;227:596–605. doi: 10.1016/j.envpol.2017.03.055. [PubMed] [CrossRef] [Google Scholar]
+Li J, Guan T, Guo Q, Geng G, Wang H, Guo F, Li J, Xue T. Exposure to landscape fire smoke reduced birthweight in low- and middle-income countries: findings from a siblings-matched case-control study. eLife. 2021;10:e69298. doi: 10.7554/eLife.69298. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+van Donkelaar A, Martin RV, Brauer M, Hsu NC, Kahn RA, Levy RC, Lyapustin A, Sayer AM, Winker DM. Global estimates of fine particulate matter using a combined geophysical-statistical method with information from satellites, models, and monitors. Environmental Science & Technology. 2016;50:3762–3772. doi: 10.1021/acs.est.5b05833. [PubMed] [CrossRef] [Google Scholar]
+World Health Organization Global nutrition targets 2025: low birth weight policy brief. 2014. [October 19, 2021]. https://www.who.int/publications/i/item/WHO-NMH-NHD-14.5
+Xue T, Geng G, Li J, Han Y, Guo Q, Kelly FJ, Wooster MJ, Wang H, Jiangtulu B, Duan X, Wang B, Zhu T. Associations between exposure to landscape fire smoke and child mortality in low-income and middle-income countries: a matched case-control study. The Lancet. Planetary Health. 2021;5:e588–e598. doi: 10.1016/S2542-5196(21)00153-4. [PubMed] [CrossRef] [Google Scholar]
+Articles from eLife are provided here courtesy of eLife Sciences Publications, Ltd
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

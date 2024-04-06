@@ -1,0 +1,74 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of ajrccm
+Am J Respir Crit Care Med. 2022 Feb 15; 205(4): 384–385. Published online 2022 Jan 10. doi: 10.1164/rccm.202112-2733ED
+PMCID: PMC8886953PMID: 35007495
+Long-Term Exposure to Ozone and Small Airways: A Large Impact?
+John R. Balmes 1 , 2
+Author information Copyright and License information PMC Disclaimer
+See the article "Long-term Ozone Exposure and Small Airways Dysfunction: The China Pulmonary Health (CPH) Study." with 34813411.
+Ozone is perhaps the best studied air pollutant in terms of acute respiratory effects, and review of recent evidence confirms that short-term exposure is associated with acute decrements in lung function (1). In fact, the National Ambient Air Quality Standard for ozone promulgated by the U.S. Environmental Protection Agency is based primarily on evidence from multiple controlled human-exposure studies conducted over the past several decades showing acute decrements in lung function (2). Multihour ozone concentrations of 80 ppb or higher consistently produce significant decreases in FEV1 and FVC in healthy adults that typically resolve within 24 hours (1, 2). Multiple epidemiological studies have also demonstrated acute decrements in spirometric lung function with real-world exposures during exercise (1–4). Despite the robust human experimental and epidemiological evidence of the acute effects of short-term ozone exposure on lung function, the evidence for chronic effects of long-term exposure to higher concentrations of ozone is relatively sparse and less clear. Such evidence by necessity must come from epidemiological studies.
+
+Perhaps the best study of chronic exposure to air pollution on growth of lung function, the Children’s Health Study conducted in southern California, revealed detrimental effects of annual average exposure to fine particulate matter (particulate matter ⩽2.5 μm in aerodynamic diameter) and nitrogen dioxide but surprisingly not to ozone (5). In contrast, a similar longitudinal study of children in Mexico City did demonstrate a significant detrimental effect of chronic exposure to ozone on growth of lung function (6). Other more recent studies have shown adverse effects of long-term exposure to ozone on lung function in children (7, 8).
+
+Several studies in young adults have shown associations between lifetime cumulative exposure to ozone and decreased lung function parameters consistent with small airway obstruction. Two such studies involved college students in the United States, one involving Yale freshmen and 10-year average summer-season daily 1-hour maximum ozone concentrations in the region of their home residence (9) and the other involving University of California, Berkeley, freshmen from southern California (high ozone) and northern California (low ozone) (10). Both of these studies revealed an association with living in higher ozone regions before enrollment at students’ respective schools and reduced lung function, including forced expiratory flow at 25–75% of FVC (FEF25–75) and FEF at 75% of FVC (FEF75).
+
+Until recently, very few data were available on the potential effects of long-term ozone exposure on lung function in older adults. In this issue of the Journal, Niu and colleagues (pp. 450–458) report the results of one of the first studies to specifically address this data gap (11). This study from China has several strengths, including a sample size of more than 50,000 adults older than 20 years, reasonable ozone exposure assessment at the residential level, adjustment for coexposure to particulate matter ⩽2.5 μm in aerodynamic diameter (PM2.5) and other covariates, good-quality spirometry enabling assessment of parameters associated with small airway obstruction, and appropriate sensitivity analyses, including adjustment for short-term exposure to ozone. The primary finding of interest is the association of the seasonal average residential ozone concentration of the previous warm season (May to October) and “small airway dysfunction,” defined as decreased values of two of the three parameters FEF50, FEF75, and FEF25–75. This finding is consistent with the results of the two U.S. college freshmen studies described above.
+
+Niu and colleagues’ study is not without limitations. First and foremost, like the U.S. college freshmen studies, it used a cross-sectional design that limits causal inference. The authors of the present study indicate that they will be following the study cohort in the future, and the results of a longitudinal analysis of ozone exposure on change in lung function will be of considerable interest. In addition, like most studies of air pollution health effects that rely on outdoor air concentrations, either measured or modeled, there is likely exposure misclassification given variable time study participants spend outdoors. That said, the exposure measurement error in Niu and colleagues’ study is likely nondifferential and thus may bias the results toward the null.
+
+An interesting secondary finding of Niu and colleagues’ study is an enhanced effect of long-term ozone exposure on small airway obstruction among participants with chronic obstructive pulmonary disease. This finding is somewhat consistent with the results of a reasonably large cohort study conducted between 2000 and 2018 in six U.S. metropolitan regions showing that long-term exposure to ambient ozone was significantly associated with both increasing emphysema assessed quantitatively using computed tomography imaging and decreased FEV1 (12).
+
+In terms of biological plausibility, long-term exposure of infant rhesus monkeys to ozone has been shown to cause structural changes in small airway and lung development (13). Compared with control infants, ozone-exposed animals had fewer nonalveolarized airway generations, hyperplastic bronchiolar epithelium, and altered smooth muscle bundle orientation in terminal and respiratory bronchioles. The results of this rhesus monkey study support the findings of the U.S. college freshmen studies showing an association between long-term ozone exposure and spirometric parameters consistent with small airway obstruction in young adults. The results of Niu and colleagues’ study suggest that these small airway effects persist later in adulthood. The clinical impact of these effects is not entirely clear, but the effect modification observed in individuals with chronic obstructive pulmonary disease may be an indicator of greater risk among those with preexisting respiratory conditions, consistent with recent evidence that small airway obstruction is a predictor of accelerated decline in FEV1 (14).
+
+Go to:
+Footnotes
+Originally Published in Press as DOI: 10.1164/rccm.202112-2733ED on January 10, 2022
+
+Author disclosures are available with the text of this article at www.atsjournals.org.
+
+Go to:
+References
+1. Holm SM, Balmes JR. Systematic review of ozone effects on human lung function, 2013 through 2020. Chest . 2022;161:190–201. [PMC free article] [PubMed] [Google Scholar]
+2. U.S. Environmental Protection Agency. Washington, DC: U.S. Environmental Protection Agency; 2020. Integrated science assessment (ISA) for ozone and related photochemical oxidants (final report, Apr 2020) [Google Scholar]
+3. Kinney PL, Ware JH, Spengler JD, Dockery DW, Speizer FE, Ferris BG., Jr Short-term pulmonary function change in association with ozone levels. Am Rev Respir Dis . 1989;139:56–61. [PubMed] [Google Scholar]
+4. Kinney PL, Thurston GD, Raizenne M. The effects of ambient ozone on lung function in children: a reanalysis of six summer camp studies. Environ Health Perspect . 1996;104:170–174. [PMC free article] [PubMed] [Google Scholar]
+5. Gauderman WJ, Avol E, Gilliland F, Vora H, Thomas D, Berhane K, et al. The effect of air pollution on lung development from 10 to 18 years of age. N Engl J Med . 2004;351:1057–1067. [PubMed] [Google Scholar]
+6. Rojas-Martinez R, Perez-Padilla R, Olaiz-Fernandez G, Mendoza-Alvarado L, Moreno-Macias H, Fortoul T, et al. Lung function growth in children with long-term exposure to air pollutants in Mexico City. Am J Respir Crit Care Med . 2007;176:377–384. [PubMed] [Google Scholar]
+7. Hwang BF, Chen YH, Lin YT, Wu XT, Leo Lee Y. Relationship between exposure to fine particulates and ozone and reduced lung function in children. Environ Res . 2015;137:382–390. [PubMed] [Google Scholar]
+8. Chen CH, Chan CC, Chen BY, Cheng TJK, Leon Guo Y. Effects of particulate air pollution and ozone on lung function in non-asthmatic children. Environ Res . 2015;137:40–48. [PubMed] [Google Scholar]
+9. Galizia A, Kinney PL. Long-term residence in areas of high ozone: associations with respiratory health in a nationwide sample of nonsmoking young adults. Environ Health Perspect. 1999;107:675–679. [PMC free article] [PubMed] [Google Scholar]
+10. Tager IB, Balmes J, Lurmann F, Ngo L, Alcorn S, Künzli N. Chronic exposure to ambient ozone and lung function in young adults. Epidemiology . 2005;16:751–759. [PubMed] [Google Scholar]
+11. Niu Y, Yang T, Gu X, Chen R, Meng X, Xu J, et al.China Pulmonary Health Study Group Long-term ozone exposure and small airway dysfunction: the China Pulmonary Health (CPH) study. Am J Respir Crit Care Med . 2022;205:450–458. [PubMed] [Google Scholar]
+12. Wang M, Aaron CP, Madrigano J, Hoffman EA, Angelini E, Yang J, et al. Association between long-term exposure to ambient air pollution and change in quantitatively assessed emphysema and lung function. JAMA . 2019;322:546–556. [PMC free article] [PubMed] [Google Scholar]
+13. Fanucchi MV, Plopper CG, Evans MJ, Hyde DM, Van Winkle LS, Gershwin LJ, et al. Cyclic exposure to ozone alters distal airway development in infant rhesus monkeys. Am J Physiol Lung Cell Mol Physiol . 2006;291:L644–L650. [PubMed] [Google Scholar]
+14. Bhatt SP, Soler X, Wang X, Murray S, Anzueto AR, Beaty TH, et al.COPDGene Investigators Association between functional small airway disease and FEV1 decline in chronic obstructive pulmonary disease. Am J Respir Crit Care Med . 2016;194:178–184. [PMC free article] [PubMed] [Google Scholar]
+Articles from American Journal of Respiratory and Critical Care Medicine are provided here courtesy of American Thoracic Society
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

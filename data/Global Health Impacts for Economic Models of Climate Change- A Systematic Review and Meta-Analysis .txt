@@ -1,0 +1,332 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of annalsats
+Ann Am Thorac Soc. 2022 Jul 1; 19(7): 1203–1212. Published online 2022 Jul 1. doi: 10.1513/AnnalsATS.202110-1193OC
+PMCID: PMC9278641PMID: 35073249
+Global Health Impacts for Economic Models of Climate Change: A Systematic Review and Meta-Analysis
+Kevin R. Cromar,corresponding author 1 , 2 Susan C. Anenberg, 3 John R. Balmes, 4 Allen A. Fawcett, 5 Marya Ghazipura, 1 Julia M. Gohlke, 6 Masahiro Hashizume, 7 Peter Howard, 8 Eric Lavigne, 9 Karen Levy, 10 Jaime Madrigano, 11 Jeremy A. Martinich, 5 Erin A. Mordecai, 12 Mary B. Rice, 13 Shubhayu Saha, 14 Noah C. Scovronick, 15 Fatih Sekercioglu, 16 Erik R. Svendsen, 14 Benjamin F. Zaitchik, 17 and Gary Ewart 18
+Author information Article notes Copyright and License information PMC Disclaimer
+Go to:
+Abstract
+Rationale
+Avoiding excess health damages attributable to climate change is a primary motivator for policy interventions to reduce greenhouse gas emissions. However, the health benefits of climate mitigation, as included in the policy assessment process, have been estimated without much input from health experts.
+
+Objectives
+In accordance with recommendations from the National Academies in a 2017 report on approaches to update the social cost of greenhouse gases (SC-GHG), an expert panel of 26 health researchers and climate economists gathered for a virtual technical workshop in May 2021 to conduct a systematic review and meta-analysis and recommend improvements to the estimation of health impacts in economic-climate models.
+
+Methods
+Regionally resolved effect estimates of unit increases in temperature on net all-cause mortality risk were generated through random-effects pooling of studies identified through a systematic review.
+
+Results
+Effect estimates and associated uncertainties varied by global region, but net increases in mortality risk associated with increased average annual temperatures (ranging from 0.1% to 1.1% per 1°C) were estimated for all global regions. Key recommendations for the development and utilization of health damage modules were provided by the expert panel and included the following: not relying on individual methodologies in estimating health damages; incorporating a broader range of cause-specific mortality impacts; improving the climate parameters available in economic models; accounting for socioeconomic trajectories and adaptation factors when estimating health damages; and carefully considering how air pollution impacts should be incorporated in economic-climate models.
+
+Conclusions
+This work provides an example of how subject-matter experts can work alongside climate economists in making continued improvements to SC-GHG estimates.
+
+Keywords: climate change, economic models, social cost of greenhouse gases, mortality, temperature
+Evaluating the anticipated costs and benefits of any potential policy action is integral to sound policymaking. Effective economic analysis is particularly important for climate-relevant policy analysis due to the complexity of the issue, the range of affected stakeholders, and the varying time periods in which costs and benefits are expected to occur. Federal agencies in the United States began regularly incorporating the social cost of greenhouse gas (SC-GHG) estimates, starting with the social cost of carbon, in benefit-cost analyses conducted under Executive Order (E.O.) 12866 in 2008, which requires a reasoned determination that the benefits of the intended regulation justify its costs (1). The SC-GHG is the monetary value of the net harm to society from all climate change impacts associated with adding a small amount of emissions to the atmosphere in a given year. These estimates allow agencies and organizations to consider the benefits, in dollar terms, of reducing or increasing emissions in the policymaking process.
+
+On January 20, 2021, President Biden issued E.O. 13990, which reestablished the previously disbanded interagency working group (IWG) of the social cost of greenhouse gases and directed it to ensure that SC-GHG estimates used by the federal government reflect the best available science. It also directed the IWG to address recommendations from a recent assessment by the National Academies (2) and work toward approaches that take account of climate risk, environmental justice, and intergenerational equity. In February 2021, the IWG responded to E.O. 13990 by issuing interim estimates of the SC-GHG based on the most recent estimates developed by the IWG prior to the group being disbanded in 2017 (3).
+
+The three reduced-form integrated assessment models (IAMs) currently used by the United States government to generate SC-GHG estimates for use in policy analysis substantially differ in their coverage of health endpoints and representation of impacts in their damage functions. Perhaps even more important than the differences in how health impacts are modeled in these IAMs is the fact the approaches to model health impacts in all three economic-climate models were largely developed without input or evaluation from health experts (4), despite health impacts being one of the primary motivators for climate action.
+
+An assessment by the National Academies (2017) laid out a potential framework for improving the SC-GHG, including recognizing the need to improve the damages module. Within that framework, health researchers can play a key role in helping inform the damages module for health impacts. An improved health damages module is likely to be driven by a global temperature change scenario output by a reduced complexity climate model and can also be influenced by population, gross domestic product, and other socioeconomic outputs by the socioeconomic module. The damages module is expected to produce a monetary estimate of damages by year. However, the SC-GHG process can be informed by analysis units that are less comprehensive than a complete damages module, such as providing improved estimates of exposure-response relationships between temperature and various health outcomes (5).
+
+In advance of developing and publishing fully updated SC-GHG estimates in 2022, the IWG is also seeking public comment on how to incorporate recommendations from the National Academies and other recent science into updated estimates of the SC-GHG. Even after updated SC-GHG estimates are adopted for U.S. policy analysis starting in 2022, there will be an ongoing effort to continue to improve and refine these estimates moving forward.
+
+There are two primary goals of the work reported in this manuscript: generate pooled risk estimates from a formal systematic review to inform updated SC-GHG estimates in 2022 and provide recommendations from an expert panel to inform how health impacts can be better incorporated in SC-GHG estimates moving forward.
+
+Go to:
+Methods
+In line with the recommendations from the National Academies and to inform efforts to update SC-GHG estimates used in U.S. policy analysis, a group of 26 health experts and economists were assembled in May 2021 to review the relevant health literature and make recommendations on how to improve the modeling of health impacts in economic-climate models. Combined sessions of the entire expert panel, as well as independent sessions of four subpanels, were held virtually in May 2021. The four subpanels were convened to review the health literature and discuss key issues as they relate to the development of health damage modules for use in economic-climate models. The four subpanels were organized into the following groups: respiratory health and all-cause mortality; cardiovascular health; enteric and infectious diseases; and economic considerations of health modules. Follow-up meetings and discussions were held by the various members of the subgroups in preparation of the manuscript and the calculation of relevant pooled health damage functions.
+
+A systematic review was conducted from March to June 2021 by trained methodologists (led by coauthor M.G.) to support the expert panel as part of the work of the technical workshop. The objective of this systematic review and the meta-analyses was to assess the impact of temperature change on an array of relevant health outcomes that could potentially inform the development of relevant damage functions for changes in temperature due to greenhouse gas emissions. This review was registered with the PROSPERO database (registration number CRD42021254042) and conducted according to the Cochrane Handbook for Systematic Reviews of Interventions version 6.1 (6). The focus was on all human studies with no regional, temporal, or age restrictions on the population. The exposure of interest was unit changes in temperature that could be calculated down to one-unit increments. Ambient temperature, apparent temperature, outdoor temperature, and dewpoint temperature were key temperature variables included in the search. The comparator was no change in temperature.
+
+The health outcomes of interest were broad and categorized under cardiovascular, respiratory, gastrointestinal, renal, endocrine, neurologic, psychiatric, obstetric, gynecologic, and infectious disease categories. To ensure key health outcomes were not missed, existing air pollution studies focusing on temperature and health were searched, and any outcome variables not already included were extracted. Studies were excluded if they were animal studies with no human subjects, focused on indoor temperature, did not allow a one-unit change in the temperature variable to be calculated based on provided data, or did not include health outcomes.
+
+The literature search for the systematic review was conducted across MEDLINE, EMBASE, Inspec, and Compendex databases with the assistance of a trained medical librarian. All the studies were screened independently by two individuals, from the title and abstract screen to the full-text review, with disagreements resolved by consensus. Additionally, the initial literature search was presented to an assembled group of health experts for further review. They verified each included study met the eligibility criteria and added additional studies for inclusion that were not initially captured. Temperature and health outcomes data were then extracted from the studies selected for inclusion, with effect estimates converted to simplified linear functions to reflect health outcomes associated with a one-unit change in temperature when necessary. Some identified studies could not be included due to an inability to extract nonlinear functions in ways that were consistent with the goals of the analysis.
+
+A total of 1,134 studies (1,032 studies after duplicates were removed) were initially identified through Covidence (systematic review management software). After screening and review for eligibility and following additional records added through expert suggestion and manually through reference searches, there were a total of 473 studies that received full-text reviews, of which 92 were excluded based on inclusion/exclusion criteria which resulted in 381 studies that were evaluated in evidence profiles. These studies were organized by health endpoint (112 studies for cardiovascular, 164 for infectious diseases, 78 for general/respiratory, and 90 studies for all other health endpoints) and were a useful resource for the expert panel to review in developing recommendations for the development of future health modules. A flowchart based on PRISMA recommendations is shown in the online supplement.
+
+Normalized data from individual studies were pooled for meta-analyses when possible using the generic inverse variance method calculated using R v.4.1.0. Random-effects models were used to pool individual effect estimates. The results for binary outcomes were reported using relative risk scores, and continuous outcomes were reported using mean differences, with each accompanied by a 95% confidence interval. The I2 test was used to assess statistical heterogeneity, with I2 of 50% or higher indicating significant heterogeneity.
+
+The increase in mortality risks associated with increased high temperatures is offset to some degree by decreases in mortality risks observed for increases in low temperatures (7, 8). Fewer studies that met the inclusion criteria were available that evaluated this dynamic compared with studies focused on increases in high temperatures; however, those studies that evaluated both increases in high and low temperatures (9–18) were used to estimate a net change in all-cause mortality risk. In regions of the world where this dynamic was understudied, the average ratio of the magnitude of decreased to increased mortality risk across all regions was used to estimate the net change.
+
+Given the current availability of baseline health statistics of existing economic models used in estimating the SC-GHG, the pooled health damages in this report primarily focus on all-cause mortality impacts despite many other cause-specific mortality and morbidity health impacts that should be considered for inclusion in future generations of SC-GHG estimates. The analysis is also limited to temperature impacts on health outcomes as temperature is the only meteorology variable currently available in economic-climate models. Regionally resolved health functions are provided when sufficient studies are available with some extrapolation required for understudied regions. While pooled estimates were not included for the other health endpoints reviewed during the virtual workshop, the consideration of the broader range of studies compiled in the systematic review was an essential part of developing the recommendations for the future development of health modules.
+
+Go to:
+Results
+Limitations in the temperature parameter available in climate modules used in economic-climate models (19) informed the choice of studies to include in random-effects pooling analysis. It was also limited to studies with extractable damage functions reporting linear associations based on unit changes in temperature. To determine the effect of increased temperatures on increased mortality risks across a broad range of temperatures, 33 unique studies were judged to be appropriate for pooling for all-cause mortality (9–18, 20–42). For decreased all-cause mortality risk due to increases in cooler temperatures, 14 unique studies were judged to be appropriate for pooling (9–18, 32, 43–45). There were 14 studies of cardiovascular mortality (10, 11, 16, 28, 32, 34, 36, 38, 46–51) and 9 studies for respiratory mortality (10, 28, 32, 34, 36, 46, 49–51) that were considered for pooling in select regions to compare effect estimates for all-cause mortality with cause-specific mortality risks.
+
+Panel members agreed that it is preferable to have separate damage functions based on geographic region to account for differences in climate, socioeconomic conditions, and baseline health risks. Figure 1 shows forest plots for the regionally resolved estimates of increased all-cause mortality risks. Table 1 contains the coefficients and standard errors normalized for 1°C increases in temperature for these same pooled estimates. Some variation in the significant effect sizes is observed across regions, from a 1.0% (0.3–1.6%) increase in all-cause mortality risk per 1°C increase in temperature in Latin America and 1.3% (0.4–2.2%) in Africa to 4.5% (−1.3 to 10.7%) in the Middle East/North Africa (MENA) region. The increased risk in all-cause mortality in Europe was observed to be slightly less (1.6% [1.1–2.1%]) than observed in Eastern Europe (2.2% [1.6–2.9%]), South Asia (2.2% [−1.3 to 5.7%]), United States (2.2% [0.9–3.5%]), Australia (2.5% [0.9–4.1%]), and East Asia (2.5% [1.8–3.3%]). There was significant heterogeneity observed between studies for all regions except for Africa.
+
+An external file that holds a picture, illustration, etc.
+Object name is AnnalsATS.202110-1193OCf1.jpg
+Figure 1.
+Forest plots of increased all-cause mortality risk associated with an increase in ambient temperatures (1°C) by region. Red squares indicate the central estimate, and the black lines represent the 95% confidence interval. Summary details for each region can be found in Table 1. CI = confidence interval; df = degree of freedom; I2 = heterogeneity index; IV = inverse variance; MENA = Middle East/North Africa; SE = standard error; TE = treatment effect.
+
+Table 1.
+Pooled effect estimates for increased temperature (1°C) on increased all-cause mortality risk by region
+
+Region	Unique Studies (n)	Pooled Coefficient	Pooled SE	Pooled Risk Estimate	Pooled Lower CI	Pooled Upper CI	Tau2	I2 (%)
+Latin America	1	0.010	0.0032	1.010	1.003	1.016	NA	NA
+Africa	2	0.013	0.0045	1.013	1.004	1.022	<0.0001	19
+Europe	12	0.016	0.0024	1.016	1.011	1.021	<0.0001	92
+South Asia	3	0.021	0.018	1.022	0.987	1.057	0.0006	80
+United States	7	0.022	0.0065	1.022	1.009	1.035	0.0003	93
+Eastern Europe	1	0.022	0.0033	1.022	1.016	1.029	NA	NA
+Australia	1	0.025	0.0080	1.025	1.009	1.041	NA	NA
+East Asia	6	0.025	0.0039	1.025	1.018	1.033	<0.0001	94
+MENA	3	0.044	0.029	1.045	0.987	1.107	0.0022	84
+Open in a separate window
+Definition of abbreviations: CI = confidence interval; I2 = heterogeneity index; MENA = Middle East/North Africa; NA = not available; SE = standard error.
+
+See Figure 1 for a listing of studies included in these pooled estimates. Significant heterogeneity between studies was observed for all regions except Africa.
+
+There was some consistency observed across multiple global regions for the relationship between increased and decreased mortality risks due to increases in high and low temperatures, as shown in Table 2. The ratio of the magnitude of decreased to increased mortality risk ranged from 0.25 in the MENA region to 0.55 in Europe. The ratio of these same magnitudes observed in the United States (0.31), East Asia (0.31), and Eastern Europe (0.32) regions were highly similar. These results were determined by using the effect estimates from the same studies in each region for both increased and decreased mortality risks and, as a result, have different pooled estimates than in Table 1.
+
+Table 2.
+Comparison of increased and decreased all-cause mortality risk for increased temperatures (1°C) by region
+
+Region	Health Endpoint	Direction	Pooled Coefficient	Pooled SE	Decrease/Increase Ratio
+Europe	All-cause mortality	Decrease	0.0066	0.0030	0.55
+Europe	All-cause mortality	Increase	0.012	0.0022	 
+United States	All-cause mortality	Decrease	0.0075	0.0032	0.31
+United States	All-cause mortality	Increase	0.024	0.011	 
+East Asia	All-cause mortality	Decrease	0.010	0.00071	0.31
+East Asia	All-cause mortality	Increase	0.034	0.0022	 
+Eastern Europe	All-cause mortality	Decrease	0.0070	0.00091	0.32
+Eastern Europe	All-cause mortality	Increase	0.022	0.0033	 
+MENA	All-cause mortality	Decrease	0.029	0.0047	0.25
+MENA	All-cause mortality	Increase	0.12	0.031	 
+Open in a separate window
+Definition of abbreviations: MENA = Middle East/North Africa; SE = standard error.
+
+These values differ from those in Table 1 due to only including studies in which both increased and decreased mortality risks are modeled in the same study. For application purposes, it is assumed that threshold temperatures occur near the median temperature for each region.
+
+Currently, there are not large numbers of studies across all global regions that assess the impact of both decreased and increased mortality risks across a broad range of ambient temperature values. As a result, for purposes of providing net changes in mortality risk for a broader range of global regions in which fewer studies of decreased mortality risk are available, the distribution of ratios between increased and decreased mortality risk was applied to generate estimates of net temperature risks. The average ratio of the magnitude of decreased to increased mortality risk of 0.36 was applied for other, understudied global regions. For application purposes, this assumes a threshold temperature near the median temperature for each region. An example of the net change in all-cause mortality risk for a unit change in temperature is shown by region in Table 3.
+
+Table 3.
+Estimated net changes in all-cause mortality risk as a function of a unit change (1°C) in ambient temperature by region
+
+Region	Coefficient (net)	SE (net)	Risk Estimate (net)	Lower CI (net)	Upper CI (net)
+Europe	0.0011	0.00028	1.001	1.001	1.002
+Latin America	0.0018	0.00054	1.002	1.001	1.003
+Sub-Saharan Africa	0.0024	0.00076	1.002	1.001	1.004
+South Asia	0.0039	0.0047	1.004	0.995	1.013
+Southeast Asia	0.0043	0.0018	1.004	1.001	1.008
+Australia, New Zealand, Oceania	0.0045	0.0013	1.005	1.002	1.007
+Eastern Europe	0.0045	0.00073	1.005	1.003	1.006
+United States, Canada	0.0046	0.0020	1.005	1.001	1.009
+East Asia	0.0053	0.00068	1.005	1.004	1.007
+MENA	0.0110	0.0083	1.011	0.995	1.028
+Open in a separate window
+Definition of abbreviations: CI = confidence interval; MENA = Middle East/North Africa; SE = standard error.
+
+Eastern Europe includes nations east of Germany, Austria, and Italy. Europe covers the remaining northern, western, and southern European nations, including Mediterranean nations such as Greece, Cyprus, etc. The other regions include nations as commonly defined by international organizations.
+
+Table 4 shows the comparison of pooled effect estimates for the United States, Europe, and East Asia regions for general, cardiovascular, and respiratory mortality. These endpoints were selected from the wide range of health endpoints considered in the systematic review due to their comprising significant proportions of total mortality in all global regions. The magnitude of effect observed among pooled estimates of studies using all-cause mortality as a health outcome is generally less than the observed effect for cardiovascular and respiratory mortality. The all-cause mortality pooled estimates across these three regions ranged from a 1.6% to 2.5% increase, while the increase in cardiovascular and respiratory mortality impacts ranged from 2.2% to 5.3% and from 3.2% to 6.1%, respectively.
+
+Table 4.
+Pooled effect estimates of increased temperature (1°C) on all-cause, cardiovascular, and respiratory mortality risks for three regions
+
+Health Outcome	Direction	Region	Studies (n)	Pooled Risk Estimate	Pooled CI Lower	Pooled CI Upper	Tau2	I2 (%)
+All-cause mortality	Increase	United States	7	1.022	1.009	1.035	0.0003	93
+Cardiovascular mortality	Increase	United States	4	1.038	1.012	1.065	0.0006	97
+Respiratory mortality	Increase	United States	3	1.042	0.998	1.088	0.0013	96
+All-cause mortality	Increase	East Asia	6	1.025	1.018	1.033	<0.0001	94
+Cardiovascular mortality	Increase	East Asia	2	1.054	1.032	1.076	0.0000	 
+Respiratory mortality	Increase	East Asia	1	1.062	1.024	1.101	NA	NA
+All-cause mortality	Increase	Europe	12	1.016	1.011	1.021	<0.0001	92
+Cardiovascular mortality	Increase	Europe	8	1.022	1.003	1.042	0.0007	92
+Respiratory mortality	Increase	Europe	5	1.032	1.016	1.049	0.0002	92
+Open in a separate window
+Definition of abbreviations: CI = confidence interval; I2 = heterogeneity index; NA = not available.
+
+The increased risk estimates observed for cardiovascular and respiratory mortality need to be interpreted in the context of the underlying proportion of all-cause mortality attributable to each outcome, which varies by region.
+
+Finally, there was broad agreement among the various expert subpanels on specific recommendations for developing damage functions for health impacts. Consensus recommendations are shown in Table 5 and are addressed in more detail in the Discussion. These recommendations will be provided as part of ongoing efforts to inform updates to the social cost of greenhouse gas estimates.
+
+Table 5.
+Consensus recommendations from the expert panel for developing health modules for use in economic-climate models
+
+Subject	Recommendation
+Multiple approaches	Developing robust new damage functions should employ multiple approaches and not rely on a single methodological approach or individual study.
+Health endpoints	A broader range of health outcomes beyond all-cause mortality should be considered for inclusion in health modules for economic-climate models. Cause-specific mortality due to cardiovascular, respiratory, enteric, and vectorborne diseases are significant health endpoints that merit independent consideration and evaluation for inclusion.
+Mortality vs. morbidity	Morbidity costs are generally lower and more difficult to estimate than mortality costs due to the lack of data available at the country level (with the notable exception of birth outcomes). A single endpoint, such as health care expenditures, may be a useful metric in this regard in the short term for valuing morbidity outcomes that are difficult to estimate. Mortality impacts will continue to be of greater importance in economic modeling.
+Climate parameters	Newer climate models with a greater range of outputted parameters would be helpful to capture more climate-related exposures beyond average annual temperature. It is critical that variables are estimated at a subglobal level. This would ideally include some measure of the distribution of temperature values as well as other relevant climatic variables.
+Socioeconomic considerations	Climate-related health impacts will vary depending on socioeconomic trajectories. Next-generation SC-GHG estimates will be greatly aided by improved considerations of effect modification of health estimates based on socioeconomic conditions. Economic models may be better able to account for these considerations through the development of shared socioeconomic pathway scenarios in ways that appropriately capture the dynamics of various disease systems.
+Adaptation	Accounting for adaptation to climate change is a necessary component of health damage functions. The importance of adaptation varies depending on the specific health outcomes of interest. However, focusing solely on adaptation costs as a surrogate for health impacts within SC-GHG estimates is insufficient.
+Health outputs	The ideal output for a health damage function is counts of health events (e.g., deaths), as opposed to monetary estimates (e.g., dollars), to allow users to apply different approaches to valuing the cost of those health impacts.
+Air pollution	There is a critical need to update the health portion of SC-GHG estimates to account for the health impacts of air pollution as it relates to changes in climatic conditions.
+Transparency	Damage functions should be modular, transparent, and publicly available.
+Open in a separate window
+Definition of abbreviation: SC-GHG = social cost of greenhouse gases.
+
+These recommendations were developed through the four expert subpanels as part of the May 2021 virtual workshop. Included recommendations were organically discussed by at least two of the four expert subpanels and were reviewed and approved as part of the preparation of this report.
+
+Go to:
+Discussion
+A key issue in the development of damage functions is deciding on the general approach to estimate damages. At one extreme is a highly reduced form approach where a single function estimates total damages for the world or a given macro-region, for example, as an overall impact on gross domestic product (GDP) or GDP growth (52). These top-down approaches, which utilize relationships between climate and geographic or economic attributes (e.g., income, miles of coastline) (53), can be easier to implement when constrained by data availability. These approaches have historically been the predominant method underlying damage functions in IAMs but are largely unable to reflect the best scientific understanding of the health impacts of climate change, nor can they readily incorporate scientific advancements as our understanding continues to evolve (54).
+
+In this review, we provide information that can assist in using an alternative bottom-up approach, which entails developing damage functions specific to each region, which can be used to generate an estimate of total damages (55). This means relying on epidemiological or econometric evidence to produce a series of functions estimating climate impacts for specific outcomes at various spatial scales for health impacts. Bottom-up approaches are capable of simulating impacts with higher levels of local-scale complexity and offer the capability to simulate the effects of biophysical, behavioral, or technological adaptations. However, these approaches can require extensive parameterization and calibration and can be constrained by the availability of temporally and spatially resolved data.
+
+Advances in bottom-up modeling of climate damages at a global level are providing new opportunities to improve the damage functions built into IAMs and are more compatible with incorporating health research into economic-climate models. Unsurprisingly, this is the general approach recommended for use by the expert panel. However, to best account for the wide range of relevant health impacts in SC-GHG estimates, some use of hybrid approaches in the near term will likely be required, including the use of fine-scale evidence to calibrate top-down functions, extrapolating damages from well-studied to understudied regions, and the development of some aggregate, but sector-specific, damage functions.
+
+Pooled Mortality Risk Estimates
+This systematic review and meta-analysis was intentionally designed to make use of the wide range of health studies that have been conducted to improve our understanding of the impacts of climate on the risk of adverse health outcomes. It was conducted in light of the known capabilities and limitations of current economic-climate models to be used in updated estimates of the SC-GHG. While the recommendations of the expert panel will aid improvements in the development of future damage modules for health, the provided pooled estimates embrace these limitations and build from current economic modeling approaches to directly incorporate information from the current body of epidemiological studies (56).
+
+The limitations and challenges in directly adapting information from health research to economic-climate models are not insignificant and can be difficult for health researchers and economists to try to overcome (57). However, it is essential to note that even imperfect estimates of the health impacts of climate change are preferred to failing to account for these known damages. Some of these compromises were evident in the example pooled estimates provided in this study, including inferring information about health functions in regions where few studies exist and dealing with the inconsistent treatment of climate variables between health studies and economic models. However, by using linear effect estimates with an assumed threshold near median temperatures, it is possible to make use of information from studies assessing the health risks of short-term changes in temperature in global models that use annual average temperature parameters.
+
+The example risk estimates generated by this study are focused on regionally resolved estimates of the net change in all-cause mortality risk associated with a unit increase in ambient temperature. The impact of these results on estimates of the social cost of greenhouse gases will not be known before inclusion in economic-climate models, but it does provide additional data points that can be combined with other studies to provide more robust estimates of health damages.
+
+The pooled results reported in this study are focused on the direct effect of ambient temperature on mortality to match the needs of current economic-climate models, but this focus does not fully capture the complexity of the causal pathways between climate change and health outcomes. Random-effects pooling can provide distribution for a regionally resolved temperature-response function that reflects between-study variability, but there will always be inherent limitations without more fully accounting for the complexity of temperature-health interactions. For example, there are seasonal differences in the temperature mortality relationship, including the time course of impact (e.g., lags in which effects are modeled in summer versus winter seasons) and confounding influences (e.g., circulating influenza, seasonal activities, etc.). Thus, net changes in all-cause mortality risk presented here should be considered a coarse estimate, particularly given the difference in lag structures observed for increased and decreased mortality effects that are not fully accounted for in this analysis.
+
+More data from populous parts of the world that are underrepresented in research studies would also be beneficial in improving future health damage functions. The global representation of the available studies varied by health outcome, but studies were predominately from North America, Europe, and East Asia. Important gaps were noted for Southeast Asia, Latin America, and Sub-Saharan Africa, with more research needed in these understudied regions, particularly for noninfectious disease health outcomes. However, it is important to note that most of the studies included in the pooled analysis are extensive multilocation studies. While only several dozen unique studies were included in the pooled analysis, they represent hundreds of global locations, both urban and rural. Additional work with currently available economic-climate models is needed to more fully consider cause-specific mortality impacts, particularly from cardiovascular, respiratory, enteric, and vectorborne diseases. Each responds differently to changes in temperature and comprises very different proportions of total mortality impacts across various global regions. Depending on the baseline rates of these cause-specific mortality risks, it is possible that failing to consider cause-specific mortality outcomes could result in incorrectly estimating the total health cost of increased ambient temperatures (58). Follow-up efforts are already underway to compile the baseline health estimates that will be needed to allow for economic-climate models to account for the wide range of health impacts beyond estimates for temperature impacts on all-cause mortality.
+
+Recommendations for Improving Health Modules in Economic-Climate Models
+Updating how temperature variables are provided in economic-climate models is needed to better account for nonlinear effects of temperature (52, 59) (including consideration of optimal temperature and differential dynamics for infectious diseases) but also to account for temperature impacts that are not well characterized by annual average ambient temperatures (60). In addition to apparent temperature on a given day, there are important impacts of the duration of exposure to heat, including heatwaves that last for multiple days without nocturnal cooling, which are likely associated with more adverse health outcomes (29). Extreme events during which the temperature is much different than the local average are also likely to be more impactful. As such, duration and frequency of extreme heat events are important considerations for future work, as is the consideration of increased risks to health due to compound heat events or multiple heatwaves occurring in sequence, which are expected to make up a greater proportion of heatwave risk as the climate warms (61). Furthermore, seasonal temperature variability may have larger effects than changes in mean temperature (14), and literature has shown that increases in the standard deviation of temperature for both summer and winter are associated with an increased risk of mortality (62). However, the literature assessing impacts of temperature variability is limited, making generalizations difficult. By not considering these various temperature parameters, the simplified pooled results generated in this report are likely underestimating the full effects of temperature on mortality (63).
+
+There are other important meteorological variables relevant for assessing health risks in addition to considering alternate temperature parameters (64). This is particularly true for infectious diseases that are highly affected by a range of meteorological conditions such as humidity, precipitation patterns, length of transmission seasons, and daily temperature ranges (as well as key variables such as topography, land-cover, and flooding indices). Infectious disease risks can be mediated by multiple interacting ecological and human systems, but the influence of climate change on these interactions is regionally specific and often nonlinear. There are studies for waterborne diseases such as cholera (65) and diarrhea (60) and vectorborne diseases like malaria and arboviruses (66–69) which evaluate how climate-related changes influence suitability for disease transmission and thus the estimated health burden, but additional work will be required to tie such studies to health damage functions that can support SC-GHG estimates.
+
+SC-GHG estimates, and more specifically the health portion of these estimates, are highly sensitive to socioeconomic assumptions in these models (4). Effects of temperature may vary across socioeconomic conditions, a critical consideration for a wide range of adverse health outcomes highlighted explicitly by the respiratory, cardiovascular, and infectious disease subgroups. A small sample of important variables to consider as modifiers may include air conditioning prevalence (70), level of infrastructure and greenspace coverage, population density, poverty and education levels, and health care access. This is an area where economists, health researchers, and other relevant experts should work together to ensure consistency across health studies, shared socioeconomic pathway scenarios, and economic-climate models (71). Mixed methods research can help understand some of the important socio-behavioral factors that drive the dynamics of climate impacts on health risk.
+
+Adaptation efforts and costs should also be accounted for in health damage modules, if possible. Adaptation can be by both biological and social means. Relationships between temperature and adverse health effects have somewhat diminished in high-income countries in recent years; however, a reduced adaptation effect in the temperature-mortality exposure-response relationship at higher mean temperatures suggests limits to adaptation (72). Using a moving percentile-based lagged adaptation function addresses potential acclimatization (73, 74), and mechanistic exposure-response models incorporating the physiological limits and strain of human thermoregulation may be useful for future consideration (75, 76). While accounting for adaption effects as part of future health modules is important, focusing solely on adaptation costs as a surrogate for health impacts within SC-GHG is insufficient (77).
+
+Finally, accounting for the health impacts of air pollution as it relates to changes in climatic conditions is an area of critical need in updating the health portion of SC-GHG estimates. The accompanying reduction in the local emissions of health-relevant air pollutants, and its associated health impacts, that commonly occur in conjunction with local carbon emission reductions should continue to be directly accounted for in the benefit-cost analysis and should not be included within SC-GHG estimates. However, there are multiple pathways in which climate change affects air pollution and health in ways that need to be more fully considered within SC-GHG estimates. The implications of these unaccounted-for changes in air pollution are focused on human health impacts in this report, but it should be noted that there are important implications for other sectors as well, including agriculture and ecological impacts.
+
+Examples of air pollution dynamics that are impacted by climatic conditions that are not well accounted for outside of SC-GHG include emissions of air pollutants that would not otherwise occur (e.g., creating conditions that result in increased wildland fires or dust storms) (78), changes in the deposition and removal of ambient air pollutants, and changes in the secondary formation of air pollutants such as ozone. There is also a substantial body of evidence that the adverse health impacts of ambient air pollution are modified by ambient temperature, such that the same pollution levels can result in increased health risk due to increased temperatures (9, 79–81). As part of their review during the technical workshop, the respiratory health subgroup specifically noted that air pollution was often accounted for as a potential mediator in assessing the impact of temperature on health risk. The cardiovascular health subgroup specifically noted that the synergistic effect of temperature and both ozone and wildfire-generated particle pollution is particularly important to adequately capture the heightened risk brought about by compound climate events.
+
+These important impacts of air pollution on health outcomes, which are not limited geographically or temporally in relation to the reductions in greenhouse gas emissions, should be accounted for within SC-GHG estimates. However, there are additional complexities compared with some other types of health impacts that need to be considered, including the importance of assumptions about baseline emission trajectories and influences of local atmospheric dynamics. During the technical workshop, the economic subgroup noted that there may be a benefit to having a separate air pollution module with domestic and international components that can be selectively used depending on the nature of the valuation exercise. Other near-term needs, in regards to accounting for air pollution impacts on health, can also be addressed in part by more fully considering climate change impacts on wildland fires and dust storms and by estimating how global air pollution health burdens may be modified by temperature changes.
+
+Conclusion
+The work product generated by the expert panel that participated in a 2021 technical workshop contains information regarding regionally resolved damage functions for unit changes in temperature on net increases in all-cause mortality risk that can directly inform the 2022 update to SC-GHG estimates. Recommendations regarding the development of health damage functions will help inform future efforts to improve SC-GHG estimates beyond the 2022 update.
+
+Beyond these concrete contributions to the development of improved policy analysis tools, it was intended that this technical workshop would provide an example and demonstrate support for the value of having subject-matter experts, not just in the health sector but in many other sectors as well, to contribute to the development of SC-GHG estimates. A shared, interdisciplinary approach is preferred to economists continuing to work in isolation in developing these economic-climate models. It is hoped that this is just one of many similar efforts that take place over the next few years across a wide range of climate-relevant disciplines.
+
+Go to:
+Acknowledgment
+The authors thank workshop participants John Balbus, Ginger Chew, Scott Douglas, William Hardie, Bryan Hubbell, Pat Kinney, Al McGartland, and Marcus Sarofim. The authors also thank Eloise Skinner, Marissa Childs, and Devin Kirk for assisting with a supplementary literature review for infectious diseases.
+
+Go to:
+Footnotes
+Supported by the U.S. Environmental Protection Agency, Centers for Disease Control and Prevention, and National Institute of Environmental Health Sciences. The views expressed in this manuscript are solely those of the authors and do not necessarily represent those of their employers, including the U.S. Environmental Protection Agency, Centers for Disease Control and Prevention, and Health Canada, and no official endorsement should be inferred.
+
+Author Contributions: Conceptualization: K.R.C. Investigation: K.R.C., S.C.A., J.R.B., A.A.F., J.M.G., M.H., P.H., E.L., K.L., J.M., J.A.M., E.A.M., M.B.R., S.S., N.C.S., F.S., E.R.S., and B.F.Z. Formal analysis: K.R.C. and M.G. Writing of original draft: K.R.C., J.R.B., N.C.S., J.A.M., K.L., F.S., E.L., J.M.G., M.B.R., and M.H. Writing, reviewing, and editing: K.R.C., A.A.F., J.M., J.M.G., J.A.M., E.A.M., M.H., B.F.Z., J.R.B., S.C.A., E.R.S., M.B.R., and S.S. Visualization: K.R.C. and M.G. Supervision: K.R.C. Funding acquisition: G.E.
+
+This article has an online supplement, which is accessible from this issue’s table of contents at www.atsjournals.org.
+
+Author disclosures are available with the text of this article at www.atsjournals.org.
+
+Go to:
+References
+1. Council Domestic Policy. Environmental Protection Agency; 2013. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.686.7262&rep=rep1type=pdf [Google Scholar]
+2. National Academies of Sciences Engineering and Medicine (US). Committee on Assessing Approaches to Updating the Social Cost of Carbon, National Academies of Sciences Engineering and Medicine (US). Board on Environmental Change and Society, National Academies of Sciences Engineering and Medicine (US). Division of Behavioral and Social Sciences and Education. Washington, DC: The National Academies Press; 2017. Valuing climate damages: updating estimation of the social cost of carbon dioxide. [Google Scholar]
+3. Interagency Working Group. Tech. rep., White House; 2021. https://www.whitehouse.gov/wp-content/uploads/2021/02/TechnicalSupportDocument_SocialCostofCarbonMethaneNitrousOxide.pdf [Google Scholar]
+4. Cromar K, Howard P, Vásquez VN, Anthoff D. Health impacts of climate change as contained in economic models estimating the social cost of carbon dioxide. GeoHealth . 2021;5:e2021GH000405. [PMC free article] [PubMed] [Google Scholar]
+5. Fann NL, Nolte CG, Sarofim MC, Martinich J, Nassikas NJ. Associations between simulated future changes in climate, air quality, and human health. JAMA Netw Open . 2021;4:e2032064. [PMC free article] [PubMed] [Google Scholar]
+6. Higgins JP, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, et al. John Wiley & Sons; 2019. Cochrane handbook for systematic reviews of interventions. [PMC free article] [PubMed] [Google Scholar]
+7. Schwartz JD, Lee M, Kinney PL, Yang S, Mills D, Sarofim MC, et al. Projections of temperature-attributable premature deaths in 209 U.S. cities using a cluster-based Poisson approach. Environ Health . 2015;14:85. [PMC free article] [PubMed] [Google Scholar]
+8. Huang C, Barnett AG, Wang X, Vaneckova P, FitzGerald G, Tong S. Projecting future heat-related mortality under climate change scenarios: a systematic review. Environ Health Perspect . 2011;119:1681–1690. [PMC free article] [PubMed] [Google Scholar]
+9. Chen K, Wolf K, Breitner S, Gasparrini A, Stafoggia M, Samoli E, et al.UF&HEALTH Study Group Two-way effect modifications of air pollution and air temperature on total natural and cardiovascular mortality in eight European urban areas. Environ Int . 2018;116:186–196. [PubMed] [Google Scholar]
+10. Rocklöv J, Forsberg B. The effect of temperature on mortality in Stockholm 1998--2003: a study of lag structures and heatwave effects. Scand J Public Health . 2008;36:516–523. [PubMed] [Google Scholar]
+11. Rocklöv J, Ebi K, Forsberg B. Mortality related to temperature and persistent extreme temperatures: a study of cause-specific and age-stratified mortality. Occup Environ Med . 2011;68:531–536. [PubMed] [Google Scholar]
+12. Burkart K, Canário P, Breitner S, Schneider A, Scherber K, Andrade H, et al. Interactive short-term effects of equivalent temperature and air pollution on human mortality in Berlin and Lisbon. Environ Pollut . 2013;183:54–63. [PubMed] [Google Scholar]
+13. Pattenden S, Nikiforov B, Armstrong BG. Mortality and temperature in Sofia and London. J Epidemiol Community Health . 2003;57:628–633. [PMC free article] [PubMed] [Google Scholar]
+14. Shi L, Kloog I, Zanobetti A, Liu P, Schwartz JD. Impacts of temperature and its variability on mortality in New England. Nat Clim Chang . 2015;5:988–991. [PMC free article] [PubMed] [Google Scholar]
+15. Lee M, Shi L, Zanobetti A, Schwartz JD. Study on the association between ambient temperature and mortality using spatially resolved exposure data. Environ Res . 2016;151:610–617. [PMC free article] [PubMed] [Google Scholar]
+16. Medina-Ramón M, Schwartz J. Temperature, temperature extremes, and mortality: a study of acclimatisation and effect modification in 50 US cities. Occup Environ Med . 2007;64:827–833. [PMC free article] [PubMed] [Google Scholar]
+17. Huang Z, Lin H, Liu Y, Zhou M, Liu T, Xiao J, et al. Individual-level and community-level effect modifiers of the temperature-mortality relationship in 66 Chinese communities. BMJ Open . 2015;5:e009172. [PMC free article] [PubMed] [Google Scholar]
+18. El-Zein A, Tewtel-Salem M, Nehme G. A time-series analysis of mortality and air temperature in Greater Beirut. Sci Total Environ . 2004;330:71–80. [PubMed] [Google Scholar]
+19. Dietz S, van der Ploeg F, Rezai A, Venmans F. Are economists getting climate dynamics right and does it matter? J Assoc Environ Resour Econ . 2021;8:895–921. [Google Scholar]
+20. Bell ML, O’Neill MS, Ranjit N, Borja-Aburto VH, Cifuentes LA, Gouveia NC. Vulnerability to heat-related mortality in Latin America: a case-crossover study in Sao Paulo, Brazil, Santiago, Chile and Mexico City, Mexico. Int J Epidemiol . 2008;37:796–804. [PMC free article] [PubMed] [Google Scholar]
+21. Diboulo E, Sié A, Rocklöv J, Niamba L, Yé M, Bagagnan C, et al. Weather and mortality: a 10 year retrospective analysis of the Nouna Health and Demographic Surveillance System, Burkina Faso. Glob Health Action . 2012;5:6–13. [PMC free article] [PubMed] [Google Scholar]
+22. Azongo DK, Awine T, Wak G, Binka FN, Oduro AR. A time series analysis of weather variability and all-cause mortality in the Kasena-Nankana Districts of northern Ghana, 1995-2010. Glob Health Action . 2012;5:14–22. [PMC free article] [PubMed] [Google Scholar]
+23. Lindeboom W, Alam N, Begum D, Streatfield PK. The association of meteorological factors and mortality in rural Bangladesh, 1983-2009. Glob Health Action . 2012;5:61–73. [PMC free article] [PubMed] [Google Scholar]
+24. Burkart K, Schneider A, Breitner S, Khan MH, Krämer A, Endlicher W. The effect of atmospheric thermal conditions and urban thermal pollution on all-cause and cardiovascular mortality in Bangladesh. Environ Pollut . 2011;159:2035–2043. [PubMed] [Google Scholar]
+25. Ingole V, Rocklöv J, Juvekar S, Schumann B. Impact of heat and cold on total and cause-specific mortality in Vadu HDSS--a rural setting in western India. Int J Environ Res Public Health . 2015;12:15298–15308. [PMC free article] [PubMed] [Google Scholar]
+26. Zanobetti A, Schwartz J. Temperature and mortality in nine US cities. Epidemiology . 2008;19:563–570. [PMC free article] [PubMed] [Google Scholar]
+27. Madrigano J, Jack D, Anderson GB, Bell ML, Kinney PL. Temperature, ozone, and mortality in urban and non-urban counties in the northeastern United States. Environ Health . 2015;14:3. [PMC free article] [PubMed] [Google Scholar]
+28. Sheridan SC, Lin S. Assessing variability in the impacts of heat on health outcomes in New York City over time, season, and heat-wave duration. EcoHealth . 2014;11:512–525. [PubMed] [Google Scholar]
+29. Anderson GB, Bell ML. Heat waves in the United States: mortality risk during heat waves and effect modification by heat wave characteristics in 43 U.S. communities. Environ Health Perspect . 2011;119:210–218. [PMC free article] [PubMed] [Google Scholar]
+30. Williams S, Nitschke M, Weinstein P, Pisaniello DL, Parton KA, Bi P. The impact of summer temperatures and heatwaves on mortality and morbidity in Perth, Australia 1994-2008. Environ Int . 2012;40:33–38. [PubMed] [Google Scholar]
+31. Scortichini M, De Sario M, de’Donato FK, Davoli M, Michelozzi P, Stafoggia M. Short-term effects of heat on mortality and effect modification by air pollution in 25 Italian cities. Int J Environ Res Public Health . 2018;15:1771. [PMC free article] [PubMed] [Google Scholar]
+32. Analitis A, De’ Donato F, Scortichini M, Lanki T, Basagana X, Ballester F, et al. Synergistic effects of ambient temperature and air pollution on health in Europe: results from the PHASE project. Int J Environ Res Public Health . 2018;15:1856. [PMC free article] [PubMed] [Google Scholar]
+33. Baccini M, Biggeri A, Accetta G, Kosatsky T, Katsouyanni K, Analitis A, et al. Heat effects on mortality in 15 European cities. Epidemiology . 2008;19:711–719. [PubMed] [Google Scholar]
+34. Gasparrini A, Armstrong B, Kovats S, Wilkinson P. The effect of high temperatures on cause-specific mortality in England and Wales. Occup Environ Med . 2012;69:56–61. [PubMed] [Google Scholar]
+35. Stafoggia M, Forastiere F, Agostini D, Biggeri A, Bisanti L, Cadum E, et al. Vulnerability to heat-related mortality: a multicity, population-based, case-crossover analysis. Epidemiology . 2006;17:315–323. [PubMed] [Google Scholar]
+36. Goodman PG, Dockery DW, Clancy L. Cause-specific mortality and the extended effects of particulate pollution and temperature exposure. Environ Health Perspect . 2004;112:179–185. [PMC free article] [PubMed] [Google Scholar]
+37. Hajat S, Kovats RS, Lachowycz K. Heat-related and cold-related deaths in England and Wales: who is at risk? Occup Environ Med . 2007;64:93–100. [PMC free article] [PubMed] [Google Scholar]
+38. Gao H, Lan L, Yang C, Wang J, Zhao Y. The threshold temperature and lag effects on daily excess mortality in harbin, china: a time series analysis. Int J Occup Environ Med . 2017;8:85–95. [PMC free article] [PubMed] [Google Scholar]
+39. Bai L, Cirendunzhu, Woodward A, Dawa, Xiraoruodeng, Liu Q. Temperature and mortality on the roof of the world: a time-series analysis in three Tibetan counties, China. Sci Total Environ . 2014;485-486:41–48. [PubMed] [Google Scholar]
+40. Chen K, Zhou L, Chen X, Ma Z, Liu Y, Huang L, et al. Urbanization level and vulnerability to heat-related mortality in Jiangsu Province, China. Environ Health Perspect . 2016;124:1863–1869. [PMC free article] [PubMed] [Google Scholar]
+41. Zhang Y, Yu C, Bao J, Li X. Impact of temperature on mortality in Hubei, China: a multi-county time series analysis. Sci Rep . 2017;7:45093. [PMC free article] [PubMed] [Google Scholar]
+42. Chan EY, Goggins WB, Kim JJ, Griffiths SM. A study of intracity variation of temperature-related mortality and socioeconomic status among the Chinese population in Hong Kong. J Epidemiol Community Health . 2012;66:322–327. [PMC free article] [PubMed] [Google Scholar]
+43. The Eurowinter Group. Cold exposure and winter mortality from ischaemic heart disease, cerebrovascular disease, respiratory disease, and all causes in warm and cold regions of Europe. Lancet . 1997;349:1341–1346. [PubMed] [Google Scholar]
+44. Aylin P, Morris S, Wakefield J, Grossinho A, Jarup L, Elliott P. Temperature, housing, deprivation and their relationship to excess winter mortality in Great Britain, 1986-1996. Int J Epidemiol . 2001;30:1100–1108. [PubMed] [Google Scholar]
+45. The Eurowinter Group. Cold exposure and winter mortality from ischaemic heart disease, cerebrovascular disease, respiratory disease, and all causes in warm and cold regions of Europe. Lancet . 1997;349:1341–1346. [PubMed] [Google Scholar]
+46. Chung JY, Honda Y, Hong YC, Pan XC, Guo YL, Kim H. Ambient temperature and mortality: an international study in four capital cities of East Asia. Sci Total Environ . 2009;408:390–396. [PubMed] [Google Scholar]
+47. Urban A, Kyselý J. Comparison of UTCI with other thermal indices in the assessment of heat and cold effects on cardiovascular mortality in the Czech Republic. Int J Environ Res Public Health . 2014;11:952–967. [PMC free article] [PubMed] [Google Scholar]
+48. Wolf K, Schneider A, Breitner S, von Klot S, Meisinger C, Cyrys J, et al.Cooperative Health Research in the Region of Augsburg Study Group Air temperature and the occurrence of myocardial infarction in Augsburg, Germany. Circulation . 2009;120:735–742. [PubMed] [Google Scholar]
+49. Kouis P, Kakkoura M, Ziogas K, Paschalidou AΚ, Papatheodorou SI. The effect of ambient air temperature on cardiovascular and respiratory mortality in Thessaloniki, Greece. Sci Total Environ . 2019;647:1351–1358. [PubMed] [Google Scholar]
+50. Basu R, Ostro BD. A multicounty analysis identifying the populations vulnerable to mortality associated with high ambient temperature in California. Am J Epidemiol . 2008;168:632–637. [PubMed] [Google Scholar]
+51. Zanobetti A, O’Neill MS, Gronlund CJ, Schwartz JD. Summer temperature variability and long-term survival among elderly people with chronic disease. Proc Natl Acad Sci USA . 2012;109:6608–6613. [PMC free article] [PubMed] [Google Scholar]
+52. Nordhaus W. New Haven, CT: Yale University Press; 2008. A question of balance: economic models of climate change. [Google Scholar]
+53. Hope C.The social cost of CO2 from the PAGE09 model. 2011.
+54. Howard PH, Sterner T. Few and not so far between: a meta-analysis of climate damage estimates. Environ Resour Econ . 2017;68:197–225. [Google Scholar]
+55. Raimi D.2021. https://media.rff.org/documents/WP_21-12.pdf
+56. Diaz D, Moore F. Quantifying the economic risks of climate change. Nat Clim Chang . 2017;7:774–782. [Google Scholar]
+57. Burkart KG, Brauer M, Aravkin AY, Godwin WW, Hay SI, He J, et al. Estimating the cause-specific relative risks of non-optimal temperature on daily mortality: a two-part modelling approach applied to the Global Burden of Disease Study. Lancet . 2021;398:685–697. [PMC free article] [PubMed] [Google Scholar]
+58. Anthoff D, Tol RSJ. The climate framework for uncertainty, negotiation and distribution (FUND): Technical description, version 3.6. FUND Doc; 2014 [accessed 2022 Jun 6]. Available at: http://www.fund-model.org/files/documentation/Fund-3-8-Scientific-Documentation.pdf.
+59. Gasparrini A, Guo Y, Sera F, Vicedo-Cabrera AM, Huber V, Tong S, et al. Projections of temperature-related excess mortality under climate change scenarios. Lancet Planet Health . 2017;1:e360–e367. [PMC free article] [PubMed] [Google Scholar]
+60. Levy K, Woster AP, Goldstein RS, Carlton EJ. Untangling the impacts of climate change on waterborne diseases: a systematic review of relationships between diarrheal diseases and temperature, rainfall, flooding, and drought. Environ Sci Technol . 2016;50:4905–4922. [PMC free article] [PubMed] [Google Scholar]
+61. Baldwin JW, Dessy JB, Vecchi GA, Oppenheimer M. Temporally compound heat wave events and global warming: an emerging hazard. Earths Futur . 2019;7:411–427. [Google Scholar]
+62. Zanobetti A, O’Neill MS. Longer-term outdoor temperatures and health effects: a review. Curr Epidemiol Rep . 2018;5:125–139. [PMC free article] [PubMed] [Google Scholar]
+63. Rocklov J, Barnett AG, Woodward A. On the estimation of heat-intensity and heat-duration effects in time series models of temperature-related mortality in Stockholm, Sweden. Environ Health . 2012;11:23. [PMC free article] [PubMed] [Google Scholar]
+64. Kraay ANM, Man O, Levy MC, Levy K, Ionides E, Eisenberg JNS. Understanding the impact of rainfall on diarrhea: testing the concentration-dilution hypothesis using a systematic review and meta-analysis. Environ Health Perspect . 2020;128:126001. [PMC free article] [PubMed] [Google Scholar]
+65. Trinanes J, Martinez-Urtaza J. Future scenarios of risk of Vibrio infections in a warming planet: a global mapping study. Lancet Planet Health . 2021;5:e426–e435. [PubMed] [Google Scholar]
+66. Colón-González FJ, Sewe MO, Tompkins AM, Sjödin H, Casallas A, Rocklöv J, et al. Projecting the risk of mosquito-borne diseases in a warmer and more populated world: a multi-model, multi-scenario intercomparison modelling study. Lancet Planet Health . 2021;5:e404–e414. [PMC free article] [PubMed] [Google Scholar]
+67. Ryan SJ, Carlson CJ, Mordecai EA, Johnson LR. Global expansion and redistribution of Aedes-borne virus transmission risk with climate change. PLoS Negl Trop Dis . 2019;13:e0007213. [PMC free article] [PubMed] [Google Scholar]
+68. Ryan SJ, McNally A, Johnson LR, Mordecai EA, Ben-Horin T, Paaijmans K, et al. Mapping physiological suitability limits for malaria in Africa under climate change. Vector Borne Zoonotic Dis . 2015;15:718–725. [PMC free article] [PubMed] [Google Scholar]
+69. Mordecai EA, Ryan SJ, Caldwell JM, Shah MM, LaBeaud AD. Climate change could shift disease burden from malaria to arboviruses in Africa. Lancet Planet Health . 2020;4:e416–e423. [PMC free article] [PubMed] [Google Scholar]
+70. Auffhammer M. Quantifying economic damages from climate change. J Econ Perspect . 2018;32:33–52. [Google Scholar]
+71. Revesz RL, Howard PH, Arrow K, Goulder LH, Kopp RE, Livermore MA, et al. Global warming: Improve economic models of climate change. Nature . 2014;508:173–175. [PubMed] [Google Scholar]
+72. Wang Y, Nordio F, Nairn J, Zanobetti A, Schwartz JD. Accounting for adaptation and intensity in projecting heat wave-related mortality. Environ Res . 2018;161:464–471. [PubMed] [Google Scholar]
+73. Shindell D, Zhang Y, Scott M, Ru M, Stark K, Ebi KL. The effects of heat exposure on human mortality throughout the United States. djs . 2020;4:e2019GH000234. [PMC free article] [PubMed] [Google Scholar]
+74. Anderson GB, Oleson KW, Jones B, Peng RD. Projected trends in high-mortality heatwaves under different scenarios of climate, population, and adaptation in 82 US communities. Clim Change . 2018;146:455–470. [PMC free article] [PubMed] [Google Scholar]
+75. Foster J, Smallcombe JW, Hodder S, Jay O, Flouris AD, Nybo L, et al. An advanced empirical model for quantifying the impact of heat and climate change on human physical work capacity. Int J Biometeorol . 2021;65:1215–1229. [PMC free article] [PubMed] [Google Scholar]
+76. Kenney WL, Craighead DH, Alexander LM. Heat waves, aging, and human cardiovascular health. Med Sci Sports Exerc . 2014;46:1891–1899. [PMC free article] [PubMed] [Google Scholar]
+77. Carleton TA, Jina A, Delgado MT, Greenstone M, Houser T, Hsiang SM, et al. National Bureau of Economic Research; 2020. Valuing the global mortality consequences of climate change accounting for adaptation costs and benefits. [Google Scholar]
+78. Ford B, Val Martin M, Zelasky SE, Fischer EV, Anenberg SC, Heald CL, et al. Future fire impacts on smoke concentrations, visibility, and health in the contiguous United States. Geohealth . 2018;2:229–247. [PMC free article] [PubMed] [Google Scholar]
+79. Anenberg SC, Haines S, Wang E, Nassikas N, Kinney PL. Synergistic health effects of air pollution, temperature, and pollen exposure: a systematic review of epidemiological evidence. Environ Health . 2020;19:130. [PMC free article] [PubMed] [Google Scholar]
+80. Qiu H, Tan K, Long F, Wang L, Yu H, Deng R, et al. The burden of COPD morbidity attributable to the interaction between ambient air pollution and temperature in Chengdu, China. Int J Environ Res Public Health . 2018;15:492. [PMC free article] [PubMed] [Google Scholar]
+81. Katsouyanni K, Pantazopoulou A, Touloumi G, Tselepidaki I, Moustris K, Asimakopoulos D, et al. Evidence for interaction between air pollution and high temperature in the causation of excess mortality. Arch Environ Health . 1993;48:235–242. [PubMed] [Google Scholar]
+Articles from Annals of the American Thoracic Society are provided here courtesy of American Thoracic Society
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

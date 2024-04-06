@@ -1,0 +1,86 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of ajrccm
+Am J Respir Crit Care Med. 2022 Feb 15; 205(4): 378–380. Published online 2022 Jan 10. doi: 10.1164/rccm.202112-2822ED
+PMCID: PMC8886942PMID: 35007496
+The Air We Breathe: Respiratory Impact of Indoor Air Quality in Chronic Obstructive Pulmonary Disease
+Takudzwa Mkorombindo, 1 , 2 John R. Balmes, 3 , 4 Adnan Custovic, 5 and Mark T. Dransfield 1 , 2
+Author information Copyright and License information PMC Disclaimer
+See the article "Home Dust Allergen Exposure Is Associated with Outcomes among Sensitized Individuals with Chronic Obstructive Pulmonary Disease" in volume 205 on page 412.
+See the article "Randomized Clinical Trial of Air Cleaners to Improve Indoor Air Quality and Chronic Obstructive Pulmonary Disease Health: Results of the CLEAN AIR Study" in volume 205 on page 421.
+The global push for clean air has garnered much attention because of the deleterious health and environmental effects of poor air quality (1). Presently, more than 90% of the world’s population lives in an area where air pollution exceeds the World Health Organization’s safe limits, and according to the 2019 Global Burden of Disease (GBD) study, there were 6.7 million deaths attributable to air pollution, making it the most significant environmental threat to human health (1, 2). Air pollution also causes significant respiratory morbidity and is a modifiable risk factor for mortality for many cardiorespiratory illnesses, including chronic obstructive pulmonary disease (COPD). Many air quality interventions have focused on ambient (outdoor) pollution, but there is increasing recognition that indoor pollution, including the by-products of fuel combustion, gaseous particles such as nitrogen dioxide (NO2), fine particulate matter, and aeroallergens, is a major contributor to respiratory morbidity, particularly in asthma, but also in COPD (3). Tobacco smoke exposure remains the most critical exposure that causes COPD; however, household air pollution is an underrecognized risk factor for the 20–25% of COPD cases that occur in never-smokers (4, 5).
+
+In addition to indoor air pollution, household exposure to aeroallergens such as house dust mites, cockroaches, and pets constitutes a significant cause of respiratory morbidity (6–8). In contrast to inconsistent data on the role of allergen exposure in the development of sensitization and asthma, most studies that investigated the impact of exposure among sensitized patients with established asthma reported increased severity with increasing exposure (reviewed in Reference 9). Furthermore, allergens interact with viruses in sensitized patients with asthma to markedly increase the risk for hospitalization with severe acute exacerbations, among both adults (10) and children (11). Although a considerable body of evidence demonstrates the contribution of allergen exposure to the ongoing inflammatory process in asthma, this relationship has not been adequately investigated in COPD.
+
+In this issue of the Journal, two reports shed light on the underappreciated impact of indoor air quality and domestic allergen exposure on the respiratory health of patients with COPD and point to novel therapeutic strategies. Putcha and colleagues (pp. 412–420) report the results of analyses examining the associations between allergen sensitization and high exposure to sensitizing allergens (cat, dog, cockroach, mouse, and dust mite) and respiratory outcomes in former smokers with COPD (n = 183) (12). Seventy-seven percent of patients were exposed to one or more of the tested allergens, and 17% (n = 31) were both sensitized and exposed to high concentrations of sensitizing allergens. Similar to previous observations in asthma (13, 14), high allergen exposures in patients with COPD with relevant sensitization were associated with adverse outcomes, including higher exacerbation risk (odds ratio, 2.31; 95% confidence interval [CI], 1.11–4.79) and significantly worse quality of life. Of note, the reported associations between COPD severity and exacerbations with the combination of sensitization and high allergen exposure was more pronounced in individuals with lower lung function.
+
+Though intriguing, the results highlight some of the challenges of studying interactions between environmental exposures and health outcomes. First, confirmation of allergic sensitization using standard diagnostic tests does not necessarily confirm that a patient would have a biological response to exposure, and this phenotypic heterogeneity among sensitized individuals is not captured by IgE antibody positivity (15). Second, allergen concentrations in household dust samples are a relatively imprecise index of exposure and may not accurately reflect the actual personal inhaled dose (16). It is therefore possible that we may be underestimating the impact of indoor allergens, but this challenge is not unique to COPD and suggests that assessment of the sensitization and exposure interaction needs further refinement and methodological studies. Adding further complexity, in real life, patients are contemporaneously exposed to a range of other environmental agents (e.g., outdoor aeroallergens; occupational dusts, gases, and fumes; tobacco and other types of smoke), and relevant coexposures may affect the reported association. Despite these challenges, this study (12) establishes the adverse impact of aeroallergens on the respiratory health of sensitized patients with COPD and raises the important question as to whether allergen avoidance may improve outcomes among sensitized patients with COPD.
+
+Many interventions aimed at reducing inhaled allergens and indoor air pollutants have been proposed, including the use of high-efficiency particulate air (HEPA) cleaners (17–20). Also in this issue of the Journal, Hansel and colleagues (pp. 421–430) report the results of the randomized Clinical Trial of Air Cleaners to Improve Indoor Air Quality and COPD Health (CLEAN AIR) (21). Given the preponderance of data on the adverse impacts of poor indoor air quality on respiratory health outcomes, the investigators assessed the effect of a 6-month intervention with air cleaners containing both HEPA and charcoal filters in the homes of patients with COPD. After baseline testing, participants with unsafe indoor air quality were either randomized (1:1) to sham treatment or had two air cleaners installed in their homes, one in their bedroom and the second in the room where they spent most of their awake time. The primary outcome was a change in St. George’s Respiratory Questionnaire (SGRQ) score. Exposure assessments for particulate matter ⩽2.5 μm in aerodynamic diameter (PM2.5) or PM10, NO2, and airborne nicotine together with clinical assessments were performed before randomization and at 1 week, 3 months, and 6 months. Although there was no difference in SGRQ total score, at 6 months, there were marked reductions in PM2.5, PM10, and NO2 in the air cleaner group, and these were associated with improvement in several indices of respiratory health. Treatment with air cleaners compared with sham treatment resulted in a significant reduction in SGRQ symptom subscale score (−7.67; 95% CI, −14.97 to −0.37; P = 0.040), marked improvement in respiratory symptoms as measured by the Breathlessness, Cough, and Sputum Scale (−0.81; 95% CI, −1.53 to −0.09; P = 0.029), and a lower rate of moderate exacerbations (incidence rate ratio, 0.32; 95% CI, 0.12 to 0.91; P = 0.033). These effects were more pronounced for individuals who spent a considerable amount of time indoors and used air cleaners more than 80% of the time.
+
+Hansel and colleagues must be commended for designing and implementing a very well-structured and informative study that answers a clinically relevant question about the therapeutic use of indoor air cleaners for patients with COPD. A few aspects of the study warrant further discussion. First, the CLEAN AIR study missed the primary outcome of change in SGRQ score, which could be related to lower than target sample size, and this means that we must be conservative in interpreting the results. The fact that the secondary outcomes were in the direction of benefit is encouraging, however; we also do not know how long the observed benefits would persist, given that the intervention was only for 6 months. Second, HEPA filters reduce the load of indoor allergens shown to be important by Putcha and colleagues (12), as well as other particulate matter, and the air cleaners tested included both HEPA and charcoal filters (the latter resulting in NO2 reduction), which precludes conclusions about what drove the treatment effect. Third, although we in no way advocate for the use of air cleaners to facilitate continued cigarette smoking, we do not know the impact of this intervention in current smokers. Finally, this was a single-site study, and it is unclear if the results would generalize to areas with varying indoor and outdoor environmental pollutants. That said, exposure to wildfire smoke has become a huge problem in the Mountain West of the United States as well as in many other countries. The use of HEPA air cleaners to reduce indoor exposure to wildfire PM2.5 is an evidence-based recommendation (22).
+
+Notwithstanding the issues we raise, the findings of these two studies demonstrate a vital interaction between respiratory health and indoor air quality in COPD. The authors show that indoor allergens worsen respiratory health and that the reduction of these allergens and other pollutants with an air cleaner with HEPA and charcoal filters may improve COPD outcomes. It is vital to recommend that patients not use air cleaners that generate ozone, which can lead to the formation of secondary pollutants harmful to respiratory health (23). The results clearly call for testing this intervention in a large, multicenter, randomized trial. Given the global failure to sufficiently control outdoor pollution, this approach could provide an opportunity to help individual patients at risk while we wait.
+
+Go to:
+Footnotes
+Supported by NHLBI grant 5 K24 HL140108-05.
+
+Originally Published in Press as DOI: 10.1164/rccm.202112-2822ED on January 10, 2022
+
+Author disclosures are available with the text of this article at www.atsjournals.org.
+
+Go to:
+References
+1. World Health Organization WHO global air quality guidelines: particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide and carbon monoxide.Geneva, Switzerland: World Health Organization; 2021 [Google Scholar]
+2. Murray CJ, Aravkin AY, Zheng P, Abbafati C, Abbas KM, Abbasi-Kangevari M, et al.GBD 2019 Risk Factors Collaborators Global burden of 87 risk factors in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease study 2019. Lancet . 2020;396:1223–1249. [PMC free article] [PubMed] [Google Scholar]
+3. Eisner MD, Anthonisen N, Coultas D, Kuenzli N, Perez-Padilla R, Postma D, et al.Committee on Nonsmoking COPD, Environmental and Occupational Health Assembly An official American Thoracic Society public policy statement: novel risk factors and the global burden of chronic obstructive pulmonary disease. Am J Respir Crit Care Med . 2010;182:693–718. [PubMed] [Google Scholar]
+4. Syamlal G, Doney B, Mazurek JM. Chronic obstructive pulmonary disease prevalence among adults who have never smoked, by industry and occupation—United States, 2013–2017. MMWR Morb Mortal Wkly Rep . 2019;68:303–307. [PMC free article] [PubMed] [Google Scholar]
+5. Fuller-Thomson E, Chisholm RS, Brennenstuhl S. COPD in a population-based sample of never-smokers: interactions among sex, gender, and race. Int J Chronic Dis . 2016;2016:5862026. [PMC free article] [PubMed] [Google Scholar]
+6. Custovic A, Taggart SC, Francis HC, Chapman MD, Woodcock A. Exposure to house dust mite allergens and the clinical activity of asthma. J Allergy Clin Immunol . 1996;98:64–72. [PubMed] [Google Scholar]
+7. Rosenstreich DL, Eggleston P, Kattan M, Baker D, Slavin RG, Gergen P, et al. The role of cockroach allergy and exposure to cockroach allergen in causing morbidity among inner-city children with asthma. N Engl J Med . 1997;336:1356–1363. [PubMed] [Google Scholar]
+8. Woodcock A, Forster L, Matthews E, Martin J, Letley L, Vickers M, et al.Medical Research Council General Practice Research Framework Control of exposure to mite allergen and allergen-impermeable bed covers for adults with asthma. N Engl J Med . 2003;349:225–236. [PubMed] [Google Scholar]
+9. Custovic A. To what extent is allergen exposure a risk factor for the development of allergic disease? Clin Exp Allergy . 2015;45:54–62. [PubMed] [Google Scholar]
+10. Green RM, Custovic A, Sanderson G, Hunter J, Johnston SL, Woodcock A. Synergism between allergens and viruses and risk of hospital admission with asthma: case-control study. BMJ . 2002;324:763. [PMC free article] [PubMed] [Google Scholar]
+11. Murray CS, Poletti G, Kebadze T, Morris J, Woodcock A, Johnston SL, et al. Study of modifiable risk factors for asthma exacerbations: virus infection and allergen exposure increase the risk of asthma hospital admissions in children. Thorax . 2006;61:376–382. [PMC free article] [PubMed] [Google Scholar]
+12. Putcha N, Woo H, McCormack MC, Fawzy A, Romero K, Davis MF, et al. Home dust allergen exposure is associated with outcomes among sensitized individuals with chronic obstructive pulmonary disease. Am J Respir Crit Care Med . 2022;205:412–420. [PMC free article] [PubMed] [Google Scholar]
+13. Langley SJ, Goldthorpe S, Craven M, Morris J, Woodcock A, Custovic A. Exposure and sensitization to indoor allergens: association with lung function, bronchial reactivity, and exhaled nitric oxide measures in asthma. J Allergy Clin Immunol . 2003;112:362–368. [PubMed] [Google Scholar]
+14. Tunnicliffe WS, Fletcher TJ, Hammond K, Roberts K, Custovic A, Simpson A, et al. Sensitivity and exposure to indoor allergens in adults with differing asthma severity. Eur Respir J . 1999;13:654–659. [PubMed] [Google Scholar]
+15. Simpson A, Tan VY, Winn J, Svensén M, Bishop CM, Heckerman DE, et al. Beyond atopy: multiple patterns of sensitization in relation to asthma in a birth cohort study. Am J Respir Crit Care Med . 2010;181:1200–1206. [PubMed] [Google Scholar]
+16. Gore RB, Curbishley L, Truman N, Hadley E, Woodcock A, Langley SJ, et al. Intranasal air sampling in homes: relationships among reservoir allergen concentrations and asthma severity. J Allergy Clin Immunol . 2006;117:649–655. [PubMed] [Google Scholar]
+17. Park H-K, Cheng K-C, Tetteh AO, Hildemann LM, Nadeau KC. Effectiveness of air purifier on health outcomes and indoor particles in homes of children with allergic diseases in Fresno, California: a pilot study. J Asthma . 2017;54:341–346. [PubMed] [Google Scholar]
+18. Chen R, Zhao A, Chen H, Zhao Z, Cai J, Wang C, et al. Cardiopulmonary benefits of reducing indoor particles of outdoor origin: a randomized, double-blind crossover trial of air purifiers. J Am Coll Cardiol . 2015;65:2279–2287. [PMC free article] [PubMed] [Google Scholar]
+19. Cui X, Li Z, Teng Y, Barkjohn KK, Norris CL, Fang L, et al. Association between bedroom particulate matter filtration and changes in airway pathophysiology in children with asthma. JAMA Pediatr . 2020;174:533–542. [PMC free article] [PubMed] [Google Scholar]
+20. Nurmatov U, van Schayck CP, Hurwitz B, Sheikh A. House dust mite avoidance measures for perennial allergic rhinitis: an updated Cochrane systematic review. Allergy . 2012;67:158–165. [PubMed] [Google Scholar]
+21. Hansel NN, Putcha N, Woo H, Peng R, Diette GB, Fawzy A, et al. Randomized clinical trial of air cleaners to improve indoor air quality and chronic obstructive pulmonary disease health: results of the CLEAN AIR study. Am J Respir Crit Care Med . 2022;205:421–430. [PMC free article] [PubMed] [Google Scholar]
+22. Xiang J, Huang C-H, Shirai J, Liu Y, Carmona N, Zuidema C, et al. Field measurements of PM2.5 infiltration factor and portable air cleaner effectiveness during wildfire episodes in US residences. Sci Total Environ . 2021;773:145642. [PMC free article] [PubMed] [Google Scholar]
+23. Hubbard HF, Coleman BK, Sarwar G, Corsi RL. Effects of an ozone-generating air purifier on indoor secondary particles in three residential dwellings. Indoor Air . 2005;15:432–444. [PubMed] [Google Scholar]
+Articles from American Journal of Respiratory and Critical Care Medicine are provided here courtesy of American Thoracic Society
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

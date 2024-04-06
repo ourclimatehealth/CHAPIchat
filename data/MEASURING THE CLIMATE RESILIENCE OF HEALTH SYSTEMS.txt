@@ -1,0 +1,1590 @@
+MEASURING THE
+CLIMATE RESILIENCE
+OF HEALTH SYSTEMS
+
+MEASURING THE
+CLIMATE RESILIENCE
+OF HEALTH SYSTEMS
+Measuring the climate resilience of health systems
+ISBN 978-92-4-004810-2 (electronic version)
+ISBN 978-92-4-004811-9 (print version)
+© World Health Organization 2022
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike
+3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided
+the work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO
+endorses any specific organization, products or services. The use of the WHO logo is not permitted. If you adapt
+the work, then you must license your work under the same or equivalent Creative Commons licence. If you create a
+translation of this work, you should add the following disclaimer along with the suggested citation: “This translation
+was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of
+this translation. The original English edition shall be the binding and authentic edition”.
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation
+rules of the World Intellectual Property Organization (http://www.wipo.int/amc/en/mediation/rules/).
+Suggested citation. Measuring the climate resilience of health systems. Geneva: World Health Organization; 2022.
+Licence: CC BY-NC-SA 3.0 IGO.
+Cataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iris.
+Sales, rights and licensing. To purchase WHO publications, see http://apps.who.int/bookorders. To submit requests
+for commercial use and queries on rights and licensing, see https://www.who.int/copyright.
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as
+tables, figures or images, it is your responsibility to determine whether permission is needed for that reuse and to
+obtain permission from the copyright holder. The risk of claims resulting from infringement of any third-party-owned
+component in the work rests solely with the user.
+General disclaimers. The designations employed and the presentation of the material in this publication do not
+imply the expression of any opinion whatsoever on the part of WHO concerning the legal status of any country,
+territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted
+and dashed lines on maps represent approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed
+or recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions
+excepted, the names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by WHO to verify the information contained in this publication. However,
+the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility
+for the interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising
+from its use.
+Design and layout by Inis Communication
+iii
+CONTENTS
+Acknowledgements iv
+List of abbreviations and acronyms v
+1 Introduction 1
+1.1 What is resilience? 4
+1.2 Target audience 6
+1.3 Guide to using this document 6
+2 Framework for measuring the climate resilience of health systems 7
+2.1 Understanding linkages among upstream determinants of health, health system capacity, and adaptation
+and health system resilience outcomes in a changing climate 7
+2.2 Monitoring upstream determinants of exposure and vulnerability 10
+2.3 Monitoring the climate resilience of health systems 11
+2.4 Monitoring outcomes of health system resilience 12
+3 Selecting indicators for measuring the climate resilience of health systems 13
+3.1 Criteria for indicator selection 13
+3.2 Selecting a first set of indicators 14
+3.3 Indicators of upstream determinants of exposure and vulnerability 15
+3.4 Indicators of climate resilience of health systems functions 16
+3.5 Indicators for population health and health system outcomes 21
+4 Data sources for indicators to measure the climate resilience of health system
+functions and outcomes of health system resilience 24
+4.1 WHO Health and Climate Change Global Survey 24
+4.2 Vulnerability and adaptation assessments at the population and health system levels 25
+4.3 Stress testing health systems to determine their resilience to climate-related shocks and stresses 25
+4.4 National and subnational surveillance systems 26
+4.5 Global, regional and national monitoring processes 27
+5 Interpreting results to inform policy 29
+5.1 How to interpret the results of monitoring climate resilience in health systems 29
+5.2 Informing policy processes and programme development with indicators of climate resilient health
+systems 30
+6 Conclusions 33
+References 34
+iv
+ACKNOWLEDGEMENTS
+This document was written by Kristie Ebi (University of Washington, United States of America (USA)),
+Carlos Corvalan (University of Sydney, Australia; Elena Villalobos Prats (WHO), Peter Berry (Health
+Canada, Canada), and Diarmid Campbell-Lendrum (WHO). WHO thanks the following experts for
+their revision and contribution to this report: Kone Brama (WHO); Ariel Brunn (London School of
+Hygiene and Tropical Medicine, United Kingdom of Great Britain and Northern Ireland); Paddy Enright
+(University of Waterloo, Canada); Solip Ha (WHO); Guy Howard (University of Bristol, United Kingdom);
+Sari Kovats (London School of Hygiene and Tropical Medicine, United Kingdom); Robert Marten
+(WHO); Tara Neville (WHO); Aderita Sena (WHO); Linda Varangu (Canadian Coalition for Green
+Health Care, Canada); Salvatore Vinci (WHO); Sonam Yangchen (WHO).
+v
+LIST OF ABBREVIATIONS AND ACRONYMS
+COVID-19 Coronavirus disease of 2019
+EWARS Early Warning and Reporting System
+HNAPs Health National Adaptation Plans
+IHR International Health Regulations
+IPCC Intergovernmental Panel on Climate Change
+JEE Joint External Evaluation
+NAPs National Adaptation Plans
+NDCs Nationally Determined Contributions
+UHC Universal health coverage
+UN United Nations
+UNDRR United Nations Office for Disaster Risk Reduction
+UNFCCC United Nations Framework Convention on Climate Change
+UNSD United Nations Statistical Division
+SDGs Sustainable Development Goals
+V&A Vulnerability and adaptation
+WHO World Health Organization
+
+1
+1 INTRODUCTION
+Climate change adversely affects population health and health systems. Health systems include all
+organizations, people and actions whose primary intent is to promote, restore or maintain health (1).
+By supporting the development and application of essential policies and programmes, in the context
+of a changing climate, this report seeks to promote the strengthening of health systems (2).
+Figure 1, highlights that climate change is altering hazards, exposures and vulnerabilities that can
+interact to increase or decrease risks to population health and health systems. Enhanced resilience
+decreases the likelihood that impacts will occur as well as the severity of the impacts that do occur.
+The COVID-19 pandemic has demonstrated how vulnerable health systems can be when confronted
+with a large hazard that stresses existing capacity to provide optimal health services.
+Health decision-makers, health professionals and civil society organizations recognize the risks
+posed by climate change and the need for proactive measures to plan for the impacts. Over two
+decades of adapting to the health risks of climate change have demonstrated that evidence-based
+actions can protect vulnerable people and communities.
+Figure 1: Climate-sensitive health risks (9)
+2
+For over 20 years, the World Health Organization (WHO) has been supporting efforts by health
+authorities to prepare for the challenges posed by climate change by implementing a risk management
+approach to strengthen health systems, learn from these efforts, and share information to support
+essential collaborations and partnerships. In 2015, WHO published the Operational Framework
+for Building Climate Resilient Health Systems (3) to guide users on conducting vulnerability and
+adaptation (V&A) assessments; developing comprehensive medium- and long-term adaptation
+plans (e.g., Health National Adaptation Plans (HNAPs)); and to design and implement interventions
+and programmes on climate change and health. Since then, the Operational Framework has been
+used to support countries’ efforts to transition to a system-based approach to health adaptation. In
+2020, WHO published guidance for climate resilient and environmentally sustainable health care
+(4). That guidance aims to enhance the capacity of health care facilities to protect and improve the
+health of target communities in the context of a changing climate, and to empower environmentally
+sustainable health care facilities. Achieving these aims is an important component of universal health
+coverage (UHC).
+The Operational Framework describes ten functions of health systems necessary to increase climate
+resilience, implemented around the six building blocks that support the delivery of UHC (5), see Figure 2.
+Complementary and targeted guidance related to some of the key functions is presented in Box 1,
+such as undertaking V&A assessments, increasing the climate resilience of health facilities, assessing
+vulnerabilities in health care facilities in the context of climate change, and developing HNAPs.
+Figure 2: WHO Operational Framework for Building Climate Resilient Health Systems
+12 Operational framework for building climate resilient health systems
+in healthcare costs due to climate-sensitive diseases, and develop new models to finance
+preventive intersectoral approaches. This can include leveraging climate change specific
+funding streams.
+3.6 Ten components for building climate resilience
+In order to provide a comprehensive health response to climate change, health decision
+makers need to consider the full range of functions that need to be strengthened to increase
+climate resilience.
+Starting from health sector building blocks, and taking into account existing global and
+regional mandates, the operational framework elaborates on 10 components that together
+provide a comprehensive approach to integrating climate resilience into existing health
+systems. These can provide the structure for a health adaptation plan, including the
+allocation of roles and responsibilities, as well as human and financial resources.
+FIGURE 3: Ten components comprising the WHO operational framework for building
+climate resilient health systems, and the main connections to the building blocks of
+health systems
+C L I M AT E R E S I L I E N C E
+Building blocks
+of health systems
+Health
+information
+systems
+Service
+delivery
+Financing
+Leadership &
+governance
+Essential
+medical
+products &
+technologies
+Health
+workforce
+HEALTH &
+CLIMATE RESEARCH
+CLIMATE RESILIENT
+& SUSTAINABLE
+TECHNOLOGIES
+AND INFRASTRUCTURE
+MANAGEMENT OF
+ENVIRONMENTAL
+DETERMINANTS
+OF HEALTH
+CLIMATEINFORMED HEALTH PROGRAMMES
+&
+M
+ANAGEMENT PREPAREDNESS EMERGENCY
+INTEGRATED RISK MONITORING
+&
+EARLY WARNIN
+G
+ASSESSMENT ADAPTATION CAPACITY
+&
+VULNERABILITY,
+WORKFORCE
+HEALTH
+GOVERNANCE
+LEADERSHIP &
+HEALTH FINANCING
+CLIMATE &
+10 components to build climate resilient health systems
+3
+Box 1: WHO guidance to protect health from climate change
+Recent guidance developed by WHO to help health authorities to prepare for the health risks
+of climate change include:
+ Climate Change and Health – Vulnerability and Adaptation Assessment (6) – provides
+basic and flexible guidance on conducting a national or subnational assessment of
+current and future vulnerability to the health risks of climate change, and of policies and
+programmes that could increase resilience, taking into account the multiple determinants
+of climate-sensitive health outcomes.
+ WHO Guidance for Developing Climate Resilient and Environmentally Sustainable Health
+Facilities (4) – provides health professionals and health care facility managers with key
+tools and interventions to build resilience and improve environmental sustainability in
+health care facilities. A companion report provides checklists to assess vulnerabilities in
+health care facilities in the context of climate change (7).
+ WHO Checklists to Assess Vulnerabilities in Health Care Facilities in the Context of
+Climate Change (7) – provides checklists to help health care facility managers and other
+health workers understand the climate risks that health care facilities may face, specifically
+in terms of existing vulnerabilities and possible impacts, and support them in taking
+appropriate action.
+ WHO Guidance to Protect Health from Climate Change Through Health Adaptation
+Planning (8) – assists health authorities with identifying national strategic goals for building
+health resilience to climate change and developing a national plan with prioritized activities
+to achieve these goals, within a specific time period and given available resources.
+ Quality Criteria for Health National Adaptation Plans (HNAPs) (9) – provides examples of
+good practice in HNAP development and assists countries in setting the foundation for
+establishing a long-term iterative HNAP process.
+As countries continue to prepare health systems for additional climate change, and as risks to health
+continue to increase with the possibility of more severe impacts, information and guidance are
+needed to understand when a health system can be considered resilient. Information and guidance
+are similarly required to recognize when adaptation efforts are not having the intended results, and
+whether specific components of the Operational Framework should be prioritized for effectively
+strengthening climate resilience.
+4
+1.1 What is resilience?
+Resilience, health system resilience and climate resilient health systems are related concepts. Although
+there are multiple definitions of these terms, they share key commonalities. The Intergovernmental
+Panel on Climate Change (IPCC) defines resilience, in the context of climate change, as “the
+capacity of social, economic, and environmental systems to cope with a hazardous event, trend, or
+disturbance, responding or reorganizing in ways that maintain their essential function, identity, and
+structure while also maintaining the capacity for adaptation, learning, and transformation” (10). Health
+system resilience, independent from climate change, can be understood as the capacity of health
+actors, institutions and populations to prepare for and effectively respond to crises; maintain core
+functions when a crisis hits; and reorganize if conditions require it (11). Others build on this definition
+to suggest that resilience is the ability to prepare for, manage (absorb, adapt and transform) and
+learn from shocks (12). Linking these two definitions, climate resilient health systems are those that
+are capable of anticipating, responding to, coping with, recovering from, and adapting to climaterelated shocks and stresses, so as to bring about sustained improvements in population health,
+despite an unstable climate (3).
+This definition highlights that resilience is measured at the scale of a health system. Health systems
+are composed of multiple actors, infrastructure and activities, along with collaborations with other
+sectors and entities. This report provides insights into the routine monitoring of the climate-related
+shocks and stresses that will impact each of the ten functions of health systems identified in the
+Operational Framework, to identify weaknesses that need to be addressed to enhance preparedness
+for a changing climate (13).
+1.1.1 Climate-related shocks and stresses
+Figure 3 shows in a simplified form how a climate-related stress (a slow onset event such as a
+drought or sea-level rise) or a sudden shock (such as a tropical cyclone, or a heatwave) could impact
+a health system and its capacity to respond. The response should be proportionate to the magnitude
+of the hazard, the extent of the exposure of populations and health care facilities, the underlying
+vulnerabilities of people and communities, and the capacities of health systems. Depending on the
+capacity to respond, there are a range of possible outcomes: from health system collapse with severe
+impacts on the population; to recovery to the pre-event state; to system transformation where future
+threats, including those made worse by climate change, have less impact.
+As a stress multiplier, climate change is increasing the probability of new and intensifying compound
+and cascading risks that stretch the capacity of health systems and leave less time between events
+for the systems to recover. It is increasingly likely that climate-related shocks and stresses will
+co-occur over short time periods. There will likely be increasing numbers of compound and cascading
+events that threaten people and health systems. The cessation of a stress may come in the form
+of a shock (such as heavy rains that end a drought, resulting in flooding). Risk factors (e.g., hazard,
+exposure and vulnerability) can also interact and compound, such as heatwaves interacting with dry
+conditions to increase wildfire hazard (7). The upstream determinants of risk can similarly interact,
+such as when inequities within the population result in certain groups (e.g., low income, marginalized)
+living in areas with higher exposure to climate-related hazards and with limited capacity to cope with
+
+5
+them. These interactions can create cascading risks, with one event or trend triggering another thus
+increasing their impact, particularly where a population’s vulnerabilities are higher.
+This implies that the resilience of health systems is dynamic, with no assurance that resilience today
+will provide adequate health protection tomorrow. This may be because the magnitude of hazards
+may increase, or unanticipated hazards may occur, or because health systems may be resilient to
+individual hazards but not to multiple hazards occurring in close proximity. Failure to prepare for
+climate change now by bolstering the resilience of health systems increases the probability that
+hazards become disasters and complex emergencies that cause severe impacts to human health
+and communities.
+Figure 3: Health system resilience
+Source: (4)
+1.1.2 Resilience requires monitoring and preparation for future risks
+Understanding the resilience of each function of a health system does not provide sufficient
+information to understand how well the system works as a whole. The uneven effectiveness of
+individual components of a health system can decrease its overall resilience. Indicators are required
+that provide insights into how well the total system is functioning when faced with challenges from
+current and future climate change risks.
+Health system
+capacity level
+Health system
+resilience level
+Above
+average
+Transform
+Anticipate
+Time
+Response Cope Recover Adapt
+Recover better
+than before
+Recover to
+pre-event state
+Recover but
+worse than before
+Collapse
+Normal
+Acceptable
+Below
+average
+Low
+Shock
+Performance
+drop
+Stress
+6
+Addressing climate change risks to population health and improving health system resilience requires
+proactive efforts to avoid being caught in a cycle of responsive or forced adaptation when shocks and
+stresses challenge a health system’s function. It also requires a focus on monitoring and managing
+future risks, including from more severe shocks and stresses to health systems or on previously
+unanticipated hazards, as well as thoughtful planning with decision-makers outside of the health
+sector. Inter-sectoral collaboration can help achieve large and immediate health co-benefits from
+adaptation and from measures to reduce greenhouse gas emissions, while increasing the resilience
+of health supporting systems (e.g., transport, food, water, etc.). These actions can, in turn, reduce
+impacts to health system operations including by lowering health care demand.
+Measuring the climate resilience of a health system is most effectively done with information and
+indicators that are tailored to the needs of the health authority using it. This exercise should build
+upon, but not duplicate the results of existing national health surveillance and related monitoring
+systems, as well as regional and international monitoring and reporting initiatives such as the WHO
+Health and Climate Change Global Survey, the Lancet Countdown on Health and Climate Change,
+the Sustainable Development Goals and the Sendai Framework for Disaster Risk Reduction. This
+guidance provides illustrative examples of the different types of indicators as well as the process of
+identifying them but it is not comprehensive. The guidance should be used to initiate discussions
+on which indicators are of the greatest relevance to the local or national health concerns about a
+changing climate.
+1.2 Target audience
+This report assists health authorities – from local to national levels – in their efforts to chart progress
+towards developing health systems that protect populations from current climate-related hazards and
+that are prepared for future climate shocks and stresses. Because many of the actions and indicators
+of progress are relevant for actions taken by decision-makers in other sectors, this report can also
+inform their adaptation activities. To this end, it provides a framework and suggested approach for
+measuring the climate resilience of health systems.
+1.3 Guide to using this document
+In Section 2, this document outlines a framework and method for measuring climate resilient health
+systems, discussing the linkages among upstream determinants of health, health system capacity
+and adaptation, and health outcomes in a changing climate. Section 3 then provides information
+on criteria for selecting indicators as well as tips on selecting the first set. Section 4 provides useful
+data sources health authorities can use to populate their indicators as part of V&A assessments
+or other studies. The final section discusses how the information from application of the indicators
+can be used to inform policy processes and programme development by health authorities to plan
+for climate change impacts.
+7
+2 FRAMEWORK FOR MEASURING
+THE CLIMATE RESILIENCE OF
+HEALTH SYSTEMS
+Climate-related risks result from the interaction of the hazards created by a changing climate, the
+populations and regions exposed to those hazards, and the underlying vulnerabilities to exposures.
+Reducing greenhouse gas emissions will contribute to reducing future climate hazards. However,
+the inertia of the climate system means that reduced emissions will not affect the frequency and
+intensity of hazards in the short-term; many will continue to pose serious threats to health. Climate
+change is increasing the probability that thresholds are crossed in terms of health system response
+during disasters and public health emergencies, overwhelming the coping capacities of health
+systems, with catastrophic impacts to communities. For example, rapid and extensive sea-level rise
+with associated increases in the magnitude of storm surges may increase the likelihood of such
+thresholds being crossed in the future. This means the key areas of interventions for health systems
+should focus on managing current exposures and reducing current vulnerabilities to help reduce the
+possible impacts of potentially more severe impacts of climate change. Health system investments,
+particularly in fixed assets, should consider current vulnerabilities as well as projected future risks
+to foster long-term resilience.
+The performance of key programmes and processes (e.g., health sector staff training, development
+of emergency management plans in health facilities, climate proofing health infrastructures, public
+education and outreach) can be monitored along with any population health and/or health system
+impacts to develop strategies for continuous improvements to build resilience to climate change.
+This includes a focus on strengthening the health system functions that are the weakest and focus
+on communities and populations that are particularly vulnerable.
+2.1 Understanding linkages among upstream determinants of health,
+health system capacity, and adaptation and health system resilience
+outcomes in a changing climate
+Figure 4 proposes a framework to identify methods and indicators to measure climate resilience
+and implement necessary health system adaptations. The Framework for Measuring the Climate
+Resilience of Health Systems starts with climate variability and change and illustrates the connection
+among three distinct parts that require measurement: i) upstream determinants of exposure and
+vulnerability; ii) climate resilience of health system functions; and iii) outcomes of health system
+resilience.
+ Upstream determinants of exposure and vulnerability: the goal is to identify and measure
+environmental factors and trends as well as the exposure pathways that are important to health
+outcomes in a specific jurisdiction. It is also relevant to identify and measure key socioeconomic
+factors and trends, and the existing vulnerabilities and susceptibilities of broader systems.
+8
+ Climate resilience of health systems functions: the goal is to measure current health
+system capacity and adaptation efforts based upon the ten components of WHO’s Operational
+Framework most relevant to a specific health authority area by accessing available data in
+collaboration with partners within and outside of the health sector.
+ Outcomes of health system resilience: these are measured with two sets of indicators that
+focus on climate change-related health outcomes and health system outcomes, to measure
+progress towards resilience.
+The framework can be used to measure progress towards climate resilience in health systems
+through indicators that track changes in: the upstream determinants of exposures and vulnerabilities;
+the robustness of each function of health systems; the overall capacity of a health system to manage
+climate-related shocks and stresses; and the extent to which resilience outcomes change following
+adaptation interventions. Short- and longer-term climate-related risks need to be monitored to ensure
+that near-term interventions build flexibility and capacity to prepare for and manage additional
+climate change impacts over the coming decades.
+The centre of Figure 4, ‘Climate resilience of health system functions’ shows the interlinkages
+within the ten components of climate resilient health systems. Indicators developed for the different
+components would focus on the extent to which each component is prepared for climate change.
+For example, are the policies and programmes regularly evaluated and modified to ensure continued
+effectiveness as the climate continues to change? Does the health system have the capacity, training
+and tools to make quick pivots in operations and service delivery with emerging information on risks?
+Adaptability is one key for fostering resilience; another is focusing explicitly on increasing flexibility
+for the development and implementation of future adaptation options.
+However, climate resilience will depend on more than the sufficient functioning of each building
+block of health systems – it will also depend on the effective interactions of the building blocks when
+faced with a shock or stress. As these increase in frequency and intensity over time, the demands on
+the individual components of health systems are likely to be more difficult to manage. No one single
+component will define resilience – the coordinated functioning of all components is required. It is
+proposed that indicators for each of the sub-categories included in the Framework are integrated
+into the monitoring system for climate resilient health systems. This will ensure a systems-based
+approach to measuring climate resilience.
+The health sector is responsible for monitoring those indicators related to ‘Climate resilience of
+health system functions’ and ‘Outcomes of health system resilience’. Progress across the different
+components of the Operational Framework will contribute to increasing overall climate resilience.
+Data are available for most, if not all, upstream determinants of exposure and vulnerability from
+sources external to the health system, often in country statistics from different government agencies
+(e.g., environment, meteorological services, finance, population census and others). The health sector
+will have to ensure coordination and facilitate the sharing of data collected elsewhere.
+9
+Figure 4: Framework for measuring the climate resilience of health systems
+Climate variability and change
+Upstream determinants of exposure and vulnerability
+Climate resilience of health systems functions
+Outcomes of health system resilience
+Ministries of Health
+Health workforce
+Sustainable technologies and infrastructure
+Health system outcomes Climate change-related health outcomes
+Other sectors, agencies
+and civil society
+Environmental factors and trends
+• Air pollution
+• Land use change
+• Biodiversity loss
+• Desertification
+• Water stress
+Exposure pathways
+• Temperature extremes
+• Extreme weather / climate events
+• Food / water access and safety
+Service delivery
+• climate-informed health programmes
+• Management of environmental
+determinants of health
+• Emergency preparedness &
+management
+Health information systems
+• Health and climate research
+• Integrated risk monitoring and early
+warning
+• Vulnerability, capacity and adaptation
+assessment
+Socioeconomic factors and trends
+• Demographic change
+• Economic growth
+• Urbanization
+• Science & technology investment
+• Inequities
+Vulnerability and susceptibility
+• Political commitment
+• Social infrastructure
+• Socioeconomic conditions
+• Population health status
+• Individual factors
+Health system
+resilience to
+short-term
+climate change
+risks
+Health system
+resilience
+to longterm climate
+change risks
+Leadership and governance
+Climate and health financing
+10
+2.2 Monitoring upstream determinants of exposure and vulnerability
+Climate change operates over decades or longer, altering daily, weekly and seasonal weather patterns,
+sea-level rise and ocean acidification. The extent to which these changes could affect population
+health and health systems depends on a range of interacting environmental and socioeconomic
+factors and trends. Climate change is a risk multiplier, interacting with environmental factors such
+as air pollution, land use change, biodiversity loss and desertification; these then affect exposure
+pathways, including water and food access and safety. Socioeconomic factors such as demographic
+change, economic growth, urbanization, investments in science and technology development, and
+the extent of gender equality and population inequities affect vulnerability and susceptibility. Each
+of these factors has multiple components that may affect the burden of climate-sensitive health
+outcomes and the effectiveness of health systems, such as the extent to which urbanization plans
+address the quality of housing stock. Together, these factors affect the climate resilience of health
+system functions.
+For example, heatwaves can affect health systems by increasing demands for health care,
+putting pressure on health systems and service delivery. The magnitude and pattern of risks of
+heatwave-related mortality in a region depends on urbanization, land use (extent of green and
+blue spaces), infrastructure, air pollution, age structure of the population, proportion of people with
+chronic diseases that increase susceptibility, access to cooling and other factors. Therefore, efforts
+to understand how heat-related mortality could change with climate change are more robust when
+these factors are considered along with climate change, instead of just using projections of rising
+temperatures over coming decades. Many upstream determinants will change over time with the
+effect of exacerbating or ameliorating the health risks of heatwaves. Incorporating into projections
+assumptions about population growth and ageing, urbanization rates, land use change, economic
+growth and investments can provide insights into approaches for closing inequity gaps associated
+with, for example, heat-related mortality.
+Social indicators monitor variables interacting with climate-related hazards that determine
+vulnerability and sensitivity. Examples include demographic data (e.g., number of young people),
+the availability of safe water, literacy/education rates (e.g., proportion of illiterate persons aged over
+18), urbanization rates, access to health services, and poverty rates (e.g., proportion of persons living
+in poverty).
+Indicators of these upstream determinants of exposure and vulnerability are generally already being
+collected by the Ministry of Health (e.g., number of adults over the age of 65 years and therefore
+more vulnerable to heatwaves) or are being collected by other sectors, agencies and civil society. For
+example, other government bodies often collect data on demographics, urbanization and weather
+and climate. Efforts to acquire data for indicators selected to measure climate resilient health systems
+will, therefore, require collaboration with officials in other ministries, agencies and organizations that
+collect this information.
+Indicators of upstream environmental and socioeconomic drivers can assist health officials and
+others to identify populations at higher risk of climate-sensitive health outcomes. Depending on the
+jurisdiction, examples could include the proportion of households affected by floods, drought and
+storms per month; the proportion of households without regular access to safe water; the proportion 
+11
+of the population with chronic diseases and/or over 65 years of age; or the number of deaths due
+to floods, droughts and storms. These and similar indicators can monitor how the composition and
+distribution of exposed and vulnerable groups change over time as the climate continues to warm.
+2.3 Monitoring the climate resilience of health systems
+The Framework for Measuring the Climate Resilience of Health Systems (Figure 4) highlights a
+number of key components of health systems that are integral for improving the capacity to address
+growing risks to health from climate change. It recognizes the central importance of health information
+systems as well as service delivery in keeping people and health systems safe from climate change,
+but also identifies leadership, the health workforce, governance and financing as well as resilient
+and environmentally sustainable technologies and infrastructure as being equally important.
+As Figure 4 illustrates, health information systems that guide adaptation efforts are supported
+through health and climate change research; climate change and health V&A assessments; and
+risk monitoring and warning systems that integrate climate and weather information. Climate resilient
+service delivery depends upon the development of climate-informed health programmes; sustained
+efforts to manage key determinants of health; and robust emergency preparedness and management
+systems that can address threats from acute shocks and stresses from extreme weather events and
+disasters and related public health emergencies. In addition, efforts to develop a knowledgeable
+and trained health workforce and to develop new climate resilient technologies and infrastructures
+(for example, in the building of new health facilities) are strategic activities by health authorities to
+prepare for climate change.
+The Framework recognizes the interplay of local to national vulnerabilities, capacities and actors and
+institutions as well as the requirement for strong leadership, governance and financing mechanisms.
+Leadership and governance, for example, can have an important influence on empowering the
+health workforce, and in supporting climate-informed service delivery. Furthermore, a range of actors
+from local to national organizations and institutions are responsible for preparing for, responding to,
+coping with and recovering from the health impacts associated with climate variability and change.
+Therefore, collaboration with decision-makers outside of the health sector is critical to maximize
+climate resilience.
+Programming that systematically considers climate change in health system activities will make
+new demands on technical knowledge, infrastructure and capacities, require enhanced and novel
+surveillance, and necessitate engagement across all sectors where climate change-related impacts
+may affect human health (e.g., power generation and transmission). Adequate and sustained climate
+and health financing is required to support all these functions.
+Sample indicators for each of the categories included under ‘Climate resilience of health systems
+functions’ in the Framework can be found in the WHO Operational Framework (3) (Figure 2). These
+may support efforts by health authorities to develop their own approach for assessing progress
+towards climate resilience, including the creation of jurisdiction-specific indicators that can be
+monitored over time.
+12
+2.4 Monitoring outcomes of health system resilience
+Most health systems are already reporting numbers of climate-sensitive injuries, illnesses and deaths
+for a range of health outcomes. In addition, years of life lost from climate change can be used as an
+aggregate measure of the overall burden of disease that could be attributed to a changing climate.
+These data are essential for understanding trends in health outcomes themselves and/or trends
+in vulnerability, such as numbers of deaths in a heatwave or the proportion of the population that
+is vulnerable to extreme heat. Increasing investment in adaptation should lead to reductions in the
+numbers of adverse health outcomes and/or on changes in the strength of the association between
+hazard and health outcome over time. For example, the number of people exposed to heatwaves may
+remain the same or increase over time, but if resilience is increasing, then the rate of adverse health
+outcomes would decrease with greater awareness and effective adaptation interventions. Through
+a V&A assessment, baselines can be established and key indicators of the population health risks
+of climate change identified against which progress towards improving health can be measured.
+Climate change affects not only population health but also the overall functioning of health systems
+and health care facilities. For example, severe storms, floods and wildfires can have devastating
+impacts on hospitals, clinics, community health centres and care homes (Box 2, below). Depending
+on the national context, countries will face different climate-sensitive health risks.
+Box 2: Climate resilient health care facilities
+Climate resilience is needed in the four fundamental requirements for providing safe and
+quality health care in the context of climate change: (i) health workforce – adequate numbers
+of skilled human resources, with decent working conditions, empowered and informed to
+respond to environmental challenges; (ii) water, sanitation, hygiene and health care waste
+management – the sustainable and safe management of water, sanitation and health care
+waste services; (iii) energy – sustainable and resilient energy services; and (iv) infrastructure,
+technologies and products – appropriate infrastructure, technologies, products and processes,
+including all the operations that allow for the efficient functioning of a health care facility. An
+assessment tool for resilience is provided in the WHO Guidance for Climate-Resilient and
+Environmentally Sustainable Health Care Facilities (4). A companion report, Checklists to
+Assess Vulnerability in Health Care Facilities in the Context of Climate Change (7), contains
+checklists to assess vulnerabilities in health care facilities and are intended for health care
+facility managers and other health workers aiming to understand the climate risks (large or
+small) that health care facilities may face, in terms of existing vulnerabilities, possible impacts
+and what actions are required. The checklists can be used to establish a baseline with regards
+to resilience in health care facilities. This will be used to inform the design of interventions to
+strengthen overall resilience to climate change. The checklists can also be used for iterative
+vulnerability assessments in health care facilities, to help health care facility managers: (i)
+identify climate hazards of concern; (ii) assess current vulnerability for each of the hazards,
+in each of the key components of health care facilities; and (iii) understand potential impacts
+posed by climate variability and change in each of the key components of health care facilities.
+Checklists for key climate hazards (floods, storms, sea-level rise, droughts, heatwaves, wildfires
+and cold waves) consist of separate sets for assessing vulnerabilities and impacts.
+13
+3 SELECTING INDICATORS FOR
+MEASURING THE CLIMATE
+RESILIENCE OF HEALTH SYSTEMS
+A minimum set of indicators should be identified to monitor the resilience of health systems, based
+on priorities identified in the national V&A assessment, HNAP, or programmes being implemented
+for climate-related risks, and building on selected indicators already being tracked by the Ministry of
+Health and other partners. The process of identifying a minimum set of indicators may reveal gaps –
+such as data on climate-sensitive exotic diseases – indicating where new indicators and data sources
+may be needed. Indicators can be developed and tailored to a specific country or health authority
+to monitor the pace, timeliness, effectiveness and sufficiency of adaptation efforts.
+There is no ‘one size fits all’ set of indicators for climate change and health adaptation and resilience
+building efforts. The objectives affect the types of indicators chosen. For example, the suitability
+of specific indicators would likely vary for different objectives such as measuring: health system
+resilience at global, national and local scales; progress on preparing for and managing the population
+health risks of climate change; progress on reducing greenhouse gas emissions from health system
+operations (e.g., health care, medical transport, medical products, infrastructure management etc.);
+and measuring the effectiveness of adaptation in a changing climate. This document focuses on
+indicators for measuring the climate resilience of health systems at national or local levels.
+The levels established and information provided by an indicator should offer sufficient information
+to inform operational decisions. For example, a ‘yes/no’ response to a question on whether a health
+authority has conducted a V&A assessment does not provide information on when it was conducted,
+which health outcomes were included, or which (if any) recommendations have been implemented
+by the Ministry of Health at the national or subnational scale.
+3.1 Criteria for indicator selection
+Several criteria for indicator selection follow models developed for environmental health indicators,
+but few are specific for climate change. Robust indicators for the climate resilience of health systems
+include outcome and process indicators for all categories included in the ‘Climate resilience of
+health system functions’ category of the Framework. This will allow health authorities to assess the
+overall functioning of the health system when faced with a climate-related shock or stress. Process
+indicators are suitable to monitor the overall effectiveness of the health system itself in preparing
+for and responding to climate change. Useful criteria for selecting indicators relevant to a specific
+jurisdiction include that they are:
+ specific, based on an association between climate and health
+ actionable, related to climate and health conditions that are amenable to adaptive actions
+14
+ measurable, based on timely and unbiased data of acceptable quality
+ understandable, applicable and acceptable to stakeholders and potential users
+ representative of the issues and areas of concern
+ consistent and comparable over time and space
+ robust and unaffected by minor changes in method, scale or data
+ scalable, capable of being used at different scales
+ cost-effective, capable of being constructed and used at an acceptable cost–benefit ratio
+ sustainable, able to provide data for the next 20–30 years
+The availability, accessibility, quality and resource requirements of data for monitoring indicators
+often varies, suggesting that different approaches may be required to using indicators based on
+available human and natural resources at local to national scales.
+Every context is different; therefore, indicators should be developed based on the national and
+subnational needs, level of capacity and the available human and financial resources. It is important
+to link to and integrate with indicators used by partners, such as weather and climate data as well
+as disaster preparedness. Indicators should be tracked, and analyses conducted of changes over
+time, relative to a baseline through subsequent V&A assessments and other studies and monitoring
+processes.
+3.2 Selecting a first set of indicators
+The first set of indicators can be selected through several processes. A team led by the Ministry of
+Health should be designated to evaluate the current understanding of the health risks of climate
+change. At the same time, relevant data should be collected within the Ministry and across healthrelevant ministries to identify a set of indicators for monitoring that will assess the resilience of health
+systems across all categories of the Framework depicted in Figure 4. Many of these indicators will
+already be routinely collected, so mechanisms will need to be determined for sharing the data at the
+temporal and spatial scales needed. Data may need to be collected on new indicators – for example,
+indicators that require modeling or analysis. The team will need to specify the data to be collected,
+including the temporal and spatial scale, the process for collecting and reporting the data, and which
+group(s) will be responsible for analyzing the data. A team responsible for monitoring the indicators
+will need to be designated within the Ministry of Health.
+For countries that have, or are conducting, V&A assessments, the indicators can be selected during
+that process. Generally, the goal of the V&A assessment is to identify priority health risks and
+adaptation options to manage those risks in a changing climate. These priorities, and the data and
+information collected to inform the V&A assessment, can be used to select a first set of indicators,
+which should include health system resilience.
+The country could also consider data currently collected and reported in global monitoring
+mechanisms, such as the WHO Health and Climate Change Global Survey, to help identify suitable
+indicators. The responses to the survey signal areas of concern for population health and for the 
+15
+effective functioning of health systems. In all cases, it would be beneficial, whenever possible, to
+align the selected priority indicators with key indicators reported in global monitoring mechanisms
+or processes such as the WHO Health and Climate Change Global Survey. Organizing a meeting
+of stakeholders responsible for the survey responses, including within the Ministry of Health and
+across health relevant ministries, can facilitate discussion and agreement on which indicators are
+priorities for monitoring health system resilience.
+If no V&A assessment has been conducted, or if the country does not respond to the WHO Health
+and Climate Change Global Survey, then a first set of indicators can be selected by the designated
+team using the criteria discussed in section 3.1 for climate resilience of health system functions
+and climate-sensitive health outcomes that are a priority for the Ministry of Health. The identified
+indicators may come from research, a literature review, and/or expert or public consultation. The
+results can be validated and expanded upon when the country conducts a V&A assessment.
+Whatever the process for identifying the first set of indicators, the designated team in the Ministry
+should explicitly outline a plan for continued improvement of the indicator set. As time goes on, new
+data sets will become available that may be more relevant or at a finer scale – these data sets could
+then replace those being used. As the climate continues to change, new indicators may be needed
+for climate-sensitive health outcomes new to the country or that are increasing in incidence. Changes
+in the geographic range of vector-borne diseases may mean that surveillance sites need to shift
+with the new reality. And some health outcomes could decline with additional climate change, such
+as where regions become too hot and dry for critical mosquito species. The designated teams can
+adjust the indicator list based on new insights from updated V&A assessments and HNAPs. How
+often the indicators should be evaluated ought to be specified in the plan for improving the indicators.
+3.3 Indicators of upstream determinants of exposure and vulnerability
+The primary responsibilities for collecting data on the upstream determinants of exposure and
+vulnerability lie outside the health sector. Therefore, it is important to link to existing efforts by those
+partners to inform the monitoring of climate resilience in health systems. Selection of the indicators
+to be monitored can be based on the results of the V&A assessment, HNAP, or knowledge gained
+through adaptation projects. Discussions with the experts who collect and analyze the exposure and
+vulnerability data would lead to a greater understanding of the strengths and challenges associated
+with the data and could lead to the selection of different datasets. It may be possible that the data
+owners could derive new metrics that better match the temporal and spatial scale of the health data.
+Hydrometeorological services within ministries of the environment monitor weather, climate
+variability, and climate change. Selected indicators should monitor current weather patterns relevant
+for exposure pathways for climate-sensitive health outcomes – such as temperature, precipitation
+and extreme weather and climate events – and should provide projected changes of these variables
+under different pathways of greenhouse gas emissions. To ensure preparedness for a changing
+climate, projections should extend at least to mid-century so that proposed adaptations can be
+assessed against future climates, while still relevant to shorter health planning horizons. For health 
+16
+care facilities, projections should be through to the end of the century because of the lifetime of
+infrastructure, although for some infrastructure the period may be shorter.
+Ministries of the environment or other ministries and organizations also monitor environmental factors
+and trends (e.g., air pollution) as well as socioeconomic factors and trends, such as demographic
+change and economic growth.
+Suggested indicators include:
+ Temperature trends and projections until at least mid-century
+ Precipitation trends and projections until at least mid-century
+ Sea-level rise and projections until at least mid-century
+ Trends in extreme weather and climate events and projections until at least mid-century
+– Heatwaves
+– Floods
+– Drought
+– Storm surge
+– Storms
+– Wildfires
+ Trends in availability and quality of water and food
+For vulnerability, selected indicators should monitor trends in factors that will affect exposure and
+vulnerability to climate variability and change, such as demographic change (e.g., older adults are
+more susceptible to heatwaves; children are more susceptible to food insecurity); economic growth
+(e.g., to provide information on resources and allocations for adaptation); urbanization (e.g., could
+lead to improved housing conditions or to unplanned settlements); and political commitment to
+climate change.
+As indicators for upstream determinants of health are collected in other ministries or departments,
+developing memoranda of understanding or other agreements with relevant departments may be
+needed to facilitate data-sharing and access.
+3.4 Indicators of climate resilience of health systems functions
+Based on the Framework, Table 1 lists sample indicators to measure health system resilience to
+short-term risks (up to ten years) and long-term climate change impacts (ten years and over) for
+each component of the Operational Framework. For some health system functions (e.g., leadership
+and governance), the proposed indicators can be expected to be relevant for short- and long-term
+risks (e.g., national strategies for health and climate change and/or HNAP, iteratively developed and
+updated). For other functions (e.g., integrated risk monitoring and early warning systems), short- and
+long-term indicators will be needed to facilitate effective preparation. For example, early warning
+systems are often based on weather to sub-seasonal temporal scales, which means that indicators
+of their effectiveness can monitor short-term resilience. For vector-borne diseases, longer-term 
+17
+indicators may be needed to track the rate at which vectors are changing their geographic range
+and/or length of seasonal activities.
+The assessment of health system resilience is qualitative and there are different levels of difficulty in
+achieving the proposed goals (e.g., designating a climate change focal point in the Ministry of Health
+could be easier than having a national health and climate change plan in place). For each indicator,
+evidence-based quality standards (scaled by intensity/completeness of the response) and the dates
+of report and periodic review should be established. Integrated monitoring facilitates the collection
+and analysis of data on environmental hazards, socioeconomic factors, and health outcomes.
+The proposed list of indicators in Table 1, below, is not prescriptive; but it is a comprehensive set
+that can guide countries to assess their health system resilience. Countries are encouraged to build
+on this list, identify their needs, finalize their own indicators and develop their own targets that are
+context specific (e.g., What fraction of the health workforce should be trained on climate change and
+health? By when should all health care facilities be retrofitted to be climate-proof?). New indicators
+can be fitted in one of the ten component areas. At times, it may be difficult to decide where any
+one indicator fits best; this should not detract from the exercise of identifying additional relevant
+indicators.
+Building resilience in the short-term is equally important as building it over the long-term. Many
+countries have already initiated short-term actions to prepare for the health impacts of climate
+change; some of these may have important synergies with efforts to manage the COVID-19 pandemic.
+While some may find it easier to identify additional short-term indicators, attention should also be
+given to the long-term climate change risks that will require higher levels of resilience.
+Table 1: Sample indicators of health system resilience to short-term and long-term
+climate change risks
+Level of resilience:
+Low
+(unavailable, unable, unprepared)
+Medium
+(in progress, incomplete, basic)
+High
+(completed, achieved, prepared)
+Resilience to short-term risks
+(<= 10 years)
+Additional resilience to long-term
+climate change risks (>10 years)
+Leadership and governance
+The Ministry of Health has a designated
+focal point responsible for health and
+climate change
+Adequate and sustained human and
+financial resources in place to implement,
+review and update the HNAP
+Climate change and health integrated into
+health sector strategies and UHC, while
+an HNAP developed with an appropriate
+review and update cycle
+Long-term risks inform the implementation
+and adaptation measures of key priorities
+integrated in the HNAP
+Institutional mechanisms between
+the Ministry of Health and key
+health-determining sectors support
+implementation of the HNAP
+HNAP includes actions that strengthen the
+resilience of health systems to long-term
+risks
+18
+Resilience to short-term risks
+(<= 10 years)
+Additional resilience to long-term
+climate change risks (>10 years)
+HNAP includes actions to protect the
+health of populations and health systems
+operations from extreme weather events
+and current climate change
+HNAP iteratively updated based on
+emerging evidence on climate change and
+health
+Main adaptation and mitigation strategies
+and policies in health-determining sectors
+that maximize health co-benefits identified
+and implemented
+Routine assessment and implementation
+of adaptation and mitigation strategies
+and policies in health-determining sectors
+based on climate change projections that
+maximize health co-benefits
+Health workforce
+Health care workers have information and
+training to protect their health and their
+patients from climate hazards
+Curricula on climate change and health
+developed and executed at relevant tertiary
+levels
+Ministry of Health staff in all health
+programmes have received recent training
+on topics related to health and climate
+variability and change
+Health care workers have core
+competencies appropriate to their role and
+function to address climate change and
+health
+Ministry of Health staff in all health
+programmes have received recent training
+on climate resilient and environmentally
+sustainable health care facilities
+Health workers understand potential future
+climate-related changes in e.g., food yields
+and infectious disease transmission and
+distribution
+Vulnerability and adaptation assessments
+Climate change and health V&A
+assessments conducted and the results
+integrated into health system planning
+Climate change and health vulnerability
+assessments conducted iteratively
+Baseline rates of climate-sensitive health
+outcomes established in climate change
+and health vulnerability assessments
+Future impacts of climate change
+established (quantitatively or qualitatively)
+in climate change and health vulnerability
+assessments
+Vulnerable populations and areas of high
+climate-related health risks identified and
+mapped
+Global to local trends (e.g., population
+dynamics and migration) inform the
+estimation of future health risks and
+vulnerable populations and regions
+Identification of a robust process and
+indicators for measuring the climate
+resilience of health systems
+Routine measurement of climate resilience
+of health systems and needed adaptations
+implemented
+Weaknesses in current technical and
+health service capacities and necessary
+adaptations identified
+Health impact assessments conducted
+and implemented for key adaptation and
+mitigation policies and programmes of
+health-determining sectors
+Integrated risk surveillance & health early warning
+Climate-sensitive disease surveillance
+systems informed by weather information
+Projections of changing distribution
+of diseases due to climate and other
+determinants informs surveillance and early
+warning systems
+Seasonality of disease transmission defined
+for priority climate-sensitive diseases
+Development of more robust, longer-term
+seasonal forecasts for important
+climate-sensitive diseases
+Climate/weather information used to
+assess risk of outbreaks of climatesensitive diseases
+National guidance implemented on
+climate-informed health early warning
+systems
+19
+Resilience to short-term risks
+(<= 10 years)
+Additional resilience to long-term
+climate change risks (>10 years)
+Rapid diagnostics, syndromic surveillance
+and other detection tools developed,
+implemented and updated to track
+changing incidence rates
+New technologies developed and deployed
+to track changing vulnerability and
+incidence rates
+Operational climate-informed health early
+warning systems for extreme weather and
+climate events developed, implemented
+and updated
+Operational climate-informed health early
+warning systems expanded to include other
+key climate-sensitive health risks
+Health and climate research
+Collaborative mechanisms between
+the Ministry of Health and key national
+stakeholders developed to strengthen
+evidence and to conduct research on
+climate change and health
+National health research funding
+mechanisms include climate change and
+health as a fundable stream
+National research agenda or science
+plan on climate change and health
+developed and informed by results of a
+V&A assessment and consultations with
+stakeholders
+Tertiary educational institutions offer
+research programmes on climate change
+and health
+Ministry of Health has an environmental
+health programme budget dedicated to
+climate change and health research
+Ministries of Health take action based on
+the findings of health and climate research
+Climate resilient and sustainable technologies and infrastructure
+Health care facilities are built or retrofitted
+to be climate-proof
+New technologies developed and deployed
+to reduce impacts on health systems and
+infrastructures from climate change
+Health care facilities upgraded or retrofitted
+to address current impacts of climate
+variability including decisions regarding
+construction, technologies and procedures
+to ensure the provision of basic services
+(including energy, water and sanitation)
+Health care facilities incorporate climate
+variability and change in decisions related
+to siting, construction, technologies and
+procedures to ensure the provision of
+basic services (including energy, water and
+sanitation)
+Health care facilities include sustainability
+in the selection of products and the
+procurement of services, including energy,
+water, transport and waste management,
+and review possible impacts of climate
+change on supply chains
+Assessments conducted of health
+sector impacts on the environment,
+including greenhouse gas emissions and
+environmental sustainability, and necessary
+measures implemented
+Health care facilities develop plans
+to protect the health workforce and
+communities from climate hazards
+Health care facilities capable of protecting
+the health, safety and security of their
+health workforce and communities faced
+with climate change
+Management of environmental determinants of health
+Clean energy promoted as a means to
+address the health impacts of climate
+change
+Air quality and health improved from the
+wide implementation of renewable energy
+systems
+Climate resilient water safety plans
+integrate risks to health posed by extreme
+weather events
+Climate resilient water safety plans propose
+improvements to water services to address
+the health risks posed by climate change 
+20
+Resilience to short-term risks
+(<= 10 years)
+Additional resilience to long-term
+climate change risks (>10 years)
+Sanitation safety plans assess health risks
+posed by extreme weather events via
+impacts in sanitation systems
+Climate resilient sanitation safety plans
+include improvements to sanitation
+systems to address the health risks posed
+by climate change via impacts in sanitation
+Climate resilient food systems promoted as
+a means to address the health impacts of
+climate change
+Climate resilient food systems and
+sustainable diets promoted as a means to
+address climate change
+Climate-informed health programmes
+Climate change and health public
+awareness campaigns implemented
+Public health programmes address key
+climate risks using most recent climate
+projection information
+Operational health sector response plan
+implemented for key climate-sensitive
+health risks
+Public health programmes address the
+needs of at-risk groups (e.g., children, older
+people, immigrants) using the most recent
+climate projection information
+Health information systems ensure the
+production and application of reliable and
+timely information on health determinants,
+health systems performance and health
+status for managing climate-related health
+risks
+Stakeholder mechanisms developed and
+updated to support participation, dialogue
+and information exchange, for civil society
+and community groups to adapt to climate
+change health risks in a manner that
+addresses eco-anxiety and empowers
+action
+A climate change and health
+communication strategy developed,
+implemented and updated, in collaboration
+with at-risk groups, with information for
+diverse audiences and events
+Climate change and health training and
+capacity building sessions for health
+professionals, the media and community
+stakeholders in risk communication,
+including communicating uncertainty
+Emergency preparedness and management
+National guidance established for disaster
+risk management, in collaboration
+with other responsible ministries and
+departments
+Health systems are able to respond to
+the targets in the Sendai Framework for
+Disaster Risk Reduction
+Availability of a local and national disaster
+risk reduction strategy, addressing extreme
+weather events and other climate-related
+health emergencies
+Availability of a local and national disaster
+risk reduction strategy, addressing the
+increased number and severity of extreme
+weather events and climate change
+Weather monitoring, nowcasting products
+and weather forecasts trigger preparedness
+plans and Standard Operating Procedures
+for extreme weather events
+Contingency plans for health care provision
+developed, implemented and updated
+to address changed patterns in extreme
+weather events and cascading risks
+Climate and health financing
+International climate finance made
+available to the Ministry of Health with a
+focus on building climate resilience
+Funding made available from key health
+determining sectors to reduce climate
+change and health risks
+Climate change mitigation actions included
+in Ministry of Health budget
+Adequate funds for core health and public
+health services are available to maintain
+functions
+Climate change adaptation actions
+included in Ministry of Health budget
+Decadal and longer-term forecasts used to
+inform health investments
+21
+3.5 Indicators for population health and health system outcomes
+Climate change and the upstream drivers of exposure and vulnerability are not static, requiring
+adjustments as the drivers of risk change, with new risks arising and others being ameliorated in
+response to the magnitude and pattern of climate change. For example, the geographic range of
+malaria may expand in some regions with additional warming and may decrease in other regions
+that become too hot and dry for Anopheles mosquitoes; it may also change due to the introduction
+of public health measures to protect people. Additionally, although some health care facilities may
+not initially experience the devastating effects of climate change directly, they can still be susceptible
+to smaller incremental impacts that could accelerate and accumulate over time. Examples include
+receiving patient transfers from facilities experiencing interruptions to the delivery of food and medical
+devices from suppliers affected by extreme weather events, and cumulative economic impacts and
+longer-term stress and strain on health care staff. This means indicators will need to be deployed in
+new regions and potentially scaled back in others. Because the need to measure selected indicators
+will change over time, there should be a process for regularly evaluating, modifying and sunsetting
+indicators as needs change.
+A starting point would be to monitor at least one indicator for each health outcome of concern
+and key indicators of health system/facility impacts from climate change. The results of previous
+V&A assessments may help in identifying the indicators; otherwise, existing research results and/
+or consultation with experts and the public may be used. Table 2 gives examples of indicators to
+measure population and health system outcomes.
+Table 2: Sample indicators to measure population and health system outcomes
+Population health outcomes
+Health outcome Example indicators
+Injury and mortality
+from extreme weather
+events
+Number of deaths, missing persons and persons affected by
+climate-related disaster per 100,000 people
+Heat-related outcomes Excess mortality associated with exposure to periods of high
+ambient temperature
+Respiratory illness
+from air pollution or
+aeroallergens
+Number of emergency department visits for exacerbations of
+asthma and chronic obstructive pulmonary disease during and after
+wildfires
+Waterborne diseases
+and other water-related
+health impacts
+Incidence of acute gastrointestinal illness cases/outbreaks following
+heavy precipitation events
+Vector-borne and
+zoonotic diseases
+Changes in the incidence and geographic range of climate-sensitive
+infectious diseases, such as the incidence of dengue fever per
+100,000 population per week or month
+22
+Malnutrition and
+foodborne diseases
+Prevalence of stunting in children under five years old;
+Incidence of climate-related food-borne diseases (e.g.,
+Campylobacter, E. coli, Giardia, Salmonella) in the spring and/or
+summer months
+Mental and
+psychosocial health
+outcomes
+Number of cases presenting at primary care for mood or behavioral
+disorders after extreme weather events
+Equity impacts Mortality impacts of extreme heat based upon income/
+neighbourhood
+Health system outcomes
+Impacts on health
+facilities and systems Example indicators
+Infrastructure Frequency with which infrastructure damage is experienced from
+extreme weather events and disasters
+Disruption to power sources (by cause)
+Disruption to food and water supplies
+Supply chains Supply chains resilient to climate impacts (local, regional and
+international)
+Health procurement considers environmental sustainability and
+carbon intensity
+Health workforce Impacts on health care staff (physical and mental)
+Staff shortages
+Patient care Shortages of medical supplies (e.g., blood supplies, medical devices)
+Damage to medical equipment (e.g., electronic records)
+Disruption to operations (e.g., cancellation of surgeries, transfer of
+patients)
+Impacts on quality of patient care
+Number of times facility accepts patients from other health care
+facilities impacted by climate-related events
+Financing Economic losses to the health sector and health systems from
+extreme events and disasters
+23
+The growing risks from climate variability and change, and increasing interest from development
+partners, mean that many local actors are implementing adaption options designed by and for local
+human and natural systems, such as mangrove restoration to reduce the vulnerability of coastal
+communities to storm surges. Whilst most climate change impacts are experienced locally – such
+as floods, reductions in crop yields or the spread of diseases – these localized impacts can have
+national and international ramifications that require action beyond the local level. Local or regional
+adaptation activities should be embedded within national adaptation and development plans, to
+ensure that the adaptation options implemented directly or indirectly promote the achievement of
+national development objectives. If adaptation actions to protect health are captured or documented
+in another strategy – for example, in a National Adaptation Plan – the best way to measure health
+system resilience may be by reporting through that Plan in coordination with partners outside of
+the health sector. Actions in other sectors that adversely affect health may also require monitoring.
+24
+4 DATA SOURCES FOR INDICATORS
+TO MEASURE THE CLIMATE
+RESILIENCE OF HEALTH SYSTEM
+FUNCTIONS AND OUTCOMES OF
+HEALTH SYSTEM RESILIENCE
+This section provides information on key activities and processes producing data and indicators
+on climate change and health at the regional, national, and global levels that can support efforts to
+measure the climate resilience of health systems using this Framework. Specific objectives identified
+by a health authority will affect the types of indicators chosen. Measuring health system resilience
+includes:
+ Climate variability and change
+ Upstream determinants of exposure and vulnerability
+ Climate resilience of health system functions
+ Climate change-related health outcomes (health system and individual health outcomes)
+Health and other ministries and organizations regularly monitor data and trends that relate to
+indicators in these categories.
+The data sources for the selected indicators will depend on the country or specific health authority
+and must be specified. The indicator system should consider the priority issues raised in any climate
+change and health V&A assessment and health components of National Adaptation Plans.
+4.1 WHO Health and Climate Change Global Survey
+The WHO Health and Climate Change Global Survey is a voluntary triennial survey sent to all
+194 WHO Member States and a small number of Non-Member Territories (14). It is completed by
+ministries of health in consultation with other health stakeholders, ministries and institutions. The
+survey forms the foundation of WHO’s global monitoring of national progress on key health and
+climate change indicators. The WHO Health and Climate Change Global Survey report and dynamic
+data dashboard (14) summarize the survey findings. They provide a snapshot of progress on the
+implementation of health and climate change policies and plans; identify evidence gaps; indicate
+barriers to achieving adaptation and resilience priorities; and efforts to promote the health benefits
+of sector-wide climate mitigation action. In addition to tracking global progress, national level data is
+presented in the WHO/United Nations Framework Convention on Climate Change (UNFCCC) Health
+and Climate Change Country Profiles (15). Ninety-five countries participated in the 2021 global survey.
+25
+4.2 Vulnerability and adaptation assessments at the population and
+health system levels
+Conducting a national or subnational V&A assessment at the population and/or health system
+levels will provide information about current and future vulnerability to the health risks of climate
+variability and change, and the policies, programmes and capacities of health systems that could
+increase resilience (Box 3). The assessment outcome will provide information to identify, validate
+and adjust indicators. In addition, assessment findings will provide information and data to help
+populate many of the selected indicators when monitoring health system resilience, for example,
+changes in vulnerability over time as the climate warms, the effectiveness of adaptation options,
+and the functioning of the health system.
+Box 3. Vulnerability and adaptation assessment
+As part of its guidance on building climate resilience, WHO has developed guidance on
+conducting V&A assessments (6). Its aim is to provide a basic and flexible tool for conducting
+a national or subnational assessment of current and future vulnerability to the health risks of
+climate variability and change. The tool allows countries to evaluate which populations and
+specific groups are most vulnerable to different kinds of health effects from climate change;
+to identify weaknesses in the systems that should protect them; and to specify interventions
+to respond. A V&A assessment is a participatory process and builds on the core principles
+of risk assessments, taking into consideration the unique challenges presented by climate
+variability and change, to provide policy-relevant information for maintaining and improving
+health systems in a changing climate.
+V&A assessments aim to provide an improved understanding of climate-related risks to health
+and health systems, and relevant and actionable recommendations for policymakers on how
+they can strengthen health systems and increase the resilience of populations vulnerable
+to the impacts of climate change. V&A assessments are not only about understanding the
+potential implications of future climate change. They are about assessing vulnerability factors
+that interact with climate that can be modified through public health and related interventions
+to decrease existing risks to health.
+4.3 Stress testing health systems to determine their resilience to climaterelated shocks and stresses
+Desk-based stress tests can be used to assess the resilience of health systems to climate-related
+shocks and stresses under projected climate conditions. A stress test posits, for example, an extreme
+heatwave, flood or storm with characteristics outside the range of recent experiences. The exercise
+moves beyond identifying likely challenges from exposure to the hazard to specifying policies and
+measures that would result in successfully managing a more severe hazard in a future climate. Stress 
+26
+testing considers socioeconomic and political factors that can influence the extent of health system
+vulnerability and factors that can affect demands on the system by impacting population health.
+Stress testing exercises are designed to identify conditions under which it would be difficult for the
+health system to maintain its essential function of providing services to protect population health
+and manage climate-sensitive health outcomes, and to identify interventions that could maintain
+essential system functions despite these shocks and stresses. These exercises focus on acute and
+chronic climate-related events and conditions, including those far outside the range of historic
+experience, that could directly impact health systems and/or climate-related events and conditions
+in non-health sectors that can indirectly impact health or health system function. The exercise can
+focus on one or more of the building blocks of health systems, with the aim of improving system
+resilience, robustness, redundancy and coordination.
+The results of a stress test can be used to identify critical indicators for monitoring to ensure
+that capacity is being built in areas that need to be strengthened to handle weather and other
+climate-related hazards in a future that will be very different from today.
+4.4 National and subnational surveillance systems
+Surveillance systems are key elements of health information systems. Monitoring and surveillance
+systems / syndromic surveillance systems track illnesses, injuries and deaths and inform early
+warning systems that protect health (e.g., linked to meteorological information). They help prevent
+morbidity and mortality when the information collected is analyzed, disseminated and acted upon by
+health authorities, stakeholders and the public in a timely and effective manner, taking into account
+the multiple drivers of the health outcome of interest.
+Departments within the Ministry of Health may already be tracking climate change-related health
+outcomes, such as the numbers of cases of dengue fever or the numbers of diarrhoeal disease deaths.
+Data can be collected on the impacts of some climate-related events on health care facilities, public
+health laboratories and other infrastructure.
+Multiple processes collect national and subnational surveillance data that can be drawn upon in
+efforts to measure the climate resilience of health systems. Common surveillance programmes are
+described briefly below:
+The International Health Regulations (IHR) are a binding international legal instrument on WHO
+Member States that aim to help the international community prevent and respond to acute public
+health risks with the potential to cross borders and threaten people worldwide. Countries are
+required to report to the World Health Organization regarding certain disease outbreaks and public
+health events. Building on the unique experience of WHO in global disease surveillance, alerts and
+responses, the IHR defines the rights and obligations of countries to report public health events
+and establish a number of procedures that WHO must follow in its work to uphold global public
+health security.
+27
+In 2015, WHO developed a monitoring and evaluation framework tool, the Joint External Evaluation
+(JEE). In addition to evaluating the capacities required under the IHR, the JEE and the National Action
+Plan for Health Security contribute to the implementation of the Sendai Framework for Disaster Risk
+Reduction. The indicators, with the highest levels for each, are:
+ Planning an emergency preparedness and response mechanism
+– Based on updated all-hazard health emergency risk profile resource mapping, multisectoral
+and all-hazard public health emergency preparedness and response plans are tested and
+updated regularly.
+ Management of health emergency response operations
+– A health sector emergency response coordination mechanism and incident management
+system, linked to a national emergency operation centre, have been tested and updated
+regularly.
+ Emergency response mobilization
+– Resource mapping and mobilization mechanisms are tested and updated regularly.
+WHO’s Early Warning and Reporting System (EWARS) is designed to improve disease outbreak
+detection in emergency settings, such as in countries in conflict or following a natural disaster.
+‘EWARS in a box’ contains all the equipment needed to establish surveillance and response activities,
+particularly in difficult and remote field settings without reliable internet or electricity supplies; it
+can serve roughly 500,000 people. EWARS is deployed during an emergency as an adjunct to the
+national disease surveillance system. After the emergency, EWARS should reintegrate back into the
+national system.
+4.5 Global, regional and national monitoring processes
+Sendai Framework for Disaster Risk Reduction
+The Sendai Framework for Disaster Risk Reduction 2015–2030, published by the United Nations
+Office for Disaster Risk Reduction (16) was the first major agreement of the post-2015 development
+agenda. The Sendai Framework works with the other 2030 Agenda agreements, including the Paris
+Agreement on Climate Change, the Addis Ababa Action Agenda on Financing for Development, the
+New Urban Agenda and, ultimately, the Sustainable Development Goals. The Sendai Framework
+provides Member States with concrete actions to protect development gains from the risk of disasters.
+The Sendai Framework has four global priorities: i. understanding disaster risk; ii. strengthening
+disaster risk governance to manage disaster risk; iii. investing in disaster risk reduction for resilience;
+and iv. enhancing disaster preparedness for effective response and to ‘build back better’ in recovery,
+rehabilitation and reconstruction. There are 38 indicators within the seven targets.
+28
+Sustainable Development Goals
+The United Nations (UN) Sustainable Development Goals (SDGs) include 17 goals and 169 targets.
+SDG3 on good health and well-being includes goals with targets (each with indicators) relevant to
+managing the risk of climate-sensitive health outcomes by increasing the resilience of health systems
+or by reducing the population health burden when climate change is explicitly taken into account.
+National governments are tracking indicators for all SDGs, many of which relate to the upstream
+drivers of health and well-being, including SDG1 (no poverty), SDG2 (zero hunger), SDG5 (gender
+equality), SDG6 (clean water and sanitation), SDG7 (affordable and clean energy), SDG10 (reduced
+inequalities), SDG11 (sustainable cities and communities), SDG12 (responsible consumption and
+production), SDG13 (climate action), SDG14 (life below water), and SDG15 (life on land) (17).
+The United Nations Statistics Division (UNSD), in collaboration with the UNFCCC, is conducting
+a global review of a core set of climate change statistics and indicators across drivers, impact,
+vulnerability, adaptation and mitigation to promote linkage to both science and policy (18).
+29
+5 INTERPRETING RESULTS TO
+INFORM POLICY
+5.1 How to interpret the results of monitoring climate resilience in health
+systems
+Regularly monitoring the climate resilience of health systems will provide a wealth of information that
+can be used in many policy and planning processes to prepare for climate change, both within and
+outside of the health sector (see Section 6). However, given the complexity of interactions among
+many upstream determinants of exposure and vulnerability, the breadth of health system components
+that need to be monitored for resilience, and the large number of climate-sensitive health outcomes,
+a single quantitative resilience index or score will not likely be feasible to develop, nor would it be a
+valid measure for decision-making.
+Documenting and interpreting the results of monitoring efforts may instead be accomplished through
+the application of complementary approaches:
+ Broad consultation and dissemination of results with decision-makers, stakeholders and
+researchers to obtain feedback and their interpretation of them
+ Routine engagement with these partners to validate the findings, or specific components, through
+heath system planning meetings, community workshops, V&A assessments or HNAP workshops,
+health system performance studies, etc.
+ Regular efforts to refine and adjust the indicators used and the data acquisition methods. Aligning
+these efforts with the completion of V&A assessments and/or updates and evaluations of HNAPs
+can be beneficial
+ Recording the baseline measures of resilience to identify specific trends that indicate increases or
+decreases over time and identifying an appropriate and accessible repository for this information
+A useful way to record and communicate this information is through the use of a colour-coded table
+(as proposed in Table 1) that shows whether specific aspects of health systems are in place to support
+climate resilience (see example in Table 3). It would also show whether effective adaptation measures
+that could increase resilience have or have not been implemented and/or trends hindering resilience.
+30
+Table 3: Example of colour-coded responses regarding level of resilience
+Level of resilience:
+Low
+(unavailable, unable, unprepared)
+Medium
+(in progress, incomplete, basic)
+High
+(completed, achieved, prepared)
+Resilience to short-term risks
+(<= 10 years)
+Additional resilience to long-term
+climate change risks (>10 years)
+Leadership and governance
+The Ministry of Health has a designated
+focal point responsible for health and
+climate change
+Adequate and sustained human and
+financial resources in place to implement
+the HNAP
+A national health and climate change
+plan (Health component of the National
+Adaptation Plan or HNAP) developed
+Long-term risks inform the
+implementation and adaptation measures
+of key priorities integrated in the HNAP
+Institutional mechanisms between
+the Ministry of Health and key healthdetermining sectors support the
+implementation of the HNAP
+HNAP includes actions to strengthen the
+resilience of health systems to long-term
+risks
+HNAP includes actions to protect the
+health of populations and health systems
+operations from extreme weather events
+and current climate change
+HNAP iteratively updated based on
+emerging evidence on climate change
+and health
+Main adaptation and mitigation strategies
+and policies in health-determining
+sectors that maximize health co-benefits
+identified and implemented
+Routine assessment and implementation
+of adaptation and mitigation strategies
+and policies in health-determining sectors
+based upon climate change projections
+that maximize health co-benefits
+Regular discourse and participatory engagement with many partners – health planners, health care
+professionals, affiliated health workers, community leaders, Indigenous communities, researchers,
+decision-makers in health relevant sectors and others – will support more accurate and appropriate
+interpretation of the indicators; for example, when data about health system capacity and adaptation
+points to an increase in resilience, but the burdens of specific climate-related health outcomes are
+increasing. Knowledge translation activities involving many opportunities to explore, analyze and
+discuss the results in multiple fora can help to elucidate critical drivers of risk, vulnerability and
+resilience that underly the results. Engagement with partners will also provide valuable input about
+how best to communicate the findings in a meaningful way to decision-makers and the public.
+5.2 Informing policy processes and programme development with
+indicators of climate resilient health systems
+At the national level, the policies and programmes may require adjustment as the risks from climate
+change increase, such as monitoring and surveillance of an emerging infectious disease that may
+expand into a particular jurisdiction. Information gained through the regular collection of data on the
+indicators presented in this working paper can be used to develop or adjust policies and programmes
+to increase health system resilience.
+31
+Information about the status of efforts towards building climate resilience only helps to protect human
+health if it is communicated in a timely manner to decision-makers, stakeholders and the public. A
+variety of mechanisms may be used to share and use the results such as:
+ health system strategic planning activities (e.g., planning tables and events);
+ development of dedicated reports, briefings or scorecards on health system resilience;
+ development of cross-functional teams and cross-training of staff (e.g., public health, health care
+delivery, social services, climate services);
+ annual subnational and national state of health reports;
+ community health profiles;
+ input to regular V&A assessments, HNAPs, Nationally Determined Contributions (NDCs), and
+National Communications;
+ community/region hazard risk assessments; and
+ international and regional climate change and health monitoring and reporting initiatives.
+The monitoring and evaluation activities developed as part of a V&A assessment will provide helpful
+information for monitoring the climate resilience of health systems and should be used as a key
+information source that is regularly updated with iterative V&As.
+UNFCCC National Climate Change Adaptation Plan processes
+National Adaptation Plans (NAPs) are a state-led adaptation planning process sensitive to gender
+and equity considerations as well as broader national-level priorities (19). NAPs are an iterative
+process inclusive to vulnerable groups that seeks to leverage the best available information (e.g.,
+participatory processes, Indigenous knowledge, climate risk assessments, etc.).
+NAPs aim to (19):
+ take stock of available information and needs;
+ address capacity and knowledge gaps;
+ identify national priorities and climate vulnerabilities;
+ identify and review adaptation options;
+ develop implementation strategies; and
+ monitor and review adaptation progress.
+The processes used to develop NAPs, as well as their structure, vary from country to country.
+However, all involve the identification and assessment of adaptation needs, which may be used
+to rank adaptation priorities. As adaptation is iterative – requiring ongoing assessment of risks,
+needs and opportunities – monitoring progress, setbacks and emerging trends is critical. The NAP
+development process often includes the establishment of a monitoring and evaluation framework to
+complement the actions identified in the NAP. Many health authorities develop HNAPs for their sector
+(8) that are integrated into broader NAPs. These frameworks can serve as a tool to monitor progress
+towards building climate resilience within health systems, and to determine when NAPs may require
+updating based on changing conditions or progress made. As NAPs are often multisectoral, health
+authorities can use them to gain insights on climate risks and adaptation progress in sectors that 
+32
+influence the upstream determinants of health (e.g., agriculture) and help identify opportunities to
+achieve health co-benefits through intersectoral cooperation. Table 4 provides examples of healthrelevant indicators for specific components of the Operational Framework that were included in
+NAPs submitted to the UNFCCC NAP Central Database.
+Table 4: Sample indicators from the NAPs submitted to the UNFCCC NAP Central
+Database
+Country Example Health Performance Indicators for NAP
+Suriname  Expansion of preventative care programmes
+ Health care professionals trained in climate- and health-related areas
+ Increase in public awareness
+ Health and climate risk maps developed
+Sri Lanka  Assessment on the critical factors for controlling climate-induced disease
+incidents finalized
+ Number of plausible strategies identified for the management of climateinduced disease incidents
+ Amount of money allocated/spent for strengthening the alertness of the
+health system against climate-induced disease incidents
+Kiribati  Number of functioning early warning systems for water- and vector-borne
+diseases in priority locations
+ Staff in targeted health institutions with capacity to respond to – and mitigate
+the impacts of – climate-related health impacts is increased
+ 25% increase in outer islands that are engaged in regular environmental
+health surveillance activities (target and baseline to be established by the
+end 2015)
+ % decrease in the incidence of climate-related diseases
+ Number of family health clinics trained in women’s mental health issues,
+climate change impacts and gender-based violence
+ Number of projects to improve health systems to respond to identified
+climate risks (to health or infrastructure) implemented according to asset
+management plan
+Kenya  Number of households with timely access to climate information
+ Percentage of population requiring humanitarian assistance
+Grenada  Climate information has been included in national disease surveillance
+system to strengthen the analysis and use of climate-sensitive data
+Ethiopia  % of target population covered by environment and health surveillance
+systems integrating climate change
+ % of health workers aware of climate change impacts
+Brazil  Protocol for monitoring public-health emergencies integrated with analysis
+of climatic, environmental and socioeconomic risk drafted
+33
+6 CONCLUSIONS
+In understanding risk as the interaction of climate change-related hazards, populations exposed to
+such hazards and their underlying vulnerabilities, it becomes clear that there is a need to reduce
+hazards, exposures and vulnerabilities. Reducing hazards is the goal of mitigation by reducing
+greenhouse gas emissions. But current levels of action are insufficient and risks to health are
+increasing; the inertia of health systems also means that climate-related hazards will continue for
+at least several decades. Moreover, climate change increases the probability that health systems may
+suffer catastrophic impacts that overwhelm responses. Adaptation focuses on reducing exposures
+and vulnerabilities, but these may not be sufficient to counteract the impact of future climate hazards.
+This is equally valid for people as for health systems.
+In this context, as risks continue to increase, bringing more severe impacts for health systems and
+health care facilities, countries need to understand when their health system can be considered
+resilient, and, if not, then to understand what areas need improvement. Taking WHO’s Operational
+Framework for climate resilient health systems as its base, this guidance proposes both a framework
+and methods for measuring resilience.
+The proposed framework for measuring the climate resilience of health systems – requiring the
+measurement of upstream determinants of exposure and vulnerability; the climate resilience of health
+system functions; and the outcomes of health system resilience – aims to respond to country needs
+to prepare health systems for climate change. This is best achieved by identifying information and
+indicators tailored to the specific needs of different health systems, as proposed in this guidance.
+34
+REFERENCES
+1. Everybody’s business: strengthening health systems to improve health outcomes: WHO’s
+framework for action. Geneva: World Health Organization; 2007 (https://apps.who.int/iris/
+handle/10665/43918, accessed 21 April 2022).
+2. Kutzin J. & Parkes S.P. Health systems strengthening, universal health coverage, health security
+and resilience. Bull. World Health Organ.; 2016(2) (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC4709803/, accessed 21 April 2022).
+3. Operational framework for building climate resilient health systems. Geneva: World Health
+Organization; 2015 (https://apps.who.int/iris/handle/10665/189951, accessed 21 April 2022).
+4. WHO guidance for developing climate resilient and environmentally sustainable health facilities.
+Geneva: World Health Organization; 2020 (https://apps.who.int/iris/handle/10665/335909,
+accessed 21 April 2022).
+5. Monitoring the building blocks of health systems: a handbook of indicators and their
+measurement strategies. Geneva: World Health Organization; 2010 (https://apps.who.int/iris/
+handle/10665/258734, accessed 21 April 2022).
+6. Climate change and health: vulnerability and adaptation assessment. Geneva: World Health
+Organization; 2021 (https://apps.who.int/iris/handle/10665/345968, accessed 21 April 2022).
+7. Checklists to assess vulnerabilities in health care facilities in the context of climate change.
+Geneva: World Health Organization; 2021 (https://apps.who.int/iris/handle/10665/340656,
+accessed 21 April 2022).
+8. WHO guidance to protect health from climate change through health adaptation planning.
+Geneva: World Health Organization; 2014 (https://apps.who.int/iris/handle/10665/137383,
+accessed 21 April 2022).
+9. Quality criteria for Health National Adaptation Plans. Geneva: World Health Organization; 2021
+(https://apps.who.int/iris/handle/10665/339454, accessed 21 April 2022).
+10. Global warming of 1.5°C. Glossary. Geneva: Intergovernmenal Panel on Climate Change; 2018
+(https://www.ipcc.ch/sr15/chapter/glossary/, accessed 21 April 2022).
+11. Kruk M.E., Myers M., Varpilah S.T., Dahn B.T. What is a resilient health system? Lessons from Ebola.
+Lancet. 2015;385(9980):1910–2 (https://www.thelancet.com/journals/lancet/article/PIIS0140-
+6736(15)60755-3/fulltext, accessed 21 April 2022).
+35
+12. Thomas S., Sagan A., Larkin, J., Cylus J, Figueras J., Karanikolos, M. Strengthening health system
+resilience: key concepts and strategies. Brussels: European Observatory on Health Systems and
+Policies; 2020 (https://apps.who.int/iris/bitstream/handle/10665/332441/Policy-brief%2036-1997-
+8073-eng.pdf?sequence=1&isAllowed=y, accessed 21 April 2022).
+13. Tol, R. and Yohe, G. The weakest link hypothesis for adaptive capacity: an empirical test. Glob.
+Environ. Change. 2007;17: 218–227 (https://doi.org/10.1016/j.gloenvcha.2006.08.001, accessed 21
+April 2022).
+14. WHO health and climate change global survey report: Geneva: World Health Organization; 2021
+(https://apps.who.int/iris/handle/10665/348068, accessed 21 April 2022).
+15. Health and climate change country profiles: Geneva: World Health Organization, 2021
+(https://www.who.int/activities/monitoring-health-impacts-of-climate-change-and-nationalprogress, accessed 21 April 2022).
+16. Sendai framework for disaster risk reduction 2015–2030. Geneva: United Nations Office for
+Disaster Risk Reduction; 2015 (https://www.undrr.org, accessed 21 April 2022).
+17. Sustainable development goals – the 17 goals. Rome: United Nations Department of Economic
+and Social Affairs; 2021 (https://sdgs.un.org/goals, accessed 21 April 2022).
+18. Global set of climate change statistics and indictors. New York: United Nations Statistical Division;
+2020 (https://unstats.un.org/unsd/envstats/fdes/EGES7/Sess2_UNSD_Climate_global_set.pdf,
+accessed 21 April 2022).
+19. Technical guidelines for National Adaptation Plans (NAPs). Bonn: United Nations Framework
+Convention on Climate Change; 2012 (https://unfccc.int/topics/adaptation-and-resilience/
+workstreams/national-adaptation-plans-naps/guidelines-for-national-adaptation-plans-naps,
+accessed 21 April 2022).
+Department of Environment, Climate Change and Health
+World Health Organization (WHO)
+Avenue Appia 20 – CH-1211 Geneva 27 – Switzerland
+www.who.int/teams/environment-climate-change-and-health

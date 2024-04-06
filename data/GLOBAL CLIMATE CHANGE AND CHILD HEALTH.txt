@@ -1,0 +1,2111 @@
+Notes:
+• please add details of the date, time, place and sponsorship of the meeting for which you are using this
+presentation in the space indicated;
+• this is a large set of slides from which the presenter should select the most relevant ones to use in a specific
+presentation. These slides cover many facets of the problem. Present only those slides that apply most directly
+to the local or regional situation. Where relevant, adapt the information, statistics and photos within each
+slide to the particular context in which this module is being presented. For instructions on how to use this
+module visit: https://www.who.int/publications/i/item/WHO-CED-PHE-EPE-19-12-02;
+• Global climate change and child health is one module from a larger training package focused on children’s
+environmental health. Consult these other modules where relevant. Throughout Global climate change and
+child health, a number of different modules are suggested that contain more relevant information. To see the
+full package visit: https://www.who.int/teams/environment-climate-change-and-health/settings-populations/
+children/capacity-building/training-modules;
+• the World Health Organization (WHO) reference number for the module Global climate change and child
+health: training for health care providers, third edition is WHO/HEP/ECH/CHE/23.05;
+• for more information on WHO’s work on children’s environmental health, please visit:
+https://www.who.int/health-topics/children-environmental-health.
+1
+GLOBAL CLIMATE CHANGE AND
+CHILD HEALTH
+TRAINING FOR HEALTH CARE PROVIDERS
+THIRD EDITION
+[Date … Place … Event … Sponsor … Organizer]
+Children’s health and the environment
+WHO training package for the health sector
+The learning objectives for this module are listed. The emphasis of this module is on children’s health. The global
+climate has changed and continues to change in ways that threaten human health and, in particular, children’s
+health. After this presentation learners should be able to:
+• understand the risks to human health from climate change;
+• recognize the unique vulnerability of children to the consequences of climate change now and in the future;
+• identify adaptation strategies to protect children’s health in a changed and changing climate; and
+• identify opportunities for health co-benefits from mitigation strategies to prevent worsening climate change
+now and in the future.
+2
+CLIMATE CHANGE
+Learning objectives
+• Understand the risks to human health from climate change
+• Recognize the unique vulnerability of children to the
+consequences of climate change now and in the future
+• Identify adaptation strategies to protect children’s health in a
+changed and changing climate
+• Identify opportunities for health co-benefits from mitigation
+strategies to prevent worsening climate change
+Note:
+When selecting the slides to include in your presentation, please choose only those of relevance to the region
+and/or interests of your audience
+This training module has three parts:
+• first, magnitude of the problem is a general overview, and sets the stage by discussing major trends in human
+activities and their broad impact on the global environment and on human health;
+• the next section, climate change and child health effects, concentrates on climate change as one of most
+significant health threats facing children; and
+• the final section, critical role of the health sector in protecting child health, discusses actions that must be taken
+across many levels, from international to the individual. These actions are essential to protecting children’s
+health in a world where the climate has already changed, and will continue to do so in the future.
+3
+CLIMATE CHANGE
+Outline
+• Magnitude of the problem
+o Humans have changed the climate
+o Children are among the most vulnerable
+• Climate change and child health effects
+o Direct health impacts
+o Ecosystem-mediated impacts
+o Impacts mediated through human institutions
+• Critical role of the health sector in protecting child health
+o Adaptation strategies
+o Mitigation strategies
+o Education and advocacy
+To set the stage, the module begins with the magnitude of the problem of global climate change.
+4
+CLIMATE CHANGE
+Outline
+• Magnitude of the problem
+o Humans have changed the climate
+o Children are among the most vulnerable
+• Effects on children’s health from climate change
+o Direct health impacts
+o Ecosystem-mediated impacts
+o Impacts mediated through human institutions
+• Critical role of the health sector in protecting child health
+o Adaptation strategies
+o Mitigation strategies
+o Education and advocacy
+In mid-September 2021, prior to the United NaXons Climate Change Conference (COP26) in Glasgow, 233
+internaXonal Xtles, including the most presXgious of medical and public health journals, simultaneously published
+this editorial to the world:
+“The science is unequivocal: a global increase of 1.5° C above the pre-industrial average and the conXnued loss of
+biodiversity risk catastrophic harm to health that will be impossible to reverse... ReflecXng the severity of the
+moment, this editorial appears in health journals across the world. We are united in recognizing that only
+fundamental and equitable changes to socieXes will reverse our current trajectory. The greatest threat to global
+public health is the conXnued failure of world leaders to keep the global temperature rise below 1.5° C and to
+restore nature. Urgent, society-wide changes must be made and will lead to a fairer and healthier world. We, as
+editors of health journals, call for governments and other leaders to act, marking 2021 as the year that the world
+finally changes course (1).”
+Note: presenters may wish to subsXtute an image from a parXcipaXng journal from your region or country. Find
+alternaXves and the full list of parXcipaXng journals at: hbps://bit.ly/3n1qzXB.
+Reference:
+1. Atwoli L, Baqui AH, Benfield T, Bosurgi R, Godlee F, Hancocks S et al. Call for emergency acXon to limit global
+temperature increases, restore biodiversity, and protect health. N Engl J Med. 2021; 385:1134-1137.
+Photo:
+• © New England Journal of Medicine.
+5
+The health community is united
+CLIMATE CHANGE
+MAGNITUDE
+OF THE PROBLEM
+Climate change is a reality. This reality is beyond confusion or equivocation. The earth is warmer, the sea level is
+rising, ice is melting and there is abundant direct evidence of these facts. Data from the past three decades prove
+that the earth is warmer and weather patterns are more extreme and less predictable now than in pre-industrial
+times. The graphs on this slide show trends in measures of climate change over time. On the top left, changes in
+global surface temperature are shown from 1880 to 2021. The average global surface temperature has increased by
+1.1 degrees Celsius (°C) since the late 19th century. The majority of global warming has happened in the past 35
+years. At the time of the creation of these graphs, the two warmest years on record (2016 and 2020) both occurred
+in the past decade (1).
+The graphs on the right show ice loss at sea (top right) and on land (bottom right). The top right graph shows
+average Arctic sea ice in million square kilometres (km) from 1979 to 2021 during the month of September. Arctic
+sea ice is measured in September when it reaches its annual minimum. Artic sea ice is declining at a rate of 13% per
+decade relative to the average during the period between 1981 and 2010. In Greenland, ice mass has been
+decreasing since 2002. Most ice loss has occurred since 2009. In total, Greenland has lost 275 million metric tonnes
+of ice since 2002. The bottom right graph shows the size of Greenland’s ice mass in gigatons (Gt) from 2002 to 2021
+(1).
+As ice melts, sea levels rise. The graph on the bottom left charts sea level change between 1993 and 2021. Sea level
+has risen about 20 centimetres (cm) over the last century. The rate of sea level rise has almost doubled in the past
+20 years (1).
+Note: This module does not detail the science of these facts, nor does it detail the many lines of evidence which
+document it. Those who are interested in learning more can find many available resources online including National
+Aeronautics and Space Administration’s (NASA) global climate change website (1), the Intergovernmental Panel on
+Climate Change (IPCC) (2) and the World Meteorological Organization (WMO) (3).
+References:
+1. Global climate change: vital signs of the planet [website]. Pasadena: National Aeronautics and Space
+Administration’s Jet Propulsion Laboratory; 2022 (https://climate.nasa.gov/, accessed 20 October 2022).
+2. IPCC. Summary for Policymakers. In: Masson-Delmotte V, Zhai P, Pirani A, Connors SL, Péan C, Berger S et al,
+editors. Climate change 2021: The physical science basis. Contribution of Working Group I to the Sixth
+Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2021 (https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/, accessed 20
+6
+CLIMATE CHANGE
+Earth’s climate has already changed
+Change in global surface temperature:
+1.1°C increase since late 19th century
+Average September Arctic sea ice:
+13% decline per decade
+Change in sea level: increased
+102.3 mm since 1993
+Greenland land ice sheets: 275 million
+metric tonnes lost since 2002
+MAGNITUDE
+OF THE PROBLEM
+October 2022).
+3. The state of the global climate 2021. Geneva: World Meteorological Organization; 2022
+(https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate,
+accessed 20 October 2022).
+Figures:
+• Top left: © NASA/GISS
+• Top right: © NSIDC/NASA
+• Bottom left: © NASA’s Goddard Space Flight Center/ PO.DAAC
+• Bottom right: © NASA
+7
+Human influence on the climate is virtually certain. The strong consensus of global experts on climate and earth
+sciences agree that humans are, and have been for decades, the major driver of today’s global warming, rising sea
+level, ocean acidification and changing weather patterns. Burning of fossil fuels and deforestation, along with
+agriculture and industrial activities that produce greenhouse gases, have rapidly changed the atmosphere, increased
+Earth’s “thermal blanket” and warmed the air and the oceans (1).
+The graph on the slide shows the concentration of carbon dioxide (CO2) in the atmosphere over hundreds of
+thousands of years. It dramatically demonstrates the extraordinary increase in atmospheric CO2 since the midtwentieth century. CO2, which is the main anthropogenic (influenced by human activity) greenhouse gas, has a long
+residence time and is anticipated to remain in the atmosphere for at least 500–1000 years. Data recorded in April
+2022 show CO2 levels at 417 parts per million (ppm) compared to 280 ppm in preindustrial times (2). The high level
+of CO2 in the atmosphere is now a reality and has significant health consequences for humans and many other
+species on the planet.
+References:
+1. IPCC. Summary for Policymakers. In: Masson-Delmotte V, Zhai P, Pirani A, Connors SL, Péan C, Berger S et al,
+editors. Climate change 2021: The physical science basis. Contribution of Working Group I to the Sixth
+Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2021 (https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/, accessed 20
+October 2022).
+2. Global climate change: vital signs of the planet. Pasadena: Jet Propulsion Laboratory / National Aeronautics and
+Space Administration; 2022 (https://climate.nasa.gov/, accessed 20 October 2022).
+Figure:
+• © NASA
+8
+CLIMATE CHANGE
+Major drivers are human activity
+Atmospheric CO2 throughout Earth’s history
+MAGNITUDE
+OF THE PROBLEM
+This complicated slide represents a summary of health effects from climate change. It also shows the potenXal for
+risk reducXon through adaptaXon measures. These figures were developed from research literature and judgments
+of health experts with the Intergovernmental Panel on Climate Change (IPCC) (1).
+The width of each slice represents the relaXve proporXon or burden of disease at the populaXon level in each
+category. The rings represent risk levels:
+• the secXons in red indicate risks that can be improved be intensive adapXon efforts;
+• the secXons in yellow represent risks that cannot be changed by intensive adapXon efforts.
+In the top leu is the IPCC’s assessment of climate change and health effects in 2014 (“present”). The next two polar
+plots are based on projected global warming unXl 2100. The key point is that as the world progressively warms, the
+capaciXes of humans and ecosystems to adapt are reduced. Consequently, concurrent miXgaXon and adaptaXon
+strategies are crucial for the survival, health and welfare of future generaXons.
+As will be made clear by the end of this presentaXon; the current global condiXons are now closer to the second
+polar plot (+1.5oC rise), than the one designated as “present” in 2014 (2).
+References:
+1. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change 2014: impacts,
+adaptaXon, and vulnerability. Part A: global and sectoral aspects. ContribuXon of Working Group II to the Fiuh
+assessment report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2014 (hbps://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+2. IPCC. Summary for Policymakers. In: Masson-Delmobe V, Zhai P, Pirani A, Connors SL, Péan C, Berger S et al,
+editors. Climate change 2021: The physical science basis. ContribuXon of Working Group I to the Sixth
+Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2021 (hbps://www.ipcc.ch/report/sixth-assessment-report-working-group-i/, accessed 20
+October 2022).
+Figure:
+• © Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change 2014:
+impacts, adaptaXon, and vulnerability. Part A: global and sectoral aspects. ContribuXon of Working Group II to
+9
+CLIMATE CHANGE
+Health effects of climate change
+MAGNITUDE
+OF THE PROBLEM
+the Fiuh assessment report of the Intergovernmental Panel on Climate Change. Cambridge; New
+York: Cambridge University Press; 2014 (hbps://www.ipcc.ch/report/ar5/wg2/, accessed 20
+October 2022). Figure TS.10 – Conceptual presentaXon of health risks from climate change and
+the potenXal for risk reducXon through adapXon. Reproduced with permission from the
+Intergovernmental Panel on Climate Change.
+10
+Climate change is a powerful disease effect modifier. This means that at current temperatures, exisXng climatesensiXve health impacts are made worse than in previous Xmes of lower average temperatures and more stable and
+predictable weather.
+This infographic summarizes in more detail the health risks that are amplified by climate change and the various
+populaXons that are most vulnerable. Climate-sensiXve health risks are listed along the bobom panel in light aqua:
+• injury and mortality from extreme weather events
+• heat-related illness
+• respiratory illness
+• water-borne diseases and other water-related health impacts
+• zoonoses
+• vector-borne diseases
+• malnutriXon and food-borne diseases
+• noncommunicable diseases
+• mental and psychosocial health (1).
+While climate change ulXmately affects everyone and all species, there are specific populaXons that are at the
+highest risk. The vulnerability factors on the top leuhand side help to idenXfy populaXons at parXcular risk to
+suffering earlier and more severely from climate-related diseases, injuries and deaths. These factors include:
+• demographic
+• geographic
+• biological and health status
+• sociopoliXcal condiXons
+• socioeconomic factors (1).
+In the next few slides, the module will explore each category through the lens of children’s special vulnerabiliXes.
+Reference:
+1. Climate change and health [website]. Geneva: World Health OrganizaXon; 2021 (hbps://www.who.int/news- room/fact-sheets/detail/climate-change-and-health, accessed 20 October 2022).
+Figure:
+• © WHO. The pathways of climate sensiXve health risks. Geneva: World Health OrganizaXon; 2021
+11
+CLIMATE CHANGE
+MAGNITUDE
+OF THE PROBLEM
+(hbps://www.who.int/mulX-media/details/pathways-climate-sensiXve-health-risks, accessed 20
+October 2022).
+12
+While climate change ulXmately affects all people, the harbingers of these effects will be felt within specific
+populaXons (1). Some of the populaXon groups that will be most vulnerable to climate-related health consequences
+include:
+• people in the extremes of age - the very young and the very old;
+• those who are malnourished, ill and/or living with a disability are more likely to suffer from climate-related illhealth, injury or death;
+• populaXons in low-and middle-income countries (LMICs);
+• poor communiXes and people living in poverty, including poor communiXes in high-income countries (HICs);
+• people with lible or limited access to educaXon;
+• migrants and displaced persons; and
+• those who live and/or work outside.
+Children fall disproporXonately into all of these higher risk categories and are ouen among the most vulnerable to
+harm mediated through environmental exposure. Many children fall into mulXple risk categories. For example, in
+2021, 42% of the populaXon living in low-income countries were under the age of 15 (2).
+Climate change as it affects risk of exisXng condiXons and diseases, follows a similar pabern as environmental
+exposures in the general populaXon and children are disproporXonately affected.
+Note: for more informaXon, please see the available modules on Children are not li: le adults and Why children.
+References:
+1. Climate change and health [website]. Geneva: World Health OrganizaXon; 2021 (hbps://www.who.int/newsroom/fact-sheets/detail/climate-change-and-health, accessed 20 October 2022).
+2. World populaXon prospects 2022 – special aggregates. New York: United NaXons; 2022
+(hbps://populaXon.un.org/wpp/, accessed 20 October 2022).
+Photo:
+• © WHO Maldives/ Ibrahim Asad. Children playing, Maldives.
+13
+CLIMATE CHANGE
+Who is most affected?
+• The young and the old
+• The malnourished, ill, living with a
+disability
+• Low- and middle-income countries
+• Poor communities
+• Little access to education
+• Migrants and displaced persons
+• People living and/or working outside
+CHILDREN ARE DISPROPORTIONATELY AFFECTED
+MAGNITUDE
+OF THE PROBLEM
+In 2021, the United Nations Children’s Fund (UNICEF) published a new index of risk called the Children’s Climate Risk
+Index. The index identifies seven climate-related health risks: heatwaves, cyclones, riverine and coastal flooding,
+water scarcity, vector-borne illness and air pollution. It also identifies lead pollution as an additional major
+environmental risk (1).
+Using sophisticated geographic information system (GIS) technology, the mapping estimates populations of children
+at risk. The index compiles these into maps and identifies geographical areas where children are at risk from from
+overlapping environmental hazards, shocks and stresses. The map on this slide illustrates the distribution of risk
+categories from low risk in yellow (0–2 climate and environmental shocks) to extremely high risk in brown (more
+than seven climate and environmental shocks) (1).
+This map shows the distribution of climate and environmental shocks with almost every child on earth estimated to
+be exposed to at least one major climate or environment-related shock. An estimated 330 million children were
+exposed to five or more overlapping major climate or environment-related shocks, and an estimated 80 million
+children were exposed to at least six (1).
+The Children’s Climate Risk Index estimates the number of children exposed to the following climate and
+environmental shocks (1):
+• 2 billion children (almost 90% of children globally) exposed to air pollution;
+• 920 million (over one third of children globally) exposed to water scarcity;
+• 820 million (one third of children globally) exposed to heatwaves;
+• 600 million (more than one in four children globally) exposed to vector-borne diseases;
+• 400 million (nearly one in six children globally) exposed to cyclones;
+• 330 million (one in seven children globally) exposed to riverine flooding; and
+• 240 million (one in ten children globally) exposed to coastal flooding.
+Reference:
+1. The climate crisis is a child right crisis: introducing the children’s climate risk index. New York: United Nations
+Children’s Fund; 2021 (https://www.unicef.org/reports/climate-crisis-child-rights-crisis, 20 October 2022).
+Map:
+• © WHO/ adapted from UNICEF.
+14
+CLIMATE CHANGE
+MAGNITUDE
+OF THE PROBLEM
+Climate and environmental shocks
+The Children’s Climate Risk Index is composed of two pillars. First, the climate and environmental hazards that were
+illustrated in the previous slide. The second pillar is an analysis of the geographic distribution of children’s
+vulnerability as measured by (1):
+• child health and nutrition
+• education
+• water, sanitation and hygiene
+• poverty, communications assets and societal protection.
+The map on this slide shows the distribution of risk categorization, combining these two pillars from low to
+extremely high. Using this methodology, nearly half of the world’s children (approximately 1 billion children)
+were living in extremely high-risk countries according to the Children’s Climate Risk Index (1). These areas are also
+among the poorest in the world.
+In the next section, this module explores why and how this is of great concern for children and their futures.
+Children often suffer first and most severely from environmental hazards. Climate-related diseases and injuries are
+no exception (2).
+Note: for more information, please see the available modules on Children are not little adults and Why children.
+Note: use the online, interactive atlas to assess children’s climate and environment risk index, climate and
+environmental shocks and child vulnerability in your country. Go to:
+https://experience.arcgis.com/experience/0d9d2209bf104584a65e012b03b6d3f8/.
+References:
+1. The climate crisis is a child right crisis: introducing the children’s climate risk index. New York: United Nations
+Children’s Fund; 2021 (https://www.unicef.org/reports/climate-crisis-child-rights-crisis, 20 October 2022).
+2. Inheriting a sustainable world? Atlas on children’s health and the environment. Geneva: World Health
+Organization; 2017 (https://apps.who.int/iris/handle/10665/254677/, accessed 20 October 2022).
+Map:
+• © WHO/ adapted from UNICEF.
+15
+CLIMATE CHANGE
+MAGNITUDE
+OF THE PROBLEM
+Children’s climate risk index
+MAGNITUDE
+OF THE PROBLEM
+Now that the stage is set, the module will discuss the effects of climate change on children’s health.
+16
+CLIMATE CHANGE
+Outline
+• Magnitude of the problem
+o Humans have changed the climate
+o Children are among the most vulnerable
+• Effects on children’s health from climate change
+o Direct health impacts
+o Ecosystem-mediated impacts
+o Impacts mediated through human institutions
+• Critical role of the health sector in protecting child health
+o Adaptation strategies
+o Mitigation strategies
+o Education and advocacy
+Children are not little adults. Children have particular vulnerabilities that mean they are especially sensitive to the
+effects of climate change. Children’s vulnerability is often divided into the four general categories described here.
+1. Children often have different and unique exposures to environmental hazards compared to adults. Children can
+be exposed in utero to chemical (pollutants and pharmaceuticals), physical (radiation, heat) and biological (viral,
+parasitic) agents. They can also be exposed, after birth, to pollutants that pass into their mother’s breastmilk.
+Neither of these routes of exposure occur in adults or older children. Children also have pathways of exposure that
+differ from those of adults due to their size and developmental stage. For example, young children engage in normal
+exploratory behaviours including hand-to-mouth and object-to-mouth behaviours, and non-nutritive ingestion
+which may dramatically increase exposure over that in adults. Additionally, children live closer to the ground and
+have greater surface area to volume ratios than adults, which consequently may cause higher exposure to pollutants
+that settle close to the ground, or which are absorbed through the skin (1,2).
+2. Due to their dynamic developmental physiology children are often subjected to higher exposures to pollutants
+found in air, water and food. Because they are anabolic and rapidly growing, children breathe more air, eat more
+food and drink more water per kilogram body weight than adults and often absorb nutrients more efficiently.
+Therefore, pollutants can result in higher internal doses in children compared to adults. These exposures may be
+metabolized and excreted quite differently by an immature set of systems compared to the way they are dealt with
+in mature, adult systems. Furthermore, the developmental component of a child’s physiology is changing; maturing,
+differentiating and growing in phases known as "developmental windows". These phases can be understood as
+"windows of vulnerability" and create unique risks for children exposed to hazards which can permanently alter
+normal function and structure in ways with no analogs in adults similarly exposed. Due to cognitive immaturity,
+children may have more limited ability to understand and move out of danger, both from toxic agents and
+dangerous situations which could result in harm. This characteristic is clear in the pre-ambulatory period, but also
+persists through exploratory toddler behaviour and even into the high-risk behaviours seen in adolescence (1,3).
+3. Children have a longer life expectancy, so they have longer to manifest a disease with a long latency period, and
+longer to live with toxic damage which may manifest in childhood or much later in life (2).
+4. Finally, children are dependent upon adults to protect them and ensure a safe environment. The photo on this
+slide shows a statue of a young child, gazing in wonder at the world with trust and curiosity. It was designed by the
+artist to represent any ethnicity or race, and she is wearing a simple garment that could be from anywhere in the
+world. Children trust the adults in their lives to nurture and protect them through actions and decisions until they
+17
+CLIMATE CHANGE
+Why children are significantly affected
+Different and unique exposures
+• Preconception and prenatal exposures
+• Breastfeeding and early restricted diets
+• Exploratory behaviours
+Dynamic developmental physiology
+• Anabolic, rapidly growing
+• Dynamic developmental physiology
+• Windows of vulnerability
+• Cognitive immaturity
+Longer life expectancy
+Depend upon adults
+HEALTH EFFECTS
+can protect themselves through their own individual, collective and political action (2). Children are
+not little adults.
+Depending upon the climate-related health hazard, these general vulnerabilities may explain the
+excess burden of disease suffered by children in different ways. Throughout this presentation, the
+module will return to these categories to help highlight why child health care workers and public
+health practitioners should be especially concerned for the children under their care exposed to
+climate- and environment-related hazards (4).
+Using the Intergovernmental Panel on Climate Change’s (IPCC) Fifth Assessment Report (AR5) on
+climate-related health impact categories, the module will explore how children are affected in the
+following series of slides.
+Note: for more information, please see the available modules on Children are not little adults and
+Why children.
+References:
+1. Pronczuk-Garbino J, editor. Children’s health and the environment: a global perspective: a
+resource manual for the health sector. Geneva: World Health Organization; 2005
+(https://apps.who.int/iris/handle/10665/43162/, accessed 20 October 2022).
+2. Etzel RA, editor. Pediatric environmental health, 4th edition. Itasca: American Academy of
+Pediatrics; 2018.
+3. Etzel RA. The special vulnerability of children. Int J Hyg Environ Health. 2020;227:113516.
+4. Perera F, Nadeau K. Climate change, fossil-fuel pollution, and children’s health. N Engl J Med.
+2022;386:2303-14.
+Photo:
+• © Katherine M Shea. Child [bronze sculpture, permanent outdoor installation, Flossmore, Illinois,
+United States of America] by Judith Shea. Reproduced with permission from Judith Shea.
+18
+The Intergovernmental Panel on Climate Change’s (IPCC) Fifth Assessment Report (AR5) has organized the health
+impacts of climate change into three broad categories as shown on this slide (1).
+Each of these categories are explored in the following slides with emphasis on children’s increased risk.
+Note: at the time of this module update, the IPCC’s Sixth Assessment Report (AR6) was still under final review. Users
+of this module may wish to consult this report once it is published, which is anticipated to be late 2022 or early
+2023.
+Reference:
+1. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change 2014: impacts,
+adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of Working Group II to the Fifth
+assessment report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2014 (https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+19
+CLIMATE CHANGE
+How climate change affects health
+• Direct impacts
+• Extreme heat
+• Extreme weather events
+• Mediated through ecosystems
+• Air polluRon
+• Food- and water-borne infecRons
+• Vector-borne disease
+• Mediated through human insE tuEons
+• UndernutriRon
+• OccupaRonal and outdoor exposures
+• Displacement, mental stress and violence
+HEALTH EFFECTS
+The health effects section begins with the direct impacts on children’s health from climate change.
+20
+CLIMATE CHANGE
+How climate change affects health
+• Direct impacts
+• Extreme heat
+• Extreme weather events
+• Mediated through ecosystems
+• Air pollution
+• Food- and water-borne infections
+• Vector-borne disease
+• Mediated through human institutions
+• Undernutrition
+• Occupational and outdoor exposures
+• Displacement, mental stress and violence
+HEALTH EFFECTS:
+DIRECT IMPACTS
+Heat-related mortality and morbidity are clear direct health impacts linked to climate change. While heat-related
+deaths occur primarily in the elderly, a systematic review has found increased vulnerability in young children as well
+(1). A growing literature base is documenting risks to children from increasing ambient heat. In the very young this is
+likely due to an immature thermal regulatory system as well as infant’s dependence upon adults to keep them in
+safe environments, which may significantly explain the higher risk in this age group (2).
+The graphs shown here come from a 30-year study in Canada that found a strong association between high
+temperatures and sudden infant death syndrome (SIDS), particularly in the 3–12 months old age group (3). Odds
+ratios for SIDS (y-axis) are plotted against maximum temperatures (x-axis) shown in blue, with the dotted lines
+showing the 95% confidence intervals (CI); odds are relative to 20 degrees Celsius (°C). Infants, 1–2 months old, are
+shown in the top graphs, and infants 3–12 months old are shown in the bottom graphs. Graphs on the left show
+odds ratios for SIDS based on previous day temperatures while graphs on the right show odds ratios for SIDS based
+on same-day temperatures. For the bottom right graph, with maximum same-day temperatures of 29°C or more,
+there was a 2.78 times greater chance of SIDS events in infants 3–12 months old relative to when the maximum
+temperature was 20°C (3). At least two additional studies have found significant positive associations with SIDS and
+increased ambient temperature (4,5).
+Adverse birth outcomes, including preterm births and stillbirths, are increased with greater ambient heat (2,6).
+Similarly, emergency department visits and hospitalizations for renal and electrolyte disturbances, lower respiratory
+disease, heat stroke and heat exhaustion all increase with higher temperatures (2,7).
+Child labour in agriculture and other outdoor child labour puts the young at special risk during periods of intense
+heat. Adolescent athletes are a special group who have been studied in the United States of America where heat
+stroke deaths have doubled in the past decade (2).
+References:
+1. Xu Z, Etzel RA, Su H, Huang C, Guo Y, Tong S. Impact of ambient temperature on children's health:
+a systematic review. Environ Res. 2012;17:120–31.
+2. Ahdoot S, Pacheco SE, Council on Environmental Health. Global climate change and children's health. Pediatrics.
+2015;136(5):e1468–84.
+3. Auger N, Fraser WD, Smargiassi A, Kosatsky T. Ambient heat and sudden infant death: a case-crossover study
+spanning 30 years in Montreal, Canada. Environ Health Perspect. 2015;123(7):712–16.
+4. Jhun I, Mata DA, Nordio F, Lee M, Schwartz J, Zanobetti A. Ambient temperature and sudden infant death
+21
+CLIMATE CHANGE
+Heat-related mortality and morbidity
+• Increased adverse pregnancy
+and birth outcomes
+• Infants at higher risk of
+mortality from heat
+• Increased emergency
+department visits and
+hospitalizations
+• Special risk for:
+• Outdoor child labourers
+• Youth athletes
+HEALTH EFFECTS:
+DIRECT IMPACTS
+syndrome in the United States. Epidemiology. 2017;28(5):728–34.
+5. Son JY, Lee JT, Bell ML. Is ambient temperature associated with risk of infant mortality? A multicity study in Korea. Environ Res. 2017;158:748–52.
+6. Wesselink AK, Wellenius GA. Impacts of climate change on reproductive, perinatal and paediatric
+health. Paediatr Perinat Epidemiol. 2022;36(1):1–3.
+7. Niu L, Herrera MT, Girma B, Liu B, Schinasi L, Clougherty JE et al. High ambient temperature and
+child emergency and hospital visits in New York City. Paediatr Perinat Epidemiol. 2022;36:36–44.
+Figure:
+• © Auger N, Fraser WD, Smargiassi A, Kosatsky T. Ambient heat and sudden infant death: a casecrossover study spanning 30 years in Montreal, Canada. Environ Health Perspect.
+2015;123(7):712–16. Reproduced from Environmental Health Perspectives with permission from
+the authors.
+22
+A second category of direct impacts are those related to increases in extreme weather events such as droughts and
+wildfires, storms and floods, and extreme precipitation. A warmer atmosphere holds more water, and warmer
+oceans fuel more intense storms. Changes in precipitation patterns enhance both drought and flood (1). Under
+these conditions, children are at increased risk of death and injury as they are physically dependent upon adults to
+protect and remove them from dangerous situations (2). Newborns (0–28 days old), infants (1–11 months old) and
+young children (1–4 years old) are at the highest risk (3).
+As these events become both more severe and frequent in a warmer and less stable climate, more and more
+children will be exposed to climate change-related danger and harm. A report published in 2013 indicated that
+children from the poorest families are up to 10 times more likely to suffer from climate-related disasters than
+children from wealthier circumstances (4).
+Severe weather events have many effects on child health. Globally, women and young children are more vulnerable
+to the acute impacts of natural disasters and famines; a 2013 reported suggested they were 14 times more likely to
+die in a disaster than men. Floods cause child injuries and death by drowning, and compromise clean water supplies,
+fostering epidemics of diarrhoea (4).
+Weather disasters devastate homes, spawning refugee communities that are likely to have poor public health. Basic
+life support systems, including water, forests and other natural resources, may also be undermined by climate
+change. Food production and availability are affected by droughts and floods. Children are especially vulnerable to
+the emotional trauma caused by sudden changes in living routines and social networks. The social disruption,
+economic damage and population displacement caused by weather disasters can harm children’s psychological and
+social development (2,5).
+References:
+1. Romanello M, McGushin A, Di Napoli C, Drummond P Hughes N, Jamart L et al. The 2021 report of the Lancet
+Countdown on health and climate change: code red for a healthy future. Lancet. 2021;398:1619-62.
+2. Etzel RA, editor. Pediatric environmental health, 4th edition. Itasca: American Academy of Pediatrics; 2018.
+3. Diaz T, Strong KL, Cao B, Guthold R, Moran AC, Moller AB et al. A call for standardised age-disaggregated health
+data. Lancet Healthy Longev. 2021;2:436–43.
+4. Burgess J, UNICEF UK. Climate change: children’s challenge. London: United Nations Children’s Fund United
+Kingdom; 2013 (https://www.unicef.org.uk/publications/climate-change-report-jon-snow-2013/, accessed 20
+October 2022).
+23
+CLIMATE CHANGE
+Extreme weather events
+• Drought and wildfire
+• Death and injury
+• Displacement
+• Poor air quality
+• Storms and floods
+• Death and injury
+• Displacement
+• Infrastructure disruption
+• Psychological sequelae
+• Extreme precipitation
+• Death and injury
+• Waterborne illness
+HEALTH EFFECTS:
+DIRECT IMPACTS
+5. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change
+2014: impacts, adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of
+Working Group II to the Fifth assessment report of the Intergovernmental Panel on Climate
+Change. Cambridge; New York: Cambridge University Press; 2014
+(https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+Photo:
+• © WHO/ Mobeen Ansari. Children whose home was damaged by flooding, play in a stream in
+Madyan in Pakistan’s Swat valley.
+24
+Children’s vulnerabiliXes in the four generic categories are specified for the direct effects of climate change due to
+heat and weather disasters are listed on this slide.
+1. Infants leu inside ”safe places”, such as locked cars, may rapidly succumb to heat stroke and even death (1).
+2. Physiologically, infants have immature thermoregulatory systems. Children also have higher metabolic rates
+than adults and can more rapidly become dehydrated (1).
+3. Some more subtle ways children suffer disproporXonately include early and prolonged disrupHon of educaHon
+due to climate changed-related events or illness, which may affect future employment and success. Early
+trauma from climate-related disasters, disrupXng family and community, may cause long-term psychological
+harm and mental health issues (2).
+4. Adolescent risk-taking behaviour can lead to increased and dangerous heat exposure during work or sporXng
+acXviXes (1).
+References:
+1. Etzel RA, editor. Pediatric environmental health, 4th ediXon. Itasca: American Academy of Pediatrics; 2018.
+2. Mental health and climate change: policy brief. Geneva: World Health OrganizaXon; 2022
+(hbps://apps.who.int/iris/handle/10665/354104, accessed 20 October 2022).
+25
+CLIMATE CHANGE
+Why children are significantly affected
+Direct effects
+Different and unique exposures
+• Infants confined and left in “safe places” overexposed to heat
+Dynamic developmental physiology
+• Immature thermoregulatory systems in infants
+• Higher metabolic rate increases vulnerability to dehydration
+Longer life expectancy
+• Disruption of education
+• Trauma and post-traumatic stress disorder
+Depend upon adults
+• Pre-ambulatory babies cannot remove themselves from heat
+• Disaster planning must consider children
+• Adolescents may not recognize danger
+HEALTH EFFECTS:
+DIRECT IMPACTS
+Next, the module discusses health risks ŵĞĚŝĂƚĞĚ ƚŚƌŽƵŐŚ ĞĐŽƐǇƐƚĞŵƐ.
+26
+>/Dd ,E'
+How climate change affects health
+ ŝƌĞĐƚ ŝŵƉĂĐƚƐ
+ Extreme heat
+ Extreme weather events
+ DĞĚŝĂƚĞĚ ƚŚƌŽƵŐŚ ĞĐŽƐǇƐƚĞŵƐ
+ Air pollution
+ Food- and water-borne infections
+ Vector-borne disease
+ DĞĚŝĂƚĞĚ ƚŚƌŽƵŐŚ ŚƵŵĂŶ ŝŶƐƚŝƚƵƚŝŽŶƐ
+ Undernutrition
+ Occupational and outdoor exposures
+ Displacement, mental stress and violence
+,>dH &&d^͗
+K^z^dD D/d
+Climate change affects ecosystems upon which humans and all living creatures depend. These ecosystem mediated
+impacts, as identified by the Intergovernmental Panel on Climate Change (IPCC) health experts, fall into several
+categories. The first is air quality.
+Poor air quality is especially dangerous to children as they (1):
+• spend more time outside than adults;
+• are more physically active;
+• breathe more air per unit body weight;
+• have immature and developing lungs susceptible to damage.
+As the climate continues to change, it is expected that air pollution-related illnesses will increase through several
+mechanisms (2).
+Ground-level ozone increases with temperature (1). Ozone is a powerful irritant that causes inflammation and is
+sometimes called “sunburn of the lungs” (1). In asthmatics, ozone triggers more frequent and more severe asthma
+attacks, as measured by emergency room visits (3). There is evidence that long-term exposure to ozone can
+contribute to the development of new asthma cases and to decrease in lung function (4,5). Ozone production
+increases with temperature (even without additional precursors), so in a hotter world, there will be more ozone
+pollution (6).
+Note: for more information, please see the available modules on Ambient air pollution and Childhood respiratory
+diseases linked to the environment.
+References:
+1. Brumberg HL, Karr CJ, AAP Council on Environmental Health. Ambient air pollution: health hazards to children.
+Pediatrics. 2021;147(6):e2021051484.
+2. Air pollution and child health: prescribing clean air. Summary. Geneva: World Health Organization; 2018
+(https://apps.who.int/iris/handle/10665/275545, accessed 20 October 2022).
+3. Ji M, Cohan DS, Bell ML. meta-analysis of the association between short-term exposure to ambient ozone and
+respiratory hospital admissions. Environ Res Lett. 2011;6(2):024006.
+4. Hwang BF, Chen YH, Lin YT, Wu XT, Leo Lee Y (2015). Relationship between exposure to fine particulates and
+ozone and reduced lung function in children. Environ Res. 137:382-90.
+5. Review of evidence on health aspects of air pollution: REVIHAAP project: technical report. Copenhagen: World
+27
+CLIMATE CHANGE
+Air pollution-related illness (Part I)
+Ground level ozone:
+↑ With temperature
+↑ Vulnerability of children
+compared to adults
+↑ Frequency/severity of
+asthma attacks (strong
+evidence)
+↑ emergency room visits
+↓ Lung function
+↑ Asthma incidence (some
+evidence)
+↑ = increase
+↓ = decrease
+HEALTH EFFECTS:
+ECOSYSTEM MEDIATED
+Health Organization Regional Office for Europe;
+2021 (https://apps.who.int/iris/handle/10665/341712, accessed 20 October 2022).
+6. Reducing global health risks through mitigation of short-lived climate pollutants: scoping report
+for policymakers. Geneva: World Health Organization; 2015
+(https://apps.who.int/iris/handle/10665/189524, accessed 20 October 2022).
+Photo:
+• © WHO SEARO. Ground-level ozone in the form of smog is a growing problem across the world.
+This photo shows smog visible during a marathon in New Delhi, India.
+28
+The second category of air pollution related illness derives from fossil fuel pollution driven by an increasing
+population and greater demand for energy.
+If increased energy demand is met by burning more fossil fuels, all major air pollutants will also increase. The
+burning of more fossil fuels will result in increased levels of (1,2):
+• particulates (PM)
+• nitrogen oxides (NOx)
+• sulfur dioxide (SO2)
+• volatile organic hydrocarbons (VOCs)
+• polyaromatic hydrocarbons (PAHs)
+• ozone (O3).
+There is robust evidence that childhood exposure to these specific air pollutants is linked to (1,3):
+• decrease in lung growth and permanent decrements in pulmonary function
+• increase in:
+o respiratory infections
+o asthma incidence and attacks
+o infant and all age mortality,
+o miscarriages, preterm birth and low birth weight.
+Additionally, mercury, which pollutes the air primarily from coal burning, can also pollute the food chain. Mercury is
+a known neurotoxicant and threatens the development of children’s brains and nervous systems (4).
+References:
+1. Perera F, Nadeau K. Climate change, fossil-fuel pollution, and children’s health. N Engl J Med. 2022;386:2303-
+14.
+2. Brumberg HL, Karr CJ, AAP Council on Environmental Health. Ambient air pollution: health hazards to children.
+Pediatrics. 2021;147(6):e2021051484.
+3. Air pollution and child health: prescribing clean air. Summary. Geneva: World Health Organization; 2018
+(https://apps.who.int/iris/handle/10665/275545, accessed 20 October 2022).
+4. Preventing disease through healthy environments: exposure to mercury: a major public health concern, second
+edition. Geneva: World Health Organization; 2021 (https://apps.who.int/iris/handle/10665/340715, accessed
+20 October 2022).
+29
+CLIMATE CHANGE
+Air pollution-related illness (Part II)
+↑ Fossil fuel pollution due to:
+↑ Population
+↑ Demand
+↑ PM, NOx, SO2, VOCs, PAHS, O3
+↓ Lung growth & function
+↑ Respiratory infections
+↑ Asthma incidence
+↑ Asthma attacks
+↑ Infant mortality
+↑ Miscarriages, preterm birth,
+low birth weight
+↑ Mercury
+↑ Neurodevelopmental damage
+↑ = increase
+↓ = decrease
+HEALTH EFFECTS:
+ECOSYSTEM MEDIATED
+Photo:
+• © WHO / Christian Gapp. Skyline of the city of Bonn with industrial plants between Bonn and
+Cologne.
+30
+The third category of air quality-related health impacts is aeroallergens.
+Children have a high prevalence of allergic rhinitis and allergic asthma. Evidence suggests that prevalence of both
+allergic rhinitis and asthma is changing in low- and middle-income countries (LMICs) (1). Climate change is
+exacerbating this problem through several ecosystem mediated processes (2).
+As temperatures and atmospheric carbon dioxide (CO2
+) increase, research is documenting a variety of changes in
+aeroallergens. In many areas in the world, blooming seasons are prolonged because of later first frosts and earlier
+thaws. Ziska et al. documented an overall increase of ragweed (a common weed in North America) growing season
+from 13–27 days between 1995 and 2009, depending upon latitude (3). Similar findings exist for other important
+aeroallergens associated with human sensitivity and disease (4). Children have a high prevalence of respiratory
+allergies, and more prevalent allergic asthma triggers due to climate change translates into more disease.
+Research has also shown that in environments with high CO2
+, plants produce not only more pollen, but more
+allergenic proteins (4). Thus, both an increase in length of blooming time and enriched allergen production, children
+with allergic disease and allergic triggers to their asthma will be more likely to suffer symptoms for longer and more
+intensely as the climate continues to warm.
+As with all climate-related health threats, regional difference are highly variable. The very complex interactions of
+allergic pollens, weather and climate have been reviewed in a statement from the World Allergy Organization (1).
+References:
+1. D’Amato G, Holgate ST, Pawankar R, Ledford DK, Cecchi L, Al-Ahmad M et al. Meteorological conditions, climate
+change, new emerging factors, and asthma and related allergic disorders. A statement of the World Allergy
+Organization. World Allergy Organ J. 2015;8(1):25.
+2. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change 2014: impacts,
+adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of Working Group II to the Fifth
+assessment report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2014 (https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+3. Ziska L, Knowlton K, Rogers C, Dalan D, Tierney N, Elder MA et al. Recent warming by latitude associated with
+increased length of ragweed pollen season in central North America. PNAS. 2011;108(10):4249.
+4. Eguiluz-Garcia I, Mathioudakis AG, Bartel S, Vijverberg SJH, Fuertes E, Comberiati P et al. The need for clean air:
+the way air pollution and climate change affect allergic rhintis and asthma. Allergy. 2020;75:2170-84.
+31
+CLIMATE CHANGE
+Aeroallergens
+• Longer allergy season
+• Later first frost
+• Warmer days and nights
+• Pollen season in North
+America lengthened 13–
+27 days between 1995
+and 2009
+• Interactions with climate
+related weather
+• Enhances transport
+• Increases exposure
+• Higher carbon dioxide can cause:
+• More pollen producRon
+• More allergenic pollen
+HEALTH EFFECTS:
+ECOSYSTEM MEDIATED
+Photo:
+• © WHO / Chelsea Hedquist. A girl in Copenhagen sits on a path with flowers.
+32
+Air quality is parXcularly important for children’s health and development.
+Children ouen have ĚŝīĞƌĞŶƚ nd ƵŶŝƋƵĞ ĞǆƉŽƐƵƌĞƐ to air polluXon compared to adults. Because children are small
+and frequently play close to the ground, both inside and outside, their exposure to some pollutants may be
+increased compared to adults. Children also ouen engage in vigorous physical acXvity, which can increase their
+exposure to dirty air (1).
+Due to their ĚǇŶĂŵŝĐ ĚĞǀĞůŽƉŵĞŶƚĂů ƉŚǇƐŝŽůŽŐǇ children are ouen subjected to higher exposure to pollutants found
+in the air.
+Because they are anabolic and rapidly growing, they breathe more air per kilogram body weight than adults. An
+infant at rest breathes at a rate about five Xmes that of an adult, while young children 3–5 years of age breathe at a
+rate 60% higher than that of adults. Thus, environmental toxicants in the air are delivered to children at higher
+internal doses relaXve to adults (2). Children have high rates of mouth-breathing, bypassing nasal filtraXon, which
+can also expose them to higher levels of air polluXon (1).
+In terms of developmental physiology, children have immature immune, respiratory and central nervous systems and
+are highly sensiXve to environmental sXmuli, including polluted air (3). The immature respiratory system is the
+primary target of air polluXon. At birth, a newborn has only about 30–50% of the alveoli that will be present in
+adulthood (4). Alveolar development occurs most rapidly during the first two years of life, though it may conXnue
+unXl 8 years of age (5). During this period, children experience a higher raXo of lung surface area to lung volume
+than adults, as well as having larger lung surface area to body weight raXo relaXve to adults. The inside lining of the
+respiratory tract is permeable in young children, making them especially vulnerable to irritants in the airways (4). All
+these factors facilitate increased absorpXon of parXcles from air polluXon.
+Airway passages in children are smaller than those in adults. InflammaXon resulXng from air polluXon irritants
+causes proporXonately greater airway obstrucXon. InflammaXon caused by air polluXon that may produce only a
+small response in an adult can result in potenXally significant obstrucXon in a young child’s airways (6).
+Windows of vulnerability for permanent alternaXons in lung funcXon persist throughout childhood. While alveolar
+development is substanXally complete by 2 years, lung growth conXnues through adolescence and parallels somaXc
+growth. It is thought to be complete by approximately 18 years in females and 20-23 years in males (4,5). UnXl adult
+systems are fully developed, exposures to air polluXon may alter funcXon in both reversible and irreversible ways.
+33
+>/Dd ,E'
+Why children are significantly affected
+ŝƌ ƋƵĂůŝƚǇ
+ŝĨĨĞƌĞŶƚ ĂŶĚ ƵŶŝƋƵĞ ĞǆƉŽƐƵƌĞƐ
+ Physically lower to the ground and more active
+ǇŶĂŵŝĐ ĚĞǀĞůŽƉŵĞŶƚĂů ƉŚǇƐŝŽůŽŐǇ
+ Higher respiratory rate, greater exposure to air pollutants
+ Lungs growing and developing throughout childhood
+ Developing central nervous system
+ Allergen exposures and immature immune system
+ Cognitive immaturity
+>ŽŶŐĞƌ ůŝĨĞ ĞǆƉĞĐƚĂŶĐǇ
+ Asthma and lower respiratory function
+ Carcinogens and neurodevelopmental toxicants
+ Impact from disruption of education
+ĞƉĞŶĚ ƵƉŽŶ ĂĚƵůƚƐ
+,>dH &&d^͗
+K^z^dD D/d
+Finally, cogniXve immaturity also increases children’s risk to dirty air. Young children do not know to
+stay away from sources of air polluXon, and the youngest children lack the capacity to move away at
+all. Children are less likely than adults to cease acXvity when they begin to have respiratory symptoms
+such as bronchospasm, so can have prolonged exposure and become more acutely ill (1).
+Because children have longer life expectancies than adults, any chronic condiXons developed in
+childhood can affect the enXre lifeXme. Chronic illness can prevent children from going to school,
+affecXng academic achievement. Furthermore, health effects due to air polluXon have Xme to manifest
+for diseases with long latency. Environmental insults to children early in life will affect them for years to
+come (1,7).
+Finally, children depend upon adultsto provide a safe environment in which to grow, develop and
+thrive (1).
+Note: for more informaXon, please see the available modules on Ambient air pollution and Childhood
+respiratory diseases linked to the environment.
+References:
+1. Etzel RA, editor. Pediatric environmental health, 4th ediXon. Itasca: American Academy of
+Pediatrics; 2018.
+2. Metabolically derived human venXlaXon rates: a revised approach based upon oxygen
+consumpXon rates. Washington DC: United States Environmental ProtecXon Agency; 2009
+(hbps://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=202543, accessed 20 October 2022).
+3. Air polluXon and child health: prescribing clean air. Summary. Geneva: World Health OrganizaXon;
+2018 (hbps://apps.who.int/iris/handle/10665/275545, accessed 20 October 2022).
+4. Principles for evaluaXng health risks in children associated with exposure to chemicals. Geneva:
+World Health OrganizaXon; 2006 (hbps://apps.who.int/iris/handle/10665/43604, accessed 20
+October 2022).
+5. Calogero C, Sly PD. Developmental physiology: lung funcXon during growth and development from
+birth to old age. Eur Resp Monograph. 2010;1:1–15.
+6. Bar-on ME, Zanga JR. BronchioliXs. Prim Care. 1996;23(4):805-19.
+7. Clear the air for children. New York: United NaXons Children’s Fund; 2016
+(hbps://www.unicef.org/reports/clean-air-children, accessed 20 October 2022).
+34
+Water-borne infecXons are another example of ecosystem-mediated health impacts.
+In many low- and middle-income countries (LMICs), access to clean and safe water is a major issue in many
+communiXes. Inadequate access to clean and safe water is likely to be exacerbated by water scarcity and
+temperature effects due to climate change.
+Globally, there are nearly 1.7 billion cases of childhood diarrhoeal disease every year (1). It is the fourth leading
+cause of death in children under 5 years of age. In 2019, diarrhoeal diseases caused an esXmated 484 000 deaths in
+children under 5 years globally (2). The World Health OrganizaXon (WHO) esXmates that in the year 2030, climate
+change will be responsible for an addiXonal 48 000 deaths due to diarrhoeal diseases in children under 15 years of
+age. Almost all these deaths are expected to be concentrated in South Asia and sub-Saharan Africa (3).
+Even in high-income countries (HICs) with well-developed public health infrastructure and early warning systems,
+there is correlaXon between heavy rain events and water-borne infecXons. Climate change-related heavy rain events
+are expected to damage urban infrastructure and reduce water availability. Currently, few household water and
+sanitaXon technologies are resilient to these effects(3).
+Finally, diarrhoeal diseases are highly sensiXve to climaXc condiXons and show strong seasonal variaXons in many
+locaXons (3). The usual posiXve correlaXon of diarrhoeal disease with temperature reflects the fact that most cases
+in tropical developing countries are caused by bacteria, entamoebae and protozoa, all of which are favoured by high
+temperatures. As well as meteorological influences on microbial exposures, incidence of childhood diarrhoeal
+disease may also increase as drinking water can become contaminated by toxins from warming-induced algal
+blooms. Future changes in mean climaXc condiXons and in the occurrence of extreme weather events are likely to
+significantly affect the incidence of diarrhoeal disease in children (4).
+Note: for more informaXon, please see the available modules on Sanitation and hygiene and Water.
+References:
+1. Diarrhoeal disease [website]. Geneva: World Health OrganizaXon; 2017 (hbps://www.who.int/news-room/factsheets/detail/diarrhoeal-disease, accessed 20 October 2022).
+2. Perin J, Mulick A, Yueng D, Villavicencio F, Lopez G, Strong KL et al. Global, regional, and naXonal causes of
+under-5 mortality in 2000-19: an updated systemaXc analysis with implicaXons for the Sustainable
+35
+CLIMATE CHANGE
+• Diarrhoea
+• Globally, nearly 1.7 billion
+childhood cases annually
+• Estimated 484 000 deaths in
+children under 5 years in
+2019
+• Estimated 48 000 deaths in
+children under 15 years due
+to climate change in 2030
+• Increased risk with extreme
+weather events
+• Floodwater
+• Extreme precipitation
+• Overwhelmed water
+treatment
+HEALTH EFFECTS:
+ECOSYSTEM MEDIATED
+• Increased risk of water scarcity
+with climate change
+• Insufficient quantity/quality
+of water for consumption
+and basic hygiene
+• Diarrhoeal disease correlates
+with temperature
+• Bacteria and viruses
+• Protozoa
+• Nematodes
+• Toxins from harmful algae
+Water-borne infecLons
+Development Goals. Lancet Child Adolesc Health. 2022;6:106-15.
+3. QuanXtaXve risk assessment of the effects of climate change on selected causes of death, 2030s
+and 2050s. Geneva: World Health OrganizaXon; 2014
+(hbps://apps.who.int/iris/handle/10665/134014, accessed 20 October 2022).
+4. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change
+2014: impacts, adaptaXon, and vulnerability. Part A: global and sectoral aspects. ContribuXon of
+Working Group II to the Fiuh assessment report of the Intergovernmental Panel on Climate
+Change. Cambridge; New York: Cambridge University Press; 2014
+(hbps://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+36
+Food-borne diseases are also likely to increase with climate change. Currently, children under 5, particularly those
+living in low- and middle-income countries (LMICs), bear a disproportionate burden of food-borne diseases and
+death. In 2010, an estimated 420 000 people died globally from food-borne diseases, including 125 000 children
+under the age of 5 years (1,2).
+The increase in food-borne diseases will be partly due to changes in global eating behaviour and partly due to
+warmer weather, allowing many food-borne pathogens to grow faster. Increases in food-borne diseases will likely
+lead to an annual increase in cases of childhood diarrhoeal diseases and consequently more hospitalizations due to
+diarrhoeal-related dehydration (3).
+Note: for more information, please see the available module on Children and food safety.
+References:
+1. WHO estimates of the global burden of foodborne diseases: foodborne diseases burden epidemiology
+reference group 2007-2015. Geneva: World Health Organization; 2015
+(https://apps.who.int/iris/handle/10665/199350, accessed 20 October 2022).
+2. Food safety [website]. Geneva: World Health Organization; 2022 (https://www.who.int/en/news-room/factsheets/detail/food-safety, accessed 20 October 2022).
+3. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change 2014: impacts,
+adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of Working Group II to the Fifth
+assessment report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2014 (https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+Photo:
+• © WHO / Patrick Brown. A child eats food with his mother, Thailand.
+37
+CLIMATE CHANGE
+Food-borne diseases
+• Higher ambient temperatures
+• Different eating behaviour
+• Faster growth of food-borne pathogens
+• Resulting in more cases of diarrhoeal disease
+HEALTH EFFECTS:
+ECOSYSTEM MEDIATED
+Under the conditions of rapid global warming, changes in precipitation patterns and humidity levels; vector-borne
+pathogens and subsequent disease patterns will also change. This figure from the Intergovernmental Panel on
+Climate Change (IPCC) illustrates the complexities of these relationships. The graphic shows data on selected vectorborne diseases between 2008 and 2012, their distribution, burden of disease and various global and local climate
+sensitive components. For example (1):
+• dengue was associated with climate variables at a high level of confidence at both global and local levels;
+• malaria and haemorrhagic fever with renal syndrome were positively associated with climate variables at the
+local level with high confidence.
+The complexity of the graphic highlights the importance of local, national and regional preparedness and response.
+Climate change is altering the pattern of vector-borne diseases as some insects and rodents respond quickly to
+changes in temperature and moisture by migrating and increasing in numbers. The reproduction and survival of
+blood-feeding vector organisms, such as mosquitoes and ticks, are greatly affected by climate and other ecological
+factors. Higher temperatures, changes in precipitation, and altered climate variability may therefore change the
+distribution of vector-borne diseases, both spatially and seasonally. Immunologically naive populations may thus
+face unfamiliar pathogens (1). In some locations, climate change may lead to a decrease in some vector-borne
+diseases due to reduced rainfall or excessively high temperatures (2).
+In general, without strong public health defences, the anticipated increase in range and seasonality of pathogens
+and their vector organisms will cause a greater incidence of various vector-borne diseases. Children are particularly
+susceptible to malaria, dengue fever and various forms of encephalitis (2). For example, the prevalence of these
+vector-borne diseases is likely to increase with climate change as higher temperatures are expected to (2):
+• accelerate vector life cycle
+• shorten incubation time of the parasite in the vector
+• prolong transmission seasons.
+Furthermore, higher temperatures will change the range of vectors both in latitude and altitude. One example is
+ticks. Ticks that harbour the Borrelia bacterium, which causes Lyme disease, are now endemic in Canada and parts
+of Scandinavia and cases of Lyme disease are on the rise (3).
+References:
+38
+CLIMATE CHANGE
+Vector-borne diseases
+HEALTH EFFECTS:
+ECOSYSTEM MEDIATED
+1. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change
+2014: impacts, adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of
+Working Group II to the Fifth assessment report of the Intergovernmental Panel on Climate
+Change. Cambridge; New York: Cambridge University Press; 2014
+(https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+2. Rocklöv J, Dubrow R. Climate change: an enduring challenge for vector-borne disease prevention
+and control. Nat Immunol. 2020;21(5):479-83.
+3. Nuttall PA. Climate change impacts on ticks and tick-borne infections. Biologia. 2022;77:1503–12.
+Figure:
+• © Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate
+change 2014: impacts, adaptation, and vulnerability. Part A: global and sectoral aspects.
+Contribution of Working Group II to the Fifth assessment report of the Intergovernmental Panel
+on Climate Change. Cambridge; New York: Cambridge University Press; 2014
+(https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022). Table 11-1 -The association
+between different climatic drivers and the global prevalence and geographic distribution of
+selected vector-borne diseases observed over the period 2008-2012. Reproduced with permission
+from the Intergovernmental Panel on Climate Change.
+39
+Malaria is the most deadly vector-borne disease in the world. Five species of Plasmodium parasites are responsible
+for malaria transmission, mostly via the Anopheles mosquito. In 2020, almost half of the global population was at
+risk of malaria and malaria was endemic in 85 countries. There was an estimated 241 million cases of malaria
+globally in 2020 (1).
+In 2020, the World Health Organization (WHO) reported an estimated 627 000 deaths due to malaria globally. More
+than 486 000 children under the age of 5 years died in 2020 due to malaria. The highest rates of death and disease
+burden from malaria occur in the WHO’s African Region, which carries 95% of malaria cases and 96% of all malarial
+deaths. 80% of deaths in Africa were among children under the age of 5 (1).
+Children experience disproportionately high levels of both morbidity and mortality from malaria. Young children
+have little specific immunity to malarial species and may suffer annual attacks of debilitating and potentially fatal
+disease. Children are also more susceptible to cerebral malaria and severe anaemia, which can lead to death (1).
+Malaria incidence is nonlinearly related to temperature. Small increases in temperature can lead to major increases
+in malaria cases. Increased temperatures may expand the geographical range of conditions conducive to malaria
+transmission; both to higher altitudes and to higher latitudes. Furthermore, elevated temperatures in combination
+with conducive patterns of rainfall and surface water, may extend the malaria transmission season in some locations
+(2).
+References:
+1. World malaria report 2021. Geneva: World Health Organization; 2021
+(https://apps.who.int/iris/handle/10665/350147, accessed 20 October 2022).
+2. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change 2014: impacts,
+adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of Working Group II to the Fifth
+assessment report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2014 (https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+40
+CLIMATE CHANGE
+Vector-borne disease
+Example: malaria
+• Estimated 241 million cases worldwide in 2020
+• More than 486 000 deaths in children under 5
+globally in 2020
+• Children have less specific immunity
+• More susceptible to:
+• Cerebral malaria
+• Hypoglycaemia from malaria
+• Permanent neurological damage
+• Pregnant mothers are at high risk of severe malaria
+HEALTH EFFECTS:
+ECOSYSTEM MEDIATED
+Paediatricians and other child health care professionals are very familiar with the unique susceptibilities of children
+to many infections. Some of these vulnerabilities are listed on the slide. Exposures in children may be different and
+unique such as (1):
+• in utero exposure to maternal infection;
+• higher exposure due to hand-mouth activity and poor hand hygiene;
+• more time spent outside where exposure may be increased.
+Immature immune response may increase vulnerability to certain infections. Children are also more prone to
+dehydration due to greater need for fluids. Some antimicrobials may not be safe for use in children and some
+measures to reduce exposure, such as pesticides to control vectors, may pose additional risks. Children have longer
+to suffer consequences to infections which affect nutrition and growth or disrupt schooling. Finally, children depend
+upon adults to keep them safe (1).
+Climate-related infections can vary by (1):
+• age
+• infection agent
+• locally-available treatment
+• locally-available or affordable preventive measures
+• any comorbidities at the time of infection.
+It is critically important for health care providers who look after children to anticipate differing patterns of disease as
+climate conditions change locally. Response should include the institutionalization of preventive public health
+measures as well as being prepared to treat children who contract these food-, water- and vector-borne diseases.
+Note: highlight the climate-related infections most relevant in your region.
+Note: for information on the risks posed by pesticides to children’s health, see the available module on Pesticides.
+Reference:
+1. Etzel RA, editor. Pediatric environmental health, 4th edition. Itasca: American Academy of Pediatrics; 2018.
+41
+CLIMATE CHANGE
+Why children are significantly affected
+Water-, food- and vector-borne diseases
+Different and unique exposures
+• In utero exposure to maternal infecRon
+• Hand-to-mouth behaviours usually without hand washing
+• More Rme outside
+Dynamic developmental physiology
+• Immature immune responses
+• More prone to dehydraRon
+• LimitaRons on anRmicrobials due to age-related toxiciRes
+• SensiRve to prevenRon measure toxicity, such as pesRcides
+Longer life expectancy
+• Long-term effect of inadequate nutriRon
+• DisrupRon of educaRon
+Depend upon adults
+HEALTH EFFECTS:
+ECOSYSTEM MEDIATED
+The final category in the Intergovernmental Panel on Climate Change (IPCC)’s Fifth Assessment Report (AR5) is
+climate-related health effects mediated through human institutions.
+These are perhaps the most difficult problems for paediatricians and other health care workers to approach. Climate
+change represents a serious threat to achieving long-term aspirations of alleviating global food and water insecurity
+and ensuring global peace and social equity. All of these can dramatically affect children’s growth and development
+and their very survival.
+While not directly related to patient care, these challenges serve as motivation to those who work on behalf of
+children and future generations. They are reviewed very briefly in the following slides.
+42
+CLIMATE CHANGE
+How climate change affects health
+• Direct impacts
+• Extreme heat
+• Extreme weather events
+• Mediated through ecosystems
+• Air pollution
+• Food- and water-borne infections
+• Vector-borne disease
+• Mediated through human institutions
+• Undernutrition
+• Occupational and outdoor exposures
+• Displacement, mental stress and violence
+HEALTH EFFECTS:
+HUMAN INSTITUTIONS
+The complex health effects associated with climate change are significantly mediated by the status and trajectories
+of human institutions.
+Nutrition is one of the most critical determinants of child health. Child nutrition depends upon access to a
+wholesome, adequate, and nourishing food supply. Agricultural production can be reduced by high temperatures
+and changes in precipitation, resulting in both lower quantity and quality food. Farm worker productivity may also
+be significantly affected by high temperatures. Research has found links between the increase in atmospheric
+carbon dioxide (CO2) and decreases in the quality of some food plants, particularly those containing protein. Indeed,
+climate change is already a threat in the most food-insecure regions of the world. Food price and production, levels
+of development and poverty and baseline health all play a role in ensuring that children have enough high quality
+food for optimal growth and development (1).
+Many occupations that are necessary for robust societal infrastructure may be affected by climate change. Farm
+workers and other outdoor workers may be at high risk of heat stress, extreme weather events, vectors of disease
+and other climate-related effects. These may have productivity and health consequences in the future (2).
+Mental health may be compromised due to local, regional and global responses to progressive climate change and
+represent both acute and chronic stressors. Children and adolescents are more prone than other groups to anxiety,
+depression and post-traumatic stress disorder related to climate-related disasters, which may be more common in a
+warming and less stable climate. Climate-related disasters can also influence family stability and access to
+education, which further affects children’s mental health (3). Research has suggested that in 2019 more than 50
+million children worldwide had already been forced to leave their homes due to climate-related events (4). As
+resource availability changes, and in some areas declines, resource-related conflict is possible and forced migration
+may occur (3). The mental health of families is critical to children’s development throughout childhood. The
+disruptions of a warmer and less stable climate system pose increasingly serious threats to child wellbeing and
+mental health.
+References:
+1. Technical series on adapting to climate sensitive impacts: undernutrition. Geneva: World Health Organization;
+2019 (https://apps.who.int/iris/handle/10665/325751, accessed 20 October 2022).
+2. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change 2014: impacts,
+adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of Working Group II to the Fifth
+assessment report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2014 (https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+43
+CLIMATE CHANGE
+Nutrition
+• Agricultural production
+• Socioeconomic factors
+• Human health
+Occupation
+• Heat stress
+• Productivity versus health
+protection
+Mental health and violence
+• Acute and chronic stressors
+• Resource degradation and conflict
+• Forced migration
+HEALTH EFFECTS:
+HUMAN INSTITUTIONS
+Human institution mediated impacts
+3. Mental health and climate change: policy brief. Geneva: World Health Organization; 2022
+(https://apps.who.int/iris/handle/10665/354104, accessed 20 October 2022).
+4. Perera F, Nadeau K. Climate change, fossil-fuel pollution, and children’s health. N Engl J Med.
+2022;386:2303-14.
+Photo:
+• © WHO/ Esther Ruth Mbabazi. Magdaleen, 7, has a meal at home, Uganda.
+44
+There is growing appreciation of the interdependent nature of all natural systems and human civilization. The Sixth
+Assessment Report (AR6) of the Intergovernmental Panel on Climate Change (IPCC) was in the final stages of editing
+and approval at the time this module was revised. In the Summary for Policy Makers for Working Group I, tasked
+with assessing climate change’s impacts, adaptation and vulnerability, the approach was revised from the Fifth
+Assessment Report (AR5). The revised approach shows more interaction among traditionally siloed sectors (1).
+Throughout the AR6 this theme is emphasized: “This report recognizes the interdependence of climate, ecosystems
+and biodiversity, and human societies and integrates knowledge more strongly across the natural, ecological, social
+and economic sciences than earlier IPCC assessments (1).”
+Similarly, in 2020 the World Health Organization (WHO), United Nations Children’s Fund (UNICEF) and the Lancet
+Commission assessed the impact that climate change is having on children’s futures. The Commission identified the
+need to place children at the center of all development goals in light of the urgent threats from climate change,
+environmental degradation and global social inequity (2).
+Children require stability, nurturing, clean, safe environments and healthy food for optimal growth and
+development. Societal institutions that traditionally provide for this include:
+• family and community
+• childcare, school and education facilities
+• health and public health facilities
+• government bodies.
+Yet these institutions are all threatened by the uncertainty of accelerating climate change. Children around the
+world report anxiety, worry and fear in relation to climate change (3).
+References:
+1. IPCC. Summary for Policymakers. In: Masson-Delmotte V, Zhai P, Pirani A, Connors SL, Péan C, Berger S et al,
+editors. Climate change 2021: The physical science basis. Contribution of Working Group I to the Sixth
+Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2021 (https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/, accessed 20
+October 2022).
+2. Clark H, Coll-Seck AM, Banerjee A, Petrson S, Daglish SL, Ameratunga S et al. A future for the world’s children? A
+WHO-UNICEF-Lancet Commission. Lancet. 2020;395;605-58
+45
+• Family/community
+• Childcare/school/education
+• Health/public health
+• Governments
+• Children’s mental health already
+adversely affected
+CLIMATE CHANGE
+HEALTH EFFECTS:
+HUMAN INSTITUTIONS
+Stable institutions critically important to children
+3. van Nieuwenhuizen A, Hudson K, Chen X, Hwong AR. The effects of climate change on child and
+adolescent mental health: clinical considerations. Curr Psychiatry Rep. 2021;23(12):88.
+Photos:
+• Left: Alisdare Hickson. “I’m scared.”
+https://commons.wikimedia.org/wiki/File:I%27m_scared_(52003665738).jpg. This file is licensed
+under the Creative Commons Attribution-Share Alike 2.0 Generic license (CC BY-SA 2.0;
+https://creativecommons.org/licenses/by-sa/2.0/deed.en).
+• Right: Project 90 by 2030. “Young climate leaders mobilising for their futures, South Africa.”
+https://commons.wikimedia.org/wiki/File:Project_90_by_2030_-_Youlead_Warriors.jpg. This file is
+licensed under Creative Commons Attribution-Share Alike 4.0 International license (CC BY-SA 4.0;
+https://creativecommons.org/licenses/by-sa/4.0/deed.en/).
+46
+Children are particularly vulnerable to the climate change-related impacts on human institutions as the changes
+seen today not only affect their current health and wellbeing, but also their future potential. Revisiting the rubric of
+children’s special vulnerabilities, the threats to human institutions are felt throughout children’s lives as the affect
+community, education, health care delivery and political stability. As the effects of climate change become
+increasingly disruptive, the children of today will be required to cope with a less stable and predictable set of human
+institutions compared to previous generations (1).
+The lives of children born in this century will be different from the lives of children born into a more stable climate.
+Furthermore, children do not have significant political voice or agency. They rely upon adults to make decisions that
+will protect their future.
+Reference:
+1. Etzel RA, editor. Pediatric environmental health, 4th edition. Itasca: American Academy of Pediatrics; 2018.
+47
+CLIMATE CHANGE
+Why children are significantly affected
+Threats to human ins; tu; ons
+Different and unique exposures
+Dynamic developmental physiology
+Longer life expectancy
+• Stressed communities and families from climate-related
+events
+• Interruptions in education
+• Uncertain health care
+• Political dysfunction, unrest, violence
+Depend upon adults
+• Lack of political agency to affect change
+HEALTH EFFECTS:
+HUMAN INSTITUTIONS
+Having completed the review of climate change-related effects on child health, the module discusses the specific
+roles of the health sector in responding to the threats from climate change.
+These roles have been organized into three categories:
+• adaptation strategies to climate change that will protect children;
+• mitigation strategies to climate change that will protect future generations; and
+• education and advocacy strategies that will promote awareness and engage larger numbers of colleagues,
+families and citizens in addressing climate change.
+Note on terminology: throughout this section the terms “adaptation” and “mitigation” are used according to the
+Intergovernmental Panel on Climate Change (IPCC) definitions:
+• adaptation: the process of adjustment to actual or expected climate and its effects. In human systems,
+adaptation seeks to moderate or avoid harm or exploit beneficial opportunities. In some natural systems, human
+intervention may facilitate adjustment to expected climate and its effects (1);
+• mitigation: a human intervention to reduce the sources or enhance the sinks of greenhouse gases (1).
+Reference:
+1. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change 2014: impacts,
+adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of Working Group II to the Fifth
+assessment report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2014 (https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+48
+CLIMATE CHANGE
+Outline
+1. Magnitude of the problem
+• Humans have changed the climate
+• Children are among the most vulnerable
+2. Effects on children’s health from climate change
+• Direct health impacts
+• Ecosystem-mediated impacts
+• Impacts mediated through human institutions
+3. Role of paediatricians in protecting child health
+• Adaptation strategies
+• Mitigation strategies
+• Education and advocacy
+Adapting to climate change is one of the most important points of this module.
+As the climate has already changed and will continue to do so for at least two decades no matter the global
+response today. Adaptation is now critical (1). The health risks this module has explored will increase as the planet
+continues to warm and weather events become increasingly severe and unpredictable. The physics of the climate
+system mean that even if all greenhouse gas emissions were to cease today, global temperatures would continue to
+rise as the system equilibrates.
+The Intergovernmental Panel on Climate Change (IPCC) has named this equilibration as the “era of committed
+climate change.” These target-style graphs show the projected relative proportion (the width between the arrows)
+of each health threat as well as the magnitude or number of people affected by the number of circle segments. The
+critical feature to understand from these circles is that the dark red circles represent the amount that health
+impacts can be reduced with a higher level of adaptation than is currently being used. If nothing is done, the poor
+health outcomes increase dramatically. If countries work collectively to develop robust adaptive strategies, these
+can be reduced to the smaller yellow circles (the unavoidable increased health hazards). These adaptive strategies
+could save lives and preserve the health of many people (1).
+As children bear a disproportionately high health burden from climate change, it is essential that paediatricians and
+other health care workers are included at all levels of adaptation strategy development and implementation.
+Note: at the time of this revision, the Sixth Assessment Report (AR6) IPCC was in final stages of editing and approval.
+It does not currently include this particular adaptation framework. When the AR6 is finalized, it is anticipated that
+the adaptation options will remain important, but the predicted efficacy may be less optimistic making action today
+of paramount importance (2).
+References:
+1. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change 2014: impacts,
+adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of Working Group II to the Fifth
+assessment report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2014 (https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+2. IPCC. Summary for Policymakers. In: Masson-Delmotte V, Zhai P, Pirani A, Connors SL, Péan C, Berger S et al,
+editors. Climate change 2021: The physical science basis. Contribution of Working Group I to the Sixth
+Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+49
+CLIMATE CHANGE
+Adaptation is necessary now
+ADAPTATION
+STRATEGIES
+University Press; 2021 (https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/,
+accessed 20 October 2022).
+Figure:
+• © Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate
+change 2014: impacts, adaptation, and vulnerability. Part A: global and sectoral aspects.
+Contribution of Working Group II to the Fifth assessment report of the Intergovernmental Panel
+on Climate Change. Cambridge; New York: Cambridge University Press; 2014
+(https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022). Figure TS.10 – Conceptual
+presentation of health risks from climate change and the potential for risk reduction through
+adaption. Reproduced with permission from the Intergovernmental Panel on Climate Change.
+50
+The power of adaptation is illustrated in this case study from Bangladesh.
+This example is offered as proof of the adaption concept; that even very large problems can be collectively
+managed. While not specifically in response to climate change, Bangladesh has made dramatic improvements in
+disaster preparedness over the past 40 years. As an area vulnerable to flooding, storm surges and wind damage
+from frequent cyclones, Bangladesh assembled a multi-sector, multi-pronged approach to disaster preparedness
+which has saved lives (1). The adaptions have occurred across three categories (2):
+1. general disaster education, aided by increased literacy rates, has better prepared the public for cyclones;
+2. early warning systems, from high-tech information to bicycle-relayed messaging, alert communities to
+imminent danger; and
+3. designated shelters give people a safe place to go during cyclones. The photo on the slide shows a cyclone
+shelter in Bangladesh.
+The dramatic reduction in lives lost from similar or worsening storms, despite the country’s population increase of
+30 million in the same time period, is testimony to the power of adaptation (World Health Organization,
+unpublished report, 2022).
+Considering that the risks from climate change are guaranteed to increase over the next several decades even if
+global response to reducing greenhouse gas emissions is robust and swift, this example is powerful and heartening.
+References:
+1. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change 2014: impacts,
+adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of Working Group II to the Fifth
+assessment report of the Intergovernmental Panel on Climate Change. Cambridge University Press; 2014
+(https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+2. Murray V, McBean G, Bhatt M, Borsch S, Cheong TS, Erian WF et al. Case studies. In: Field CB, Barros V, Stocker
+TF, Qin D, Dokken DJ, Ebi KL et al, editors. Managing the risks of extreme events and disasters to advance
+climate change adaptation. A special report of Working Groups I and II of the Intergovernmental Panel on
+Climate Change. Cambridge; New York: Cambridge University Press; 2012:487-542.
+Photo:
+• Ahm Masum. “Destiny, cyclone Sidr shelter.
+https://commons.wikimedia.org/wiki/File:Destiny,cyclone_Sidr_shelter.jpg. This file is licensed under
+51
+CLIMATE CHANGE
+Case study: Bangladesh
+Adaptations
+• General disaster education
+• Early warning systems
+• Cyclone shelters
+• 1970 Cyclone Bhola
+Category 4
+o 500 000 people died
+• 1991 cyclone
+Category 5
+o 140 000 people died
+• 2007 Cyclone Sidr
+Category 5
+o 3 400 people died
+ADAPTATION
+STRATEGIES
+the Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0;
+https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+52
+Another example of climate-adaption comes from Nepal.
+In Shankarnaga, a town in southern Nepal, the local water authority identified the increasing risk of water supply
+interruption due to (World Health Organization, unpublished report, 2022):
+• climate-related floods
+• landslides
+• related power outages.
+As an adaption strategy, seven emergency hand pumps were installed in strategic areas of the community to allow
+residents to access clean water during power outages. This project was funded through the World Health
+Organization (WHO), by United Kingdom of Great Britain and Northern Ireland’s Department for International
+Development (DFID) with the support of regional offices and local government (1, World Health Organization,
+unpublished report, 2022).
+Reference:
+1. Delivering climate-resilient water and sanitation in Africa and Asia. Geneva: World Health Organization; 2018
+(https://www.who.int/news/item/01-01-2018-delivering-climate-resilient-water-and-sanitation-in-africa-andasia, accessed 20 October 2022).
+Photo:
+• Top: © WHO/ Payden. Two girls collect water from a hand pump, Nepal.
+53
+CLIMATE CHANGE
+Case study: Nepal
+ADAPTATION
+STRATEGIES
+• Water supply interruption:
+• Climate-related floods
+• Landslides
+• Power outages
+• Adaption:
+• Seven emergency hand
+pumps
+• Strategically placed
+As adaption is essential and can be extremely effective, as is seen in the previous example from Bangladesh.
+Paediatricians and other health care professionals have unique roles in planning and responding on behalf of
+children. Vulnerable groups, such as pregnant women, mothers, infants and children, require special attention in
+patient care, disaster planning and community efforts. This should be an exercise in collaboration among multiple
+sectors (1,2).
+Paediatricians and other health care professionals can work on many levels to address climate change, for example
+(3,4):
+• at the clinic level in direct patient care
+• at the public health level
+• at the community level.
+The ongoing process of tailoring climate adaptation to the local and regional conditions, in cooperation with all
+sectors and leadership, is critically important.
+References:
+1. Di Cicco ME, Ferrante G, Amato D, Capizzi A, De Pieri C, Ferraro VA et al. Climate change and childhood
+respiratory health: a call to action for paediatricians. Int J Environ Res Public Health. 2020;17:5344.
+2. Climate change and health: vulnerability and adaptation assessments. Geneva: World Health Organization; 2021
+(https://apps.who.int/iris/handle/10665/345968, accessed 20 October 2022).
+3. WHO guidance for climate resilient and environmentally sustainable health care facilities. Geneva: World Health
+Organization; 2020 (https://apps.who.int/iris/handle/10665/335909, accessed 20 October 2022).
+4. Philipsborn RP, Cowenhoven J, Bole A, Balk SJ, Bernstein A. A pediatrician’s guide to climate change-informed
+primary care. Curr Probl Pediatr Adolesc Health Care. 2021;51(6):101027.
+54
+CLIMATE CHANGE
+Direct patient care
+• Optimize immunizations and access to care
+• Teach use of UV, heat and air quality indices, early warning systems
+• Identify vulnerable children in the practice
+Work collaboratively with local public health officials to
+• Develop a local “climate-related health risk profile”
+• Develop low toxicity vector control programmes
+• Improve disease reporting and surveillance
+• Centre children’s needs in disaster preparedness
+In the community
+• Protect drinking water supply and quality
+• Support local agriculture
+• Develop broad partnerships and programmes across sectors
+ADAPTATION
+STRATEGIES
+CriLcal role of health care professionals
+Approaches to adapta%on
+Each location and region has its own complement of climate-related health risks, consequently all adaptation
+strategies must be specific for a particular area, community or region (1–3). At a minimum, all adaptation strategies
+should include those listed on the slide.
+For paediatricians, adaptation should always include specific consideration of children’s vulnerabilities and needs.
+Paediatricians and all maternal and child health professionals should be integral parts of planning and implementing
+these strategies at all levels from local to global.
+“The present health status of a population may be the single most important predictor of both the future health
+impacts of climate change and the costs of adaptation (4).”
+Note: adapt this slide to include locally-relevant projects or problems and actions relevant for your audience.
+Note: for a full list of resource on climate-adaption strategies available from the World Health Organization (WHO)
+visit the Toolkit on Climate Change and Health: https://www.who.int/teams/environment-climate-change-andhealth/climate-change-and-health/capacity-building/toolkit-on-climate-change-and-health
+References:
+1. Climate change and health: vulnerability and adaptation assessments. Geneva: World Health Organization; 2021
+(https://apps.who.int/iris/handle/10665/345968, accessed 20 October 2022).
+2. Quality criteria for health national adaption plans. Geneva: World Health Organization; 2021
+(https://apps.who.int/iris/handle/10665/339454, accessed 20 October 2022).
+3. Quality criteria for the evaluation of climate-informed early warning systems for infectious diseases. Geneva:
+World Health Organization; 2021 (https://apps.who.int/iris/handle/10665/345530, accessed 20 October 2022).
+4. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change 2014: impacts,
+adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of Working Group II to the Fifth
+assessment report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2014 (https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+55
+CLIMATE CHANGE
+Components of adaptation strategies
+Improving basic public health and health care services
+The present health status of a popula5on may be the single most
+important predictor of both the future health impacts of climate
+change and the costs of adapta5on (IPCC, 2014).
+Vulnerability mapping specifically including children
+• IdenRfy prioriRes and target acRons
+Climate-informed early warning systems
+• Forecast weather events such as heatwaves, storms, heavy rain
+• InfecRous disease surveillance
+• CommunicaRon systems and prevenRve acRons
+• EvaluaRon and improvement
+ADAPTATION
+STRATEGIES
+Paediatricians and other child health care providers are uniquely situated to highlight children and their needs when
+considering climate-adaption strategies. This can be done by identifying appropriate child-centred resources, such
+as the World Health Organization’s (WHO) atlas on children’s health and the environment (1) and considering
+available research and data during development and implementation of adaptation strategies (2).
+Collecting real world stories of the impact of climate change on children and using them to illustrate and emphasize
+the importance of including child-centric considerations in all planning can be a powerful strategy for health care
+providers.
+Paediatricians are also in an ideal position to work with teams of parents, teachers and child-care workers, alongside
+local authorities, to ensure that adaption strategies will protect the health, wellbeing and futures of children.
+Finally, health care professionals can use the long tradition of anticipatory guidance to develop educational
+materials on climate adaptation strategies that specifically address the special needs of children. This may include
+the use of (3):
+• air quality indices
+• heat warnings
+• emergency preparation.
+References:
+1. Inheriting a sustainable world? Atlas on children’s health and the environment. Geneva: World Health
+Organization; 2017 (https://apps.who.int/iris/handle/10665/254677/, accessed 20 October 2022).
+2. Clark H, Coll-Seck AM, Banerjee A, Petrson S, Daglish SL, Ameratunga S et al. A future for the world’s children? A
+WHO-UNICEF-Lancet Commission. Lancet. 2020;395;605-58.
+3. Philipsborn RP, Cowenhoven J, Bole A, Balk SJ, Bernstein A. A pediatrician’s guide to climate change-informed
+primary care. Curr Probl Pediatr Adolesc Health Care. 2021;51(6):101027.
+Photo:
+• © WHO / SEARO / Sanjit Das. Children at school, India.
+56
+CLIMATE CHANGE
+Spotlight on children
+• Find child-centred resources
+• Highlight children’s stories
+• Work with parents, teachers and child-care workers
+• Develop anticipatory guidance for clinics and community
+ADAPTATION
+STRATEGIES
+An example of an adaptaXon strategy is the Extreme Heat Response Program designed to operate at the local level
+in the United States of America.
+This programme involves using heat health watch warning systems to iniXate responses. The acXons include:
+• acXvaXng telephone heat hotlines as a source of public advice;
+• alerXng neighbourhood volunteers, family members and friends to check on each other;
+• providing public air-condiXoned buildings and transportaXon to these faciliXes;
+• working with local schools and childcare faciliXes to protect at-risk individuals;
+• coordinaXng with local uXlity companies to ensure that service to residenXal electricity customers is not shut off
+during a heat wave (1).
+This intervenXon also advocates for special care of vulnerable populaXons, including the elderly, those experiencing
+homelessness and outdoor labourers. AcXons to protect vulnerable populaXons include (1):
+• working with local “aging agencies” to educate at-risk elderly individuals;
+• conducXng outreach to at-risk individuals experiencing homelessness;
+• modifying or cancelling outdoor labour and sports.
+Local medical infrastructure must be adapted to ensure adequate emergency room and inpaXent capacity for those
+who slip through the cracks of any intervenXon.
+Reference:
+1. Extreme heat [website]. Washington DC: United States Environmental ProtecXon Agency; 2022
+(hbps://www.epa.gov/natural-disasters/extreme-heat, accessed 20 October 2022).
+57
+CLIMATE CHANGE
+Case study: Heatwaves, United States of America
+Extreme Heat Response Program – local level
+• Telephone “heat lines”
+• Neighbourhood buddy systems
+• Public cooling stations
+• Cooperation with schools and childcare facilities
+• Coordination with local utilities
+• Cancellation of outdoor sports and play
+Medical response
+• Ensure adequate emergency room and in-patient capacity
+ADAPTATION
+STRATEGIES
+The next crucial step in the response to climate change is mitigation. Adapting to and developing climate resilience
+are not sufficient.
+Changes in the actions that the global society takes NOW regarding greenhouse gas emissions, energy choices, landuse choices and population control will determine how much climate change will occur in the second half of the 21st
+century and beyond. Notice that in the “era of climate options,” the Intergovernmental Panel on Climate Change
+(IPCC) draws the risk profile for a 4 degrees Celsius (°C) temperature rise. This is the temperature rise anticipated if
+humanity continues along current emissions pathways without any new adaptation or mitigation strategies. Without
+new strategies, the health risks become enormous and many will be beyond our capacity for adaption (1).
+The IPCC also discusses “adaptation limits” – temperatures above which human adaptation is not possible. Humans
+have physiological limits to heat tolerance which could ultimately make some areas of the globe uninhabitable.
+Unchecked, severe climate change may cause the displacement of millions of people from their homes,
+consequently placing more pressure on areas that are still suitable for human inhabitation. Limits to food
+production and human nutrition under high temperatures are also likely. As the IPCC states, “there may be a
+threshold of global warming beyond which current agricultural practices can no longer support large human
+civilizations (1)”.
+Adaptations that are heavily reliant on infrastructure, such as large-scale air conditioning, risk placing vulnerable
+populations at heightened risk of power outages and failures. Moreover, many experts believe that the effects of
+climate change will not be smooth or linear. Rather, there may be a tipping point after which a system changes
+dramatically and irreversibly, significantly affecting human health and welfare. These non-linear changes cannot
+easily be anticipated and, once they occur, could have serious consequences.
+Thus, the future of human health depends greatly upon human choices to mitigate climate change now. There is an
+urgent need to curtail greenhouse gas emissions globally and increase carbon dioxide (CO2) sinks (natural places
+where CO2 is sequestered, such as forests and soils) now to keep global warming to a manageable minimum.
+Note: the width of the slices represents the relative proportion or burden of disease at the population level in each
+category. The rings represent risk levels with the darker red colour indicating risks that could be improved by
+intensive adaptation efforts. Yellow rings represent risks that cannot be changed by aggressive adaptation. The
+higher the global temperature, the more rings will turn yellow and the less human society will be able to adapt (1).
+58
+CLIMATE CHANGE
+MiLgaLon is needed urgently
+MITIGATION
+STRATEGIES
+Reference:
+1. Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate change
+2014: impacts, adaptation, and vulnerability. Part A: global and sectoral aspects. Contribution of
+Working Group II to the Fifth assessment report of the Intergovernmental Panel on Climate
+Change. Cambridge; New York: Cambridge University Press; 2014
+(https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022).
+Figure:
+• © Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE et al, editors. Climate
+change 2014: impacts, adaptation, and vulnerability. Part A: global and sectoral aspects.
+Contribution of Working Group II to the Fifth assessment report of the Intergovernmental Panel
+on Climate Change. Cambridge; New York: Cambridge University Press; 2014
+(https://www.ipcc.ch/report/ar5/wg2/, accessed 20 October 2022). Figure TS.10 – Conceptual
+presentation of health risks from climate change and the potential for risk reduction through
+adaption. Reproduced with permission from the Intergovernmental Panel on Climate Change.
+59
+The contribuXon of Working Group I to the Sixth Assessment Report (AR6) by the Intergovernmental Panel on
+Climate Change (IPCC) was released in summary form in 2021. The strong conclusion is that humanity must act
+quickly now to curtail greenhouse gas emissions and achieve net zero emissions by 2050 in order to limit global
+warming to 1.5 degrees Celsius (°C) by 2100 (1).
+With every increment of increased warming, impacts on natural and human systems worsen and funcXonal
+adaptaXon becomes more costly and increasingly less effecXve. The AR6 summary stresses that many of the changes
+caused by anthropogenic emissions will be irreversible for centuries or even millennia, especially those related to
+oceans, ice sheets and sea level (1). Emission reducXon scenarios modelled in the AR6 found that only the most
+aggressive strategies were “very likely” (90%) to achieve success by 2100 (1).
+Simultaneous miXgaXon and local, regional and internaXonal adaptaXon strategies are needed urgently.
+Note: for a full explanaXon of the emission scenarios and chart featured in this slide, view pages 12–14 of reference
+(1).
+Reference:
+1. IPCC. Summary for Policymakers. In: Masson-Delmobe V, Zhai P, Pirani A, Connors SL, Péan C, Berger S et al,
+editors. Climate change 2021: The physical science basis. ContribuXon of Working Group I to the Sixth
+Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2021 (hbps://www.ipcc.ch/report/sixth-assessment-report-working-group-i/, accessed 20
+October 2022).
+Figure:
+Adapted from:
+• IPCC. Summary for Policymakers. In: Masson-Delmobe V, Zhai P, Pirani A, Connors SL, Péan C, Berger S et al,
+editors. Climate change 2021: The physical science basis. ContribuXon of Working Group I to the Sixth
+Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge; New York: Cambridge
+University Press; 2021 (hbps://www.ipcc.ch/report/sixth-assessment-report-working-group-i/, accessed 20
+October 2022). Table SPM.1. Changes in global surface temperature, which are assessed based on mulXple lines
+of evidence, for selected 20-year Xme periods and the five illustraXve emissions scenarios considered.
+Reproduced with permission from the Intergovernmental Panel on Climate Change.
+60
+CLIMATE CHANGE
+MITIGATION
+STRATEGIES
+NEAR TERM, 2021–2040 MID-TERM, 2041–2060 LONG TERM, 2081–2100
+SCENARIO BEST ESTIMATE (℃) VERY LIKELY
+RANGE (℃)
+BEST ESTIMATE
+(℃)
+VERY LIKELY
+RANGE (℃)
+BEST ESTIMATE
+(℃)
+VERY LIKELY
+RANGE (℃)
+SSP1–1.9 1.5 1.2–1.7 1.6 1.2–2.0 1.4 1.0–1.8
+SSP1–2.6 1.5 1.2–1.8 1.7 1.3–2.2 1.8 1.3–2.4
+SSP2–4.5 1.5 1.2–1.8 2.0 1.6–2.5 2.7 2.1–3.5
+SSP3–7.0 1.5 1.2–1.8 2.1 1.7–2.6 3.6 2.8–4.6
+SSP5–8.5 1.6 1.3–1.9 2.4 19.–3.0 4.4 3.3–5.7
+MiLgaLon goals must be aggressive
+SSP, shared socioeconomic pathway.
+Only the most aggressive strategies are ‘very likely’ (90%) to keep
+global mean temperature below 1.5oC 
+The good news is that across all sectors, climate mitigation strategies improve public health. The health benefits
+from climate actions are well-documented and offer strong arguments for transformative change (1).
+For the scenarios that have been analyzed, the savings in health-related economic costs (from loss of productivity
+and health care expenditures) from climate-related health harms is greater than the economic cost of climate
+mitigation strategies used to reduce them. In other words, it is both less expensive and more effective to protect
+human health through climate mitigation than to address the health consequences once they have occurred (1,2).
+The graphic on this slide comes from the “six-sector solution” concept from the United Nations Environment
+Programme’s (UNEP) 2020 Emissions Gap Report (3). In each of the major sectors producing the most carbon
+emissions, there are solutions that not only reduce these emissions but also support health. For example (3):
+• replacing fossil fuel-generated energy with zero emission renewables would reduce all harmful air pollutants,
+which in turn would reduce all air pollution-related illness and death;
+• transforming the transportation sector to encourage more mass transit, less individual vehicle travel and more
+active transport options would both improve air quality and increase physical activity, consequently improving
+overall health and fitness;
+• decreasing deforestation and protecting ecosystems would reduce carbon in the atmosphere by providing
+natural sinks and increasing greenspaces and natural landscapes, which can improve and support mental health;
+• reducing food waste, limiting consumption of red meat and processed meat products and encouraging eating
+habits that include a wide-variety of foods with an emphasis on plant-based and locally-produced foods will
+improve nutrition and reduce noncommunicable diseases such as diabetes, cardiovascular diseases and some
+cancers (4);
+• retrofitting buildings to improve energy efficiency reduces greenhouse gases and saves money which can be
+used to support health and social programmes.
+References:
+1. COP26 special report on climate change and health: the health argument for climate action. Geneva: World
+Health Organization; 2021 (https://apps.who.int/iris/handle/10665/346168, accessed 20 October 2022).
+2. Mailloux NA, Henegan CP, Lsoto D, Patterson KP, West PC, Foley JA et al. Climate solutions double as health
+interventions. Int J Environ Res Public Health. 2021;18(24):13339.
+3. Emissions gap report 2020. Nairobi: United Nations Environment Programme; 2020
+(https://www.unep.org/emissions-gap-report-2020, accessed 20 October 2022).
+4. A healthy diet sustainably produced: information sheet. Geneva: World Health Organization; 2018
+61
+CLIMATE CHANGE
+The health benefits from climate actions are well-documented
+and offer strong arguments for transformative change
+Health co-benefits of climate mitigation
+MITIGATION
+STRATEGIES
+Gt, gigatonne
+(https://apps.who.int/iris/handle/10665/278948, accessed 20 October 2022).
+Figure:
+• © United Nations Environment Programme (2020). Emissions gap report 2020.
+https://www.unep.org/emissions-gap-report-2020. Reproduced with permission.
+62
+MiXgaXon must include changes in personal acXons and choices wherever possible and pracXcal. The paediatric
+community, accustomed to anXcipatory guidance, primary prevenXon and health values, can be leaders at the local
+level in miXgaXon as well as adaptaXon. There are many ways to include miXgaXon strategies in everyday clinics.
+Some ideas include (1):
+• Personal level: calculate your carbon footprint. The carbon footprint is an esXmate of how much an individuals’
+lifestyle contributes to greenhouse gas emissions. There are many available online resources for this purpose.
+Then, work to reduce your carbon impact and tell the stories of how it has been done.
+• Paediatric pracHce level: green your paediatric offices and insXtuXons, educate colleagues, staff, parents and
+paXents about climate change and effecXve miXgaXon strategies.
+• PoliHcal level: educate local decision-makers on the potenXal child health threats from unchecked climate
+change in your area and the importance of proacXve and prevenXve measures. Engage with local and naXonal
+government bodies and champion climate miXgaXon and adaptaXon strategies at the policy level.
+There are several online resources available that include ideas for miXgaXon strategies in clinical seÄngs:
+• Compendium of WHO and other UN guidance on health and environment (2)
+• WHO guidance for climate resilient and environmentally sustainable health care faciliXes (3)
+• Checklists to assess vulnerabiliXes in health care faciliXes in the context of climate change (4)
+• OperaXonal framework for building climate resilient health systems (5)
+• The CollaboraXon for Health and the Environment (6)
+• Health Care Without Harm (7)
+• Climate acXon: a play book for hospitals (8).
+Note: adapt this slide with examples of miXgaXon approaches that have been taken in clinics, hospitals or other
+health care seÄngs in your community, region or country.
+References:
+1. Philipsborn et al. A pediatrician’s guide to climate change-informed primary care. Curr Probl Pediatr Adolesc
+Health Care. 2021;51:101027
+63
+CLIMATE CHANGE
+Personal choices matter
+• Calculate your carbon footprint
+• Reduce it and tell the stories
+• Role model
+Practice choices matter
+• “Green” your paediatric office and institution
+• Educate and innovate
+Political choices matter
+• Educate decision-makers
+• Advocate for policies and laws that protect children’s futures
+• Participate in local political processes
+• Enact change locally
+Critical role of health care professionals
+Approaches to mitigation
+MITIGATION
+STRATEGIES
+2. Compendium of WHO and UN guidance on health and environment. Geneva: World Health
+OrganizaXon; 2021 (hbps://apps.who.int/iris/handle/10665/344476, accessed 20 October 2022).
+3. WHO guidance for climate resilient and environmentally sustainable health care faciliXes. Geneva:
+World Health OrganizaXon; 2020 (hbps://apps.who.int/iris/handle/10665/335909, accessed 20
+October 2022).
+4. Checklists to assess vulnerabiliXes in health care faciliXes in the context of climate change.
+Geneva: World Health OrganizaXon; 2021 (hbps://apps.who.int/iris/handle/10665/340656, access
+ed 20 October 2022).
+5. OperaXonal framework for building climate resilient health systems. Geneva: World Health
+OrganizaXon; 2015 (hbps://apps.who.int/iris/handle/10665/189951, accessed 20 October 2022).
+6. CollaboraXve on health and the environment [website]. Bolinas: The CollaboraXve on Health and
+the Environment; 2020 (hbps://www.healthandenvironment.org/, accessed 20 October 2022).
+7. Leading the way for a healthy climate [website]. Reston: Health Care without Harm; 2022
+(hbps://healthcareclimateacXon.org/, accessed 20 October 2022).
+8. Climate acXon: a play book for hospitals [website]. Reston: Health Care without Harm; 2020
+(hbps://climatecouncil.noharm.org/, accessed 20 October 2022).
+64
+The urgent need for greenhouse gas mitigation also provides opportunities for health co-benefits through climate
+protection strategies. The next few slides have examples of possible strategies that benefit health while also
+reducing greenhouse gas emissions that are central to climate change. The examples are split into ideas for highincome countries (HICs) and for low- and middle-income countries (LMICs).
+It is important to also note that strategies for reducing emissions depend on local contexts and practicalities.
+Paediatricians can be leaders in finding these win-win solutions at the local level, and encouraging action across
+many levels in order to capitalize on them.
+Example ideas for reducing emissions and improving health in HICs include (1):
+• improving public transport and encouraging active forms of transport, such as walking and cycling, will help
+fight obesity and reduce traffic-related air pollution;
+• encouraging social time instead of “screen” time and moving away from electronic entertainment to reduce
+demand for energy and reinvigorate social interactions while also reducing isolation, anxiety and depression. This
+may also encourage healthy, active, social play and sport;
+• promoting crop diversity with an emphasis on plant-based and locally sourced diets will reduce emissions,
+support local producers and improve nutrition;
+• encouraging better energy-use choices that are efficient, consequently saving money that can be used to
+support health, including medical costs.
+Note: adapt this slide with examples of win-win solutions that are most appropriate for local conditions and
+cultures.
+Reference:
+1. Compendium of WHO and UN guidance on health and environment. Geneva: World Health Organization; 2021
+(https://apps.who.int/iris/handle/10665/344476, accessed 20 October 2022).
+65
+CLIMATE CHANGE
+Burn calories instead of carbon
+• Clear the air and fight obesity and related diseases through more
+acRve transport
+Social m e instead of “screen” m e
+• Combat anxiety and depression and reduce energy use
+Eat fresh, eat local and eat lower on the food chain
+• Support local producers while improving nutriRon
+Energy efficiency saves money
+• Wealth supports health
+Find the win-win choices:
+Example ideas for high-income countries
+MITIGATION
+STRATEGIES
+Strategies to miXgate greenhouse gas emissions are likely to be different in low- and middle-income countries
+(LMICs) than in high-income countries (HICs). For example, in 2020, 2.4 billion people globally used solid fuels and
+inefficient technologies for cooking. Most of these people live in LMICs (1).
+Example ideas for reducing emissions and improving health in LMICs include:
+• adopHng clean renewable energy and establishing local electrical grids using renewable sources, providing
+necessary power to families while simultaneously reducing greenhouse gas emissions and air polluXon-related
+disease (2);
+• developing and encouraging public transport systems, cycling and walking networks can reduce air polluXon,
+noise, traffic-related injuries while promoXng physical acXvity and acXve transport (2);
+• promoHng solar hot water and water conservaHon can reduce air polluXon by decreasing the use of polluXng
+fuels and can save money that can be used for health purposes;
+• strengthen tradiHonal diets that support local producers with an emphasis on plant-based diets, thereby
+supporXng the local economy and agricultural sector, reducing emissions and supporXng nutriXon (2).
+Note: adapt this slide with examples of win-win soluXons that are most appropriate for local condiXons and cultures.
+References:
+1. ProporXon of populaXon with primary reliance on clean fuels ad technologies for cooking (%) [database].
+Geneva: World Health OrganizaXon; 2022 (hbps://www.who.int/data/gho/data/themes/airpolluXon/household-air-polluXon, accessed 20 October 2022).
+2. Compendium of WHO and UN guidance on health and environment. Geneva: World He
+alth OrganizaXon; 2021 (hbps://apps.who.int/iris/handle/10665/344476, accessed 20 October 2022).
+66
+CLIMATE CHANGE
+Adopt clean renewable electricity over biomass
+• Prevent emissions while averting diseases and death
+Improve public transport, create bike lanes
+• Decrease air pollution, noise, and traffic injuries while promoting
+active transport
+Promote solar hot water and water conservation
+• Reduce air pollution, promote health, and save money
+Strengthen traditional diets
+• Support the local economy, enjoy improved nutritional quality
+and lower risk of chronic diseases
+Find the win-win choices:
+Example ideas for low-and middle-income countries
+MITIGATION
+STRATEGIES
+The COVID-19 pandemic that began in March 2020 (and was ongoing during the update of this module) has taught
+the global population many lessons. Among them has been the undeniable globally inequities in health and
+vulnerability which mirror those of climate change.
+The World Health Organization (WHO) has issued a “manifesto” with six major prescriptions for a healthy and green
+recovery and future. These prescriptions directly address climate change as one of the biggest health threat facing
+humanity. These six prescriptions are (1–3):
+1. Protect and preserve the source of human health: nature by reducing and eliminating:
+• deforestation;
+• intensive, polluting agricultural practices;
+• unsafe management and consumption of wildlife.
+2. Invest in essential services, from water and sanitation to clean energy in health care facilities by:
+• ensuring universal household access to clean water and sanitation and hygiene facilities, including
+soap;
+• ensuring universal access to clean water and sanitation and hygiene facilities, including soap, in health
+care facilities;
+• ensuring health care facilities have reliable access to energy sources;
+• investing in clean and renewable energy.
+3. Ensure a quick and health energy transition by:
+• investing in reliable, renewable and clean energy sources and infrastructure;
+• ensuring safe and well-paid employment in the renewable energy sector.
+4. Promote healthy, sustainable food systems by:
+• encouraging transition to healthy, nutritious and sustainable diets;
+• reducing land cleaning for livestock.
+5. Build healthy, liveable cities by:
+• improving and promoting public transport and active transport, such as walking and cycling.
+6. Stop using taxpayers money to fund pollution by;
+• placing a price on polluting fuels in line with the damage they cause.
+References:
+1. WHO manifesto for a healthy recovery from COVID-19. Geneva: World Health Organization; 2020
+(https://www.who.int/publications/m/item/who-manifesto-for-a-healthy-recovery-from-covid-19, accessed 20
+October 2022).
+67
+CLIMATE CHANGE
+1. Protect and preserve the source of human
+health: nature
+2. Invest in essenRal services, from water
+and sanitaRon to clean energy in health
+care faciliRes
+3. Ensure a quick, healthy energy transiRon
+4. Promote healthy, sustainable food systems
+5. Build healthy, liveable ciRes
+6. Stop using taxpayer money to fund polluRon
+WHO six prescripLons for a healthy, green recovery
+from COVID-19
+MITIGATION
+STRATEGIES
+2. WHO manifesto for a healthy recovery from COVID-19 [website]. Geneva: World Health
+Organization; 2020 (https://www.who.int/teams/environment-climate-change-andhealth/climate-change-and-health/advocacy-partnerships/manifesto, accessed 20 October 2022).
+3. WHO climate change and health toolkit: health co-benefits and climate action [website]. Geneva:
+World Health Organization; 2022 (https://www.who.int/teams/environment-climate-change-andhealth/climate-change-and-health/capacity-building/toolkit-on-climate-change-andhealth/cobenefits, accessed 20 October 2022).
+Photos:
+• Top: © WHO / SEARO/ Florian Lang. Ponies on the banks of the Mo Chhu river, Bhutan.
+• Bottom: © WHO / Jakub Zak. Children riding bicycles, Viet Nam.
+68
+The world is taking action on climate change.
+The Paris Agreement under the United Nations Framework Convention on Climate Change (the Paris Agreement),
+adopted on 12 December 2015, marked the beginning of a new era in the global response to climate change. The
+Paris Agreement set out ambitious goals to keep global temperature rise well below 2 degrees Celsius (°C),
+preferably to 1.5°C, compared to pre-industrial levels and committed countries to strengthen adaptation strategies
+(1).
+The publication of the Intergovernmental Panel on Climate Change’s (IPCC) special report in 2018 emphasized the
+need to go beyond the Paris Agreement and to keep global temperatures below 1.5°C compared to pre-industrial
+levels to preserve a truly liveable planet for humans (2). Thus, at the United Nations Climate Change Conference
+(COP26) in Glasgow 2021, the world set much more ambitions goals to do just that and quickly (3). Additionally,
+COP26
+Ensuring that children are fully protected from the health and societal consequences of climate change requires
+urgent substantial global adjustments to current economic activity and technological choices. Better understanding
+of the range and extent of the risks posed by climate change and broad global environmental changes will
+strengthen the contribution of health sciences to sustainable environmental management (4).
+References:
+1. Paris agreement. Bonn: United Nations Framework Convention on Climate Change; 2015
+(https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement, accessed 20 October
+2022).
+2. IPCC. Summary for Policymakers. In: Masson-Delmotte V, Zhai P, Pörtner H-O, Roberts D, Skea J, Shukla PR, A et
+al, editors. Global warming of 1.5°C. An IPCC special report on the impacts of global warming of 1.5°C above
+pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the
+global response to the threat of climate change, sustainable development, and efforts to eradicate poverty.
+Cambridge; New York: Cambridge University Press; 2018 (https://www.ipcc.ch/sr15/chapter/spm/, accessed 20
+October 2022).
+3. Report of the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement on its third
+session, held in Glasgow from 31 October to 13 November 202.1 Bonn: United Nations Framework Convention
+on Climate Change; 2022 (https://unfccc.int/process-and-meetings/the-paris-agreement/the-glasgow-climatepact-key-outcomes-from-cop26, accessed 20 October 2022).
+69
+CLIMATE CHANGE
+Paris 2015
+Glasgow 2021
+InternaLonal efforts
+EDUCATION &
+ADVOCACY
+IPCC 2018
+4. Clark H, Coll-Seck AM, Banerjee A, Petrson S, Daglish SL, Ameratunga S et al. A future for the
+world’s children? A WHO-UNICEF-Lancet Commission. Lancet. 2020;395;605-58.
+Photos:
+• Top left: © UNFCCC
+• Top right: © IPCC
+• Bottom: © UN
+70
+Paediatricians and all health care providers who look after children and their families understand the importance of
+placing children at the centre of a global transformation towards climate change and the environment. The World
+Health Organization (WHO), United Nations Children’s Fund (UNICEF) and the Lancet Commission have issued a
+manifesto that gives health care professionals a blueprint around which to organize practice and advocacy on behalf
+of children’s health and futures.
+The five points include (1,2):
+1. stop carbon dioxide (CO2) emissions with the utmost urgency, to ensure children have a future on this planet;
+2. place children and adolescents at the centre of our efforts to achieve sustainable development;
+3. new policies and investments in all sectors to work towards child health and rights;
+4. incorporate children’s voices into policy decisions;
+5. tighten national regulation of harmful commercial marketing, supported by a new Optional Protocol to the
+United Nations (UN) Convention on the Rights of the Child.
+Under the broad development ambitions of the Sustainable Development Goals (SDGs), an initiative has begun to
+identify and work on synergies between the SDGs and the Paris Agreement under the United Nations Framework
+Convention on Climate Change. This initiative recognizes overlapping goals of the two and aims to accelerate
+progress towards both. This is positive news for the health and futures of children around the world (3).
+References:
+1. Clark H, Coll-Seck AM, Banerjee A, Petrson S, Daglish SL, Ameratunga S et al. A future for the world’s children? A
+WHO-UNICEF-Lancet Commission. Lancet. 2020;395;605-58
+2. World failing to provide children with a healthy life and a climate fit for their future: WHO-UNICEF-Lancet
+[website]. Geneva: World Health Organization; 2020 (https://www.who.int/news/item/19-02-2020-worldfailing-to-provide-children-with-a-healthy-life-and-a-climate-fit-for-their-future-who-unicef-lancet, accessed 20
+October 2022).
+3. Climate and SDGs conference 2022 [website]. New York: United Nations; 2022
+(https://www.un.org/en/climate-sdgs-conference-2022, accessed 20 October 2022).
+Photo:
+• © WHO SEARO/ Florian Lang. Children play on a beach, India.
+71
+Place children at the centre
+CLIMATE CHANGE
+Manifesto for immediate acLon on child and
+adolescent health
+EDUCATION &
+ADVOCACY 50
+The science on climate change is clear. As the Sixth Assessment Report (AR6) of the Intergovernmental Panel
+Climate Change (IPCC) is finalized, it is clear that action must be taken immediately. Action is imperative if our
+children are to inherit an inhabitable planet (1).
+There is no time to waste.
+Reference:
+1. COP26 special report on climate change and health: the health argument for climate action. Geneva: World
+Health Organization; 2021 (https://apps.who.int/iris/handle/10665/346168, accessed 20 October 2022).
+Photo:
+• © Paul Anderson. “Scout Moor Wind Farm official opening.”
+https://commons.wikimedia.org/wiki/File:Scout_Moor_Wind_Farm_Official_Opening_(1)_-_geograph.org.uk_-
+_980311.jpg. This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license (CC BYSA 2.0; https://creativecommons.org/licenses/by-sa/2.0/deed.en).
+72
+CLIMATE CHANGE
+No time to waste
+EDUCATION &
+ADVOCACY 51
+Progress can and must be made in addressing current and future threats to children’s health from global climate
+change. This quote is from the Bangkok Statement and emphasizes the urgent need to safeguard children’s
+environmental health:
+• For all those concerned about the environmental health of children, the time to translate knowledge into action
+is now (1).
+The threats to children’s environmental health must be addressed to ensure their futures.
+Reference:
+1. The Bangkok Statement: a pledge to promote the protection of children’s environmental health [website].
+Geneva: World Health Organization; 2002 (https://www.who.int/news/item/21-03-2002-the-bangkokstatement-a-pledge-to-promote-the-protection-of-children-s-environmental-health, accessed 20 October
+2022).
+Photo:
+• © WHO / SEARO / Sanjit Das. Young children gather together to celebrate the 59th year of India's independence
+day in a small village on the way to Darjeeling.
+73
+CLIMATE CHANGE
+Children are the future
+“For all those concerned about the environmental
+health of children, the 5me to translate
+knowledge into ac5on is now (WHO, 2002)” EDUCATION &
+ADVOCACY
+For more information on climate change and child health see the World Health Organization (WHO) training
+package on children’s environmental health for the health care sector (1). The following modules may be of
+particular interest:
+• Air pollution package – this includes Ambient air pollution, Childhood respiratory diseases linked to the
+environment, Household air pollution, Indoor air pollution and Second-hand smoke
+• Paediatric environmental history
+• Sanitation and hygiene
+• Water
+• Why children.
+To read more on climate change and child health see the below references:
+• Inheriting a sustainable world? Atlas on children’s health and the environment (2)
+• The climate crisis is a child right crisis: introducing the children’s climate risk index (3)
+• Compendium of WHO and UN guidance on health and environment (4).
+References:
+1. Training modules and instructions for health care providers [website]. Geneva: World Health Organization; 2022
+(https://www.who.int/teams/environment-climate-change-and-health/settingspopulations/children/capacitya-building/training-modules, accessed 20 October 2022).
+2. Inheriting a sustainable world? Atlas on children’s health and the environment. Geneva: World Health
+Organization; 2017 (https://apps.who.int/iris/handle/10665/254677/, accessed 20 October 2022).
+3. The climate crisis is a child right crisis: introducing the children’s climate risk index. New York: United Nations
+Children’s Fund; 2021 (https://www.unicef.org/reports/climate-crisis-child-rights-crisis, 20 October 2022).
+4. Compendium of WHO and UN guidance on health and environment. Geneva: World Health Organization; 2021
+(https://apps.who.int/iris/handle/10665/344476, accessed 20 October 2022).
+74
+CLIMATE CHANGE
+More information and recommended reading
+For more information on
+climate change and child
+health see the WHO training
+modules:
+• Air pollution package
+• Paediatric environmental
+history
+• Sanitation and hygiene
+• Water
+• Why children
+Recommended reading on
+climate change and child
+health:
+• Inheriting a sustainable
+world? Atlas on children’s
+health and the
+• The climate crisis is a child
+right crisis: introducing the
+children’s climate risk index
+• Compendium of WHO and
+UN guidance on health and
+environment
+75
+CLIMATE CHANGE
+Acknowledgements for third edition
+Ini'al edits by Katherine M. Shea (USA).
+Working group for third edi'on: Marie-Noël Bruné Drisse (WHO), Gloria Chen (USA), Julia F. Gorman
+(WHO consultant), Amalia Laborde (Uruguay), Katherine M. Shea (USA).
+Reviewers: Stephan Boese-O’Reilly (Germany), Maria Brown (UNICEF), Amy Savage (WHO), Peter van
+den Hazel (Netherlands).
+Final review, technical and copy-edi'ng: Julia F. Gorman (WHO consultant).
+WHO CEH Training Project Coordina'on: Marie-Noël Bruné Drisse (WHO).
+This publica,on was made possible with financial support from the Swedish Interna,onal
+Development Coopera,on Agency (SIDA), Sweden.
+Update: November 2022
+Design by L’IV Com Sàrl, Villars-sous-Yens, Switzerland. 
+76
+CLIMATE CHANGE
+Acknowledgements from past editions
+WHO is grateful to the US EPA Office of Children’s Health Protection for financial support that made
+this project possible and for some of the data, graphics and text used in preparing these materials for
+a broad audience. Further support was kindly provided by the UK Department of Health and the
+Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety, Germany.
+First draft prepared by Katherine M. Shea (USA).
+With the advice of the Working Group Members on the Training Package for the Health Sector:
+Cristina Alonzo (Uruguay); Yona Amitai (Israel); Stephan Boese-O’Reilly (Germany); Stephania Borgo
+(ISDE, Italy); Irena Buka (Canada); Ernesto Burgio (ISDE, Italy); Lilian Corra (Argentina); Ruth A. Etzel
+(WHO); Ligia Fruchtengarten (Brazil); Amalia Laborde (Uruguay); Leda Nemer (WHO/EURO); Jenny
+Pronczuk (WHO); Roberto Romizzi (ISDE, Italy); Christian Schweizer (WHO/EURO); Katherine M. Shea
+(USA). WHO is grateful to the ISDE for organizing the working meeting of the Training Package in
+2016.
+Reviewers: Abdou Salam Savadogo (WHO), Lilian Corra (Argentina), Fred Were (Kenya), Huw Brunt
+(UK), Gary Coleman (UK), Raquel Duarte-Davidson (UK), Elaine Lynch Farmery (UK), Alison M Good
+(UK), Mark Griffiths (UK), John Thompson (UK), Laura Yates (UK) Katherine M Shea (USA), Elena
+Villalobos Prats (WHO), Diarmid Campbell-Lendrum (WHO), Marina Maiero (WHO), Niranjan
+Vijayaratnam, Alexander Doroshenko, Alvaro R. Osornio-Vargas, Donald Spady, Lesley Brennan
+(Canada); José Hueb (WHO).
+WHO CEH Training Project Coordination: Ruth A. Etzel, Marie-Noël Bruné Drisse.
+Previous update: April 2019.
+Editing assistance: Gloria Chen (WHO consultant).
+Suggested citation:
+• Global climate change and child health: training for health care providers, third edition. In: WHO training package
+for the health sector: children’s health and the environment. Geneva: World Health Organization; 2023
+(WHO/HEP/ECH/CHE/23.05, https://www.who.int/publications/i/item/WHO-HEP-ECH-CHE-23.05).
+77
+CLIMATE CHANGE
+Disclaimer © World Health Organiza2on 2023. Some rights reserved. This work is available under the Crea2ve Commons ABribu2on-NonCommercial-ShareAlike 3.0 IGO
+licence (CC BY-NC-SA 3.0 IGO; hBps://crea2vecommons.org/licenses/by-nc-sa/3.0/igo).
+Under the terms of the CC BY-NC-SA 3.0 IGO licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work is appropriately cited, as indicated below. In any use of this work, there should be no sugges2on that WHO endorses any specific organiza2on, products or services.
+The use of the WHO logo is not permiBed. If you adapt the work, then you must license your work under the same or equivalent Crea2ve Commons licence. If you
+create a transla2on of this work, you should add the following disclaimer along with the suggested cita2on: “This transla2on was not created by the World Health
+Organiza2on (WHO). WHO is not responsible for the content or accuracy of this transla2on. The original English edi2on shall be the binding and authen2c edi2on”.
+Any media2on rela2ng to disputes arising under the licence shall be conducted in accordance with the media2on rules of the World Intellectual Property
+Organiza2on.
+Third-party materials. If you wish to reuse material from this work that is aBributed to a third party, such as tables, figures or images, it is your responsibility to
+determine whether permission is needed for that reuse and to obtain permission from the copyright holder. The risk of claims resul2ng from infringement of any
+third-party-owned component in the work rests solely with the user.
+This training module was developed by the World Health Organiza2on (WHO) and is intended to be used for training purposes only. The opinions, conclusions, and
+sta2s2cs expressed in the training module do not necessarily represent the official posi2on of the World Health Organiza2on.
+The contents of this training module are based upon references available in the published literature as of the last stated update date. Users are encouraged to
+search standard medical databases for updates in the science for issues of par2cular interest or sensi2vity in their regions and areas of specific concern.
+All reasonable precau2ons have been taken by WHO to verify the informa2on contained in this training module. However, the training module is being distributed
+without warranty of any kind, either expressed or implied. The responsibility for the interpreta2on and use of the e-learning training lies with the reader. In no
+event shall WHO be liable for damages arising from its use.
+The designa2ons employed and the presenta2on of the material in this training module do not imply the expression of any opinion whatsoever on the part of the
+World Health Organiza2on concerning the legal status of any country, territory, city or area or of its authori2es, or concerning the delimita2on of its fron2ers or
+boundaries. DoBed lines on maps represent approximate border lines for which there may not yet be full agreement.
+The men2on of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by the World Health
+Organiza2on in preference to others of a similar nature that are not men2oned. Errors and omissions excepted, the names of proprietary products are
+dis2nguished by ini2al capital leBers.
+The authors alone are responsible for the views expressed in this training package and they do not necessarily represent the decisions, policy or views of the World
+Health Organiza2on.

@@ -1,0 +1,307 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of chest
+Chest. 2019 Jul; 156(1): 71–79. Published online 2019 Mar 26. doi: 10.1016/j.chest.2019.03.017
+PMCID: PMC6607425PMID: 30926395
+Impact of Long-Term Exposures to Ambient PM2.5 and Ozone on ARDS Risk for Older Adults in the United States
+Jongeun Rhee, ScD,a Francesca Dominici, PhD,a Antonella Zanobetti, PhD,a Joel Schwartz, PhD,a Yun Wang, PhD,a Qian Di, ScD,a John Balmes, MD,b,c and David C. Christiani, MD, MPHa,∗
+Author information Copyright and License information PMC Disclaimer
+Associated Data
+Supplementary Materials
+Go to:
+Abstract
+Background
+Chronic exposures to particulate matter with an aerodynamic diameter < 2.5 μm (PM2.5) and ozone pollution can affect respiratory function. ARDS, an often lethal respiratory failure, is most common among older adults. However, few epidemiology studies have investigated an association between air pollution and the risk of ARDS.
+
+Methods
+This observational study was conducted to estimate air pollution exposures at the ZIP code level and hospital admissions with ARDS among US Medicare beneficiaries aged ≥ 65 years from 2000 to 2012. A two-pollutant generalized linear mixed model, adjusting for sex, age, race, median household income, smoking, and weather, was applied.
+
+Results
+There were a total of 1,164,784 hospital admissions with ARDS in the cohort. Increases of 1 µg/m3 in annual average PM2.5 and of 1 parts per billion in annual average ozone were associated with increases in annual hospital admission rates for ARDS of 0.72% (95% CI, 0.62-0.82) and 0.15% (95% CI, 0.08-0.22), respectively. In low-pollution regions (annual average PM2.5 level < 12 µg/m3 and annual average ozone level < 45 parts per billion), the same annual increase in PM2.5 and ozone were associated with increases in annual hospital admission rates for ARDS of 1.50% (95% CI, 1.27-1.72) and 0.27% (95% CI, 0.16-0.38).
+
+Conclusions
+Long-term exposures to PM2.5 and ozone were associated with increased risk of ARDS among older adults in the United States, including exposures below current annual US National Ambient Air Quality Standards.
+
+Key words: air pollution, ARDS, older adults, ozone, PM2.5
+Abbreviations: EPA, US Environmental Protection Agency; ICD-9-CM, International Classification of Diseases, Ninth Revision, Clinical Modification; NAAQS, National Ambient Air Quality Standard; PM2.5, particulate matter with an aerodynamic diameter < 2.5 μm; ppb, parts per billion
+Aging individuals with reduced lung function and coexisting chronic pulmonary or cardiovascular conditions may experience acute exacerbations as a result of exposure to ambient air pollution.1, 2 Indeed, epidemiologic studies have shown that chronic exposures to fine particulate matter (eg, particulate matter with an aerodynamic diameter < 2.5 μm [PM2.5]) and ozone are associated with morbidity and mortality due to respiratory disease.3, 4, 5, 6, 7 Long-term exposure to PM2.5 has been shown to increase airway oxidative stress and inflammation in animal studies8, 9 and lung function decrements in human studies.10 Exposure to ozone also causes oxidative stress from free radical formation, airway inflammation, and lung function decrements.11, 12 Chronic exposures to PM2.5 and ozone pollution represent a significant public health concern, particularly for their effects on respiratory health in the growing population of older adults.
+
+Older adults are at high risk of developing ARDS.13 The average age of developing ARDS is approximately 62 years,14 and the incidence of ARDS ranges from 64.2 to 78.9 cases per 100,000 person years in the United States.15, 16 ARDS is often lethal, with a mortality rate ranging from 40% to 60% in the general population17 but 69% to 80% among older adult patients.18 This syndrome develops in patients with predisposing conditions such as sepsis, pneumonia, multiple trauma, or aspiration.15, 19, 20 Although these risk factors account for 85% of ARDS cases, only 30% of these at-risk individuals develop ARDS,21 indicating that other risk factors such as air pollution might be at play.
+
+Evidence has identified the impact of long-term exposure to air pollution on ARDS. Ware et al22 found that 1-, 3-, and 5-year average ozone exposures were associated with increased odds of developing ARDS after adjusting for alcohol abuse and smoking. Reilly et al23 focused on ARDS risk following severe trauma and found that 3-year average exposure to both ozone and PM2.5 were associated with ARDS. In addition, Rush et al24 reported that patients with ARDS treated in cities with high levels of ozone had higher hospital mortality rates than patients treated in other cities. They also found that an increase in county-level annual average PM2.5 was associated with increased odds of in-hospital mortality.
+
+Recognizing the importance of studying a susceptible older adult population, the present study assessed nationwide hospital admission data of > 30 million Medicare enrollees (aged ≥ 65 years) per year from 2000 through 2012. The purpose of this study was to investigate the impact of yearly change in average PM2.5 and ozone levels on hospital admission rates for ARDS among older adults in the United States.
+
+Go to:
+Materials and Methods
+Health Outcome Data
+The study used Medicare Provider Analysis and Review inpatient data for the years 2000 through 2012. Individual information was obtained from hospital admissions data, including ZIP code of residence, the date of admission/discharge, and the primary and secondary discharge diagnosis codes for ARDS defined according to International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) codes. ICD-9-CM codes 518.51, 518.52, 518.53, and 518.82 were used as ARDS criteria.25, 26, 27, 28 We further identified three groups of patients with ARDS who were primarily diagnosed as having sepsis, pneumonia, and traumatic injury (e-Table 1). The outcome measure was annual counts of hospital admissions with ARDS in each ZIP code.
+
+Air Pollution Exposure Data
+The study used PM2.5 and ozone concentrations at the ZIP code level predicted from a spatio-temporal model developed by Di et al.29, 30, 31 Briefly, daily PM2.5 and ozone concentrations were predicted by incorporating multiple variables into a neural network-based hybrid model, including monitoring data from the US Environmental Protection Agency (EPA) Air Quality System network, satellite-based aerosol optical depth data, absorbing aerosol index, chemical transport model outputs, land use terms, and meteorological variables. The model was validated with 10-fold cross-validation and predicted daily PM2.5 and ozone at 1 km × 1 km resolution in the continental United States. ZIP code level annual average concentrations for PM2.5 and ozone during the warm season (April 1 through September 30) were then computed as a measure of the long-term exposure to PM2.5 and ozone.
+
+Covariate Data
+We used data on air temperature and relative humidity that were retrieved from the North American Regional Reanalysis at grids of approximately 32 km × 32 km. Annual average values were then created at the ZIP code level. The proportion of different racial population groups (white, black, Hispanic, Asian, and Native American) were calculated as the yearly number of people in each group divided by the yearly number of Medicare enrollees in each ZIP code. The proportion of female subjects among Medicare enrollees in each ZIP code was also calculated. Yearly median household income at the ZIP code level was extracted from ArcGIS Business Analyst data. The Behavioral Risk Factor Surveillance System was used to obtain county-level proportions of ever smokers, and we assigned the same values of county-level variables to all ZIP codes within the county boundary.31
+
+Statistical Analysis
+Summary characteristics for air pollution (PM2.5 and ozone), hospital admissions with ARDS, and socioeconomic status values were examined at the ZIP code level. Pearson correlation tests were performed between variables. We then fit a two-pollutant generalized linear mixed model with a random intercept for ZIP code assuming a Poisson distribution. Overdispersion was allowed by using quasi-likelihood methods. We adjusted for meteorological variables: temperature as a linear term, dew point as a quadratic polynomial term, and ZIP code level covariates as linear terms (the proportion of racial population groups, the proportion of female subjects, the proportion of adults aged > 85 years, median household income, and the proportion of ever smokers). The main model is described in e-Appendix 1. To control for time trends in ARDS and air pollution (e-Fig 1), we also adjusted a dummy variable for each year. Finally, to estimate the concentration-response function of air pollution and hospital admission rates for ARDS, we fit the same model but included natural cubic splines for both PM2.5 and ozone (four degrees of freedom) instead of linear terms. The effect estimate was converted to percent change in annual hospital admission rates.
+
+Sensitivity Analysis
+Single-pollutant models were first applied, which included either PM2.5 or ozone as exposure of interest, and compared results with two-pollutant models. Second, a subgroup analysis was conducted of patients with ARDS and various risk factors: sepsis, pneumonia, and traumatic injury. Third, the same analyses were conducted by using restricted ZIP codes with low air pollution. Low air pollution was defined as annual average PM2.5 levels < 12 µg/m3, which is the National Ambient Air Quality Standard (NAAQS) for the annual mean PM2.5, or annual average ozone levels < 45 parts per billion (ppb). The NAAQS for ozone is 70 ppb over 8 h, but there is no annual standard. Fourth, we repeated the analyses using propensity score modeling to examine the robustness of our results under a different approach. Propensity score methods are designed to estimate causal treatment effects by adjusting for observed confounders.32 They typically involve two steps: first, a model fits to estimate the probability of assignment to treatment (ie, exposure to high or low levels of air pollution; estimated propensity score). Second, outcomes of interest are compared between treated (high air pollution) and untreated (low air pollution) units having similar values of the estimated propensity score. Here we implemented two logistic regressions to create propensity scores for each binary exposure, which used the aforementioned standards as cut-offs. We fit and compared single-pollutant models with a binary exposure: one with adjusting for the same covariates in the main model, and the other with the deciles of estimated propensity scores. The absolute standardized difference for all covariates prior to and following matching data were also calculated by using estimated propensity scores.33 We considered that covariates with the highest absolute standardized difference in unmatched data are most unbalanced and could introduce confounding bias. All analyses were performed in RStudio Version 1.0.143. All testing was done with a two-sided alpha level of 0.05.
+
+Go to:
+Results
+There were 1,164,784 hospital admissions with ARDS from 2000 through 2012 in the Medicare cohort (Table 1). Patients with ARDS were, on average, 78 years old, were more often female, and were predominantly white. On average, patients with ARDS stayed 14 days in the hospital and 7 days in the ICU. This analysis included 37,167 ZIP codes (a total of 483,171 observations) and 1,138,744 admissions with ARDS for 13 years (Fig 1). The median number of hospital admissions with ARDS per year per ZIP code was approximately 1, with an interquartile range of 0 to 3 (Table 2). The majority of patients with ARDS had sepsis as their primary diagnosis, followed by pneumonia and traumatic injury. Median PM2.5 was 11 µg/m3 and ozone was 39 ppb for the 13-year period. ARDS hospital admission was positively correlated with PM2.5 (correlation coefficient, 0.12) but negatively correlated with ozone (correlation coefficient, –0.10) (e-Table 2).
+
+Table 1
+Demographic Information for Patients With ARDS Hospital Admissions (1,164,784) in the Medicare Cohort (2000-2012)
+
+Age	77.5 ± 7.9
+Length of hospital stay, d	13.9 ± 14.1
+Length of ICU stay, d	6.7 ± 10.5
+Sex	
+ Male	558,373 (47.9%)
+ Female	606,411 (52.1%)
+Race	
+ White	1,010,159 (86.7%)
+ Black	97,979 (8.4%)
+ Asian	14,981 (1.3%)
+ Hispanic	12,160 (1.0%)
+ Native American	21,273 (1.8%)
+ Other	8,232 (0.8%)
+Open in a separate window
+Data are presented as mean ± SD unless otherwise indicated.
+
+An external file that holds a picture, illustration, etc.
+Object name is gr1.jpg
+Figure 1
+Flow diagram summarizing ZIP code selection for the analysis (2000-2012).
+
+Table 2
+Annual Average Summary Characteristics for Selected ZIP Codes Included in the Analysis (2000-2012)
+
+Variable	Median (Interquartile Range)
+Medicare enrollees	236 (72, 938)
+Health outcome	
+ ARDS	1 (0, 3); maximum 93
+ ARDS with sepsis	0 (0, 1); maximum 73
+ ARDS with pneumonia	0 (0, 0); maximum 31
+ ARDS with traumatic injury	0 (0, 0); maximum 12
+Air pollutants	
+ PM2.5′ µg/m3	10.8 (9.1, 12.9)
+ Ozone, ppb	39.1 (36.7, 41.6)
+Meteorological variables	
+ Air temperature, K	286.3 (283.5, 290.4)
+ Dew point, K	280.2 (277.8, 283.1)
+Demographic information	
+ Race	
+ White	0.97 (0.87, 0.99)
+ Black	0.01 (0.00, 0.05)
+ Asian	0 (0, 0)
+ Hispanic	0 (0, 0)
+ Native American	0 (0, 0)
+ Other	0.55 (0.51, 0.59)
+ Female	0.12 (0.09, 0.15)
+ Older adults aged ≥ 85 y	
+ZIP code level SES	
+ Median household income, $	42,150 (33,990, 54,060)
+ Ever smoking	0.44 (0.42, 0.50)
+Open in a separate window
+Inclusion criteria are described in Figure 1. All variables in demographic information mean the proportion of different racial groups, the proportion of female subjects, and the proportion of older adults aged ≥ 85 years among Medicare enrollees in each ZIP code. Ever smoking means the proportion of ever smokers in each ZIP code obtained from the Behavioral Risk Factor Surveillance System. Median household income was rounded to the nearest 10 for simplification. PM2.5 = particulate matter with an aerodynamic diameter < 2.5 μm; ppb = parts per billion; SES = socioeconomic status.
+
+In a single-pollutant model, increases of 1 µg/m3 in annual average PM2.5 and of 1 ppb in annual average ozone were associated with increases in annual hospital admission rates for ARDS of 0.76% (95% CI, 0.66-0.86) and 0.24% (95% CI, 0.18-0.31), respectively (Table 3). In a two-pollutant model, PM2.5 exposures had a similar association with ARDS (0.72%; 95% CI, 0.62-0.82), whereas the association between the same annual increase in ozone exposure and ARDS hospital admission rates was slightly attenuated (0.15%; 95% CI, 0.08-0.22). This outcome may be due to interaction between PM2.5 and ozone (e-Table 3). In the subgroup analysis, the impact of PM2.5 exposures was stronger among patients with ARDS and sepsis (1.23%; 95% CI, 1.10-1.36); no significant association was found among patients with ARDS and traumatic injury. Also, the impact of ozone was approximately six times stronger among patients with ARDS and pneumonia (0.89%; 95% CI, 0.64-1.14) and traumatic injury (0.86%; 95% CI, 0.66-1.06).
+
+Table 3
+Percent Change in Hospital Admission Rates for ARDS According to 1 µg/m3 Increase in Annual Average PM2.5 Concentrations or 1 ppb Increase in Annual Average Ozone Concentrations (95% CI)
+
+Pollutant	ARDS
+Two-Pollutant	Single-Pollutant
+PM2.5	0.72 (0.62 to 0.82)	0.76 (0.66 to 0.86)
+Ozone	0.15 (0.08 to 0.22)	0.24 (0.18 to 0.31)
+Subgroup analysis		
+ ARDS with sepsis		
+ PM2.5	1.23 (1.10 to 1.36)	1.20 (1.07 to 1.33)
+ Ozone	–0.09 (–0.17 to 0.00)	0.07 (–0.02 to 0.15)
+ ARDS with pneumonia		
+ PM2.5	0.44 (0.08 to 0.81)	0.69 (0.33 to 1.05)
+ Ozone	0.89 (0.64 to 1.14)	0.95 (0.70 to 1.19)
+ ARDS with traumatic injury		
+ PM2.5	–0.15 (–0.45 to 0.15)	0.10 (–0.19 to 0.40)
+ Ozone	0.86 (0.66 to 1.06)	0.84 (0.64 to 1.04)
+Open in a separate window
+Two-pollutant (PM2.5 and ozone) and single-pollutant models are compared. Subgroup analysis (eg, patients with ARDS and risk factors [sepsis, pneumonia, and traumatic injury]) are included. See Table 2 legend for expansion of abbreviations.
+
+A concentration-response plot (Fig 2) showed a steeper slope < 12 µg/m3 of annual average PM2.5 levels, which is the current annual NAAQS for PM2.5. For ozone (Fig 3), the overall linear slope showed a plateau between 30 and 50 ppb, where most ZIP codes were exposed to ozone in that range. When we conducted analyses in restricted ZIP codes with exposure to PM2.5 < 12 µg/m3 and ozone < 45 ppb (Table 4), the same annual increases in PM2.5 and ozone were associated with increases in annual hospital admission rates for ARDS of 1.50% (95% CI, 1.27-1.72) and 0.27% (95% CI, 0.16-0.38), respectively. The steeper slope in low PM2.5 regions corresponds to a 1.31% increase in hospital admission rates (95% CI, 1.11-1.51).
+
+An external file that holds a picture, illustration, etc.
+Object name is gr2.jpg
+Figure 2
+Concentration-response function of the exposure to annual average PM2.5 on percent change in hospital admission rates for ARDS. PM2.5 = particulate matter with an aerodynamic diameter < 2.5 μm.
+
+An external file that holds a picture, illustration, etc.
+Object name is gr3.jpg
+Figure 3
+Concentration-response function of the exposure to annual average ozone on percent change in hospital admission rates for ARDS. ppb = parts per billion.
+
+Table 4
+Percent Change in Hospital Admission Rates for ARDS According to 1 µg/m3 Increase in Annual Average PM2.5 Concentrations or 1 ppb Increase in Annual Average Ozone Concentrations (95% CI) in Regions of Low Air Pollution
+
+All Regions (N = 483,171)	Two-Pollutant Model
+Low PM2.5 regions (n = 310,590)	
+ PM2.5	1.31 (1.11-1.51)
+ Ozone	0.30 (0.21-0.40)
+Low ozone regions (n = 446,429)	
+ PM2.5	0.78 (0.67-0.88)
+ Ozone	0.16 (0.08-0.23)
+Low PM2.5 and ozone regions (n = 283,237)	
+ PM2.5	1.50 (1.27-1.72)
+ Ozone	0.27 (0.16-0.38)
+Open in a separate window
+Low PM2.5 regions include ZIP codes with annual average PM2.5 < 12 µg/m3; low ozone regions include ZIP codes with annual average ozone < 45 ppb. See Table 2 legend for expansion of abbreviations.
+
+Table 5 shows the absolute standardized mean difference for all covariates prior to and following matching with propensity scores based on PM2.5 levels. Relative humidity, the proportion of black subjects, and the proportion of female subjects were the most unbalanced variables when high PM2.5 levels were compared with low PM2.5 levels (Fig 4). Similar to this finding, in an analysis stratified according to sex, the association between PM2.5 and ARDS was stronger among female subjects (e-Table 4). Results from the propensity score modeling using a binary exposure for PM2.5 had similar directions of association compared with the generalized linear mixed model with a binary exposure adjusted for covariates (Table 6). Importantly, the present analyses found significant effects for ARDS across two different statistical methods.
+
+Table 5
+Means and the Proportions of All Variables (Potential Confounders) and Their Absolute Standardized Differences Prior to and Following Matching With Propensity Scores Based on PM2.5 Levels
+
+Variable	Prior to Matching
+Following Matching
+Mean
+Absolute Standardized Difference	Mean
+Absolute Standardized Difference
+Low PM2.5 (< 12 µg/m3)	High PM2.5 (≥ 12 µg/m3)	Low PM2.5 (< 12 µg/m3)	High PM2.5 (≥ 12 µg/m3)
+Dew point, K	279.64	281.61	0.43	281.22	281.19	0.01
+Black	0.05	0.10	0.30	0.07	0.08	0.11
+Female	0.54	0.56	0.28	0.55	0.55	0.03
+White	0.90	0.86	0.23	0.90	0.89	0.08
+Native American	0.01	0.00	0.19	0.00	0.00	0.03
+Air temperature, K	286.81	287.5	0.15	287.19	287.06	0.03
+Asian	0.01	0.01	0.11	0.01	0.01	0.03
+Ever smoking	0.46	0.46	0.11	0.46	0.46	0.04
+Median household income, $	48,188.19	45,793.69	0.11	46,798.2	46,824.52	0.00
+Older adults aged ≥ 85 y	0.13	0.13	0.02	0.13	0.13	0.02
+Hispanic	0.01	0.01	0.01	0.01	0.01	0.03
+Open in a separate window
+Black, white, Asian, Hispanic, and Native American mean the proportion of different racial groups; female means the proportion of female subjects; older adults ≥ 85 years means the proportion of older adults aged ≥ 85 years among Medicare enrollees in each ZIP code; and ever smoking means the proportion of ever smokers in each ZIP code obtained from the Behavioral Risk Factor Surveillance System. See Table 2 legend for expansion of abbreviation.
+
+An external file that holds a picture, illustration, etc.
+Object name is gr4.jpg
+Figure 4
+Absolute standardized differences of 11 covariates. The figure shows the absolute standardized differences prior to and following stratification according to the decile of the estimated propensity scores. Black, white, Asian, Hispanic, and Native American mean the proportion of different racial groups; female means the proportion of female subjects; older adults aged ≥ 85 years means the proportion of older adults aged ≥ 85 years among Medicare enrollees in each ZIP code; and ever smoking means the proportion of ever smokers in each ZIP code obtained from the Behavioral Risk Factor Surveillance System.
+
+Table 6
+Percent Change in Hospital Admission Rates for ARDS (95% CI) From Fitting a PM2.5 Single-Pollutant Model Using a Binary Exposure
+
+Variable	Percent Change (95% CI)
+Adjusted for decile of propensity scores	1.26 (0.75-1.77)
+Adjusted for covariates	3.31 (2.77-3.85)
+Open in a separate window
+Results between the model adjusted for decile of propensity scores and the model adjusted for covariates are compared. See Table 2 legend for expansion of abbreviations.
+
+Go to:
+Discussion
+We found that annual average increases in ambient PM2.5 and ozone concentrations were significantly associated with increased hospital admission rates for ARDS. In regions of low air pollution, the same annual increases in PM2.5 and ozone were associated with a higher percent increase in hospital admission rates.
+
+Studies investigating the impact of long-term exposure to air pollution on the risk of ARDS are limited, with only three previous publications.22, 23, 24 Ware et al22 recruited patients who had risk factors for ARDS and lived within 50 km of at least one EPA-approved air quality monitor from the Vanderbilt University Medical Center. Reilly et al23 conducted a follow-up study to Ware et al and enrolled patients admitted to the University of Pennsylvania with acute traumatic injury who developed ARDS. They used an inverse distance-squared weighted average of daily air pollutant levels from monitors within 50 km and assigned those to study participants. Ware et al found that a 5 ppb increase in 3-year average ozone exposure was associated with an increased risk of ARDS (OR, 1.58; 95% CI, 1.27-1.96), with a stronger association in the subgroup with trauma (OR, 2.26; 95% CI, 1.46-3.5). Reilly et al found similar associations with 3-year average ozone exposure and additionally found significant associations with nitrogen dioxide, sulfur dioxide, and carbon monoxide and PM2.5 exposures. Rush et al24 used the Nationwide Inpatient Sample, a national database capturing 20% of all US in-patient hospitalizations, and used the location of the treatment hospital to assign county-level pollution levels. They compared patients with ARDS from the 15 cities with the highest ozone pollution vs patients with ARDS from the rest of the country. They found that treatment in a hospital located in a region with high ozone pollution was associated with increased odds of in-hospital mortality (OR, 1.11; 95% CI, 1.08-1.15).
+
+By comparison, the current study used a larger nationwide hospital admission dataset of > 30 million Medicare enrollees per year living across the United States, which allowed us to examine the associations between PM2.5 and ozone exposures and ARDS in the entire United States vs regions of low air pollution. The PM2.5 and ozone values we used were predicted by using an advanced spatio-temporal modeling method that incorporated multiple data sources, including satellite-based measurements, simulation outputs from a chemical transport model, land use terms, and meteorological data.29, 30, 31 This approach allowed us to investigate locations not monitored by the EPA. Similar to Rush et al,24 we used ICD-9-CM codes to define ARDS; however, we excluded code 518.81, which indicates respiratory failure not otherwise specified (acute, acute and chronic, or chronic) and excluding acute respiratory distress. Reynolds et al25 highlighted that including code 518.81 results in a substantially higher incidence of ARDS. In an ARDS-related mortality study, Cochi et al34 used International Classification of Diseases, Tenth Revision, code J80 (Adult Respiratory Distress Syndrome) to define ARDS. Although Ware et al22 reported no significant association between chronic exposure to PM2.5 and the risk of ARDS, we found that annual average PM2.5 was positively associated with annual hospital admission rates for ARDS (Table 3). Among a subgroup of patients with ARDS admitted with traumatic injury, we found stronger associations with ozone exposures similar to Ware et al22 and Reilly et al.23 However, unlike the finding of Reilly et al, we found no association with PM2.5 exposure within this subgroup. This divergence of findings may be due to the study population and air pollution levels. Both studies recruited critically ill patients and compared patients who developed ARDS vs those who did not. Although the current study population is older than the populations of the other two studies (Ware et al, median 53 years; Reilly et al, median 38 years), the current study comparison group is not necessarily critically ill. Also, the level of air pollutants was higher in the two studies conducted in Tennessee and Pennsylvania than in our national dataset.
+
+Exposure to particles reportedly induces reactive oxygen species35 and lung inflammation.36 Particulate matter contains redox-active transition metals, redox cycling quinones, and polycyclic aromatic hydrocarbons, which generate reactive oxygen species.35 Fine particles penetrate deep into the lungs and cause damage to the lung tissues through generation of reactive oxygen species. Transition metals activate pro-inflammatory transcription factors such as nuclear factor kappa B in epithelial cells, leading to lung inflammation.36 Ozone exposure has also been associated with free radical formation and lung inflammation.11 Older adults who are exposed to chronic PM2.5 and ozone pollution may experience lung inflammation that makes them more susceptible to developing acute lung injury.
+
+We observed steeper concentration-response curves at annual average PM2.5 levels < 12 µg/m3 (Fig 2). This finding is consistent with studies that examined all-cause mortality31 and cardiovascular mortality37 associated with PM2.5, which reported a steeper concentration-response curve at low PM2.5 concentrations. Di et al31 highlighted that there is no threshold value below which PM2.5 exposure does not affect mortality at concentrations as low as approximately 5 µg/m3. Similarly, we found that current annual NAAQS do not fully protect older adults from ARDS risk. Furthermore, Di et al found a linear association between ozone concentration and mortality, which is similar to our findings (Fig 3).
+
+The current study does have some limitations. First, there may be unmeasured covariates confounding the associations we found between chronic exposures to PM2.5 and ozone and hospital admissions with ARDS. In a sensitivity analysis, we showed that the directions of association for the main models and propensity score models were the same (Table 6). Second, using ICD-9-CM codes as ARDS criteria without more clinical data likely introduces some outcome misclassification; that said, we applied the reasonable assumption that clinicians use a similar approach to the diagnosis of ARDS across the United States and that billing coders interpret medical records with reasonable accuracy.25 However, misclassification of outcome would have occurred randomly with respect to air pollution, but validating this assumption was beyond the scope of the current study. Third, in Medicare data, the primary source of race/ethnicity information is from the Social Security Administration, which has not separated Hispanic ethnicity and racial questions.38 Finally, our study does not provide information regarding other air pollutants (eg, nitrogen dioxide, sulfur dioxide, carbon monoxide) related to ARDS risk.
+
+Despite these limitations, our study has multiple strengths. First, to the best of our knowledge, this study was the largest nationwide longitudinal trial conducted to date that investigated the impact of air pollution on the risk of ARDS. Compared with Ware et al,22 which is the only study in the field examining the same association, we did not recruit study subjects from only one geographic area but rather from the entire United States by using Medicare data. Our findings revealed significant regional differences based on relative levels of air pollution, indicating the importance of a national sample. In regions of low air pollution, the same annual increase in PM2.5 was associated with nearly twice the percent increase in hospital admission rates for ARDS compared with all ZIP codes (1.5% vs 0.72%). In addition, use of the Medicare cohort, which includes 97% of the population aged ≥ 65 years in the United States, makes our study more generalizable. We also used advanced exposure assessment methods compared with the two previously published studies.22, 24 Ware et al22 and Reilly et al23 used inverse distance-squared weighted averages of daily air pollutant levels to assign exposure to participants. Rush et al24 used the location of treatment hospital, instead of residential address, to assign county-level pollution exposures. We used predicted air pollution data that were integrated with meteorological information29, 30, 31 and assigned pollution levels based on residential ZIP codes. ZIP code exposure measurements may represent a logical daily-trip boundary to assume for older individuals. Finally, our study investigated the air pollution-ARDS association in individuals aged ≥ 65 years who are most susceptible in terms of risk.
+
+Go to:
+Conclusions
+The current large observational study investigated the impact of long-term exposure to air pollution (PM2.5 and ozone) on risk of ARDS among older adults, the population most susceptible to this outcome. Across all ZIP codes, significant associations were found between annual average air pollution (PM2.5 and ozone) and annual hospital admission rates for ARDS. In low-pollution regions, associations between chronic exposure to both PM2.5 and ozone had stronger associations compared with the entire United States. We highlight the importance of air pollution as an environmental risk factor for ARDS, contributing more evidence to the limited previous findings.22, 24 Most important, our results suggest that the current annual NAAQS for PM2.5 is not protective for risk of ARDS among older adults.
+
+Go to:
+Acknowledgments
+Author contributions: J. R. designed the study, conducted analysis, and drafted the work; F. D. made substantial contribution to design of the work, interpretation of the work, and revising the draft for important intellectual content; A. Z. made substantial contribution to analysis and interpretation of the work; J. S. revised the draft for important intellectual content; Y. W. and Q. D. helped with access to the data, data management, and analysis; J. B. revised the draft for important intellectual content; D. C. C. made substantial contributions to the conception of the work, revising the draft for important intellectual content, and agreed to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+
+Financial/nonfinancial disclosures: None declared.
+
+Role of sponsors: The sponsor had no role in the design of the study, the collection and analysis of the data, or the preparation of the manuscript.
+
+Additional information: The e-Appendix, e-Tables, and e-Figure can be found in the Supplemental Materials section of the online article.
+
+Go to:
+Footnotes
+FUNDING/SUPPORT: This study was supported by the following: National Institutes of Health/National Institute of Environmental Health Sciences grants [P30 ES000002 and R01 ES024332], US Environmental Protection Agency (EPA) grant [RD 83587201], and the Health Effects Institute [4953-RFA14-3/16-4]. The publication contents are solely the responsibility of the grantee and do not necessarily represent the official views of the EPA. Furthermore, the EPA does not endorse the purchase of any commercial products or services mentioned in the publication.
+
+Go to:
+Supplementary Data
+e-Online Data:
+Click here to view.(271K, pdf)
+Go to:
+References
+1. Simoni M., Baldacci S., Maio S., Cerrai S., Sarno G., Viegi G. Adverse effects of outdoor pollution in the elderly. J Thorac Dis. 2015;7(1):34. [PMC free article] [PubMed] [Google Scholar]
+2. Samet J., Buist S., Bascom R. What constitutes an adverse health effect of air pollution? Am J Respir Crit Care Med. 2000;161(2 I):665–673. [PubMed] [Google Scholar]
+3. World Health Organization. Air Quality Guidelines: Global Update 2005: Particulate Matter, Ozone, Nitrogen Dioxide, and Sulfur Dioxide. World Health Organization; 2006. [PubMed]
+4. Dockery D.W., Pope C.A., Xu X. An association between air pollution and mortality in six US cities. N Engl J Med. 1993;329(24):1753–1759. [PubMed] [Google Scholar]
+5. Laden F., Schwartz J., Speizer F.E., Dockery D.W. Reduction in fine particulate air pollution and mortality: extended follow-up of the Harvard Six Cities study. Am J Respir Crit Care Med. 2006;173(6):667–672. [PMC free article] [PubMed] [Google Scholar]
+6. Hoek G., Krishnan R.M., Beelen R. Long-term air pollution exposure and cardio-respiratory mortality: a review. Environ Health. 2013;12(1):43. [PMC free article] [PubMed] [Google Scholar]
+7. Halonen J.I., Blangiardo M., Toledano M.B. Long-term exposure to traffic pollution and hospital admissions in London. Environ Pollution. 2016;208:48–57. [PubMed] [Google Scholar]
+8. Hatzis C., Godleski J.J., González-Flecha B., Wolfson J.M., Koutrakis P. Ambient particulate matter exhibits direct inhibitory effects on oxidative stress enzymes. Environ Sci Technol. 2006;40(8):2805–2811. [PubMed] [Google Scholar]
+9. Filep Á., Fodor G.H., Kun-Szabó F. Exposure to urban PM1 in rats: development of bronchial inflammation and airway hyperresponsiveness. Respir Res. 2016;17(1):26. [PMC free article] [PubMed] [Google Scholar]
+10. Rice M.B., Ljungman P.L., Wilker E.H. Long-term exposure to traffic emissions and fine particulate matter and lung function decline in the Framingham heart study. Am J Respir Crit Care Med. 2015;191(6):656–664. [PMC free article] [PubMed] [Google Scholar]
+11. Mustafa M.G. Biochemical basis of ozone toxicity. Free Radical Biol Med. 1990;9(3):245–265. [PubMed] [Google Scholar]
+12. Bromberg P.A. Mechanisms of the acute effects of inhaled ozone in humans. Biochim Biophys Acta. 2016;1860(12):2771–2781. [PubMed] [Google Scholar]
+13. Donahoe M. Acute respiratory distress syndrome: a clinical review. Pulm Circ. 2011;1(2):192–211. [PMC free article] [PubMed] [Google Scholar]
+14. Bellani G., Laffey J.G., Pham T. Epidemiology, patterns of care, and mortality for patients with acute respiratory distress syndrome in intensive care units in 50 countries. JAMA. 2016;315(8):788–800. [PubMed] [Google Scholar]
+15. Frutos-Vivar F., Nin N., Esteban A. Epidemiology of acute lung injury and acute respiratory distress syndrome. Curr Opin Crit Care. 2004;10(1):1–6. [PubMed] [Google Scholar]
+16. Hudson L.D., Steinberg K.P. Epidemiology of acute lung injury and ARDS. Chest. 1999;116(suppl 1):74S–82S. [PubMed] [Google Scholar]
+17. Ware L.B., Matthay M.A. The acute respiratory distress syndrome. N Engl J Med. 2000;342(18):1334–1349. [PubMed] [Google Scholar]
+18. Eachempati S.R., Hydo L.J., Shou J., Barie P.S. Outcomes of acute respiratory distress syndrome (ARDS) in elderly patients. J Trauma Acute Care Surg. 2007;63(2):344–350. [PubMed] [Google Scholar]
+19. Brun-Buisson C., Minelli C., Bertolini G. Epidemiology and outcome of acute lung injury in European intensive care units. Results from the ALIVE study. Intensive Care Med. 2004;30(1):51–61. [PubMed] [Google Scholar]
+20. Irish Critical Care Trials Group Acute lung injury and the acute respiratory distress syndrome in Ireland: a prospective audit of epidemiology and management. Crit Care. 2008;12(1):R30. [PMC free article] [PubMed] [Google Scholar]
+21. Liang Y., Yeligar S.M., Brown L.A.S. Chronic-alcohol-abuse-induced oxidative stress in the development of acute respiratory distress syndrome. Scientific World J. 2012;2012 [PMC free article] [PubMed] [Google Scholar]
+22. Ware L.B., Zhao Z., Koyama T. Long-term ozone exposure increases the risk of developing the acute respiratory distress syndrome. Am J Respir Crit Care Med. 2016;193(10):1143–1150. [PMC free article] [PubMed] [Google Scholar]
+23. Reilly J.P., Zhao Z., Shashaty M.G. Low to moderate air pollutant exposure and acute respiratory distress syndrome after severe trauma. Am J Respir Crit Care Med. 2019;199(1):62–70. [PMC free article] [PubMed] [Google Scholar]
+24. Rush B., McDermid R.C., Celi L.A., Walley K.R., Russell J.A., Boyd J.H. Association between chronic exposure to air pollution and mortality in the acute respiratory distress syndrome. Environ Pollut. 2017;224:352–356. [PMC free article] [PubMed] [Google Scholar]
+25. Reynolds H.N., McCunn M., Borg U., Habashi N., Cottingham C., Bar-Lavi Y. Acute respiratory distress syndrome: estimated incidence and mortality rate in a 5 million-person population base. Crit Care. 1998;2(1):29. [PMC free article] [PubMed] [Google Scholar]
+26. Chen W., Chen Y.Y., Tsai C.F. Incidence and outcomes of acute respiratory distress syndrome: a nationwide registry-based study in Taiwan, 1997 to 2011. Medicine. 2015;94(43) [PMC free article] [PubMed] [Google Scholar]
+27. Knaus W.A., Sun X., Hakim R.B., Wagner D.P. Evaluation of definitions for adult respiratory distress syndrome. Am J Respir Crit Care Med. 1994;150(2):311–317. [PubMed] [Google Scholar]
+28. Ike J.D., Kempker J.A., Kramer M.R., Martin G.S. The association between acute respiratory distress syndrome hospital case volume and mortality in a US cohort, 2002 -2011. Crit Care Med. 2018;46(5):764–773. [PMC free article] [PubMed] [Google Scholar]
+29. Di Q., Rowland S., Koutrakis P., Schwartz J. A hybrid model for spatially and temporally resolved ozone exposures in the continental United States. J Air Waste Manag Assoc. 2017;67(1):39–52. [PMC free article] [PubMed] [Google Scholar]
+30. Di Q., Kloog I., Koutrakis P., Lyapustin A., Wang Y., Schwartz J. Assessing PM2.5 exposures with high spatiotemporal resolution across the continental United States. Environ Sci Technol. 2016;50(9):4712–4721. [PMC free article] [PubMed] [Google Scholar]
+31. Di Q., Wang Y., Zanobetti A. Air pollution and mortality in the Medicare population. N Engl J Med. 2017;376(26):2513–2522. [PMC free article] [PubMed] [Google Scholar]
+32. Zigler C.M., Dominici F. Uncertainty in propensity score estimation: Bayesian methods for variable selection and model-averaged causal effects. J Am Statis Assoc. 2014;109(505):95–107. [PMC free article] [PubMed] [Google Scholar]
+33. Makar M., Antonelli J., Di Q., Cutler D., Schwartz J., Dominici F. Estimating the causal effect of low levels of fine particulate matter on hospitalization. Epidemiology. 2017;28(5):627–634. [PMC free article] [PubMed] [Google Scholar]
+34. Cochi S.E., Kempker J.A., Annangi S., Kramer M.R., Martin G.S. Mortality trends of acute respiratory distress syndrome in the United States from 1999 to 2013. Ann Am Thorac Soc. 2016;13(10):1742–1751. [PMC free article] [PubMed] [Google Scholar]
+35. Valavanidis A., Fiotakis K., Bakeas E., Vlahogianni T. Electron paramagnetic resonance study of the generation of reactive oxygen species catalysed by transition metals and quinoid redox cycling by inhalable ambient particulate matter. Redox Report. 2005;10(1):37–51. [PubMed] [Google Scholar]
+36. Donaldson K., MacNee W. Potential mechanisms of adverse pulmonary and cardiovascular effects of particulate air pollution (PM10) Int J Hygiene Environ Health. 2001;203(5-6):411–415. [PubMed] [Google Scholar]
+37. Pope C.A., Burnett R.T., Krewski D. Cardiovascular mortality and exposure to airborne fine particulate matter and cigarette smoke: shape of the exposure-response relationship. Circulation. 2009;120(11):941–948. [PubMed] [Google Scholar]
+38. McBean M. National Academy of Social Insurance; Minneapolis, MN: 2004. Medicare Race and Ethnicity Data. [Google Scholar]
+Articles from Chest are provided here courtesy of American College of Chest Physicians
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

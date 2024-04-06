@@ -1,0 +1,201 @@
+Skip to main content
+U.S. flag
+An official website of the United States government
+
+Here’s how you know
+Search
+Search EPA.gov
+
+Environmental Topics
+Laws & Regulations
+Report a Violation
+About EPA
+Air Research
+CONTACT US
+Research on DIY Air Cleaners to Reduce Wildfire Smoke Indoors
+On this page:
+
+Study Overview
+EPA Particle Removal Findings
+DIY Air Cleaner to Reduce Wildfire Smoke Indoors Infographics
+Underwriters Laboratories Safety Findings
+Frequently Asked Questions
+Related Resources
+Read the Science Matters Newsletter story - Do-It-Yourself Air Cleaners: Making Cleaner Air More Accessible
+Key Messages
+Do-It-Yourself (DIY) air cleaners, made with a box fan and MERV 13 air filter, are a cost-effective method for reducing smoke concentrations.
+Only use newer, certified box fans with added safety features (2012 models or newer).
+Improve the effectiveness of the basic DIY air cleaner design:
+Add a cardboard shroud (a no-cost improvement).
+Use a thicker filter(s) (4” rather than 1”).
+Use multiple filters (2 to 5 filter air cleaner designs).
+Keep extra filters on hand and replace when dirty.
+Keep track of air quality using the AirNow Fire and Smoke Map
+Study Overview
+EPA researcher testing a DIY air cleaner.
+EPA researcher, Heidi Vreeland, testing a DIY air cleaner.
+EPA is conducting research to provide actionable information to help Americans stay safe during a wildfire.
+
+Everyone deserves access to cleaner indoor air during wildfire smoke events. But when there are smoky conditions from wildfires, commercial air cleaners can be difficult to obtain because of limited availability or high cost. EPA and other health, environmental, and nonprofit organizations are providing instructions and materials for making Do-It-Yourself (DIY) air cleaners as a solution to reducing fine particulate matter (PM2.5) in wildfire smoke indoors. DIY air cleaners are made by attaching an air filter to a box fan with tape, brackets/clamps, or a bungee cord. With their use, concerns have been raised about the potential for the box fans to overheat when operated with a filter attached, which could pose a fire or burn risk.
+
+At the time EPA researchers began evaluating air cleaners, there was minimal information on how effective DIY air cleaners are at removing smoke particles. Limited data published in the scientific literature, preliminary testing results from EPA and several anecdotal reports from state, local, and tribal agencies suggested these DIY air cleaners may help reduce exposure to the particles in smoke.
+
+EPA conducted research to evaluate DIY air cleaners to answer questions from EPA partners and the public about their effectiveness and safety. This research is one part of a multi-faceted study called the Wildfire Advancing Science Partnerships for Indoor Reductions of Smoke Exposures (ASPIRE) Study. The objectives of the Wildfire ASPIRE Study are to better understand indoor air quality during smoke episodes and evaluate the effectiveness of interventions for reducing indoor smoke exposures and related public health risks.
+
+EPA Particle Removal Findings
+EPA tested the effectiveness of DIY air cleaners in removing smoke particles. The research was conducted in laboratories in Research Triangle Park, NC. Simulated wildfire smoke made from smoldering pine needles was used in a room-sized chamber to determine the Clean Air Delivery Rate (CADR) of the air cleaners. The CADR is a standard measure of how well a commercial air cleaner can remove particles of a specific size from a standardized room.
+
+Impact of Do-It-Yourself Air Cleaner Design on the Reduction of Simulated Wildfire Smoke in a Controlled Chamber Environment, Holder et. al, 2022, Journal Article
+EPA researchers evaluated a range of DIY air cleaner designs and a low-cost commercial air cleaner to identify the lowest cost and most effective design. Costs included consideration of “(a) the initial cost to construct or purchase the air cleaner and (b) estimated operating costs, which is the price of the electricity used to power the air cleaner” but not the cost of replacement filters. The results of this study, published in November 2022, demonstrate that DIY air cleaners can effectively reduce smoke concentrations in a laboratory setting.
+
+DIY Air Cleaner to Reduce Wildfire Smoke Indoors Infographics
+DIY Air Cleaner to Reduce Wildfire Smoke Indoors: Basic Design. Materials: 20" x 20" x 1" or 4" air filter (suggested rating: MERV 13) and a 20"x20"  box fan. Only use certified fans with UL or ETL marking (2012 model or newer). Other materials: Clamps, or duct tape or bungee cords. Assembly: 1. Attach the air filter to the back of the box fan using either clamps, duct tape or bungee cords. 2. Check the filter for the direction of the air flow (marked on the side of the filter). Replace filters when dirty.
+DIY Air Cleaner to Reduce Wildfire Smoke Indoors: Basic Design Infographic
+DIY Air Cleaner Designs: Beyond the Basic. Infographic showing three different methods to creating a DIY air cleaner. Good - Basic Supplies: 20” x 20” box fan, 20” x 20” x 1” or 4” MERV 13 air filter, 20” x 20” cardboard shroud (cutout the size of the fan blades), and clamps, duct tape, or bungee cords. Better -  Additional Supplies: Two - MERV 13 air filters, triangle cardboard cutout for base on top. Best - Additional Supplies: Four or five - MERV 13 air filters, if using five filter design, use leg suppo
+DIY Air Cleaner Designs: Beyond the Basic Infographic
+Highlights
+The most effective DIY design will depend on the space to be cleaned, the activities carried out, space availability, potential noise disruption, and other factors.
+DIY air cleaner designs with a cardboard shroud and multiple filters increased the cost effectiveness of DIY air cleaners making them more effective at removing particles than higher-priced commercial units.  
+DIY air cleaners were almost completely ineffective with dirty filters, highlighting the need for frequent filter replacement during smoke events; the duration of filter lifespan will vary with use and conditions.
+DIY air cleaners made with newer model box fans are unlikely to pose a fire or burn risk but should be kept clear of obstructions and operated with common sense precautions.
+Portable air cleaners, including DIY air cleaners, are only part of a comprehensive indoor air quality strategy. They do not replace the need for ventilation and should be used in conjunction with other appropriate health measures.
+DIY Air Cleaner to Reduce Wildfire Smoke Indoor Infographic (pdf) (1.7 MB, 08/07/2023)
+
+EPA continues ongoing research to evaluate the effectiveness of DIY air cleaners in a real-world scenario. Researchers are working with tribal and local partners to evaluate the effectiveness of air cleaner use in homes to improve indoor air quality and health measures during smoke events in the ASPIRE-Health Study.
+
+In a related study, EPA researchers are also evaluating the effectiveness of commercial air cleaners to remove smoke volatile organic compounds (VOCs) in laboratories in Research Triangle Park, NC. The results of this related research will be posted on this web page when the evaluation is complete, peer reviewed, and published.
+
+Underwriters Laboratory Safety Findings 
+With DIY air cleaners becoming more popular, concerns have been raised that operating a box fan with an air filter attached – particularly a dirty air filter – might cause the fan components to overheat, posing a fire or burn risk. EPA researchers wanted to know if these DIY air cleaners are likely to pose a safety risk for people using them and collaborated with Chemical Insights Research Institute of Underwriters Laboratories Inc. (UL), a nonprofit research organization, to assess the fire and burn risks from operating DIY air cleaners.
+
+As a first step to assess the safety of DIY air cleaners, UL tested five models of box fans with clean filters, as well as with filters loaded with smoke and dust provided by EPA. The DIY air cleaners were tested under several possible scenarios, including a simulation of an extreme scenario where the front and back of the fan were both blocked for an extended period of seven hours. UL ran a series of tests under different conditions and measured the temperature on different components of the fan. This type of testing helps to assess whether the fans reach temperatures that pose a fire or burn hazard.
+
+UL published the results of this testing in the report, Wildfire Safety Research: An Evaluation of DIY Air Filtration (July 2021). Throughout the testing, temperatures of all fan components remained safely below recognized temperature safety standards. None of the scenarios tested posed any observable fire hazards. However, the study was limited to several box fan models and may not be representative of all fans or potential filter configurations.
+
+When building a DIY air cleaner, it is recommended to use only NEWER box fans (since 2012), which have the added safety features of fused plugs and thermal cutoffs.
+
+EPA cannot assure the results of the safety testing are representative of all DIY air cleaners in all scenarios because there is a wide range of variability in the materials used and how the air cleaners can be built or operated. In addition, there are inherent risks associated with operating any electrical device. For more important safety information and tips, read the Frequently Asked Questions.
+
+Air Cleaners and Air Filters in the Home
+ 
+Caption: Safety testing of box fans with attached filters at UL laboratory.  Credit:  UL 
+Safety testing of box fans with attached filters at Underwriters Laboratories. Credit: UL
+Frequently Asked Questions 
+How do I build an air cleaner?/Which design should I use?
+
+There are several air cleaner designs and instructions available online. Missoula City-County Public Health Department, a partner in the Wildfire ASPIRE Study, describes how to make and use a basic DIY air cleaner.  This design can be built with a 1-inch or 4-inch filter. Adding a cardboard shroud is a no-cost, effective addition. The Minimum Efficiency Reporting Value (MERV) rating of the filter strongly impacts the Clean Air Delivery Rate (CADR). It is recommended to use a MERV 13 filter(s) to remove the very small particles in wildfire smoke.
+
+EPA has summarized the basic and improved DIY air cleaner designs in an infographic. Harvard T. H. Chan School of Public Health has helpful information about building different DIY air cleaner designs.
+
+How many air cleaners do I need?
+
+You may benefit from having more than one air cleaner if smoke is very thick or your home is not well sealed from the outdoor environment. However, if you can designate one room in your home as a cleaner air room that people spend time in when it is smoky out, then one air cleaner may be sufficient. Some people have found it to be effective to move one air cleaner from room to room. 
+
+Learn more about air cleaners and air filtration and how to create a cleaner air room.
+
+Are DIY air cleaners effective at reducing wildfire smoke?
+
+DIY air cleaners can be a cost-effective approach to improving indoor air quality during wildfire smoke events.
+
+EPA researchers measured the Clean Air Delivery Rate (CADR) for DIY air cleaners to evaluate their ability to reduce smoke concentration. The CADR is a measure of the volume of filtered air that an air cleaner delivers. The higher the CADR number for each pollutant, the faster the unit filters the air. These values are often measured in the lab for tobacco smoke, pollen, and dust, but not for wildfire smoke. The Association for Home Appliance Manufacturers suggest using an air cleaner with a CADR equal to the square footage of the room to be cleaned.
+
+Air cleaner design has a big impact on the ability of a DIY air cleaner to remove wildfire smoke particulate matter and designs using shrouds, thicker filters, and multiple filters showed an increase in their overall effectiveness.
+
+Design	Wildfire smoke CADR
+Box fan with one 1” MERV13 filter	111 ± 1
+Box fan with one 1” MERV13 filter and cardboard shroud	156 ± 4
+Box fan with one 4” MERV13 filter and cardboard shroud	248 ± 15
+Box fan with two 1” MERV13 filters and cardboard shroud	263 ± 22
+Corsi-Rosenthal Box with four 1” MERV 13 filters and cardboard shroud	401 ± 31
+The addition of a cardboard shroud increases the CADR by 40% without any change in the cost or physical footprint. Increasing the number of filters used in the design increases the cost of the raw materials to construct the air cleaner, the complexity of the assembly, and the space the air cleaner takes up. However, designs with more filters are much more effective at removing particles and able to clean larger sized rooms more typical of the living spaces in many homes.
+
+While the most cost-effective designs are those with multiple filters, use of a single 4” MERV 13 filter is also highly effective (increased CADR by 123%) and may be more suitable for smaller areas with minimal floor space that cannot accommodate the multi-filter designs. Using multiple single-filter units in the same room is also worth considering, when balancing performance, costs, space, and ease of assembly for your specific needs.
+
+With all DIY air cleaner designs, filters must be changed frequently during smoke events as they may quickly load up with particulate matter. Check the filter daily during a wildfire smoke event. When the filter is dark brown or grey or smells like smoke, it is time to change it for a new filter.
+
+Are DIY air cleaners safe?
+
+EPA collaborated with Underwriters Laboratories (UL) to assess the fire and burn risks of DIY air cleaners. UL ran a series of tests on five models of box fans under different conditions and measured the temperature on different components of the fan. This type of testing helps to assess whether the fans reach temperatures that pose a fire or burn hazard.  All measured temperatures for the scenarios tested met temperature standards for electric fans (UL 507). These evaluations included an extreme scenario where both the front and back of the fan were blocked for an extended period of seven hours and filters loaded with smoke and dust. All evaluated scenarios did not pose any observable fire hazards during testing.
+
+Key Observations from UL Safety Testing:
+
+None of the filter/fan test scenarios caught fire.
+Different brands of fans showed similar temperature patterns across the filter scenarios.
+Temperatures on the external fan components remained near room air temperature when filters were attached.
+Temperatures on the external fan components were elevated above ambient temperature, but below hazard thresholds for the extreme scenario with both fan sides blocked.
+Attaching a filter and operating the fan resulted in an increase in internal fan component temperatures regardless of filter type (i.e., clean, smoke-loaded, and dust-loaded filters). However, all measured temperatures fell below maximum acceptable safety thresholds.
+For extreme conditions, when both sides of the fan were blocked, measured temperatures increased over the course of the first 20 minutes and then temperatures remained steady for an extended seven-hour run period.
+The highest temperature increase, nearly 60 °C, was observed on the internal fan components with a dust laden filter.
+Air flow reductions were observed when filters were placed on the fans.
+Filter conditions did not influence electric current, resistance, or power applied to the fan.
+There is a wide range of variability in the types of fans and filters used, and how these DIY air cleaners can be built or operated. Therefore, EPA cannot assure these results are representative of all scenarios. In addition, there are inherent risks associated with operating any electrical device. EPA recommends that anyone who uses a DIY air cleaner follow these important safety tips.
+
+What safety tips should I follow?
+
+If you build a DIY air cleaner, use a newer model box fan (2012 or later). The newer models have added safety features. Fans built prior to 2012 were not tested and pose known fire risks.
+Use fans that have been verified by an accredited third party to meet the UL 507 safety standard for electric fans or equivalent. To find a verified fan, look for one with a UL or ETL safety marking. 
+EPA does not recommend using DIY air cleaners built with older model box fans (before 2012). If they are used, they should not be used unattended or while sleeping. 
+Anyone who uses a DIY air cleaner should follow the box fan manufacturer’s instructions, which can include:
+Don't leave children unattended when the fan is in use.
+Don't use an extension cord.
+Don't use a damaged or malfunctioning fan. 
+Always ensure that there are working smoke detectors throughout the home.
+During smoke events, filters will need to be replaced more often, as well as at the end of a smoke event. Not changing the filter regularly may reduce how well the filter works and may release smoke particles into the air. Make sure to keep extra filters on hand and change the filter when it starts to look dirty or release smoke odors.
+What else should I know about using a DIY air cleaner? 
+
+There may be drawbacks to using a DIY air cleaner as compared to a commercial air cleaner, such as increased noise and heat generation from the fan motor, and limited data on how well DIY air cleaners filter smoke particles. When commercial air cleaners are not available or affordable, DIY air cleaners may offer some protection from smoke indoors. It is also important to take other steps to reduce your exposure to particles during wildfires, and to keep an eye on temperature and make sure you have a way to stay cool, even if that means going somewhere else. Learn more about wildfires and indoor air quality and ways to reduce your exposure to smoke.
+
+Related Resources
+Fires and Your Health | AirNow.gov
+Air Cleaners and Air Filters in the Home
+Create a Clean Room to Protect Indoor Air Quality During a Wildfire 
+Wildfires and Indoor Air Quality
+Smoke-Ready Toolbox for Wildfires
+Air Cleaners, HVAC Filters, and Coronavirus (COVID-19)
+Wildfire ASPIRE Study
+Science Matters Newsletter: Do-It-Yourself Air Cleaners: Making Cleaner Air More Accessible
+Presentations
+Safety and Efficacy of DIY Air Cleaners for Wildfire Smoke Reduction; presented to the Federal Interagency Committee on Indoor Air Quality 2/14/2023
+Emerging Approaches to Cleaner Indoor Air During Wildfires Presented to the California Air Pollution Control Officers Association 4/21/2021
+References
+Xiang, Huang, Shirai, Liu, Carmona, Zuidema, Austin, Gould, Larson, Seto. (2021). Field measurements of PM2.5 infiltration factor and portable air cleaner effectiveness during wildfire episodes in US residences. Science of the Total Environment 773 p 145642
+May, Dixon, Jaffe. (2021). Impact of wildfire smoke events on indoor air quality and evaluation of a low-cost filtration method. Aerosol and Air Quality Research 21, 210046
+National Collaborating Centre for Environmental Health, Do-it-yourself (DIY) air cleaners: Evidence on effectiveness and considerations for safe operations. Jan 2023.
+Portable Air Cleaner Test Report – Box Fan Filter March 2021
+Puget Sound Clean Air Agency. DIY Air Filter
+Air Research Home
+Air Monitoring & Emissions
+Air Quality Modeling
+Wildland Fires
+Health Effects from Air Pollution
+Air & Energy
+Outreach, Tools & Resources
+Contact Us to ask a question, provide feedback, or report a problem.
+LAST UPDATED ON DECEMBER 12, 2023
+United States Environmental Protection Agency
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Follow.

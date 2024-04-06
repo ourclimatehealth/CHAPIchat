@@ -1,0 +1,345 @@
+Skip to main content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Logo of pheelsevier
+Environ Adv. 2022 Oct; 9: 100270. Published online 2022 Jul 26. doi: 10.1016/j.envadv.2022.100270
+PMCID: PMC9316717PMID: 35912397
+Association between long-term exposure to particulate air pollution with SARS-CoV-2 infections and COVID-19 deaths in California, U.S.A.
+Paul B. English,a,⁎ Julie Von Behren,b John R. Balmes,c John Boscardin,b Catherine Carpenter,a Debbie E. Goldberg,b Sophia Horiuchi,a Maxwell Richardson,a Gina Solomon,a,c Jhaqueline Valle,a and Peggy Reynoldsb
+Author information Article notes Copyright and License information PMC Disclaimer
+Associated Data
+Supplementary Materials
+Go to:
+Abstract
+Previous studies have reported associations between air pollution and COVID-19 morbidity and mortality, but most have limited their exposure assessment to a large area, have not used individual-level variables, nor studied infections. We examined 3.1 million SARS-CoV-2 infections and 49,691 COVID-19 deaths that occurred in California from February 2020 to February 2021 to evaluate risks associated with long-term neighborhood concentrations of particulate matter less than 2.5 μm in diameter (PM2.5). We obtained individual address data on SARS-CoV-2 infections and COVID-19 deaths and assigned 2000-2018 1km-1km gridded PM2.5 surfaces to census block groups. We included individual covariate data on age and sex, and census block data on race/ethnicity, air basin, Area Deprivation Index, and relevant comorbidities. Our analyses were based on generalized linear mixed models utilizing a Poisson distribution. Those living in the highest quintile of long-term PM2.5 exposure had risks of SARS-CoV-2 infections 20% higher and risks of COVID-19 mortality 51% higher, compared to those living in the lowest quintile of long-term PM2.5 exposure. Those living in the areas of highest long-term PM2.5 exposure were more likely to be Hispanic and more vulnerable, based on the Area Deprivation Index. The increased risks for SARS-CoV-2 Infections and COVID-19 mortality associated with highest long-term PM2.5 concentrations at the neighborhood-level in California were consistent with a growing body of literature from studies worldwide, and further highlight the importance of reducing levels of air pollution to protect public health.
+
+Keywords: Air pollution, SARS-Cov-2, COVID-19, Long-term exposure
+Go to:
+1. Introduction
+The United States has the most reported infections and deaths from severe acute respiratory distress syndrome due to coronavirus-2 (SARS-CoV-2) infection disease 2019 (COVID-19) in the world. California, the nation's most populous state, has the most infections and deaths of any state in the U.S., with approximately 8.5 million infections and 89,000 deaths as of 5/1/2022 (California Department of Public Health 2022). Among counties in the U.S., California has counties with some of the largest percentage of days exceeding national standards for particulate matter of aerodynamic diameter of 2.5 microns or less (PM2.5) (e.g. in 2020, Fresno County had 18.6% of days annually which were over the national standard for PM2.5)(‘National Environmental Public Health Tracking Network’ 2022). According to the California Air Resources Board, air monitoring data show that over 90% of Californians are breathing unhealthy concentrations of one or more pollutants during some part of the year, indicating that pollution concentrations continue to be an important public health concern (California Air Resources Board 2021b).
+
+Multiple studies in the U.S. and globally have investigated the association between long-term exposure to air pollution, primarily particulate matter (PM), and COVID-19 morbidity and mortality (Zang et al. 2022; Berg et al., 2021; Wu et al. 2020; Liang et al. 2020; Garcia et al. 2021; Cole, Ozgen, and Strobl 2020; Konstantinoudis et al. 2021; Coker et al. 2020). In one of the earliest studies in the U.S., the impact of long-term mean PM2.5 exposure on SARS-CoV-2 infections was investigated (Wu et al. 2020). The authors used areal counts of COVID-19 deaths and controlled for areal confounders in an ecological regression analysis. They found that an increase of 1 μg/m3 in long-term mean PM2.5 was associated with an 11% increase in a county's COVID-19 mortality rate. Most of the earlier studies done in the U.S. and worldwide were ecological in nature, and were the subject of a recent review by Marques and Domingo (Marques and Domingo 2022). The deficiencies in these studies, in addition to the risk of finding spurious relationships in ecological studies, have been highlighted by Villenueve and Goldberg (2020). These deficiencies include the lack of individual data and misclassification of exposure by assigning the same mean air pollution concentrations to large areas. Kogevinas et al. (2021) used individual level data in a cohort study in Spain and found that air pollution exposure was associated with level of antibody response and severity of COVID-19 disease (defined by hospital admission, positive diagnostic tests, or a combination of contact history and symptoms), but not serologically confirmed SARS-Cov-2 infection. Mendy et al. used individual data from University of Cincinnati hospitals and clinics and linked long-term PM2.5 exposure estimates to the ZIP code of residence (Mendy et al. 2021). They found a 62% higher risk of hospitalization in COVID-19 patients with 1 µg/m3 increment in 10-year mean PM2.5, but only in patients with pre-existing asthma or coronary obstructive pulmonary disease.
+
+In this study, we aim to address some of the limitations in the previous literature in a California dataset by using individual address-level data to analyze SARS-CoV-2 infection and COVID-19 death counts by age group and sex, and by assigning local high resolution pollution exposure values to census block groups to reduce exposure misclassification. We focused on fine particulate matter (PM2.5) as there are large differences in population exposure to PM2.5 by geographic region in California and because of the availability of geographically-detailed historically modeled concentrations of this pollutant. This is the first study to focus on California statewide using individual-level patient data and highly localized exposure estimates to investigate the effect of long-term PM2.5 exposure on both COVID-19 mortality and SARS-Cov-2 infections.
+
+Go to:
+2. Methods
+2.1. SARS-CoV-2 infection and COVID-19 death data
+We obtained individual SARS-CoV-2 infection data and COVID-19 death data for age, sex, date of diagnosis/death, and residential street address from the California Department of Public Health (CDPH) for all infections and deaths from February 21, 2020 through February 21, 2021, resulting in a total of 3,508,518 infections and 49,691 deaths. The time period was chosen because there were very few cases reported before 2/21/20, and was ended by 2/21/21 to reduce the probability of widespread availability of vaccination confounding the study results and to diminish the effects of emerging variants. The addresses of the infections and deaths were geocoded and aggregated by census block group. Infections and deaths are those reported to the CDPH California Reportable Disease Information Exchange (CalREDIE) surveillance system by local health departments. Infections are reported based on positive SARS-CoV-2 tests, which may have been dependent on local testing rates. The data file received from CDPH's CalREDIE contained 3,560,222 records; this included all records from the onset of the pandemic through February 21, 2021. There were 231,164 records (6.5%) that were not geocoded. We reprocessed any ungeocoded records by manually editing any special characters in the address; compiling addresses that occurred in multiple frequencies; manually searching for and correcting batch addresses using multiple matching variables from the dataset; and re-geocoding records using corrected addresses. Using this process, we were able to assign geographic coordinates to an additional 179,460 records. In total, 98.5% of records (n=3,508,518) were successfully geocoded.
+
+Once corrected addresses were re-geocoded, final data exclusions were made. We excluded records if they were missing information on sex (n=53,058), age (n=2,923), geocoded address (n=51,704), or if cases were coded as ‘probable’ (n=113,611), as there was no description as to how ‘probable’ was defined. In addition, 164 cases were geocoded, but could not be assigned to a California block group. Finally, we limited the data to a single year of cases and excluded any records with a date of diagnosis occurring before or after February 21, 2020 through February 21, 2021.
+
+The State of California Health and Human Services Agency Committee for the Protection of Human Subjects approved the project following IRB approvals from the researchers’ respective institutions (University of California San Francisco, Public Health Institute).
+
+2.2. Particulate matter and temperature data
+We obtained modeled PM2.5 concentration data from the Washington University Atmospheric Concentration Analysis Group at a 1 km-1 km grid resolution (Atmospheric Composition Analysis Group 2021; van Donkelaar et al. 2019). These surfaces use a chemical transport model and satellite observations combined with ground-based observations to model PM2.5 concentrations with high accuracy and detail. For the period 2000-2016, average cross-validated agreement after statistical fusion of the model over North America for total PM2.5 mass (derived vs. in situ) was R2=0.7 (van Donkelaar et al. 2019). As mentioned above, the COVID-19 morbidity and mortality data are from 2020-2021. As for this study we wanted to characterize previous long-term exposure to PM2.5, we used the mean concentrations from the model for 2000-2018 (modeled data available). We averaged PM2.5 grid values across years of modeled data (2000-2018) and aggregated this output to block groups using an area-weighted mean. The year 2018 was the most recent year of validated model data available. We assigned all census block groups to one of 15 California air basins defined by the California Air Resources Board according to their similar meteorological and geographic conditions (California Air Resources Board 2021a). As air temperature could be a possible confounder between COVID-19 transmission and air pollution exposure, and for consistency with previous investigations on COVID-19 and air pollution that included temperature as a potential confounder (Berg, et al. 2021; Wu et al. 2020), we allocated 4km- 4km gridded meteorological surfaces for daily mean summer temperature (degrees Celsius) to block groups (modeled data were averaged when a block group intersected with multiple grids) (Abatzoglou 2013). The data cover 100% of California's populated block groups.
+
+2.3. Demographic and health data
+We obtained population estimates by age and sex at the census block group level from the U.S. Census Bureau 2015-19 American Community Survey (United States Census Bureau). Block groups are subdivisions of census tracts and generally represent neighborhoods with between 600 and 3000 people. We obtained information on the percentage of the population of each block group for the following categories: Hispanic, non-Hispanic Black, and Non-Hispanic Asian. We used data on population density as measured by population per square mile.
+
+For a block-group level socioeconomic measure we used the Area Deprivation Index (ADI) which is based on census data from the American Community Survey from 2015-2019 (Kind and Buckingham 2018; University of Wisconsin School of Medicine Public and Health 2019) .The ADI incorporates 17 factors at the block group level, including education, median family income, income disparity, families below poverty level, unemployment, and household crowding. The ADI was computed into statewide deciles, 1-10, where 1 represents the least disadvantaged neighborhoods and 10 the most disadvantaged neighborhoods.
+
+Comorbidity information was drawn from California's Office of Statewide Health Planning and Development (OSHPD) hospital discharge database (Office of Statewide Health Planning and Development 2022) for hospitalizations in 2017-2019 with any ICD-10 code diagnosis of asthma, chronic obstructive pulmonary disease (COPD), heart failure, coronary artery disease, or cardiomyopathy. Prevalence estimates for adult obesity, diabetes, and smoking were obtained from the 2018 California Health Interview Survey (CHIS)(California Health Interview Survey 2018). We aggregated these data by ZIP code, calculated age-adjusted rates per 10,000, adjusted to the 2000 U.S. census standard population (Centers for Disease Control and Prevention 2001) for each risk factor independently, and assigned them to census block groups using the U.S. Department of Housing and Urban Development's ZIP code-to-census tract crosswalk file (Office of Policy Development and Research 2012). The observed ZIP code prevalence or rate was assigned equally to all block groups associated with that respective ZIP code. Hospitalization rates were suppressed for a ZIP code when counts were <12. CHIS ZIP code level prevalence estimates were suppressed when the ZIP code population was less than 1,000 or the estimate was unstable based on a coefficient of variance ≥0.30.
+
+Due to numerous large COVID-19 outbreaks among incarcerated populations, we excluded 275 block groups with a prison, jail, or detention center. We excluded an additional 1,392 block groups that were missing information for any of the covariates which included population percentages by race/ethnicity, ADI, summer temperature, obesity, diabetes, smoking, and hospitalization rates for asthma, chronic obstructive pulmonary disease (COPD), heart failure, coronary artery disease, and cardiomyopathy. Deaths from those under age 20 (N=73) were excluded in our primary analyses. The final number of block groups included in our analyses was 21,545 which was 93% of the total block groups (N=23,212) in California.
+
+2.4. Statistical methods
+To leverage the combination of individual-level age, gender, and home address data, census block group PM2.5 modeled concentrations, we employed a mixed effects Poisson multivariable modeling approach (Zou 2004). This model, which contains both fixed and random effects, was used to estimate risk of SARS-CoV-2 infections and COVID-19 deaths with long-term PM2.5 exposure. All models included a random intercept for block group to account for correlation of the responses across age and sex groups within the block group and to account for overdispersion. The outcome variables in each block group were counts by sex and 5-year age-group of SARS-CoV-2 infections and COVID-19 deaths. To account for the denominator we used an offset term of the log of the sex and age group population estimates for that block group. The primary predictor variable in each model was the estimated PM2.5 exposure measured at the block group level. We modeled this both as a continuous linear predictor and by categorical quintiles for the primary result. We report risk ratios and 95% confidence intervals (CI) per additional 1 μg/m3 of PM2.5 (for the linear model) and for each quintile compared to the lowest quintile (for the categorical model). Covariates at the block group level included percent population Hispanic, non-Hispanic Black, and Asian, Area Deprivation Index decile, log-transformed population density, and mean summer temperature. Additional models were run controlling for block-group level measures of the eight comorbidities described above. Using a negative binomial distribution did not result in improved fit and did not attenuate model parameters of PM2.5 (estimates were same or slightly larger) (not shown). To address residual spatial autocorrelation, we employed a range of approaches. We included air basins in the model, however due to the small number of events in less-populated areas, some adjacent air basins were combined as necessary (e.g., Lake Tahoe and Mountain Counties air basins were combined). Other approaches to adjusting for spatial autocorrelation included the addition of either census tract or county-level effects to the model. All models were run using the glimmix procedure in SAS version 9.4.
+
+Go to:
+3. Results
+3,139,804 SARS-CoV-2 infections and 49,691 COVID-19 deaths were included in this analysis (Table 1 ). Among the infections, there were slightly more females than males, although the opposite was observed for deaths, where males were the majority. Those under age 40 years comprised 56% of the infections but only 3% of deaths. Those aged 60 years and older made up only 16% of the total infections but 83% of total deaths. South Coast air basin residents comprised over 53% of the infections and 59% of COVID-19 deaths (Table 2 ). Residents in the more economically deprived areas of the state, based on the ADI, comprised higher proportions of infections and deaths than their percentage in the population (Table 2).
+
+Table 1
+Distribution of SARS-CoV-2 infections, COVID-19 deaths and population, California, February 2020 – February 2021.
+
+POPULATION GROUP	INFECTIONS	DEATHS	POPULATION ESTIMATE
+N	%	N	%	N	%
+TOTAL	3,139,804		49,691		36,792,302	
+BY AGE GROUP IN YEARS:
+ <20	518,739	17%	73	0%	9,470,527	26%
+ 20-29	644,098	21%	327	1%	5,340,891	15%
+ 30-39	558,278	18%	890	2%	5,203,110	14%
+ 40-49	481,492	15%	2,071	4%	4,797,227	13%
+ 50-59	436,777	14%	4,994	10%	4,716,174	13%
+ 60-69	277,183	9%	9,487	19%	3,811,427	10%
+ 70-79	131,474	4%	11,600	23%	2,152,015	6%
+ 80+	91,763	3%	20,249	41%	1,300,931	4%
+BY SEX:
+ FEMALE	1,650,088	53%	21,052	42%	18,614,859	51%
+ MALE	1,489,716	47%	28,639	58%	18,177,443	49%
+Open in a separate window
+Table 2
+Distribution of SARS-CoV-2 infections, COVID-19 deaths and population by characteristics assigned by census block groups, California, February 2020 – February 2021.
+
+Infections	Deaths	Population
+N	%	N	%	N	%
+Air basin
+ Great Basin Valley	1,625	0.1%	21	0.0%	20,948	0.1%
+ Lake County	2,538	0.1%	28	0.1%	54,203	0.1%
+ Lake Tahoe	2,294	0.1%	6	0.0%	34,665	0.1%
+ Mojave Desert	112,148	3.6%	1,334	2.7%	968,914	2.6%
+ Mountain Counties	11,441	0.4%	186	0.4%	288,750	0.8%
+ North Central Coast	56,120	1.8%	541	1.1%	723,432	2.0%
+ North Coast	7,822	0.2%	89	0.2%	236,815	0.6%
+ Northeast Plateau	1,675	0.1%	4	0.0%	33,588	0.1%
+ Sacramento Valley	155,015	4.9%	2,351	4.7%	2,661,006	7.2%
+ Salton Sea	67,205	2.1%	1,335	2.7%	582,010	1.6%
+ San Diego County	226,868	7.2%	2,890	5.8%	3,028,002	8.2%
+ San Francisco Bay	356,497	11.4%	4,669	9.4%	6,993,131	19.0%
+ San Joaquin Valley	359,133	11.4%	5,623	11.3%	3,881,421	10.5%
+ South Central Coast	114,171	3.6%	1,419	2.9%	1,453,231	3.9%
+ South Coast	1,665,252	53.0%	29,195	58.8%	15,832,186	43.0%
+Area Deprivation Index decile
+ Least deprived 1	86215	3%	1594	3%	2835582	8%
+ 2	157422	5%	2972	6%	3562476	10%
+ 3	200869	6%	3493	7%	3559179	10%
+ 4	272693	9%	4817	10%	3649276	10%
+ 5	345687	11%	5753	12%	3941132	11%
+ 6	396039	13%	6299	13%	3943297	11%
+ 7	454488	14%	6568	13%	3964592	11%
+ 8	449301	14%	6388	13%	3969987	11%
+ 9	403962	13%	5667	11%	3825716	10%
+ Most deprived 10	373128	12%	6140	12%	3541065	10%
+Percent Population Hispanic
+ >58%	1401393	45%	20106	40%	10197116	28%
+ 30-58%	910176	29%	14169	29%	9982257	27%
+ 13-29%	529866	17%	9558	19%	9041521	25%
+ <13%	298369	10%	5858	12%	7571408	21%
+Percent Population non-Hispanic Black
+ >6%	962003	31%	14847	30%	10002825	27%
+ 1.7-6%	855767	27%	13966	28%	10062627	27%
+ 1-1.6%	591980	19%	9973	20%	7479861	20%
+ <1%	730054	23%	10905	22%	9246989	25%
+Percent Population non-Hispanic Asian
+ >17%	666643	21%	12051	24%	10273530	28%
+ 7-17%	794848	25%	12867	26%	9736364	26%
+ 2-6%	809933	26%	12213	25%	8910404	24%
+ <2%	842491	27%	12175	25%	7585481	21%
+Open in a separate window
+The long-term modeled mean PM2.5 at the block group level in California for the years 2000 through 2018 was 12.0 μg/m3 with a range of 2.2 μg/m3 to 18.8 μg/m3 and an interquartile range of 5.3 μg/m3. Figure 1 shows a map of California with the long-term (2000-2018) mean estimates of PM2.5 at the block group with the air basins outlined. The mean estimated concentrations of PM2.5 varied greatly among the 15 air basins (Figure 2 ). The heavily populated South Coast air basin, which includes Los Angeles, had the highest mean value of 15.2 μg/m3. The lowest median concentrations were seen in the less populated northern parts of the State with the lowest in the Lake County air basin at 4.9 μg/m3. This area is predominantly rural and has lower PM2.5 compared to the South Coast region due to low population density and as a result, less traffic and transportation sources. On average, the neighborhoods with the highest concentrations of PM2.5 (based on statewide quintiles) had a much higher proportion of the population that is Hispanic (59%) compared to the neighborhoods with the lowest concentrations (21%). The neighborhoods with the highest proportions of Hispanic residents are concentrated in the highly urban areas of the South Coast air basin and in the San Joaquin Valley air basin, areas with high concentrations of PM2.5 pollution. There are also some disparities for the ADI, which was 6.5 on average in areas with the highest PM2.5 compared to 4.7 in the lowest PM2.5 areas.
+
+Fig. 1
+Fig. 1
+Long-term (2000-2018) mean estimates of PM2.5 at the census block group level.
+
+Fig. 2
+Fig. 2.
+Mean PM2.5 (2000-2018) and Interquartile Range by Air Basin, California.
+
+The areas of the State with the highest quartile of percentage Hispanic population had a long-term PM2.5 mean of 14.7 μg/m3, compared to 10.7 μg/m3 in the areas with the lowest quartile of percentage Hispanic population. In areas with larger percentage non-Hispanic Black population, the comparison of long-term PM2.5 means in the highest to lowest quartiles was 13.2 to 12.1 μg/m3. The most vulnerable areas (the top decile of the ADI) had a long-term mean of 13.3 μg/m3 compared to a mean of 10.9 μg/m3 in the least vulnerable areas of the State (bottom decile).
+
+We examined risk estimates for SARS-CoV-2 infections and COVID-19 deaths for the key covariates of interest, only adjusted for age group and sex (Table 3 ). As observed in prior studies, risks of COVID-19 morbidity and mortality were highest in the neighborhoods with the highest percentage of Hispanic and non-Hispanic Black populations, and in those with greater measures of deprivation. Areas with high non-Hispanic Asian populations had lower risks than areas with high percentages of Hispanics and non-Hispanic Black populations. Areas with the highest population density (> 12,055 people per square mile) and highest mean summer air temperatures (≥24.7 C°) had higher risks of morbidity and mortality (e.g. highest population density vs. lowest < 3,233 people per square mile) was 1.40 and highest mean summer air temperatures vs. lowest (<21.0 C°) was 2.31 (Table 3). Places with higher obesity, smoking, and diabetes prevalence, and higher chronic obstructive pulmonary disease hospitalization rates, had higher infection and death risks as well (data not shown).
+
+Table 3
+Risk estimates for SARS-CoV-2 infections and COVID-19 deaths for selected covariates, only adjusted for age group and sex.
+
+INFECTIONS	DEATHS
+Air basin	Risk Estimate (95% CI)	Risk Estimate (95% CI)
+Great Basin and Mojave Desert	2.29 (2.16, 2.43)	2.59 (2.31, 2.90)
+Lake County	1.06 (0.87, 1.29)	0.63 (0.38, 1.05)
+North Coast, North Plateau, Lake Tahoe, Mountains	0.87 (0.82, 0.93)	0.52 (0.44, 0.61)
+North and South Central Coast	1.48 (1.42,1.54)	1.41 (1.29, 1.53)
+Sacramento Valley and San Joaquin Valley	1.78 (1.73, 1.83)	2.21 (2.09, 2.35)
+Salton Sea	2.51 (2.33, 2.70)	3.12 (2.74, 3.56)
+San Diego County	1.57 (1.52, 1.63)	1.62 (1.50, 1.75)
+San Francisco Bay	1.0	1.0
+South Coast	2.21 (2.16, 2.27)	3.15 (2.99, 3.31)
+Percent Population Hispanic, quartiles
+ 1 Highest quartile (≥58%)	3.78 (3.71, 3.86)	5.66 (5.40, 5.93)
+ 2 (30-57%)	2.35 (2.31, 2.40)	2.86 (2.73, 3.00)
+ 3 (13-29%)	1.48 (1.45, 1.51)	1.61 (1.53, 1.69)
+ 4 Lowest quartile (<13%)	1.0	1.0
+Percent Population non-Hispanic black, quartiles
+ 1 Highest quartile (≥6%)	1.36 (1.33, 1.40)	1.62 (1.55, 1.70)
+ 2 (3-5%)	1.16 (1.13, 1.19)	1.26 (1.20, 1.32)
+ 3 (1-2%)	1.06 (1.03, 1.09)	1.11 (1.06, 1.17)
+ 4 Lowest quartile (<1%)	1.0	1.0
+Percent Population non-Hispanic Asian quartiles
+ 1 Highest quartile (≥18%)	0.60 (0.58, 0.61)	0.56 (0.53, 0.59)
+ 2 (7-17%)	0.75 (0.73, 0.77)	0.69 (0.66, 0.72)
+ 3 (2-6%)	0.82 (0.80, 0.84)	0.71 (0.68, 0.75)
+ 4 Lowest quartile (<2%)	1.0	1.0
+Area Deprivation Index decile
+1 Least deprived	1.0	1.0
+2	1.40 (1.35, 1.45)	1.52 (1.38, 1.66)
+3	1.78 (1.72, 1.85)	1.94 (1.77, 2.12)
+4	2.38 (2.30, 2.46)	2.73 (2.50, 2.98)
+5	2.75 (2.66, 2.85)	3.43 (3.15, 3.74)
+6	3.22 (3.11, 3.34)	4.02 (3.69, 4.38)
+7	3.65 (3.52, 3.78)	4.73 (4.34, 5.15)
+8	3.52 (3.40, 3.65)	4.81 (4.41, 5.23)
+9	3.22 (3.11, 3.33)	4.10 (3.76, 4.46)
+10 Most deprived	3.37 (3.26, 3.49)	5.07 (4.66, 5.53)
+Population density quartile (people square mile)
+Highest 1 (≥12,055)	1.40 (1.36, 1.44)	2.48 (2.36, 2.60)
+2 (7,000-12,054)	1.24 (1.21, 1.28)	1.71 (1.63, 1.80)
+3 (3,233-6,999)	1.15 (1.12, 1.18)	1.38 (1.31, 1.45)
+Lowest 4 (< 3,233)	1.0	1.0
+Mean Summer air temperature quartiles (degrees C)
+Highest 1 (≥24.7 C°)	2.31 (2.26, 2.37)	2.91 (2.77, 3.07)
+2 (23.2- 24.6 C°)	1.87 (1.83, 1.92)	2.42 (2.30, 2.55)
+3 (21.0 - 23.1C°)	1.62 (1.59, 1.66)	2.05 (1.95, 2.16)
+Lowest 4 (<21.0 C°)	1.0	1.0
+Open in a separate window
+The estimated risk statewide for SARS-CoV-2 infections associated with a 1 μg/m3 increase in the PM2.5 long-term exposure (2000-2018) was 1.039 (95% CI 1.035, 1.043) in the model adjusted for the main covariates, which included age group, percent population Hispanic, percent population non-Hispanic Black, percent population non-Hispanic Asian, air basin, population density, mean summer temperature and ADI (Table 4 ). When the model also included the comorbidities (obesity, smoking, diabetes, asthma, and heart diseases), the risk was slightly attenuated but still statistically significant at 1.036 (95% CI 1.032, 1.040). The risk estimate for infections was 1.21 per interquartile range (IQR) (not shown). We re-ran the models using death counts by age group and sex. In the model adjusted for the main covariates the estimated risk of death for the PM2.5 long-term exposure was 1.041 per 1 μg/m3 (95% CI 1.029, 1.052) (Table 4). When the additional comorbidity conditions were added into the model the risk was similar at 1.038 (95% CI 1.027, 1.050); this mortality risk estimate translates to 1.22 per IQR.
+
+Table 4
+Risks estimates for long-term mean PM2.5 concentrations (2000-2018) and SARS-CoV-2 infections and COVID-19 deaths, California, February 2020 – February 2021.
+
+Model: adjusted for main covariates*	Model: adjusted for main covariates* and comorbidities**
+Risk (95% CI)	Risk (95% CI)
+INFECTIONS
+Per one unit, continuous	1.039 (1.035, 1.043)	1.036 (1.032, 1.040)
+PM2.5 quintiles
+ PM2.5 16.2-18.8 μg/m3 (highest quintile)	1.27 (1.23, 1.31)	1.20 (1.17, 1.24)
+ PM2.5 14.0-16.2 μg/m3	1.31 (1.27, 1.35)	1.23 (1.20, 1.27)
+ PM2.5 11.2-14.0 μg/m3	1.19 (1.16, 1.22)	1.16 (1.14, 1.19)
+ PM2.5 9.9-11.2 μg/m3	1.13 (1.11, 1.16)	1.13 (1.11, 1.15)
+ PM2.5 <9.9 μg/m3 (lowest quintile)	1.00 (ref)	1.00 (ref)
+DEATHS
+Per one unit, continuous	1.041 (1.029, 1.052)	1.038 (1.027, 1.050)
+PM2.5 quintiles
+ PM2.5 16.2-18.8 μg/m3 (highest quintile)	1.56 (1.43, 1.71)	1.51 (1.38, 1.65)
+ PM2.5 14.0-16.2 μg/m3	1.59 (1.47, 1.72)	1.50 (1.38, 1.63)
+ PM2.5 11.2-14.0 μg/m3	1.32 (1.23, 1.42)	1.30 (1.21, 1.39)
+ PM2.5 9.9-11.2 μg/m3	1.18 (1.11, 1.25)	1.16 (1.09, 1.24)
+ PM2.5 <9.9 μg/m3 (lowest quintile)	1.00 (ref)	1.00 (ref)
+Open in a separate window
+Adjusted for age group, sex, percent Hispanic, percent non-Hispanic Black, percent non-Hispanic Asian, air basin, population density, mean summer temperature, and ADI state ranked deciles. Death analysis excluded age < 20 years.
+
+**Comorbidities (n=8) from CHIS including: obesity, smoking, diabetes, and hospitalizations from OSHPD including: asthma, coronary artery disease, cardiomyopathy, COPD, and heart failure.
+
+We subsequently calculated risks for PM2.5 long-term exposure by statewide quintiles (Table 4). The areas with PM2.5 means in the highest and second highest quintile were only found in the South Coast and San Joaquin Valley air basins. In models adjusted for the main covariates previously described, the risk estimate for SARS-CoV-2 infections in the highest quintile of PM2.5 compared to the lowest quintile of PM2.5 was 1.27 (95% CI 1.23, 1.31). When the comorbidities were added to the model the risk estimate was 1.20 (95% CI 1.17, 1.24). For deaths, the risk estimate was higher than for infections at 1.56 (95% 1.43, 1.71) when adjusted for the main covariates. When the comorbidities were included in the model, the risk estimate for deaths was 1.51 (95% CI 1.38, 1.65) for the highest quintile compared to the lowest. The COVID-19 morbidity and mortality risk estimates for PM2.5 were similar across ADI levels (Supplemental Table 1). All analyses were repeated with just the most recent available year (2018) of statewide PM2.5 modeled data, and the results did not differ from those using the long-term means (data not shown).
+
+Go to:
+4. Discussion and conclusion
+In this study we found that those living in the highest quintile of long-term PM2.5 exposure in California (16.2-18.8 μg/m3) had risks of SARS-CoV-2 infections 20% higher and risk of COVID-19 mortality 51% higher, than those living in the lowest quintile of long-term PM2.5 exposure, after adjusting for covariates including comorbidities. Each 1 μg/m3 of long-term PM2.5 exposure was associated with a 4% increase in SARS-CoV-2 infection risk and COVID-19 mortality risk, after adjustment for covariates.
+
+This is the first large population-based study to assess the relationship between long-term mean PM2.5 air pollution concentrations and COVID-19 infections and mortality at a local geographic resolution of neighborhood (block group) with individual counts by age and sex for both infections and deaths. This statewide analysis included over 3 million SARS-CoV-2 infections and almost 50,000 COVID-19 deaths in a geographically and ethnically diverse population of 36 million people. The statewide scope of our study provided an opportunity to evaluate the COVID-19 and PM2.5 relationship across a broad range of exposure concentrations, including the counties in the U.S. with the highest mean PM concentrations (American Lung Association 2021). A strength of our study is that it is unique among those published to date in our ability to assess the relationship between PM2.5 concentrations at a small neighborhood scale with individual infection information on SARS-CoV-2 infections. Risk associations for mortality were higher than those for infections.
+
+There are now over 20 ecologic studies that have examined the relationship between PM2.5 and COVID-19 mortality, half of which have been conducted in the United States. Early in the pandemic Wu et al. conducted an ecological regression analysis based on data at the county level in the United States (Wu et al. 2020). They found that an increase of 1 μg/m3 in the long-term mean of PM2.5 was associated with a statistically significant 11% (95% CI, 6 - 17%) increase in the COVID-19 mortality rate. Similarly, an early ecologic study conducted in Italy found that an increase of 1 μg/m3 in the long-term mean PM2.5 concentration (µg/m3) was associated with a 9% (95% CI: 6–12%) increase in COVID-19 related mortality (Coker et al. 2020). Additional analyses have similarly reported increases in COVID-19 mortality associated with PM2.5, including studies conducted in the United States (Berg et al., 2021; Garcia et al. 2021; Liang et al. 2020; Kim and Bell 2021) and internationally (Konstantinoudis et al. 2021; Cole, Ozgen, and Strobl 2020; Yao et al. 2020; Dales et al. 2021; Valdes Salgado et al. 2021; Tian et al. 2021; Rodriguez-Villamizar et al. 2021; Elliott et al. 2021; Bray, Gibson, and White 2020; Tchicaya et al. 2021; Dettori et al. 2021; Lopez-Feldman, et al. 2021), as well as a recent meta-analysis (Zang et al. 2022). Only a few studies have reported no association (Millett et al. 2020; Adhikari and Yin 2020; Rodriguez-Villamizar et al. 2021; Elliott et al. 2021; Kim and Bell 2021). In California, Garcia et al. analyzed COVID-19 mortality at the census tract level during the first year of the pandemic, and found an adjusted rate ratio of 1.13 per standard deviation increase for PM2.5 during the spring and summer months and an adjusted rate ratio of 1.06 per standard deviation increase during the winter (Garcia et al. 2021). Our study found a somewhat lower increase of 4%, but our findings are overall consistent with the other studies, and the greater geographic precision of our analysis and more comprehensive analysis of covariates may have generated a more reliable estimate.
+
+Ambient air pollution exposures are known to have many adverse human health effects, including respiratory and cardiovascular disease, adverse reproductive outcomes, neurologic disease, and premature death (Guarnieri and Balmes 2014; An et al. 2018; Klepac et al. 2018; Calderon-Garciduenas et al. 2016). Approximately 140,000 total deaths per year were attributable to total outdoor air pollution exposure in the U.S. from 2000 to 2010 (Lelieveld et al. 2015). There is evidence for both short and long-term exposure of air pollution to increase SARS-CoV-2 infections (transmission) as well as COVID-19 severity and mortality (Ali et al. 2021; Woodby, Arnold, and Valacchi 2021). Chronic exposure to air pollution results in increases in all-cause, cardiovascular, and influenza mortality (Jiang, Mei, and Feng 2016; Pope et al. 2004). Air pollution induces oxidative stress and inflammation which damage the airway epithelium and can lead to both acute and chronic effects on obstructive airway diseases (Wong, Magun, and Wood 2016). Chronic air pollution exposure may also increase respiratory disease severity by increasing the prevalence of comorbidities associated with higher mortality and adversely affecting immune responses (Yan et al., 2020; Tsai et al., 2019; Ciencewicki and Jaspers, 2007).
+
+There also is increasing evidence that air pollution exposure increases the severity and transmission of viral respiratory disease. In a recent review, Domingo and Rovira (2020) conclude that there is evidence to support an association between chronic exposure to air pollution and adverse effects on the respiratory system leading to increased severity of respiratory viral infections.
+
+We had information on eight potentially important comorbidities at the neighborhood level, including obesity and diabetes prevalence as well as hospitalization rates for asthma and COPD. However, we found little change in our risk estimates when controlling for these comorbidities. This suggests that comorbidities may not act as an intervening variable between long-term PM2.5 exposure and COVID-19 morbidity and mortality risk. Alternatively, the lack of change in risk estimates may reflect our inability to control for these comorbidities at an individual level.
+
+There are several limitations to note with the type of ecologic analysis used in the present study. Although we had individual information on the age, sex, and address of every infection and death, we used census-based neighborhood-level population estimates and measures of demographic factors. Although we received what is considered a complete dataset, misreporting and/or delayed reporting of cases by local health departments could have affected the interpretation of our results, in particular if such misreporting was correlated with our study's explanatory variables. The data we received from the State health department on race/ethnicity was incomplete for 23% of individuals so we could not use it. The data on hospitalizations and ICU use was over 50% incomplete and we were not able to classify severity of infections. Although we had information on neighborhood socioeconomic conditions and we had neighborhood-level information on many comorbidities such as obesity, diabetes, heart disease, and asthma, there is the possibility of residual confounding. We could not adjust for different masking requirements, SARS-CoV-2 testing rates, percent of the population that was essential workers, or different mobility patterns during lock downs. Further, we had no information on residential history, so our exposure assessment is likely to be subject to random misclassification, which likely results in an underestimate of our risk estimates.
+
+We focused on long-term PM2.5 concentrations and did not factor in the possible effects of short-term and contemporaneous air pollution spikes caused by wildfires. In a recent study, Yu et al., using individual-level data, found that short-term air pollution exposure was associated with SARS-CoV-2 infections in Sweden (Yu et al. 2022).
+
+Although we used a small geographic area of block group as a neighborhood level-proxy and we controlled for air basin, there is the possibility of remaining spatial correlation that may not be accounted for. We attempted to adjust for spatial autocorrelation by using the latitude and longitude of the block group centroids using explicit distance-based spatial autocorrelation functions. However, due to the very large size of the dataset with over 21,000 block groups each with 36 sex/age group strata, we were unable to include this in the model due to computational limitations. Other spatial adjustments, such as for county, yielded similar results. Most of the effect of spatial autocorrelation is likely to be on the confidence intervals, not on the effect estimates. Finally, our analysis was limited to PM2.5, and some recent reports have implicated elevated risks from other air pollutants such as NO2 (Zang et al. 2022; Liang et al. 2020; Chen et al. 2021; Lipsitt et al. 2021).
+
+Estimates of COVID-19 risks per unit of PM2.5 appeared to be relatively constant when stratified by air basin, ADI, and largely Hispanic or Black neighborhoods. The larger effects, however, for Hispanic and Black populations, and residents of areas characterized by a higher Area Deprivation Index, reflect the higher concentrations of PM2.5 in these neighborhoods and suggest that the impact of air pollution may play a role above and beyond other factors influencing health challenges for these populations. In a national study of counties defined as Latino, Rodriguez-Diaz reported 20% higher COVID-19 mortality in counties at the highest quartile of PM2.5 (Rodriguez-Diaz et al. 2020). It is known that air pollution exposures disproportionately impact persons of color and disadvantaged populations (Tessum et al. 2021; Mehta et al. 2021; Pastor, Morello-Frosch, and Sadd 2005). Nationwide, people of color are three times more likely to live in areas with high air pollution concentrations compared to whites (American Lung Association 2021).
+
+California is home to the highest concentrations of air pollution in the nation (American Lung Association 2021). The U.S. National Ambient Air Quality Standard for annual mean PM2.5 is currently set at 12.0 μg/m3 (United States Environmental Protection Agency 2021). In 2018, the estimated mean concentration in California was 12.1 μg/m3 and 22 million Californians (59%) lived in areas that exceeded the national air quality standard. If all areas of California had long-term PM2.5 concentrations below 12.0 μg/m3, the current U.S. annual air quality standard, based on population attributable risk approximately 4,250 deaths from COVID-19 (8.5% of all deaths) might have been prevented during the time period of our study (see supplement Table 2). With the growing evidence from studies worldwide that suggest there is additional risk of COVID-19 morbidity and mortality associated with air pollution, reducing concentrations of air contaminants is now even more critical to protecting public health.
+
+Go to:
+Declaration of Competing Interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Go to:
+Acknowledgments
+The California Department of Public Health (CDPH) provided the data on SARS-CoV-2 infections and COVID-19 deaths. The authors want to acknowledge the assistance of David Chang, Tracking California, for efforts screening data sources. Funding support was from the California Air Resources Board contract #19RD029, and the National Environmental Public Health Tracking Program, Centers for Disease Control and Prevention (CDC), 5 NUE1EH001343-05-00. The statements and conclusions in this manuscript are those of the authors and do not necessarily represent those of the California Air Resources Board, the CDC, or the CDPH.
+
+Go to:
+Footnotes
+Supplementary material associated with this article can be found, in the online version, at doi:10.1016/j.envadv.2022.100270.
+
+Go to:
+Appendix. Supplementary materials
+Click here to view.(32K, docx)Image, application 1
+Go to:
+References
+Abatzoglou J.T. Development of gridded surface meteorological data for ecological applications and modelling. Int. J. Climatol. 2013;33:121–131. [Google Scholar]
+Adhikari A., Yin J. Short-Term Effects of Ambient Ozone, PM2.5, and Meteorological Factors on COVID-19 Confirmed Cases and Deaths in Queens, New York. Int. J. Environ. Res. Public Health. 2020:17. [PMC free article] [PubMed] [Google Scholar]
+Ali N., Fariha K.A., Islam F., Mishu M.A., Mohanto N.C., Hosen M.J., Hossain K. Exposure to air pollution and COVID-19 severity: a review of current insights, management, and challenges. Integr. Environ. Assess. Manag. 2021;17:1114–1122. [PMC free article] [PubMed] [Google Scholar]
+American Lung Association. 2021. “State of the Air.” https://www.lung.org/research/sota/key-findings/most-polluted-places.
+An Z., Jin Y., Li J., Li W., Wu W. Impact of Particulate Air Pollution on Cardiovascular Health. Curr. Allergy Asthma Rep. 2018;18:15. [PubMed] [Google Scholar]
+Atmospheric Composition Analysis Group . Washington University; 2021. Surface PM2.5.https://sites.wustl.edu/acag/datasets/surface-pm2-5/ [Google Scholar]
+Berg K., Present P.R., Richardson K. Long-term air pollution and other risk factors associated with COVID-19 at the census tract level in Colorado. Environ. Pollut. 2021;287 [PMC free article] [PubMed] [Google Scholar]
+Bray I., Gibson A., White J. Coronavirus disease 2019 mortality: a multivariate ecological analysis in relation to ethnicity, population density, obesity, deprivation and pollution. Public Health. 2020;185:261–263. [PMC free article] [PubMed] [Google Scholar]
+Calderon-Garciduenas L., Leray E., Heydarpour P., Torres-Jardon R., Reis J. Air pollution, a rising environmental risk factor for cognition, neuroinflammation and neurodegeneration: the clinical impact on children and beyond. Rev. Neurol. (Paris) 2016;172:69–80. [PubMed] [Google Scholar]
+California Air Resources Board . Health and Air Pollution. California Environmental Protection Agency; 2021. California Air Basin Map.https://www.arb.ca.gov/ei/maps/2017statemap/abmap.htm [Google Scholar]
+California Department of Public Health. 2022. ‘Tracking COVID-19 in California ’, Accessed accessed April 25, 2022. https://covid19.ca.gov/state-dashboard/.
+California Health Interview Survey . UCLA Center for Health Policy Research; 2018. AskCHIS NE Neighborhood Edition.https://healthpolicy.ucla.edu/Pages/AskCHIS.aspx [Google Scholar]
+Centers for Disease Control and Prevention. 2001. "Age Adjustment Using the 2000 Projected U.S. Population." In. Hyattsville, Maryland: National Center for Health Statistics. [PubMed]
+Chen Z., Huang B.Z., Sidell M.A., Chow T., Eckel S.P., Pavlovic N., Martinez M.P., Lurmann F., Thomas D.C., Gilliland F.D., Xiang A.H. Near-roadway air pollution associated with COVID-19 severity and mortality - Multiethnic cohort study in Southern California. Environ. Int. 2021;157 [PMC free article] [PubMed] [Google Scholar]
+Ciencewicki J., Jaspers I. Air pollution and respiratory viral infection. Inhal. Toxicol. 2007;19:1135–1146. [PubMed] [Google Scholar]
+Coker E.S., Cavalli L., Fabrizi E., Guastella G., Lippo E., Parisi M.L., Pontarollo N., Rizzati M., Varacca A., Vergalli S. The Effects of Air Pollution on COVID-19 Related Mortality in Northern Italy. Environ. Resour. Econ. (Dordr.) 2020:1–24. [PMC free article] [PubMed] [Google Scholar]
+Cole M.A., Ozgen C., Strobl E. Air Pollution Exposure and Covid-19 in Dutch Municipalities. Environ. Resour. Econ. (Dordr.) 2020:1–30. [PMC free article] [PubMed] [Google Scholar]
+Dales R., Blanco-Vidal C., Romero-Meza R., Schoen S., Lukina A., Cakmak S. The association between air pollution and COVID-19 related mortality in Santiago, Chile: a daily time series analysis. Environ. Res. 2021;198 [PMC free article] [PubMed] [Google Scholar]
+Dettori M., Deiana G., Balletto G., Borruso G., Murgante B., Arghittu A., Azara A., Castiglia P. Air pollutants and risk of death due to COVID-19 in Italy. Environ. Res. 2021;192 [PMC free article] [PubMed] [Google Scholar]
+Domingo J.L., Rovira J. Effects of air pollutants on the transmission and severity of respiratory viral infections. Environ. Res. 2020:187. [PMC free article] [PubMed] [Google Scholar]
+Elliott J., Bodinier B., Whitaker M., Delpierre C., Vermeulen R., Tzoulaki I., Elliott P., Chadeau-Hyam M. COVID-19 mortality in the UK Biobank cohort: revisiting and evaluating risk factors. Eur. J. Epidemiol. 2021;36:299–309. [PMC free article] [PubMed] [Google Scholar]
+Garcia E., Marian B., Chen Z., Li K., Lurmann F., Gilliland F., Eckel S.P. Long-term air pollution and COVID-19 mortality rates in California: findings from the Spring/Summer and Winter surges of COVID-19. Environ. Pollut. 2021;292 [PMC free article] [PubMed] [Google Scholar]
+Guarnieri M., Balmes J.R. Outdoor air pollution and asthma. Lancet. 2014;383:1581–1592. [PMC free article] [PubMed] [Google Scholar]
+Jiang X.Q., Mei X.D., Feng D. Air pollution and chronic airway diseases: what should people know and do?'. J. Thorac. Dis. 2016;8:E31–E40. [PMC free article] [PubMed] [Google Scholar]
+Kim H., Bell M.L. Air Pollution and COVID-19 Mortality in New York City'. Am. J. Respir. Crit. Care Med. 2021;204:97–99. [PMC free article] [PubMed] [Google Scholar]
+Kind A.J.H., Buckingham W.R. Making Neighborhood-Disadvantage Metrics Accessible - The Neighborhood Atlas'. N. E. J. Med. 2018;378:2456–2458. [PMC free article] [PubMed] [Google Scholar]
+Klepac P., Locatelli I., Korosec S., Kunzli N., Kukec A. Ambient air pollution and pregnancy outcomes: a comprehensive review and identification of environmental public health challenges'. Environ. Res. 2018;167:144–159. [PubMed] [Google Scholar]
+Kogevinas M., Castano-Vinyals G., Karachaliou M., Espinosa A., de Cid R., Garcia-Aymerich J., Carreras A., Cortes B., Pleguezuelos V., Jimenez A., Vidal M., O'Callaghan-Gordo C., Cirach M., Santano R., Barrios D., Puyol L., Rubio R., Izquierdo L., Nieuwenhuijsen M., Dadvand P., Aguilar R., Moncunill G., Dobano C., Tonne C. Ambient Air Pollution in Relation to SARS-CoV-2 Infection, Antibody Response, and COVID-19 Disease: A Cohort Study in Catalonia, Spain (COVICAT Study)'. Environ. Health Perspect. 2021;129 [PMC free article] [PubMed] [Google Scholar]
+Konstantinoudis G., Padellini T., Bennett J., Davies B., Ezzati M., Blangiardo M. Long-term exposure to air-pollution and COVID-19 mortality in England: a hierarchical spatial analysis'. Environ. Int. 2021;146 [PMC free article] [PubMed] [Google Scholar]
+Lelieveld J., Evans J.S., Fnais M., Giannadaki D., Pozzer A. The contribution of outdoor air pollution sources to premature mortality on a global scale'. Nature. 2015;525:367–371. [PubMed] [Google Scholar]
+Liang D., Shi L., Zhao J., Liu P., Schwartz J., Gao S., Sarnat J., Liu Y., Ebelt S., Scovronick N., Chang H.H. Urban Air Pollution May Enhance COVID-19 Case-Fatality and Mortality Rates in the United States'. medRxiv. 2020 [PMC free article] [PubMed] [Google Scholar]
+Lipsitt J., Chan-Golston A.M., Liu J., Su J., Zhu Y., Jerrett M. Spatial analysis of COVID-19 and traffic-related air pollution in Los Angeles'. Environ. Int. 2021;153 [PMC free article] [PubMed] [Google Scholar]
+Lopez-Feldman A., Heres D., Marquez-Padilla F. Air pollution exposure and COVID-19: a look at mortality in Mexico City using individual-level data'. Sci. Total Environ. 2021;756 [PMC free article] [PubMed] [Google Scholar]
+Marques M., Domingo J.L. Positive association between outdoor air pollution and the incidence and severity of COVID-19. A review of the recent scientific evidences'. Environ. Res. 2022;203 [PMC free article] [PubMed] [Google Scholar]
+Mehta S., Vashishtha D., Schwarz L., Corcos I., Gershunov A., Guirguis K., Basu R., Benmarhnia T. Racial/ethnic disparities in the association between fine particles and respiratory hospital admissions in San Diego county, CA'. J. Environ. Sci. Health Part a-Toxic/Hazard. Subst. Environ. Eng. 2021;56:473–480. [PubMed] [Google Scholar]
+Mendy A., Wu X., Keller J.L., Fassler C.S., Apewokin S., Mersha T.B., Xie C., Pinney S.M. Long-term exposure to fine particulate matter and hospitalization in COVID-19 patients'. Respir. Med. 2021;178 [PMC free article] [PubMed] [Google Scholar]
+Millett G.A., Jones A.T., Benkeser D., Baral S., Mercer L., Beyrer C., Honermann B., Lankiewicz E., Mena L., Crowley J.S., Sherwood J., Sullivan P.S. Assessing differential impacts of COVID-19 on black communities'. Ann. Epidemiol. 2020;47:37–44. [PMC free article] [PubMed] [Google Scholar]
+'National Environmental Public Health Tracking Network'. 2022. Centers for Disease Control and Prevention, Accessed April 19. 2022. https://ephtracking.cdc.gov/.
+Office of Policy Development and Research . U.S. Department of Housing and Urban Development; 2012. Zip Code Crosswalk Files'.https://www.huduser.gov/portal/datasets/usps_crosswalk.html [Google Scholar]
+Office of Statewide Health Planning and Development . California Department of Health Care Access and Information (HCAI); 2022. Patient Discharge Dataset'.https://hcai.ca.gov/data-and-reports/research-data-request-information/ [Google Scholar]
+Pastor M., Morello-Frosch R., Sadd J.L. The air is always cleaner on the other side: race, space, and ambient air toxics exposures in California'. J. Urban Affairs. 2005;27:127–148. [Google Scholar]
+Pope C.A., 3rd, Burnett R.T., Thurston G.D., Thun M.J., Calle E.E., Krewski D., Godleski J.J. Cardiovascular mortality and long-term exposure to particulate air pollution: epidemiological evidence of general pathophysiological pathways of disease'. Circulation. 2004;109:71–77. [PubMed] [Google Scholar]
+Rodriguez-Diaz C.E., Guilamo-Ramos V., Mena L., Hall E., Honermann B., Crowley J.S., Baral S., Prado G.J., Marzan-Rodriguez M., Beyrer C., Sullivan P.S., Millett G.A. Risk for COVID-19 infection and death among Latinos in the United States: examining heterogeneity in transmission dynamics'. Ann. Epidemiol. 2020;52 46-53 e2. [PMC free article] [PubMed] [Google Scholar]
+Rodriguez-Villamizar L.A., Belalcazar-Ceron L.C., Fernandez-Nino J.A., Marin-Pineda D.M., Rojas-Sanchez O.A., Acuna-Merchan L.A., Ramirez-Garcia N., Mangones-Matos S.C., Vargas-Gonzalez J.M., Herrera-Torres J., Agudelo-Castaneda D.M., Pineros Jimenez J.G., Rojas-Roa N.Y., Herrera-Galindo V.M. Air pollution, sociodemographic and health conditions effects on COVID-19 mortality in Colombia: an ecological study'. Sci. Total Environ. 2021;756 [PMC free article] [PubMed] [Google Scholar]
+Tchicaya A., Lorentz N., Omrani H., de Lanchy G., Leduc K. Impact of long-term exposure to PM2.5 and temperature on coronavirus disease mortality: observed trends in France'. Environ. Health. 2021;20:101. [PMC free article] [PubMed] [Google Scholar]
+Tessum C.W., Paolella D.A., Chambliss S.E., Apte J.S., Hill J.D., Marshall J.D. PM2.5 polluters disproportionately and systemically affect people of color in the United States'. Sci. Adv. 2021 7. [PubMed] [Google Scholar]
+Tian F., Liu X., Chao Q., Qian Z.M., Zhang S., Qi L., Niu Y., Arnold L.D., Zhang S., Li H., Lin H., Liu Q. Ambient air pollution and low temperature associated with case fatality of COVID-19: a nationwide retrospective cohort study in China'. Innovation (N Y) 2021;2 [PMC free article] [PubMed] [Google Scholar]
+Tsai D.H., Riediker M., Berchet A., Paccaud F., Waeber G., Vollenweider P., Bochud M. Effects of short- and long-term exposures to particulate matter on inflammatory marker levels in the general population'. Environ. Sci. Pollut. Res. 2019;26:19697–19704. [PubMed] [Google Scholar]
+United States Census Bureau. ‘American Community Survey (ACS)’. https://www.census.gov/programs-surveys/acs.
+United States Environmental Protection Agency. 2021. ‘National Ambient Air Quality Standards (NAAQS) for PM’, Accessed November 2, 2021. https://www.epa.gov/pm-pollution/national-ambient-air-quality-standards-naaqs-pm.
+University of Wisconsin School of Medicine Public and Health. 2019. 'Area Deprivation Index', Accessed August 26, 2021. https://www.neighborhoodatlas.medicine.wisc.edu/.
+Valdes Salgado M., Smith P., Opazo M.A., Huneeus N. Long-Term Exposure to Fine and Coarse Particulate Matter and COVID-19 Incidence and Mortality Rate in Chile during 2020′ Int. J. Environ. Res. Public Health. 2021 18. [PMC free article] [PubMed] [Google Scholar]
+van Donkelaar A., Martin R.V., Li C., Burnett R.T. Regional Estimates of Chemical Composition of Fine Particulate Matter Using a Combined Geoscience-Statistical Method with Information from Satellites, Models, and Monitors'. Environ. Sci. Tech. 2019;53:2595–2611. [PubMed] [Google Scholar]
+Villeneuve P.J., Goldberg M.S. Methodological Considerations for Epidemiological Studies of Air Pollution and the SARS and COVID-19 Coronavirus Outbreaks'. Environ. Health Perspect. 2020;128:95001. [PMC free article] [PubMed] [Google Scholar]
+Wong J., Magun B.E., Wood L.J. Lung inflammation caused by inhaled toxicants: a review'. Int. J. Chron. Obstruct. Pulmon. Dis. 2016;11:1391–1401. [PMC free article] [PubMed] [Google Scholar]
+Woodby B., Arnold M.M., Valacchi G. SARS-CoV-2 infection, COVID-19 pathogenesis, and exposure to air pollution: what is the connection?'. Ann. N. Y. Acad. Sci. 2021;1486:15–38. [PMC free article] [PubMed] [Google Scholar]
+Wu X., Nethery R.C., Sabath M.B., Braun D., Dominici F. Air pollution and COVID-19 mortality in the United States: strengths and limitations of an ecological regression analysis'. Sci. Adv. 2020 6. [PMC free article] [PubMed] [Google Scholar]
+Yan Y.L., Yang Y., Wang F., Ren H.H., Zhang S.J., Shi X.L., Yu X.F., Dong K. Clinical characteristics and outcomes of patients with severe covid-19 with diabetes'. BMJ Open Diab. Res. Care. 2020;8 [PMC free article] [PubMed] [Google Scholar]
+Yao Y., Pan J., Wang W., Liu Z., Kan H., Qiu Y., Meng X., Wang W. Association of particulate matter pollution and case fatality rate of COVID-19 in 49 Chinese cities'. Sci. Total Environ. 2020;741 [PMC free article] [PubMed] [Google Scholar]
+Yu Z., Bellander T., Bergstrom A., Dillner J., Eneroth K., Engardt M., Georgelis A., Kull I., Ljungman P., Pershagen G., Stafoggia M., Melen E., Gruzieva O., Bamse Covid- Study Group Association of Short-term Air Pollution Exposure With SARS-CoV-2 Infection Among Young Adults in Sweden'. JAMA Netw. Open. 2022;5 [PMC free article] [PubMed] [Google Scholar]
+Zang S.T., Luan J., Li L., Yu H.X., Wu Q.J., Chang Q., Zhao Y.H. Ambient air pollution and COVID-19 risk: evidence from 35 observational studies'. Environ. Res. 2022:204. [PMC free article] [PubMed] [Google Scholar]
+Zou G. A modified poisson regression approach to prospective studies with binary data. Am. J. Epidemiol. 2004;159:702–706. [PubMed] [Google Scholar]
+Articles from Environmental Advances are provided here courtesy of Elsevier
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

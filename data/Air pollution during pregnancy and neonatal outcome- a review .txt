@@ -1,0 +1,118 @@
+Skip to main page content
+U.S. flagAn official website of the United States government Here's how you know 
+NIH NLM LogoLog in
+
+Access keysNCBI HomepageMyNCBI HomepageMain ContentMain Navigation
+pubmed logo
+Search:
+Search
+Advanced
+User Guide
+SaveEmailSend to
+Display options
+Review J Aerosol Med Pulm Drug Deliv
+. 2013 Feb;26(1):9-23. doi: 10.1089/jamp.2011.0932. Epub 2012 Aug 2.
+Air pollution during pregnancy and neonatal outcome: a review
+Elena Proietti 1, Martin Röösli, Urs Frey, Philipp Latzin
+Affiliations expand
+PMID: 22856675 DOI: 10.1089/jamp.2011.0932
+Full text linksCite
+Abstract
+There is increasing evidence of the adverse impact of prenatal exposure to air pollution. This is of particular interest, as exposure during pregnancy--a crucial time span of important biological development--may have long-term implications. The aims of this review are to show current epidemiological evidence of known effects of prenatal exposure to air pollution and present possible mechanisms behind this process. Harmful effects of exposure to air pollution during pregnancy have been shown for different birth outcomes: higher infant mortality, lower birth weight, impaired lung development, increased later respiratory morbidity, and early alterations in immune development. Although results on lower birth weight are somewhat controversial, evidence for higher infant mortality is consistent in studies published worldwide. Possible mechanisms include direct toxicity of particles due to particle translocation across tissue barriers or particle penetration across cellular membranes. The induction of specific processes or interaction with immune cells in either the pregnant mother or the fetus may be possible consequences. Indirect effects could be oxidative stress and inflammation with consequent hemodynamic alterations resulting in decreased placental blood flow and reduced transfer of nutrients to the fetus. The early developmental phase of pregnancy is thought to be very important in determining long-term growth and overall health. So-called "tracking" of somatic growth and lung function is believed to have a huge impact on long-term morbidity, especially from a public health perspective. This is particularly important in areas with high levels of outdoor pollution, where it is practically impossible for an individual to avoid exposure. Especially in these areas, good evidence for the association between prenatal exposure to air pollution and infant mortality exists, clearly indicating the need for more stringent measures to reduce exposure to air pollution.
+
+PubMed Disclaimer
+
+Similar articles
+[Breathing: Ambient Air Pollution and Health - Part III].
+Schulz H, Karrasch S, Bölke G, Cyrys J, Hornberg C, Pickford R, Schneider A, Witt C, Hoffmann B.
+Pneumologie. 2019 Jul;73(7):407-429. doi: 10.1055/a-0920-6423. Epub 2019 Jul 10.
+PMID: 31291669 German.
+Effects of short-term exposure to air pollution on hospital admissions of young children for acute lower respiratory infections in Ho Chi Minh City, Vietnam.
+HEI Collaborative Working Group on Air Pollution, Poverty, and Health in Ho Chi Minh City; Le TG, Ngo L, Mehta S, Do VD, Thach TQ, Vu XD, Nguyen DT, Cohen A.
+Res Rep Health Eff Inst. 2012 Jun;(169):5-72; discussion 73-83.
+PMID: 22849236
+Air pollution during pregnancy and lung development in the child.
+Korten I, Ramsey K, Latzin P.
+Paediatr Respir Rev. 2017 Jan;21:38-46. doi: 10.1016/j.prrv.2016.08.008. Epub 2016 Aug 19.
+PMID: 27665510 Review.
+Air pollution and children's health-a review of adverse effects associated with prenatal exposure from fine to ultrafine particulate matter.
+Johnson NM, Hoffmann AR, Behlen JC, Lau C, Pendleton D, Harvey N, Shore R, Li Y, Chen J, Tian Y, Zhang R.
+Environ Health Prev Med. 2021 Jul 12;26(1):72. doi: 10.1186/s12199-021-00995-5.
+PMID: 34253165 Free PMC article. Review.
+Health effects of outdoor air pollution. Committee of the Environmental and Occupational Health Assembly of the American Thoracic Society.
+[No authors listed]
+Am J Respir Crit Care Med. 1996 Jan;153(1):3-50. doi: 10.1164/ajrccm.153.1.8542133.
+PMID: 8542133 Review.
+See all similar articles
+Cited by
+Identifying critical windows of air pollution exposure during preconception and gestational period on birthweight: a prospective cohort study.
+Liao J, Zhang Y, Yang Z, Qiu C, Chen W, Zhang JJ, Berhane K, Bai Z, Han B, Xu J, Jiang YH, Gilliland F, Yan W, Huang G, Chen Z.
+Environ Health. 2023 Oct 19;22(1):71. doi: 10.1186/s12940-023-01022-6.
+PMID: 37858139 Free PMC article.
+Environmental pollutants and their effects on human health.
+Shetty SS, D D, S H, Sonkusare S, Naik PB, Kumari N S, Madhyastha H.
+Heliyon. 2023 Aug 25;9(9):e19496. doi: 10.1016/j.heliyon.2023.e19496. eCollection 2023 Sep.
+PMID: 37662771 Free PMC article. Review.
+Environmental Exposure: Effect on Maternal Morbidity and Mortality and Neonatal Health.
+Kumari U, Sharma RK, Keshari JR, Sinha A.
+Cureus. 2023 May 4;15(5):e38548. doi: 10.7759/cureus.38548. eCollection 2023 May.
+PMID: 37273345 Free PMC article. Review.
+Disease burden and attributable risk factors of neonatal disorders and their specific causes in China from 1990 to 2019 and its prediction to 2024.
+Wu Y, Xia F, Chen M, Zhang S, Yang Z, Gong Z, Zhou X, Chen L, Wang T.
+BMC Public Health. 2023 Jan 18;23(1):122. doi: 10.1186/s12889-023-15050-x.
+PMID: 36650483 Free PMC article.
+A systematic review of evidence for maternal preconception exposure to outdoor air pollution on Children's health.
+Blanc N, Liao J, Gilliland F, Zhang JJ, Berhane K, Huang G, Yan W, Chen Z.
+Environ Pollut. 2023 Feb 1;318:120850. doi: 10.1016/j.envpol.2022.120850. Epub 2022 Dec 14.
+PMID: 36528197 Free PMC article. Review.
+See all "Cited by" articles
+Publication types
+Research Support, Non-U.S. Gov't
+Review
+MeSH terms
+Air Pollutants / toxicity*
+Air Pollution / adverse effects*
+Animals
+Environmental Exposure / adverse effects*
+Female
+Humans
+Infant Mortality
+Infant, Newborn
+Maternal Exposure / adverse effects
+Pregnancy
+Pregnancy Outcome
+Prenatal Exposure Delayed Effects / epidemiology
+Time Factors
+Substances
+Air Pollutants
+Related information
+Cited in Books
+LinkOut - more resources
+Full Text Sources
+Atypon
+Other Literature Sources
+scite Smart Citations
+Medical
+Genetic Alliance
+MedlinePlus Health Information
+NCBI Literature Resources MeSH PMC Bookshelf Disclaimer The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+FOLLOW NCBI
+Connect with NLM
+
+  
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
+
+NLM
+NIH
+HHS
+USA.gov

@@ -1,0 +1,901 @@
+Go to headerGo to navigationGo to searchGo to contentsGo to footer
+In header section. Select this link to jump to navigation
+IOS PressHelpAbout usContact us
+In navigation section. Select this link to jump to content
+Home
+Journals
+ Cart
+Log in / Register
+Search
+Search
+Search
+ Published between: Published from year:
+YYYY
+ and Published to year:
+YYYY
+Search syntax help
+In content section. Select this link to jump to navigation
+CiteAir Pollution and Dementia: A Systematic Review
+Issue title: International Research Network on Dementia Prevention
+
+Guest editors: Kaarin Anstey and Ruth Peters
+
+Article type: Research Article
+
+Authors: Peters, Rutha; b; * | Ee, Nicoleb | Peters, Jeanc | Booth, Andrewc | Mudway, Iand | Anstey, Kaarin J.a; b
+
+Affiliations: [a] University of New South Wales, Australia | [b] Neuroscience Research Australia, Australia | [c] School for Health and Related Research, University of Sheffield, UK | [d] MRC-PHE Centre for Environment and Health, NIHR Health Protection Research Unit in Health Impact of Environmental Hazards, Facility of Life Sciences and Medicine, King’s College London, London, UK
+
+Correspondence: [*] Correspondence to: Ruth Peters, Neuroscience Research Australia, Barker Street, Sydney, NSW 2031, Australia. Tel.: +61 2 9399 1015; E-mail: r.peters@neura.edu.au.
+
+Keywords: Air pollutants, cognitive decline, dementia, particulate matter
+
+DOI: 10.3233/JAD-180631
+
+Journal: Journal of Alzheimer's Disease, vol. 70, no. s1, pp. S145-S163, 2019
+
+Accepted 31 December 2018 | Published: 13 August 2019
+Get PDF open access
+Supplementary Materials:
+Supplementary Material
+
+Abstract
+Background:
+Both air pollution and dementia are current and growing global issues. There are plausible links between exposure to specific air pollutants and dementia.
+
+Objective:
+To systematically review the evidence base with respect to the relationship between air pollution and later cognitive decline and dementia.
+
+Methods:
+Medline, Embase, and PsychINFO® were searched from their inception to September 2018, for publications reporting on longitudinal studies of exposure to air pollution and incident dementia or cognitive decline in adults. Studies reporting on exposure to tobacco smoke including passive smoking or on occupational exposure to pollutants were excluded. Using standard Cochrane methodology, two readers identified relevant abstracts, read full text publications, and extracted data into structured tables from relevant papers, as defined by inclusion and exclusion criteria. Papers were also assessed for validity. CRD42018094299
+
+Results:
+From 3,720 records, 13 papers were found to be relevant, with studies from the USA, Canada, Taiwan, Sweden, and the UK. Study follow-up ranged from one to 15 years. Pollutants examined included particulate matter ≤2.5 μ (PM2.5), nitrogen dioxide (NO2), nitrous oxides (NOx), carbon monoxide (CO), and ozone. Studies varied in their methodology, population selection, assessment of exposure to pollution, and method of cognitive testing. Greater exposure to PM2.5, NO2/NOx, and CO were all associated with increased risk of dementia. The evidence for air pollutant exposure and cognitive decline was more equivocal.
+
+Conclusion:
+Evidence is emerging that greater exposure to airborne pollutants is associated with increased risk of dementia.
+
+INTRODUCTION
+Air pollution is a current and growing global problem [1]. It is a recognized causative factor in several non-communicable diseases (NCD) including heart disease, stroke, and cancer [1]. Dementia (a disabling, degenerative NCD) is also a growing global issue [1, 2]. There are plausible links between air pollution and increased risk of dementia [3–7]. Recent interest in this area has resulted in several publications examining the association between air pollution and subsequent dementia or cognitive decline [6, 8–11]. We provide a systematic overview of the current evidence base.
+
+Air pollution
+According to a recent Lancet commission on pollution and health, pollution is the largest environmental cause of disease and premature death in the world today, responsible for an estimated 16% of all deaths worldwide and associated with a much wider range of disease than was previously thought [1]. Air pollution in particular is at highest concentration in Low and Middle-Income Countries (LMIC) but can disperse globally and has a disproportionally greater effect on the vulnerable, children and older adults [1].
+
+Dementia
+The risk of dementia, and the cognitive decline that precedes it, rise with increasing age. The globally ageing population means that the absolute numbers of those living with dementia continue to increase with an estimated new case every three seconds [12]. The rise in dementia cases is global but due to differing patterns in risk factor exposure and healthcare access, the rise is greater in LMIC [12].
+
+Air pollution and dementia
+Exposure to air pollution, especially fine particulate matter, is thought to increase risk of hypertension, raised lipids, atherosclerosis, oxidative stress, insulin resistance, endothelial dysfunction, enhanced propensity toward coagulation, inflammation, and stroke, all of which also raise risk of cognitive decline and dementia [1–4, 13–17].
+
+The 2017 Lancet commission on dementia prevention, intervention and care included air pollution in a list of potential risk factors for dementia [18]; the 2018 Lancet commission on pollution states that the evidence of causation is building, in particular for fine particulate matter and dementia in the elderly, and it calls for research to explore emerging causal links [1]. Given that air pollution is known to have a negative effect on human health, a clinical trial of the length needed to evaluate effect on cognitive function is unlikely and the best evidence to demonstrate a causal link will come from longitudinal observational studies. Recent interest in this area has led to the publication of several such studies examining air pollution exposure and incident cognitive decline or dementia [6, 11].
+
+Our aim was to systematically review the evidence base with respect to the relationship between air pollution and incident cognitive decline and dementia in adult populations and to update our earlier review in this area [11]. The protocol for this review is registered with the International prospective register of systematic reviews (http://www.crd.york.ac.uk/prospero/) no. CRD42018094299 and is an update of an earlier review CRD42014007582 [12]
+
+MATERIALS AND METHODS
+Standard systematic review methodology was followed [19]. As this was an update of an earlier systematic review the same search terms were used [11] and the databases MEDLINE, Embase, and PsychINFO® were searched from inception to the 20 September 2018. Reference lists of all papers identified were screened for other published papers. Details of the search strategy are given in the Supplementary Material.
+
+There were three independent analysts (RP, JP, NE). The lead analyst carried out the literature searches. All identified abstracts, or titles where abstracts were unavailable, were double read and a list of potentially relevant references compiled independently by at least two analysts. These lists were compared and differences were resolved by discussion. Once the list of possible references was agreed, full text articles were obtained, double read, and assessed for relevance independently by at least two analysts. Any differences in agreement were resolved by discussion. Inclusion was assessed in accordance with the inclusion and exclusion criteria below
+
+Inclusion criteria
+• Longitudinal studies with evidence of some assessment of exposure to air pollution (aggregate assessment or constituent parts);
+
+• Use of formal assessment of cognitive function;
+
+• Report of incident cognitive decline or dementia outcomes;
+
+• Data from adults (age ≥18);
+
+• Minimum follow up 6 months.
+
+Exclusion criteria
+• Studies reporting only occupational exposure to pollutants;
+
+• Studies reporting exposure to other pollutants, e.g., organophosphates;
+
+• Studies reporting only exposure to smoking (including passive smoking);
+
+• Non-English publications (in the absence of resources available for translation).
+
+The selection of longitudinal studies with assessment of exposure to air pollution, formal assessment of cognitive function and reports of cognitive decline (i.e., a change in cognitive function) or incident dementia were used to ensure the inclusion of the most robust data with regard to evaluation of causality. Data were extracted using standard extraction tables and information was collected on: the region where the study took place, the size and composition of the study population, the duration of follow up, the assessment of cognitive function or incident dementia, the measurement of exposure to air pollutants, types of pollutant, the analyses (principle summary measures include hazard ratios and odds ratios), results, and reported co-variates. In order to be as conservative as possible, results following adjustment for confounding were preferred for inclusion in the table.
+
+Each included paper was also assessed for validity. Formal scoring was not used as existing instruments have poor discriminative ability when assessing quality. Instead each paper was assessed against key criteria based on the Critical Appraisal Skills Programme (CASP©) checklists [20]. Potential sources of bias in each study were tabulated.
+
+RESULTS
+There were 3,720 records identified by searches and where abstracts were double screened. Of those, 45 articles were assessed at full text stage and 13 were included [8, 9, 21–31]. Two articles reported on the association between NOx and incident dementia in the same sample from the Swedish Betula study [31, 32]; the one that reported numerical results was selected for inclusion [31]. The remaining article had a focus on noise exposure and was excluded [32]. Further exclusion at full text stage was due to study design (lacking appropriate longitudinal data [10, 33–54]), where exposure measures were not clearly related to air pollution [5, 55–58], or where the article was a review only [59]. Several studies were ineligible for more than one reason. Figure 1 shows the flow chart for study inclusion.
+
+Fig.1
+Flow chart.
+
+Flow chart.
+Study characteristics
+Four studies reported results from populations in the United States of America [21, 22, 25, 29], two from Canada [8, 9], two from Taiwan [27, 28], one from Sweden [26, 30, 31], and two from the United Kingdom [23, 24] The samples from the UK both included populations from London but one reported on cognitive function [23] and the other on incident dementia [24]. The samples from Taiwan both selected participants from the National Health Insurance Research Database but selected differing subgroups of the population and presented results for different pollutants: for Jung et al. [27], particulate matter 2.5 (PM2.5); and for Chang et al. [28], nitrogen dioxide (NO2) and carbon monoxide (CO). The samples from Canada both selected residents of Ontario but also selected differing sub groups and reported on different measures of pollution; for Chen et al. [8], PM2.5; and for Chen et al. [9], residential proximity to a major roadway. There were three articles reporting on the Swedish Betula study, one on NOx and incident dementia [26], one on NOx and episodic memory [30], and one on PM2.5 and incident dementia [31]. Sample size ranged from 1,469 [30] to over two million [9], and two studies recruited only women (participants in the Nurses Health Study) [21] and the Women’s Health Initiative Memory Study (WHIMS) [29]. All studies were longitudinal but follow up was reported inconsistently. It varied from one year [22] to ∼5–10 years [23, 30] in studies with cognitive outcomes, and from ∼7 [8, 9, 24, 27, 28] to ∼15 years [26] in studies with incident dementia outcomes. See Table 1 for study characteristics.
+
+Table 1
+Study characteristics
+
+Population
+Authors	Study name	Study design	Location	n	details	Baseline age	% Male	Baseline date	Follow-up date	Follow-up duration
+Weuve et al., 2012 [21]	NHS	cohort	USA (11 states)	19409, BL 17089, FU-I 14204, FU-II	Registered nurses, 30–35 y at enrolment; no history of stroke in 1995–2001	≥70	–	1995–2001	1997–2004 2002–2008	1.9 y (SD = 0.4) 4.3 y (SD = 0.8)
+Loop et al., 2013 [22]	REGARDS	Cohort	USA (48 states)	20150 (18180 with >12 months exposure data)	Cognitive impairment excluded at baseline	64 (SD = 9.2)	45.0%	2003–2007	Annual assessments	–
+Tonne et al., 2014 [23]	Whitehall II longitudinal study	Cohort	London, UK (greater Britain)	2867 (2654 did not move away between waves)	London-based civil servants working in Whitehall	∼61	100.0%	2002–2004	2007–2009	∼5 y
+Carey et al., 2018 [24]	Sample from the CPRD database	population-based cohort	UK	130978	Individuals aged 50–79 and registered for more than a year with one of 75 general practices sited within the London orbital motorway (M25) and part of the CPRD database	50–79	50%	2005	2013	6.9 mean y
+Chen et al., 2017 [8]	ONPHEC	population-based cohort	Ontario, Canada	2066639	Ontario residents, free of dementia	66.8 (SD = 8.2)	46.7%	2001	2012 or date of dementia diagnosis, ineligibility for health insurance, death	∼11 y
+Cleary et al., 2018 [25]	Longitudinal study of ADC participants	cohort	USA (nationwide)	5116	34 ADC centers consolidated by NACC	76.8 (SD = 7.7)	46.9%	2005–2008	–	4.4 y (SD = 0.6); maximum follow-up 7.5 y (those with >3 clinic visits excluded)
+Chen et al., 2017 [9]	Sample from Ontario’s registered persons database	population-based cohort	Ontario, Canada	243611	Registry of Ontario residents with health insurance, Canadian-born, Ontario resident for ≥5 y, no BL Parkinson’s disease/dementia/multiple sclerosis	66.8 (SD = 78.2)	46.8%	2001	2012 or date of dementia diagnosis, ineligibility for health insurance, death	∼11 y
+Oudin et al., 2016 [26]	Sample from the Betula study	population-based cohort	Umea, Sweden	2803	Participants with dementia, lost to follow up, who left study prior to T2, or < 55 y at T2 excluded	>55	57.2%	1988–1990, T1 1993–1995, T2	Every 5 y through to 2008–2010	∼15 y
+Jung et al., 2015 [27]	Individuals from LHID 2000	population-based cohort	Taiwan	95690	Randomly selected from the year 2000 registry of beneficiaries from the NHIRD	>65 at FU	53.9%	2001	2010 or date of dementia of AD, insurance termination	∼10 y
+Chang et al 2014 [28]	Sample from NHIRD	cohort	Taiwan	29547	50 y or older, no history of head injury, stoke, or dementia before 2000	61.4 (SD = 8.5)	46.0%	2000	End of follow-up or date of dementia diagnosis, leaving the insurance database	–
+Cacciottolo et al., 2017 [29]	WHIMS	cohort	USA	3647	Excluded those with ɛ2/2, ɛ2/3, ɛ2/4 alleles	65–79	100%	1995–1999	Annually beginning in 1999–2010	8.3 y/9.9 y
+Oudin et al., 2017 [30]	Sample from the Betula Study	population-based cohort	Umea, Sweden	1469	Participants 55 or younger at baseline excluded	60 or older	45%	1988–1990	Every 5 y between 1988–2010	8.6 mean y (SD = 4.4)
+Oudin et al., 2018 [31]	Sample from the Betula Study	population-based cohort	Umea, Sweden	1806	Participants 55 or younger at baseline excluded because of low risk of developing dementia within 15 y	55 or older	57.0%	43.0%	1993–1995	every 5 y between baseline and 2010
+AD, Alzheimer’s disease; ADC, Alzheimer’s Disease Centre; BL, baseline; FU, follow-up; LHID, Longitudinal Health Insurance Database; NACC, National Alzheimer’s Coordinating Centre; NHIRD, National Health Insurance Research Database; NHS, Nurses Health Study; ONPHEC, Ontario Population Health and Environment Cohort; REGARDS, Reasons for Geographic and Racial Differences in Stroke Study; T1, time-1; T1, time-2; WHIMS, Women’s Health Initiative Memory Study; y, year.
+
+Exposure assessment
+The most commonly examined pollutant was PM2.5, reported in nine articles [8, 21–25, 27, 29, 31]. One study used distance to a major roadway as the main outcome with additional adjustment for PM2.5 and NO2 exposure in sensitivity analyses [9]. Four studies reported on NO2 [8, 24, 26, 28] and one on NOx [30]. See Supplementary Table 1.
+
+The selected studies adopted a variety of modelling approaches, to obtain high resolution (to residential address level) exposure estimates for their populations. The methodologies varied from relatively simple interpolation approaches from selected monitoring sites within the study domain [28], to more refined approaches, exploiting Land Use Regression approaches and satellite data to improve predictions at locations remote from air pollution monitoring sites [8, 22]. Three studies employed an emissions approach with dispersion modelling, incorporating annual meteorology [23, 25], and atmospheric chemistry [25]. Two studies attempted to split the PM modelled estimates in those derived from vehicle tailpipes [23, 31] and PM derived from residential wood burning [31]. While most studies employed single models to estimate exposures to a range of pollutants, several studies employed different approaches for different pollutants, such as O3 and PM2.5 [8]. In most cases, studies presented some form of model evaluation or provided reference to an external source relating to model performance. Only one study employed road distance as their primary (proxy) measure for exposure to traffic related air pollutants [9], but this employed modelled pollutant estimates in their subsequent sensitivity analysis. For one study [28], the exposure measures used in the analyses were unclear. The period for evaluating associations between exposure to pollution and cognitive decline or incident dementia, ranged from days to weeks for the cognitive assessments to months to years for dementia. For dementia in particular, various lag or aggregated exposure periods were also used. It should be stated that there is no clear consensus as to what the most informative exposure period is to assess the neurological impacts of air pollution, but as modelling approaches look further back in time within the available cohorts the modelling uncertainty increases as the available measurement data become sparser. As with all modelling approaches, there is likely to be significant exposure misclassification, as modelling estimates at a point are unlikely to represent the true exposure of a mobile population. Here the view is that this degree of misclassification will be greater for pollutants with a high degree of spatial variation, such as NO2, and less marked with pollutants with a more uniform distribution such as PM2.5. These issues were reflected in the discussion of most of the papers cited, as was the difficulty in disaggregating the effect of independent pollutants that were highly correlated within the models.
+
+Assessment of outcomes, dementia, and cognitive decline
+Seven articles reported incident dementia cases [8, 9, 24, 26, 28, 29, 31], one focused only on incident Alzheimer’s disease (AD) [27]. Six articles used varied measures of cognitive change [21–23, 25, 29, 30]. See Supplementary Table 1.
+
+Association between air pollution exposure and cognitive outcomes
+Overall, the evidence pointed to an association between greater pollution exposure and increased risk of dementia regardless of pollutant measure (see Fig. 2). The evidence relating to cognitive decline was equivocal. There was no clear pattern by region of recruitment or concentration of pollutant. Variation in statistical methods and the frequent use of quantiles for pollutant exposure prevented meta-analysis. See Table 2 for main results.
+
+Fig.2
+Number of studies investigating relationship between exposure to pollutants and cognitive function or dementia.
+
+Number of studies investigating relationship between exposure to pollutants and cognitive function or dementia.
+Table 2
+Key findings and results
+
+Authors	Pollutants	Results	Main findings
+Weuve et al., 2012 [21]	PM2.5	Adjusted difference in 2-y change in global cognitive z-scores per quintile of exposure
+
+highest versus lowest –0.018 (–0.034, –0.002)
+
+Adjusted difference in 2-y change in global cognitive score z-scores per 10 μg/m3 increase
+
+long-term (since 1988): –0.018 (–0.035, –0.002)*
+
+Sensitivity and secondary analyses did not materially affect results.	Rate of cognitive decline was significantly larger in women with highest level of exposure to PM2.5 as compared to lowest level. Rate of decline in global cognition per 10 μg/m3 increment in long-term exposure was significant for long-term exposure, but no associations were seen for exposures of 1 month, 1, 2, or 5–y preceding baseline cognitive assessment.
+PM2.5 - 10	Adjusted difference in 2-r change in global cognitive z-scores per quintile of exposure
+
+highest versus lowest: –0.024 (–0.040, –0.008)*
+
+Adjusted difference in 2-y change in global cognitive score z-scores per 10 μg/m3 increase
+
+1-month: –0.007 (–0.017, 0.003)
+
+1-y: –0.017 (–0.029, –0.005)*
+
+2-y: –0.016 (–0.029, –0.003)*
+
+5 y: –0.019 (–0.032, –0.006)*
+
+Long-term (since 1988): –0.020 (–0.032, –0.008)*
+
+Sensitivity and secondary analyses did not materially affect results.	Trend-level associations (p = 0.01) were observed between higher levels (Q2–4) of long-term exposure and accelerated cognitive decline. Rate of cognitive decline was significantly faster for highest as compared to lowest PM2.5–10 exposure quintiles. Exposures in the 1, 2, and 5 y before the baseline cognitive assessment were significantly associated with increased rate of cognitive decline, but this effect was not seen for 1-month PM2.5–10 exposure.
+Loop et al., 2013 [22]	PM2.5	Effect of 10 μg/m3 increase in PM2.5
+
+Fully adjusted model: OR = 0.98 (0.72, 1.34)
+
+Sensitivity analysis – exposure >12 months, n = 18180
+
+Fully adjusted model: OR = 0.71 (0.38, 1.32)	Exposure to PM2.5 was not associated with incident cognitive impairment, even when analysis was run in participants with more than 12 months of exposure data.
+Tonne et al., 2014 [23]	PM2.5	Cognitive change on reasoning, memory, semantic and phonemic fluency per IQR increase
+
+5-y average: ns for all tests
+
+4-y lag: ns for all tests
+
+Re-analyses excluding participants who relocated: Mean change in memory per IQR increase
+
+5-y average: ns
+
+4-y lag: –0.041 (–0.079, –0.003)*
+
+Mean change on reasoning, memory, semantic and phonemic fluency per IQR increase
+
+5-y average: ns for all tests
+
+4-y lag: ns for all tests	Exposure to PM2.5 with 4-y lag was associated with memory decline in participants who did not move outside of greater London during the study.
+PM2.5 from traffic exhaust only	Cognitive change on reasoning, memory, semantic and phonemic fluency per IQR increase
+
+5-y average: ns for all tests
+
+4-y lag: ns for all tests	PM2.5 exposure was not associated with cognitive change over 5 y.
+PM10	Cognitive change on reasoning, memory, semantic and phonemic fluency per IQR increase
+
+5-y average: ns for all tests
+
+4-r lag: ns for all tests
+
+Re-analyses excluding participants who relocated: Mean change in memory per IQR increase
+
+5-y average: ns
+
+4-y lag: –0.039 (–0.073, –0.005)*
+
+Mean change on reasoning, memory, semantic and phonemic fluency per IQR increase
+
+5-y average: ns for all tests
+
+4-y lag: ns for all tests	Exposure to PM10 with 4-y lag was associated with memory decline in participants who did not move outside of greater London during the study.
+PM10 from traffic exhaust only	Cognitive change on reasoning, memory, semantic and phonemic fluency per IQR increase
+
+5-y average: ns for all tests
+
+4-y lag: ns for all tests	PM10-exhaust was not associated with cognitive change over 5 y.
+Carey et al., 2018 [24]	PM2.5
+
+NO2
+
+Distance from a major roadway
+
+O3	Model 1 (adjusted demographics and behavioral risk factors)
+
+NO2 per 7.471 μg/m3 increase HR1.17 (1.06, 1.28)
+
+PM2.5 per 0.95 μg/m3 increase HR1.07 (1.02, 1.12)
+
+O3 per 5.56 μg/m3 increase HR0.84 (0.75, 0.93)
+
+Distance to major roadway per 310 m closer HR1.02 (0.97, 1.08)
+
+Model 4 (additional adjustment for socioeconomic status, clinical risk factors, pollutants other than the one reported, night-time noise)
+
+NO2 per 7.471 μg/m3 increase HR1.15 (1.04, 1.28)
+
+PM2.5 per 0.95 μg/m3 increase HR1.06 (1.01, 1.13)
+
+O3 per 5.56 μg/m3 increase HR0.85 (0.76, 0.96)
+
+Distance to major roadway per 310 m closer HR1.00 (0.95, 1.05)
+
+Similar patterns for Alzheimer’s disease and vascular dementia	Increased risk of dementia with increased exposure to PM2.5 and NO2. Decreased risk with greater exposure to O3. Results for distance to major roadway were non-significant after full adjustment.
+Chen et al., 2017 [8]	PM2.5	Adjusted individual pollutant model: HRIQR = 1.04 (1.03, 1.05)*
+
+Three pollutant model: HRIQR = 1.02 (1.01, 1.03)*
+
+5-y lag: HRIQR = 1.03 (1.02, 1.05)*
+
+10-y lag: HRIQR = 1.03 (1.01, 1.06)*	PM2.5 is associated increased risk of dementia. Findings were robust to adjustments for other pollutants, sensitivity analysis including lagging exposure of 5 and 10 y.
+NO2	Adjusted individual pollutant model: HRIQR = 1.10 (1.08, 1.12)*
+
+Three pollutant model: HRIQR = 1.09 (1.07, 1.11)*
+
+5-y lag: HRIQR = 1.08 (1.06, 1.09)*
+
+10-y lag: 1.06 (1.03, 1.08)*	Interquartile increase NO2 is associated elevated increased risk of dementia. Findings were robust to adjustments for other pollutants, sensitivity analysis including lagging exposure of 5 and 10 y.
+O3	Adjusted individual pollutant model: HRIQR = 0.98 (0.96, 1.00)
+
+Three pollutant model: HRIQR = 0.99 (0.97, 1.01)
+
+5-y lag: HRIQR = 0.99 (0.96, 1.02)
+
+10-y lag: HRIQR = 0.99 (0.95, 1.03)	Increased exposure to O3 was not associated with incident dementia.
+Cleary et al., 2018 [25]	PM2.5	All compassion ns at p < 0.5
+
+Dose-dependent relationship between APOE4 *PM2.5 interactionand cognitive decline. Lowest decline in those without APOE4allele and lowest exposure.	PM2.5 was not associated with cognitive decline on the MMSE or CDR-SB, in total and baseline cognitively-normal populations. Presence at least one APOE4 allele was associated with a faster decline for all exposure tertiles.
+O3	MMSE:
+
+low versus highest tertile, β= 0.83 (0.5, 1.2)*
+
+low×time versus highest tertile, β= 0.35 (0.2, 0.5)*
+
+CDR-SB:
+
+low versus highest tertile, β= –60 (–0.8, –0.3)*
+
+low×time versus highest tertile, β= –0.40 (–0.5, –0.3)*
+
+medium×time versus highest tertile, β= –0.14 (–0.2, –0.1)*
+
+Cognitively impaired subgroup
+
+Dose-dependent relationship between APOE4 *O3 interaction and cognitive decline. Lowest decline in those without APOE4 alleleand lowest exposure.	Highest and medium ozone exposure were associated with accelerated cognitive decline on both MMSE and CDR-SB assessments (p < 0.05), with highest ozone regions having steepest decline. Ozone exposure effects were not significant in cognitively impaired subpopulation (baseline MMSE < 24). APOE4 was associated with a faster decline for all exposure tertiles.
+Chen et al., 2017 [9]	Residentialdistance fromroadway(sensitivityanalyses withPM2.5 and NO2)	243611 cases of incident dementia cases between 2001–2012; ∼50% lived within 200 m, 95% lived within 1000 m.
+
+Risk of incident of dementia for distance from roadways, fully adjusted model
+
+<50 m: HR = 1.07 (1.06, 1.08)*
+
+50–100 m: HR = 1.04 (1.02, 1.05)*
+
+101–200 m: HR = 1.02 (1.01, 1.03)*
+
+201–300 m: HR = 1.00 (0.99, 1.01)
+
+>300 m: reference
+
+Log (distance): 0.91 (089, 0.92)*
+
+Sensitivity analyses:
+
+PM2.5 and NO2 exposure modestly attenuated the association for categories of <50 m and 51–100 m
+
+<50 m: HR = 1.05 (CI not reported)
+
+50–100 m: HR = 1.02
+
+Risk of incident dementia and exposure to pollutants
+
+PM2.5: HR = 1.07 (1.06, 1.08)*
+
+NO2: HR = 1.04 (1.03, 1.05)*
+
+Associations insensitive to additional controls; excluding first 2 and 5 y of follow up or restricting participants to >65 y old did not materially affect results.	Living closer to a roadway was associated with increased risk of dementia for continuous and all categories of distance, except for the distance category of 201-200 m (trend-level significance, p = 0.0349). Adjustment for PM2.5 and NO2 exposure modestly attenuated the association for categories of < 50 m and 51–100 m, and father adjustments did not materially affect associations.
+Oudin et al., 2016 [26]	NOx	Incident dementia: n = 301 (AD: n = 191, VaD: n = 111)
+
+Risk of incident dementia
+
+Model 1 (age-adjusted)
+
+Q4: HR = 1.57 (1.12, 2.19)*
+
+Q3: HR = 1.49 (1.07, 2.09)*
+
+Q2: HR = 1.10 (0.77, 1.58)
+
+Q1: reference
+
+per 10 μg/m3 increase: HR = 1.04 (0.98, 1.11)
+
+Model 2 (adjusted for genetics and behavioral factors)
+
+Q4: HR = 1.43 (0.998, 2.05)
+
+Q3: HR = 1.48 (1.03, 2.11)*
+
+Q2: HR = 1.11 (0.76, 1.63)
+
+Q1: reference
+
+per 10 μg/m3 increase: HR = 1.05 (0.98, 1.12)
+
+Model 3 (fully adjusted)
+
+Q4: HR = 1.60 (1.02, 2.10)*
+
+Q3: HR = 1.49 (1.04, 2.14)*
+
+Q2: HR = 1.48 (1.13, 1.66)*
+
+Q1: reference
+
+per 10 μg/m3 increase: HR = 1.05 (0.98, 1.12)	Dose-response observed between higher concentrations of NOx and increased rates of incident dementia. Significant associations observed for all quartiles when compared to the reference in the fully adjusted model. Continuous measures of NOx were not associated with increased rates of incident dementia.
+Jung et al., 2015 [27]	PM2.5	Risk of incident AD per IQR (13.21 μg/m3) increment of PM2.5
+
+Baseline: HRIQR = 1.01 (0.93, 1.09)
+
+Follow-up: HRIQR = 2.41 (2.24, 2.59)*
+
+Adjusted model
+
+Risk of incident AD per IQR (13.21 μg/m3) increment of PM2.5
+
+Baseline: HRIQR = 1.03 (0.95, 1.11)
+
+Baseline, adjustments for SO2, CO, NO2, or PM10: HRIQR remained
+
+ns
+
+Follow-up: HRIQR = 2.38 (2.21, 2.56)*
+
+Follow-up, adjustments for SO2, CO, NO2, or PM10: HRIQR increased to 2.17 to 2.43*	13.21 μg/m3 increment in PM2.5 was not associated with incident AD at baseline. But significantly increased risk of incident AD over follow-up in adjusted models.
+O3	Risk of incident AD per IQR (9.63 ppb) increment of O3
+
+Baseline: HRIQR = 1.06 (1.01, 1.13)*
+
+Follow-up: HRIQR = 3.12 (2.91, 3.32)*
+
+Adjusted models:
+
+Risk of incident AD per IQR (9.63 ppb) increment of O3
+
+Baseline: HRIQR = 1.06 (1.00, 1.12)*
+
+Baseline, SO2 adjusted: HRIQR = 1.04 (0.98, 1.11)
+
+Baseline, CO adjusted: HRIQR = 1.10 (1.03, 1.17)*
+
+Baseline, NO2 adjusted: HRIQR = 1.06 (0.99, 1.13)
+
+Follow-up: HRIQR = 3.12 (2.92, 3.33)*
+
+Follow-up, adjustments for SO2, CO, NO2, or PM10: HRIQR increased to 3.23 to 3.52*	After adjusting for covariates, a 9.63 ppb increase in ozone exposure was weakly associated with incident AD at baseline, which was slightly magnified when adjusted for carbon monoxide. Significant and large (∼211%) increased risk of incident AD was seen for per 9.63 ppb increase in ozone concentration over follow-up, which was slightly larger when adjusted for second pollutants.
+Chang et al., 2014 [28]	NO2	Risk of incident dementia
+
+highest versus lowest quartile: HR = 1.54 (1.34, 1.77)*
+
+Similar patterns when they repeated the analyses by sex.	Highest levels of NO2 exposure was significantly associated with increased risk of dementia when compared to lowest levels of exposure.
+
+Similar patterns seen when analyses was repeated stratified by sex.
+CO	Risk of incident dementia
+
+highest versus lowest quartile: HR = 1.61 (1.39, 1.85)*
+
+second highest versus lowest quartile: HR = 11.37 (1.19, 1.58)*	Higher levels of CO exposure were significantly associated with increased risk of dementia when compared to lowest levels of exposure. Similar patterns seen when analyses was repeated stratified by sex.
+Cacciottolo et al., 2017 [29]	PM2.5	Accelerated global cognitive decline Model 3 (fully adjusted): 1.81 (1.42, 2.32)*	High PM2.5 levels were associated with accelerated global cognitive decline in all models.
+APOE×PM2.5	Accelerated global cognitive decline by APOE status
+
+Model 1 (APOE-adjusted)
+
+interaction p = 0.52
+
+Model 2 (adjusted APOE, age, geography, SES, lifestyle)
+
+interaction p = 0.54
+
+Model 3 (fully adjusted)
+
+interaction p = 0.29	There was no interaction effect present.
+PM2.5	Risk for all-cause dementia
+
+Model 3 (fully adjusted): 1.92 (1.31, 2.80)*	High PM2.5 levels were associated with increased risk of all-cause dementia in all models.
+APOE×PM2.5	Model 1 (APOE-adjusted) by APOE status
+
+interaction p = 0.16
+
+Model 2 (adjusted APOE, age, geography, SES, lifestyle)
+
+interaction p = 0.31
+
+Model 3 (fully adjusted)
+
+interaction p = 0.43	There was no interaction effect present.
+Oudin et al., 2017 [30]	NOX	Crude model:
+
+highest versus lowest quartile: –0.91 (–1.54, –0.27)*
+
+Per 1 μg/m3 increase in NOx: –0.18 (–0.32, –0.004)*	Small association between NOx and decline in episodic memory in the crude model, but effect disappeared after adjustments.
+Oudin et al., 2018 [31]	PM2.5 from traffic exhaust	Crude model:
+
+highest versus lowest: 1.65 (1.17, 2.34)*
+
+third versus lowest: 1.70 (1.21, 2.39)*
+
+Adjusted model:
+
+third versus lowest: 1.66 (1.16, 2.39)*	Association was seen between higher levels of PM2.5 from traffic exhaust and incident dementia. Linear model was not significant.
+PM2.5 from residential wood burning	Crude model:
+
+all comparisons ns
+
+Adjusted model:
+
+third versus lowest: 1.66 (1.16, 2.39)*
+
+highest with wood stove versus lowest without wood stove: 1.74 (1.10, 2.75)*	No association seen between wood burning exposure and incident dementia except in those in highest quartile of exposure who also have wood stoves.
+AD, Alzheimer’s disease; VaD, vascular dementia; CDR-SB, Cognitive Dementia Rating Sum of Boxes; EEM; Episodic Memory Measure; MMSE, Mini-Mental Status Examination; CO, carbon monoxide NO2, nitrogen dioxide; O3, ozone; PM2.5 particulate matter ≤2.5 μm in diameter; PM10, particulate matter ≤10 μm in diameter; SO2, sulphur dioxide; ppb, parts per billion, y; year; *, statistically significant; (a, b), 95% confidence interval; HR, hazard ratio; HRIQR, hazard ratio per interquartile range increase; IQR, interquartile range; ns, non-significant; OR, Odds ratio. Q, quintile; SD, standard deviation; SES, socio-economic status.
+
+For PM2.5, three studies [21, 23, 29] reported an association between PM2.5 and decline in cognitive performance (i.e., higher exposure associated with higher risk), with the WHIMS study additionally reporting a dose dependent relationship between apolipoprotein E4 (APOE4) allele and PM2.5, such that the lowest decline was in those with lowest exposure and without an APOE4 allele [29]. In the Whitehall study, the association between PM2.5 and decline in cognitive performance was seen only for memory performance with a four-year time lag (average exposure over four years prior to second cognitive assessment) but not in other cognitive domains or with other time lag periods [23]. Two further studies found no relationship between PM2.5 and decline in cognitive performance [22, 25], although one reported a dose response relationship for the interaction between presence of APOE4, PM2.5, and cognitive decline [25] Greater exposure to PM2.5 was also associated with an increased risk of dementia [8, 24, 31] and AD [24, 27], in UK, Canadian, Swedish, United States, and Taiwanese populations with the WHIMS study also reporting a dose dependent relationship for APOE4, PM2.5, and dementia risk [29]. For NO2/NOx, greater exposure was consistently associated with an increased risk of dementia [8, 24, 26, 28] and AD [24]. There was one analysis of NOx and cognitive decline that reported no relationship between NOx and decline in episodic memory [30]. Four studies also examined ozone as a pollutant [8, 24, 25, 27]. One found no relationship with incident dementia [8], one reported a decreased risk of dementia and AD [24], one found greater ozone exposure to be associated with increased risk of incident AD [27], and one reported only a dose dependent relationship between APOE4, ozone interaction, and cognitive decline [25], i.e., the lowest decline in those with lowest exposure and without an APOE4 allele [25]. A single study looked at carbon monoxide and found an association between greater exposure and increased risk of dementia [28].
+
+Taking a different approach, Chen et al. and Carey et al. used a proxy measure of pollution exposure looking at the association between place of residence and distance to the nearest major roadway [9, 24]. This has been shown to have a cross sectional association with poorer cognitive scores in a population in Germany [47], but has not been examined with incident dementia. The results for Chen et al. showed a statistically significant dose response such that the closer the residence to a major roadway the greater the risk of incident dementia [9]. See Supplementary Table 2.
+
+Study quality
+Overall, all studies had reasonable clarity in their research questions, used adequate methodology and standard clinical assessments (although not always the gold standard) for cognitive outcomes, and employed a range of modelling approaches to estimate exposures that employed some form of statistical or dispersion modeling, with some form of prior evaluation. Further caution is required regarding interpreting the data relating to dementia risk and residential distance from a major roadway [9, 24] as this was not additionally adjusted for regional impact of wind conditions. Five studies had a greater potential for bias in measurement of outcome in the form of incident dementia, primarily due to the use of health records for the identification of cases [8, 9, 24, 27, 28]. The use of health records rather than a rigorous assessment of all study participants is pragmatic for large sample sizes but may bring bias. Health records often rely on a level of self-referral for assessment and have the potential for missed cases, diagnoses made later in the disease course, and higher rates of case finding in those with comorbid conditions and are likely to have less systematic recording of potential confounders. Four studies used populations that restrict generalizability; the Nurses Health Study recruited only female nurses [21], the WHIMS included only women [29], the Whitehall study recruited predominantly male civil servants [23], and Cleary et al selected participants from an ongoing University of Washington National Alzheimer Coordinating Center [25]. All studies adjusted for a series of relevant confounders (see Supplementary Table 2). Overall, the majority of the studies were at low or low to moderate risk of bias (Supplementary Table 3).
+
+DISCUSSION
+Overall, the evidence from longitudinal cohort studies pointed towards an association between greater exposure to pollutants, in particular PM2.5, NO2/NOx and increased risk of dementia. The evidence for cognitive decline was more equivocal than that for the dementia outcomes. The pattern was mixed for O3 with studies reporting positive and negative associations with exposure and increased risk and one reporting no association. Results for CO, PM2.5–10, and PM10 were too few to allow strong conclusions. These results support a possible role for exposure to air pollution, especially pollutants PM2.5, NO2/NOx, and O3 and an increased risk of dementia and the decline in cognitive function that precedes it. Plausible pathways exist to support this. It is hypothesized that, when inhaled, the gas, particles, or material desorbed from the particle surface act to induce inflammatory responses, microglial activation, production of reactive oxygen species, and increased production and deposition of Aβ peptides [3, 4, 16, 17, 60–65]. Furthermore, plausible mechanisms support the potential for inhaled PM2.5 or the even smaller UltraFine Particulate Matter <0.1 μm (UFPM) reaching the brain directly via the olfactory bulb with animal studies finding ultrafine particle penetration into the olfactory bulb, the frontal cortical, and subcortical areas of the brain [3, 4, 17, 66–70]. Although our review focused mainly on later life decline and incident dementia, exposure likely builds over the lifetime. Autopsy studies from children and young adults living in Mexico City have found associations between exposure to urban air pollution, particulate deposition and inflammation already present within the brain [71, 72], and population-based longitudinal studies are beginning to report associations between prior air pollution exposure and imaging outcomes; for example, the Atherosclerosis Risk In Communities study found higher long term PM exposure to be associated with smaller deep-grey matter volume [73].
+
+Strengths and limitations
+The systematic nature of our updated review and selected inclusion of only longitudinal studies with incident dementia or cognitive change provides the most rigorous filter with which to examine the evidence relating to the association between air pollution and incident cognitive decline or dementia. Furthermore, the risk of bias in the included studies was low to moderate. However, there are limitations. Studies were drawn from just five countries. The assessment of pollution, although geocoded, may not reflect the true local variation or exposure in a mobile population; for example, if, as shown, risk varies within 300 m of a major roadway, there is the potential for a huge variety of risk within even a small geographical area, potentially even more so when taking account of prevailing wind patterns [9]. This is further limited by the use of varied methods for the assessment of exposure to air pollution in the included articles and the data were too disparate to be combined in a meta-analysis. The use of incident dementia is robust but relies on health records where diagnostic rigor may be weaker and cases may be missed. Conversely, case finding bias may be prompted by other health concerns also stemming from exposure to air pollution. Furthermore, although this is in contrast to studies where specific assessment of cognitive function is required for all participants as part of the study procedures a measure of cognitive decline by itself does not necessarily indicate an ongoing degenerative process. As in all dementia risk factor evidence, there is also the question of adequate assessment of confounding, in particular where there may be an interaction with presence of APOE4. Furthermore, although many co-variates have been accounted for there remains, for air pollution in particular, the possibility of a role for both individual and parental socioeconomic status, living conditions, and pollution exposure through the life-course. This is particularly relevant considering that associations between air pollution and poorer cognitive performance have been shown in childhood [6, 7]. Finally, of course, there may be an emerging publication bias as this area expands and we could not assess this, we did not review the grey literature, nor could we combine the evidence we have in a useful meta-analysis.
+
+Although the evidence base examining the association between air pollution and cognitive decline or dementia is smaller and less convincing than the equivalent evidence linking air pollution to increased risk of cardiovascular disease [1, 2], it is growing quickly. All of the articles that we identified had been published in the last five years, and 11 of the 13 we identified had been published since our last systematic review which searched until 1 November 2013 [11]. Our updated review, examining longitudinal evidence with incident decline, adds confirmatory evidence reducing uncertainty as to the likelihood of an association. Furthermore, the growing evidence base is reporting increasingly consistent results (at least for dementia outcomes), dose response relationships, and biological plausibility particularly for exposure to PM2.5. A detailed examination of the growing literature on potential mechanisms is beyond the scope of this review; however, for example, see Heusinkveld et al., Mumaw et al., Aragon et al., and Thompson [62–65] for more details.
+
+Our review has drawn together and presented the existing evidence for exposure to air pollution and incident cognitive decline or dementia. Our goal now should be to strengthen the rigor and extent of the research in this area to allow specific recommendations to be made. This could be achieved by the use of an individual participant data meta-analysis but to do this, we need to examine a number of factors in more depth. These include: 1) the role of exposure duration; 2) the role of different pollutants and different combinations of pollutants using more sophisticated adjustment and modelling of exposure, e.g., including adjustment for presence of multiple pollutants, taking account of current and prior residential and other exposures such as school yards or workplaces; 3) the role of exposure in different populations in different geographical regions, such as low and middle income countries; 4) the role of modifying factors such as APOE4; 5) the potential variation in the association of air pollution with different cognitive domains; 6) the need to collect repeat imaging measures to allow insight into pathways and mechanisms; and 7) the potential for ameliorating the effects of exposure.
+
+Conclusion
+Air pollution, in common with the majority of established risk factors for dementia, does not influence cognition alone. Rather, it increases the risk of multiple non-communicable diseases, one of which is dementia. However, unlike the majority of the established dementia risk factors, the opportunity for personal control over exposure to risk from air pollution is low. Air pollution is pervasive, global, life-long, and bad for health. Further regulation and reduction of exposure has huge potential for health benefit and cost saving including potentially reducing dementia risk. At present, the evidence suggests that greater exposure to air pollution may increase risk of cognitive decline and dementia, and further research is needed to support robust recommendations.
+
+ACKNOWLEDGMENTS
+RP is funded by the Australian National Health and Medical Research Council Dementia Centre for Research Collaboration, NE is funded by the NHMRC Centre of Excellence in Cognitive Health APP1100579, KJA is funded by NHMRC Fellowship APP1102694. We acknowledge support from the UK National Institute for Health Research, and the ARC Centre of Research Excellence in Population Ageing Research CE170100005.
+
+IM’s contribution was also part funded by the National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Health Impact of Environmental Hazards at King’s College London in partnership with Public Health England (PHE) and Imperial College London. The views expressed in this paper are those of the authors and not do not reflect the official policy or position of any of the following: the NHS, the NIHR, the Department of Health, Public Health England or the Medicines and Healthcare Products Regulatory Agency (MHRA).
+
+Authors’ disclosures available online (https://www.j-alz.com/manuscript-disclosures/18-0631r3).
+
+SUPPLEMENTARY MATERIAL
+[1] The supplementary material is available in the electronic version of this article: http://dx.doi.org/10.3233/JAD-180631.
+
+REFERENCES
+[1] 
+
+Landrigan PJ , Fuller R , Acosta NJR , Adeyi O , Arnold R , Basu N , Baldé AB , Bertollini R , Bose-O’Reilly S , Boufford JI , Breysse PN , Chiles T , Mahidol C , Coll-Seck AM , Cropper ML , Fobil J , Fuster V , Greenstone M , Haines A , Hanrahan D , Hunter D , Khare M , Krupnick A , Lanphear B , Lohani B , Martin K , Mathiasen KV , McTeer MA , Murray CJL , Ndahimananjara JD , Perera F , Potočnik J , Preker AS , Ramesh J , Rockström J , Salinas C , Samson LD , Sandilya K , Sly PD , Smith KR , Steiner A , Stewart RB , Suk WA , van Schayck OCP , Yadama GN , Yumkella K , Zhong M ((2018) ) The Lancet Commission on pollution and health. Lancet 391: , 462–512.
+
+[2] 
+
+Shah AS , Lee KK , McAllister DA , Hunter A , Nair H , Whiteley W , Langrish JP , Newby DE , Mills NL ((2015) ) Short term exposure to air pollution and stroke: Systematic review and meta-analysis. BMJ 350: , h1295.
+
+[3] 
+
+Block ML , Calderon-Garciduenas L ((2009) ) Air pollution: Mechanisms of neuroinflammation and CNS disease. Trends Neurosci 32: , 506–516.
+
+[4] 
+
+Calderon-Garciduenas L , Reed W , Maronpot RR , Henriquez-Roldan C , Delgado-Chavez R , Calderon-Garciduenas A , Dragustinovis I , Franco-Lira M , Aragon-Flores M , Solt AC , Altenburg M , Torres-Jardon R , Swenberg JA ((2004) ) Brain inflammation and Alzheimer’s-like pathology in individuals exposed to severe air pollution. Toxicol Pathol 32: , 650–658.
+
+[5] 
+
+Gonzalez-Maciel A , Reynoso-Robles R , Torres-Jardon R , Mukherjee PS , Calderon-Garciduenas L ((2017) ) Combustion-derived nanoparticles in key brain target cells and organelles in young urbanites: Culprit hidden in plain sight in Alzheimer’s disease development. J Alzheimers Dis 59: , 189–208.
+
+[6] 
+
+Clifford A , Lang L , Chen R , Anstey KJ , Seaton A ((2016) ) Exposure to air pollution and cognitive functioning across the life course – A systematic literature review. Environ Res 147: , 383–398.
+
+[7] 
+
+Calderon-Garciduenas L , Mora-Tiscareno A , Styner M , Gomez-Garza G , Zhu H , Torres-Jardon R , Carlos E , Solorio-Lopez E , Medina-Cortina H , Kavanaugh M , D’Angiulli A ((2012) ) White matter hyperintensities, systemic inflammation, brain growth, and cognitive functions in children exposed to air pollution. J Alzheimers Dis 31: , 183–191.
+
+[8] 
+
+Chen H , Kwong JC , Copes R , Hystad P , van Donkelaar A , Tu K , Brook JR , Goldberg MS , Martin RV , Murray BJ , Wilton AS , Kopp A , Burnett RT ((2017) ) Exposure to ambient air pollution and the incidence of dementia: A population-based cohort study. Environ Int 108: , 271–277.
+
+[9] 
+
+Chen H , Kwong JC , Copes R , Tu K , Villeneuve PJ , van Donkelaar A , Hystad P , Martin RV , Murray BJ , Jessiman B , Wilton AS , Kopp A , Burnett RT ((2017) ) Living near major roads and the incidence of dementia, Parkinson’s disease, and multiple sclerosis: A population-based cohort study. Lancet 389: , 718–726.
+
+[10] 
+
+Kioumourtzoglou MA , Schwartz JD , Weisskopf MG , Melly SJ , Wang Y , Dominici F , Zanobetti A ((2016) ) Long-term PM2.5 exposure and neurological hospital admissions in the northeastern United States. Environ Health Perspect 124: , 23–29.
+
+[11] 
+
+Peters R , Peters J , Booth A , Mudway I ((2015) ) Is air pollution associated with increased risk of cognitive decline? A systematic review. Age Ageing 44: , 755–760.
+
+[12] 
+
+Prince M , Wimo A , Guerchet M , Ali G-C , Wu Y-T , Prina M ((2015) ) World Alzheimer Report 2015. The global impact of dementia: An analysis of prevalence, incidence, cost and trends.Alzheimer’s Disease International, London, UK.
+
+[13] 
+
+Prince M , Albanese E , Guerchet M , Prina M ((2014) ) World Alzheimer Report 2014. Dementia and risk reduction: An analysis of protective and modifiable factors. Alzheimer’s Disease International. London, UK.
+
+[14] 
+
+Cesaroni G , Forastiere F , Stafoggia M , Andersen ZJ , Badaloni C , Beelen R , Caracciolo B , de Faire U , Erbel R , Eriksen KT , Fratiglioni L , Galassi C , Hampel R , Heier M , Hennig F , Hilding A , Hoffmann B , Houthuijs D , Jockel KH , Korek M , Lanki T , Leander K , Magnusson PK , Migliore E , Ostenson CG , Overvad K , Pedersen NL , J JP , Penell J , Pershagen G , Pyko A , Raaschou-Nielsen O , Ranzi A , Ricceri F , Sacerdote C , Salomaa V , Swart W , Turunen AW , Vineis P , Weinmayr G , Wolf K , de Hoogh K , Hoek G , Brunekreef B , Peters A ((2014) ) Long term exposure to ambient air pollution and incidence of acute coronary events: Prospective cohort study and meta-analysis in 11 European cohorts from the ESCAPE Project. BMJ 348: , f7412.
+
+[15] 
+
+Hoek G , Krishnan RM , Beelen R , Peters A , Ostro B , Brunekreef B , Kaufman JD ((2013) ) Long-term air pollution exposure and cardio- respiratory mortality: A review. Environ Health 12: , 43.
+
+[16] 
+
+Levesque S , Surace MJ , McDonald J , Block ML ((2011) ) Air pollution & the brain: Subchronic diesel exhaust exosure causes neuroinflammation and elevates early markers of neurodegenerative disease. J Neuroinflammation 8: , 105.
+
+[17] 
+
+Moulton PV , Yang W ((2012) ) Air pollution, oxidative stress, and Alzheimer’s disease. J Environ Public Health 2012: , 472751.
+
+[18] 
+
+Livingston G , Sommerlad A , Orgeta V , Costafreda SG , Huntley J , Ames D , Ballard C , Banerjee S , Burns A , Cohen-Mansfield J , Cooper C , Fox N , Gitlin LN , Howard R , Kales HC , Larson EB , Ritchie K , Rockwood K , Sampson EL , Samus Q , Schneider LS , Selbæk G , Teri L , Mukadam N ((2017) ) Dementia prevention, intervention, and care. Lancet 390: , 2673–2734.
+
+[19] 
+
+Higgins JPT , Green S ((2011) ) Cochrane Handbook for Systematic Reviews of Interventions, Version 5.1.0. The Cochrane Collaboration.
+
+[20] 
+
+Critical Appraisal Skills Programme. CASP Checklist: 12 questions to help you make sense of a Cohort Study. URL: http://casp-uk.net/wp-content/uploads/2018/01/CASP-Cohort-Study-Checklist_2018.pdf
+
+[21] 
+
+Weuve J , Puett RC , Schwartz J , Yanosky JD , Laden F , Grodstein F ((2012) ) Exposure to particulate air pollution and cognitive decline in older women. Arch Intern Med 172: , 219–227.
+
+[22] 
+
+Loop MS , Kent ST , Al-Hamdan MZ , Crosson WL , Estes SM , Estes MG Jr. , Quattrochi DA , Hemmings SN , Wadley VG , McClure LA ((2013) ) Fine particulate matter and incident cognitive impairment in the REasons for Geographic and Racial Differences in Stroke (REGARDS) cohort. PLoS One 8: , e75001.
+
+[23] 
+
+Tonne C , Elbaz A , Beevers S , Singh-Manoux A ((2014) ) Traffic-related air pollution in relation to cognitive function in older adults. Epidemiology 25: , 674–681.
+
+[24] 
+
+Carey IM , Anderson HR , Atkinson RW , Beevers SD , Cook DG , Strachan DP , Dajnak D , Gulliver J , Kelly FJ ((2018) ) Are noise and air pollution related to the incidence of dementia? A cohort study in London, England. BMJ Open 8: , e022404.
+
+[25] 
+
+Cleary EG , Cifuentes M , Grinstein G , Brugge D , Shea TB ((2018) ) Association of low-level ozone with cognitive decline in older adults. J Alzheimers Dis 61: , 67–78.
+
+[26] 
+
+Oudin A , Forsberg B , Adolfsson AN , Lind N , Modig L , Nordin M , Nordin S , Adolfsson R , Nilsson LG ((2016) ) Traffic-related air pollution and dementia incidence in northern Sweden: A longitudinal study. Environ Health Perspect 124: , 306–312.
+
+[27] 
+
+Jung CR , Lin YT , Hwang BF ((2015) ) Ozone, particulate matter, and newly diagnosed Alzheimer’s disease: A population-based cohort study in Taiwan. J Alzheimers Dis 44: , 573–584.
+
+[28] 
+
+Chang KH , Chang MY , Muo CH , Wu TN , Chen CY , Kao CH ((2014) ) Increased risk of dementia in patients exposed to nitrogen dioxide and carbon monoxide: A population-based retrospective cohort study. PLoS One 9: , e103078.
+
+[29] 
+
+Cacciottolo M , Wang X , Driscoll I , Woodward N , Saffari A , Reyes J , Serre ML , Vizuete W , Sioutas C , Morgan TE , Gatz M , Chui HC , Shumaker SA , Resnick SM , Espeland MA , Finch CE , Chen JC ((2017) ) Particulate air pollutants, APOE alleles and their contributions to cognitive impairment in older women and to amyloidogenesis in experimental models. Transl Psychiatry 7: , e1022.
+
+[30] 
+
+Oudin A , Forsberg B , Lind N , Nordin S , Oudin Astrom D , Sundstrom A , Nordin M ((2017) ) Is long-term exposure to air pollution associated with episodic memory? A longitudinal study from northern Sweden. Sci Rep 7: , 12789.
+
+[31] 
+
+Oudin A , Segersson D , Adolfsson R , Forsberg B ((2018) ) Association between air pollution from residential wood burning and dementia incidence in a longitudinal study in Northern Sweden. PLoS One 13: , e0198283.
+
+[32] 
+
+Andersson J , Oudin A , Sundstrom A , Forsberg B , Adolfsson R , Nordin M ((2018) ) Road traffic noise, air pollution, and risk of dementia - results from the Betula project. Environ Res 166: , 334–339.
+
+[33] 
+
+Seo J , Lee BK , Jin SU , Park JW , Kim YT , Ryeom HK , Lee J , Suh KJ , Kim SH , Park SJ , Jeong KS , Ham JO , Kim Y , Chang Y ((2014) ) Lead-induced impairments in the neural processes related to working memory function. PLoS One 9: , e105308.
+
+[34] 
+
+Colicino E , Giuliano G , Power MC , Lepeule J , Wilker EH , Vokonas P , Brennan KJM , Fossati S , Hoxha M , Spiro A 3rd , Weisskopf MG , Schwartz J , Baccarelli AA ((2016) ) Long-term exposure to black carbon, cognition and single nucleotide polymorphisms in microRNA processing genes in older men. Environ Int 88: , 86–93.
+
+[35] 
+
+Reed BR , Crane J , Garrett N , Woods DL , Bates MN ((2014) ) Chronic ambient hydrogen sulfide exposure and cognitive function. Neurotoxicol Teratol 42: , 68–76.
+
+[36] 
+
+Ailshire J , Karraker A , Clarke P ((2017) ) Neighborhood social stressors, fine particulate matter air pollution, and cognitive function among older U.S. adults. Soc Sci Med 172: , 56–63.
+
+[37] 
+
+Eum KD , Wang FT , Schwartz J , Hersh CP , Kelsey K , Wright RO , Spiro A , Sparrow D , Hu H , Weisskopf MG ((2013) ) Modifying roles of glutathione S-transferase polymorphisms on the association between cumulative lead exposure and cognitive function. Neurotoxicology 39: , 65–71.
+
+[38] 
+
+Sun H ((2017) ) Associations of spatial disparities of Alzheimer’s disease mortality rates with soil selenium and sulfur concentrations and four common risk factors in the United States. J Alzheimers Dis 58: , 897–907.
+
+[39] 
+
+Wilker EH , Martinez-Ramirez S , Kloog I , Schwartz J , Mostofsky E , Koutrakis P , Mittleman MA , Viswanathan A ((2016) ) Fine particulate matter, residential proximity to major roads, and markers of small vessel disease in a memory study population. J Alzheimers Dis 53: , 1315–1323.
+
+[40] 
+
+Colicino E , Wilson A , Frisardi MC , Prada D , Power MC , Hoxha M , Dioni L , Spiro A , Vokonas PS , Weisskopf MG , Schwartz JD , Baccarelli AA ((2017) ) Telomere length, long-term black carbon exposure, and cognitive function in a cohort of older men: The VA Normative Aging Study. Environ Health Perspect 125: , 76–81.
+
+[41] 
+
+Tzivian L , Jokisch M , Winkler A , Weimar C , Hennig F , Sugiri D , Soppa VJ , Dragano N , Erbel R , Jockel KH , Moebus S , Hoffmann B , Heinz Nixdorf Recall Study Group ((2017) ) Associations of long-term exposure to air pollution and road traffic noise with cognitive function-An analysis of effect measure modification. Environ Int 103: , 30–38.
+
+[42] 
+
+Peng Q , Bakulski KM , Nan B , Park SK ((2017) ) Cadmium and Alzheimer’s disease mortality in U.S. adults: Updated evidence with a urinary biomarker and extended follow-up time. Environ Res 157: , 44–51.
+
+[43] 
+
+Linares C , Culqui D , Carmona R , Ortiz C , Diaz J ((2017) ) Short-term association between environmental factors and hospital admissions due to dementia in Madrid. Environ Res 152: , 214–220.
+
+[44] 
+
+Tallon LA , Manjourides J , Pun VC , Salhi C , Suh H ((2017) ) Cognitive impacts of ambient air pollution in the National Social Health and Aging Project (NSHAP) cohort. Environ Int 104: , 102–109.
+
+[45] 
+
+Sun R , Gu D ((2008) ) Air pollution, economic development of communities, and health status among the elderly in urban China. Am J Epidemiol 168: , 1311–1318.
+
+[46] 
+
+Zeng Y , Gu D , Purser J , Hoenig H , Christakis N ((2010) ) Associations of environmental factors with elderly health and mortality in China. Am J Public Health 100: , 298–305.
+
+[47] 
+
+Ranft U , Schikowski T , Sugiri D , Krutmann J , Kramer U ((2009) ) Long-term exposure to traffic-related particulate matter impairs cognitive function in the elderly. Environ Res 109: , 1004–1011.
+
+[48] 
+
+Chen JC , Schwartz J ((2009) ) Neurobehavioral effects of ambient air pollution on cognitive performance in US adults. Neurotoxicology 30: , 231–239.
+
+[49] 
+
+Bos I , De Boever P , Vanparijs J , Pattyn N , Panis LI , Meeusen R ((2013) ) Subclinical effects of aerobic training in urban environment. Med Sci Sports Exerc 45: , 439–447.
+
+[50] 
+
+Wellenius GA , Boyle LD , Coull BA , Milberg WP , Gryparis A , Schwartz J , Mittleman MA , Lipsitz LA ((2012) ) Residential proximity to nearest major roadway and cognitive function in community-dwelling seniors: Results from the MOBILIZE Boston Study. J Am Geriatr Soc 60: , 2075–2080.
+
+[51] 
+
+Giacoppo S , Galuppo M , Calabro RS , D’Aleo G , Marra A , Sessa E , Bua DG , Potorti AG , Dugo G , Bramanti P , Mazzon E ((2014) ) Heavy metals and neurodegenerative diseases: An observational study. Biol Trace Elem Res 161: , 151–160.
+
+[52] 
+
+Fehsel K , Schikowski T , Janner M , Huls A , Voussoughi M , Schulte T , Vierkotter A , Teichert T , Herder C , Sugiri D , Kramer U , Luckhaus C ((2016) ) Estrogen receptor beta polymorphisms and cognitive performance in women: Associations and modifications by genetic and environmental influences. J Neural Transm (Vienna) 123: , 1369–1379.
+
+[53] 
+
+Bowler RM , Kornblith ES , Gocheva VV , Colledge MA , Bollweg G , Kim Y , Beseler CL , Wright CW , Adams SW , Lobdell DT ((2015) ) Environmental exposure to manganese in air: Associations with cognitive functions. Neurotoxicology 49: , 139–148.
+
+[54] 
+
+Shih RA , Glass TA , Bandeen-Roche K , Carlson MC , Bolla KI , Todd AC , Schwartz BS ((2006) ) Environmental lead exposure and cognitive function in community-dwelling older adults. Neurology 67: , 1556–1562.
+
+[55] 
+
+Min JY , Min KB ((2016) ) Blood cadmium levels and Alzheimer’s disease mortality risk in older US adults. Environ Health 15: , 69.
+
+[56] 
+
+Prada D , Colicino E , Power MC , Weisskopf MG , Zhong J , Hou L , Spiro A 3rd , Vokonas P , Brenan K , Herrera LA , Schwartz J , Baccarelli AA ((2016) ) APOE epsilon4 allele modifies the association of lead exposure with age-related cognitive decline in older individuals. Environ Res 151: , 101–105.
+
+[57] 
+
+Farooqui Z , Bakulski KM , Power MC , Weisskopf MG , Sparrow D , Spiro A 3rd , Vokonas PS , Nie LH , Hu H , Park SK ((2017) ) Associations of cumulative Pb exposure and longitudinal changes in Mini-Mental Status Exam scores, global cognition and domains of cognition: The VA Normative Aging Study. Environ Res 152: , 102–108.
+
+[58] 
+
+Power MC , Korrick S , Tchetgen Tchetgen EJ , Nie LH , Grodstein F , Hu H , Weuve J , Schwartz J , Weisskopf MG ((2014) ) Lead exposure and rate of change in cognitive function in older women. Environ Res 129: , 69–75.
+
+[59] 
+
+Weisskopf MG ((2012) ) What, me worry? Chemicals and causality. Epidemiology 23: , 787–789.
+
+[60] 
+
+Jayaraj RL , Rodriguez EA , Wang Y , Block ML ((2017) ) Outdoor ambient air pollution and neurodegenerative diseases: The neuroinflammation hypothesis. Curr Environ Health Rep 4: , 166–179.
+
+[61] 
+
+Yan W , Yun Y , Ku T , Li G , Sang N ((2016) ) NO2 inhalation promotes Alzheimer’s disease-like progression: Cyclooxygenase-2-derived prostaglandin E2 modulation and monoacylglycerol lipase inhibition-targeted medication. Sci Rep 6: , 22429.
+
+[62] 
+
+Thompson JE ((2018) ) Airborne particulate matter: Human exposure and health effects. J Occup Environ Med 60: , 392–423.
+
+[63] 
+
+Mumaw CL , Levesque S , McGraw C , Robertson S , Lucas S , Stafflinger JE , Campen MJ , Hall P , Norenberg JP , Anderson T , Lund AK , McDonald JD , Ottens AK , Block ML ((2016) ) Microglial priming through the lung-brain axis: The role of air pollution-induced circulating factors. FASEB J 30: , 1880–1891.
+
+[64] 
+
+Aragon MJ , Topper L , Tyler CR , Sanchez B , Zychowski K , Young T , Herbert G , Hall P , Erdely A , Eye T , Bishop L , Saunders SA , Muldoon PP , Ottens AK , Campen MJ ((2017) ) Serum-borne bioactivity caused by pulmonary multiwalled carbon nanotubes induces neuroinflammation via blood-brain barrier impairment. Proc Natl Acad Sci U S A 114: , E1968–E1976.
+
+[65] 
+
+Heusinkveld HJ , Wahle T , Campbell A , Westerink RHS , Tran L , Johnston H , Stone V , Cassee FR , Schins RPF ((2016) ) Neurodegenerative and neurological disorders by small inhaled particles. Neurotoxicology 56: , 94–106.
+
+[66] 
+
+Nemmar A , Vanbilloen H , Hoylaerts MF , Hoet PH , Verbruggen A , Nemery B ((2001) ) Passage of intratracheally instilled ultrafine particles from the lung into the systemic circulation in hamster. Am J Respir Crit Care Med 164: , 1665–1668.
+
+[67] 
+
+Elder A , Gelein R , Silva V , Feikert T , Opanashuk L , Carter J , Potter R , Maynard A , Ito Y , Finkelstein J , Oberdorster G ((2006) ) Translocation of inhaled ultrafine manganese oxide particles to the central nervous system. Environ Health Perspect 114: , 1172–1178.
+
+[68] 
+
+Cheng H , Saffari A , Sioutas C , Forman HJ , Morgan TE , Finch CE ((2016) ) Nanoscale particulate matter from urban traffic rapidly induces oxidative stress and inflammation in olfactory epithelium with concomitant effects on brain. Environ Health Perspect 124: , 1537–1546.
+
+[69] 
+
+Forman HJ , Finch CE ((2018) ) A critical review of assays for hazardous components of air pollution. Free Radic Biol Med 117: , 202–217.
+
+[70] 
+
+Oberdorster G , Sharp Z , Atudorei V , Elder A , Gelein R , Kreyling W , Cox C ((2004) ) Translocation of inhaled ultrafine particles to the brain. Inhal Toxicol 16: , 437–445.
+
+[71] 
+
+Calderon-Garciduenas L , Franco-Lira M , Henriquez-Roldan C , Osnaya N , Gonzalez-Maciel A , Reynoso-Robles R , Villarreal-Calderon R , Herritt L , Brooks D , Keefe S , Palacios-Moreno J , Villarreal-Calderon R , Torres-Jardon R , Medina-Cortina H , Delgado-Chavez R , Aiello-Mora M , Maronpot RR , Doty RL ((2010) ) Urban air pollution: Influences on olfactory function and pathology in exposed children and young adults. Exp Toxicol Pathol 62: , 91–102.
+
+[72] 
+
+Calderon-Garciduenas L , Solt AC , Henriquez-Roldan C , Torres-Jardon R , Nuse B , Herritt L , Villarreal-Calderon R , Osnaya N , Stone I , Garcia R , Brooks DM , Gonzalez-Maciel A , Reynoso-Robles R , Delgado-Chavez R , Reed W ((2008) ) Long-term air pollution exposure is associated with neuroinflammation, an altered innate immune response, disruption of the blood-brain barrier, ultrafine particulate deposition, and accumulation of amyloid beta-42 and alpha-synuclein in children and young adults. Toxicol Pathol 36: , 289–310.
+
+[73] 
+
+Power MC , Lamichhane AP , Liao D , Xu X , Jack CR , Gottesman RF , Mosley T , Stewart JD , Yanosky JD , Whitsel EA ((2018) ) The association of long-term exposure to particulate matter air pollution with brain MRI findings: The ARIC Study. Environ Health Perspect 126: , 027009.
+
+Share this:
+ Twitter share Facebook share Linked in share
+Volume Pre-press
+Volume 98
+Volume 97
+Volume 96
+Volume 95
+Volume 94
+Volume 93
+Volume 92
+Volume 91
+Volume 90
+Volume 89
+Volume 88
+Volume 87
+Volume 86
+Volume 85
+Volume 84
+Volume 83
+Volume 82
+Volume 81
+Volume 80
+Volume 79
+Volume 78
+Volume 77
+Volume 76
+Volume 75
+Volume 74
+Volume 73
+Volume 72
+Volume 71
+Volume 70
+Issue 4
+Issue 3
+Issue 2
+Issue 1
+Issue s1
+Show more
+We recommend
+Association of Low-Level Ozone with Cognitive Decline in Older Adults
+Ekaterina Galkina Cleary et al., Journal of Alzheimer’s Disease, 2018
+Air Pollution, Stress, and Allostatic Load: Linking Systemic and Central Nervous System Impacts
+Thomson et al., Journal of Alzheimer’s Disease, 2019
+Traffic-Related Air Pollution as a Risk Factor for Dementia: No Clear Modifying Effects of APOE ɛ4 in the Betula Cohort
+Oudin et al., Journal of Alzheimer’s Disease, 2019
+Fine Particulate Matter Exposure and Cerebrospinal Fluid Markers of Vascular Injury
+Shaffer et al., Journal of Alzheimer’s Disease, 2019
+Relationships between lung cancer incidences and air pollutants
+Yue et al., Technology and Health Care, 2017
+Mothers Exposure to Air Pollution During Pregnancy Associated with an Increased Incidence of Pediatric Acute Lymphoblastic Leukemia, Retinoblastoma and Germ Cell Tumors - Onco'Zine
+Editorial Team et al., Onco'Zine, 2013
+Mothers Exposure to Air Pollution During Pregnancy Associated with an Increased Incidence of Pediatric Acute Lymphoblastic Leukemia, Retinoblastoma and Germ Cell Tumors
+Editorial Team, Onco'Zine, 2013
+Characteristics of emissions for tri-wheel vehicle under national road and rural road conditions
+Xu, Zhenxian et al., Transactions of the Chinese Society of Agricultural Engineering
+Eyes in the sky project will show power plant pollution marks
+by Nancy Cohen et al., TechXplore.com, 2019
+Quantitative estimation on straw nutrient resources and emission of pollutants from straw burning in Beijing-Tianjin-Hebei region
+Fang, Fang et al., Transactions of the Chinese Society of Agricultural Engineering
+Powered by
+Go to headerGo to navigationGo to searchGo to contentsGo to footerIn footer section. Select this link to jump to content
+Administrator log in
+Shibboleth log in
+
+Journals
+Help
+About us
+Contact us
+Terms & conditions
+Privacy policy
+Copyright ©2024 IOS Press All rights reserved.
+Join our network:
+Twitter
+Facebook
+LinkedIn
+North America
+IOS Press, Inc.
+6751 Tepper Drive
+Clifton, VA 20124
+USA
+Tel: +1 703 830 6300
+Fax: +1 703 830 2300
+sales@iospress.com
+For editorial issues, like the status of your submitted paper or proposals, write to editorial@iospress.nl
+
+Europe
+IOS Press
+Nieuwe Hemweg 6B
+1013 BG Amsterdam
+The Netherlands
+Tel: +31 20 688 3355
+Fax: +31 20 687 0091
+info@iospress.nl
+For editorial issues, permissions, book requests, submissions and proceedings, contact the Amsterdam office info@iospress.nl
+Asia
+Inspirees International (China Office)
+Ciyunsi Beili 207(CapitaLand), Bld 1, 7-901
+100025, Beijing
+China
+
+Free service line: 400 661 8717
+Fax: +86 10 8446 7947
+china@iospress.cn
+For editorial issues, like the status of your submitted paper or proposals, write to editorial@iospress.nl
+
+如果您在出版方面需要帮助或有任何建, 件至: editorial@iospress.nl
+IOS press, Impacting the world of science, Books & Journals, Online & PrintBuilt on the Scolaris platform by: Semantico
