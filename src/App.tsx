@@ -7,20 +7,21 @@ import Chatbot, {
 
 function App() {
   const suggestedPrompts = [
-    "Why should I use the MongoDB Chatbot Framework?",
-    "How does the framework use Atlas Vector Search?",
-    "Do you support using LLMs from OpenAI?",
+    "What is AQI?",
+    "How does air pollution affect my health?",
+    "What can I do to protect my health from air pollution?",
   ];
 
   return (
     <>
       <div>
-      <Chatbot darkMode={true} serverBaseUrl="http://localhost:3000/api/v1">
+      <h1>Climate + Health Chat</h1>
+      <Chatbot darkMode={true} serverBaseUrl="http://18.213.113.237:3000/api/v1">
         <>
           <InputBarTrigger suggestedPrompts={suggestedPrompts} />
-          <FloatingActionButtonTrigger text="My MongoDB AI" />
+          <FloatingActionButtonTrigger text="My Climate Health AI" />
           <ModalView
-            initialMessageText="Welcome to MongoDB AI Assistant. What can I help you with?"
+            initialMessageText="Welcome to Climate Health Chat! How can I help you today?"
             initialMessageSuggestedPrompts={suggestedPrompts}
           />
         </>
