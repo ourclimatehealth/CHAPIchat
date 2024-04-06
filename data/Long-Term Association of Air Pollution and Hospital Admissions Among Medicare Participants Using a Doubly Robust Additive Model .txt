@@ -1,0 +1,322 @@
+Long-Term Association of Air Pollution and Hospital Admissions Among Medicare Participants Using a Doubly Robust Additive Model
+Mahdieh Danesh Yazdi, Yan Wang, Qian Di, Yaguang Wei, Weeberb J. Requia, Liuhua Shi, Matthew Benjamin Sabath, Francesca Dominici, Brent A. Coull, John S. Evans, Petros Koutrakis and Joel D. Schwartz
+Originally published22 Feb 2021https://doi.org/10.1161/CIRCULATIONAHA.120.050252Circulation. 2021;143:1584–1596
+Other version(s) of this article
+Abstract
+Background:
+Studies examining the nonfatal health outcomes of exposure to air pollution have been limited by the number of pollutants studied and focus on short-term exposures.
+
+Methods:
+We examined the relationship between long-term exposure to fine particulate matter with an aerodynamic diameter <2.5 micrometers (PM2.5), NO2, and tropospheric ozone and hospital admissions for 4 cardiovascular and respiratory outcomes (myocardial infarction, ischemic stroke, atrial fibrillation and flutter, and pneumonia) among the Medicare population of the United States. We used a doubly robust method for our statistical analysis, which relies on both inverse probability weighting and adjustment in the outcome model to account for confounding. The results from this regression are on an additive scale. We further looked at this relationship at lower pollutant concentrations, which are consistent with typical exposure levels in the United States, and among potentially susceptible subgroups.
+
+Results:
+Long-term exposure to fine PM2.5 was associated with an increased risk of all outcomes with the highest effect seen for stroke with a 0.0091% (95% CI, 0.0086–0.0097) increase in the risk of stroke for each 1-µg/m3 increase in annual levels. This translated to 2536 (95% CI, 2383–2691) cases of hospital admissions with ischemic stroke per year, which can be attributed to each 1-unit increase in fine particulate matter levels among the study population. NO2 was associated with an increase in the risk of admission with stroke by 0.00059% (95% CI, 0.00039–0.00075) and atrial fibrillation by 0.00129% (95% CI, 0.00114–0.00148) per ppb and tropospheric ozone was associated with an increase in the risk of admission with pneumonia by 0.00413% (95% CI, 0.00376–0.00447) per parts per billion. At lower concentrations, all pollutants were consistently associated with an increased risk for all our studied outcomes.
+
+Conclusions:
+Long-term exposure to air pollutants poses a significant risk to cardiovascular and respiratory health among the elderly population in the United States, with the greatest increase in the association per unit of exposure occurring at lower concentrations.
+
+Clinical Perspective
+What Is New?
+Long-term exposure to air pollution was associated with an increased risk of hospital admissions with cardiovascular and respiratory outcomes on an additive scale among the elderly population of the United States.
+
+Each unit increase in levels of particulate matter, nitrogen dioxide, and ozone were associated with thousands of additional admissions each year.
+
+What Are the Clinical Implications?
+Air pollution should be considered as a risk factor for cardiovascular and respiratory disease.
+
+The risk persists even at levels below current national and international guidelines.
+
+Patients should be conscious of the air quality in the region where they live to avoid harmful exposure over long periods of time.
+
+Introduction
+Recent studies looking at the nonfatal health effects of air pollution have shifted their focus from short- to long-term exposure.1–17 The effect estimates from studies on long-term exposure tend to be larger than studies on short-term exposure.9,18 Furthermore, more studies are now exploring multiple air pollutants simultaneously in recognition of the fact that air pollution is a mixture of compounds with varying toxicities.7,15,19 These changes suggest that current regulations may need to be amended. Some pollutants such as tropospheric ozone (O3) do not have any national regulations on long-term exposure.
+
+As research on the effect of long-term exposure to air pollution and health continues to proliferate, most of the current studies focus on mortality outcomes and estimate effects on a multiplicative scale, which are more difficult to interpret clinically because they depend on the distribution of other risk factors.10,11,20,21 Cox proportional hazards models, for example, result in hazard ratios that are often interpreted interchangeably with relative risks, even though they are not the same.22 Multiplicative models also make it more difficult to evaluate effect modification and identify vulnerable subpopulations. Cox proportional hazards models have multiplicative interactions built in to the model, which limits interpretability of further interactions in the model. Moreover, the Cox proportional hazards model provides an estimate of the effect of exposure that is conditional on the covariates and the baseline hazard. This makes use of those coefficients to estimate the attributable cases or risk problematic. In an additive model, the coefficients represent the risk difference as a result of exposure and the coefficients for interaction terms represent the additional risk difference in the subpopulation without reference to the baseline hazard or conditional on the distribution of the covariates. In addition, few studies use the propensity score–based doubly robust method that is often required to sway regulatory policy.7,23–25 This limits knowledge on nonfatal outcomes and limits our ability to make convincing inferences to convince regulators. The studies that use causal methods often explore a single pollutant at a time and not the variety of compounds that comprise air pollution.
+
+To address this gap, our study examines the relationship between average annual fine particulate matter (fine particulate matter with an aerodynamic diameter <2.5 micrometers [PM2.5]), NO2, and O3, and 4 cardiovascular and respiratory hospitalization outcomes (myocardial infarction [MI]; ischemic stroke; atrial fibrillation and flutter; and pneumonia) using a doubly-robust additive model (DRAM) in fee-for-service Medicare beneficiaries across the contiguous United States from 2000 to 2016. In these models, we adjusted for multiple pollutants. We further evaluated effect measure modification (EMM) by demographic characteristics to identify particularly susceptible subpopulations.
+
+Methods
+The data and materials used in this study will not be made available publicly or to other researchers because of restrictions in the data use agreement with the Centers for Medicare and Medicaid Services (CMS). However, CMS data are publicly available to researchers on completion of separate data use agreements. In this study, we examined the relationship between long-term exposure to (1) PM2.5, NO2, and O3 and (2) first hospital admissions with several cardiovascular and respiratory diseases on an additive scale.
+
+Study Population
+Our full cohort consisted of all fee-for-service Medicare beneficiaries who were 65 years of age or older and who lived in the contiguous United States between 2000 and 2016. These data were derived from the Medicare denominator file and the Medicare Provider Analysis and Review file. We created a separate dataset for each outcome of interest. Patients entered the cohort on January 1 of the year after enrollment and were followed until they developed the outcome of interest, died, were censored, or reached the end of the follow-up time.
+
+Exposure Assessment
+PM2.5, O3, and NO2 levels were derived from high-resolution spatiotemporal ensemble models, each of which combined estimates from 3 different machine learning algorithms, including a neural network, a gradient boosting machine, and a random forest.26–28
+
+The models used hundreds of predictors including land use terms, chemical transport model predictions, meteorologic variables, and satellite measurements to estimate daily levels of the pollutants on a scale of 1 km × 1 km. The advantage of using these machine learning techniques is that they make no assumptions about the functional form of the relationships between the predictors and the outcome. The quality of the estimates was assessed using 10-fold cross-validation against measured values at Environmental Protection Agency monitoring sites across the United States. The resulting R2 values of 0.89, 0.84, and 0.86 for the annual averages of PM2.5, NO2, and O3, respectively, show excellent model performance.26–28 Grid-cell values were averaged across zip codes. Exposure was assigned on the basis of the residential zip code of the beneficiary. Long-term exposure in our study is defined as the calendar year average of daily estimates.
+
+Outcome Assessment
+The dataset contains all hospital admissions for Medicare fee-for-service beneficiaries from 2000 through 2016. Medicare used International Classification of Diseases, Ninth Revision (ICD-9) codes through the end of the third quarter of 2015 and then switched to International Classification of Diseases, Tenth Revision (ICD-10). Primary discharge codes for myocardial infarction were defined as ICD-9 codes 410.X0 and 410.X1 and ICD-10 code I21 as the primary discharge code. Primary discharge codes for ischemic stroke were defined as ICD-9 codes 433.X1, 434.X1, and 436, and ICD-10 code I63 as the primary discharge code. Primary discharge codes for pneumonia were defined as ICD-9 codes 003.22, 011.6, 055.1, 073.0, 115.05, 115.15, 115.95, 480, 481, 482, 483, 484, 485, 486, 487.0, 488.01, 488.11, 488.81, 516.3, 517.1, and 997.32, and ICD-10 codes A01.03, A02.22, A20.2, A21.2,A22.1, A37.X1, A42.0, A43.0, A48.1, A54.84, A69.8, B01.2, B05.2, B06.81, B25.0, B37.1, B38.0,B39.0, B44.0, B44.1, B58.3, B59, B77.81, J15, J09.X1, J10.0, J11.0, J12, J13, J14, J17, J18, J84.2, J85.1, and J95.851 as primary discharge codes. Primary discharge codes for atrial fibrillation and flutter were defined as ICD-9 code 427.3 and ICD-10 code I48 as the primary discharge codes.
+
+Covariate Assessment
+We obtained data on individual-level covariates sex, race, age group, and Medicaid eligibility from the Medicare denominator file. We used data from the US Census and the American Community Survey to find zip code–level socioeconomic data: proportion of the population >65 years of age living below the poverty line, population density, median value of owner occupied properties, proportion of the population listed as Black, median household income, proportion of housing units occupied by the owner, proportion of the population identified as Hispanic, and proportion of the population >65 years of age who had not graduated from high school. Measured data were available for 2000 and 2010 through 2016. Data for all other years and missing values were obtained using linear interpolation and extrapolation.
+
+The lung cancer hospitalization rate in each zip code was used as a proxy for smoking and was derived from Medicare Provider Analysis and Review.29–31
+
+We derived zip code–level data on mean body mass index and the smoking rate from the Behavioral Risk Factor Surveillance System. Behavioral Risk Factor Surveillance System data were collected at the county level and then linked to relevant zip codes and temporally interpolated using linear regression to fill in missing values.
+
+We obtained zip code–level data on several access-to-care variables: proportion of Medicare beneficiaries with at least 1 hemoglobin A1c test in a year; proportion of elderly diabetic beneficiaries who had a lipid panel test in a year; proportion of beneficiaries who had an eye examination in a year; proportion of beneficiaries with at least 1 ambulatory doctor visit in a year; and proportion of female beneficiaries who had a mammogram during a 2-year period. These were obtained from the Dartmouth Atlas of Health Data. Data were collected at the hospital service area–level and linked to the relevant zip code. Missing values were filled in using linear interpolation. We also included region of residence to account for geographic differences and distance to hospital as a variable to measure access to health care. The distance to the nearest hospital was calculated from the centroid of the residential zip code of the patient. Hospital locations across the United States were derived from an ArcGIS dataset.32
+
+Observations with missing exposure or covariate information were assumed to be missing at random and were excluded from further analysis. These represented less than 1% of the data.
+
+Statistical Analysis
+We examined the relationship between long-term exposure to PM2.5, NO2, O3, and admissions with cardiovascular and respiratory outcomes using a doubly robust additive model (DRAM). Specifically, confounding is accounted for through 2 mechanisms: first, in inverse probability weights of exposure; and second, by adjustment in the outcome regression model. If either of the models is correctly specified, the estimated coefficient is unbiased.33 The equation for this model is as follows:
+
+
+Download figure
+
+Download figure
+where  represents the probability of the outcome for individual i in year j, x represents the exposure, v represents the vector of covariates, and γ represents the parameterization (eg, coefficients) of the covariates. In this case, the parametrization was assumed to be linear. This equation is weighted using stabilized inverse probability weighting for exposure from the following formula:
+
+
+Download figure
+where x represents the exposure and v represents the covariates. In this case, we defined f(x|v) as the probability density of the exposure on the basis of a linear regression with the exposure of interest as the outcome and the covariates and other pollutants as the predictors. For example, in the model for PM2.5, we adjusted for individual and socioeconomic and behavioral covariates as well as O3 and NO2. The same covariates and other pollutants were adjusted for in the outcome regression model as well.
+
+Assuming that (1) the underlying true outcome regression model follows the additive structure  where s' may or may not be the same as s; and (2) either the inverse probability weighting or the functional form of s is correctly specified (ie, s = s'), the resulting risk difference estimate is consistent. To account for outliers, we trimmed the weights: values >99th percentile were given the value at the 99th percentile and values <1st percentile were given the value at the 1st percentile.
+
+We ran 200 bootstraps of the weighted outcome regression for each analysis. The median value was used as the coefficient of interest and the 2.5 percentile and 97.5 percentile constituted the 95% CI.
+
+We evaluated effect modification by sex, race, Medicaid eligibility, and age group using stratification. The coefficients from each stratum were compared with one another to identify vulnerable subpopulations. We also conducted a subgroup analysis on person-years with pollutant levels below international regulations. For PM2.5, we restricted to individuals with levels <10 µg/m3 for all years; for NO2, we restricted to individuals with levels <20 ppb for all years; and for O3, we restricted to individuals with levels <40 ppb for all years with effect measure modification analyses for these subsets as well. As a sensitivity analysis, we calculated E-values for our main results. E-values measure the magnitude of the relationship a hypothetical unmeasured confounder would have to have with both the exposure and the outcome to fully account for the effect estimate that has been found.34 A schematic of how the study was constructed and carried can be seen in Figure 1.
+
+Figure 1.
+Download figureDownload PowerPoint
+Figure 1. Study design schematic. Flow chart of how study was conducted step-by-step.
+
+All data cleaning and statistical analyses were conducted in R Statistical Software (version 3.6.1) and the inverse probability weighting and outcome regression estimates were obtained using the “biglm” package.35 Data cleaning and analysis was completed on the Research Computing Environment as part of Research Computer at Harvard University Faculty of Arts and Sciences.
+
+This study was approved by the Harvard School of Public Health Institutional Review Board.
+
+Results
+The cohort consisted of 63 006 793 Medicare beneficiaries who used the fee-for-service program from 2000 to 2016 in the contiguous United States. Demographic characteristics for these individuals can be seen in Table 1. There are slightly more women than men, and most participants are White. Of the observations used in the analyses, 85% were not Medicaid-eligible, and about half were between 64 and 75 years of age. The majority of the observations came from the southern and midwestern regions of the United States.
+
+Table 1. Demographic Characteristics of Medicare Fee-for-Service Patients
+
+Variable	N (%)
+Individual characteristics (N=63 006 793)
+ Sex
+  Female	34 725 250 (55.11)
+  Male	28 281 543 (44.89)
+ Race
+  White	53 207 613 (84.45)
+  Black	5 511 770 (8.75)
+  Other	4 287 410 (6.80)
+Demographic characteristics, person-years (N=538 173 801)
+ Medicaid eligibility
+  Yes	76 042 269 (14.13)
+  No	462 131 532 (85.87)
+ Age group, y
+  65–74	277 788 354 (51.62)
+  75–84	181 809 593 (33.78)
+  ≥85	78 575 854 (14.60)
+ US region
+  Northeast	105 812 685 (19.66)
+  Midwest	132 107 154 (24.55)
+  South	209 831 299 (38.99)
+  West	90 422 663 (16.80)
+Table 2 shows the distribution of air pollutants across the contiguous United States from 2000 to 2016. Annual average levels of PM2.5 and NO2 were generally low, below the Environmental Protection Agency annual standard of 12 µg/m3 and 53 ppb. O3 does not have an annual standard level, but the levels are below the daily standard of 70 ppb.36 This distribution also reveals that our lower exposure analysis, which was subset to only include individuals with lower values, was largely consistent with prevailing levels that a person might typically experience.
+
+Table 2. Exposure Distribution of Pollutants Across Person-Years
+
+Variable	Minimum	10th Percentile	25th Percentile	Mean	Median	75th Percentile	90th Percentile	Maximum
+PM2.5 (µg/m3)	0.01	6.36	8.11	10.21	10.05	12.29	14.32	30.92
+NO2 (ppb)	0.01	8.13	11.51	19.50	17.44	25.88	33.88	127.63
+O3 (ppb)	18.31	33.88	36.56	38.77	38.75	40.92	43.74	65.09
+O3 indicates tropospheric ozone; and PM2.5, fine particulate matter with an aerodynamic diameter <2.5 micrometers.
+
+The distribution of weights across person-years in 1 of our datasets (MI) can be seen, after trimming, in Table 3. The distribution across years is largely consistent, and no observation received extreme weight values.
+
+Table 3. Distribution of Inverse Probability Weights Across Years for Myocardial Infarction, After Trimming
+
+Pollutant and year	Minimum	10th	25th	Mean	Median	75th	90th	Maximum
+PM2.5
+ 2000	0.159	0.342	0.614	1.301	1.024	1.386	2.319	8.414
+ 2001	0.159	0.359	0.652	1.285	1.031	1.366	2.212	8.414
+ 2002	0.159	0.457	0.746	1.320	1.059	1.360	2.199	8.414
+ 2003	0.159	0.462	0.731	1.264	1.041	1.341	2.054	8.414
+ 2004	0.159	0.543	0.806	1.306	1.072	1.359	2.089	8.414
+ 2005	0.159	0.425	0.696	1.258	1.030	1.339	2.112	8.414
+ 2006	0.159	0.645	0.873	1.292	1.076	1.337	1.980	8.414
+ 2007	0.159	0.563	0.812	1.275	1.060	1.325	1.996	8.414
+ 2008	0.159	0.737	0.973	1.325	1.104	1.370	1.992	8.414
+ 2009	0.159	0.688	0.969	1.354	1.116	1.409	2.095	8.414
+ 2010	0.159	0.631	0.929	1.299	1.102	1.369	1.987	8.414
+ 2011	0.159	0.722	0.999	1.342	1.119	1.396	2.023	8.414
+ 2012	0.159	0.619	0.942	1.396	1.116	1.459	2.243	8.414
+ 2013	0.159	0.611	0.929	1.469	1.112	1.530	2.537	8.414
+ 2014	0.159	0.537	0.893	1.387	1.098	1.453	2.329	8.414
+ 2015	0.159	0.523	0.855	1.442	1.088	1.522	2.598	8.414
+ 2016	0.159	0.421	0.750	1.536	1.032	1.640	3.122	8.414
+ All	0.159	0.512	0.836	1.346	1.084	1.402	2.217	8.414
+NO2
+ 2000	0.094	0.382	0.800	1.405	1.040	1.398	2.434	10.817
+ 2001	0.094	0.359	0.790	1.393	1.034	1.369	2.371	10.817
+ 2002	0.094	0.409	0.771	1.338	1.021	1.326	2.256	10.817
+ 2003	0.094	0.395	0.754	1.321	1.018	1.310	2.212	10.817
+ 2004	0.094	0.517	0.801	1.322	1.020	1.301	2.136	10.817
+ 2005	0.094	0.485	0.778	1.318	1.017	1.309	2.160	10.817
+ 2006	0.094	0.527	0.778	1.292	1.015	1.283	2.031	10.817
+ 2007	0.094	0.502	0.725	1.292	0.993	1.283	2.076	10.817
+ 2008	0.094	0.546	0.769	1.275	1.000	1.259	1.988	10.817
+ 2009	0.094	0.542	0.759	1.266	0.994	1.250	1.996	10.817
+ 2010	0.094	0.574	0.776	1.283	0.997	1.252	1.995	10.817
+ 2011	0.094	0.599	0.794	1.290	1.003	1.260	2.018	10.817
+ 2012	0.094	0.670	0.837	1.316	1.014	1.269	1.966	10.817
+ 2013	0.094	0.611	0.791	1.316	1.006	1.264	1.997	10.817
+ 2014	0.094	0.598	0.796	1.331	1.009	1.255	2.062	10.817
+ 2015	0.094	0.625	0.804	1.337	1.011	1.259	2.048	10.817
+ 2016	0.166	0.628	0.808	1.447	1.021	1.329	2.297	10.817
+ All	0.094	0.548	0.786	1.327	1.014	1.292	2.115	10.817
+O3
+ 2000	0.177	0.490	0.722	1.034	0.910	1.066	1.486	6.173
+ 2001	0.177	0.584	0.807	1.072	0.952	1.084	1.486	6.173
+ 2002	0.177	0.615	0.834	1.073	0.956	1.089	1.454	6.173
+ 2003	0.177	0.573	0.830	1.042	0.955	1.075	1.391	6.173
+ 2004	0.177	0.512	0.775	1.035	0.943	1.066	1.401	6.173
+ 2005	0.177	0.607	0.808	1.062	0.948	1.067	1.432	6.173
+ 2006	0.177	0.537	0.750	1.010	0.921	1.038	1.393	6.173
+ 2007	0.177	0.563	0.798	1.075	0.951	1.092	1.505	6.173
+ 2008	0.177	0.575	0.808	1.060	0.945	1.051	1.391	6.173
+ 2009	0.177	0.413	0.774	1.061	0.954	1.120	1.506	6.173
+ 2010	0.177	0.692	0.844	1.168	0.960	1.127	1.651	6.173
+ 2011	0.177	0.648	0.832	1.113	0.953	1.077	1.514	6.173
+ 2012	0.177	0.675	0.865	1.115	0.963	1.113	1.536	6.173
+ 2013	0.177	0.707	0.905	1.199	0.990	1.202	1.682	6.173
+ 2014	0.177	0.705	0.895	1.128	0.974	1.131	1.514	6.173
+ 2015	0.177	0.709	0.905	1.132	0.981	1.148	1.539	6.173
+ 2016	0.177	0.699	0.896	1.104	0.970	1.106	1.472	6.173
+ All	0.177	0.595	0.829	1.088	0.956	1.098	1.491	6.173
+O3 indicates tropospheric ozone; and PM2.5, fine particulate matter with an aerodynamic diameter <2.5 micrometers.
+
+The results of our primary analysis can be seen in Figure 2A and Table 4. Long-term exposure to PM2.5 was associated with a statistically significant increase in the risk of all outcomes. This translated to thousands of hospital admissions attributable to air pollution per year. For example, there were 2536 (95% CI, 2383–2691) additional admissions for each 1 µg/m3 increase in PM2.5 for ischemic stroke, 637 (95% CI, 483–814) for myocardial infarction, 1575 (95% CI, 1426–1691) for atrial fibrillation, and 2489 (95% CI, 2245–2738) for pneumonia. Long-term exposure to NO2 was associated with an increased risk of stroke and atrial fibrillation and showed a negative effect for admissions of MI and pneumonia. Long-term exposure to O3 led to mixed results; it increased the risk of pneumonia admissions, but the coefficient was negative for stroke and atrial fibrillation. The E-values suggested that the PM2.5 model was the most robust to unmeasured confounding (the E-values are reported on the multiplicative scale). This meant that if an unmeasured confounder exits, it would need to have a stronger relationship with both the exposure and the outcome to fully explain away the harmful effects we observed. In general, the trend showed higher E-values for relationships where we found harmful effects versus those that had negative coefficients.
+
+Table 4. Main Analyses Results and Sensitivity Analyses (E-Values)
+
+Outcome	Pollutant	Median risk difference (%)	Lower 95% CI (%)	Upper 95% CI (%)	Attributable increase in the number of cases* (95% CI)	E-value (multiplicative scale)
+Myocardial infarction	PM2.5 (µg/m3)	0.00231	0.00175	0.00295	637 (483–814)	1.0160
+NO2 (ppb)	−0.00084	−0.00103	−0.00067	N/A†	1.0096
+O3 (ppb)	−0.00024	−0.00052	0.00002	N/A†	1.0050
+Stroke	PM2.5 (µg/m3)	0.00914	0.00859	0.00970	2536 (2383–2691)	1.0323
+NO2 (ppb)	0.00059	0.00039	0.00075	163 (108–208)	1.0080
+O3 (ppb)	−0.00278	−0.00300	−0.00246	N/A†	1.0175
+Atrial fibrillation and flutter	PM2.5 (µg/m3)	0.00569	0.00515	0.00611	1575 (1426–1691)	1.0253
+NO2 (ppb)	0.00129	0.00114	0.00148	357 (316–410)	1.0119
+O3 (ppb)	−0.00072	−0.00091	−0.00047	N/A†	1.0088
+Pneumonia	PM2.5 (µg/m3)	0.00909	0.00820	0.01004	2489 (2245–2738)	1.0322
+NO2 (ppb)	−0.00134	−0.00158	−0.00110	N/A†	1.0121
+O3 (ppb)	0.00413	0.00376	0.00447	1131 (1030–1224)	1.0215
+* Per one-unit increase per year in pollutants.
+
+† Negative values on a probability scale are not logical. As such, the attributable number of cases were not calculated.
+
+O3 indicates tropospheric ozone; and PM2.5, fine particulate matter with an aerodynamic diameter <2.5 micrometers.
+
+Figure 2.
+Download figureDownload PowerPoint
+Figure 2. Primary and secondary analyses results.A, Primary analyses results: median risk difference (95% CI) for each unit increase in air pollutants and hospital admission with cardiovascular and respiratory outcomes across the full range of exposure. B, Secondary analyses results: median risk difference (95% CI) for each unit increase in air pollutants and hospital admission with cardiovascular and respiratory outcomes at lower concentrations of exposure.
+
+We further looked at hospital admissions for individuals who had low pollutant concentration throughout the follow-up period (Figure 2B). For all pollutants, the association of hospital admissions increased for cardiovascular and respiratory outcomes with larger effect size estimates. This shows that the greatest increase in the risk of admissions per unit change in exposure occurs at lower concentrations of air pollutants.
+
+One of the advantages of our additive model is that effect measure modification can be measured on an additive scale. We assessed effect modification by Medicaid eligibility, sex, race, and age group for all of our pollutants and outcomes. Figure 3A shows the results for this analysis and MI. The results vary by pollutant. For PM2.5, older beneficiaries were at a higher risk of admission as compared with younger beneficiaries, and White individuals had a higher risk of admission as compared with Black individuals. For NO2, the stratified analysis was generally negative. However, Black individuals were at a higher risk than White individuals. For O3, those who were Medicaid-eligible, male, and younger had a higher probability of hospital admission with an MI as compared with those who were not Medicaid-eligible, female, and older, respectively.
+
+Figure 3.
+Download figureDownload PowerPoint
+Figure 3. Effect measure modification analyses: full range of exposure concentration. Effect measure modification analyses: median risk difference (95% CI) for each unit increase in air pollutants and hospital admission with myocardial infarction (A), stroke(B), atrial fibrillation (C), and pneumonia (D) across the full range of exposure, within strata. Pairwise comparisons of coefficients were conducted. *Statistically significant differences (P<0.05). NO2, nitrogen dioxide; NS, nonsignificant difference; O3, tropospheric ozone; and PM2.5, fine particulate matter with an aerodynamic diameter <2.5 micrometers.
+
+The results of the EMM analysis for ischemic stroke can be seen in Figure 3B. For PM2.5, older participants had a significantly higher risk of admission than younger individuals. For NO2, those who were not Medicaid-eligible were at a higher risk than those who were Medicaid-eligible and Black individuals were at a higher risk than White individuals. The results for the stratified ozone analysis showed negative coefficients.
+
+Figure 3C shows the results of the EMM analysis for atrial fibrillation and flutter. For PM2.5, those not Medicaid-eligible, White, and older were at increased risk of admission. Similarly, for NO2, those who were not Medicaid-eligible and older had a higher probability of being admitted with atrial fibrillation than those who were Medicaid-eligible and younger. For ozone, the stratified analyses showed a generally protective effect.
+
+The results for the EMM analysis of pneumonia are shown in Figure 3D. For PM2.5, those who were Medicaid-eligible, Black, or in older age groups are at increased risk of admission with pneumonia as compared with those who are not. In contrast, the stratified analyses for NO2 and pneumonia show a negative effect estimate for most subsets. Last, exposure to ozone was associated with a higher probability of admission with atrial fibrillation and flutter among those who are Medicaid-eligible, White, or in older age groups.
+
+When looking at the EMM analysis for those exposed to lower concentrations, the harmful effects seen previously persisted across strata for all pollutants and across outcomes (Figure 4). For MI, PM2.5 and NO2 were associated with an increased risk of the admissions for men, elderly adults, and those who were Medicaid-eligible as compared with those who were not. O3 increased the risk of hospital admission with MI for men and Black individuals (Figure 4A).
+
+Figure 4.
+Download figureDownload PowerPoint
+Figure 4. Effect measure modification analyses: lower range of exposure concentration. Median risk difference (95% CI) for each unit increase in air pollutants and hospital admission with myocardial infarction (A), stroke(B), atrial fibrillation(C), and pneumonia (D) at lower exposure concentrations, within strata. Pairwise comparisons of coefficients were conducted. *Statistically significant differences (P<0.05). NO2, nitrogen dioxide; NS, nonsignificant difference; O3, tropospheric ozone; and PM2.5, fine particulate matter with an aerodynamic diameter <2.5 micrometers.
+
+For ischemic stroke (Figure 4B), PM2.5 increased the risk of admission for those who were Medicaid-eligible, women, or elderly. For NO2, the more vulnerable subpopulations were those who were Medicaid-eligible, Black, or elderly. For O3, those who were Medicaid-eligible, women, or White were at increased risk of stroke.
+
+PM2.5 and NO2 increased the risk of atrial fibrillation and flutter among those who were White and very elderly adults, as compared with those who were not. O3 was found to particularly increase the risk of admission among those who were not Medicaid-eligible and who were White.
+
+For pneumonia, all pollutants increased the risk of hospital admissions among those who were Medicaid-eligible and elderly as compared with those who were not. On the other hand, PM2.5 was associated with an increased risk of atrial fibrillation among those who were White while O3 was associated with an increased risk among those who were Black.
+
+Discussion
+The results of our study showed several important trends. First, PM2.5 was associated with an increased risk of hospital admissions with all of our studied outcomes. This was particularly true for elderly individuals who were at increased risk. Second, NO2 was associated with an increased the risk of stroke and atrial fibrillation and flutter. This trend was largely consistent across strata. However, O3 was negative in the cardiovascular outcomes but was associated with an increased probability of pneumonia. This is consistent with other literature linking ozone to respiratory outcomes.37–39 This seemed to suggest that NO2 and O3 confound each other’s effects or may be confounded by an unknown or unmeasured variable. Support for this comes from the pattern of NO2, showing positive associations for outcomes where O3 shows negative associations and vice versa. The partial correlation coefficient between the 2 in our data was −0.186, which shows a moderate negative correlation after adjusting for all other variables. Moreover, the E-values tended to be smaller for the negative coefficients, which implies that those relationships are more susceptible to unmeasured confounding as compared with the harmful effects that were less susceptible to unmeasured unconfounding. It is also likely that there is greater exposure measurement error at higher concentrations because the models were primarily trained on monitoring data at lower concentrations. This could account for the inconsistent results in the full range of exposure analyses.
+
+At lower concentrations, all pollutants increased the probability of hospital admissions with larger effect estimates than the primary results. That the negative effects of NO2 and O3 disappear when restricted to pollution concentrations in the more normal range suggests that those effects in the full analysis may be attributable to outlier exposures, more exposure error, and stronger negative correlations between high NO2 and low O3 than for more common concentrations. The higher effect sizes for risk of cardiovascular and respiratory outcomes at the lower end of air pollution exposure is consistent with several other studies in this population looking at health effects at lower concentrations.7,21,40,41 In the subgroup analyses, PM2.5 and NO2 were associated with an increased risk of hospitalization for cardiovascular outcomes among very elderly adults in both the full exposure range and the lower concentration range. Those who were Medicaid eligible were at increased risk of pneumonia attributable to PM2.5 and O3 in both the full and low concentration groups. Individuals who identified as White were at greater risk of atrial fibrillation attributable to NO2 than those who identified as Black. In contrast, those who identified as Black were at greater risk of stroke attributable to NO2 than those who identified as White.
+
+The existing literature on the nonfatal health effects of long-term exposure to air pollution shows mixed results depending on the pollutants and the population studied and the method used. A previous study in the same population that focused on the southeastern region of the United States found both PM2.5 and O3 to be risk factors for MI, stroke, and pneumonia on the multiplicative scale, while we found ozone to be negative for ischemic stroke on an additive scale here in the full exposure model,7 but a risk factor at more modest concentrations. Researchers working with the ESCAPE (European Study of Cohorts for Air Pollution Effects) data looked at several air pollutants and the incidence of acute coronary disease between 1997 and 2007 in Finland, Sweden, Denmark, Germany, and Italy. Both PM2.5 and NO2 were nonsignificantly associated with an increased hazard of acute coronary events in an adjusted model.10 They further found that neither PM2.5 nor NO2 were significantly associated with stroke incidence in the ESCAPE cohort.11 This contrasts with our results that found PM2.5 to be harmful and NO2 to be negative for MI, and both pollutants to be harmful for stroke (including all observations, though both were harmful for all outcomes at lower concentrations). Among a cohort of women enrolled in the Women’s Health Initiative, long-term exposure to PM2.5 was associated with a higher hazard of stroke, though no relationship was found with MI.42 A case-control study nested in the Worcester Heart Attack cohort found positive but nonsignificant association between long-term exposure to PM2.5 and acute MI overall.12 A study in the Danish, Diet, Cancer and Health cohort between 1993 and 2006 looked at ischemic stroke and found a nonsignificant increase in the hazard of the incidence of disease with long-term exposure to NO2.43 In a study among the EPIC (European Prospective Investigation into Cancer and Nutrition) cohort in Greece, NO2 was not associated with an increase in the hazard of stroke and ischemic heart disease.13 A study done in South Korea examining the effect of long-term exposure to air pollutants, including PM2.5 and NO2, found similar results to ours. PM2.5 increased the hazard of MI and ischemic stroke, in both single and multipollutant models, and ozone showed a decreased hazard of both conditions. However, unlike our study, they found NO2 to increase the risk of MI.15 A study of British patients between 2003 and 2007 looked at air pollutants including NO2 and O3 and incident cases of cardiovascular disease, and researchers found largely nonsignificant results for MI, stroke, and arrythmia in their single pollutant model.16 Last, a meta-analysis of long-term exposure to PM2.5 as a risk factor for stroke found a 6.4% (95% CI, 2.1–10.9%) increase in the hazard of admission for each 5-µg/m3 increase in PM2.5 levels which is consistent with our results of an increased probability of stroke.17
+
+The harm caused by air pollution to the cardiovascular and respiratory systems is generally attributed to its ability to increase inflammation and oxidative stress and disrupt the coagulation cascade.44–47 In SEBAS (Social Environment and Biomarkers of Aging Study) in Taiwan, changes in annual PM2.5 and O3 levels were associated with higher levels of systolic and diastolic blood pressure, total cholesterol, fasting glucose, hemoglobin A1c, and neutrophils. NO2 was associated with all, as well as elevated levels of interleukin-6. Lipids, glucose levels, and inflammatory biomarkers are all risk factors for cardiovascular disease.48 Moreover, in the ESCAPE study, participants showed decreased lung function, as measured by forced expiratory volume in 1 second and forced vital capacity, in response to NO2, which can be a marker of respiratory disease.49
+
+Our study has numerous strengths that make the results particularly compelling. First, the coefficients obtained are risk differences and do not require transformation to be interpretable. Furthermore, the coefficients are on the additive scale. This is particularly helpful for the stratified analyses in which the additional number of cases attributable to the variable can be identified directly and are of greater public health importance.50 Second, this study uses a causal modeling approach. Randomized trials produce causal estimates because randomization renders intention-to-treat independent of other predictors of outcome. Propensity score methods try to achieve the same result. The inverse probability weights create a pseudo population in which exposure is independent from the measured confounders.51 If all confounders are measured and the model for the dependence of exposure on confounders (used to create the weights) is correct, this approach will similarly produce a causal estimate. Given that we also control for the covariates, our approach is also doubly robust, meaning that if either the inverse probability weighting model or the outcome model are correctly specified, our estimates are unbiased and causal. Furthermore, we derived our estimates and CIs empirically using bootstrapping. In our model, we account for multiple air pollutants, which were estimated from prediction models on a fine scale, allowing us to identify the more toxic components of the air pollution mixture while adjusting for others. Last, our study focuses on long-term effects, which have not been as thoroughly examined, but may be of greater importance in terms of the health effect of air pollution. This is particularly important to reaffirm, or in some cases establish, the need for long-term guidelines, such as for O3 which does not even have national annual guidelines. Our study suggests that long-term O3 guidelines may be particularly necessary given the effect of long-term ozone on respiratory outcomes.
+
+Our approach also had several limitations. The causal methodology we use relied on the strong assumption of no unmeasured confounding which is not testable. Hence, causality is not proven, and can only be an interpretation, which should include support from toxicology. We did, however, calculate E-values to see the strength of the relationship a hypothetical unmeasured confounder would have to have with both the exposure and the outcome to fully account for the results we found. Moreover, we chose a more conservative approach and controlled for lung cancer rate as a proxy for smoking. However, air pollution is itself a risk factor for lung cancer. As such, we may be overcontrolling for smoking and underestimating the true effect size. We also assumed that loss to follow-up among our population was unrelated to air pollution. In addition, Medicare is an administrative database and billing codes could leave the door open to potential outcome misclassification. We expect that this will not be related to exposure to air pollution and nondifferential misclassification should bias the results to the null.
+
+Conclusion
+This study demonstrates that, on an additive scale, air pollution components pose a risk to human health, particularly among the very elderly population in the United States. The increase in the probability of hospital admissions with cardiovascular and respiratory outcomes seems to be most pronounced at lower exposure concentrations for all pollutants. Given that more than half of the US population is exposed to such levels, this issue should be of great concern to clinicians and policymakers alike.
+
+Sources of Funding
+This study was supported by the National Institutes of Health/National Institute of Environmental Health Sciences (grants P30 ES000002 and R01 ES024332) and US Environmental Protection Agency (grant RD-83587201). Its contents are solely the responsibility of the grantee and do not necessarily represent the official views of the US Environmental Protection Agency. Furthermore, the US Environmental Protection Agency does not endorse the purchase of any commercial products or services mentioned in the publication.
+
+Disclosures Dr Schwartz has appeared as an expert witness on behalf of the US Department of Justice in cases involving violations of the Clean Air Act. The other authors report no conflicts.
+
+Footnotes
+Sources of Funding, see page 1595
+
+https://www.ahajournals.org/journal/circ
+
+Mahdieh Danesh Yazdi, PharmD, MPH, PhD, Department of Environmental Health Harvard T.H. Chan School of Public Health, 677 Huntington Avenue, Boston, MA 02115. Email mdaneshyazdi@hsph.harvard.edu
+References
+1.Puett RC, Hart JE, Yanosky JD, Paciorek C, Schwartz J, Suh H, Speizer FE, Laden F. Chronic fine and coarse particulate exposure, mortality, and coronary heart disease in the Nurses’ Health Study.Environ Health Perspect. 2009; 117:1697–1701. doi: 10.1289/ehp.0900572CrossrefMedlineGoogle Scholar
+2.Cramer J, Jørgensen JT, Hoffmann B, Loft S, Bräuner EV, Prescott E, Ketzel M, Hertel O, Brandt J, Jensen SS, et al. long-term exposure to air pollution and incidence of myocardial infarction: a Danish nurse cohort study.Environ Health Perspect. 2020; 128:57003. doi: 10.1289/EHP5818CrossrefMedlineGoogle Scholar
+3.Klompmaker JO, Janssen NAH, Bloemsma LD, Gehring U, Wijga AH, van den Brink C, Lebret E, Brunekreef B, Hoek G. Associations of combined exposures to surrounding green, air pollution, and road traffic noise with cardiometabolic diseases.Environ Health Perspect. 2019; 127:87003. doi: 10.1289/EHP3857CrossrefMedlineGoogle Scholar
+4.Ljungman PLS, Andersson N, Stockfelt L, Andersson EM, Nilsson Sommar J, Eneroth K, Gidhagen L, Johansson C, Lager A, Leander K, et al. Long-term exposure to particulate air pollution, black carbon, and their source components in relation to ischemic heart disease and stroke.Environ Health Perspect. 2019; 127:107012. doi: 10.1289/EHP4757CrossrefMedlineGoogle Scholar
+5.Loop MS, McClure LA, Levitan EB, Al-Hamdan MZ, Crosson WL, Safford MM. Fine particulate matter and incident coronary heart disease in the REGARDS cohort.Am Heart J. 2018; 197:94–102. doi: 10.1016/j.ahj.2017.11.007CrossrefMedlineGoogle Scholar
+6.Lee H, Myung W, Jeong BH, Choi H, Jhun BW, Kim H. Short- and long-term exposure to ambient air pollution and circulating biomarkers of inflammation in non-smokers: a hospital-based cohort study in South Korea.Environ Int. 2018; 119:264–273. doi: 10.1016/j.envint.2018.06.041CrossrefMedlineGoogle Scholar
+7.Danesh Yazdi M, Wang Y, Di Q, Zanobetti A, Schwartz J. Long-term exposure to PM2.5 and ozone and hospital admissions of Medicare participants in the Southeast USA.Environ Int. 2019; 130:104879. doi: 10.1016/j.envint.2019.05.073CrossrefMedlineGoogle Scholar
+8.Miller KA, Siscovick DS, Sheppard L, Shepherd K, Sullivan JH, Anderson GL, Kaufman JD. Long-term exposure to air pollution and incidence of cardiovascular events in women.N Engl J Med. 2007; 356:447–458. doi: 10.1056/NEJMoa054409CrossrefMedlineGoogle Scholar
+9.Kloog I, Coull BA, Zanobetti A, Koutrakis P, Schwartz JD. Acute and chronic effects of particles on hospital admissions in New-England.PLoS One. 2012; 7:e34664. doi: 10.1371/journal.pone.0034664CrossrefMedlineGoogle Scholar
+10.Cesaroni G, Forastiere F, Stafoggia M, Andersen ZJ, Badaloni C, Beelen R, Caracciolo B, de Faire U, Erbel R, Eriksen KT, et al. Long term exposure to ambient air pollution and incidence of acute coronary events: prospective cohort study and meta-analysis in 11 European cohorts from the ESCAPE Project.BMJ. 2014; 348:f7412. doi: 10.1136/bmj.f7412CrossrefMedlineGoogle Scholar
+11.Stafoggia M, Cesaroni G, Peters A, Andersen ZJ, Badaloni C, Beelen R, Caracciolo B, Cyrys J, de Faire U, de Hoogh K, et al. Long-term exposure to ambient air pollution and incidence of cerebrovascular events: results from 11 European cohorts within the ESCAPE project.Environ Health Perspect. 2014; 122:919–925. doi: 10.1289/ehp.1307301CrossrefMedlineGoogle Scholar
+12.Madrigano J, Kloog I, Goldberg R, Coull BA, Mittleman MA, Schwartz J. Long-term exposure to PM2.5 and incidence of acute myojcardial infarction.Environ Health Perspect. 2013; 121:192–196. doi: 10.1289/ehp.1205284CrossrefMedlineGoogle Scholar
+13.Katsoulis M, Dimakopoulou K, Pedeli X, Trichopoulos D, Gryparis A, Trichopoulou A, Katsouyanni K. Long-term exposure to traffic-related air pollution and cardiovascular health in a Greek cohort study.Sci Total Environ. 2014; 490:934–940. doi: 10.1016/j.scitotenv.2014.05.058CrossrefMedlineGoogle Scholar
+14.Rosenlund M, Berglind N, Pershagen G, Hallqvist J, Jonson T, Bellander T. Long-term exposure to urban air pollution and myocardial infarction.Epidemiology. 2006; 17:383–390. doi: 10.1097/01.ede.0000219722.25569.0fCrossrefMedlineGoogle Scholar
+15.Kim H, Kim J, Kim S, Kang SH, Kim HJ, Kim H, Heo J, Yi SM, Kim K, Youn TJ, et al. Cardiovascular effects of long-term exposure to air pollution: A population-based study with 900 845 person-years of follow-up.J Am Heart Assoc. 2017; 6:e007170. doi: 10.1161/JAHA.117.007170LinkGoogle Scholar
+16.Atkinson RW, Carey IM, Kent AJ, van Staa TP, Anderson HR, Cook DG. Long-term exposure to outdoor air pollution and incidence of cardiovascular diseases.Epidemiology. 2013; 24:44–53. doi: 10.1097/EDE.0b013e318276ccb8CrossrefMedlineGoogle Scholar
+17.Scheers H, Jacobs L, Casas L, Nemery B, Nawrot TS. Long-term exposure to particulate matter air pollution is a risk factor for stroke: meta-analytical evidence.Stroke. 2015; 46:3058–3066. doi: 10.1161/STROKEAHA.115.009913LinkGoogle Scholar
+18.Beverland IJ, Cohen GR, Heal MR, Carder M, Yap C, Robertson C, Hart CL, Agius RM. A comparison of short-term and long-term air pollution exposure associations with mortality in two cohorts in Scotland.Environ Health Perspect. 2012; 120:1280–1285. doi: 10.1289/ehp.1104509CrossrefMedlineGoogle Scholar
+19.Dominici F, Peng RD, Barr CD, Bell ML. Protecting human health from air pollution: shifting from a single-pollutant to a multipollutant approach.Epidemiology. 2010; 21:187–194. doi: 10.1097/EDE.0b013e3181cc86e8CrossrefMedlineGoogle Scholar
+20.Puett RC, Hart JE, Yanosky JD, Paciorek C, Schwartz J, Suh H, Speizer FE, Laden F. Chronic fine and coarse particulate exposure, mortality, and coronary heart disease in the Nurses’ Health Study.Environ Health Perspect. 2009; 117:1697–1701. doi: 10.1289/ehp.0900572CrossrefMedlineGoogle Scholar
+21.Di Q, Wang Y, Zanobetti A, Wang Y, Koutrakis P, Choirat C, Dominici F, Schwartz JD. Air pollution and mortality in the Medicare population.N Engl J Med. 2017; 376:2513–2522. doi: 10.1056/NEJMoa1702747CrossrefMedlineGoogle Scholar
+22.Sashegyi A, Ferry D. On the interpretation of the hazard ratio and communication of survival benefit.Oncologist. 2017; 22:484–486. doi: 10.1634/theoncologist.2016-0198CrossrefMedlineGoogle Scholar
+23.Qiu X, Wei Y, Wang Y, Di Q, Sofer T, Awad YA, Schwartz J. Inverse probability weighted distributed lag effects of short-term exposure to PM2.5 and ozone on CVD hospitalizations in New England Medicare participants - exploring the causal effects.Environ Res. 2020; 182:109095. doi: 10.1016/j.envres.2019.109095CrossrefMedlineGoogle Scholar
+24.Bae S, Lim YH, Hong YC. Causal association between ambient ozone concentration and mortality in Seoul, Korea.Environ Res. 2020; 182:109098. doi: 10.1016/j.envres.2019.109098CrossrefMedlineGoogle Scholar
+25.Wang Y, Kloog I, Coull BA, Kosheleva A, Zanobetti A, Schwartz JD. Estimating causal effects of long-term PM2.5 exposure on mortality in New Jersey.Environ Health Perspect. 2016; 124:1182–1188. doi: 10.1289/ehp.1409671CrossrefMedlineGoogle Scholar
+26.Di Q, Amini H, Shi L, Kloog I, Silvern R, Kelly J, Sabath MB, Choirat C, Koutrakis P, Lyapustin A, et al. An ensemble-based model of PM2.5 concentration across the contiguous United States with high spatiotemporal resolution.Environ Int. 2019; 130:104909. doi: 10.1016/j.envint.2019.104909CrossrefMedlineGoogle Scholar
+27.Di Q, Amini H, Shi L, Kloog I, Silvern RF, Kelly JT, Sabath MB, Choirat C, Koutrakis P, Lyapustin A, et al. Assessing NO2 concentration and model uncertainty with high spatiotemporal resolution across the contiguous United States using ensemble model averaging.Environ Sci Technol. 2019. doi: 10.1021/acs.est.9b03358CrossrefGoogle Scholar
+28.Requia WJ, Di Q, Silvern R, Kelly JT, Koutrakis P, Mickley LJ, Sulprizio MP, Amini H, Shi L, Schwartz J. An ensemble learning approach for estimating high spatiotemporal resolution of ground-level ozone in the contiguous United States.Environ Sci Technol. 2020; 54:11037–11047. doi: 10.1021/acs.est.0c01791CrossrefMedlineGoogle Scholar
+29.Jürgens V, Ess S, Schwenkglenks M, Cerny T, Vounatsou P. Using lung cancer mortality to indirectly approximate smoking patterns in space.Spat Spatiotemporal Epidemiol. 2015; 14-15:23–31. doi: 10.1016/j.sste.2015.06.003CrossrefMedlineGoogle Scholar
+30.Leistikow B. Lung cancer rates as an index of tobacco smoke exposures: validation against black male approximate non-lung cancer death rates, 1969-2000.Prev Med. 2004; 38:511–515. doi: 10.1016/j.ypmed.2003.11.025CrossrefMedlineGoogle Scholar
+31.Jemal A, Cokkinides VE, Shafey O, Thun MJ. Lung cancer trends in young adults: an early indicator of progress in tobacco control (United States).Cancer Causes Control. 2003; 14:579–585. doi: 10.1023/a:1024891201329CrossrefMedlineGoogle Scholar
+32.ESRI Data and Maps; United States Geological Survey.USA Hospitals. ArcGIS. 2010. https://www.arcgis.com/home/item.html?id=f114757725a24d8d9ce203f61eaf8f75.Google Scholar
+33.Funk MJ, Westreich D, Wiesen C, Stürmer T, Brookhart MA, Davidian M. Doubly robust estimation of causal effects.Am J Epidemiol. 2011; 173:761–767. doi: 10.1093/aje/kwq439CrossrefMedlineGoogle Scholar
+34.VanderWeele TJ, Ding P. Sensitivity analysis in observational research: introducing the E-value.Ann Intern Med. 2017; 167:268–274. doi: 10.7326/M16-2607CrossrefMedlineGoogle Scholar
+35.Lumley T. biglm: bounded memory linear and generalized linear models.2020. https://cran.r-project.org/package=biglm.Google Scholar
+36.Environmental Protection Agency. NAAQS Table.Epa.gov. 2016. https://www.epa.gov/criteria-air-pollutants/naaqs-table.Google Scholar
+37.Schwartz J. Air pollution and hospital admissions for respiratory disease.Epidemiology. 1996; 7:20–28. doi: 10.1097/00001648-199601000-00005CrossrefMedlineGoogle Scholar
+38.Ji M, Cohan DS, Bell ML. Meta-analysis of the association between short-term exposure to ambient ozone and respiratory hospital admissions.Environ Res Lett. 2011; 6:024006. doi: 10.1088/1748-9326/6/2/024006CrossrefMedlineGoogle Scholar
+39.Burnett RT, Brook JR, Yung WT, Dales RE, Krewski D. Association between ozone and hospitalization for respiratory diseases in 16 Canadian cities.Environ Res. 1997; 72:24–31. doi: 10.1006/enrs.1996.3685CrossrefMedlineGoogle Scholar
+40.Wang Y, Shi L, Lee M, Liu P, Di Q, Zanobetti A, Schwartz JD. Long-term exposure to PM2.5 and mortality among older adults in the southeastern US.Epidemiology. 2017; 28:207–214. doi: 10.1097/EDE.0000000000000614CrossrefMedlineGoogle Scholar
+41.Wu X, Braun D, Schwartz J, Kioumourtzoglou MA, Dominici F. Evaluating the impact of long-term exposure to fine particulate matter on mortality among the elderly.Sci Adv. 2020; 6:eaba5692. doi: 10.1126/sciadv.aba5692CrossrefMedlineGoogle Scholar
+42.Miller KA, Siscovick DS, Sheppard L, Shepherd K, Sullivan JH, Anderson GL, Kaufman JD. Long-term exposure to air pollution and incidence of cardiovascular events in women.N Engl J Med. 2007; 356:447–458. doi: 10.1056/NEJMoa054409CrossrefMedlineGoogle Scholar
+43.Andersen ZJ, Kristiansen LC, Andersen KK, Olsen TS, Hvidberg M, Jensen SS, Ketzel M, Loft S, Sørensen M, Tjønneland A, et al. Stroke and long-term exposure to outdoor air pollution from nitrogen dioxide: a cohort study.Stroke. 2012; 43:320–325. doi: 10.1161/STROKEAHA.111.629246LinkGoogle Scholar
+44.Hajat A, Allison M, Diez-Roux AV, Jenny NS, Jorgensen NW, Szpiro AA, Vedal S, Kaufman JD. Long-term exposure to air pollution and markers of inflammation, coagulation, and endothelial activation: a repeat-measures analysis in the Multi-Ethnic Study of Atherosclerosis (MESA).Epidemiology. 2015; 26:310–320. doi: 10.1097/EDE.0000000000000267CrossrefMedlineGoogle Scholar
+45.Chuang KJ, Chan CC, Su TC, Lee CT, Tang CS. The effect of urban air pollution on inflammation, oxidative stress, coagulation, and autonomic dysfunction in young adults.Am J Respir Crit Care Med. 2007; 176:370–376. doi: 10.1164/rccm.200611-1627OCCrossrefMedlineGoogle Scholar
+46.Panasevich S, Leander K, Rosenlund M, Ljungman P, Bellander T, de Faire U, Pershagen G, Nyberg F. Associations of long- and short-term air pollution exposure with markers of inflammation and coagulation in a population sample.Occup Environ Med. 2009; 66:747–753. doi: 10.1136/oem.2008.043471CrossrefMedlineGoogle Scholar
+47.Viehmann A, Hertel S, Fuks K, Eisele L, Moebus S, Möhlenkamp S, Nonnemacher M, Jakobs H, Erbel R, Jöckel KH, et al; Heinz Nixdorf Recall Investigator Group. Long-term residential exposure to urban air pollution, and repeated measures of systemic blood markers of inflammation and coagulation.Occup Environ Med. 2015; 72:656–663. doi: 10.1136/oemed-2014-102800CrossrefMedlineGoogle Scholar
+48.Chuang KJ, Yan YH, Chiu SY, Cheng TJ. Long-term air pollution exposure and risk factors for cardiovascular diseases among the elderly in Taiwan.Occup Environ Med. 2011; 68:64–68. doi: 10.1136/oem.2009.052704CrossrefMedlineGoogle Scholar
+49.Adam M, Schikowski T, Carsin AE, Cai Y, Jacquemin B, Sanchez M, Vierkötter A, Marcon A, Keidel D, Sugiri D, et al. Adult lung function and long-term air pollution exposure. ESCAPE: a multicentre cohort study and meta-analysis.Eur Respir J. 2015; 45:38–50. doi: 10.1183/09031936.00130014CrossrefMedlineGoogle Scholar
+50.Rothman KJ, Greenland S, Walker AM. Concepts of interaction.Am J Epidemiol. 1980; 112:467–470. doi: 10.1093/oxfordjournals.aje.a113015CrossrefMedlineGoogle Scholar
+51.Hernan M, Robins J. Causal Inference: What If.Boca Raton: Chapman & Hall/CRC; 2020. https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2020/11/ciwhatif_hernanrobins_23nov20.pdf.Google Scholar

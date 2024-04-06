@@ -1,0 +1,303 @@
+Adverse effects of outdoor pollution in the elderly
+Marzia Simoni,corresponding author1 Sandra Baldacci,1 Sara Maio,1 Sonia Cerrai,1 Giuseppe Sarno,1 and Giovanni Viegi1,2
+Author information Article notes Copyright and License information PMC Disclaimer
+Go to:
+Abstract
+With fewer newborns and people living longer, older people are making up an increasing fraction of the total population. Epidemiological evidence shows that older-age-related health problems affect a wide and expanding proportion of the world population. One of the major epidemiological trends of this century is the rise of chronic diseases that affect more elderly than younger people. A total of 3.7 million premature deaths worldwide in 2012 are attributable to outdoor air pollution; the susceptibility to adverse effects of air pollution is expected to differ widely between people and within the same person, and also over time. Frailty history, a measure of multi-system decline, modifies cumulative associations between air pollution and lung function. Moreover, pre-existing diseases may determine susceptibility. In the elderly, due to comorbidity, exposure to air pollutants may even be fatal. Rapid and not-well-planned urbanization is associated with high level of ambient air pollution, mainly caused by vehicular exhausts. In general, there is sufficient evidence of the adverse effects related to short-term exposure, while fewer studies have addressed the longer-term health effects. Increased pollution exposures have been associated with increased mortality, hospital admissions/emergency-room visits, mainly due to exacerbations of chronic diseases or to respiratory tract infections (e.g., pneumonia). These effects may also be modulated by ambient temperature and many studies show that the elderly are mostly vulnerable to heat waves. The association between heat and mortality in the elderly is well-documented, while less is known regarding the associations with hospital admissions. Chronic exposure to elevated levels of air pollution has been related to the incidence of chronic obstructive pulmonary disease (COPD), chronic bronchitis (CB), asthma, and emphysema. There is also growing evidence suggesting adverse effects on lung function related to long-term exposure to ambient air pollution. Few studies have assessed long-term mortality in the elderly. It is still unclear what are the pollutants most damaging to the health of the elderly. It seems that elderly subjects are more vulnerable to particulate matter (PM) than to other pollutants, with particular effect on daily cardio-respiratory mortality and acute hospital admissions. Not many studies have targeted elderly people specifically, as well as specific respiratory morbidity. Most data have shown higher risks in the elderly compared to the rest of the population. Future epidemiological cohort studies need to keep investigating the health effects of air pollutants (mainly cardiopulmonary diseases) on the elderly.
+
+Keywords: Outdoor air pollution, elderly people, frailty elderly, respiratory disease, environmental exposure
+Go to:
+Introduction
+With fewer newborns and people living longer, older people are making up an increasing share of the total population. Population aging is a transforming force, and we must prepare for a new demographic reality.
+
+Globally, the proportion of older persons aged 80 years or over (the oldest old) within the elderly population was 14% in 2013 and is projected to reach 19% in 2050. If this projection holds true, there will be 392 million persons aged 80 years or over by 2050, more than three times the present (1).
+
+Epidemiological studies show that health problems associated with aged populations affect a wide and expanding proportion of the world population; one of the major epidemiological trends of this century is the rise of chronic diseases (2).
+
+Given these demographic perspectives, effective prevention is necessary to keep the elderly population in good health for as long as possible. We need to improve our understanding of the health consequences associated with the exposure to various risk factors, especially in vulnerable persons as the elderly.
+
+Ageing is a continuous process of progressive decline of the body’s function leading to increased vulnerability, frailty or sensitivity of elderly people. Moreover, with increasing age, the immune system undergoes alterations culminating in a progressive deterioration in the ability to respond to infection and vaccination, with consequent increases in morbidity and mortality due to infectious diseases among elderly persons (3).
+
+Go to:
+Outdoor air pollution and health effects
+Outdoor air pollution is a major environmental health problem affecting people with 3.7 million premature deaths worldwide in 2012. About 88% of premature deaths occurred in low- and middle-income countries, with the largest number in the World Health Organization (WHO) Western Pacific and South-East Asia regions (4). WHO estimates that premature deaths related to air pollution are due for about 80% to ischaemic heart disease and strokes, for 14% to chronic obstructive pulmonary disease (COPD) or acute lower respiratory infections, and for 6% to lung cancer.
+
+A 2013 assessment by the WHO’s International Agency for Research on Cancer (IARC) concluded that outdoor air pollution is carcinogenic to humans, with particulate matter (PM) closely associated with increased cancer incidence, especially cancer of the lung (4).
+
+Susceptibility to adverse effects of air pollution is expected to differ widely between people and within the same person, over time. While some individuals may experience no symptom or only clinically irrelevant changes, a similar exposure may trigger serious exacerbations of health problems among the frail subjects. Reduced lung function occurs as a natural part of aging and there is scientific evidence that elderly people are largely affected by the increased impairment resulting from exposure to air pollutants (5). Frailty history, a measure of multi-system decline, modifies the cumulative associations between air pollution and lung function (6).
+
+Moreover, pre-existing diseases may determine susceptibility. Elderly people will most likely suffer from chronic diseases, and there is evidence that co-existing chronic lung, heart or circulatory conditions may worsen following exposure to environmental pollutants (7,8).
+
+It is still unclear what pollutants are the most damaging to the health of the elderly. Elderly subjects in the EpiAir study (Italian epidemiological surveillance on ambient pollution and health) were found to be more vulnerable to PM10 than to other pollutants (9). Another study observed that PM2.5 was 3-fold more noxious than PM10, suggesting that fine particulates may constitute a major public health issue in the elderly, even in concentrations lower than the current limit values (10). A study conducted in Finland in 65 years old and above subjects has evaluated which particle size fractions and sources of particles are responsible for the health effects, particularly for daily cardio-respiratory mortality and acute hospital admissions. It reported that all particle fractions can contribute to adverse respiratory health effects among the elderly. Overall, associations were stronger for respiratory than for cardiovascular outcomes. In particular, most particle fractions had positive associations with admissions for pneumonia and asthma/COPD. The strongest associations were found for particles with diameter 0.1-0.29 µm, with 3.1% increase [95% confidence interval (CI), 0.43-5.8] for pneumonia over the 5-day mean, and 3.8% (95% CI, 1.3-6.3) for asthma-COPD at lag 0, for an inter-quartile increase in particles (11).
+
+The second phase of the Air Pollution on Health: a European Approach (APHEA 2 project, 1990s) analyzed hospital admissions for respiratory diseases in eight European cities. Daily ozone (O3) levels accounted for a large proportion of the between-cities variability of the PM10 effect estimates in elderly people (≥65 years). The authors have suggested that secondary particles, formed by the same photochemistry that produces O3, might be responsible for the observed particle effects in the elderly (12).
+
+Short-term effects
+The association between short-term exposure to air pollution and acute health effects has been mainly investigated through time-series studies by evaluating the effects on a population of defined size over a period of exposure assessment (13).
+
+Short-term morbidity There is strong evidence of an association between short-term exposure to air pollutants and respiratory morbidity in the elderly (14). Symptoms may appear several days following an increased exposure level and may persist for a number of days.
+Below we highlight the findings of some of these studies.
+
+In the second half of the 1980s, a study performed in Barcelona (Spain) evaluated the relationship between daily emergency-room admissions for COPD for the period 1985-1989 (70% were over age 65) and ambient sulphur dioxide (SO2). It was found that an increment of 25 µg/m3 in 24-hour average SO2 concentration produced an increase of 6% and 9% in admissions during winter and summer, respectively. For black smoke (BS), a similar change was found during winter, whereas the change was smaller in summer (15).
+
+Subsequently, other studies have been performed to assess short-term effects of outdoor air pollution on morbidity in elderly people (Table 1).
+
+Table 1
+Associations between outdoor pollution exposure and morbidity in elderly
+Author (study period, country) (references)	Age (years)	Outcome	Pollutant	Increment/threshold	Association	95% CI
+Schwartz 1995 (1988-1990, U.S.) New Haven (16)	≥65	Respiratory-H	PM10	50 µg/m3	RR 1.06	1.00-1.13
+SO2	50 µg/m3	RR 1.03	1.02-1.05
+O3	50 µg/m3	RR 1.06	0.99-1.13
+Schwartz 1995 (1988-1990, U.S.) Tacoma (16)	≥65	Respiratory-H	PM10	50 µg/m3	RR 1.10	1.03-1.17
+SO2	50 µg/m3	RR 1.06	1.01-1.12
+O3	50 µg/m3	RR 1.21	1.06-1.38
+Medina-Ramón 2006 (1986-1999, U.S.) (17)	≥65	COPD-H	PM10	10 µg/m3	1.47% change	0.93-2.01
+Pneumonia-H	10 µg/m3	0.84% change	0.50-1.19
+Zanobetti 2006 (1995-1999, U.S.) (18)	≥65	Pneumonia-H	NO2	16.8 ppb	12.7% change	5.80-18.40
+PM2.5	16.32 µg/m3	8.65% change	1.20-15.38
+BC	1.7 µg/m3	8.34% change	0.20-15.80
+Yang 2005 (1994-1998, Canada) (19)	≥65	COPD-H	NO2	7-day average	RR 1.11	1.04-1.20
+CO	7-day average	RR 1.08	1.02-1.13
+PM10	7-day average	RR 1.13	1.05-1.21
+Chen 2004 (1995-1999, Canada) (20)	≥65	COPD-H	PM2.5	3-day average	RR 1.09	1.03-1.16
+Villeneuve 2007 (1999-2002, Canada) (21)	≥75	ED-visit for asthma	NO2	IQR—5-days average	OR 1.20	1.04-1.38
+PM2.5	IQR—same day average	OR 1.12	1.01-1.23
+Larrieu 2009 (2000-2009, France) (22)	≥65	Home visits for URD	PM10	10 µg/m3	ERR 8.3%	2.00-14.70
+NO2	10 µg/m3	ERR 12.3%	4.90-19.70
+Schikowski 2005 (1985-1994, Germany) Women (23)	55	Cough	Major road	<100 m	OR 1.24	1.03-1.49
+COPD	Major road	<100 m	OR 1.79	1.06-3.02
+COPD	PM10	7 µg/m3 in 5-year mean	OR 1.33	1.03-1.72
+COPD	NO2	7 µg/m3 in 5-year mean	OR 1.43	1.23-1.66
+CB	NO2	7 µg/m3 in 5-year mean	OR 1.37	1.16-1.62
+Bentayeb 2010 (1999-2001, France) (24)	≥65	Cough	PM10	Third quartile	OR 1.33	1.00-1.77
+Cough	SO2	Third quartile	OR 1.55	1.16-2.08
+Phlegm	SO2	Third quartile	OR 1.45	1.04-2.01
+Open in a separate window
+CI, confidence interval; H, hospitalization; PM, particulate matter; SO2, sulphur dioxide; O3, ozone; RR, relative risk; COPD, chronic obstructive pulmonary disease; NO2, nitrogen dioxide; BC, black carbon; CO, carbon monoxide; ED, emergency department; IQR, inter-quartile range; OR, odds ratio; URD, upper respiratory diseases; ERR, excess relative risk; CB, chronic bronchitis.
+
+Schwartz et al. showed significant positive associations between respiratory hospital admissions and levels of SO2, PM10 and O3 in persons aged 65 years or older living in New Haven and Takoma (U.S., 1988-1990). Among the pollutants measured, the association was strongest with PM10, followed by O3 (16).
+
+Medina-Ramón et al., in a very large case cross-over study of elderly people (≥65 years), carried out in 36 U.S. cities [1986-1999], found that short-term increases in O3 and PM10 ambient concentrations were related to increased hospital admissions for COPD and pneumonia, especially during the warm season (17).
+
+In elderly people with permanent residence in Boston (U.S.) during the period 1995-1999, Zanobetti et al. reported the risk of hospital admission for pneumonia to be positively and significantly associated with background black carbon (BC), PM2.5, and carbon monoxide (CO), but only in the winter (18).
+
+In the 1990s, studies on elderly people were also performed in Vancouver (Canada), a city with relatively low levels of PM10 (Table 1).
+
+The study of Yang et al. [1994-1998] showed that nitrogen dioxide (NO2), CO, and PM10 were significantly linked to acute hospitalizations for COPD. The magnitude of effects increased slightly with increasing days of exposure. This study did not find significant association between either SO2 or O3 and COPD hospitalizations (19).
+
+Still in Vancouver, Chen et al. found that, in the period 1995-1999, in addition to PM10, PM2.5 was significantly associated with COPD hospitalizations in elderly people (20).
+
+Villeneuve et al., in a study conducted in Edmonton (Canada, 1999-2002), estimated that 8.1% of 57,912 emergency department (ED) visits for asthma occurred among elderly people. In this population, patients aged 75 years and older, an increase in the 5-day average level of NO2 was associated with a significant increase of asthma-related ED-visits. The same occurred for the same-day average level of PM2.5 (21).
+
+In the period 1999-2002, a large study was conducted to examine the link between fine particle air pollution and hospital admissions for heart- and lung-related illnesses. The study analyzed hospital admissions of all elderly residents (>65 years) in 204 U.S. counties. Short-term exposure to PM2.5 (from such sources as motor vehicle exhaust and power plant emissions) significantly increased the risk for cardiovascular and respiratory diseases. Day-to-day variation in PM2.5 concentration was associated with changes in number of hospital admissions for cardio-respiratory outcomes, for at least 1-day exposure lag. For respiratory outcomes, the largest effects occurred at lags 0-1 days for COPD (median day hospitalization rate per 100,000: 2.6) and at lag 2-day for respiratory tract infections (rate: 5.4). Participants aged 75 years or older experienced larger increases in admissions for heart problems and COPD. Importantly, this study showed that even small increases in PM2.5 (just based on natural day-to-day variations) resulted in increased hospital admissions (25).
+
+Furthermore, studies conducted in major hospitals of Hong Kong have shown associations between the risk of emergency hospital admissions for respiratory diseases and outdoor pollution. In 1994-1995, admissions for all respiratory diseases and COPD were related to levels of SO2, NO2, O3, and PM10, whereas admissions for asthma, pneumonia, and influenza were positively and significantly associated with NO2, O3, and PM10; people aged ≥65 years were at higher risk (26). Data collected from 2000 to 2004 indicated that a 10 µg/m3 increase in PM10 and PM2.5 was associated, respectively, with 2.4% and 3.1% increase in hospital admissions for acute exacerbation of COPD at cumulative lag days of 0-5; O3 contributed to the largest risk for admission [relative risk (RR), 1.034; 95% CI, 1.030-1.040]. A less delayed effect was observed for NO2 (best lag: cumulative lag days 0-3). The strongest effect of SO2 was observed at no-lag days (27). Still in Hong Kong, in the period 2000-2005, it was shown that, after exposure to air pollution, the individuals aged 65 years or older, compared to those aged <65 years, had a shorter best lag time to develop asthma exacerbations (28).
+
+Larrieu et al. explored the associations between daily levels of NO2, O3, and PM10 and medical home visits in Bordeaux (France, 2000-2006). Visits for upper- or lower-respiratory diseases represented approximately 20% of the activity of the general practitioners. During the 3 days following a 10 µg/m3 increment in PM10, the excess relative risk (ERR) of home visits increased significantly by 1.5% (95% CI, 0.3-2.7) for upper respiratory diseases, and by 2.5% (95% CI, 0.5-4.4) for lower respiratory diseases. An increased risk of visits for lower respiratory diseases was observed also for a 10 µg/m3 increment in NO2 (ERR 2.6%; 95% CI, 0.2-4.9). The risk of visits for respiratory diseases was much higher in the elderly than in other age subgroups. The difference was particularly evident for upper respiratory diseases (Table 1) (22).
+
+Concerning the impact on pulmonary function, in a cohort study of 1,100 elderly men [1995-2005] from the U.S. Normative Aging Study (NAS), a 15 ppb increase in ambient O3 (in the last 8 hours) was associated with a 1.25% decrease in forced expiratory volume in the first second (FEV1) (95% CI, −1.96-−0.54%) (29).
+
+In summary, the relationship between short-term exposure to air pollution and morbidity in the elderly is well-documented. Significant increases in hospitalizations, ED or home medical visits for respiratory causes, mainly COPD, asthma, and pneumonia, resulted associated with exposures to outdoor air pollutants.
+
+Short-term mortality Time-series studies based on background air pollution have reported significant short-term effects of air pollution on mortality, as well.
+In early 1990-1991, Saldiva and colleagues evaluated the relationship between daily mortality of elderly people (≥65 years) and air pollution in the metropolitan area of Sao Paulo (Brazil). Mortality was associated with PM10, nitrogen oxides (NOx), SO2, and CO. The strongest association was with PM10: a 100 µg/m3 increase was associated with an increase in overall mortality by approximately 13%. The dose-response relationship between mortality and PM10 was almost linear, with no evidence of a “safe” threshold level (30).
+
+Rapid and not-well-planned urbanization is associated with high level of ambient air pollution, mainly caused by increasing emissions of motor vehicles. Latin America is the most highly urbanized region in the developing world. In 2000, about 75% of the population was living in urban areas. The Estudio de Salud y Contaminación del Aire en Latinoamérica (ESCALA project, 2006-2009) assessed the association between exposure to outdoor air pollution and mortality in nine Latin American cities. Meta-analyses showed that PM10 was associated with increased mortality in most cities. Larger effects were observed in older people (≥65 years) and for respiratory causes, compared to cardiovascular causes. In the elderly, the increment in daily concentration of PM10 augmented the risks for respiratory mortality and for COPD mortality; O3 was significantly related to increased risk for cardiopulmonary mortality (Table 2). The percentage of people ≥65 years in that population was one of the variables that best explained the heterogeneity in mortality risks between cities (31). In seven Chilean urban centers during the period 1997-2007, among the older elderly (≥85 years), inter-quartile increases in PM10, PM2.5, SO2, NO2, CO and elemental and organic carbon were associated with a 2-7% increase in daily mortality. The estimates were even higher (11-19%) among the older elderly who did not complete primary school (40).
+
+Table 2
+Associations between outdoor pollution exposure and mortality in elderly
+Author (study period, country) (references)	Age (years)	Mortality for	Pollutant	Increment	Association	95% CI
+Romieu 2012 (2006-2009, Latin America) (31)	≥65	Respiratory causes	PM10	10 µg/m3	RPC 0.72%	0.54-0.89
+COPD	PM10	10 µg/m3	RPC 1.98%	0.78-3.23
+Cardiopulmonary causes	O3	10 µg/m3	RPC 0.33%	0.20-0.46
+Aga 2003 [1998] (32)	≥65	All causes	PM10	10 µg/m3	0.80% change	0.70-0.90
+BS	10 µg/m3	0.60% change	0.50-0.80
+Chen (2001-2008, China) (33)	≥65	All causes	PM10	10 µg/m3	0.50% change	0.22-0.78
+Fischer 2003 (1986-1994, the Netherlands) (34)	65-74	COPD	BS	40 µg/m3	RR 1.20	1.10-1.32
+SO2	40 µg/m3	RR 1.14	1.03-1.25
+NO2	30 µg/m3	RR 1.17	1.10-1.27
+CO	1,200 µg/m3	RR 1.38	1.15-1.65
+Fischer 2003 (1986-1994, the Netherlands) (34)	≥75	Pneumonia	PM10	80 µg/m3	RR 1.12	1.01-1.25
+BS	40 µg/m3	RR 1.12	1.05-1.20
+SO2	40 µg/m3	RR 1.10	1.03-1.17
+NO2	30 µg/m3	RR 1.13	1.07-1.19
+CO	1,200 µg/m3	RR 1.23	1.09-1.39
+O3	150 µg/m3	RR 1.37	1.24-1.50
+Filleul 2004 (1988-1997, France) (35)	≥65	Respiratory causes	BS	10 µg/m3	9.20% change	3.40-15.30
+Naess 2007 (1992-1998, Norway) Men (36)	51-70	COPD	NO2	Quartile	HR 1.21	1.05-1.39
+PM10	HR 1.29	1.12-1.48
+PM2.5	HR 1.27	1.11-1.47
+Naess 2007 (1992-1998, Norway) Men (36)	71-90	COPD	NO2	Quartile	HR 1.04	0.95-1.14
+PM10	HR 1.08	0.98-1.18
+PM2.5	HR 1.10	1.00-1.21
+Naess 2007 (1992-1998, Norway) Women (36)	51-70	COPD	NO2	Quartile	HR 1.06	0.92-1.21
+PM10	HR 1.06	0.92-1.22
+PM2.5	HR 1.09	0.94-1.25
+Naess 2007 (1992-1998, Norway) Women (36)	71-90	COPD	NO2	Quartile	HR 1.07	0.97-1.17
+PM10	HR 1.08	0.98-1.19
+PM2.5	HR 1.05	0.96-1.16
+Franklin 2007 (1997-2002, U.S.) (10)	≥75	Respiratory causes	PM2.5	10 µg/m3	1.85% change	0.27-3.44
+<75	1.53% change	−0.67-3.74
+Brunekreef 2009 (1987-1996, The Netherlands) (37)	55-69	Respiratory causes	NO2	30 µg/m3	RR 1.37	1.00-1.87
+BS	10 µg/m3	RR 1.22	0.99-1.50
+PM2.5	10 µg/m3	RR 1.07	0.75-1.52
+Jerrett 2009 (1982-2000, U.S.) (38)	>60	Respiratory causes	O3	10 µg/m3	RR 1.02	1.00-1.05
+Dong 2012 (1998-2009, China) (39)	>60	Respiratory causes	NO2	10 µg/m3	HR 2.88	2.60-3.20
+PM2.5	HR 1.66	1.59-1.74
+SO2	HR 1.04	0.97-1.13
+Open in a separate window
+CI, confidence interval; COPD, chronic obstructive pulmonary disease; PM, particulate matter; O3, ozone; RPC, risk percent change; BS, black smoke; SO2, sulphur dioxide; NO2, nitrogen dioxide; CO, carbon monoxide; RR, relative risk; HR, hazard ratio.
+
+Aga et al., by using data collected during the APHEA 2 project (started in 1998), have investigated the effects of PM10 and BS on mortality in the elderly from 29 European cities (≥65 years of age). Increments in PM10 and BS produced an increase in the daily number of deaths (Table 2). The effect magnitude was positively related to the long-term average levels of NO2, temperature, and to the proportion of the elderly in each city (32).
+
+In the WHO-Database on outdoor pollution, air quality is represented by annual mean concentration of PM10 and PM2.5. The database covers the period from 2003 to 2010 and includes outdoor air pollution monitoring from almost 1,100 cities in 91 countries. The world’s average PM10 levels by region range from 21 to 142 µg/m3, with a world’s average of 71 µg/m3.
+
+Most of the cities from India, China, Pakistan, Mongolia and Indonesia are ranked as heavily air-polluted cities (annual mean PM10 >100 µg/m3) (41).
+
+The relationship between outdoor air pollution and daily mortality in China has been largely examined in the previous century when the predominant source of air pollution was coal combustion (42). China’s economy has developed rapidly in the last 20 years, with consequent increases in energy use and industrial wastes. The economic growth has been accompanied by worsening air quality. Total suspended particulates (TSP) and SO2 have been decreasing in the last decade in several large cities, due to the adoption of various control measures. However, ambient air NOx level has been increasing due to the increased number of motor vehicles. Ambient air pollution in large cities has changed from the conventional coal combustion type to the mixed coal combustion/motor vehicle emission type (43). Given the changes, studies have been performed more recently in China to investigate the acute effects of outdoor air pollution on mortality outcomes.
+
+As part of the Public Health and Air Pollution in Asia (PAPA) program, a time-series study was conducted in Shanghai (China) to investigate the relationship between outdoor air pollution and daily mortality using 4 years of daily data [2001-2004]. The study concluded that short-term exposure to outdoor PM10, SO2, NO2, and O3 was associated with daily mortality from all natural causes and from cardio-pulmonary diseases. Moreover, the results have provided preliminary evidence that women, older people, and people with a low level of education are more vulnerable to air pollution than men, younger people, and people with a high level of education, respectively (44).
+
+Similar results have been observed in another Chinese city (Wuhan, 4.5 million residents). In the period 2000-2004 there was a consistent association between PM10 and mortality, especially for respiratory diseases. In general, the largest effects have been observed at lag 0-1 days: a 10 μg/m3 increase in PM10 was associated with a 0.87% increase (95% CI, 0.34-1.41%) in respiratory mortality. The effects were stronger in females than in males and were also stronger among the elderly than among the young people. The results of sensitivity tests have suggested a linear relationship between daily mortality and PM10. Significant associations of mortality with NO2 and SO2 were also observed, with estimated effects even stronger than for PM10. The patterns of NO2 and SO2 associations were similar to those of PM10 in terms of sex, age, and linearity (45).
+
+The analyses performed by Chen et al. on data collected in 16 cities, during the China Air Pollution and Health Effects Study (CAPES, 2001-2008), have confirmed the relationship between PM10 and total mortality in the elderly (Table 2), with higher effect in 65-year-old people (46). CAPES is the first multi-city study performed in developing countries to analyze the seasonality of PM health impacts. Nation-wide, a 10 μg/m3 increase in the 2-day moving average concentrations of PM10 was associated, at lag 0-1, with a significant increase in total mortality of 0.45% in winter and 0.55% in summer. There was no significant effect in spring (increase 0.17%) and fall (increase 0.25%). The seasonal pattern was consistent for both total and cardio-respiratory mortality (33).
+
+Recently, a meta-analysis including 33 studies performed in China has assessed mortality effects of short-term exposure to PM10 and PM2.5, SO2, NO2, O3, and CO. In general, all considered pollutants were significantly associated with increased mortality risks. In detail, each 10 μg/m3 increase in PM2.5 was associated with a 0.51% (95% CI, 0.30-0.73%) increase in respiratory mortality (47).
+
+Bell at al. have reviewed all the studies published after 1995 concerning the risk of death or hospitalization by short-term exposure to PM10. They found strong, consistent evidence that the elderly experience higher risk of PM-associated hospitalization and death. Per 10 μg/m3 increase of PM10, meta-analyses showed a statistically higher risk of death of 0.64% (95% CI, 0.50-0.78) for older populations compared to 0.34% (95% CI, 0.25-0.42) for younger populations (48).
+
+Bell et al. systematically reviewed also epidemiological evidence, from 1988 to 2013, regarding sensitivity to mortality or hospital admission from short-term O3 exposure. Through a meta-analysis they found that the strongest evidence for O3 sensitivity was for age. Per 10-part per billion increase in daily 8-hour O3 concentration, mortality risk for younger persons (0.60%; 95% CI, 0.40-0.80) was statistically lower than that for older persons (1.27%; 95% CI, 0.76-1.78) (49).
+
+Among a few studies that have assessed the relationships between air pollution and specific respiratory mortality (Table 2), Fischer et al., in the Netherlands [1986-1994], found that the daily mortality risk due to COPD, in subjects aged 65 to 74 years, was linked to BS, SO2, NO2, and CO with RR ranging from 1.14 to 1.38 (34).
+
+In France, among the elderly people (≥65 years), Filleul et al. have estimated an increase in daily respiratory mortality by 9.2%, at lag 0-5 days for a 10 μg/m3 BS increase (35).
+
+Naess et al., in their follow-up study performed in Oslo (Norway, 1992-1998), after adjusting for occupational and educational status, have found significant effects of NO2, PM10 and PM2.5 on COPD mortality, particularly in men, among 143,842 persons aged 51 to 90 years (36).
+
+Lastly, Franklin and his colleagues have reported the results of a study carried out in 27 U.S. communities from 1997 to 2002. They observed a positive association between an increase in previous day’s PM2.5 and respiratory related mortality. The effect was higher in people ≥75 years of age than in those aged <75 years (10).
+
+Long-term effects
+Long-term health effects of air pollution have been investigated through longitudinal studies. Chronic exposure to elevated levels of air pollution has been related to the incidence of COPD, chronic bronchitis (CB), asthma, and emphysema (50). There is also growing evidence suggesting adverse effects on lung function related to long-term exposure to ambient air pollution (51).
+
+Long-term morbidity In Italy, from 1980 to 1993, the Pulmonary Environmental Epidemiology Unit of the CNR Institute of Clinical Physiology (Pisa) performed two large consecutive cross-sectional studies in the rural area of the Po river Delta and in the urban area of Pisa. Prevalence rates of respiratory symptoms, as well as diagnoses of CB, emphysema, asthma, and pleuritis, increased with age and tended to be higher in urban than in rural areas, significantly for cough (37% vs. 18%), wheeze (39% vs. 27%), and emphysema (22% vs. 7%), in males, and for pleuritis (32% vs. 18%) in females (52).
+In Germany, from 1985 to 1994, consecutive cross-sectional studies were performed within the study on the influence of air pollution on lung function, inflammation and aging (SALIA). Schikowski et al. studied the adverse respiratory effects of long-term exposure to air pollution from industrial sources and traffic in 4,757 women with 55 years of age. Women living near a major road, compared to those living farther away, reported more frequently cough and COPD. An increase in 5-year means of PM10 enhanced the risk of COPD. A similar increase in NO2 was linked to higher risk of CB and COPD (Table 1). Moreover, an increment in PM10 exposure decreased FEV1 and forced vital capacity (FVC) by 5.1% (95% CI, 2.5-7.7) and 3.7% (95% CI, 1.8-5.5), respectively (23).
+
+Recently, within the population-based SALIA 2008-2009 cohort, a sub-sample of 402 elderly women has been selected. The aim was to evaluate the association between long-term exposure to air pollution and local inflammation in the lung. Such a study has concluded that long-term exposures to PM and NO2 from traffic and industry are associated with inflammatory markers in exhaled breath condensate and in induced sputum (53).
+
+Bentayeb and colleagues, in 2104 elderly (≥65 years) living in Bordeaux (France), after adjustment for potential confounders, have reported exposure to elevated mean annual levels (> third quartile) of PM10 and SO2 to be associated with increased prevalence of cough; SO2 was also positively associated with usual phlegm (Table 1). The effects appeared to be stronger for women than for men. Similar results were found when considering 3-year concentrations of proximity air pollutants, thus supporting the hypothesis of a long-term effect of air pollution on respiratory health in the elderly. In this study, it was used a dispersion model taking into account background air pollution, traffic density, meteorological conditions, and topographic conditions. Interestingly, the results have shown that background air pollution underestimates levels of outdoor air pollutants measured at proximity of the residences (24).
+
+With regards to pulmonary function, a longitudinal, population-based prospective study of adults aged ≥65 years living in U.S. [1989-1997] has shown an association between cumulative O3 or PM10 exposure and reduced lung function (6).
+
+A recent longitudinal study in Japan has evaluated long-term impact of air pollution on lifetime non-smoker elderly subjects (≥65 years) who reported pollution-related illness. Further, the study found that normal lung function in the subjects was not restored even after improvement of air pollution (as a result of anti-pollution measures) (54).
+
+Go to:
+Long-term mortality
+Air pollution–mortality risk estimates are generally higher for long-term than short-term exposures (55). Indeed, few studies have assessed long-term mortality in the elderly (14).
+
+In 1987, the Netherlands Cohort Study (NLCS) on diet and cancer involved about 120,000 subjects with 55 to 69 years of age. Hoek et al. examined the relationship between long-term exposure to traffic-related air pollution, as indicated by BS and NO2, and mortality (from 1986 to 1994) in a sub-sample of about 5,000 elderly people of the NLCS cohort. Living in close proximity to a major road represented a risk factor for all-cause mortality and cardiopulmonary mortality (56).
+
+Further, Brunekreef et al. examined data of the full cohort of NLCS, followed for 10 years (NLCS-AIR, 1987-1996). Information on residential history was used to generate indicators of long-term exposure to air pollutants. All variables representing air pollution and traffic intensity (BS, NO2, PM2.5) were associated with respiratory mortality, with some of the associations being statistically significant (Table 2) (37).
+
+Jerrett et al. evaluated in an 18-year follow-up [1982-2000] the risk of cardiopulmonary and respiratory mortality associated with long-term exposure to O3 and PM10. The study involved about 450,000 adults (45 years of age or older) living in U.S. An elevation in O3 concentration was associated with a significant increase in the risk of death from respiratory causes in both the whole sample and the persons aged >65 years (older people accounting for 20% of the total population) (Table 2) (38).
+
+The study of Dong et al. on a cohort of about 13,000 adults, followed from 1998 to 2009, provides support to the link between long-term exposure to ambient air pollution and increased risk of mortality from respiratory disease in China. In people 60 years of age or older, the associations were particularly strong for NO2 and PM10 (Table 2) (39).
+
+In their prospective cohort study [1990-2006] of 71,431 middle-aged Chinese men, Zhou et al. found significant positive associations between PM10 levels and the risk of mortality from total, cardiovascular and respiratory mortality. With regard to respiratory mortality, for each 10 μg/m3 increase in PM10 the risk increased by 1.7% (95% CI, 0.3-3.2) (57).
+
+Go to:
+Overall evidence and conclusions
+Figure 1 shows a summary of main health effects caused by common outdoor pollutants in the elderly. Most data have shown higher risks in the elderly compared to the rest of the population. Increased pollution exposures have been associated with increased mortality for cardio-pulmonary or respiratory causes (mainly COPD and pneumonia), with increased number of hospital admissions and emergency-room visits (mainly due to exacerbations of COPD and asthma, or to respiratory tract infections, mainly pneumonia), with higher incidence of respiratory diseases, and with decreased lung function. In general, there is sufficient evidence of the adverse effects related to short-term exposure, while less amount of data are available for long-term effects.
+
+An external file that holds a picture, illustration, etc.
+Object name is jtd-07-01-034-f1.jpg
+Figure 1
+Main respiratory health effects due to outdoor pollution exposure in elderly. CO, carbon monoxide; NO2, nitrogen dioxide; PM, particulate matter; SO2, sulphur dioxide; O3, ozone; BS, black smoke; COPD, chronic obstructive pulmonary disease.
+
+Future epidemiological cohort studies are needed to follow-up the elderly in order to investigate the long-term effects (mainly cardio-pulmonary diseases). This is particularly important for prevention policies, especially in developing countries. Urbanization, the demographic transition from rural to urban location, is associated with shifts from an agriculture-based economy to mass industry, technology, and service. In 2010, for the first time in history, more than 50% of the world’s population lived in an urban area. By 2050, 70% of the world’s population will be living in towns and cities (58). Urbanization offers opportunities for improvements in population health, but, at the same time, substantial health risks including air pollution.
+
+Outdoor air quality is rapidly deteriorating in major cities in low and middle income countries. With the rapid growth of traffic in developing countries such as China and India, air pollution has outpaced the adoption of tighter vehicle emission standards (59). The above reported population-based, retrospective cohort study conducted in northeast China by Dong et al., over the period 1998-2009, evidenced increases in the risk of mortality for respiratory disease from ambient air pollution higher than those reported in previous studies conducted in U.S., Europe and Japan (39). The number of deaths due to outdoor air pollution in China rose by about 5%, in India rose by about 12% over the period 2005-2010 (60).
+
+Although rapid economic growth in developing countries has brought many benefits, the adverse health consequences of urbanization pose major policy challenges. In countries changing as rapidly as China or India, frequently updated urbanization data are crucial for health policies to mitigate the adverse health effects, especially in highly vulnerable populations (e.g., older people and children) (61).
+
+Few studies have been directed to elderly people, specifically. Most standardized questionnaires on health assessment were not adapted to the elderly context. As the elderly is a separate group, the implementation of specific methods for this group has to be recommended.
+
+Often, it has not been considered that the relationship between air pollution and respiratory health may be confounded by the presence of comorbidity and treatments, which are frequent in the elderly, as well as by smoking and occupational exposure history, or by genetic factors (62).
+
+Epidemiological studies on adverse effects related to outdoor air pollution in elderly focused mainly on commonly monitored air pollutants, primarily SO2, CO, NO2, and PM. Other emerging outdoor air pollutants [e.g., volatile organic compound (VOC), including benzene] should be also considered.
+
+Moreover, several air pollutants are strongly correlated, and multi-pollutant analyses are needed (63). Data on air pollution exposure are mainly from monitoring stations; to take into account only background air pollution could underestimate the real exposure.
+
+As regard studies on mortality, due to the high presence of comorbidity in the elderly, it would be helpful to perform multi-level studies taking into account not only the underlying cause, but also the other causes of death.
+
+Finally, an emerging problem is the unregulated pollution from ultrafine particles (UFPs, diameter <100 nm). UFPs are ubiquitous and it has been hypothesized that they may have a greater potential for adverse health impacts compared to their larger counterparts, although long-term exposure studies are needed for confirmation. The major source for urban outdoor UFP concentrations is motor traffic. Recent analyses have suggested that the average exposure to outdoor UFPs in Asian cities is about four-times larger than that in European cities (64).
+
+Go to:
+Acknowledgements
+Disclosure: The authors declare no conflict of interest.
+
+Go to:
+References
+1. Department of Economic and Social Affairs, Population Division. World Population Ageing 2013. Available online: http://www.un.org/en/development/desa/population/publications/pdf/ageing/WorldPopulationAgeing2013.pdf
+2. WHO; US National Institute of Aging. Global health and ageing. Available online: http://www.who.int/ageing/publications/global_health/en/
+3. Poland GA, Ovsyannikova IG, Kennedy RB, et al.A systems biology approach to the effect of aging, immunosenescence and vaccine response. Curr Opin Immunol 2014;29:62-8. [PMC free article] [PubMed] [Google Scholar]
+4. WHO. Ambient (outdoor) air quality and health. Fact sheet N°313. Updated March 2014. Available online: http://www.who.int/mediacentre/factsheets/fs313/en/
+5. Viegi G, Maio S, Simoni M, et al. The epidemiological link between ageing and respiratory diseases. In: Bellia V, Incalzi RA. eds. European Respiratory Monograph 43: Respiratory Diseases in the Elderly. Plymouth: European Respiratory Society, 2009:1-17. [Google Scholar]
+6. Eckel SP, Louis TA, Chaves PH, et al.Modification of the association between ambient air pollution and lung function by frailty status among older adults in the Cardiovascular Health Study. Am J Epidemiol 2012;176:214-23. [PMC free article] [PubMed] [Google Scholar]
+7. Bateson TF, Schwartz J. Who is sensitive to the effects of particulate air pollution on mortality? A case-crossover analysis of effect modifiers. Epidemiology 2004;15:143-9. [PubMed] [Google Scholar]
+8. Goldberg MS, Burnett RT, Stieb DM, et al.Associations between ambient air pollution and daily mortality among elderly persons in Montreal, Quebec. Sci Total Environ 2013;463-464:931-42. [PubMed] [Google Scholar]
+9. Cadum E, Berti G, Biggeri A, et al.The results of EpiAir and the national and international literature. Epidemiol Prev 2009;33:113-9;123-43. [PubMed] [Google Scholar]
+10. Franklin M, Zeka A, Schwartz J.Association between PM2.5 and all-cause and specific-cause mortality in 27 US communities. J Expo Sci Environ Epidemiol 2007;17:279-87. [PubMed] [Google Scholar]
+11. Halonen JI, Lanki T, Yli-Tuomi T, et al.Particulate air pollution and acute cardiorespiratory hospital admissions and mortality among the elderly. Epidemiology 2009;20:143-53. [PubMed] [Google Scholar]
+12. Atkinson RW, Anderson HR, Sunyer J, et al.Acute effects of particulate air pollution on respiratory admissions: results from APHEA 2 project. Air Pollution and Health: a European Approach. Am J Respir Crit Care Med 2001;164:1860-6. [PubMed] [Google Scholar]
+13. Bhaskaran K, Gasparrini A, Hajat S, et al.Time series regression studies in environmental epidemiology. Int J Epidemiol 2013;42:1187-95. [PMC free article] [PubMed] [Google Scholar]
+14. Bentayeb M, Simoni M, Baiz N, et al.Adverse respiratory effects of outdoor air pollution in the elderly. Int J Tuberc Lung Dis 2012;16:1149-61. [PubMed] [Google Scholar]
+15. Sunyer J, Sáez M, Murillo C, et al.Air pollution and emergency room admissions for chronic obstructive pulmonary disease: a 5-year study. Am J Epidemiol 1993;137:701-5. [PubMed] [Google Scholar]
+16. Schwartz J.Short term fluctuations in air pollution and hospital admissions of the elderly for respiratory disease. Thorax 1995;50:531-8. [PMC free article] [PubMed] [Google Scholar]
+17. Medina-Ramón M, Zanobetti A, Schwartz J.The effect of ozone and PM10 on hospital admissions for pneumonia and chronic obstructive pulmonary disease: a national multicity study. Am J Epidemiol 2006;163:579-88. [PubMed] [Google Scholar]
+18. Zanobetti A, Schwartz J.Air pollution and emergency admissions in Boston, MA. J Epidemiol Community Health 2006;60:890-5. [PMC free article] [PubMed] [Google Scholar]
+19. Yang Q, Chen Y, Krewski D, et al.Effect of short-term exposure to low levels of gaseous pollutants on chronic obstructive pulmonary disease hospitalizations. Environ Res 2005;99:99-105. [PubMed] [Google Scholar]
+20. Chen Y, Yang Q, Krewski D, et al.Influence of relatively low level of particulate ar pollution on hospitalization for COPD in elderly people. Inhal Toxicol 2004;16:21-5. [PubMed] [Google Scholar]
+21. Villeneuve PJ, Chen L, Rowe BH, et al.Outdoor air pollution and emergency department visits for asthma among children and adults: a case-crossover study in northern Alberta, Canada. Environ Health 2007;6:40. [PMC free article] [PubMed] [Google Scholar]
+22. Larrieu S, Lefranc A, Gault G, et al.Are the short-term effects of air pollution restricted to cardiorespiratory diseases? Am J Epidemiol 2009;169:1201-8. [PubMed] [Google Scholar]
+23. Schikowski T, Sugiri D, Ranft U, et al.Long-term air pollution exposure and living close to busy roads are associated with COPD in women. Respir Res 2005;6:152. [PMC free article] [PubMed] [Google Scholar]
+24. Bentayeb M, Helmer C, Raherison C, et al.Bronchitis-like symptoms and proximity air pollution in French elderly. Respir Med 2010;104:880-8. [PubMed] [Google Scholar]
+25. Dominici F, Peng RD, Bell ML, et al.Fine particulate air pollution and hospital admission for cardiovascular and respiratory diseases. JAMA 2006;295:1127-34. [PMC free article] [PubMed] [Google Scholar]
+26. Wong TW, Lau TS, Yu TS, et al.Air pollution and hospital admissions for respiratory and cardiovascular diseases in Hong Kong. Occup Environ Med 1999;56:679-83. [PMC free article] [PubMed] [Google Scholar]
+27. Ko FW, Tam W, Wong TW, et al.Temporal relationship between air pollutants and hospital admissions for chronic obstructive pulmonary disease in Hong Kong. Thorax 2007;62:780-5. [PMC free article] [PubMed] [Google Scholar]
+28. Ko FW, Tam W, Wong TW, et al.Effects of air pollution on asthma hospitalization rates in different age groups in Hong Kong. Clin Exp Allergy 2007;37:1312-9. [PubMed] [Google Scholar]
+29. Alexeeff SE, Litonjua AA, Wright RO, et al.Ozone exposure, antioxidant genes, and lung function in an elderly cohort: VA normative aging study. Occup Environ Med 2008;65:736-42. [PMC free article] [PubMed] [Google Scholar]
+30. Saldiva PH, Pope CA, 3rd, Schwartz J, et al.Air pollution and mortality in elderly people: a time-series study in Sao Paulo, Brazil. Arch Environ Health 1995;50:159-63. [PubMed] [Google Scholar]
+31. Romieu I, Gouveia N, Cifuentes LA, et al.Multicity study of air pollution and mortality in Latin America (the ESCALA study). Res Rep Health Eff Inst 2012;171:5-86. [PubMed] [Google Scholar]
+32. Aga E, Samoli E, Touloumi G, et al.Short-term effects of ambient particles on mortality in the elderly: results from 28 cities in the APHEA2 project. Eur Respir J Suppl 2003;40:28s-33s. [PubMed] [Google Scholar]
+33. Chen R, Peng RD, Meng X, et al.Seasonal variation in the acute effect of particulate air pollution on mortality in the China Air Pollution and Health Effects Study (CAPES). Sci Total Environ 2013;450-451:259-65. [PMC free article] [PubMed] [Google Scholar]
+34. Fischer P, Hoek G, Brunekreef B, et al.Air pollution and mortality in The Netherlands: are the elderly more at risk? Eur Respir J Suppl 2003;40:34s-38s. [PubMed] [Google Scholar]
+35. Filleul L, Le Tertre A, Baldi I, et al.Difference in the relation between daily mortality and air pollution among elderly and all-ages populations in southwestern France. Environ Res 2004;94:249-53. [PubMed] [Google Scholar]
+36. Naess Ø, Nafstad P, Aamodt G, et al.Relation between concentration of air pollution and cause-specific mortality: four-year exposures to nitrogen dioxide and particulate matter pollutants in 470 neighborhoods in Oslo, Norway. Am J Epidemiol 2007;165:435-43. [PubMed] [Google Scholar]
+37. Brunekreef B, Beelen R, Hoek G, et al.Effects of long-term exposure to traffic-related air pollution on respiratory and cardiovascular mortality in the Netherlands: the NLCS-AIR study. Res Rep Health Eff Inst 2009;139:5-71; discussion 73-89. [PubMed] [Google Scholar]
+38. Jerrett M, Burnett RT, Pope CA, 3rd, et al.Long-term ozone exposure and mortality. N Engl J Med 2009;360:1085-95. [PMC free article] [PubMed] [Google Scholar]
+39. Dong GH, Zhang P, Sun B, et al.Long-term exposure to ambient air pollution and respiratory disease mortality in Shenyang, China: a 12-year population-based retrospective cohort study. Respiration 2012;84:360-8. [PubMed] [Google Scholar]
+40. Cakmak S, Dales RE, Rubio MA, et al.The risk of dying on days of higher air pollution among the socially disadvantaged elderly. Environ Res 2011;111:388-93. [PubMed] [Google Scholar]
+41. Urban outdoor air pollution database. September 2011. Department of Public Health and Environment, World Health Organization, Geneva, Switzerland. Available online: http://www.who.int/phe
+42. Chen B, Hong C, Kan H.Exposures and health outcomes from outdoor air pollutants in China. Toxicology 2004;198:291-300. [PubMed] [Google Scholar]
+43. Zhang J, Mauzerall DL, Zhu T, et al.Environmental health in China: progress towards clean air and safe water. Lancet 2010;375:1110-9. [PMC free article] [PubMed] [Google Scholar]
+44. Kan H, Chen B, Zhao N, et al.Part 1. A time-series study of ambient air pollution and daily mortality in Shanghai, China. Res Rep Health Eff Inst 2010;154:17-78. [PubMed] [Google Scholar]
+45. Qian Z, He Q, Lin HM, et al.Part 2. Association of daily mortality with ambient air pollution, and effect modification by extremely high temperature in Wuhan, China. Res Rep Health Eff Inst 2010;154:91-217. [PubMed] [Google Scholar]
+46. Chen R, Kan H, Chen B, et al.Association of particulate air pollution with daily mortality: the China Air Pollution and Health Effects Study. Am J Epidemiol 2012;175:1173-81. [PubMed] [Google Scholar]
+47. Shang Y, Sun Z, Cao J, et al.Systematic review of Chinese studies of short-term exposure to air pollution and daily mortality. Environ Int 2013;54:100-11. [PubMed] [Google Scholar]
+48. Bell ML, Zanobetti A, Dominici F. Evidence on vulnerability and susceptibility to health risks associated with short-term exposure to particulate matter: a systematic review and meta-analysis. Am J Epidemiol 2013;178:865-76. [PMC free article] [PubMed] [Google Scholar]
+49. Bell ML, Zanobetti A, Dominici F. Who is more affected by ozone pollution? A systematic review and meta-analysis. Am J Epidemiol 2014;180:15-28. [PMC free article] [PubMed] [Google Scholar]
+50. Tanaka T, Asai M, Yanagita Y, et al.Longitudinal study of respiratory function and symptoms in a non-smoking group of long-term officially-acknowledged victims of pollution-related illness. BMC Public Health 2013;13:766. [PMC free article] [PubMed] [Google Scholar]
+51. Götschi T, Heinrich J, Sunyer J, et al.Long-term effects of ambient air pollution on lung function: a review. Epidemiology 2008;19:690-701. [PubMed] [Google Scholar]
+52. Viegi G, Pedreschi M, Baldacci S, et al.Prevalence rates of respiratory symptoms and diseases in general population samples of North and Central Italy. Int J Tuberc Lung Dis 1999;3:1034-42. [PubMed] [Google Scholar]
+53. Vossoughi M, Schikowski T, Vierkötter A, et al.Air pollution and subclinical airway inflammation in the SALIA cohort study. Immun Ageing 2014;11:5. [PMC free article] [PubMed] [Google Scholar]
+54. Yanagita Y, Senjyu H, Asai M, et al.Air pollution irreversibly impairs lung function: a twenty-year follow-up of officially acknowledged victims in Japan. Tohoku J Exp Med 2013;230:177-84. [PubMed] [Google Scholar]
+55. Beverland IJ, Cohen GR, Heal MR, et al.A comparison of short-term and long-term air pollution exposure associations with mortality in two cohorts in Scotland. Environ Health Perspect 2012;120:1280-5. [PMC free article] [PubMed] [Google Scholar]
+56. Hoek G, Brunekreef B, Goldbohm S, et al.Association between mortality and indicators of traffic-related air pollution in the Netherlands: a cohort study. Lancet 2002;360:1203-9. [PubMed] [Google Scholar]
+57. Zhou M, Liu Y, Wang L, et al.Particulate air pollution and mortality in a cohort of Chinese men. Environ Pollut 2014;186:1-6. [PubMed] [Google Scholar]
+58. Bulletin of the World Health Organization (BLT). Available online: http://www.who.int/bulletin/volumes/88/4/10-010410/en/
+59. UNEP Year Book 2014: emerging issues in our global environment. Available online: http://www.unep.org/yearbook/2014/
+60. The cost of air pollution: Health impacts of road transport. Available online: http://www.oecd.org/environment/cost-of-air-pollution.htm
+61. Gong P, Liang S, Carlton EJ, et al.Urbanisation and health in China. Lancet 2012;379:843-52. [PMC free article] [PubMed] [Google Scholar]
+62. Yen IH, Michael YL, Perdue L. Neighborhood environment in studies of health of older adults: a systematic review. Am J Prev Med 2009;37:455-63. [PMC free article] [PubMed] [Google Scholar]
+63. Billionnet C, Gay E, Kirchner S, et al.Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings. Environ Res 2011;111:425-34. [PubMed] [Google Scholar]
+64. Kumar P, Morawska L, Birmili W, et al.Ultrafine particles in cities. Environ Int 2014;66:1-10. [PubMed] [Google Scholar]

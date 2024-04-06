@@ -1,0 +1,255 @@
+Early Life Wildfire Smoke Exposure Is Associated with Immune Dysregulation and Lung Function Decrements in Adolescence
+Carolyn Black,1 Joan E. Gerriets,1 Justin H. Fontaine,1 Richart W. Harper,2 Nicholas J. Kenyon,2 Fern Tablin,3 Edward S. Schelegle,3 and Lisa A. Millercorresponding author1,3
+Author information Article notes Copyright and License information PMC Disclaimer
+Go to:
+Abstract
+The long-term health effects of wildfire smoke exposure in pediatric populations are not known. The objectives of this study were to determine if early life exposure to wildfire smoke can affect parameters of immunity and airway physiology that are detectable with maturity. We studied a mixed-sex cohort of rhesus macaque monkeys that were exposed as infants to ambient wood smoke from a series of Northern California wildfires in the summer of 2008. Peripheral blood mononuclear cells (PBMCs) and pulmonary function measures were obtained when animals were approximately 3 years of age. PBMCs were cultured with either LPS or flagellin, followed by measurement of secreted IL-8 and IL-6 protein. PBMCs from a subset of female animals were also evaluated by Toll-like receptor (TLR) pathway mRNA analysis. Induction of IL-8 protein synthesis with either LPS or flagellin was significantly reduced in PBMC cultures from wildfire smoke–exposed female monkeys. In contrast, LPS- or flagellin-induced IL-6 protein synthesis was significantly reduced in PBMC cultures from wildfire smoke–exposed male monkeys. Baseline and TLR ligand–induced expression of the transcription factor, RelB, was globally modulated in PBMCs from wildfire smoke–exposed monkeys, with additional TLR pathway genes affected in a ligand-dependent manner. Wildfire smoke–exposed monkeys displayed significantly reduced inspiratory capacity, residual volume, vital capacity, functional residual capacity, and total lung capacity per unit of body weight relative to control animals. Our findings suggest that ambient wildfire smoke exposure during infancy results in sex-dependent attenuation of systemic TLR responses and reduced lung volume in adolescence.
+
+Keywords: lung, infant, LPS, flagellin, wildfire, particulate matter
+Clinical Relevance
+This study evaluated a cohort of outdoor-housed adolescent rhesus macaque monkeys that were exposed during infancy to ambient wood smoke from a series of Northern California wildfires in the summer of 2008. Because the animal exposures in this study were comparable to human exposures during the period of evaluation, an investigation of immune and lung function in this cohort of monkeys has important implications for human health effects, particularly in children. Findings from our study support an association of wildfire smoke exposure during the postnatal period of development with immune dysregulation and compromised lung function in adolescence.
+
+It has been estimated by the Natural Resources Defense Council that 212 million people in the United States lived in counties affected by wildfire smoke conditions in 2011 and that wildfire smoke contributed approximately 20% to total fine particulate emissions (1, 2). Because wildfire smoke can disperse far from the source and cross geographical boundaries, counties affected by smoke can be downwind of burn sites in states without active fires (3). In California, currently, half of all particulate matter (PM) under 2.5-μm diameter (PM2.5) is attributed to smoke from wildfires, which are expected to increase an additional 20–100% in the state through 2100 as a result of climate change (4–6).
+
+Wildfire smoke is a heterogeneous mixture of pollutants with a distinct composition compared with other combustion sources. Wildfires produce higher concentrations of PM2.5 relative to PM10, thereby further enhancing fine particle dispersal from the burn site and deeper penetration into the lung (7–9). Burning wood produces high levels of semivolatile organic compounds and a signature of polyaromatic hydrocarbons compared with gas or diesel combustion (10, 11). The mixture of chemical species found in wildfire smoke is also determined by factors unique to a particular event, such as the type of vegetation or weather conditions at the burn site (12). Volatile organic compounds produced by wildfires can participate, along with stable nitrogen compounds, in the generation of ozone downwind of a fire, leading to the possibility of coexposure (13).
+
+Infants and young children are especially susceptible to the adverse health effects of air pollutant exposure due to prolonged development of the respiratory tract and immune system that extends throughout childhood. Consistent with the vulnerable nature of maturing airways, epidemiologic studies have linked reduced lung function with ambient air pollution exposure during early childhood (14–16). Studies in animal models have provided supportive data on immune modulation by air pollution exposure during early life. We have previously reported that peripheral blood cells from juvenile monkeys experimentally exposed to episodic ozone during the first 6 months of life produced significantly reduced levels of proinflammatory cytokines when challenged in vitro with Toll-like receptor (TLR) ligands (17).
+
+Because the long-term health outcomes of wildfire smoke exposure in pediatric populations is currently unknown, we studied a cohort of adolescent rhesus macaque monkeys that were exposed during the first 3 months of life to a prolonged period of smoke from a series of Northern California wildfires in 2008. Based upon our previous findings with ozone, we postulated that monkeys exposed to ambient wildfire smoke during infancy would show attenuated levels of peripheral blood proinflammatory cytokine synthesis in response to in vitro TLR ligand challenge, as well as differences in lung function relative to their unexposed counterparts. A portion of the results of these studies have been previously reported in the form of abstracts (18, 19).
+
+Go to:
+Materials and Methods
+Air Quality Data
+Ozone and PM2.5 concentrations were measured by a California Air Resources Board air monitoring station (site no. 57,577) located 2.7 miles southeast of the California National Primate Research Center (CNPRC) on the University of California Davis campus (UC Davis; Davis, CA).
+
+Animals
+Wildfire smoke–exposed rhesus macaque monkeys born between April 1 and May 31, 2008 were housed in outdoor facilities at the CNPRC during the first 3 years of life (Table 1). Monkeys born between April 1 and May 31, 2009 served as control animals. Blood collection and pulmonary function testing took place in consecutive years when animals were approximately 3 years old to obtain measures in age-matched animals. All adolescent female monkeys underwent pulmonary function testing as a group during the summer months (June–August 2010 or 2011) to avoid pregnancy as a potential confounder; adolescent male monkeys were subsequently evaluated in the fall months (September–November 2010 or 2011). Care and housing of animals complied with the provisions of the Institute of Laboratory Animal Resources and conformed to practices established by the American Association for Accreditation of Laboratory Animal Care. The UC Institutional Animal Care and Use Committee approved all procedures in this study.
+
+Table 1.
+Demographic Characteristics of Animal Study Populations
+
+Characteristics	2008 Birth Year Mean (SD)	2009 Birth Year Mean (SD)
+Maternal background	 	 
+ Age at parturition, yr	7.0 (3.9)	6.1 (3.0)
+ Genetic background	 	 
+  Indian	44	44
+  Mixed Indian–Chinese	6	6
+Female	 	 
+ n	25	25
+ Age at exposure, wk	8.3 (1.7)	8.3 (2.0)
+ Age at assessment, yr	3.3 (0.07)	3.2 (0.05)
+ Weight at assessment, kg	4.9 (0.6)	4.6 (0.5)
+ Genetic background	 	 
+  Indian	19	21
+  Mixed Indian–Chinese	6	4
+ Corral diversity	13	14
+Male	 	 
+ n	25	25
+ Age at exposure, wk	7.6 (1.9)	7.9 (2.2)
+ Age at assessment, yr	3.5 (0.05)	3.3 (0.05)
+ Weight at assessment, kg	6.1 (1.0)	5.6 (0.6)
+ Genetic background	 	 
+  Indian	19	21
+  Mixed Indian-Chinese	6	4
+ Corral diversity	12	17
+Open in a separate window
+All continuous variables are reported as mean (±SD).
+
+Categorical variables (sex, genetic background, corral diversity) are reported as group-specific numerical frequency.
+
+In Vitro Challenge of Peripheral Blood Cells with TLR Ligands
+Peripheral blood mononuclear cells (PBMCs) were prepared as previously described (17). PBMCs were cultured in 96-well tissue culture plates with AIM-V medium (Invitrogen, Carlsbad, CA) at a concentration of 2 × 105 cells/100 μl at 37°C in 5% CO2. LPS (Escherichia coli 026:B6; Sigma-Aldrich, St. Louis, MO) and flagellin (standard formulation from Bacillus subtilis; Invivogen, San Diego, CA) were diluted in media before culture addition. Culture supernatants were assayed for cytokine proteins at 6 hours after TLR ligand addition; mRNA was evaluated at 3 hours after addition of ligands. ELISA Ready-SET-Go! Kits (eBioscience, San Diego, CA) were used to measure IL-6 and IL-8 protein. The limits of detection for ELISA assays were 2 pg/ml (IL-6) and 4 pg/ml (IL-8).
+
+PCR Array
+RNA was isolated using the RNeasy micro kit (Qiagen, Valencia, CA). cDNA was synthesized using the RT2 First Strand Kit (Qiagen). The RT2-Profiler PCR Array Rhesus Macaque Toll-Like Receptor Signaling Pathway (SA Bioscience, Valencia, CA), consisting of 84 different genes, was used as recommended by the manufacturer and analyzed with the SA Bioscience PCR Array Data Analysis Web Portal.
+
+Pulmonary Function Testing
+Airways resistance, lung compliance, lung volumes, and airways hyperresponsiveness to methacholine challenge were measured and normalized to body weight. Pulmonary mechanics were measured in anesthetized monkeys as previously described (20).
+
+Statistical Analysis
+Treatment and exposure effects were reported as mean (±SEM). Differences were evaluated by ANOVA (one-way or two-way) with Tukey honest significant difference post hoc test using GraphPad Prism 6 (GraphPad Software Inc., La Jolla, CA). Statistical analysis of association was performed with R statistical software using the Pearson correlation; r variables are reported. A P value of 0.05 or less was considered statistically significant.
+
+Go to:
+Results
+Demographics of Animal Population
+All study animals were born outdoors at the CNPRC, breast fed, and randomly recruited from 13–19 genetically diverse family units located in either half-acre field cages or smaller social group housing (Table 1; see Figure E1 in the online supplement). The genetic background of study animals was predominantly of Indian origin, although some animals were of combined Indian–Chinese origin. Animals in wildfire smoke exposure and control groups received comparable veterinary care, antibiotic usage, and medical intervention, in addition to receiving identical diets. Animals were vaccinated against tetanus; some also received a measles vaccination.
+
+Northern California Wildfires Coincided with 2008 Yolo County PM2.5 Levels above the National Ambient Air Quality Standards
+Rhesus macaque monkeys are seasonal breeders, with an annual birthing season that typically begins in March and lasts through June. In the months of June and July 2008, a cohort of CNPRC outdoor colony newborn monkeys were exposed to 10 days of ambient PM2.5 levels above the National Ambient Air Quality Standards (NAAQS) of 35 μg/m3 averaged over a 24-hour period, as a result of Northern California wildfire smoke conditions affecting the California Central Valley (Figure 1A, Table 2). PM2.5 exposures above the NAAQS took place in two episodes consisting of 4–6 days each, peaking at 78 μg/m3 on June 27, 2008. In comparison, CNPRC outdoor colony newborn monkeys born in 2009 were not exposed to ambient PM2.5 concentrations above the NAAQS during the first 3 months of life (Table 2). Study animals born in 2008 were also exposed to more ambient ozone in the first 3 months of life, with 3 days of exposure to ozone levels above the national 8-hour NAAQS (0.075 ppm) compared with 0 days above NAAQS in animals born in 2009 (Figure 1B, Table 2). Differences in PM2.5 and ozone measures between the 2008 and 2009 cohorts were confined to infancy, as both animal groups were exposed to comparable concentrations of PM2.5 and ozone between 4 months and 3 years of age (Table 2).
+
+An external file that holds a picture, illustration, etc.
+Object name is rcmb.2016-0380OC_f1.jpg
+Figure 1.
+University of California (UC) Davis air quality statistics for the period of June–July, 2008 and June–July, 2009. (A) Daily 24-hour average concentration of particulate matter under 2.5-μm diameter (PM2.5) and (B) 8-hour average concentration (ppm) of ozone on the UC Davis campus from the period of June 1–July 30, 2008 (solid line) or 2009 (dashed line). Data points were obtained from a California Air Resources Board monitoring station located 2.7 miles southeast of the California National Primate Research Center.
+
+Table 2.
+Statistical Summary of Particulate Matter under 2.5-μm Diameter and Ozone during Assessment Periods
+
+Ambient Pollutant	Year 2008 Mean (SD)	Year 2009 Mean (SD)
+0–3 mo*	 	 
+ Days above PM2.5 national standard	10 (1.0)	0 (0)
+ Average 24-h PM2.5, μg/m3	15 (1.2)	9 (0.5)
+ Maximum PM2.5 (24 h), μg/m3	78 (0)	18 (0.7)
+ Cumulative PM2.5 exposure, μg/m3	30,770 (2,325)	19,896 (944)
+ Hours over California 1-h ozone standard	13 (2.9)	0 (0)
+ Days above national 8-h ozone standard	3 (0.75)	0 (0)
+ Maximum 1-h ozone, ppm	0.111 (0.002)	0.084 (0.003)
+ Maximum 8-h ozone, ppm	0.090 (0.004)	0.065 (0.001)
+ Average 8-h ozone, ppm	0.047 (0.000)	0.042 (0.001)
+4 mo–3 yr†	 	 
+ Days above PM2.5 national standard	3 (0.8)	9 (0)
+ Average 24-h PM2.5, μg/m3	10 (0.2)	10 (0.0)
+ Maximum PM2.5 (24 h), μg/m3	43 (9.6)	43 (0)
+ Cumulative PM2.5 exposure, μg/m3	235,596 (12,994)	235,013 (5,236)
+ Hours over California 1-h ozone standard	6 (2.9)	3 (0.9)
+ Days above national 8-h ozone standard	3 (0.79)	2 (0)
+ Maximum 1-h ozone, ppm	0.097 (0.003)	0.094 (0)
+ Maximum 8-h ozone, ppm	0.074 (0.002)	0.074 (0)
+ Average 8-h ozone, ppm	0.035 (0.000)	0.036 (0.000)
+Open in a separate window
+Definition of abbreviation: PM2.5, particulate matter under 2.5-μm diameter.
+
+*Exposure estimates for individual animals during the period from birth through 3 months of age, based upon data collected from California Air Resources Board monitoring site number 57,577.
+†Exposure estimates for individual animals during the period from 4 months of age to the time of pulmonary function assessment (∼3 yr old) based upon data collected from California Air Resources Board monitoring site number 57,577.
+Wildfire smoke–exposed (2008) male monkeys were higher in body weight at the time of assessment relative to control (2009) male monkeys, but there was no overall significant difference when adjusted for age (Table 1). Wildfire smoke–exposed (2008) female monkeys were also higher in body weight at the time of assessment relative to control (2009) female monkeys; however, this was not statistically significant when compared at a single time point (Table 1, P = 0.52). Linear regression analysis of weight gain over time showed no difference in slope relative to exposure for males (−WFS slope = 1.484 ± 0.01459; +WFS slope = 1.468 ± 0.01971; P = 0.4971), whereas the slope of weight gain with age over time was significantly greater with wildfire smoke exposure in females (−WFS slope = 1.244 ± 0.0147; +WFS slope = 1.339 ± 0.01647; P < 0.0001; Figure 2).
+
+An external file that holds a picture, illustration, etc.
+Object name is rcmb.2016-0380OC_f2.jpg
+Figure 2.
+Linear regression analysis of body weight data collected from study animals between birth and approximately 3 years of age. (A) Control (−WFS) female monkeys versus exposed (+WFS) female monkeys. (B) Control (−WFS) male monkeys versus exposed (+WFS) male monkeys. WFS, wildfire smoke.
+
+Adolescent Monkeys Exposed to Wildfire Smoke as Infants Show Attenuation of PBMC Responses to TLR Ligands
+Our laboratory has previously reported persistent attenuation of peripheral blood proinflammatory cytokine responses in rhesus monkeys after episodic ozone exposure during postnatal development; PBMCs isolated from monkeys exposed to ozone during infancy produced significantly less IL-8 and IL-6 protein when cultured with LPS as compared with PBMCs from filtered-air controls (17). Like ozone, inhaled wildfire smoke particulate matter generates significant oxidative stress (21, 22); therefore, we hypothesized that early-life wildfire smoke exposure may impose similar effects on peripheral blood immune cell responses to TLR ligand challenge later in life. To test this hypothesis, we cultured PBMCs from 3-year-old monkeys that were exposed to wildfire smoke at infancy and measured secretion of IL-8 and IL-6 after in vitro challenge with LPS. Because TLR5 has been linked with the asthma phenotype experimentally and in human subjects, we also assessed the PBMC proinflammatory cytokine response to flagellin challenge in vitro (23, 24).
+
+As shown in Figure 3, LPS challenge of PBMC cultures resulted in a significant dose-dependent induction of IL-8 (P < 0.0001; Figure 3A) and IL-6 protein (P < 0.0001; Figure 3B) secretion at 6 hours after treatment. Comparison of LPS-induced cytokine concentrations in PBMC cultures obtained from wildfire smoke–exposed animals compared with control animals showed a significant reduction of both IL-8 (P < 0.01) and IL-6 (P < 0.0001) protein with wildfire smoke exposure. PBMC cultures with flagellin challenge also elicited a dose-dependent induction of IL-8 (P < 0.0001; Figure 3C) and IL-6 (P < 0.0001; Figure 3D) protein. However, only IL-8 protein expression after culture with flagellin was significantly reduced in association with wildfire smoke exposure (P < 0.05); there was no significant association of wildfire smoke exposure and flagellin-induced IL-6 protein secretion when both male and female animals were collectively evaluated.
+
+An external file that holds a picture, illustration, etc.
+Object name is rcmb.2016-0380OC_f3.jpg
+Figure 3.
+Effect of WFS exposure on Toll-like receptor–induced proinflammatory cytokine synthesis in peripheral blood mononuclear cells (PBMCs) from adolescent monkeys. PBMCs from 3-year-old study animals were challenged with either LPS or flagellin in vitro and evaluated at 6 hours for cytokine secretion. (A) IL-8 protein synthesis with LPS. (B) IL-6 protein synthesis with LPS. (C) IL-8 protein synthesis with flagellin. (D) IL-6 protein synthesis with flagellin. (E) Sex-dependent IL-8 synthesis with LPS. Exposed females versus control females; P < 0.05. (F) Sex-dependent IL-6 synthesis with LPS. Exposed males versus control males; P < 0.01. (G) Sex-dependent IL-8 synthesis with flagellin. Exposed females versus control females; P < 0.05. (H) Sex-dependent IL-6 synthesis with flagellin. Exposed males versus control males; P < 0.05. WFS-exposed (solid bar, circle, or square) or control (open bar, circle, or square). *P < 0.05; **P < 0.01; ***P < 0.001; ****P < 0.0001. FLA, flagellin.
+
+To determine whether sex influenced the PBMC cytokine response to TLR4 and TLR5 ligands, we compared cytokine production in cultures with the highest concentration of LPS or flagellin from male or female monkeys. PBMCs isolated from wildfire smoke–exposed female monkeys produced significantly less IL-8 protein after culture with 500 ng/ml LPS (P < 0.05; Figure 3E) or 500 ng/ml flagellin (P < 0.05; Figure 3G) compared with control female monkeys. No difference in IL-6 synthesis was observed in PBMCs isolated from female monkeys in the wildfire smoke–exposed compared with control animals. In contrast, IL-6 secretion was significantly attenuated in PBMCs from wildfire smoke–exposed male monkeys compared with control monkeys in response to both LPS (P < 0.01; Figure 3F) and flagellin (P < 0.05; Figure 3H). IL-8 protein synthesis was comparable between wildfire smoke–exposed and control male monkeys in the study population.
+
+The effect of antecedent wildfire smoke exposure on PBMC cytokine responses to TLR ligands was exclusively associated with study animals exposed during infancy. Adult female monkeys exposed to wildfire smoke under conditions identical to that of infants in this study showed comparable IL-8 and IL-6 synthesis 3 years after exposure relative to indoor-housed adult female monkeys (Figure E2).
+
+NF-κB Transcription Factor Expression Is Modulated in PBMCs from Wildfire Smoke–Exposed Females
+Particulate matter can affect TLR signaling pathways in multiple cell types and exposure models (reviewed in Ref. 25). To investigate whether expression of TLR family members and associated signaling molecules might be altered in PBMCs as a result of wildfire smoke exposure, we surveyed 84 mRNAs associated with TLR signaling pathways by RT-PCR array analysis. Assessment was focused on cultures generated from a subset of the primary cohort of wildfire smoke–exposed (n = 6) and control (n = 6) female monkeys. Profiles of genes significantly affected or differentially expressed by at least twofold in PBMCs cultured for 3 hours with media, LPS, or flagellin are summarized in Table 3. Of the 84 TLR pathway–associated mRNAs evaluated for expression, c-Rel and RelB transcription factors in the NF-κB family were significantly reduced in wildfire smoke–exposed female monkeys relative to controls. In contrast, with LPS or flagellin challenge, expression of RelB was significantly increased in cultures from wildfire smoke–exposed animals relative to controls. LPS also increased mRNA expression for the adapter proteins myeloid differentiation primary response gene 88 and Fas-associated via death domain, and reduced the mRNA expression for the leucine zipper protein, fos proto-oncogene, in wildfire smoke–exposed animals. Flagellin exclusively increased the expression of conserved helix-loop-helix ubiquitous kinase, a serine kinase that functions in the negative feedback loop for NF-κB signaling pathway, in wildfire smoke–exposed animals relative to control animals.
+
+Table 3.
+Effect of Wildfire Smoke Exposure, LPS, and Flagellin Treatment on Toll-Like Receptor Pathway Gene Expression in Peripheral Blood Mononuclear Cells
+
+Gene	Media WFS
+LPS WFS
+Flagellin WFS
+−	+	−	+	−	+
+CCL2	2.31	3.38	3.27	1.46	1.85	0.70
+CHUK	1.17	1.07	1.18	1.31	0.89	1.18*
+CSF2	0.01	0.01	0.27	0.11	0.54	0.52
+CSF3	0.02	0.02	1.05	0.50	3.42	5.14
+FADD	1.01	0.73	0.59	0.98*	0.62	0.74
+FOS	0.57	0.77	0.98	0.60*	0.81	0.53
+HSPA1B	0.98	1.17	3.02	1.35	2.20	1.11
+IL12B	0.01	0.01	0.37	0.14	0.72	0.83
+MAL	0.11	0.05	0.10	0.17	0.05	0.15
+MAP4K4	0.15	0.16	0.14	0.27	0.10	0.24
+MYD88	0.79	0.62	0.59	0.88†	0.51	0.57
+REL	6.94	5.24*	8.53	10.35	7.69	9.75
+RELB	3.67	2.62‡	3.81	4.72‡	3.42	4.36†
+TLR9	0.03	0.05	0.08	0.03	0.06	0.03
+Open in a separate window
+Definition of abbreviations: CCL2, chemokine ligand 2; CHUK, conserved helix-loop-helix ubiquitous kinase; CSF2, colony stimulating factor 2; CSF3, colony stimulating factor 3; FADD, Fas-associated via death domain; FOS, fos proto-oncogene; HSPA1B, heat shock protein family member 1B; MAL, myelin and lymphocyte protein; MAP4K4, mitogen-activated protein kinase kinase kinase kinase 4; MYD88, myeloid differentiation primary response gene 88; REL, c-Rel; TLR, Toll-like receptor; WFS, wildfire smoke.
+
+All results are reported as the mean for 2average(ΔCt).
+
+*P < 0.05.
+†P < 0.01.
+‡P < 0.0001.
+Lung Function in Adolescence Is Dependent upon Sex and Wildfire Smoke Exposure during Infancy
+Compared with controls, animals exposed to wildfire smoke as infants had significantly reduced inspiratory capacity, residual volume, vital capacity, and functional residual capacity per unit of body weight (Figure 4A). In addition, there was a trend toward reduced total lung capacity in animals exposed to wildfire smoke as infants (P = 0.051). Due to their larger mass, males overall had significantly lower expiratory reserve volume (P < 0.01), vital capacity (P < 0.01), functional residual capacity (P < 0.01), and total lung capacity (P < 0.01) per unit of body weight compared with females (Figure 4B). Relative to control females, wildfire smoke–exposed females had reduced dynamic compliance per unit of body weight (Figure 4C). We observed a modest effect of exposure on airways resistance (Raw) per unit of body weight, and males had significantly lower Raw compared with females (Figure 4F). There was no significant difference in airways reactivity after methacholine challenge between exposure and control animal groups, regardless of sex (Figures 4G and 4H). Linear regression analysis of Raw relative to cytokine synthesis in response to TLR ligands showed significant correlation of IL-8 and IL-6 for unexposed female monkeys, whereas there was no association for wildfire smoke–exposed female or male animals (Figure E3 and Table E1). Only wildfire smoke–exposed female monkeys displayed significant correlation of dynamic compliance with TLR ligand–induced cytokine synthesis, which was limited to induction of IL-6 via flagellin. Airways hyperresponsiveness measures showed no significant associations with PBMC cytokine synthesis, regardless of TLR ligand used.
+
+An external file that holds a picture, illustration, etc.
+Object name is rcmb.2016-0380OC_f4.jpg
+Figure 4.
+Effect of WFS exposure on lung function measures in adolescent monkeys. (A) Lung volumes standardized to body weight in control (−) or WFS-exposed (+) monkeys. WFS-exposed versus control were compared using Student’s t test. **P < 0.01; ****P < 0.0001. (B) Lung volumes standardized to body weight in females versus males. Group comparisons by two-way ANOVA for sex versus exposure; listed statistics are for female versus males. **P < 0.01. (C) Tissue compliance (Ct), normalized by body weight. (D) Tissue compliance (Ct), normalized by body weight in females versus males. **P < 0.01. (E) Airways resistance (Raw), normalized by body weight. (F) Raw, normalized by body weight in females versus males. Group comparisons by two-way ANOVA for sex versus exposure. *P < 0.05; ****P < 0.0001. (G) Airway hyperresponsiveness to methacholine challenge expressed in concentration of methacholine needed to achieve doubling of baseline Raw (EC200), with a maximum dose of 32 mg/ml. (H) EC200 in females versus males. ERV, expiratory reserve volume; FRC, functional residual capacity; IC, inspiratory capacity; RV, residual volume; TLC, total lung capacity; VC, vital capacity.
+
+Go to:
+Discussion
+Wildfire smoke can reach regions far beyond burn sites, and is expected to increasingly extend toward populated areas due to climate change (6). In our study, we found significant immune and respiratory changes in rhesus macaque monkeys after exposure to wildfire smoke in 2008 that was carried over 200 miles from the combustion source: a series of wildfires in Northern California. Moreover, the outcome measures of our study were assessed in adolescent animals exposed as infants, suggesting an altered developmental trajectory that persisted with age. We observed significant attenuation of proinflammatory cytokine synthesis in response to LPS or flagellin challenge in PBMC cultures from exposed animals. We also found sex differences in conjunction with exposure; IL-8 synthesis was significantly decreased in females, whereas the effect on IL-6 synthesis was most pronounced in males. Wildfire smoke–exposed animals, as a whole, were found to have significantly reduced lung volumes, but only females showed decreased lung compliance relative to control counterparts. Because we were unable to evaluate infants immediately after the wildfire smoke exposure period described in this study, we do not know whether the immune and respiratory effects in adolescent animals were detectable at infancy. However, adult animals that were simultaneously exposed to wildfire smoke along with the infant animals in 2008 showed no evidence of persistently altered immune function, suggesting that infant animals were more vulnerable to long-term changes to immunity as a result of environment.
+
+In the human population, acute wildfire smoke exposure is associated with increased respiratory symptoms, including increased asthma symptoms and medication use, and chronic obstructive pulmonary disease exacerbations (26–29). Our findings from a cohort of nonhuman primates exposed to prolonged ambient wildfire smoke suggest that children who underwent similar exposures as infants may exhibit a similar health profile, with the important caveat that animals in our study were exclusively housed outdoors throughout the assessment period. Because normal development of rhesus monkeys is accelerated relative to children, the relative impact of this window of exposure may also differ between nonhuman primate and primate species. Although the PM2.5 and ozone exposure data collected from the California Air Resources Board air monitoring station represent the most accurate measures of air quality within the immediate vicinity of the CNPRC, it should be acknowledged that other sources of pollutants may have been present during the period of time in which the study animals were housed in the outdoor colony. However, ambient particulate matter collected on the UC Davis campus during the 2008 wildfires and subsequently evaluated in a rodent model was found to induce greater oxidative stress, neutrophilic inflammation, and lung pathology on a per-weight basis compared with local urban ambient particulate matter, suggesting that this component of the 2008 wildfire smoke elicited significant respiratory toxicity (21, 30).
+
+Both TLR4- and TLR5-mediated signaling pathways appeared to be compromised with wildfire smoke exposure in our study, but PCR array analysis did not indicate reduced mRNA expression of TLR family members. Rather, we observed increased mRNA expression of RelB in PBMCs from wildfire smoke–exposed animals, suggesting that transcription factor regulation might be a target for pollutants. We cannot discount the possibility that the difference in RelB expression is associated with a change in the mixture of immune cell types present in the PBMC population; however, the overall frequency of CD14+ monocytes did not differ with exposure (data not shown). RelB plays an important regulatory role in the proinflammatory cytokine response to LPS in the context of endotoxin tolerance (31). Intriguingly, acute exposure of mice to inhaled wood smoke, but not diesel exhaust particulate matter, results in activation of RelB in alveolar macrophages (32). Activation of RelB in macrophages occurs in response to polycyclic aromatic hydrocarbons found in wood smoke, implicating a role for the RelB/aryl hydrocarbon receptor complex in mediating the effects of wood smoke exposure (32). Thus, our findings are consistent with experimental wood smoke exposure models demonstrating Relb modulation after exposure.
+
+Data from the Children’s Health Study, Genes–Environments and Admixture in Latino Americans II, Study of African Americans, Asthma, Genes, and Environments II, Children, Allergy, Milieu, Stockholm, Epidemiological Survey (BAMSE), Hwang and colleagues, and Rice and colleagues (14, 16, 33–38) indicate that long-term childhood exposure to air pollution is associated with deficits in lung function, whereas, in the German Infant Study on the influence of nutritional intervention plus environmental and genetic influences on allergy development (GINIplus) and lifestyle-related factors, immune system and the development of allergies in East and West Germany plus the influence of traffic emissions and genetics study (LISAplus) cohorts, respiratory deficits were observed only in susceptible asthmatic populations (39). The observed reduction in lung volumes in our wildfire-exposed study animals is consistent with human birth cohort studies in which early childhood air pollution exposure is associated with deficits in lung growth in adolescence (16, 34, 35). Differences in the type of exposure, genetic background, and other environmental factors, including socioeconomic status, add complexity and a high level of variability to human cohort studies (36, 40). In comparison, our study of air pollution exposure in a stable animal colony allows for more control over external factors in a small sample population. Changes in lung parenchyma affecting alveolar number, or alveolar volume, could potentially result in the altered lung volumes observed in our study. In support of this theory, we have previously reported that episodic ozone during postnatal development can result in enlarged alveoli and decreased alveolar number in rhesus monkeys (41, 42).
+
+It is notable in our study that susceptibility to immune and airways physiology effects of exposure were segregated by sex. Sex may influence the degree of lung inflammation after ozone inhalation (43, 44), and the immunomodulatory effect of sex hormones on PBMCs has been documented (reviewed in Ref. 45). Our finding of increased weight trajectory in wildfire smoke–exposed females also suggests that metabolic processes are affected by air pollutants. Sex differences in lung measurements are dependent upon age, with males showing lower pulmonary function relative to females in the postnatal period, but increasing function relative to females in adolescence (46, 47). The animals in our study were approximately 3 years old at the time of evaluation, which is onset of puberty in males and after onset of puberty in females. As such, our finding of reduced Raw in males relative to females is consistent with age-dependent lung function in humans, and was likely due to changes in airway caliber as a result of maturation. We did not observe differences in airways responsiveness to methacholine challenge, regardless of sex or exposure. Human studies on lung growth restriction in children exposed to air pollution describe a pattern of nonobstructive lung disease that is not reversed by bronchodilators, which might be comparable to the pulmonary phenotype elicited in our wildfire-exposed study population (38).
+
+Although this study is believed to be the first report of long-term immune and physiologic decrements after early life wildfire smoke exposure, there are important limitations to the observational data that should be considered. Because the outcome measures for this study were correlated with ambient exposures, reproducibility of the findings may be problematic. Future studies using controlled experimental wood smoke or wood smoke–derived particulate matter exposure in infant nonhuman primates would be essential to both replicate our findings as well as provide an understanding of the biological mechanisms involved.
+
+In conclusion, in our cohort of nonhuman primates, we observed modulation of peripheral blood TLR-induced cytokine synthesis and altered lung function that was significantly associated with early-life wildfire smoke exposure. Discrete parameters of cytokine expression and airways physiology were found to be sex dependent in conjunction with wildfire smoke exposure. Our findings suggest that pediatric populations exposed to wildfire smoke may be impacted in a similar fashion.
+
+Go to:
+Acknowledgments
+The authors acknowledge Deborah M. Drechsler (Research Division of the California Air Resources Board), John C. Stilley (Air Quality Planning and Science Division of the California Air Resources Board), and Christopher M. Royer (California National Primate Research Center) for assistance in preparation of this manuscript.
+
+Go to:
+Footnotes
+This work was supported by California Air Resources Board Agreement 10-303 and National Institutes of Health grant P51OD011107.
+
+Author Contributions: L.A.M. conceived the study and served as the principal investigator for the California Air Resources Board agreement that supported the research; C.B., J.E.G., J.H.F., and E.S.S. contributed to data collection and analysis for the manuscript; C.B., E.S.S., R.W.H., N.J.K., F.T., and L.A.M. reviewed the data analysis for the manuscript; C.B. and L.A.M. wrote the manuscript; E.S.S., R.W.H., N.J.K., and F.T. critically reviewed the manuscript; all authors provided significant intellectual contributions to the study and approved the final version of the manuscript.
+
+This article has an online supplement, which is accessible from this issue’s table of contents at www.atsjournals.org
+
+Originally Published in Press as DOI: 10.1165/rcmb.2016-0380OC on February 16, 2017
+
+Author disclosures are available with the text of this article at www.atsjournals.org.
+
+Go to:
+References
+1. The 2011 National Emissions Inventory. 2011. [updated 2017 Feb 15; accessed 2017 Mar 25]. Available from: https://www.epa.gov/air-emissions-inventories/2011-national-emissions-inventory-nei-data.
+2. Knowlton K. Where there’s fire, there's smoke: wildfire smoke affects communities distant from deadly flames. New York, NY: Natural Resources Defense Council; 2013. NRDC Issue Brief 13-09-b. [Google Scholar]
+3. Dreessen J, Sullivan J, Delgado R. Observations and impacts of transported canadian wildfire smoke on ozone and aerosol air quality in the maryland region on 9–12 June, 2015. J Air Waste Manag Assoc. 2016;66:842–862. [PubMed] [Google Scholar]
+4. Pinkerton KE, Rom WN, Akpinar-Elci M, Balmes JR, Bayram H, Brandli O, Hollingsworth JW, Kinney PL, Margolis HG, Martin WJ, et al. American Thoracic Society Environmental Health Policy Committee. An official American Thoracic Society workshop report: climate change and human health. Proc Am Thorac Soc. 2012;9:3–8. [PMC free article] [PubMed] [Google Scholar]
+5. Rice MB, Thurston GD, Balmes JR, Pinkerton KE. Climate change: a global threat to cardiopulmonary health. Am J Respir Crit Care Med. 2014;189:512–519. [PMC free article] [PubMed] [Google Scholar]
+6. Hurteau MD, Westerling AL, Wiedinmyer C, Bryant BP. Projected effects of climate and development on California wildfire emissions through 2100. Environ Sci Technol. 2014;48:2298–2304. [PubMed] [Google Scholar]
+7. U.S. EPA. Integrated science assessment for particulate matter (final report) Washington, D.C.: U.S. Environmental Protection Agency; 2009. [PubMed] [Google Scholar]
+8. Makkonen U, Hellén H, Anttila P, Ferm M. Size distribution and chemical composition of airborne particles in south-eastern Finland during different seasons and wildfire episodes in 2006. Sci Total Environ. 2010;408:644–651. [PubMed] [Google Scholar]
+9. Nance JD, Hobbs PV, Radke LF, Ward DE. Airborne measurements of gases and particles from an Alaskan wildfire. J Geophys Res. 1993;98(D8):14873–14882. [Google Scholar]
+10. Mauderly JL, Barrett EG, Day KC, Gigliotti AP, McDonald JD, Harrod KS, Lund AK, Reed MD, Seagrave JC, Campen MJ, et al. The National Environmental Respiratory Center (NERC) experiment in multi-pollutant air quality health research: II. Comparison of responses to diesel and gasoline engine exhausts, hardwood smoke and simulated downwind coal emissions. Inhal Toxicol. 2014;26:651–667. [PubMed] [Google Scholar]
+11. Totlandsdal AI, Øvrevik J, Cochran RE, Herseth JI, Bølling AK, Låg M, Schwarze P, Lilleaas E, Holme JA, Kubátová A. The occurrence of polycyclic aromatic hydrocarbons and their derivatives and the proinflammatory potential of fractionated extracts of diesel exhaust and wood smoke particles. J Environ Sci Health A Tox Hazard Subst Environ Eng. 2014;49:383–396. [PubMed] [Google Scholar]
+12. Urbanski SP, Hao WM, Baker S. Chemical Composition of Wildland Fire Emissions. In: Bytnerowicz A, Arbaugh M, Riebau A, Andersen C, editors. Wildland fires and air pollution. Amsterdam: Elsevier; 2008. [Google Scholar]
+13. Jaffe DA, Wigder NL. Ozone production from wildfires: a critical review. Atmos Environ. 2012;51:1–10. [Google Scholar]
+14. Gauderman WJ, Avol E, Gilliland F, Vora H, Thomas D, Berhane K, McConnell R, Kuenzli N, Lurmann F, Rappaport E, et al. The effect of air pollution on lung development from 10 to 18 years of age. N Engl J Med. 2004;351:1057–1067. [PubMed] [Google Scholar]
+15. Gehring U, Gruzieva O, Agius RM, Beelen R, Custovic A, Cyrys J, Eeftens M, Flexeder C, Fuertes E, Heinrich J, et al. Air pollution exposure and lung function in children: the ESCAPE project. Environ Health Perspect. 2013;121:1357–1364. [PMC free article] [PubMed] [Google Scholar]
+16. Urman R, McConnell R, Islam T, Avol EL, Lurmann FW, Vora H, Linn WS, Rappaport EB, Gilliland FD, Gauderman WJ. Associations of children’s lung function with ambient air pollution: joint effects of regional and near-roadway pollutants. Thorax. 2014;69:540–547. [PMC free article] [PubMed] [Google Scholar]
+17. Maniar-Hew K, Postlethwait EM, Fanucchi MV, Ballinger CA, Evans MJ, Harkema JR, Carey SA, McDonald RJ, Bartolucci AA, Miller LA. Postnatal episodic ozone results in persistent attenuation of pulmonary and peripheral blood responses to LPS challenge. Am J Physiol Lung Cell Mol Physiol. 2011;300:L462–L471. [PMC free article] [PubMed] [Google Scholar]
+18. Miller LA, Fontaine JF, Schelegle ES, Tablin F. Am J Respir Crit Care Med. Exposure to wildfire smoke during infancy results in persistent attenuation of innate immunity in association with lung function [abstract]. B28 Modulators of asthma severity. 187;2013:A2522. [Google Scholar]
+19. Black C, Gerriets JE, Fontaine JF, Schelegle ES, Tablin F, Miller LA. Am J Respir Crit Care Med. Wildfire smoke exposure during infancy results in constitutive attenuation of transcription factor and signaling genes associated with the Toll like receptor pathway in adults [abstract]. B107 Understanding disease complexity in asthma. 189;2014:A3837. [Google Scholar]
+20. Schelegle ES, Gershwin LJ, Miller LA, Fanucchi MV, Van Winkle LS, Gerriets JP, Walby WF, Omlor AM, Buckpitt AR, Tarkington BK, et al. Allergic asthma induced in rhesus monkeys by house dust mite (Dermatophagoides farinae) Am J Pathol. 2001;158:333–341. [PMC free article] [PubMed] [Google Scholar]
+21. Williams KM, Franzi LM, Last JA. Cell-specific oxidative stress and cytotoxicity after wildfire coarse particulate matter instillation into mouse lung. Toxicol Appl Pharmacol. 2013;266:48–55. [PMC free article] [PubMed] [Google Scholar]
+22. Kinney PL. Climate change, air quality, and human health. Am J Prev Med. 2008;35:459–467. [PubMed] [Google Scholar]
+23. Wilson RH, Maruoka S, Whitehead GS, Foley JF, Flake GP, Sever ML, Zeldin DC, Kraft M, Garantziotis S, Nakano H, et al. The Toll-like receptor 5 ligand flagellin promotes asthma by priming allergic responses to indoor allergens. Nat Med. 2012;18:1705–1710. [PMC free article] [PubMed] [Google Scholar]
+24. Lun SW, Wong CK, Ko FW, Hui DS, Lam CW. Expression and functional analysis of Toll-like receptors of peripheral blood cells in asthmatic patients: implication for immunopathological mechanism in asthma. J Clin Immunol. 2009;29:330–342. [PubMed] [Google Scholar]
+25. Bauer RN, Diaz-Sanchez D, Jaspers I. Effects of air pollutants on innate immunity: the role of Toll-like receptors and nucleotide-binding oligomerization domain-like receptors. J Allergy Clin Immunol. 2012;129:14–24, quiz 25–26. [PMC free article] [PubMed] [Google Scholar]
+26. Elliott CT, Henderson SB, Wan V. Time series analysis of fine particulate matter and asthma reliever dispensations in populations affected by forest fires. Environ Health. 2013;12:11. [PMC free article] [PubMed] [Google Scholar]
+27. Johnston FH, Webby RJ, Pilotto LS, Bailie RS, Parry DL, Halpin SJ. Vegetation fires, particulate air pollution and asthma: a panel study in the Australian monsoon tropics. Int J Environ Health Res. 2006;16:391–404. [PubMed] [Google Scholar]
+28. Künzli N, Avol E, Wu J, Gauderman WJ, Rappaport E, Millstein J, Bennion J, McConnell R, Gilliland FD, Berhane K, et al. Health effects of the 2003 Southern California wildfires on children. Am J Respir Crit Care Med. 2006;174:1221–1228. [PMC free article] [PubMed] [Google Scholar]
+29. Sutherland ER, Make BJ, Vedal S, Zhang L, Dutton SJ, Murphy JR, Silkoff PE. Wildfire smoke and respiratory symptoms in patients with chronic obstructive pulmonary disease. J Allergy Clin Immunol. 2005;115:420–422. [PubMed] [Google Scholar]
+30. Wegesser TC, Pinkerton KE, Last JA. California wildfires of 2008: coarse and fine particulate matter toxicity. Environ Health Perspect. 2009;117:893–897. [PMC free article] [PubMed] [Google Scholar]
+31. Chen X, Yoza BK, El Gazzar M, Hu JY, Cousart SL, McCall CE. RelB sustains IkappaBalpha expression during endotoxin tolerance. Clin Vaccine Immunol. 2009;16:104–110. [PMC free article] [PubMed] [Google Scholar]
+32. Migliaccio CT, Kobos E, King QO, Porter V, Jessop F, Ward T. Adverse effects of wood smoke PM(2.5) exposure on macrophage functions. Inhal Toxicol. 2013;25:67–76. [PMC free article] [PubMed] [Google Scholar]
+33. Gauderman WJ, Gilliland GF, Vora H, Avol E, Stram D, McConnell R, Thomas D, Lurmann F, Margolis HG, Rappaport EB, et al. Association between air pollution and lung function growth in southern California children: results from a second cohort. Am J Respir Crit Care Med. 2002;166:76–84. [PubMed] [Google Scholar]
+34. Gauderman WJ, Urman R, Avol E, Berhane K, McConnell R, Rappaport E, Chang R, Lurmann F, Gilliland F. Association of improved air quality with lung development in children. N Engl J Med. 2015;372:905–913. [PMC free article] [PubMed] [Google Scholar]
+35. Schultz ES, Gruzieva O, Bellander T, Bottai M, Hallberg J, Kull I, Svartengren M, Melén E, Pershagen G. Traffic-related air pollution and lung function in children at 8 years of age: a birth cohort study. Am J Respir Crit Care Med. 2012;186:1286–1291. [PubMed] [Google Scholar]
+36. Neophytou AM, White MJ, Oh SS, Thakur N, Galanter JM, Nishimura KK, Pino-Yanes M, Torgerson DG, Gignoux CR, Eng C, et al. Air pollution and lung function in minority youth with asthma in the GALA II (Genes–Environments and Admixture in Latino Americans) and SAGE II (Study of African Americans, Asthma, Genes, and Environments) studies. Am J Respir Crit Care Med. 2016;193:1271–1280. [PMC free article] [PubMed] [Google Scholar]
+37. Hwang BF, Chen YH, Lin YT, Wu XT, Leo Lee Y. Relationship between exposure to fine particulates and ozone and reduced lung function in children. Environ Res. 2015;137:382–390. [PubMed] [Google Scholar]
+38. Rice MB, Rifas-Shiman SL, Litonjua AA, Oken E, Gillman MW, Kloog I, Luttmann-Gibson H, Zanobetti A, Coull BA, Schwartz J, et al. Lifetime exposure to ambient pollution and lung function in children. Am J Respir Crit Care Med. 2016;193:881–888. [PMC free article] [PubMed] [Google Scholar]
+39. Fuertes E, Standl M, Cyrys J, Berdel D, von Berg A, Bauer CP, Krämer U, Sugiri D, Lehmann I, Koletzko S, et al. A longitudinal analysis of associations between traffic-related air pollution with asthma, allergies and sensitization in the GINIplus and LISAplus birth cohorts. PeerJ. 2013;1:e193. [PMC free article] [PubMed] [Google Scholar]
+40. Cakmak S, Dales RE, Coates F. Does air pollution increase the effect of aeroallergens on hospitalization for asthma? J Allergy Clin Immunol. 2012;129:228–231. [PubMed] [Google Scholar]
+41. Avdalovic MV, Tyler NK, Putney L, Nishio SJ, Quesenberry S, Singh PJ, Miller LA, Schelegle ES, Plopper CG, Vu T, et al. Ozone exposure during the early postnatal period alters the timing and pattern of alveolar growth and development in nonhuman primates. Anat Rec (Hoboken) 2012;295:1707–1716. [PMC free article] [PubMed] [Google Scholar]
+42. Fanucchi MV, Plopper CG, Evans MJ, Hyde DM, Van Winkle LS, Gershwin LJ, Schelegle ES. Cyclic exposure to ozone alters distal airway development in infant rhesus monkeys. Am J Physiol Lung Cell Mol Physiol. 2006;291:L644–L650. [PubMed] [Google Scholar]
+43. Tam A, Churg A, Wright JL, Zhou S, Kirby M, Coxson HO, Lam S, Man SF, Sin DD. Sex differences in airway remodeling in a mouse model of chronic obstructive pulmonary disease. Am J Respir Crit Care Med. 2016;193:825–834. [PubMed] [Google Scholar]
+44. Cabello N, Mishra V, Sinha U, DiAngelo SL, Chroneos ZC, Ekpa NA, Cooper TK, Caruso CR, Silveyra P. Sex differences in the expression of lung inflammatory mediators in response to ozone. Am J Physiol Lung Cell Mol Physiol. 2015;309:L1150–L1163. [PMC free article] [PubMed] [Google Scholar]
+45. Townsend EA, Miller VM, Prakash YS. Sex differences and sex steroids in lung health and disease. Endocr Rev. 2012;33:1–47. [PMC free article] [PubMed] [Google Scholar]
+46. Carey MA, Card JW, Voltz JW, Germolec DR, Korach KS, Zeldin DC. The impact of sex and sex hormones on lung physiology and disease: lessons from animal studies. Am J Physiol Lung Cell Mol Physiol. 2007;293:L272–L278. [PubMed] [Google Scholar]
+47. McDowell KM, Jobe AH, Fenchel M, Hardie WD, Gisslen T, Young LR, Chougnet CA, Davis SD, Kallapur SG. Pulmonary morbidity in infancy after exposure to chorioamnionitis in late preterm infants. Ann Am Thorac Soc. 2016;13:867–876. [PMC free article] [PubMed] [Google Scholar]

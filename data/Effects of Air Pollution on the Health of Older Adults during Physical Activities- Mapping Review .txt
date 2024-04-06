@@ -1,0 +1,632 @@
+Effects of Air Pollution on the Health of Older Adults during Physical Activities: Mapping Review
+Alexandro Andrade,1,* Anderson D’Oliveira,1 Loiane Cristina De Souza,1 Ana Cecilia Rosatelli de Freitas Bastos,1 Fábio Hech Dominski,2 Luca Stabile,3 and Giorgio Buonanno3,4
+Paul B. Tchounwou, Academic Editor
+Author information Article notes Copyright and License information PMC Disclaimer
+Associated Data
+Supplementary Materials
+Data Availability Statement
+Go to:
+Abstract
+Atmospheric pollutants present environmental threats to health and have been investigated in different environments, such as highways, squares, parks, and gyms. These environments are frequented by older adults, who are considered fragile to the harmful impacts of pollution present in the air. The aim was to analyze the state of the art on the effects of air pollution on the health of older adults during physical activities (PAs) through a mapping review. The search was performed in PubMed, Web of Science, Scopus, and Cinahl databases until June 2022. Of the 10,109 studies initially identified, 58 met the inclusion criteria. The most investigated health outcome was cardiovascular disease, followed by respiratory outcomes. Particulate matter (PM2.5 and PM10), nitrogen dioxide (NO2), and ozone (O3) were the most investigated pollutants. Of the 75 health outcomes investigated, in 29, air pollution had harmful effects on the health of the older adults during the practice of PA, more frequently in cardiovascular diseases. In 25 outcomes, the beneficial effects of PA to the health of the older adults remained, despite exposure to high and low concentrations of pollutants, most often in terms of mental disorders. We conclude that poor air quality is a harmful factor for the health of older adults during the practice of PAs, more frequently in cardiovascular and respiratory diseases. On the other hand, for mental-health-related outcomes (depression and cognition), in most studies, the beneficial effects of PA in older adults were maintained, even after exposure to pollutants.
+
+Keywords: aging, exercise, evidence-based review, environment and public health
+Go to:
+1. Introduction
+Air pollution is one of the greatest environmental threats to human health. The main pollutants that present health risks are particulate matter (PM), ozone (O₃), nitrogen dioxide (NO₂), sulfur dioxide (SO₂), and carbon monoxide (CO) [1], which have been investigated in different environments, such as residential kitchens, highways, squares, parks, and gyms [1,2]. These environments are frequented by different populations, such as older adults. Today, this population is considered the most fragile to the harmful impacts of pollution present in the air [1] due to the entry of these pollutants deep into the lungs and bloodstreams, traveling through the organs of the human body, causing severe tissue and cell damage [1].
+
+Global assessments suggest that air pollution is an all-cause mortality risk [3]. Among people aged 60 years and over, the greatest impacts on health and mortality levels are observed in individuals who already have chronic diseases such as asthma, chronic obstructive pulmonary disease (COPD), and heart disease [3]. Healthy practices can contribute to the reduction in reported diseases and mortality levels, such as physical activities (PAs); however, there is evidence that air pollution affects PA behavior, canceling out some or all of the benefits of the practice [4].
+
+The literature contains many studies demonstrating the favorable health effects of physical exercise, with it being recommended for different age groups and patients in different clinical conditions [5,6,7,8,9,10]. On the other hand, it is known that when an individual performs physical exertion during physical activity (PA), physiological alterations occur, such as increased ventilation and airflow velocity. These alterations hinder the filtering mechanism of existing pollutants in the air, normally performed by the patient’s nose, so that the majority of breathing becomes through the mouth [11]. This can lead to the transport of pollutants to the deepest region of the respiratory system, with harmful consequences for health [12]. In addition, during the natural process of aging, several comorbidities, such as obesity, hypertension, atherosclerosis, diabetes, cardiovascular diseases, and neurodegenerative diseases [13,14,15,16,17], can be aggravated by exposure to atmospheric pollutants.
+
+In this sense, a broad review is necessary, analyzing the vast existing literature on the effects of air pollution on the health of older adults during PA. Mapping reviews are studies with high scientific impact, mapping and characterizing research, and identifying gaps in the literature in several areas [18,19]. This type of work is lacking in environmental sciences [18], specifically when considering the health of older adults during PA practices.
+
+Although the adverse health effects of indoor or outdoor air pollution have been widely documented [20,21,22], and it is known to be a major cause of public and environmental health problems worldwide [18,23,24], little has been reported on the impacts that air pollutants can cause on the health of older adults during physical activity. Thus, in order to concentrate and analyze the vast amount of research available, we carried out a mapping review with the objective of analyzing the state of the art on the effects of air pollution on the health of older adults during physical activities.
+
+Go to:
+2. Research Questions of the Review
+On the basis of the work of Fernández-Sotos et al. [25], a key methodological aspect for a successful mapping review is the definition of research questions (RQs) to be answered. For this mapping review, we defined five RQs:
+
+-
+RQ1. How many articles have been published about the effects of air pollution on the health of older adults during physical activity? What are the characteristics of the studies? What is the geographical distribution of the research carried out?
+-
+RQ2. What were the most commonly investigated health-related outcomes?
+-
+RQ3. Which air and environmental pollutants were the most commonly investigated?
+-
+RQ4. Which types of PA were most investigated? Which ones presented greater health risks and which ones presented greater benefits when older adults were exposed to pollutants during PA practice? Which atmospheric and environmental pollutants compromised the health of older adults during PA practices?
+-
+RQ5. What are the effects of air pollution on health outcomes during PA in older adults?
+Go to:
+3. Methods
+3.1. Guidelines
+This mapping review was carried out to analyze and summarize the effects of air pollution on the health of older adults during PA. The work was based on the recommendations for systematic mapping in environmental sciences by James et al. [26].
+
+Three filters were applied in this mapping review to gather (research procedure), select (inclusion and exclusion criteria), and extract (data extraction) relevant information from the literature [27]. The steps described in the Template for a Mapping Study protocol [28] were followed (see Table S1).
+
+3.2. Search Strategy
+A search for publications in English was performed in the PubMed, Web of Science, Scopus, and Cinahl databases. The search was performed using the descriptors summarized in Table 1. The final literature search was completed on 12 June 2022.
+
+Table 1
+Search strategy adopted for the mapping review.
+
+Search Terms	Descriptors
+1.
+Elderly
+Elderly OR Aged OR Aging OR “Aged, 80 and over” OR “older adults” OR “older women” OR “older men” OR Senescence OR “Oldest Old” OR “Old Adults” OR Nonagenarian* OR Octogenarian* OR Centenarian *
+2.
+Air pollution
+“air pollution” OR “air pollutant*” OR “air quality” OR “particulate matter” OR “PM10” OR “PM2.5” OR “carbon monoxide” OR “carbon dioxide” OR “ozone” OR “nitrogen dioxide” OR “sulfur dioxide” OR “traffic-related air pollution”
+3.
+Exercise
+“exercise” OR “physical exercise*” OR “physical activity” OR “physical exertion” OR “physical training” OR “sport*” OR “resistance training” OR “strength training” OR “aerobic exercise” OR “aerobic fitness” OR “athlete” OR “athletic performance” OR “running” OR “cycling”
+Combination	#1 AND #2 AND #3
+Open in a separate window
+The Web of Science database was prioritized in duplicate article decisions, and searches were performed in the Core Collection, with terms related to older adults, air pollution, and exercise for the topic item, and the stipulated time as every year. See Table S2 in the supplemental material to view the search strategy used in the PubMed database.
+
+3.3. Eligibility Criteria of the Studies
+Two reviewers (A.D’O. and L.C.S.) independently performed the search and assessed the eligibility of each article. Discrepancies were resolved by a third researcher (A.A.). Only articles that investigated the effects of air pollution on the health of older adults during PA (through cohort studies; cross-sectional and longitudinal studies; and randomized, non-randomized, and quasi-randomized studies) with abstract and full text available online until June 12 from 2022 were selected. Studies with only abstracts available were not included. There were no restrictions on the date of publication to verify the evolution of scientific production.
+
+Eligibility criteria for this mapping review were based on the Population, Exposure, Comparator, Outcome, Study Design (PECOS) statement [29] (Table 2).
+
+Table 2
+Criteria for inclusion and exclusion of studies selected for review.
+
+Inclusion Criteria	Exclusion Criteria
+P	Participate	Healthy and sick older adults	
+E	Exposure	Air pollution (particulates, carbon monoxide, carbon dioxide, ozone, nitrogen dioxide, sulfur dioxide)	Temperature, secondhand smoke, PM chemical constituents and acute intoxications
+C	Comparison	-	-
+O	Outcome	Effects of air pollution on the health of older adults during physical activities	-
+S	Study	Cohort, cross-sectional, longitudinal and randomized, non-randomized and quasi-randomized clinical trials	Reviews, meta-analyses, case study, comments, letters, and editorials
+Open in a separate window
+3.4. Data Extraction and Analysis
+The authors (A.D’O. and L.C.S.) independently extracted data from all studies and included them in a Microsoft Excel spreadsheet. For the analysis and discussion of the results, the following data were extracted: year of publication of the research, journal, country, and city (place of study), study design, sample characteristics (population, number of subjects, age and sex of participants), internal or external environment, pollutants, physical activity investigated, health outcomes, and conclusions.
+
+The pollutants investigated were categorized according to Sun and Zhu [22]: (a) general gaseous pollutants (including ozone (O3), sulfur dioxide (SO2), carbon monoxide (CO), nitrogen dioxide (NO2)); (b) particulate matter (total suspended particles (TSP), particulate matter in suspension, PM2.5, PM10); and (c) other hazardous substances (toxic air pollutants, volatile organic pollutants, nitrogen oxides (NOx)).
+
+The classification of health outcomes was based on the work of Sun and Zhu [22]: (1) respiratory diseases (asthma, respiratory infections, respiratory disorders, chronic obstructive pulmonary disease); (2) chronic diseases (diabetes, chronic respiratory diseases); (3) cardiovascular diseases (hypertension, heart rate variability, heart attack, cardiopulmonary disease, ischemic heart disease, blood clotting, deep vein thrombosis, stroke); (4) health records (morbidity, hospital admissions, outpatient consultations, emergency care, mortality); (5) cancer (bladder cancer, brain tumor, breast cancer, liver cancer, lung cancer, cancer (unspecified)); (6) mental disorders (Alzheimer’s disease, Parkinson’s disease, depression and stress, boredom, autism spectrum disorder, cognitive function, mental (behavioral) disorder); (7) other diseases (DNA methylation alterations, neurobehavioral functions, inflammatory diseases, skin diseases, deficiency); and (8) general health outcomes (health outcomes, such as muscle strength, functional capacity, inflammatory factors, etc., for older adults without a specific diagnosis, such as cardiovascular disease or cancer). Considering the results of the health outcomes of older adults during physical activities, the data were categorized according to the work of Sun and Zhu [22] into three parts: positive, negative, and ambiguous. In other words, studies that concluded that air pollution has harmful health effects during physical activities were classified as positive; those without harmful effects as negative; and, if there was more than one interpretation or limited evidence reported by the authors, the study was classified as ambiguous.
+
+3.5. Study Quality Assessment
+To investigate the risk of bias in the studies, we used the Mixed Methods Appraisal Tool (MMAT), version 2018 [30]. The reliability and validity of the new version of the MMAT have been confirmed [30,31]. The MMAT is designed for the appraisal of mixed study reviews, which include studies with qualitative, quantitative, and mixed methods. To assess the quality of studies, the MMAT contains two initial screening questions for all study types, followed by five questions for each of five possible types of study design. We used the same evaluation criteria with this tool adapted from May et al. [32]. The “Can’t tell” response category indicates that the article does not report information appropriate to answer “Yes” or “No”, or that it reports unclear information related to the criterion. “Yes” response categories indicate that the article reports appropriate information for the criterion, while “No” response categories indicate that the article does not report appropriate information for the criterion.
+
+Go to:
+4. Results
+4.1. Literature Search Results
+The literature search identified 10,109 relevant articles. Of these, 80 full articles were evaluated for eligibility and 58 studies were selected for synthesis (Figure 1).
+
+An external file that holds a picture, illustration, etc.
+Object name is ijerph-20-03506-g001.jpg
+Figure 1
+PRISMA flowchart illustrating the literature search and selection process.
+
+Below, the five research questions are answered on the basis of the synthesis of the analyses.
+
+RQ1. How many articles have been published about the effects of air pollution on the health of older adults during physical activity? What are the characteristics of the studies? What is the geographical distribution of the research carried out?
+
+The oldest study was published in 1987 [33], with a subsequent 58 published studies that investigated the topic by the year 2022 (see Table S3 of the Supplementary Material for a complete list of the selected studies). The period with the highest number of publications was between 2017 and 2019, with 13 studies, and 2020 to 2022, with 18 studies (Figure 2). The study with the longest follow-up period and duration was that of Elliot et al. [34], which lasted from 1988 to 2008.
+
+An external file that holds a picture, illustration, etc.
+Object name is ijerph-20-03506-g002.jpg
+Figure 2
+Number of articles every three years on the effects of air pollution on the health of older adults during physical activities.
+
+The predominant countries that carried out the research were the USA, with 25 studies, followed by China with 10, and Canada with 3. Brazil, Chile, the Netherlands, Finland, England, Denmark, Belgium, and Korea performed two studies each, and Switzerland, Taiwan, United Kingdom, and Australia one study each (Figure 3).
+
+An external file that holds a picture, illustration, etc.
+Object name is ijerph-20-03506-g003.jpg
+Figure 3
+Global geographic distribution of research on the effects of air pollution on the health of older adults during physical activity.
+
+Of the 58 included studies, 20 had a longitudinal methodological design and 15 carried out a longitudinal experimental model. The remainder were classified as cross-sectional (six studies); randomized controlled trials (5); pre- and post-analysis (3); longitudinal prospective cohort studies (2); repeated measures studies (2); experimental (2); and one each of cross-sectional retrospective, longitudinal prospective, and quasi-experimental prospective.
+
+The studies included a total of 1,653,411 participants. The study with the largest sample was by Kim et al. [35] with 1,259,871 participants, in a longitudinal study. The studies with the smallest number of participants were those of Babb [36] and Drechsler-Parks [37], both experimental studies. The majority of the studies had a sample composed of men and women, totaling 51 studies. In three studies, only men participated, and in another three, only women; one study did not report these data. The average age of the participants varied, with the study with the youngest sample being by Huang et al. [38], aged 50 years or older. The study with the oldest sample was carried out by Bagheri et al. [39], including participants aged between 65 and 90 years or older. In the majority of studies, 28 participants had a mean age of 64 years (age range from 60 to 79 years).
+
+Of the included studies, 23 involved older people without specificity in relation to health; 8 included healthy older adults and non-smokers; 4 only healthy older people, without specifying tobacco use or not; and 3 included non-smoking older people, not necessarily healthy. Some studies included older adults with specific diagnoses, six with a diagnosis of coronary artery disease (CAD) and non-smokers, one study with a diagnosis of CAD (without specifying tobacco use or not), and three studies included participants with a diagnosis of COPD. Only the study by Babb et al. [40] exclusively investigated older people who regularly exercise.
+
+RQ2. What were the most commonly investigated health-related outcomes?
+
+Several health outcomes were investigated. The most common were cardiovascular disease outcomes, investigated in 14 studies in isolation and in another 10 together with other outcomes. The outcomes related to cardiovascular diseases mainly included blood pressure, a decline in the ST segment on the electrocardiogram (associated with myocardial ischemia), and heart rate. The second most investigated outcome was respiratory, in 19 studies (9 studies exclusively respiratory outcomes and another 10 combined). Among these outcomes, pulmonary function and peripheral oxygenation level stood out.
+
+Outcomes of mental disorders were evaluated in 11 studies, with depression and cognition being the most present. Overall health outcomes were evaluated in nine publications, including outcomes such as upper and lower limb muscle strength, hand grip strength, sedentary behavior, and time outdoors. Five articles reported health records of older adults, including mortality and hospitalization data. Only three articles reported outcomes considered to be chronic diseases, in these cases, diabetes. Two articles explored other diseases, with outcomes of oxidative stress markers and liver function levels. No studies selected in the mapping review investigated cancer.
+
+RQ3. Which air and environmental pollutants were most commonly investigated? What is the relationship between health outcomes and air pollutants during PA in older adults?
+
+The investigated environments were classified into two types: internal or external. External environments, such as squares and parks, were present in 42 studies. Indoor environments were used in 15 studies, including research laboratories [41], with a controlled level of exposure to the pollutant, such as pollutant gases, except for the study by Gong et al. [42] who also controlled particle level. Regarding the analyzed area, 43 studies investigated urban areas, 4 investigated rural areas (only one exclusively), and 1 investigated commercial areas. These data were not reported in 15 studies.
+
+Considering the class of pollutants, fine particles were the most widely investigated among the analyzed studies; PM2.5 was analyzed in 35 studies, and in 10 of these, it was the only pollutant. Among fine particles, PM10 was analyzed in 12 studies, PM1.0 in 2, and PM4.0 and PMcoarse in 1 study each; three studies analyzed the level of fine particles, and two studies the total number of particles.
+
+The second most investigated class was pollutant gases, with the most frequently investigated being NO2 and O3 in 24 studies each, followed by CO in 14 studies, SO2 in 12 studies, and CO2 and/He-O2 in two studies. Other substances and biomasses were investigated in the fewest studies; NOx was evaluated in four publications, black carbon in five, organic carbon in three, and elemental carbon in two studies.
+
+Regarding the results of health outcomes and pollutants during PA in older adults, it can be seen that the most investigated pollutants were PM2.5 and PM10, present in all health outcomes. The most commonly investigated relationship between air pollutants and health outcomes was the effects of PM2.5 on cardiovascular disease (18 studies). Table 3 shows the number of studies according to air pollutants and the health outcomes of the older adults during PA.
+
+Table 3
+Number of studies according to air pollutants and health outcomes of older adults during physical activities.
+
+Health Outcomes during PA	Air Pollutants
+Gaseous Pollutants	Particulate Material	Other Hazardous Substances
+O3	SO2	CO	NO2	HE-O2	PM2.5	PM10	TSP	NOx	VOPs
+Respiratory diseases	11	7	6	8	2	7	2	-	-	2
+Cardiovascular diseases	12	7	13	14	1	18	5	4	3	11
+Health records	1	1	-	2	-	3	1	-	-	-
+General health results	4	3	2	5	-	7	3	1	1	-
+Mental disorders	2	2	-	4	-	10	4	3	-	-
+Other diseases	2	1	1	1	-	2	1	3	-	-
+Chronic diseases	1	-	-	-	-	2	2	1	-	-
+Total	33	21	22	34	3	49	18	12	4	13
+Open in a separate window
+RQ4. Which PAs were most commonly investigated? Which presented greater health benefits, and which presented greater risks when the older adults were exposed to pollutants during PA practice? Which atmospheric and environmental pollutants compromised the health of the older adults during PA practices?
+
+Of the 58 articles that entered the mapping review, 26 of the authors did not report the PA that the older adults performed. Walking was investigated in 17 studies, followed by cycle ergometer exercise in 9 studies. Varied PA, such as playing ball, walking uphill, swimming, cycling, running, slow walking, stretching, and traditional Chinese exercises were investigated in seven studies, cycling in three studies, and the practice of resistance training with weights in only one study. Twenty-nine studies carried out specific programs or protocols in the investigated PA.
+
+In 20 studies, PA was measured from the time and total days (minutes/week) performed, in 15 through various components such as distance, telemetry, time in minutes, heart rate, accelerometer, speed by GPS, electrocardiogram, arterial saturation of oxygen by pulse oximetry, blood pressure, perceived exertion rate, ventilation rate by plethysmography, and gas exchange measurements. In nine studies, PA was measured from the ventilatory volume per minute through the respiratory rate and in another four through the intensity of each type of PA attributed to the standard metabolic equivalent of the task value (MET-h/wk). In two studies, arterial oxygen saturation was measured by pulse oximetry and intensity measurement through actigraph, and a multisensory activity monitor was used for the average steps per day. In two studies, only one questionnaire was used to gather information on whether or not the participants performed PA, one study each used the one-repetition maximum strength test or 6 min walk test to measure PA, and only one did not report the way that PA was measured.
+
+The following tables show the PAs, sample characteristics (sex and age), pollutants, health outcomes, and findings on benefits (grouped as negative) (Table 4); risks (grouped as positive) (Table 5); and those which presented limited interpretation or evidence (grouped as ambiguous) (Table 6) of PA on health outcomes of older adults during exposure to polluted environments.
+
+Table 4
+Sample characteristics (sex and age), pollutants, physical activity, health outcomes, and findings on the beneficial effects of PA on the health of older adults during exposure to polluted environments.
+
+Authors, Year	Country/City	Positive, Negative, and Ambiguous	Population	Age
+(𝒙 ⎯⎯⎯ ± SD/Min-Max)	Sex	Health Outcomes	PA Type	Exposure (Pollutants)	Environment-Open/Closed	Environment by Location (Urban/Rural/Commercial)	Main Findings of the Benefits of PA in Polluted Environments
+Liu et al. (2022) [43]	China/NR	Negative	Residents of urban areas	63.99 ± 9.57	♀ ♂	General health results	Physical activity in transport and leisure	PM2.5	Open	Urban	Green spaces indirectly encourage more PA, reducing PM2.5 concentrations, thus contributing to better subjective well-being.
+Yao et al. (2022) [44]	China/NR	Negative	Participants from county-level communities of provinces in China	60.90 ± 9.25	♀ ♂	Mental disorders	PA in general	PM2.5	Open	Rural/urban	Lower levels of PA increased the impact of environmental PM2.5 on depressive symptoms.
+Wu et al. (2022) [45]	UK/NR	Negative	Older adults with and without depressive disorders	64.1/NR	♀ ♂	Mental disorders and general health outcomes	Walking and MVPA	PM2.5 and PM10	Open	Urban	Prolonged exposure to PM2.5 and low levels of vitamin D and physical activity were associated with an increased risk of major depressive disorder. Furthermore, high levels of vitamin D and physical activity may attenuate the relationship between PM2.5 and major depressive disorder in older adults.
+Cassilhas et al. (2022) [41]	Brazil/São Paulo	Negative	Sedentary older adults	67.85 ± 2.34	NR	Mental disorders and other illnesses	Exercise protocol for the groups: Control (stretching), Internal Exercises (walking on a treadmill), and External Exercises (walking in the park)	UFP, PM1.0, PM2.5, PM4.0, and PM10	Open close	Urban	Indoor walking was shown to provide better cognitive and physiological outcomes than outdoor exercise.
+Ran et al. (2021) [46]	China/Hong Kong	Negative	Seniors	65/NR	♀ ♂	Mental disorders	Slow walking, stretching, traditional Chinese (Luk Tung Kuen, Tuen Kam, and Tai Chi), aerobic exercise (playing ball, walking uphill, swimming, cycling, and running)	PM2.5	Open	Urban	The benefits of PA remain in people exposed to various levels of PM2,5, and it is recommended for people living in relatively polluted areas.
+Kim et al. (2020) [35]	South Korea/Seoul, Busan, and Incheon	Negative	Older people over 50 with a history of diabetes	64.7 ± 6.2	♀ ♂	Chronic diseases	MVPA	PM10 and PM2.5	Open	Urban	The increase in MVPA appeared to reduce the risk of diabetes in groups with high and low/moderate levels of exposure to PM10 or PM2.5 in older adults.
+Sun et al. (2020) [47]	China/Hong Kong	Negative	Seniors	71.9 ± NR	♀ ♂	Health records	Slow walking, stretching, traditional Chinese exercises (Tai Chi, Pak Tuen Kam, and Luk Tung Kuen), aerobic exercise (running, cycling, swimming, walking uphill, and playing ball)	PM2.5	Open	NR	Moderate-to-high volume of PA was associated with a lower risk of cardiovascular and respiratory mortality. PA can still be recommended for older people living in relatively more polluted areas.
+Molina- Sotomayor et al. (2020) [48]	Chile/Santiago and Vinã del mar	Negative	Sedentary older adults	70.1 ± 5.3	♀	Mental disorders and general health outcomes	Resistance training	PM10,
+PM2.5, NO2, O3, and SO2	Open	Urban	Resistance training, even in an environment with a high concentration of pollutants, promoted benefits in the concentration of IGF-1, strength, and cognition of the older adults.
+Elliott et al. (2020) [34]	USA/NR	Negative	Older people and American adult nurses	63.1 ± 8.9	♀	Cardiovascular disease and health records	PA at leisure	PM2.5	Open	NR	PA was beneficial for the risk of general cardiovascular disease, myocardial infarction, stroke, and general mortality at environmental PM2.5 levels.
+Wang et al. (2020) [49]	China/NR	Negative	Older adults	67.2 ± 6.3	♀ ♂	Mental disorders	General PA	PM2.5	Open	NR	The relationship between PM2.5 and depression was mediated by outdoor PA. The relationship between depression and PA weakened with increasing PM2.5 level.
+Molina-Sotomayor et al. (2019) [50]	Chile/Santiago and Vinã del mar	Negative	Older adults	68.9 ± 2.85	♀	Mental disorders, cardiovascular and respiratory diseases	Walk	PM10, PM2.5, NO2, O3, and SO2	Open	Urban	Planned, regular, and systematic cardiorespiratory PA had a positive influence on brain integrity and oxygen transport mechanisms, regardless of air pollution levels.
+Chen et al. (2019) [51]	Taiwan/Taipei	Negative	Seniors	70.21 ± 3.92	♀ ♂	General health results	General PA	PM2.5, NO2, CO, O3, and SO2	Open	Urban	The level of PA modified the effect of PM2.5 on the body composition of the older adults, lower levels of physical activity were associated with greater loss of muscle mass, and increase in fat mass was related to exposure to the pollutant.
+Kubesch et al. (2018) [52]	Denmark/Copenhagen and Aarhus	Negative	Cancer-free seniors	56.7 ± 4.4	♀ ♂	Cardiovascular diseases	AF in leisure and transport	NO2	Open	Urban	The long-term benefits of PA in preventing the development of infarction in healthy older adults, and possibly as effective control of the disease in patients with previous infarction, may outweigh the risks associated with increased residential exposure to traffic-related air pollution during PA.
+Endes et al. (2017) [53]	Switzerland/NR	Negative	Older adults and seniors	63.6 ± 8.2	♀ ♂	Cardiovascular diseases	AFMV	PM10, PM2.5, and NO2	Open	NR	The probability of having a higher level of arterial stiffness was significantly higher with higher levels of exposure to pollutants for inactive individuals, but not for active individuals. Moderate-to-vigorous physical activity confers a protective effect against the adverse vascular effects of air pollution in low-pollution environments.
+Andersen et al. (2015) [54]	Denmark/Copenhagen and Aarhus	Negative	Older adults without a previous diagnosis of cancer at baseline	56.6 ± 4.3	♀ ♂	Health records	AF in leisure and transport—participation in sports, cycling, walking, and gardening	NO2	Open	Urban	Exposure to high levels of NO2 did not modify the inverse associations between cycling, gardening, and mortality, indicating beneficial effects of these activities on mortality.
+Kim et al. (2015) [55]	Korea/Seoul	Negative	Seniors	70.6 ± NR	♀ ♂	Other diseases	Physical exercise	PM2.5, NO2, O3, CO, and SO2	Open	Urban	The adverse effects of pollution on liver enzyme levels can be reduced through regular exercise.
+Wong et al. (2007) [56]	China/Hong Kong	Negative	Chinese who died aged 30 or over	73.6 ± 13	♀ ♂	Health records	Exercise at leisure	NO2, SO2, PM10, and O3	Open	Urban	PA can help protect against air-pollution-induced mortality, as people who practice PA were at a lower risk of mortality from ambient air pollution than inactive people.
+Babb et al. (2003) [40]	USA/Dallas	Negative	Senior runners who exercise regularly	70.5 ± 9.5	♀ ♂	Cardiovascular and respiratory diseases	Incremental test on cycle ergometer	CO2e and He-O2	Closed	NR	The ventilatory response to exercise of senior runners was adequate to support their increased exercise capacity, and physical training did not alter the ventilatory response to exercise with He-O2 or CO2e breathing and inspired breathing.
+Open in a separate window
+♀: female; ♂: male; PA: physical activity; MVPA: moderate-to-vigorous physical activity; CO: carbon monoxide; CO2e: carbon dioxide equivalent; DV: standard deviation; USA: United States of America; He-O2: helium-oxygen; Min.: minimum; Max: maximum; PM: particulate matter; NO2: nitrogen dioxide; NR: not reported; O3: ozone; SO2: sulfur dioxide; UFP: ultrafine particles; 𝑥⎯⎯: medium.
+
+Table 5
+Sample characteristics (sex and age), pollutants, physical activity, health outcomes, and findings on the risks of pollutants on the health of older adults during PA.
+
+Authors, Year	Country/City	Positive, Negative, and Ambiguous	Population	Age
+(𝒙 ⎯⎯⎯ ± SD/Min-Max)	Sex	Health Outcomes	PA Type	Exposure (Pollutants)	Environment-Open/Closed	Environment by Location (Urban/Rural/Commercial)	Main Findings of the Risks of Exposure to Pollutants during AF
+Yu et al. (2021) [15]	United States/Sacramento	Positive	Mexican American seniors	70.5 ± 6.9	♀ ♂	Chronic diseases	PA at leisure and outdoors	O3	Open	Urban	O3 exposure increased the risk of diabetes among older Mexican Americans, particularly among those with higher levels of leisure-time outdoor physical activity.
+Bagheri et al. (2021) [39]	Australia/Adelaide	Positive	Australian seniors aged 65 and over	65 ≥ 90 *	♀ ♂	Mental disorders	General PA	NO2	Open	Urban	A one-standard deviation (1-SD) increase in NO2 and walkability score was associated with a 10% greater odds of any dementia versus no dementia.
+Zwart et al. (2018) [57]	Netherlands/NR	Positive	Adults and older adults	75.5 ± 8.5	♀ ♂	General health results	AF in six categories—walking outdoors, cycling, doing light or heavy household activities, and a maximum of two sports	NO2, NOx, PM2.5, PM10, and PMcoarse	Open	Urban	Exposure to air pollution can negatively affect the physical performance of older adults.
+Stieb et al. (2018) [58]	Canada/Prince George	Positive	Non-smoking older adults	63.5 ± 6.5	♀ ♂	Cardiovascular and respiratory diseases	Light physical exercise outdoors in winter	CO, NO2, O3, PM2.5, and SO2	Open	Urban	Acute subclinical effects of air pollution were observed in older adults who exercise outdoors in winter.
+Yu et al. (2017) [59]	China/Beijing	Positive	Retired older adults	66.63 ± NR	♀ ♂	General health outcomes and health records	General and leisure PA	PM2.5	Open	Urban	The increase in PM2.5 concentration was associated with a reduction in total walking hours, leisure PA, and total PA. The PA score was negatively associated with days spent in hospital. The higher the PA level, the fewer days in the hospital.
+Stieb et al. (2017) [60]	Canada/Kincardine	Positive	Older adults, non-smokers, not exposed to tobacco in the home environment and without seasonal allergies	64 ± 5.5	♀ ♂	Cardiovascular and respiratory diseases	Light physical exercise outdoors in winter	CO, NO2, O3, PM2.5, and SO2	Open	Rural	Acute adverse cardiorespiratory effects were observed in rural older adults who exercise outdoors when air pollution levels are particularly high.
+Salicio et al. (2016) [61]	Brazil/Cuiabá	Positive	Older adult exercisers, healthy and non-smokers	68.8 ± 4.7	♀ ♂	Cardiovascular and respiratory diseases	Physical exercise outdoors	CO and PM2.5	Open	Urban	Older people suffered environmental influences altering levels of exhaled CO, carboxyhemoglobin, and heart rate during exercise.
+Alahmari et al. (2015) [62]	England/London	Positive	Older people with COPD and healthy individuals	71.1 ± 8.7	♀ ♂	General health results	General PA	PM10 and O3	Open	Urban	Increased O3 and PM10 exposure was associated with reduced physical activity levels in COPD patients.
+Delfino et al. (2011) [63]	USA/Los Angeles	Positive	Retired older adults, diagnosed with CAD and non-smokers	65 years or older	♀ ♂	Cardiovascular diseases	General PA	PM2.5, organic carbon, elementary carbon, black carbon, O3, NO2, NOx, and CO	Open	Urban	The results suggest that the primary products of fossil fuel combustion carry an increased risk of myocardial ischemia. The AF measured by the actigraph was not able to change the findings of the effect of pollutants on the ST segment.
+Delfino et al. (2010) [64]	USA/Los Angeles	Positive	Retired older adults, diagnosed with CAD and non-smokers	84 ± 5.6	♀ ♂	Cardiovascular diseases	General PA	Black carbon, organic carbon, PM2.5, NOx, CO, and O3 and total number of particles	Open	Urban	Moderate-to-strenuous exertion (daily and antigraph) was correlated with increased systolic and diastolic BP. AF was not associated with attenuation of the effects of pollution. There was a greater association between pollutants and increased PA in participants with obesity.
+Lanki et al. (2008) [65]	Finland/Helsinki	Positive	Non-smoking seniors with coronary heart disease	68 ± 7	♀ ♂	Cardiovascular diseases	Submaximal exercise test on an exercise bike	PM2.5	Open	Urban	An increased risk of exercise-induced cardiac ischemia was observed in association with hourly variation in personal exposure to PM2.5 and outdoor levels in the 24 h prior to the exercise test.
+Lanki et al. (2006) [66]	Finland/Helsinki	Positive	Older adult non-smokers and those diagnosed with CAD	68.2 ± 6.5	♀ ♂	Cardiovascular diseases	Submaximal exercise test on cycle ergometer	PM2.5	Open	Urban	The fraction of PM from combustion processes, notably from traffic, may be responsible for the effect observed in exercise-induced ischemic heart disease on days with high air pollution.
+Gold et al. (2005) [67]	USA/Boston	Positive	Seniors	73 ± NR	♀ ♂	Cardiovascular diseases	Outdoor walk	PM2.5, black carbon, and CO	Open	Urban	ST-segment depression, possibly representing myocardial ischemia or inflammation, had stronger effects in the post-exercise periods associated with increased exposure to particles whose predominant source was traffic.
+Gong et al. (2005) [42]	USA/Los Angeles	Positive	Older adults with and without COPD	70 ± 9	♀ ♂	Cardiovascular and respiratory diseases	Submaximal exercise	NO2 and particles concentrated in the environment (predominantly PM2.5)	Closed	Urban	Healthy older adults seemed more susceptible to urban fine particulate exposure during AF, presenting with acute small airway dysfunction with impaired gas exchange. This suggests that the respiratory effect may be related to the efficient penetration and deposition of inhaled toxic particles in the small distal airways.
+DeMeo et al. (2004) [68]	USA/Massachusetts	Positive	Older volunteers	73.3 ± NR	♀ ♂	Cardiovascular and respiratory diseases	Outdoor walk	PM2.5, CO, O3, NO2, and SO2	Open	Urban	A statistically significant effect of ambient particulate air pollution on decreasing resting (post-exercise) oxygen saturation in an older adult population was demonstrated. Decreased oxygen saturation associated with air pollution may result from subtle particle-related pulmonary vascular and/or inflammatory changes.
+Gong et al. (2004) [69]	USA/Los Angeles	Positive	Older adults with and without COPD	70.5 ± 9.5	♀ ♂	Cardiovascular and respiratory diseases	Submaximal exercise on the cycle ergometer	CO, NO2, O3, SO2, and PM10	Closed	Urban	Older adult volunteers without clinically cardiopulmonary disease were more vulnerable to factors related to autonomic control of the heart, inflammatory mediators, and circulating blood clotting factors when exposed to the fine effects of PM immediately after performing intermittent exercise than people of a similar age with COPD.
+Pekkanen et al. (2002) [70]	Netherlands/Amsterdam, Germany/Erfurt, and Finland/Helsinki	Positive	Non-smoking older adults diagnosed with stable CAD	68.2 ± 6.5	♀ ♂	Cardiovascular diseases	Submaximal exercise test on a cycle ergometer	PM and NO2	Open	Urban	An association was observed between air pollution by fine and ultrafine particles and the risk of exercise-induced ST-segment depression in older people with CAD.
+Gold et al. (2000) [71]	USA/Boston	Positive	Older volunteers	73.3 ± NR	♀ ♂	Cardiovascular diseases	Outdoor walk	PM2.5, PM10, O3, CO, NO2, and SO2	Open	Urban	Exposure to particulate matter and ozone can decrease vagal tone, resulting in reduced heart rate variability, both before and during a PA protocol.
+Drechsler-Parks (1995) [37]	USA/Santa Barbara	Positive	Healthy non-smoking volunteers	65.9 ± 9	♀ ♂	Cardiovascular diseases	Exercise on a cycle ergometer or treadmill	O3 and NO2	Closed	Urban	Healthy seniors exposed to a mixture of 0.60 ppm NO2 and 0.45 ppm O3 had a significantly lower exercise-induced increase in cardiac output compared to when the same protocol was performed with exposure to filtered air or O3 alone.
+Allred et al. (1989) [72]	USA/Baltimore, Downey, and St. Louis	Positive	Men with CAD	62 ± 1	♂	Cardiovascular diseases	Incremental treadmill test	CO	Closed	NR	An effect of CO on myocardial ischemia was objectively demonstrated by electrocardiographic changes during exercise. CO exposures produced carboxyhemoglobin levels of 2% and 3.9%, respectively. Low levels of carboxyhemoglobin exacerbated myocardial ischemia during graded exercise in individuals with CAD.
+Reisenauer et al. (1988) [73]	USA/Seattle	Positive	Older volunteers	64.6 ± 6.36	♀ ♂	Respiratory diseases	Incremental intermittent exercise on the treadmill	O3	Closed	Urban	There was an increased risk of changes in lung function at close to ambient levels after exposure to O3 during exercise in healthy older adult subjects.
+Drechsler-Parks et al. (1987) [74]	USA/Santa Barbara	Positive	Healthy non-smokers	62.85 ± 6.2	♀ ♂	Respiratory diseases	Cycle ergometer	O3	Closed	NR	O3 exposure induced significant decreases in forced vital capacity and forced expiratory volume at 1 and 3 s post-exposure compared with pre-exposure during exercise to induce minute ventilation.
+Open in a separate window
+♀: female; ♂: male; PA: physical activity; CAD: coronary artery disease; COPD: chronic obstructive pulmonary disease; SD: standard deviation; USA: USA of America; Min.: minimum; Max.: maximum; NOx: nitrogen oxides; NO2: nitrogen dioxide; NR: not reported; 𝑥⎯⎯: average; PM: particulate matter; CO: carbon monoxide; O3: ozone; SO2: sulfur dioxide; ppm: part per million. * There was no mean and standard deviation.
+
+Table 6
+Sample characteristics (sex and age), pollutants, physical activity, health outcomes, and ambiguous findings about pollutants in the health of older adults during PA.
+
+Authors, Year	Country City	Positive, Negative, and Ambiguous	Population	Age
+(𝒙 ⎯⎯⎯ ± SD/Min-Max)	Sex	Health Outcomes	PA Type	Exposure (Pollutants)	Environment-Open/Closed	Environment by location (Urban/Rural/Commercial)	Main Findings
+Ao et al. (2022) [75]	China/Sichuan, Chongqing, Guizhou, Yunnan	Ambiguous	Seniors from five provinces in southwest China	60.54 ± 7.50	♀ ♂	Chronic diseases	General AF	PM10, PM2.5, PM1.0	Open	NR	For the prevention of type 2 diabetes in the older adults, the health benefits of PA may outweigh the harm caused by air pollution, except in extreme air pollution situations, and that PA levels should not exceed 40 MET- h/d when the air quality
+of residence is severe.
+Stieb et al. (2021) [76]	Canada/Ontario	Ambiguous	Healthy older adults	NR/55–81	♀ ♂	Cardiovascular and respiratory diseases and overall health outcomes	Daily light PA (e.g., walking)	CO, NO2, O3, PM2.5, SO2	Open	NR	Associations between air pollution and weekly pre-exercise heart rate and measures of heart rate variability, as well as urinary malonaldehyde, were consistently stronger in the group that performed outdoor PA (1.4% increase in heart rate). However, these differences cannot plausibly be attributed to the intervention, as there were only two days of intervention.
+Besser et al. (2021) [77]	USA/Forsyth County (Forsyth County), North Carolina; New York, Baltimore, Maryland Saint Paul, Minnesota Chicago, Illinois, Los Angeles, California	Ambiguous	American seniors without dementia	67 ± 8	♀ ♂	Mental disorders	Reported moderate/vigorous activities achieved by any means (e.g., purposeful exercise, housework, lawn/garden, day care, transportation, work)	PM2.5	Open	Urban	Depressive symptoms, total PA per week and exposure to PM2.5 did not mediate the association between proportion of park space and global cognition.
+Huang et al. (2021) [38]	China	Ambiguous	Adults aged 50 and over in the first wave of the Global Aging and Adult Health Study in China during 2007–2010	50/NR	♀ ♂	Cardiovascular diseases	General PA	PM2.5	Open	Urban/rural	We found a direct and negative association of residential green with hypertension prevalence for rural participants, but not for urban participants. The association of green with hypertension was completely mediated by PM2.5 concentrations (without any mediating effect of physical activity and BMI) in urban areas. In contrast, the association was mediated by concentrations of PM2.5, PA and others not observed in rural areas.
+Zhou et al. (2020) [78]	China/Guangzhou	Ambiguous	Who lived in Guangzhou for more than 6 months	60/NR	♀ ♂	Overall health outcomes/mental disorders	General PA	PM2.5	Open	External (urban/rural/commercial)	Neighborhood green has a positive association with PA in the older adults, which is positively linked to their physical health. There was no significant relationship between PA and the investigated PM2.5.
+Roe et al. (2020) [79]	USA/Richmond	Ambiguous	Older adults/American seniors	64.8 ± NR	♀ ♂	Mental disorders	Walk on two routes: urban green and urban gray	PM2.5	Open	Urban	Walking on a green route (lower degree of pollution) provided more benefits for the well-being of the older adults, while walking on a gray area (higher degree of pollution) increased a physiological factor related to stress.
+Nuyts et al. (2019) [80]	Belgium/Louvain	Ambiguous	Healthy older adults	58–76 *	♀ ♂	Mental disorders	General PA	NO2	Open	Urban	Pollution demonstrated a negative effect on positive affect when average daily steps were low. Moderate PA attenuated the effect of NO2 on positive affect. However, short-term exposure to NO2, considered the products of combustion related to traffic, can produce non-pathological changes in mood in healthy older people.
+Balmes et al. (2019) [81]	USA/Rochester, Chapel Hill, and San Francisco	Ambiguous	Older non-smoking adults	59.9 ± 4.5	♀ ♂	Other diseases	Moderate intermittent physical exercise	O3	Closed	Urban	Exposure to low-level O3 during exercise in healthy older adults had no effects on systemic inflammation, oxidative stress, or prothrombotic status.
+Rich et al. (2018) [82]	USA/Rochester, Chapel Hill, and San Francisco	Ambiguous	Healthy seniors and non-smokers	59.9 ± 4.5	♀ ♂	Cardiovascular diseases	Moderate intermittent physical exercise	O3	Closed	Urban	There was no convincing evidence for acute effects at random 3-hour exposures to 0.70 and 120 ppb O3 alternating 15 min of moderate exercise with 15 min of rest on cardiovascular function.
+Sinharay et al. (2018) [83]	England/London	Ambiguous	Older people with ischemic heart disease or COPD and healthy volunteers	65.4 ± 1.2	♀ ♂	Respiratory diseases	Walk	PM2.5, PM10, carbon black, NO2, and ultrafine particles	Open	Urban	Patients with COPD reported more coughing, sputum, shortness of breath, and wheezing after walking on the most polluted road compared to the polluted one. In all groups of participants, walking in Hyde Park generated several beneficial responses to the cardiopulmonary system; such effects were mitigated after the walk on Oxford Street.
+Arjomandi et al. (2018) [84]	USA/Rochester, Chapel Hill, and San Francisco	Ambiguous	Healthy, non-smoking older adults	59.9 ± 4.5	♀ ♂	Respiratory diseases	Walk	O3	Closed	Urban	Exposure to O3 attenuated the effects of physical exercise on lung function and minute ventilation. O3 exposure caused a marginally significant increase in airway inflammatory markers in a concentration-dependent manner. Plasma levels of a marker of airway epithelial injury also increased with O3 concentration.
+Dewulf et al. (2016) [85]	Belgium/Ghent	Ambiguous	Older adult residents of Ghent	61.7 ± NR	♀ ♂	General health results	AF in transport-walking and cycling	NO2	Open	Urban	The high ventilation rate of cycling resulted in the highest inhaled dose of NO2, when compared to other modes of transport such as walking, driving and stationary. However, the daily proportion of cycling activity was relatively low and the influence of this activity on the total amount of inhaled NO2 is small.
+Bartell et al. (2013) [86]	USA/Los Angeles	Ambiguous	Non-smoking older adults diagnosed with CAD	83.3 ± 5.9	♀ ♂	Cardiovascular diseases	General PA	PM2.5, black carbon, O3, CO, NOx, elemental carbon, organic carbon	Open	Urban	The data support the hypothesis that particle exposures may increase the risk of ventricular tachycardia in older adults patients with CAD. Heart rate variability was not associated with exposure in most of our participants. Evidence of the effects of pollutants on PA measures was limited and inconclusive.
+Babb (1997) [36]	USA/Dallas	Ambiguous	Older people with normal lung function	68 ± 2	♀ ♂	Respiratory diseases	Incremental test on cycle ergometer	CO2e and He-O2	Closed	NR	Mechanical ventilatory limitations, even minimal, can attenuate the ventilatory response to intense exercise as much as possible when subjects were breathing room air or when breathing 3% CO2, despite the large increase in chemical impulse for minute ventilation. However, the attenuation of ventilation per minute is not sufficient to limit exercise capacity, as all subjects showed normal exercise capacity when breathing room air and breathing 3% CO2.
+Drechsler-Parks (1995) [87]	USA/Santa Barbara	Ambiguous	Healthy non-smoking volunteers	65.3 ± 4.12	♂	Respiratory diseases	Treadmill exercise	O3	Closed	NR	There were no significant differences between the responses to the three O3 exposures during walking on a motorized treadmill. All three O3 exposures induced small, statistically significant decreases in forced vital capacity and forced expiratory volume, but no significant changes in forced expiratory flow rate between 25 and 75%. The data suggest possible saturation of the pulmonary response mechanism with a low degree of functional impairment in older men.
+Bedi et al. (1989) [88]	USA/Santa Barbara	Ambiguous	Healthy non-smoking volunteers	67.9 ± 6.6	♀ ♂	Respiratory diseases	Exercise on a cycle ergometer or treadmill	O3	Closed	NR	There were no significant changes in any symptom question, despite a three-fold increase in the total number of symptoms reported during O3 exposure. An adaptive response was observed on the third day of exposure that persisted through the 72-hour period of non-exposure based on the absence of significant differences between those days and the day of PA.
+Drechsler-Parks et al. (1987) [89]	USA/Santa Barbara	Ambiguous	Healthy non-smokers	62.8 ± 6.2	♀ ♂	Respiratory diseases	Cycle ergometer	NO2	Closed	NR	There were no statistically significant differences between the responses of men and women aged 55 years and older to exposure to filtered air or NO2, in forced vital capacity and heart rate during each exercise period.
+Rondinelli et al. (1987) [33]	USA/Washington	Ambiguous	Healthy male volunteers	64/55–73	♂	Respiratory diseases	Treadmill walk	SO2	Closed	NR	The present study does not support the hypothesis that older adults show greater bronchial reactivity to inhaled SO2 during moderate exercise on a treadmill than normal adolescents, although the former showed a slightly greater response. This effect was short-lived and of small magnitude. Clearly, these changes do not represent a life-threatening pulmonary response to SO2.
+Open in a separate window
+♀: female; ♂: male; PA: physical activity; CAD: coronary artery disease; CO: carbon monoxide; CO2 e: carbon dioxide equivalent; COPD: chronic obstructive pulmonary disease; SD: standard deviation; USA: United States of America; He-O2: helium-oxygen; BMI: body mass index; Min.: minimum; Max: maximum; PM: particulate matter; NOx: nitrogen oxides; NO2: nitrogen dioxide; NR: not reported; BP: blood pressure; 𝑥⎯⎯: average; O3: ozone; SO2: sulfur dioxide; ppb: part per billion. * There was no mean and standard deviation.
+
+Of the 58 studies investigated, in 18, the PA showed benefits to the health of the older adults during exposure to pollutants. The most frequently reported PAs were PA in general (four studies), followed by PA in leisure, leisure and transport, moderate to vigorous, and slow walking accompanied by other activities in three studies each. Walking only, a controlled exercise protocol (stretching, treadmill walking, park walking), incremental cycle ergometer test, and resistance training were employed in only one study each. Urban environments were the most frequently (12 studies) investigated during these PA, followed by five studies that did not report the environment and one with urban and rural environments. With respect to open and closed environments, 16 studies were carried out in open environments, 1 in a closed environment, and 1 in a mixed (open and closed) environment. As for air pollutants that did not compromise the health of older adults during PA practices, PM2.5 was the most frequent, in 14 studies, followed by NO2 and PM10 in seven studies (Table 4).
+
+In 22 studies, the exposure of the older adults to pollutants presented health risks during PA, more frequently to PA in general (seven studies), followed by submaximal exercise tests on a cycle ergometer and exercise bike in five studies, walking outdoors and PA outdoors in three, and cycle ergometer and incremental exercise on a treadmill in two studies each. The environments by location investigated during these PA were urban in 19 studies, rural in 1 study, and not reported in 2 studies. Open environments were investigated in 16 studies and closed environments in 6 studies. PM2.5 was the air pollutant that presented the greatest risk to older adults during PA in 13 studies, followed by O3 in 11, CO in 8, and NO2 in 6; other pollutants and information about these studies can be found in Table 5.
+
+RQ5. What are the effects of air pollution on health outcomes during PA in older adults?
+
+Regarding the health outcomes investigated in the older adults, for the effects of air pollution during PA, of the 75 outcomes investigated, air pollution had harmful effects on the health of the older adults during PA practice in 29, more frequently in cardiovascular diseases. On the other hand, in 25 outcomes, the beneficial effects of PA on the health of the older adults remained despite exposure to high and low concentrations of pollutants, more frequently in mental disorders; and in 21, the evidence was limited or inconclusive, especially in respiratory diseases. Figure 4 presents the frequency according to the health outcomes investigated during PA in the older adults and the effects of pollution.
+
+An external file that holds a picture, illustration, etc.
+Object name is ijerph-20-03506-g004.jpg
+Figure 4
+Number of studies according to the health outcomes investigated during physical activity in older adults and the effects of air pollution.
+
+4.2. Risk of Bias Assessment
+Table 7 presents the results of the quality assessment. In total, 14 of the 58 studies that entered the present review did not have any negative classification, indicating high quality. A further 11 articles had only one negative classification and 14 two negative ratings, presenting medium-to-moderate quality. However, 13 studies presented between four and five negative classifications, indicating low quality. This factor occurred mainly due to the lack of methodological detail in the studies.
+
+Table 7
+MMAT quality appraisal results *.
+
+Authors,
+Year	2. Randomized Controlled Trials	3. Non-Randomized Studies
+2.1. Was Randomization Appropriately Performed?	2.2. Were the Groups Comparable at Baseline?	2.3. Were There Complete Outcome Data?	2.4. Were Outcome Assessors Blinded to the Intervention Provided?	2.5 Did the Participants Adhere to the Assigned Intervention?	3.1. Were the Participants Representative of the Target Population?	3.2. Were Measurements Appropriate Regarding Both the Outcome and Intervention (or Exposure)?	3.3. Were There Complete Outcome Data?	3.4. Were the Confounders Accounted for in the Design and Analysis?	3.5. During the Study Period, Was the Intervention Administered (or Exposure Occurred) as Intended?
+Ao et al.
+(2022) [75]						Yes	Yes	Yes	Yes	Yes
+Liu et al.
+(2022) [43]						Yes	Can’t tell	Yes	Can’t tell	Yes
+Yao et al.
+(2022) [44]						Yes	Can’t tell	Yes	Yes	Yes
+Wu et al.
+(2022) [45]						Yes	Yes	Yes	Yes	Yes
+Yu et al.
+(2021) [15]						Yes	Yes	Yes	Yes	Yes
+Bagheri et al.
+(2021) [39]						Yes	No	Yes	Yes	Yes
+Stieb et al.
+(2021) [76]	Can’t tell	Yes	Yes	Can’t tell	Yes					
+Besser et al.
+(2021) [77]						Yes	Can’t tell	Yes	Can’t tell	Yes
+Huang et al.
+(2021) [38]						Yes	Yes	Yes	Yes	Yes
+Cassilhas et al.
+(2022) [41]	Yes	Yes	Can’t tell	Can’t tell	Yes					
+Ran et al.
+(2021) [46]						Yes	Yes	Yes	Yes	Yes
+Kim et al.
+(2020) [35]						Yes	Yes	Yes	Yes	Yes
+Zhou et al.
+(2020) [78]						Yes	No	Can’t tell	Can’t tell	Can’t tell
+Sun et al.
+(2020) [47]						Yes	Yes	Yes	Yes	Yes
+Molina-Sotomayor et al. (2020) [48]						Yes	Yes	Yes	Can’t tell	Can’t tell
+Elliott et al.
+(2020) [34]						Yes	Yes	Yes	Yes	Yes
+Wang et al.
+(2020) [49]						Yes	Can’t tell	Yes	Yes	Can’t tell
+Roe et al.
+(2020) [79]						Yes	Yes	Can’t tell	Can’t tell	Yes
+Nuyts et al.
+(2019) [80]						Yes	Yes	Yes	Yes	Yes
+Molina-Sotomayor
+et al. (2019) [50]						Yes	Yes	Yes	Can’t tell	Yes
+Chen et al.
+(2019) [51]						Yes	Yes	Can’t tell	Yes	Can’t tell
+Balmes et al.
+(2019) [81]						Yes	No	Can’t tell	Can’t tell	Can’t tell
+Zwart et al.
+(2018) [57]						Yes	Yes	Can’t tell	Yes	Yes
+Stieb et al.
+(2018) [58]						Yes	Yes	Can’t tell	Can’t tell	Yes
+Rich et al.
+(2018) [82]	Can’t tell	Yes	Can’t tell	Can’t tell	Yes					
+Kubesch et al.
+(2018) [52]						Yes	No	Can’t tell	Yes	Yes
+Sinharay et al.
+(2018) [83]	Can’t tell	Yes	Can’t tell	Can’t tell	Yes					
+Arjomandi et al. (2018) [84]	Can’t tell	Yes	Yes	Can’t tell	Yes					
+Yu et al.
+(2017) [59]						Yes	Yes	Yes	No	Yes
+Stieb et al.
+(2017) [60]						Yes	Yes	Can’t tell	Can’t tell	Yes
+Endes et al.
+(2017) [53]						Can’t tell	Can’t tell	Yes	Yes	Yes
+Dewulf et al.
+(2016) [85]						No	Yes	Can’t tell	No	Can’t tell
+Salicio et al.
+(2016) [61]						Yes	Can’t tell	Can’t tell	No	Can’t tell
+Andersen et al.
+(2015) [54]						Yes	Can’t tell	Yes	Yes	Can’t tell
+Alahmari et al.
+(2015) [62]						Yes	Yes	Yes	Can’t tell	Yes
+Kim et al.
+(2015) [55]						Yes	Can’t tell	Yes	Yes	Yes
+Bartell et al.
+(2013) [86]						Yes	Yes	Yes	Yes	Yes
+Delfino et al.
+(2011) [63]						Yes	Yes	Yes	Yes	Yes
+Delfino et al.
+(2010) [64]						Yes	Yes	Yes	Yes	Yes
+Lanki et al.
+(2008) [65]						Yes	Yes	Yes	Yes	Yes
+Wong et al.
+(2007) [56]						Yes	Can’t tell	Yes	Yes	Yes
+Lanki et al.
+(2006) [66]						Yes	Yes	Yes	Yes	Yes
+Gold et al.
+(2005) [67]						Yes	Yes	Can’t tell	Yes	Yes
+Gong et al.
+(2005) [42]						Can’t tell	Yes	Can’t tell	Can’t tell	Yes
+DeMeo et al.
+(2004) [68]						Yes	Yes	No	Can’t tell	Can’t tell
+Gong et al.
+(2004) [69]						Can’t tell	Yes	Can’t tell	Can’t tell	Yes
+Babb et al.
+(2003) [40]						No	Yes	Can’t tell	Can’t tell	Can’t tell
+Pekkanen et al.
+(2002) [70]						Yes	Yes	Yes	Can’t tell	Yes
+Gold et al.
+(2000) [71]						Yes	Yes	Can’t tell	Yes	Yes
+Babb
+(1997) [36]						No	Can’t tell	Can’t tell	Can’t tell	Can’t tell
+Drechsler-Parks (1995) [37]						No	Yes	Can’t tell	Can’t tell	Can’t tell
+Drechsler-Parks (1995) [87]						No	Yes	Can’t tell	Can’t tell	Can’t tell
+Bedi et al.
+(1989) [88]						No	Yes	Can’t tell	Can’t tell	Can’t tell
+Allred et al.
+(1989) [72]						No	Yes	Can’t tell	Can’t tell	Can’t tell
+Reisenauer et al. (1988) [73]						Yes	Yes	No	Can’t tell	Can’t tell
+Drechsler-Parks et al. (1987) [89]						No	Can’t tell	Can’t tell	Can’t tell	Can’t tell
+Drechsler-Parks et al. (1987b) [74]						No	Can’t tell	Can’t tell	Can’t tell	Can’t tell
+Rondinelli et al. (1987) [33]						Can’t tell	No	Can’t tell	Can’t tell	Can’t tell
+Open in a separate window
+* The Mixed Methods Appraisal Tool questions are presented in the form of statements in Table 7.
+
+Go to:
+5. Discussion
+This is the first mapping review carried out on the effects of air pollution on the health of older adults during PA practices, considering articles with different designs. Air pollution is one of the greatest environmental threats to human health [3], while PA practices present several health benefits [90]. Harmful, beneficial, and inconclusive effects on the health outcomes of older adults during PA and exposure to air pollution were observed in the studies; thus, we sought to develop this discussion on the basis of these results and relate it to the various findings on this topic in the literature.
+
+The benefits of PA and exercise for older adults are widely known and documented in several health outcomes, such as cardiovascular, respiratory, cognitive, psychological, and quality of life [91]. In the present review, 16 studies showed that the benefits of PA were maintained even when considering exposure to air pollutants. Mental disorders was the outcome with the highest amount of evidence of benefits during exposure to pollutants, without studies pointing out risks. Currently, the deleterious effects of air pollution on mental and cognitive health are well established, for example, it is known that exposure to PM2.5 and NO2 is a risk factor for the development of Alzheimer’s disease and that increased exposure to PM2.5, NO2, and O3 is related to the development of depression in older adults [92,93,94,95,96]. In contrast, exercise and PA in general produce effects that decrease depression and improve mood in older adults [97,98], as well as being a recognized way to treat Alzheimer’s disease [5]. Thus, the findings demonstrate the importance of PA in the mental health of the older population.
+
+PA has been recommended for older people with cardiovascular disease, and studies are well established on this topic in the literature [99]. However, on the basis of the articles included investigating cardiovascular diseases, we observed that the practice of PA during exposure to pollutants can further compromise the conditions of this disease. On the other hand, it is important to note that of the 15 studies that reported these harmful results, in 8 of them, the participants already had cardiovascular diseases [42,63,64,65,66] or a high prevalence of developing cardiovascular diseases [70,72], while in the 5 studies that reported beneficial results, the sample was made up of healthy older adults, without a specific diagnosis. This demonstrates that PA even under exposure to air pollutants can provide a mechanism for preventing and maintaining cardiovascular health in older adults, as shown in the studies by Elliott et al. [34], Endes et al. [53], and Kubesch et al. [52] who demonstrated the benefits of PA in relation to the risk of myocardial infarction, stroke, and arterial stiffness.
+
+The literature already points out that the adverse effects of air pollution can potentiate comorbidities, such as preexisting cardiovascular diseases, even attenuating the beneficial effects of PA on practitioners [100]. However, the population-based study by Kim et al. [35] (189,771 participants, more than 50% of whom were older adults) with a two-year follow-up found that moderate-to-vigorous PA ≥5 times/week was significantly associated with a decrease in the risk of cardiovascular disease, even when exposed to low and high levels of PM10. These results were also maintained during exposure to high and low levels of PM2,5, except for coronary heart disease [35].
+
+However, air pollution had a negative impact on healthy older people during PA, both in cardiovascular and respiratory health variables, presenting acute adverse symptoms in the study by Stieb et al. [58,60], including pulmonary vascular and inflammatory changes [68], as well as increased heart rate [61]. These adverse symptoms found in older adults can be justified by the direct inhalation of environmental gases, or by oxidative stress due to exposure to various pollutants [61].
+
+Of the studies that only investigated respiratory diseases, the results are divided as to the risks of the practice of PA by older adults in environments with air pollution, presenting limited or inconclusive evidence in eight studies each. Despite this result, two studies showed benefits from the practice despite the exposure [40,50], both being longitudinal experimental studies. These results are controversial considering those published in the literature, primarily because most of the participants in these two studies are older women [101,102], and secondly because high ventilation induced by PA increases the exposure and rate of particle deposition in the lungs [103,104], which potentiates harmful effects on health [12]. In addition, high-quality evidence from a recent systematic review of randomized controlled trials indicated that moderate-to-vigorous PA practice during exposure to pollutants has adverse effects on lung function and related symptoms [105].
+
+Considering health records, we observed that the majority of studies that investigated this outcome maintained the beneficial effects of PA on the health of the older adults during exposure to pollutants [34,47,54,56]. This is in contrast to recent literature results and the WHO itself, since exposure to pollutants is strongly associated with the risk of disease development and mortality prevalence, for example, long-term exposure to PM2.5 or NO2 is associated with stroke, NO2 is associated with higher cases of atrial fibrillation, and exposure to O3 increases the risk of hospitalizations for pneumonia and COPD exacerbations [3,106,107]. On the other hand, PA practice promotes the opposite outcome. The study by Cunningham et al. [91] found a reduction in the risk of CAD in men and a 40% reduction in mortality from cardiovascular diseases in moderate-to-vigorous PA practitioners. In the current review, PA practice provided lower cardiovascular and respiratory mortality and mortality in general [47,54,56], even with exposure to air pollutants. In the study by Yu et al. [59], it was found that exposure to PM2,5 contributed to the reduction in PA levels in older adults. In addition, a negative association was found between PA score and leisure time with days of hospital care in one year. Although the findings do not indicate cause and effect, this demonstrates that air pollution indirectly affects the health of older adults, as it reduces the practice of PA, which is associated with hospitalization.
+
+Few studies have analyzed the effects of exposure to pollution during PA on chronic or other diseases, in addition to respiratory, cardiovascular, and mental disorders in older adults. Of the four studies that analyzed these effects, none presented risks to the health of the older adults. The study by Kim et al. [35] points out that moderate-to-vigorous PA decreases the risk of developing diabetes, even with exposure to pollutants, which is extremely important, as currently 25% of older adults in the USA have a diagnosis of diabetes and 48% are pre-diabetic [108].
+
+The study by Cassilhas et al. [41] reported an important comparison of PA in an open environment versus a closed environment, and although the practice of PA in an open environment does not produce risks, when the same activity is performed in a closed environment, it has greater benefits for other diseases and cognition of older adults. Unfortunately, none of the studies included in the review analyzed the outcome of cancer. However, in the current literature, there is strong evidence that pollution and high levels of PM increase the incidence and mortality of lung cancer, although for other cancers, the evidence is limited [109].
+
+5.1. Limitations and Future Studies
+Although 53 studies have been published since 1987, focusing on the last few years, an effort by researchers is necessary to produce knowledge about the effects of air pollution on the health of older adults during PA, because despite the relevant number of published studies, the results are divergent, limiting the development of specific conclusions. Most of the studies also did not report the lifestyle, habits, where they worked, and the environments where the participants lived in recent years and decades, which, if they were environments with high levels of pollution, could affect the results of the research in which they participated. The focus of further studies should be on evaluating different models and scenarios, combining types of PA in different environments in relation to different levels of air pollution, and calculating possible risks to the health of older adults. Knowing the limits older adults can be exposed to when they decide to practice indoor and outdoor PA is essential, in addition to developing safety recommendations for this population.
+
+5.2. Innovations, Study Strengths, and Practical Applications
+To our knowledge, after an extensive search in international databases, the current mapping review is the first to be developed in the literature. In addition to this innovative and relevant character, considering that the older population is highly sensitive to air pollution, this review is even more relevant because this sensitivity is enhanced when they are practicing PA.
+
+In the current scenario of the COVID-19 pandemic, the need for studies with these outcomes increases even more [110,111]. The idea is to provide greater safety and evidence of the risks and benefits to older adults, in different scenarios of pollution, environments, and PA.
+
+Safety recommendations should be analyzed and written for the practice of PA by older adults in different environments, on the basis of the data of this mapping review and other systematic reviews under development. The results and our analyses and conclusions allow several practical applications, including greater attention to the previous health conditions of older adults in relation to PA practice environments, taking into account previous diseases, for example, heart diseases, in relation to environments polluted with nanoparticles from the combustion of organic material, which can significantly increase cardiorespiratory health risks.
+
+On the basis of the recommendations of the studies included in this mapping review, we stratified relevant information for public policymakers, health professionals, researchers, and practitioners of physical activities, in order to provide guidance on the topic addressed in this review, and from there, to develop new public policies based on the evidence presented, as well as identifying gaps to be addressed in further research. Guidelines for older practitioners of physical activities in environments with levels of pollution were highlighted. On the basis of these points, care and observations that need to be taken into account for PA practice are presented in Table 8.
+
+Table 8
+Recommendations for policymakers, health professionals, researchers, and practitioners of physical activities.
+
+Politicians, Health Professionals, and Researchers	Practitioners of Physical Activities
+More research on the combined effects of PMs and PA on diabetes is urgently needed.
+It is suggested that aerobic exercise in the open air be avoided when there are high levels of PM, so as not to affect the positive effects of the practice, in the levels of neuro factors derived from the brain.
+We suggest that urban planners design green spaces in neighborhoods where older adults can nurture and communicate with each other. They can also plant trees along sidewalks to provide a desirable walking environment for older adults and recreational infrastructure under shaded trees to increase community comfort among older adults. Finally, green spaces can be developed in communities with a high proportion of senior citizens, especially for those belonging to low-income groups.
+It is recommended that physical activities be carried out in places with green spaces, as this encourages the practice, mitigates air pollution, increases social cohesion in localities/neighborhoods, and improves satisfaction with life;
+Studies with a window of exposure to PM2.5 greater than or equal to 180 days are recommended on the effects on depressive symptoms.
+Moderate-to-vigorous physical activity (MVPA) is recommended for older adults wherever they live, although practicing MVPA in an environment that considers air pollutant reduction is important to maximize the health benefits of MVPA in diabetes.
+Experimental studies are needed to clarify the specific mechanisms among older people with low levels of physical activity and vitamin D deficiency, exposed to high levels of PM2.5, presenting high chances of depression.
+For countries or regions with high pollution, especially those cities with poor sunlight or a high prevalence of vitamin D deficiency, additional vitamin D supplementation and physical activity are recommended. This can help to mitigate the adverse effects of exposure to PM2.5 on health conditions and may hinder the occurrence of major depressive disorder.
+Policies and strategies are needed to reduce O3 exposure to ensure that the health benefits of physical activity are not diminished by higher O3 levels in susceptible populations, such as older Hispanics and type 2 diabetics.
+The use of active transport is recommended to reduce sedentary levels, such as bicycles and other modes; however, it is recommended only when the concentration of air pollution is reduced in order to limit negative impacts on health.
+Structural change policies to reduce levels of exposure to pollutants in built and social environments, such as parks with walking paths or recreational and sporting infrastructure environments, are potential opportunities to delay or reduce the risk of dementia.
+Physical activity is recommended for people with dementia or Alzheimer’s disease who live in relatively polluted areas.
+Longitudinal studies are needed to provide a cause-and-effect association between hypertension and the practice of physical activity in green spaces in urban areas, mediated by air pollution, which can help policymakers and professionals to conduct effective interventions to prevent and control the prevalence of hypertension and the burden of concomitant diseases.
+Avoiding physical activity when exposed to air pollution at chronic levels, as it results in mood swings and increases the risk of depression or anxiety disorders. However, it is suggested that when levels are medium/low, walking more than 9000 steps per day be carried out, mitigating the harmful effects of air pollution.
+Future studies are needed to confirm the impacts of pollutants on indoor and outdoor exercise.
+Older people, when performing physical exercises in external environments, when possible, should be monitored by professionals with greater attention to climatic conditions and pollution, suggesting the use of a portable monoximeter as a monitoring instrument.
+It is necessary that the development of outdoor physical activity guidelines and emergency response plans for heavy air pollution be discussed.
+We recommend, especially for the most susceptible populations, that they avoid increasing the absorption of atmospheric pollutants through simple measures, such as avoiding active displacement or exercise along busy main roads, as well as opting for less polluted alternatives, such as secondary roads, parks with green areas etc.
+Future studies are needed to validate whether the positive health effects of moderate-to-vigorous physical activity (MVPA) outweigh the potential harmful effects due to increased exposure to air pollution during MVPA.
+It is suggested that healthy people, as well as those with chronic cardiorespiratory disorders, should minimize walking on streets with high levels of pollution, as this reduces or even reverses the cardiorespiratory benefits of exercise. Instead, walking exercise should be enjoyed in urban green areas away from high-density traffic.
+More research is needed to expand knowledge and understanding of the protective effects that planned physical activity have on cognitive function and cardiovascular adaptations in the presence of high concentrations of particulate matter in the atmosphere.
+It is suggested that older people living in rural areas may benefit from reducing outdoor activity when air pollution levels are particularly high, in order to reduce acute adverse cardiorespiratory effects.
+Additional research is recommended with the aim of identifying points on the Air Quality Health Index (AQHI) scale to provide protective advice that optimizes the balance between reducing outdoor activity when needed, in order to reduce short-term health risks of air pollution, preserving the long-term benefits of outdoor physical activity.
+Current environmental levels of air pollution along busy streets are unacceptable and need to be controlled. It is important to impose policies and measures that can reduce traffic pollution so that each individual can enjoy the benefits of physical activity for health.
+Policy interventions are needed to reduce the level of air pollution in China’s urban areas.
+New studies with longitudinal designs and conducted in broader areas of exposure to PM2.5 are needed to verify the relationship between physical activity and body composition, determining the effects on muscle function.
+Additional research in large prospective cohorts is needed to assess whether the observed effect modification (moderate-to-vigorous physical activity confers a protective effect against the adverse vascular effects of air pollution in low-pollution environments) translates to high-pollution environments in megacities in low- and middle-income countries.
+New studies that assess health impacts through epidemiological studies need to incorporate individual travel behavior and physical activity to measure the inhaled dose of air pollution. This can be performed accurately using GPS and accelerometer data.
+Training physical education professionals to care for the practice of exercises with older adults in polluted environments can minimize the health risks of this population.
+Open in a separate window
+Go to:
+6. Conclusions
+On the basis of the current mapping review of 58 studies from four databases to analyze the state of the art on the effects of air pollution on the health of older adults during physical activities, we concluded that air pollution and poor air quality are harmful factors to the health of older adults during the practice of PAs. A significant number of studies show that air pollution has harmful effects on the health of older adults during the practice of PA, with greater frequencies in cardiovascular and respiratory diseases. On the other hand, in mental-health-related outcomes (depression and cognition), the beneficial effects of PA in older adults were maintained even during exposure to pollutants at their highest frequency. The most investigated pollutants during PA in the older adults were PM2.5 and PM10, and the most commonly investigated relationship between air pollutants and health outcomes was on the effects of PM2.5 in cardiovascular disease. Walking was the most widely investigated PA, followed by cycle ergometer exercise, and PA such as playing ball, walking uphill, swimming, cycling, running, slow walking, stretching, and traditional Chinese exercises, in addition to resistance training with weights. Future studies should combine different types of PA in several environments, considering both indoor and outdoor pollutants to calculate risks to the health of older adults.
+
+Go to:
+Abbreviations
+AQHI	air quality health index
+BMI	body mass index
+CAD	coronary artery disease
+CO	carbon monoxide
+CO2e	carbon dioxide equivalent
+COPD	chronic obstructive pulmonary disease
+DV	standard deviation
+GPS	global positioning system
+H	hours
+He	helium
+He-O2	helium–oxygen
+Max	maximum
+MET	metabolic equivalent of task
+Min.	minimum
+MMAT	mixed methods appraisal tool
+MVPA	moderate to vigorous physical activity
+NO₂	nitrogen dioxide
+Nox	nitrogen oxides
+NR	not reported
+O3	ozone
+PA	physical activity
+Pas	physical activities
+PECOS	population, exposure, comparator, outcome, study design
+PM	particulate matter
+PPB	part per billion
+PPM	part per million
+RQs	research questions
+SO₂	sulfur dioxide
+TSP	total suspended particles
+UFP	ultrafine particles
+USA	United States of America
+VOPs	volatile organic pollutants
+WHO	World Health Organization
+WK	week
+Go to:
+Supplementary Materials
+The following supporting information can be downloaded at https://www.mdpi.com/article/10.3390/ijerph20043506/s1. Table S1: Template for a Mapping Study Protocol. Table S2: Literature search strategy on PubMed. Table S3: Titles of included reviews (58).
+
+Click here for additional data file.(170K, zip)
+Go to:
+Funding Statement
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors. This work was supported by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior-Brazil (CAPES) and the FAPESC-Foundation for research and innovation support of the State of Santa Catarina—grant number 2019031000035 and call number EDITAL DE CHAMADA PÚBLICA FAPESC N° 027/2020 and National Council for Scientific and Technological Development/CNPq.
+
+Go to:
+Author Contributions
+Conceptualization, A.A.; Methodology, A.D., F.H.D. and A.A.; Data Curation, A.D., L.C.D.S. and A.C.R.d.F.B.; Formal Analysis, A.D., L.C.D.S. and A.C.R.d.F.B.; Investigation, A.D.; Writing—Original Draft, A.D.; Visualization, A.D.; Project Administration, A.D. and A.A.; Writing—Review and Editing, F.H.D., L.S., G.B. and A.A.; Validation, A.A.; Supervision, A.A.; Funding Acquisition, A.A. All authors have read and agreed to the published version of the manuscript.
+
+Go to:
+Institutional Review Board Statement
+Not applicable.
+
+Go to:
+Informed Consent Statement
+Not applicable.
+
+Go to:
+Data Availability Statement
+No new data were created or analyzed in this review. Data sharing does not apply to this article.
+
+Go to:
+Conflicts of Interest
+The authors declare no conflict of interest.
+
+Go to:
+Footnotes
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Go to:
+References
+1. World Health Organization Guidance on Air Pollution and Health. [(accessed on 13 September 2021)]. Available online: https://www.who.int/tools/compendium-on-health-and-environment/air-pollution-and-health
+2. Andrade A., Dominski F.H., Pereira M.L., de Liz C.M., Buonanno G. Infection Risk in Gyms during Physical Exercise. Environ. Sci. Pollut. Res. 2018;25:19675–19686. doi: 10.1007/s11356-018-1822-8. [PubMed] [CrossRef] [Google Scholar]
+3. World Health Organization Air Quality and Health. [(accessed on 13 September 2021)]. Available online: https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts
+4. Tainio M., Jovanovic Andersen Z., Nieuwenhuijsen M.J., Hu L., de Nazelle A., An R., Garcia L.M.T., Goenka S., Zapata-Diomedi B., Bull F., et al. Air Pollution, Physical Activity and Health: A Mapping Review of the Evidence. Environ. Int. 2021;147:105954. doi: 10.1016/j.envint.2020.105954. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+5. Andrade A., Siqueira T.C., D’Oliveira A., Dominski F.H. Effects of Exercise in the Treatment of Alzheimer’s Disease: An Umbrella Review of Systematic Reviews and Meta-Analyses. J. Aging Phys. Act. 2021;30:535–551. doi: 10.1123/japa.2021-0033. [PubMed] [CrossRef] [Google Scholar]
+6. Andrade A., Dominski F.H., Sieczkowska S.M. What We Already Know about the Effects of Exercise in Patients with Fibromyalgia: An Umbrella Review. Semin. Arthritis Rheum. 2020;50:1465–1480. doi: 10.1016/j.semarthrit.2020.02.003. [PubMed] [CrossRef] [Google Scholar]
+7. da Silva F.C., da Rosa Iop R., Andrade A., Costa V.P., Gutierres Filho P.J.B., da Silva R. Effects of Physical Exercise on the Expression of MicroRNAs: A Systematic Review. J. Strength Cond. Res. 2020;34:270–280. doi: 10.1519/JSC.0000000000003103. [PubMed] [CrossRef] [Google Scholar]
+8. Andrade A., Correia C.K., Coimbra D.R. The Psychological Effects of Exergames for Children and Adolescents with Obesity: A Systematic Review and Meta-Analysis. Cyberpsychology Behav. Soc. Netw. 2019;22:724–735. doi: 10.1089/cyber.2019.0341. [PubMed] [CrossRef] [Google Scholar]
+9. Sties S.W., Andreato L.V., de Carvalho T., Gonzáles A.I., Angarten V.G., Ulbrich A.Z., de Mara L.S., Netto A.S., da Silva E.L., Andrade A. Influence of Exercise on Oxidative Stress in Patients with Heart Failure. Heart Fail. Rev. 2018;23:225–235. doi: 10.1007/s10741-018-9686-z. [PubMed] [CrossRef] [Google Scholar]
+10. Ghisi G.L.D.M., Durieux A., Manfroi W.C., Herdy A.H., De Carvalho T., Andrade A., Benetti M. Construção e Validação Do “CADE-Q” Para Educação de Pacientes Em Programas de Reabilitação Cardíaca. Arq. Bras. Cardiol. 2010;94:813–822. doi: 10.1590/S0066-782X2010005000045. [PubMed] [CrossRef] [Google Scholar]
+11. Carlisle A.J., Sharp N.C.C. Exercise and Outdoor Ambient Air Pollution. Br. J. Sports Med. 2001;35:214–222. doi: 10.1136/bjsm.35.4.214. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+12. Bălă G.-P., Râjnoveanu R.-M., Tudorache E., Motișan R., Oancea C. Air Pollution Exposure—The (in)Visible Risk Factor for Respiratory Diseases. Environ. Sci. Pollut. Res. 2021;28:19615–19628. doi: 10.1007/s11356-021-13208-x. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+13. Zhang W., Wang W., Li L., Miller M.R., Cui L., Liu J., Wang Y., Hu D., Liu S., Xu J., et al. Joint Effect of Multiple Air Pollutants on Cardiometabolic Health in Normal-Weight and Obese Adults: A Novel Insight into the Role of Circulating Free Fatty Acids. Sci. Total Environ. 2023;856:159014. doi: 10.1016/j.scitotenv.2022.159014. [PubMed] [CrossRef] [Google Scholar]
+14. Delgado-Saborit J.M., Guercio V., Gowers A.M., Shaddick G., Fox N.C., Love S. A Critical Review of the Epidemiological Evidence of Effects of Air Pollution on Dementia, Cognitive Function and Cognitive Decline in Adult Population. Sci. Total Environ. 2021;757:143734. doi: 10.1016/j.scitotenv.2020.143734. [PubMed] [CrossRef] [Google Scholar]
+15. Yu Y., Jerrett M., Paul K.C., Su J., Shih I.F., Wu J., Lee E., Inoue K., Haan M., Ritz B. Ozone Exposure, Outdoor Physical Activity, and Incident Type 2 Diabetes in the SALSA Cohort of Older Mexican Americans. Environ. Health Perspect. 2021;129:097004. doi: 10.1289/EHP8620. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+16. Triposkiadis F., Xanthopoulos A., Butler J. Cardiovascular Aging and Heart Failure: JACC Review Topic of the Week. J. Am. Coll. Cardiol. 2019;74:804–813. doi: 10.1016/j.jacc.2019.06.053. [PubMed] [CrossRef] [Google Scholar]
+17. Kaufman J.D., Adar S.D., Barr R.G., Budoff M., Burke G.L., Curl C.L., Daviglus M.L., Roux A.V.D., Gassett A.J., Jacobs D.R., et al. Association between Air Pollution and Coronary Artery Calcification within Six Metropolitan Areas in the USA (the Multi-Ethnic Study of Atherosclerosis and Air Pollution): A Longitudinal Cohort Study. Lancet. 2016;388:696. doi: 10.1016/S0140-6736(16)00378-0. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+18. Dominski F.H., Lorenzetti Branco J.H., Buonanno G., Stabile L., Gameiro da Silva M., Andrade A. Effects of Air Pollution on Health: A Mapping Review of Systematic Reviews and Meta-Analyses. Environ. Res. 2021;201:111487. doi: 10.1016/j.envres.2021.111487. [PubMed] [CrossRef] [Google Scholar]
+19. Craig G.M., Daftary A., Engel N., O’Driscoll S., Ioannaki A. Tuberculosis Stigma as a Social Determinant of Health: A Systematic Mapping Review of Research in Low Incidence Countries. Int. J. Infect. Dis. 2017;56:90–100. doi: 10.1016/j.ijid.2016.10.011. [PubMed] [CrossRef] [Google Scholar]
+20. World Health Organization New WHO Global Air Quality Guidelines Aim to Save Millions of Lives from Air Pollution. [(accessed on 30 September 2021)]. Available online: https://www.who.int/news/item/22-09-2021-new-who-global-air-quality-guidelines-aim-to-save-millions-of-lives-from-air-pollution
+21. An R., Shen J., Ying B., Tainio M., Andersen Z.J., de Nazelle A. Impact of Ambient Air Pollution on Physical Activity and Sedentary Behavior in China: A Systematic Review. Environ. Res. 2019;176:108545. doi: 10.1016/j.envres.2019.108545. [PubMed] [CrossRef] [Google Scholar]
+22. Sun Z., Zhu D. Exposure to Outdoor Air Pollution and Its Human Health Outcomes: A Scoping Review. PLoS ONE. 2019;14:e0216550. doi: 10.1371/journal.pone.0216550. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+23. Brunekreef B., Holgate S.T. Air Pollution and Health. Lancet. 2002;360:1233–1242. doi: 10.1016/S0140-6736(02)11274-8. [PubMed] [CrossRef] [Google Scholar]
+24. Landrigan P.J. Air Pollution and Health. Lancet Public Health. 2017;2:e4–e5. doi: 10.1016/S2468-2667(16)30023-8. [PubMed] [CrossRef] [Google Scholar]
+25. Fernández-Sotos P., Torio I., Fernández-Caballero A., Navarro E., González P., Dompablo M., Rodriguez-Jimenez R. Social Cognition Remediation Interventions: A Systematic Mapping Review. PLoS ONE. 2019;14:e0218720. doi: 10.1371/journal.pone.0218720. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+26. James K.L., Randall N.P., Haddaway N.R. A Methodology for Systematic Mapping in Environmental Sciences. Environ. Evid. 2016;5:7. doi: 10.1186/s13750-016-0059-6. [CrossRef] [Google Scholar]
+27. McDaniel Peters B.C., Wood W. Autism and Equine-Assisted Interventions: A Systematic Mapping Review. J. Autism Dev. Disord. 2017;47:3220–3242. doi: 10.1007/s10803-017-3219-9. [PubMed] [CrossRef] [Google Scholar]
+28. EBSE-RG Template for a Mapping Study Protocol. [(accessed on 10 June 2022)]. Available online: http://community.dur.ac.uk/ebse/resources/templates/MappingStudyTemplate.pdf
+29. Higgins J.P.T., Thomas J., Chandler J., Cumpston M., Li T., Page M.J., Welch V.A. Cochrane Handbook for Systematic Reviews of Interventions. John Wiley & Sons; Hoboken, NJ, USA: 2019. [PMC free article] [PubMed] [Google Scholar]
+30. Hong Q.N., Gonzalez-Reyes A., Pluye P. Improving the Usefulness of a Tool for Appraising the Quality of Qualitative, Quantitative and Mixed Methods Studies, the Mixed Methods Appraisal Tool (MMAT) J. Eval. Clin. Pract. 2018;24:459–467. doi: 10.1111/jep.12884. [PubMed] [CrossRef] [Google Scholar]
+31. Hong Q.N., Pluye P., Fàbregues S., Bartlett G., Boardman F., Cargo M., Dagenais P., Gagnon M.P., Griffiths F., Nicolau B., et al. Improving the Content Validity of the Mixed Methods Appraisal Tool: A Modified e-Delphi Study. J. Clin. Epidemiol. 2019;111:49–59.e1. doi: 10.1016/j.jclinepi.2019.03.008. [PubMed] [CrossRef] [Google Scholar]
+32. May T., Dudley A., Charles J., Kennedy K., Mantilla A., McGillivray J., Wheeler K., Elston H., Rinehart N.J. Barriers and Facilitators of Sport and Physical Activity for Aboriginal and Torres Strait Islander Children and Adolescents: A Mixed Studies Systematic Review. BMC Public Health. 2020;20:601. doi: 10.1186/s12889-020-8355-z. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+33. Rondinelli R.C.A., Koenig J., Marshall S.G. The Effects of Sulfur Dioxide on Pulmonary Function in Healthy Nonsmoking Male Subjects Aged 55 Years and Older. Am. Ind. Hyg. Assoc. J. 1987;48:299–303. doi: 10.1080/15298668791384797. [PubMed] [CrossRef] [Google Scholar]
+34. Elliott E.G., Laden F., James P., Rimm E.B., Rexrode K.M., Hart J.E. Interaction between Long-Term Exposure to Fine Particulate Matter and Physical Activity, and Risk of Cardiovascular Disease and Overall Mortality in U.S. Women. Environ. Health Perspect. 2020;128:1–11. doi: 10.1289/EHP7402. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+35. Kim S.R., Choi D., Choi S., Kim K., Lee G., Son J.S., Kim K.H., Park S.M. Association of Combined Effects of Physical Activity and Air Pollution with Diabetes in Older Adults. Environ. Int. 2020;145:106161. doi: 10.1016/j.envint.2020.106161. [PubMed] [CrossRef] [Google Scholar]
+36. Babb T.G. Ventilatory Response to Exercise in Subjects Breathing CO2 or HeO2. J. Appl. Physiol. 1997;82:746–754. doi: 10.1152/jappl.1997.82.3.746. [PubMed] [CrossRef] [Google Scholar]
+37. Drechsler-Parks D.M. Cardiac Output Effects of O3 and NO2 Exposure in Healthy Older Adults. Toxicol. Ind. Health. 2015;11:99–109. doi: 10.1177/074823379501100109. [PubMed] [CrossRef] [Google Scholar]
+38. Huang B., Xiao T., Grekousis G., Zhao H., He J., Dong G., Liu Y. Greenness-Air Pollution-Physical Activity-Hypertension Association among Middle-Aged and Older Adults: Evidence from Urban and Rural China. Environ. Res. 2021;195:110836. doi: 10.1016/j.envres.2021.110836. [PubMed] [CrossRef] [Google Scholar]
+39. Bagheri N., Mavoa S., Tabatabaei-Jafari H., Knibbs L.D., Coffee N.T., Salvador-Carulla L., Anstey K.J. The Impact of Built and Social Environmental Characteristics on Incidence and Estimated Risk of Dementia. Alzheimer’s Dement. 2021;17:e055380. doi: 10.1002/alz.055380. [PubMed] [CrossRef] [Google Scholar]
+40. Babb T.G., DeLorey D.S., Wyrick B.L. Ventilatory Response to Exercise in Aged Runners Breathing He-O2 or Inspired CO2. J. Appl. Physiol. 2003;94:685–693. doi: 10.1152/japplphysiol.00214.2002. [PubMed] [CrossRef] [Google Scholar]
+41. Cassilhas R.C., De Sousa R.A.L., Caxa L., Viana V., Meeusen R., Gonçalves F.L., Diniz e Magalhães C.O., Tufik S., Dias Peixoto M.F., Monteiro Junior R.S., et al. Indoor Aerobic Exercise Reduces Exposure to Pollution, Improves Cognitive Function, and Enhances BDNF Levels in the Elderly. Air Qual. Atmos. Health. 2022;15:35–45. doi: 10.1007/s11869-021-01083-x. [CrossRef] [Google Scholar]
+42. Gong H., Linn W.S., Clark K.W., Anderson K.R., Geller M.D., Sioutas C. Respiratory Responses to Exposures with Fine Particulates and Nitrogen Dioxide in the Elderly with and without COPD. Inhal. Toxicol. 2005;17:123–132. doi: 10.1080/08958370590904481. [PubMed] [CrossRef] [Google Scholar]
+43. Liu Y., Xiao T., Wu W. Can Multiple Pathways Link Urban Residential Greenspace to Subjective Well-Being among Middle-Aged and Older Chinese Adults? Landsc. Urban Plan. 2022;223:104405. doi: 10.1016/j.landurbplan.2022.104405. [CrossRef] [Google Scholar]
+44. Yao Y., Lu T., Liu Y., Qin Q., Jiang J., Xiang H. Association of Depressive Symptoms with Ambient PM2.5 in Middle-Aged and Elderly Chinese Adults: A Cross-Sectional Study from the China Health and Retirement Longitudinal Study Wave 4. Environ. Res. 2022;203:111889. doi: 10.1016/j.envres.2021.111889. [PubMed] [CrossRef] [Google Scholar]
+45. Wu M., Xie J., Zhou Z., Wang L., Hu Y., Sun Y., Wang Y., Tian Y. Fine Particulate Matter, Vitamin D, Physical Activity, and Major Depressive Disorder in Elderly Adults: Results from UK Biobank. J. Affect. Disord. 2022;299:233–238. doi: 10.1016/j.jad.2021.12.009. [PubMed] [CrossRef] [Google Scholar]
+46. Ran J., Zhang Y., Han L., Sun S., Zhao S., Shen C., Zhang X., Chan K.P., Lee R.S.-Y., Qiu Y., et al. The Joint Association of Physical Activity and Fine Particulate Matter Exposure with Incident Dementia in Elderly Hong Kong Residents. Environ. Int. 2021;156:106645. doi: 10.1016/j.envint.2021.106645. [PubMed] [CrossRef] [Google Scholar]
+47. Sun S., Cao W., Qiu H., Ran J., Lin H., Shen C., Siu-Yin Lee R., Tian L. Benefits of Physical Activity Not Affected by Air Pollution: A Prospective Cohort Study. Int. J. Epidemiol. 2020;49:142–152. doi: 10.1093/ije/dyz184. [PubMed] [CrossRef] [Google Scholar]
+48. Molina-Sotomayor E., Castillo-Quezada H., Martínez-Salazar C., González-Orb M., Espinoza-Salinas A., Gonzalez-Jurado J.A. Effects of Progressive Resistance Training on Cognition and IGF-1 Levels in Elder Women Who Live in Areas with High Air Pollution. Int. J. Environ. Res. Public Health. 2020;17:6203. doi: 10.3390/ijerph17176203. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+49. Wang R., Yang B., Liu P., Zhang J., Liu Y., Yao Y., Lu Y. The Longitudinal Relationship between Exposure to Air Pollution and Depression in Older Adults. Int. J. Geriatr. Psychiatry. 2020;35:610–616. doi: 10.1002/gps.5277. [PubMed] [CrossRef] [Google Scholar]
+50. Molina-Sotomayor E., Orb M.G., de la Fuente F.P., Figueroa G.C., Sánchez-Oliver A.J., González-Jurado J.A. Effects of Cardiorespiratory Exercise on Cognition in Older Women Exposed to Air Pollution. Int. J. Environ. Res. Public Health. 2019;16:245. doi: 10.3390/ijerph16020245. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+51. Chen C.H., Huang L.Y., Lee K.Y., Wu C.D., Chiang H.C., Chen B.Y., Chin W.S., Pan S.C., Guo Y.L. Effects of PM2.5 on Skeletal Muscle Mass and Body Fat Mass of the Elderly in Taipei, Taiwan. Sci. Rep. 2019;9:11176. doi: 10.1038/s41598-019-47576-9. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+52. Kubesch N.J., Jørgensen J.T., Hoffmann B., Loft S., Nieuwenhuijsen M.J., Raaschou-Nielsen O., Pedersen M., Hertel O., Overvad K., Tjønneland A., et al. Effects of Leisure-Time and Transport-Related Physical Activities on the Risk of Incident and Recurrent Myocardial Infarction and Interaction with Traffic-Related Air Pollution: A Cohort Study. J. Am. Heart Assoc. 2018;7:e009554. doi: 10.1161/JAHA.118.009554. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+53. Endes S., Schaffner E., Caviezel S., Dratva J., Stolz D., Schindler C., Künzli N., Schmidt-Trucksäss A., Probst-Hensch N. Is Physical Activity a Modifier of the Association between Air Pollution and Arterial Stiffness in Older Adults: The SAPALDIA Cohort Study. Int. J. Hyg. Environ. Health. 2017;220:1030–1038. doi: 10.1016/j.ijheh.2017.06.001. [PubMed] [CrossRef] [Google Scholar]
+54. Andersen Z.J., de Nazelle A., Mendez M.A., Garcia-Aymerich J., Hertel O., Tjønneland A., Overvad K., Raaschou-Nielsen O., Nieuwenhuijsen M.J. A Study of the Combined Effects of Physical Activity and Air Pollution on Mortality in Elderly Urban Residents: The Danish Diet, Cancer, and Health Cohort. Environ. Health Perspect. 2015;123:557–563. doi: 10.1289/ehp.1408698. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+55. Kim K.N., Lee H., Kim J.H., Jung K., Lim Y.H., Hong Y.C. Physical Activity- and Alcohol-Dependent Association between Air Pollution Exposure and Elevated Liver Enzyme Levels: An Elderly Panel Study. J. Prev. Med. Public Health. 2015;48:151–169. doi: 10.3961/jpmph.15.014. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+56. Wong C.M., Ou C.Q., Thach T.Q., Chau Y.K., Chan K.P., Ho S.Y., Chung R.Y., Lam T.H., Hedley A.J. Does Regular Exercise Protect against Air Pollution-Associated Mortality? Prev. Med. 2007;44:386–392. doi: 10.1016/j.ypmed.2006.12.012. [PubMed] [CrossRef] [Google Scholar]
+57. De Zwart F., Brunekreef B., Timmermans E., Deeg D., Gehring U. Air Pollution and Performance-Based Physical Functioning in Dutch Older Adults. Environ. Health Perspect. 2018;126:1–9. doi: 10.1289/EHP2239. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+58. Stieb D.M., Shutt R., Kauri L.M., Roth G., Szyszkowicz M., Dobbin N.A., Chen L., Rigden M., Van Ryswyk K., Kulka R., et al. Cardiorespiratory Effects of Air Pollution in a Panel Study of Winter Outdoor Physical Activity in Older Adults. J. Occup. Environ. Med. 2018;60:673–682. doi: 10.1097/JOM.0000000000001334. [PubMed] [CrossRef] [Google Scholar]
+59. Yu H., An R., Andrade F. Ambient Fine Particulate Matter Air Pollution & Physical Activity: A Longitudinal Study of University Retirees in Beijing, China. Am. J. Health Behav. 2017;41:401–410. doi: 10.5993/AJHB.41.4.4. [PubMed] [CrossRef] [Google Scholar]
+60. Stieb D.M., Shutt R., Kauri L., Mason S., Chen L., Szyszkowicz M., Dobbin N.A., Rigden M., Jovic B., Mulholland M., et al. Cardio-Respiratory Effects of Air Pollution in a Panel Study of Outdoor Physical Activity and Health in Rural Older Adults. J. Occup. Environ. Med. 2017;59:356–364. doi: 10.1097/JOM.0000000000000954. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+61. Salicio M.A., Mana V.A.M., Fett W.C.R., Gomes L.T., Botelho C. Environmental Variables and Levels of Exhaled Carbon Monoxide and Carboxyhemoglobin in Elderly People Taking Exercise. Cien. Saude Colet. 2016;21:1023–1032. doi: 10.1590/1413-81232015214.14502015. [PubMed] [CrossRef] [Google Scholar]
+62. Alahmari A.D., Mackay A.J., Patel A.R.C., Kowlessar B.S., Singh R., Brill S.E., Allinson J.P., Wedzicha J.A., Donaldson G.C. Influence of Weather and Atmospheric Pollution on Physical Activity in Patients with COPD. Respir. Res. 2015;16:71. doi: 10.1186/s12931-015-0229-z. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+63. Delfino R.J., Gillen D.L., Tjoa T., Staimer N., Polidori A., Arhami M., Sioutas C., Longhurst J. Electrocardiographic ST-Segment Depression and Exposure to Traffic-Related Aerosols in Elderly Subjects with Coronary Artery Disease. Environ. Health Perspect. 2011;119:196–202. doi: 10.1289/ehp.1002372. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+64. Delfino R.J., Tjoa T., Gillen D.L., Staimer N., Polidori A., Arhami M., Jamner L., Sioutas C., Longhurst J. Traffic-Related Air Pollution and Blood Pressure in Elderly SubjectsWith Coronary Artery Disease. Epidemiology. 2010;21:396–404. doi: 10.1097/EDE.0b013e3181d5e19b. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+65. Lanki T., Hoek G., Timonen K.L., Peters A., Tiittanen P., Vanninen E., Pekkanen J. Hourly Variation in Fine Particle Exposure Is Associated with Transiently Increased Risk of ST Segment Depression. Occup. Environ. Med. 2008;65:782–786. doi: 10.1136/oem.2007.037531. [PubMed] [CrossRef] [Google Scholar]
+66. Lanki T., de Hartog J.J., Heinrich J., Hoek G., Janssen N.A.H., Peters A., Stölzel M., Timonen K.L., Vallius M., Vanninen E., et al. Can We Identify Sources of Fine Particles Responsible for Exercise-Induced Ischemia on Days with Elevated Air Pollution? The ULTRA Study. Environ. Health Perspect. 2006;114:655–660. doi: 10.1289/ehp.8578. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+67. Gold D.R., Litonjua A.A., Zanobetti A., Coull B.A., Schwartz J., MacCallum G., Verrier R.L., Nearing B.D., Canner M.J., Suh H., et al. Air Pollution and ST-Segment Depression in Elderly Subjects. Environ. Health Perspect. 2005;113:883–887. doi: 10.1289/ehp.7737. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+68. DeMeo D.L., Zanobetti A., Litonjua A.A., Coull B.A., Schwartz J., Gold D.R. Ambient Air Pollution and Oxygen Saturation. Am. J. Respir. Crit. Care Med. 2004;170:383–387. doi: 10.1164/rccm.200402-244OC. [PubMed] [CrossRef] [Google Scholar]
+69. Gong H., Linn W.S., Terrell S.L., Anderson K.R., Clark K.W., Sioutas C., Cascio W.E., Alexis N., Devlin R.B. Exposures of Elderly Volunteers with and without Chronic Obstructive Pulmonary Disease (COPD) to Concentrated Ambient Fine Particulate Pollution. Inhal. Toxicol. 2004;16:731–744. doi: 10.1080/08958370490499906. [PubMed] [CrossRef] [Google Scholar]
+70. Pekkanen J., Peters A., Hoek G., Tiittanen P., Brunekreef B., De Hartog J., Heinrich J., Ibald-Mulli A., Kreyling W.G., Lanki T., et al. Particulate Air Pollution and Risk of ST-Segment Depression during Repeated Submaximal Exercise Tests among Subjects with Coronary Heart Disease: The Exposure and Risk Assessment for Fine and Ultrafine Particles in Ambient Air (ULTRA) Study. Circulation. 2002;106:933–938. doi: 10.1161/01.CIR.0000027561.41736.3C. [PubMed] [CrossRef] [Google Scholar]
+71. Gold D.R., Litonjua A., Schwartz J., Lovett E., Larson A., Nearing B., Allen G., Verrier M., Cherry R., Verrier R. Ambient Pollution and Heart Rate Variability. Circulation. 2000;101:1267–1273. doi: 10.1161/01.CIR.101.11.1267. [PubMed] [CrossRef] [Google Scholar]
+72. Allred E.N., Bleecker E.R., Chaitman B.R., Dahms T.E., Gottlieb S.O., Hackney J.D., Pagano M., Selvester R.H., Walden S.M., Warren J. Short-Term Effects of Carbon Monoxide Exposure on the Exercise Performance of Subjects with Coronary Artery Disease. N. Engl. J. Med. 1989;321:1426–1432. doi: 10.1056/NEJM198911233212102. [PubMed] [CrossRef] [Google Scholar]
+73. Reisenauer C.S., Koenig J.Q., McManus M.S., Smith M.S., Kusic G., Pierson W.E. Pulmonary Response to Ozone Exposures in Healthy Individuals Aged 55 Years or Greater. J. Air Pollut. Control Assoc. 1988;38:51–55. doi: 10.1080/08940630.1988.10466353. [PubMed] [CrossRef] [Google Scholar]
+74. Drechsler-Parks D.M., Bedi J.F., Horvath S.M. Pulmonary Function Responses of Older Men and Women to Ozone Exposure. Exp. Gerontol. 1987;22:91–101. doi: 10.1016/0531-5565(87)90044-1. [PubMed] [CrossRef] [Google Scholar]
+75. Ao L., Zhou J., Han M., Li H., Li Y., Pan Y., Chen J., Xie X., Jiang Y., Wei J., et al. The Joint Effects of Physical Activity and Air Pollution on Type 2 Diabetes in Older Adults. BMC Geriatr. 2022;22:472. doi: 10.1186/s12877-022-03139-8. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+76. Stieb D., Shutt R.H., Kauri L.M., Mason-Renton S., Chen L., Szyszkowicz M., Dobbin N.A., Rigden M., Jovic B., Mulholland M., et al. Associations between Air Pollution and Cardio-Respiratory Physiological Measures in Older Adults Exercising Outdoors. Int. J. Environ. Health Res. 2021;31:901–914. doi: 10.1080/09603123.2019.1699506. [PubMed] [CrossRef] [Google Scholar]
+77. Besser L.M., Chang L.C., Evenson K.R., Hirsch J.A., Michael Y.L., Galvin J.E., Rapp S.R., Fitzpatrick A.L., Heckbert S.R., Kaufman J.D., et al. Associations between Neighborhood Park Access and Longitudinal Change in Cognition in Older Adults: The Multi-Ethnic Study of Atherosclerosis. J. Alzheimer’s Dis. 2021;82:221–233. doi: 10.3233/JAD-210370. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+78. Zhou Y., Yuan Y., Chen Y., Lai S. Association Pathways Between Neighborhood Greenspaces and the Physical and Mental Health of Older Adults—A Cross-Sectional Study in Guangzhou, China. Front. Public Health. 2020;8:1–14. doi: 10.3389/fpubh.2020.551453. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+79. Roe J., Mondschein A., Neale C., Barnes L., Boukhechba M., Lopez S. The Urban Built Environment, Walking and Mental Health Outcomes Among Older Adults: A Pilot Study. Front. Public Health. 2020;8:575946. doi: 10.3389/fpubh.2020.575946. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+80. Nuyts V., Nawrot T.S., Scheers H., Nemery B., Casas L. Air Pollution and Self-Perceived Stress and Mood: A One-Year Panel Study of Healthy Elderly Persons. Environ. Res. 2019;177:108644. doi: 10.1016/j.envres.2019.108644. [PubMed] [CrossRef] [Google Scholar]
+81. Balmes J.R., Arjomandi M., Bromberg P.A., Costantini M.G., Dagincourt N., Hazucha M.J., Hollenbeck-Pringle D., Rich D.Q., Stark P., Frampton M.W. Ozone Effects on Blood Biomarkers of Systemic Inflammation, Oxidative Stress, Endothelial Function, and Thrombosis: The Multicenter Ozone Study in Older Subjects (MOSES) PLoS ONE. 2019;14:1–22. doi: 10.1371/journal.pone.0222601. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+82. Rich D.Q., Balmes J.R., Frampton M.W., Zareba W., Stark P., Arjomandi M., Hazucha M.J., Costantini M.G., Ganz P., Hollenbeck-Pringle D., et al. Cardiovascular Function and Ozone Exposure: The Multicenter Ozone Study in OldEr Subjects (MOSES) Environ. Int. 2018;119:193–202. doi: 10.1016/j.envint.2018.06.014. [PubMed] [CrossRef] [Google Scholar]
+83. Sinharay R., Gong J., Barratt B., Ohman-Strickland P., Ernst S., Kelly F.J., Zhang J., Collins P., Cullinan P., Chung K.F. Respiratory and Cardiovascular Responses to Walking down a Traffic-Polluted Road Compared with Walking in a Traffic-Free Area in Participants Aged 60 Years and Older with Chronic Lung or Heart Disease and Age-Matched Healthy Controls: A Randomised, Crosso. Lancet. 2018;391:339–349. doi: 10.1016/S0140-6736(17)32643-0. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+84. Arjomandi M., Balmes J.R., Frampton M.W., Bromberg P., Rich D.Q., Stark P., Alexis N.E., Costantini M., Hollenbeck-Pringle D., Dagincourt N., et al. Respiratory Responses to Ozone Exposure MOSES (The Multicenter Ozone Study in Older Subjects) Am. J. Respir. Crit. Care Med. 2018;197:1319–1327. doi: 10.1164/rccm.201708-1613OC. [PubMed] [CrossRef] [Google Scholar]
+85. Dewulf B., Neutens T., Van Dyck D., de Bourdeaudhuij I., Int Panis L., Beckx C., Van de Weghe N. Dynamic Assessment of Inhaled Air Pollution Using GPS and Accelerometer Data. J. Transp. Health. 2016;3:114–123. doi: 10.1016/j.jth.2015.10.004. [CrossRef] [Google Scholar]
+86. Bartell S.M., Longhurst J., Tjoa T., Sioutas C., Delfino R.J. Particulate Air Pollution, Ambulatory Heart Rate Variability, and Cardiac Arrhythmia in Retirement Community Residents with Coronary Artery Disease. Environ. Health Perspect. 2013;121:1135–1141. doi: 10.1289/ehp.1205914. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+87. Drechsler-Parks D.M. The Dose-Response Relationship in Older Men Exposed to Ozone. Exp. Gerontol. 1995;30:65–75. doi: 10.1016/0531-5565(94)00051-4. [PubMed] [CrossRef] [Google Scholar]
+88. Bedi J.F., Horvath S.M., Drechsler-Parks D.M. Adaptation by Older Individuals Repeatedly Exposed to 0.45 Parts per Million Ozone for Two Hours. J. Air Pollut. Control Assoc. 1989;39:194–199. doi: 10.1080/08940630.1989.10466521. [PubMed] [CrossRef] [Google Scholar]
+89. Drechsler-Parks D.M., Bedi J.F., Horvath S.M. Pulmonary Function Responses of Older Men and Women to NO2. Environ. Res. 1987;44:206–212. doi: 10.1016/S0013-9351(87)80228-1. [PubMed] [CrossRef] [Google Scholar]
+90. World Health Organization Physical Activity. [(accessed on 3 March 2022)]. Available online: https://www.who.int/news-room/fact-sheets/detail/physical-activity
+91. Cunningham C., O’ Sullivan R., Caserotti P., Tully M.A. Consequences of Physical Inactivity in Older Adults: A Systematic Review of Reviews and Meta-Analyses. Scand. J. Med. Sci. Sport. 2020;30:816–827. doi: 10.1111/sms.13616. [PubMed] [CrossRef] [Google Scholar]
+92. Gładka A., Rymaszewska J., Zatoński T. Impact of Air Pollution on Depression and Suicide. Int. J. Occup. Med. Environ. Health. 2018;31:711–721. doi: 10.13075/ijomeh.1896.01277. [PubMed] [CrossRef] [Google Scholar]
+93. Lim Y.H., Kim H., Kim J.H., Bae S., Park H.Y., Hong Y.C. Air Pollution and Symptoms of Depression in Elderly Adults. Environ. Health Perspect. 2012;120:1023–1028. doi: 10.1289/ehp.1104100. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+94. Shi L., Steenland K., Li H., Liu P., Zhang Y., Lyles R.H., Requia W.J., Ilango S.D., Chang H.H., Wingo T., et al. A National Cohort Study (2000–2018) of Long-Term Air Pollution Exposure and Incident Dementia in Older Adults in the United States. Nat. Commun. 2021;12:6754. doi: 10.1038/s41467-021-27049-2. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+95. Sosa-Ortiz A.L., Acosta-Castillo I., Prince M.J. Epidemiology of Dementias and Alzheimer’s Disease. Arch. Med. Res. 2012;43:600–608. doi: 10.1016/j.arcmed.2012.11.003. [PubMed] [CrossRef] [Google Scholar]
+96. Woodward N., Pakbin P., Saffari A., Shirmohammadi F., Haghani A., Sioutas C., Cacciottolo M., Morgan T., Finch C. Traffic-Related Air Pollution Impact on Mouse Brain Accelerates Myelin and Neuritic Aging Changes with Specificity for CA1 Neurons HHS Public Access. Neurobiol Aging. 2017;53:48–58. doi: 10.1016/j.neurobiolaging.2017.01.007. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+97. Matsouka O., Kabitsis C., Harahousou Y., Trigonis I. Mood Alterations Following an Indoor and Outdoor Exercise Program in Healthy Elderly Women. Percept. Mot. Skills. 2005;100:707–715. doi: 10.2466/pms.100.3.707-715. [PubMed] [CrossRef] [Google Scholar]
+98. Schuch F.B., Vancampfort D., Rosenbaum S., Richards J., Ward P.B., Veronese N., Solmi M., Cadore E.L., Stubbs B. Exercise for Depression in Older Adults: A Meta-Analysis of Randomized Controlled Trials Adjusting for Publication Bias. Braz. J. Psychiatry. 2016;38:247–254. doi: 10.1590/1516-4446-2016-1915. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+99. Ricci N.A., Cunha A.I.L. Physical Exercise for Frailty and Cardiovascular Diseases. Adv. Exp. Med. Biol. 2020;1216:115–129. doi: 10.1007/978-3-030-33330-0_12. [PubMed] [CrossRef] [Google Scholar]
+100. An R., Zhang S., Ji M., Guan C. Impact of Ambient Air Pollution on Physical Activity among Adults: A Systematic Review and Meta-Analysis. Perspect. Public Health. 2018;138:111–121. doi: 10.1177/1757913917726567. [PubMed] [CrossRef] [Google Scholar]
+101. Cole-Hunter T., Jayaratne R., Stewart I., Hadaway M., Morawska L., Solomon C. Utility of an Alternative Bicycle Commute Route of Lower Proximity to Motorised Traffic in Decreasing Exposure to Ultra-Fine Particles, Respiratory Symptoms and Airway Inflammation--a Structured Exposure Experiment. Environ. Health. 2013;12:29. doi: 10.1186/1476-069X-12-29. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+102. Cole-Hunter T., Morawska L., Solomon C. Bicycle Commuting and Exposure to Air Pollution: A Questionnaire-Based Investigation of Perceptions, Symptoms, and Risk Management Strategies. J. Phys. Act. Health. 2015;12:490–499. doi: 10.1123/jpah.2013-0122. [PubMed] [CrossRef] [Google Scholar]
+103. Daigle C.C., Chalupa D.C., Gibb F.R., Morrow P.E., Oberdörster G., Utell M.J., Frampton M.W. Ultrafine Particle Deposition in Humans during Rest and Exercise. Inhal. Toxicol. 2003;15:539–552. doi: 10.1080/08958370304468. [PubMed] [CrossRef] [Google Scholar]
+104. Morici G., Cibella F., Cogo A., Palange P., Bonsignore M.R. Respiratory Effects of Exposure to Traffic-Related Air Pollutants During Exercise. Front. Public Health. 2020;8:575137. doi: 10.3389/fpubh.2020.575137. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+105. Hung A., Nelson H., Koehle M.S. The Acute Effects of Exercising in Air Pollution: A Systematic Review of Randomized Controlled Trials. Sport. Med. 2021;52:139–164. doi: 10.1007/s40279-021-01544-4. [PubMed] [CrossRef] [Google Scholar]
+106. Danesh Yazdi M., Wang Y., Di Q., Wei Y., Requia W.J., Shi L., Sabath M.B., Dominici F., Coull B.A., Evans J.S., et al. Long-Term Association of Air Pollution and Hospital Admissions among Medicare Participants Using a Doubly Robust Additive Model. Circulation. 2021;143:1584–1596. doi: 10.1161/CIRCULATIONAHA.120.050252. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+107. Simoni M., Baldacci S., Maio S., Cerrai S., Sarno G., Viegi G. Adverse Effects of Outdoor Pollution in the Elderly. J. Thorac. Dis. 2015;7:34–45. doi: 10.3978/J.ISSN.2072-1439.2014.12.10. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+108. Centers for Disease Control And Prevention National Diabetes Statistics Report Website. [(accessed on 19 January 2023)];2022 Available online: https://www.cdc.gov/diabetes/data/statistics-report/index.html
+109. Turner M.C., Andersen Z.J., Baccarelli A., Diver W.R., Gapstur S.M., Pope C.A., Prada D., Samet J., Thurston G., Cohen A. Outdoor Air Pollution and Cancer: An Overview of the Current Evidence and Public Health Recommendations. CA. Cancer J. Clin. 2020;70:460–479. doi: 10.3322/caac.21632. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+110. D’oliveira A., De Souza L.C., Langiano E., Falese L., Diotaiuti P., Vilarino G.T., Andrade A. Home Physical Exercise Protocol for Older Adults, Applied Remotely During the COVID-19 Pandemic: Protocol for Randomized and Controlled Trial. Front. Psychol. 2022;13:828495. doi: 10.3389/fpsyg.2022.828495. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+111. Diotaiuti P., Valente G., Mancone S., Falese L., Bellizzi F., Anastasi D., Langiano E., Dominski F.H., Andrade A. Perception of Risk, Self-Efficacy and Social Trust during the Diffusion of COVID-19 in Italy. Int. J. Environ. Res. Public Health. 2021;18:3427. doi: 10.3390/ijerph18073427. [PMC free article] [PubMed] [CrossRef] [Google Scholar]

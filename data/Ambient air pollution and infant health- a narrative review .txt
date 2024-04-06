@@ -1,0 +1,762 @@
+Summary
+The extensive evidence regarding the effects of ambient air pollution on child health is well documented, but limited review summarized their health effects during infancy. Symptoms or health conditions attributed to ambient air pollution in infancy could result in the progression of severe diseases during childhood. Here, we reviewed previous empirical epidemiological studies and/or reviews for evaluating the linkages between ambient air pollution and various infant outcomes including adverse birth outcomes, infant morbidity and mortality, early respiratory health, early allergic symptoms, early neurodevelopment, early infant growth and other relevant outcomes. Patterns of the associations varied by different pollutants (i.e., particles and gaseous pollutants), exposure periods (i.e., pregnancy and postpartum) and exposure lengths (i.e., long-term and short-term). Protection of infant health requires that paediatricians, researchers, and policy makers understand to what extent infants are affected by ambient air pollution, and a call for action is still necessary to reduce ambient air pollution.
+Keywords
+Ambient air pollution
+Infant health
+Review
+Health effect
+• View related content for this article
+
+Introduction
+The United Nations Sustainable Development Goals (SDGs) call for action to promote infant health by developing Target 3.2 of reducing neonatal mortality (less than 12 per 1000 livebirths) for all countries by 2030.1 Despite of the declined global child mortality in recent decades, progress remains slow in neonates and one-third of the 204 countries are not on track to meet SDG 3.2 target by 2030.1 The achievement of newborn survival goals depends on a multitude of diverse factors, which can either contribute to their success or lead to their failure. Herein, we focus on discussing ambient air pollution and infant health, which is a major contributor to the burden of disease worldwide.
+Ever since the London smog event of 1952, technology, society, and energy transitions have been driving an enormous change in ambient air pollution globally. Today, ambient air pollution is multi-pollutant mixtures of particles, vapours, and gases emitted from sources of fossil fuel combustion (i.e., industry, power generation, motorised traffic and anthropogenic heating) as well as non-combustion sources (i.e., emissions from livestock farming and the resuspension of soil and dust).2 Several health-related air pollutants are regularly monitored in air quality networks worldwide, including particulate matter (PM), ozone (O3), nitrogen dioxide (NO2), carbon monoxide (CO) and sulphur dioxide (SO2).3 Among these air pollutants, fine particulate matter (PM2.5) and O3 were regularly recorded in annual Global Burden of Disease (GBD) risk factor summaries, contributing to 4.14 million and 0.365 deaths in 2019 according to the newest data.4,5
+Numerous studies have already examined the associations between ambient air pollution and health outcomes among children, and the extensive evidence regarding the effects of ambient air pollution on child health is well documented.6 These associations start very early and persist from the pregnancy to childhood and adolescence, but limited review summarized their health effects during infancy.7 Particles and gaseous pollutants can be inhaled by mothers into the blood stream and impair the placental function by altering plasma viscosity, disturbing endothelial dysfunction, triggering intrauterine oxidative stress and inducing intrauterine inflammation.8 During the whole pregnancy, the above conditions might result in the decrease in trans-placental oxygen and nutrient transport, chronically affecting various health outcomes related to newborns. After birth, infants are extremely susceptible to air pollutants due to their relatively high metabolic rate with under-developed respiratory systems, and therefore they breathe more air per body weight than adults. An infant's developing organs, systems, and functions can all be harmed by ambient air pollution, which will continue to take a significant toll on developing children's physical and mental health. Symptoms or health conditions attributed to ambient air pollution in infancy could result in the progression of severe diseases during childhood. This review focused on previous empirical epidemiological studies and/or reviews for evaluating the linkages between ambient air pollution and infant health (Fig. 1). Paediatricians, researchers, and policy makers can benefit from knowing to what extent infants are affected by ambient air pollution.
+Figure thumbnail gr1
+Fig. 1Infant outcomes associated with ambient air pollution summarized by recent evidence.
+View Large ImageDownload Hi-res imageDownload (PPT)
+Ambient air pollution and adverse birth outcomes
+Adverse birth outcomes associated with ambient air pollution were the most studied topics of the assessed health impacts on newborns/infants. Adverse birth outcomes were sensitive to long-term prenatal PM exposure especially with smaller size fractions, including abnormal birth weight,9 preterm birth,10 congenital anomalies11 and stillbirth.12 Regarding different birth weight outcomes, the associations were mostly consistent between higher prenatal PM exposure and higher risks of birthweight reduction, low birth weight or small-for-gestational-age, while the associations were controversial between PM exposure and macrosomia or large-for-gestational-age.13 Miscarriage associated with ambient air pollution were less investigated without systematic review of quantitative synthesis, but prenatal exposure to PM appears to increase risks of miscarriage according to several high-quality surveys with large sample size across the world.14 More consistent findings were found regarding the health effects of PM instead of gaseous pollutants on adverse birth outcomes. Acute toxicity of PM can also trigger sudden and unexpected events during pregnancy. For example, short-term effects of PM2.5 and PM10 on preterm birth were summarized, and the exposure time windows were lag two and three days for PM2.5 (high heterogeneity) and two weeks prior to preterm birth for PM10 (small heterogeneity), despite the information of spontaneous preterm birth was not obtained.10 Recent evidence with limited studies also linked short-term gaseous pollutants to spontaneous abortion, although the outcome definitions varied.15 Among all adverse birth outcomes, the overall evidence was more pronounced for the whole pregnancy than trimester-specific exposure due to the different lengths of gestational age related to birth outcomes. On one hand, exposure periods of each trimester are defined based on gestational age, which might be subjected to exposure misclassification because of recall bias (i.e., uncertainty of self-reported last menstrual period).16 On the other hand, healthy survivor bias might exist because exposure in the early stage of pregnancy would shorten the gestational age of high-risk pregnancies vulnerable to ambient air pollution, introducing biased associations when calculating effect estimates for each trimester.17 These issues could be resolved through the validation of ultrasound biometry for gestational age and practical use of statistical analyses (i.e., time-to-event models with time-varying exposures16,17). These explanations and solutions could also shed light for similar investigations in other infant outcomes related to prenatal exposure mentioned in this review.
+Ambient air pollution and infant morbidity and mortality
+Over the past two decades, although the global number of newborn deaths declined from 3.8 million in 2000 to 2.4 million in 2019, the first 28 days of life remains the most vulnerable period for newborns’ survival.1 During this period, ambient air pollution might induce higher risks for neonatal morbidity and mortality. The effects of long-term exposure of ambient air pollution on infant mortality were less conclusive compared to their short-term effects. Broad-scale evidence comes from developed countries with low levels of pollution, indicating the only positive associations between short-term PM10 exposure and post-neonatal all-causes mortality (i.e., 28 days to 1 year) based on meta-analyses.18 In recent years, researchers focused on the effects of smaller particles especially in developing countries with higher levels of pollutants. For example, He et al.19 conducted a national study in China and reported that short-term exposure to PM2.5 was associated with a 1.51% (95%CI: 0.84–2.19%) increase in neonatal all-causes mortality (i.e., <28 days). Liao et al.20 constructed a nationally representative cohort in India and observed the adverse health effects of PM2.5 exposure during pregnancy and post-delivery on neonatal and infant mortality (i.e., <12 months) with the increase from 1.5% to 2.1%. Bachwenkizi et al.21 have further investigated the health effects of specific PM2.5 constituents in Africa, and they found that carbonaceous fractions and sulphate might play a major important role among PM2.5 constituents on infant mortality. The lag patterns for cause-specific mortality might vary little by different end-points, but their responses to different pollutants might be different. For example, short-term exposure to particles was associated with preterm birth complications (i.e., low birth weight, congenital abnormalities, etc.) and mortality from respiratory causes.19 Short-term gaseous pollutants exposure was found to be associated with a significant increase in sudden infant death syndrome, which is the sudden and unexplained death of an infant younger than one year old, with the latency of preceding days before death.22 More studies are needed to distinguish the magnitude of effect size regarding different types of mortality and the sensitive exposure windows.
+Ambient air pollution and early respiratory health
+It has been well documented that both long-term and short-term exposure to particles was associated with poorer lung function in children.23 Soon after birth, infants breathe in more polluted air at a higher frequency than adults, resulting in respiratory-related and lung-related symptoms or conditions during this period and reducing lung function development up to adolescence.24 Generally, infants were more sensitive to particles instead of gaseous pollutants with regards to the development of lung function. Epigenome-wide meta-analysis indicated that prenatal exposure to particles was associated with methylation differences in several genes related to respiratory health (i.e., FAM13A and NOTCH4).25 Preterm infants showed higher susceptibility to prenatal exposure to particles than term infants, leading to increased impairment of postnatal lung function contributed by the differences in inflammatory/oxidative stress response.26 During postnatal period, both long-term and short-term exposure to particles instead of gaseous pollutants were associated with acute lung function impairments related to airway calibre and lung volume.27,28 In addition, ambient air pollution might also increase the likelihood of both upper and lower respiratory infection among infants. For example, both long-term exposure to particles and acute exposure to gaseous pollutants were associated with increased risks of hospitalization for bronchiolitis after birth,29 and short-term exposure to particles was associated with the symptom severity among infants with bronchiolitis.30 The short-term effects on paediatric pneumonia have been meta-analysed, and all regulated air pollutants were associated with hospital admissions due to pneumonia among children aged under five years except for PM2.5.31 Although the effects were not examined only among infants due to the limited number of relevant studies, the meta-regression did not reveal age-specific effects.31 Most of the above-mentioned findings came from cohort studies with small sample size, meta-analyses with high heterogeneity or systematic review without quantitative synthesis, which might limit the generalizability of our interpretation.
+Ambient air pollution and early allergic symptoms
+As infants’ immune systems are still evolving at this stage, early exposure to ambient air pollution may also induce allergic symptoms. Several meta-analyses have reported significant associations of ambient air pollution with allergic diseases including asthma,32 allergic rhinitis33 among older children, and eczema,34 wheezing35 among younger children. These reviews summarized results of both short-term and long-term exposure with significant heterogeneity across studies and limited evidence from cohort studies. They revealed similar effect estimates when exposed to both particles and gaseous pollutants,32,33 highlighting the critical exposure windows in pregnancy.35 Although none of these reviews focused on infants, several perspective cohorts have attempted to investigate the associations as early as possible during infancy with inconsistent findings. Sbihi et al.36 found that early postnatal but not prenatal exposure to NO2 increased the risk for development of atopy to inhalant and food-related allergens among one-year-old infants. However, Gehring et al.37 observed null associations of exposure to PM2.5 and NO2 with allergic symptoms (i.e., wheezing, bronchial asthma, sneezing, runny and/or stuffed nose without a cold, etc.) among infants during the first or second year of life. Similarly, Rancière et al.38 observed null associations between NO2 exposure in the first year of life and early-transient signs of allergic symptoms (i.e., rhinitis and wheezing) within the first two years, and the associations became significant when considering persistent symptoms during the first four years. Recently, growing attention has focused on the impact of ambient air pollution on the altered microbiome of the respiratory tract in early life, which plays a significant role in maintaining airway immune homeostasis and health, as a potential mechanism by which air pollutants increases the risk for allergic diseases.39 Gisler et al.40 collected microbiota characterization using 846 nasal swab samplings of 47 healthy infants selected from a birth cohort in Switzerland, and they found that low-to-moderate exposure to both exposure to PM2.5 and NO2 were associated with the change of nasal microbiota during the first year of life. It should be noted that the change of nasal microbiome in early life has been shown to be associated with subsequent asthma development.40 Although current evidence on this topic remains scarce, this offers a potential explanation for the null association during infancy with the significant association after infancy.
+Ambient air pollution and early neurodevelopment
+Both pregnancy and infancy could be susceptible periods to ambient air pollution exposure for the normal brain development since the foetal brain is developing in the womb and continue to evolve rapidly in early childhood.41 Particles and gaseous pollutants can reach the infant's brain via inhalation either indirectly from the lungs into the bloodstream and crossing the blood–brain barrier42 or directly from the nose through the olfactory epithelium and binding to the olfactory neurons in the olfactory bulb.43 In 2022, the SAFeR study provided the first evidence that black carbon particles were present in both foetal brain and placenta during pregnancy.44 An altered placental expression of neurodevelopment related genes (BDNF and SYN1) could be also part of a potential mechanism via which particles might affect placental processes.45 The accumulated exposures of ambient air pollution can cause chronic brain inflammation, oxidative stress and microglia activation, linking to cognitive impairment and causing neurodevelopment disorders in children.46 For example, one recent review evaluated the associations between prenatal and/or postnatal exposure to ambient air pollution and specific neurodevelopmental skills among preschool- and school-age children.47 The most affected domains were global intellective functioning and attention or executive functions, and the most sensitive air pollutants were PM2.5 and NO₂.47 Another recent meta-analysis comprehensively reviewed the associations between ambient air pollution and neurodevelopment disorders during childhood, and it identified a significant association between particles and autism spectrum disorders, while evidence for other neurodevelopmental disorders remained unclear.48 Some cohorts have tracked the signs of early neurodevelopment related to ambient air pollution especially particles, and they have reported that prenatal exposure to particles was associated with (1) poor neurobehavioral performance and motor function of newborns49,50; (2) infant negative affectivity at age six months, which is a life-long temperamental trait related to the later development of behavioural and mental health in children51; (3) poor language development,52 psychomotor development53,54 and risk of suspected developmental delay55 among two-year-old infants. These studies highlighted the sensitive windows of pregnancy,49,  50,  51,  52,  53,  54,  55 and the associations might vary by neurodevelopmental subdomains and infant sex (i.e., stronger associations in girls49,51,55). In addition, the Jiangsu Birth Cohort in China provide the first evidence linking postnatal PM2.5 constituents, particularly with high ammonium concentration and non-optimal gross motor development among one-year-old infants.56 Although these studies were conducted using longitudinal design, their relatively small sample size might restrict the generalizability of the findings, which should be confirmed by further studies.
+Ambient air pollution and early infant growth
+Children undergo rapid physical development during infancy, and their weight gain and height growth increased quickly during the first two years.57 Early-life growth patterns are important predictors of subsequent cardiometabolic phenotypes.58 Air pollutants especially fine particles might induce adipose inflammation and insulin resistance causing reallocating energy at the price of abnormal infant growth.59 Meta-analyses have provided evidence regarding the associations of higher levels of ambient air pollution with higher risks of high blood pressure and obesity among children and adolescents,60,61 and these associations have already existed during infancy. Although studies regarding infant blood pressure were limited, both the Boston Birth cohort and the ENVIRONAGE birth cohort indicated that prenatal air pollution exposure, might affect offspring blood pressure from birth onwards.62,63 Adiposity outcomes associated with ambient air pollution have been studied more often. A prospective cohort of 62,540 births conducted in Wuhan, China indicated that high prenatal exposure of gaseous pollutants (NO2, SO2, and O3) were associated with higher risk of abnormal growth trajectory from birth to six years old.64 Another birth cohort of 10,547 births conducted in Beijing, China also found that prenatal exposure to submicron and fine particles were associated with an increased risk of weight gain for one-year-old infants.65 Similar findings were reported in Hispanic infants, and the cohort in Southern California indicated that both particles and gaseous pollutants were associated with higher body fat during the first six months.66 Epigenetic, microbial and molecular mechanisms might shed light on how ambient air pollution can affect infant growth. Prenatal PM2.5 exposure was associated with abnormal longitudinal growth via alteration of ARRDC3/IGF2/H19 methylation, which has the function related to weight gain.67,68 Megasphaera might function as mediator in the association between early postnatal PM2.5 exposure during birth−3rd month and abnormal infant growth at one year age, which are Gram-negative anaerobes enriched in people with metabolic syndromes, contributing to the microbial community of saliva, tongue dorsum and tonsils.69 In addition, molecular adaptations in placental mitochondrial DNA and mitochondrial mutational load were associated with postnatal consequence of abnormal infant growth induced by prenatal exposure to NO270 or PM2.5.71,72 Further studies are warranted to establish whether these epigenetic, microbial and molecular variability could explain the influence of ambient air pollution on infant growth.
+Ambient air pollution and other relevant outcomes
+In addition to the DNA methylation mentioned in the above sections, it has been reported that exposure to ambient air pollution during the 1000 days of life, from conception to two years, was associated with alterations of global DNA methylation patterns or the promoter methylation of candidate genes, measured in placenta or newborn cord blood, that are involved in other key biological processes (i.e., circadian rhythm, DNA repair, inflammation, cell differentiation and organ development).73,74 Moreover, telomeres are nucleoprotein complexes that located at the end of chromosomes to ensure prevention of genomic instability and complete replication of chromosomes, and their length might be shorten in newborns associated with prenatal exposure of ambient air pollution73 especially O3.75
+In the previous sections, we have already summarized that postnatal exposure to ambient air pollution was associated with early alterations of oral and nasal microbiota.40,69 The Southern California Mother's Milk Study also provide evidence that postnatal ambient air pollution was associated with the balance of the gut microbiota among six-month infants.76 These findings, although the sample size of these studies was generally small, indicated that postnatal exposure to ambient air pollution could alter microbiome dysbiosis in human beings.
+Several preliminary findings regarding other infant outcomes or biomarkers associated with ambient air pollution were also reported in recent years. Both prenatal and postnatal exposure to ambient air pollution especially gaseous pollutants were associated with a higher risk of neonatal hyperbilirubinemia, and the association was stronger in male newborns.77,78 Short-term exposure to particles was associated with acute otitis media among infants under two years of age.79 Prenatal exposure to PM10 was associated with some of the inflammation markers such as c-reactive proteins, alteration of immune response (i.e., decreased levels of CD4+ T cells) and cytokines.80 A pooled analyses of two birth cohorts in Stockholm revealed significant longitudinal associations of postnatal PM2.5 exposure and inflammation-related proteins at the proteome level, and similar associations with PM10 and NO2 among female infants.81 Prenatal exposure to particles and gaseous pollutants (i.e., NO2 and O3) were associated with some cardiometabolic or homeostasis biomarkers such as blood glucose, insulin and HOMA-IR among newborns.82,83
+Conclusion
+Epidemiological studies on ambient air pollution and infant health have been growing worldwide, comprising multi-city/country/centre studies, prospective cohort studies and observational studies with omics approaches. Our review provides comprehensive overview related to ambient air pollution and infant health, and ambient air pollution can affect various infant outcomes either indirectly through the health of the mother and the exposure period during pregnancy, or directly by affecting developing organs and systems, which could generate a permanent influence on human beings throughout the life course.84 Patterns of the associations varied by different pollutants (i.e., particles and gaseous pollutants), exposure periods (i.e., pregnancy and postpartum) and exposure lengths (i.e., long-term and short-term). The findings also showed heterogeneity, which could be probably due to the differences in the protocols or designs of the study, the variations of vulnerability of included sample, the characteristics of ambient air pollution, the exposure assessments and modelling, the outcome definitions and measurements, the use of statistical analyses and the selections of confounding adjustments.
+Today, ambient air pollution remains an important public health issue across the world especially in low and middle-income countries, and even low-level air pollution will still produce both acute and chronic effects on human health.2 We still have a long way to go, and a call for action is still necessary to reduce ambient air pollution.
+Outstanding questions
+We proposed two important challenges which remain to be solved in this area. First, although cohort design is optimal to reveal causality inference, this design is generally inefficient with long latency periods and a high loss to follow-up rate. Panel studies, a subtype of cohort, could be used to understand the short-term effects of ambient air pollution with the dynamics of changes in a short period. It should be noted that although panel design has been widely used to investigate associations between ambient air pollution and lung function or respiratory symptoms among older children,85 it is seldomly used targeting pregnant women or infants. Personalized interventions might be helpful to decrease exposure to ambient air pollution and mitigate their hazardous effects. Most of the previous interventions targeting pregnant women and children aged under five years with the aims to reduce household air pollution from solid biomass fuels, which has been shown to reduce the risks of adverse birth outcomes or acute respiratory infections.86 Previous studies have applied interventions targeting healthy adults (including pregnant women) to reduce individual exposure to ambient air pollution via educational interventions, masks, cycle routes, air quality alerts plus additional messaging and portable high efficiency particulate air (HEPA) filter air cleaner use.87,  88,  89 Specifically, HEPA filter air cleaner use during pregnancy was associated with greater birth weight among term-birth infants90 and improvements in obesity-related outcomes among two-year-old infants.91 However, to some extent, it might introduce unexpected ethic issues to design a randomized intervention targeting ambient air pollution among pregnant women or infants. Quasi-experimental approaches might be powerful to overcome ethic issues, which could observe the natural process of the health effects of ambient air pollution on infant health via large-scale events (i.e., Olympic and COVID-19) or environmental policies (i.e., the Clean Air Campaign in China and the Clean Air Act in the USA).8,92 Recent studies employing quasi-experimental designs have been increasing, and these studies indicated that air pollution abatement might reduce risks of adverse birth outcomes and infant mortality.92 We encouraged researchers to apply quasi-experimental techniques and panel design to investigate the role of ambient air pollution on infant outcomes, providing valuable evidence in addition to cohort and intervention design.
+Second, compared to the health effects of PM and NO2, the health effects of other ambient air pollutants such as O3, CO and SO2 were less investigated with limited evidence regarding their associations with infant health. For example, O3 at ground level is detrimental to human health especially for cardiorespiratory health as a strong oxidant. A recent review indicated that long-term O3 exposure decreases both lung function and lung function growth in children despite that none of the included studies up to 2020 targeted infants.93 In addition, regarding the health effects of PM, only few studies have differentiated the health effects of particles by considering their features related to chemical constituents, sources, and size fractions. Most studies have focused on investigating the effects of PM10 and PM2.5, while very few of them have evaluated the health effects of particles with smaller size fractions (i.e., PM1 or PM0.1) or their complex chemical compositions (i.e., organic carbon, inorganic carbon, inorganic ions, metallic and non-metallic elements). Human beings are exposed to multi-pollutant air pollution in a real-world scenario, and the health effects of single air pollutant can be confounded by other air pollutants. Currently, there is no consensus yet as to what a multi-pollutant approach involves for environmental epidemiology. Novel multi-pollutant approaches and exposomics have great application potential for studying the associations between multiple ambient air pollutants and infant health, which should be well addressed in future studies.94
+Search strategy and selection criteria
+Data for this Review were identified by searches of PubMed, and references from relevant articles using the search terms “air pollution” and “infant”. We reviewed identified studies that reported the associations between ambient air pollution and outcomes related to infant health. Abstracts and reports from meetings were included only when they related directly to previously published work. Only articles and/or reviews published in English for the past 5 years were included, and we also reviewed the references of all included papers and relevant reviews.
+Contributors
+Literature search: L.Z.L, J.H.C., Y.J.Y, and G.H.D.; Data collection: L.Z.L and G.H.D.; Data interpretation: L.Z.L, Y.J.Y, and G.H.D.; Writing: L.Z.L, J.H.C., Y.J.Y, and G.H.D. All authors read and approved the final version of the manuscript.
+Declaration of interests
+All authors have nothing to declare.
+Acknowledgements
+This work was supported by National Natural Science Foundation of China (No. 82103794), Guangxi Key Research and Development Plan (GUIKEAB18050024), the National Key Research and Development Program of China (No. 2018YFC1004300, 2018YFC1004301, 2018YFE0106900), China Association for Science and Technology Strategic Development support project (No. 2021ZZZLFZB1207053), and China Postdoctoral Science Foundation (General items in batch 71) (No. 2022M711433). The funders had no role in paper design, data collection, data analysis, interpretation, writing of the paper.
+References
+1.Collaborators G.B.D.U.-M.
+Global, regional, and national progress towards Sustainable Development Goal 3.2 for neonatal and child health: all-cause and cause-specific mortality findings from the Global Burden of Disease Study 2019.
+Lancet (London, England). 2021; 398: 870-905
+View in Article 
+Scopus (216)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+2.Bert B. Maciej S. Jie C. et al.
+Mortality and morbidity effects of long-term exposure to low-level PM2.5, BC, NO2, and O3: an analysis of European cohorts in the ELAPSE project.
+Res Rep Health Eff Inst. 2021; 208: 1-127
+View in Article 
+Google Scholar
+3.World Health O.
+WHO global air quality guidelines: particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide and carbon monoxide.
+World Health Organization, Geneva2021
+View in Article 
+Google Scholar
+4.Institute for Health Metrics and Evaluation (IHME)
+GBD 2019 cause and risk summary: ambient particulate matter pollution — level 4 risk.
+IHME, University of Washington, Seattle, USA2020
+Date accessed: March , 2022
+View in Article 
+Google Scholar
+5.Institute for Health Metrics and Evaluation (IHME)
+GBD 2019 cause and risk summary: ambient ozone pollution — level 3 risk.
+IHME, University of Washington, Seattle, USA2020
+Date accessed: March , 2022
+View in Article 
+Google Scholar
+6.Perera F. Nadeau K.
+Climate change, fossil-fuel pollution, and children's health.
+N Engl J Med. 2022; 386: 2303-2314
+View in Article 
+Scopus (143)
+PubMed
+Crossref
+Google Scholar
+7.Helldén D. Andersson C. Nilsson M. Ebi K.L. Friberg P. Alfvén T.
+Climate change and child health: a scoping review and an expanded conceptual framework.
+Lancet Planet Health. 2021; 5: e164-e175
+View in Article 
+Scopus (94)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+8.Zhang Q. Meng X. Shi S. Kan L. Chen R. Kan H.
+Overview of particulate air pollution and human health in China: evidence, challenges, and opportunities.
+Innovation (Camb). 2022; 3100312
+View in Article 
+Google Scholar
+9.Gong C. Wang J. Bai Z. Rich D.Q. Zhang Y.
+Maternal exposure to ambient PM(2.5) and term birth weight: a systematic review and meta-analysis of effect estimates.
+Sci Total Environ. 2022; 807150744
+View in Article 
+Google Scholar
+10.Yu Z. Zhang X. Zhang J. et al.
+Gestational exposure to ambient particulate matter and preterm birth: an updated systematic review and meta-analysis.
+Environ Res. 2022; 212113381
+View in Article 
+Google Scholar
+11.Ravindra K. Chanana N. Mor S.
+Exposure to air pollutants and risk of congenital anomalies: a systematic review and metaanalysis.
+Sci Total Environ. 2021; 765142772
+View in Article 
+Scopus (33)
+PubMed
+Crossref
+Google Scholar
+12.Xie G. Sun L. Yang W. et al.
+Maternal exposure to PM2.5 was linked to elevated risk of stillbirth.
+Chemosphere. 2021; 283131169
+View in Article 
+Scopus (21)
+Crossref
+Google Scholar
+13.Nyadanu S.D. Dunne J. Tessema G.A. et al.
+Prenatal exposure to ambient air pollution and adverse birth outcomes: an umbrella review of 36 systematic reviews and meta-analyses.
+Environ Pollut (Barking, Essex : 1987). 2022; 306119465
+View in Article 
+Scopus (38)
+Crossref
+Google Scholar
+14.Quenby S. Gallos I.D. Dhillon-Smith R.K. et al.
+Miscarriage matters: the epidemiological, physical, psychological, and economic costs of early pregnancy loss.
+Lancet (London, England). 2021; 397: 1658-1667
+View in Article 
+Scopus (474)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+15.Ha S. Ghimire S. Martinez V.
+Outdoor air pollution and pregnancy loss: a review of recent literature.
+Curr Epidemiol Rep. 2022; 9: 387-405
+View in Article 
+Crossref
+Google Scholar
+16.Chang H.H. Reich B.J. Miranda M.L.
+A spatial time-to-event approach for estimating associations between air pollution and preterm birth.
+J R Stat Soc Ser C Appl Stat. 2013; 62: 167-179
+View in Article 
+Scopus (18)
+PubMed
+Crossref
+Google Scholar
+17.Chang H.H. Warren J.L. Darrow L.A. Reich B.J. Waller L.A.
+Assessment of critical exposure and outcome windows in time-to-event analysis with application to air pollution and preterm birth study.
+Biostatistics (Oxford, England). 2015; 16: 509-521
+View in Article 
+Scopus (56)
+PubMed
+Crossref
+Google Scholar
+18.Karimi B. Shokrinezhad B.
+Air pollution and mortality among infant and children under five years: a systematic review and meta-analysis.
+Atmos Pollut Res. 2020; 11: 61-70
+View in Article 
+Scopus (41)
+Crossref
+Google Scholar
+19.He C. Liu C. Chen R. et al.
+Fine particulate matter air pollution and under-5 children mortality in China: a national time-stratified case-crossover study.
+Environ Int. 2022; 159107022
+View in Article 
+Scopus (23)
+PubMed
+Crossref
+Google Scholar
+20.Liao J. Liu Y. Steenland K. et al.
+Child survival and early lifetime exposures to ambient fine particulate matter in India: a retrospective cohort study.
+Environ Health Perspect. 2022; 130017009
+View in Article 
+Scopus (8)
+PubMed
+Crossref
+Google Scholar
+21.Bachwenkizi J. Liu C. Meng X. et al.
+Fine particulate matter constituents and infant mortality in Africa: a multicountry study.
+Environ Int. 2021; 156106739
+View in Article 
+Scopus (20)
+PubMed
+Crossref
+Google Scholar
+22.Chen Y.-T. Liu C.-L. Chen C.-J. et al.
+Association between short-term exposure to air pollution and sudden infant death syndrome.
+Chemosphere. 2021; 271129515
+View in Article 
+Scopus (9)
+Crossref
+Google Scholar
+23.Zhang W. Ma R. Wang Y. Jiang N. Zhang Y. Li T.
+The relationship between particulate matter and lung function of children: a systematic review and meta-analysis.
+Environ Pollut (Barking, Essex : 1987). 2022; 309119735
+View in Article 
+Scopus (24)
+Crossref
+Google Scholar
+24.Zhao Q. Kress S. Markevych I. et al.
+Air pollution during infancy and lung function development into adolescence: the GINIplus/LISA birth cohorts study.
+Environ Int. 2021; 146106195
+View in Article 
+Scopus (10)
+Crossref
+Google Scholar
+25.Gruzieva O. Xu C.-J. Yousefi P. et al.
+Prenatal particulate air pollution and DNA methylation in newborns: an epigenome-wide meta-analysis.
+Environ Health Perspect. 2019; 127057012
+View in Article 
+Scopus (100)
+PubMed
+Crossref
+Google Scholar
+26.Decrue F. Gorlanova O. Salem Y. et al.
+Increased impact of air pollution on lung function in preterm versus term infants: The BILD study.
+Am J Respir Crit Care Med. 2022; 205
+View in Article 
+Scopus (19)
+PubMed
+Crossref
+Google Scholar
+27.Muttoo S. Jeena P.M. Röösli M. et al.
+Effect of short-term exposure to ambient nitrogen dioxide and particulate matter on repeated lung function measures in infancy: a South African birth cohort.
+Environ Res. 2022; 213113645
+View in Article 
+Scopus (3)
+PubMed
+Crossref
+Google Scholar
+28.Lundberg B. Gruzieva O. Eneroth K. et al.
+Air pollution exposure impairs lung function in infants.
+Acta Paediatrica (Oslo, Norway : 1992). 2022; 111: 1788-1794
+View in Article 
+Scopus (8)
+PubMed
+Crossref
+Google Scholar
+29.King C. Kirkham J. Hawcutt D. Sinha I.
+The effect of outdoor air pollution on the risk of hospitalisation for bronchiolitis in infants: a systematic review.
+PeerJ. 2018; 6e5352
+View in Article 
+Scopus (15)
+PubMed
+Crossref
+Google Scholar
+30.Milani G.P. Cafora M. Favero C. et al.
+PM2.5, PM10 and bronchiolitis severity: a cohort study.
+Pediatr Allergy Immunol. 2022; 33e13853
+View in Article 
+Scopus (6)
+PubMed
+Crossref
+Google Scholar
+31.Nhung N.T.T. Amini H. Schindler C. et al.
+Short-term association between ambient air pollution and pneumonia in children: a systematic review and meta-analysis of time-series and case-crossover studies.
+Environ Pollut (Barking, Essex : 1987). 2017; 230: 1000-1008
+View in Article 
+Scopus (182)
+PubMed
+Crossref
+Google Scholar
+32.Zheng X.Y. Orellano P. Lin H.L. Jiang M. Guan W.J.
+Short-term exposure to ozone, nitrogen dioxide, and sulphur dioxide and emergency department visits and hospital admissions due to asthma: a systematic review and meta-analysis.
+Environ Int. 2021; 150106435
+View in Article 
+Scopus (92)
+Crossref
+Google Scholar
+33.Li S. Wu W. Wang G. et al.
+Association between exposure to air pollution and risk of allergic rhinitis: a systematic review and meta-analysis.
+Environ Res. 2022; 205112472
+View in Article 
+Scopus (44)
+Crossref
+Google Scholar
+34.Yue D. Shen T. Mao J. et al.
+Prenatal exposure to air pollution and the risk of eczema in childhood: a systematic review and meta-analysis.
+Environ Sci Pollut Res Int. 2022; 29: 48233-48249
+View in Article 
+Scopus (5)
+PubMed
+Crossref
+Google Scholar
+35.Bettiol A. Gelain E. Milanesio E. Asta F. Rusconi F.
+The first 1000 days of life: traffic-related air pollution and development of wheezing and asthma in childhood. A systematic review of birth cohort studies.
+Environ Health. 2021; 20: 46
+View in Article 
+Scopus (34)
+PubMed
+Crossref
+Google Scholar
+36.Sbihi H. Allen R.W. Becker A. et al.
+Perinatal exposure to traffic-related air pollution and atopy at 1 Year of age in a multi-center Canadian birth cohort study.
+Environ Health Perspect. 2015; 123: 902-908
+View in Article 
+Scopus (49)
+PubMed
+Crossref
+Google Scholar
+37.Gehring U. Cyrys J. Sedlmeir G. et al.
+Traffic-related air pollution and respiratory health during the first 2 yrs of life.
+Eur Respir J. 2002; 19: 690-698
+View in Article 
+Scopus (239)
+PubMed
+Crossref
+Google Scholar
+38.Ranciere F. Bougas N. Viola M. Momas I.
+Early exposure to traffic-related air pollution, respiratory symptoms at 4 years of age, and potential effect modification by parental allergy, stressful family events, and sex: a prospective follow-up study of the PARIS birth cohort.
+Environ Health Perspect. 2017; 125: 737-745
+View in Article 
+Scopus (52)
+PubMed
+Crossref
+Google Scholar
+39.Xue Y. Chu J. Li Y. Kong X.
+The influence of air pollution on respiratory microbiome: a link to respiratory disease.
+Toxicol Lett. 2020; 334: 14-20
+View in Article 
+Scopus (32)
+PubMed
+Crossref
+Google Scholar
+40.Gisler A. Korten I. de Hoogh K. et al.
+Associations of air pollution and greenness with the nasal microbiota of healthy infants: a longitudinal study.
+Environ Res. 2021; 202111633
+View in Article 
+Scopus (18)
+PubMed
+Crossref
+Google Scholar
+41.Binter A.-C. Kusters M.S.W. van den Dries M.A. et al.
+Air pollution, white matter microstructure, and brain volumes: periods of susceptibility from pregnancy to preadolescence.
+Environ Pollut (Barking, Essex : 1987). 2022; 313120109
+View in Article 
+Scopus (9)
+Crossref
+Google Scholar
+42.Qi Y. Wei S. Xin T. et al.
+Passage of exogeneous fine particles from the lung into the brain in humans and animals.
+Proc Natl Acad Sci U S A. 2022; 119e2117083119
+View in Article 
+Scopus (52)
+Crossref
+Google Scholar
+43.Wei W. Yan Z. Liu X. et al.
+Brain accumulation and toxicity profiles of silica nanoparticles: the influence of size and exposure route.
+Environ Sci Technol. 2022; 56: 8319-8325
+View in Article 
+Scopus (14)
+PubMed
+Crossref
+Google Scholar
+44.Bongaerts E. Lecante L.L. Bové H. et al.
+Maternal exposure to ambient black carbon particles and their presence in maternal and fetal circulation and organs: an analysis of two independent population-based observational studies.
+Lancet Planet Health. 2022; 6: e804-e811
+View in Article 
+Scopus (45)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+45.Saenen N.D. Plusquin M. Bijnens E. et al.
+In utero fine particle air pollution and placental expression of genes in the brain-derived neurotrophic factor signaling pathway: an ENVIRONAGE birth cohort study.
+Environ Health Perspect. 2015; 123: 834-840
+View in Article 
+Scopus (108)
+PubMed
+Crossref
+Google Scholar
+46.Yi C. Wang Q. Qu Y. Niu J. Oliver B.G. Chen H.
+In-utero exposure to air pollution and early-life neural development and cognition.
+Ecotoxicol Environ Saf. 2022; 238113589
+View in Article 
+Scopus (20)
+Crossref
+Google Scholar
+47.Castagna A. Mascheroni E. Fustinoni S. Montirosso R.
+Air pollution and neurodevelopmental skills in preschool- and school-aged children: a systematic review.
+Neurosci Biobehav Rev. 2022; 136104623
+View in Article 
+Scopus (25)
+PubMed
+Crossref
+Google Scholar
+48.Lin L.Z. Zhan X.L. Jin C.Y. Liang J.H. Jing J. Dong G.H.
+The epidemiological evidence linking exposure to ambient particulate matter with neurodevelopmental disorders: a systematic review and meta-analysis.
+Environ Res. 2022; 209112876
+View in Article 
+Scopus (17)
+Crossref
+Google Scholar
+49.Chen B. Huang S. He J. et al.
+Sex-specific influence of prenatal air pollutant exposure on neonatal neurobehavioral development and the sensitive window.
+Chemosphere. 2020; 254126824
+View in Article 
+Scopus (17)
+Crossref
+Google Scholar
+50.Iglesias-Vázquez L. Binter A.-C. Canals J. et al.
+Maternal exposure to air pollution during pregnancy and child's cognitive, language, and motor function: ECLIPSES study.
+Environ Res. 2022; 212113501
+View in Article 
+Scopus (6)
+PubMed
+Crossref
+Google Scholar
+51.Rahman F. Coull B.A. Carroll K.N. et al.
+Prenatal PM exposure and infant temperament at age 6 months: sensitive windows and sex-specific associations.
+Environ Res. 2022; 206112583
+View in Article 
+Scopus (11)
+PubMed
+Crossref
+Google Scholar
+52.Hurtado-Díaz M. Riojas-Rodríguez H. Rothenberg S.J. et al.
+Prenatal PM exposure and neurodevelopment at 2 years of age in a birth cohort from Mexico city.
+Int J Hyg Environ Health. 2021; 233113695
+View in Article 
+Scopus (17)
+PubMed
+Crossref
+Google Scholar
+53.Wang H. Zhang H. Li J. et al.
+Prenatal and early postnatal exposure to ambient particulate matter and early childhood neurodevelopment: a birth cohort study.
+Environ Res. 2022; 210112946
+View in Article 
+Scopus (13)
+Crossref
+Google Scholar
+54.Lertxundi A. Baccini M. Lertxundi N. et al.
+Exposure to fine particle matter, nitrogen dioxide and benzene during pregnancy and cognitive and psychomotor developments in children at 15 months of age.
+Environ Int. 2015; 80: 33-40
+View in Article 
+Scopus (80)
+PubMed
+Crossref
+Google Scholar
+55.Wang P. Zhao Y. Li J. et al.
+Prenatal exposure to ambient fine particulate matter and early childhood neurodevelopment: a population-based birth cohort study.
+Sci Total Environ. 2021; 785147334
+View in Article 
+Scopus (24)
+Crossref
+Google Scholar
+56.Xu X. Tao S. Huang L. et al.
+Maternal PM2.5 exposure during gestation and offspring neurodevelopment: findings from a prospective birth cohort study.
+Sci Total Environ. 2022; 842156778
+View in Article 
+Scopus (7)
+Crossref
+Google Scholar
+57.Vogelezang S. Santos S. Toemen L. Oei E.H.G. Felix J.F. Jaddoe V.W.V.
+Associations of fetal and infant weight change with general, visceral, and organ adiposity at school age.
+JAMA Netw Open. 2019; 2e192843
+View in Article 
+Scopus (26)
+PubMed
+Crossref
+Google Scholar
+58.Ward Z.J. Long M.W. Resch S.C. Giles C.M. Cradock A.L. Gortmaker S.L.
+Simulation of growth trajectories of childhood obesity into adulthood.
+N Engl J Med. 2017; 377: 2145-2153
+View in Article 
+Scopus (450)
+PubMed
+Crossref
+Google Scholar
+59.Sun Q. Yue P. Deiuliis J.A. et al.
+Ambient air pollution exaggerates adipose inflammation and insulin resistance in a mouse model of diet-induced obesity.
+Circulation. 2009; 119: 538-546
+View in Article 
+Scopus (589)
+PubMed
+Crossref
+Google Scholar
+60.Lin L. Li T. Sun M. et al.
+Global association between atmospheric particulate matter and obesity: a systematic review and meta-analysis.
+Environ Res. 2022; 209112785
+View in Article 
+Scopus (20)
+Crossref
+Google Scholar
+61.Yan M. Xu J. Li C. Guo P. Yang X. Tang N.-J.
+Associations between ambient air pollutants and blood pressure among children and adolescents: a systemic review and meta-analysis.
+Sci Total Environ. 2021; 785147279
+View in Article 
+Scopus (24)
+Crossref
+Google Scholar
+62.Madhloum N. Nawrot T.S. Gyselaers W. et al.
+Neonatal blood pressure in association with prenatal air pollution exposure, traffic, and land use indicators: an ENVIRONAGE birth cohort study.
+Environ Int. 2019; 130104853
+View in Article 
+Scopus (23)
+PubMed
+Crossref
+Google Scholar
+63.van Rossem L. Rifas-Shiman S.L. Melly S.J. et al.
+Prenatal air pollution exposure and newborn blood pressure.
+Environ Health Perspect. 2015; 123: 353-359
+View in Article 
+Scopus (67)
+PubMed
+Crossref
+Google Scholar
+64.Tan Y. Liao J. Zhang B. et al.
+Prenatal exposure to air pollutants and early childhood growth trajectories: a population-based prospective birth cohort study.
+Environ Res. 2021; 194110627
+View in Article 
+Scopus (14)
+Crossref
+Google Scholar
+65.Zhou S. Lin L. Bao Z. et al.
+The association of prenatal exposure to particulate matter with infant growth: a birth cohort study in Beijing, China.
+Environ Pollut (Barking, Essex : 1987). 2021; 277116792
+View in Article 
+Scopus (16)
+Crossref
+Google Scholar
+66.Patterson W.B. Glasson J. Naik N. et al.
+Prenatal exposure to ambient air pollutants and early infant growth and adiposity in the Southern California Mother's Milk Study.
+Environ Health. 2021; 20: 67
+View in Article 
+Scopus (22)
+PubMed
+Crossref
+Google Scholar
+67.Wang C. Plusquin M. Ghantous A. et al.
+DNA methylation of insulin-like growth factor 2 and H19 cluster in cord blood and prenatal air pollution exposure to fine particulate matter.
+Environ Health. 2020; 19: 129
+View in Article 
+Scopus (21)
+PubMed
+Crossref
+Google Scholar
+68.Cho H.-J. Lee S.-H. Lee S.-Y. et al.
+Mid-pregnancy PM2.5 exposure affects sex-specific growth trajectories via ARRDC3 methylation.
+Environ Res. 2021; 200111640
+View in Article 
+Scopus (11)
+PubMed
+Crossref
+Google Scholar
+69.Wu H. Dong C. Xiao W. et al.
+Associations between PM2.5 exposure and infant growth: a mediation analysis of oral microbiota.
+Sci Total Environ. 2022; 823153688
+View in Article 
+Scopus (6)
+Crossref
+Google Scholar
+70.Clemente D.B.P. Casas M. Janssen B.G. et al.
+Prenatal ambient air pollution exposure, infant growth and placental mitochondrial DNA content in the INMA birth cohort.
+Environ Res. 2017; 157: 96-102
+View in Article 
+Scopus (42)
+PubMed
+Crossref
+Google Scholar
+71.Cosemans C. Wang C. Alfano R. et al.
+In utero particulate matter exposure in association with newborn mitochondrial ND4L10550A>G heteroplasmy and its role in overweight during early childhood.
+Environ Health. 2022; 21: 88
+View in Article 
+Scopus (3)
+PubMed
+Crossref
+Google Scholar
+72.Brunst K.J. Hsu H.-H.L. Zhang L. et al.
+Prenatal particulate matter exposure and mitochondrial mutational load at the maternal-fetal interface: effect modification by genetic ancestry.
+Mitochondrion. 2022; 62: 102-110
+View in Article 
+Scopus (8)
+PubMed
+Crossref
+Google Scholar
+73.Isaevska E. Moccia C. Asta F. et al.
+Exposure to ambient air pollution in the first 1000 days of life and alterations in the DNA methylome and telomere length in children: a systematic review.
+Environ Res. 2021; 193110504
+View in Article 
+Scopus (60)
+PubMed
+Crossref
+Google Scholar
+74.Ghazi T. Naidoo P. Naidoo R.N. Chuturgoon A.A.
+Prenatal air pollution exposure and placental DNA methylation changes: implications on fetal development and Future Disease Susceptibility.
+Cells. 2021; 10: 3025
+View in Article 
+Scopus (24)
+PubMed
+Crossref
+Google Scholar
+75.Song L. Wu M. Wang L. et al.
+Ambient ozone exposure during pregnancy and telomere length in newborns: a prospective investigation in Wuhan, China.
+Environ Sci Pollut Res Int. 2022; 29: 62662-62668
+View in Article 
+Scopus (4)
+PubMed
+Crossref
+Google Scholar
+76.Bailey M.J. Holzhausen E.A. Morgan Z.E.M. et al.
+Postnatal exposure to ambient air pollutants is associated with the composition of the infant gut microbiota at 6-months of age.
+Gut Microb. 2022; 142105096
+View in Article 
+Scopus (13)
+Crossref
+Google Scholar
+77.Zhuang J. Hu J. Bei F. et al.
+Exposure to air pollutants during pregnancy and after birth increases the risk of neonatal hyperbilirubinemia.
+Environ Res. 2022; 206112523
+View in Article 
+Scopus (2)
+PubMed
+Crossref
+Google Scholar
+78.Chen C.-C. Chen S.-M. Chang Y.-Z. Sun H.-L. Ku M.-S.
+Maternal exposure to air pollution is associated with neonatal jaundice: a retrospective cohort study.
+J Pediatr. 2022; : 242
+View in Article 
+Google Scholar
+79.Park M. Han J. Park J. Jang M.-J. Park M.K.
+Particular matter influences the incidence of acute otitis media in children.
+Sci Rep. 2021; 1119730
+View in Article 
+Google Scholar
+80.Desai G. Chu L. Guo Y. Myneni A.A. Mu L.
+Biomarkers used in studying air pollution exposure during pregnancy and perinatal outcomes: a review.
+Biomarkers. 2017; 22: 489-501
+View in Article 
+Scopus (22)
+PubMed
+Crossref
+Google Scholar
+81.He S. Klevebro S. Baldanzi G. et al.
+Ambient air pollution and inflammation-related proteins during early childhood.
+Environ Res. 2022; 215114364
+View in Article 
+Scopus (7)
+Crossref
+Google Scholar
+82.Friedman C. Dabelea D. Bloemsma L.D. et al.
+Ambient air pollution during pregnancy and cardiometabolic biomarkers in cord blood.
+Environ Epidemiol (Philadelphia, Pa). 2022; 6e203
+View in Article 
+Google Scholar
+83.Heydari H. Najafi M.L. Akbari A. Rezaei H. Miri M.
+Prenatal exposure to traffic-related air pollution and glucose homeostasis: a cross-sectional study.
+Environ Res. 2021; 201111504
+View in Article 
+Scopus (10)
+PubMed
+Crossref
+Google Scholar
+84.Holgate S. Grigg J. Agius R. et al.
+Every breath we take: The lifelong impact of air pollution.
+(Report of a working party)2016
+View in Article 
+Google Scholar
+85.Li S. Williams G. Jalaludin B. Baker P.
+Panel studies of air pollution on children's lung function and respiratory symptoms: a literature review.
+J Asthma. 2012; 49: 895-910
+View in Article 
+Scopus (91)
+PubMed
+Crossref
+Google Scholar
+86.Woolley K.E. Dickinson-Craig E. Lawson H.L. et al.
+Effectiveness of interventions to reduce household air pollution from solid biomass fuels and improve maternal and child health outcomes in low- and middle-income countries: a systematic review and meta-analysis.
+Indoor Air. 2022; 32e12958
+View in Article 
+Scopus (12)
+PubMed
+Crossref
+Google Scholar
+87.Janjua S. Powell P. Atkinson R. Stovold E. Fortescue R.
+Individual-level interventions to reduce personal exposure to outdoor air pollution and their effects on people with long-term respiratory conditions.
+Cochrane Database Syst Rev. 2021; 8: CD013441
+View in Article 
+PubMed
+Google Scholar
+88.Jasemzadeh M. Khafaie M.A. Jaafarzadeh N. Araban M.
+Effectiveness of a theory-based mobile phone text message intervention for improving protective behaviors of pregnant women against air pollution: a randomized controlled trial.
+Environ Sci Pollut Res Int. 2018; 25: 6648-6655
+View in Article 
+Scopus (13)
+PubMed
+Crossref
+Google Scholar
+89.Araban M. Tavafian S.S. Zarandi S.M. Hidarnia A.R. Burri A. Montazeri A.
+A behavioral strategy to minimize air pollution exposure in pregnant women: a randomized controlled trial.
+Environ Health Prev Med. 2017; 22: 26
+View in Article 
+Scopus (13)
+PubMed
+Crossref
+Google Scholar
+90.Barn P. Gombojav E. Ochir C. et al.
+The effect of portable HEPA filter air cleaner use during pregnancy on fetal growth: the UGAAR randomized controlled trial.
+Environ Int. 2018; 121: 981-989
+View in Article 
+Scopus (29)
+PubMed
+Crossref
+Google Scholar
+91.Tamana S.K. Gombojav E. Kanlic A. et al.
+Portable HEPA filter air cleaner use during pregnancy and children's body mass index at two years of age: the UGAAR randomized controlled trial.
+Environ Int. 2021; 156106728
+View in Article 
+Scopus (10)
+PubMed
+Crossref
+Google Scholar
+92.Currie J. Ray S.H. Neidell M.
+Quasi-experimental studies suggest that lowering air pollution levels benefits infants' and children's health.
+Health Aff. 2011; 30: 2391-2399
+View in Article 
+Scopus (28)
+Crossref
+Google Scholar
+93.Holm S.M. Balmes J.R.
+Systematic review of ozone effects on human lung function, 2013 through 2020.
+Chest. 2022; 161: 190-201
+View in Article 
+Scopus (38)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+94.Fang M. Hu L. Chen D. et al.
+Exposome in human health: utopia or wonderland?.
+Innovation (Camb). 2021; 2100172
+View in Article 
+Google Scholar
+Article info
+Publication history
+Published: May 09, 2023
+Accepted: April 24, 2023
+Received in revised form: March 26, 2023
+Received: January 27, 2023
+Identification
+DOI: https://doi.org/10.1016/j.ebiom.2023.104609
+
+Copyright
+© 2023 The Author(s). Published by Elsevier B.V.
+User license
+Creative Commons Attribution – NonCommercial – NoDerivs (CC BY-NC-ND 4.0) | How you can reuse Information Icon
+ScienceDirect
+Access this article on ScienceDirect

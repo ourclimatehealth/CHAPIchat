@@ -1,0 +1,281 @@
+Air pollution and risk of chronic obstructed pulmonary disease: The modifying effect of genetic susceptibility and lifestyle
+Lulin Wang,a,b Junqing Xie,c Yonghua Hu,d and Yaohua Tiana,b,⁎
+Author information Article notes Copyright and License information PMC Disclaimer
+Associated Data
+Supplementary Materials
+Go to:
+Summary
+Background
+The effect of long-term exposure to air pollution on the development of chronic obstructive pulmonary disease (COPD) is still controversial, and the role of the interactions of air pollution with genetic risk and lifestyle in COPD risk is unclear.
+
+Methods
+We included 452762 participants derived from the UK Biobank. Annual concentrations of air pollutions, including particle matter (PM2.5, PM10), nitrogen oxides (NOx), and nitrogen dioxide (NO2), were assessed using land-use regression model. We applied Cox proportional hazard model to evaluate the associations between air pollution and COPD risk. In addition, we constructed a polygenic risk score and a lifestyle score, and assessed whether genetic susceptibility and lifestyle modified the effect of air pollution on the COPD risk.
+
+Findings
+Each interquartile range (IQR) increase in annual concentrations of PM2.5, PM10, NOx, and NO2 was associated with 1.17 (95% CI: 1.15,1.19), 1.05 (95% CI: 1.03,1.06), 1.13 (95% CI: 1.11,1.14), and 1.19 (95% CI: 1.16,1.21) times the risk of COPD, respectively. We observed an additive interaction between PM2.5 and genetic risk (P-interact=0.095), and a negative interaction between PM2.5 and lifestyle (P-interact=0.062). The HRs for each IQR increase in PM2.5 were 1.21, (95% CI: 1.16-1.25) and 1.24, (95% CI: 1.21-1.26) in individuals with healthy and unfavourable lifestyle, respectively; and 1.16, (95% CI: 1.13-1.19) and 1.19, (95% CI: 1.16-1.22) in those with low genetic risk and high genetic risk, respectively. Participants with high air pollution exposure, high genetic risk and unfavourable lifestyle showed the highest risk of COPD.
+
+Interpretation
+Long-term exposure to air pollution was associated with increased risk of COPD, especially in those with high genetic risk and unfavourable lifestyle.
+
+Funding
+None.
+
+Keywords: Air pollution, Chronic obstructive pulmonary disease, Genetic susceptibility, Lifestyle
+Research in Context
+Evidence before this study
+Chronic obstructive pulmonary disease (COPD) is the third leading cause of death worldwide. Air pollution exposure is considered an important risk factor for COPD, and genetic susceptibility and lifestyle are also involved in development of COPD. We searched PubMed and Google Scholar for related studies until September 30, 2021. We used keywords: (“air pollution” OR “air pollutants” OR “particulate matter” OR “PM2.5” OR “PM10” OR “nitrogen oxides” OR “nitrogen dioxide” OR “NOx” OR “NO2”) AND (“chronic obstructive pulmonary disease” OR “COPD”) for studies that evaluated the associations between air pollution exposure and COPD risk. We additionally added keywords: (“genetic” OR “gene”) OR (“lifestyle” OR “smoking” OR “smoke” OR “cigarette” OR “dinking” OR “drink” OR “alcohol” OR “diet” OR “physical activity”) for studies on the modification effects of genetic risk and lifestyle on these associations. Although several studies have explored the association between long-term air pollution exposure and COPD risk, the existent evidence is still controversial. To date, whether genetic susceptibility and lifestyle could modify the impact of air pollution exposure on COPD risk is still unclear.
+
+Added value of this study
+To our knowledge, this is the first nationwide cohort study to evaluate the modification effects of genetic risk and overall lifestyle on the associations between air pollution and COPD risk. Our study showed that long-term exposures to particle matter with diameters ≤2.5 µm (PM2.5), ≤10 µm (PM10), and nitrogen oxides (NOx,) and nitrogen dioxide (NO2) were positively associated with risk of COPD. We observed significant interactions of PM2.5 exposure with genetic risk and lifestyle. The adverse effects of PM2.5 were stronger in individuals with high genetic risk and unfavourable lifestyle. We also provided quantitative data about the effects of the interactions of high air pollution exposure with high genetic risk and healthy lifestyle. Participants with high air pollution exposure, high genetic risk, and unfavourable lifestyle showed the highest risk of COPD.
+
+Implications of all the available evidence
+Our study adds to the small but emerging evidence base indicating that long-term exposure to air pollution is associated with increased risk of COPD. In addition, we also provide evidence on the modification effects of genetic susceptibility and lifestyle on the association between air pollution exposure and COPD risk. Our findings indicated that the reduction in air pollution levels and improvement in lifestyle might be effective interventions in reducing the risk of COPD, especially in those with high genetic risk.
+
+Alt-text: Unlabelled box
+
+Go to:
+Introduction
+Chronic obstructive pulmonary disease (COPD) is the third leading cause of death worldwide, leading to over 3 million deaths every year.1 COPD is characterized by persistent respiratory symptoms and progressive airflow obstruction, and environmental exposures to harmful gases and particles are important risk factors for development of COPD.2 Because of the anatomic position and the respiratory functions, the respiratory system is continuously in contact with harmful air pollution in the atmosphere, and is the main target of their toxic effect. Some previous studies have demonstrated the adverse effects of air pollution, especially particle matter (PM) and nitrogen oxides (NOx), on COPD risk,3,4 and the function of air pollution in the elicitation of inflammatory injury and oxidative damage played important roles in these associations.5 However, the role of air pollution in the development of COPD based on results of extant studies is still controversial.6,7
+
+In addition, individual factors including genetics and lifestyle were also deeply involved in the pathogenesis of COPD.8,9 It is likely that COPD not only results from multiple genetic factors but also their interactions with a number of environmental agents.10 The genome-wide association studies (GWASs) have successfully identified genetic loci associated with COPD,11 and the interactions between genetics and tobacco use were also demonstrated in a few studies.12 Moreover, a set of common, modifiable lifestyle factors, including smoking, drinking alcohol, unhealthy diet, and physical inactivity, were thought to underlie noncommunicable diseases, which were integrated in the operational policies, strategies or action plans in most countries.9 Evidence from previous studies suggested that these four lifestyle behaviours were significantly associated with the risk of COPD.13, 14, 15 However, no study has evaluated the interactions of air pollution exposure with genetic susceptibility and overall lifestyle on COPD risk, which may advance some reasonable proposals to the targeted intervention in development of COPD.
+
+The present study was derived from UK Biobank, a nation-wide population-based prospective study. We aimed to assess the associations between air pollution exposure and risk of COPD. Moreover, we further explored whether genetic susceptibility and lifestyle could modify the impact of air pollution exposure on COPD risk.
+
+Go to:
+Methods
+Study population
+This study was derived from the UK Biobank, which is an ongoing population-based prospective cohort study.16 The UK Biobank enrolled approximately 0.5 million participants (aged from 37 to 73 years old) across the UK at baseline during 2006 to 2010, and collected extensive phenotype and genotypic details, including information obtained from questionnaire, physical measurements, sample assays, genome-wide genotyping, and longitudinal follow-up for a wide range of health-related outcomes.16 More details of study protocol of UK Biobank have been described before.16
+
+In the present study, we excluded participants without available data about air pollutants exposure (n=41303), and those had history of COPD (self-reported COPD diagnosed by doctor) or developed COPD before December 31 in 2010 (identified from hospital inpatient records based on ICD-10 codes) (n=9359). There were 452762 participants finally included in our analysis. To explore the joint effect of air pollution and genetic risk on COPD, 396593 participants with available data on genome-wide genotyping were included for gene-related analyses.
+
+Air pollution
+The annual concentrations of air pollutants were assessed using land use regression (LUR)-based model, including particle matter with diameter < 2.5μm (PM2.5), particle matter with diameter < 10μm (PM10), nitrogen oxides (NOx), and nitrogen dioxide (NO2). The LUR model was developed by the ESCAPE project,17,18 and was conducted according to the geographic predictor variables obtained from the Geographical Information System such as traffic, land use, and topography. Leave-one-out cross-validations showed good model performance for the four air pollutants (cross-validation R2 ranges from 77% to 88%). In the present study, we used the annual average levels of air pollutants in 2010 as individual exposures.
+
+Ascertainment of chronic obstructive pulmonary disease and death
+All participants were followed until the date of COPD events occurred or death, or end of follow-up on December 31, 2020, whichever came first. Incident COPD was ascertained in the national hospital registers using International Classification Disease (ICD-10) codes (J40-J44) via linkage with hospital admission data (https://www.ukbiobank.ac.uk/wp-content/uploads/2011/11/UKBiobank-Protocol.pdf). In addition, the death was ascertained with death registry records.
+
+Genetic risk score
+The UK Biobank genetic data were assayed using two similar genotyping arrays, the UK Biobank Lung Exome Variant Evaluation (UK BiLEVE) study and UK BiLEVE Axiom. Genotyping was carried out by Affymetrix Research Services Laboratory in 106 sequential batches of approximately 4,700 samples. Affymetrix applied a custom genotype calling pipeline and quality filtering optimized for biobank-scale genotyping experiments and the novel genotyping arrays, which contain markers that had not been previously typed using Affymetrix technology. More details about genotyping process in the UK Biobank study are described elsewhere.19 In the present study, we selected 22 independent single nucleotide polymorphisms (SNPs), which were considered significantly associated with COPD in a genome-wide association study.11 (see Supplemental Table 1) We calculated the weighted genetic risk score using the following formula: Weightedgeneticrisk=(∑𝑛𝑖=1𝛽𝑖𝑆𝑁𝑃𝑖)*𝑛/∑𝑛𝑖=1𝛽𝑖,20,21 where the SNP was the number of risk allele (recorded as 0, 1, 2) and the β coefficient for each SNP was obtained from stage Ⅰ analysis in a genome-wide association study.11 We divided participants into two groups by median: low and high genetic risk groups.
+
+Healthy lifestyle
+The lifestyle score was determined according to four modifiable factors, namely smoking status, drinking status, diet, and physical activity. All information on these factors were obtained from a touchscreen questionnaire at baseline. Smoking/drinking status was defined as current or not current smoker/drinker. Regular physical activity was defined as having moderate activities ≥ 150 min/week or vigorous activities ≥ 75 min/week or combination.22 A healthy diet was assessed based on the intake of 7 dietary components (fruit, vegetables, fish, processed meat, red meat, whole grain, and refined grain) following the recommended dietary priorities for cardiometabolic health.23 Participants who met more than 4 of 7 dietary criteria were considered to have healthy diet. Details about definitions of the 4 modifiable factors are presented in Supplemental Table 2. Lifestyle score ranged from 0 to 4, with the higher score representing the healthier lifestyle. We then categorized lifestyle score as unfavourable lifestyle (<3 scores) and healthy lifestyle (≥3 scores). Participants with unidentified status of lifestyle factors for missing values were treated as not having optimal status. For instance, participants with missing information on physical activity were considered as not having regular physical activity (see Supplemental Table 3).
+
+Covariates
+Information about other covariates were also collected through a touch screen questionnaire, including age, sex, race, educational level, household income, and employment status. Race was categorized as white or non-white race. The employment status was considered as paid employment and unpaid employment. Educational level was categorized as college or University degree, A level/AS levels or equivalent, O levels/GCSEs or CSEs or equivalent, NVQ or HND or HNC or equivalent or other professional qualifications, and none of the above. Household income was divided into four grades: less than £18,000, £18,000 to £30,999, £31,000 to £51,999, and greater than £52,000. Body mass index value is constructed from height and weight.
+
+Statistical analysis
+The characteristics of included participants were described using median (IQR) for abnormally distributed variables, mean (standard deviation) for normally distributed variables, and number (proportion) for categorical variables. We applied Cox proportional hazard model to assess the associations of air pollution (continuous and categorized by quartiles) exposure with risk of COPD. Model 1 showed crude associations. In model 2, we adjusted for age, sex, and race to control potential confounding from individual factors. In model 3, we additionally adjusted for body mass index, employment status, household income, educational levels, smoking status, drinking status, diet, and physical activity based on model 2 to rule out the influence of sociodemographic characteristics and health behaviours. All covariates included in our analyses were identified based on current literature. The results were presented as per interquartile range (IQR) increase in air pollution levels.
+
+To explore the modification effects of genetic susceptibility and lifestyle, we fitted separated models for participants with low genetic risk and those with high genetic risk, and for those with unfavourable lifestyle and those with healthy lifestyle. The associations between air pollution exposure and risk of COPD in 4 separate groups according to genetic risk (low and high) and lifestyle (unfavourable and healthy) were also evaluated. The modification effect was tested by including interaction terms between air pollution exposure and modifiable factors (genetic susceptibility and lifestyle). We applied the Wald test24 to assess the difference in associations of air pollution with risk of COPD between subgroups, and P<0.1 was considered as statistically significant. Analyses about associations of long-term exposure to air pollutants and risk of COPD according to lifestyle score (0∼4) and quartiles of genetic risk were also performed. In addition, we also applied a SAS Program developed by Lundberg et al.25 to calculate the relative excess risk (RERI) and the attributable proportion (AP) due to interaction and their 95% confidence interval, which have been proposed as measures of interaction in epidemiologic studies.26 In these calculations, we defined high PM2.5 (≥ 10 μg/m3), PM10 (≥ 20 μg/m3), and NO2 (≥ 40 μg/m3) according to the WHO air quality guidelines, and high NOx was defined as ≥ 42.21 μg/m3 (the median level of NOx). The low air pollution exposure, low genetic risk, and unfavourable lifestyle were considered as references. Moreover, we also assessed the risk of COPD in 8 separate groups based on the air pollution exposure (low and high), genetic risk (low and high), and lifestyle (unfavourable and healthy). Individuals with high air pollution exposure, high genetic risk and unfavourable lifestyle were treated as reference. Missing values of categorical variables were coded as a missing indicator category.
+
+To test the robustness of our results, we conducted a series of sensitivity analyses: (1) excluding participants with missing covariates; (2) excluding participants with COPD occurred within 1 year of follow up; (3) excluding participants staying at the current address less than 1 or 5 years; (4) assuming participants with unidentifiable lifestyle status as having optimal status, or excluding them. All statistical analyses were conducted using SAS (version 9.4; SAS Institute Inc.). Two-sided P<0.05 was considered statistically significant.
+
+Ethics
+Summary data was used and as such ethical approval was not required.
+
+Role of Funders
+This study was not funded.
+
+Go to:
+Results
+There were 452762 participants with median age of 58.00 (IQR: 50.00-63.00) years old included in our study. Characteristics of included participants are presented in Table 1. The mean body mass index was 27.42 (4.78) kg/m2. Among them, 205833 (45.46%) were males, and white race accounted for 93.77% (424575). During 9.63±1.46 years of follow up, 15652 cases of COPD were identified. Compared with participants with COPD, those without COPD tended to be younger (median: 57.00 vs 62.00 years old) and had lower body mass index (mean: 27.39 vs 28.41 kg/m2), and be in paid employment (58.45% vs 31.94%), had higher household income (greater than £52,000, 22.31% vs 6.75%) and college or university degree (32.33% vs 14.11%). There were 41.00% (179200) having healthy lifestyle in participants without COPD, which was similar to that in all participants (40.43%, 183039), while only 24.53% (3839) participants had healthy lifestyle among those with COPD. Table 2 shows the distribution of air pollutants. The median (IQR) concentrations of PM2.5, PM10, NOx, and NO2 were 9.93 (9.29-10.56), 16.03 (15.25-17.01), 42.21 (34.18-50.71), and 26.12 (21.36-31.22) μg/m3, respectively. Characteristics of 396593 participants included for analysis of genetic risk are presented in Supplemental Table 4, and those of 41303 participants excluded for missing estimates of air pollution are presented in Supplemental Table 5.
+
+Table 1
+Characteristics of participants included (n=452762).
+
+Characteristics	Total participants (n=452762)	Participants without COPD (n=437110)	Participants with COPD (n=15652)
+Age, year	58.00 (50.00-63.00)	57.00 (50.00-63.00)	62.00 (57.00-66.00)
+Body mass index, kg/m2	27.42 (4.78)	27.39 (4.75)	28.41 (5.57)
+Male, %	205833 (45.46)	197495 (45.18)	8338 (53.27)
+White race, %	424575 (93.77)	409530 (93.69)	15045 (96.12)
+Employment, %			
+Paid employment	260482 (57.53)	255483 (58.45)	4999 (31.94)
+Not paid employment	186993 (41.30)	176552 (40.39)	10441 (66.71)
+Missing data	5287 (1.17)	5075 (1.16)	212 (1.35)
+Household income, %			
+Less than £18,000	86137 (19.02)	80193 (18.35)	5944 (37.98)
+£18,000 to £30,999	97840 (21.61)	94427 (21.60)	3413 (21.81)
+£31,000 to £51,999	100174 (22.13)	98310 (22.49)	1864 (11.91)
+Greater than £52,000	98569 (21.77)	97513 (22.31)	1056 (6.75)
+Missing data	70042 (15.47)	66667 (15.25)	3375 (21.56)
+Educational level, %			
+College or University degree	143547 (31.70)	141339 (32.33)	2208 (14.11)
+A level/AS levels or equivalent	49791 (11.00)	48731 (11.15)	1060 (6.77)
+O levels/GCSEs or CSEs or
+equivalent	122926 (27.15)	119442 (27.33)	3484 (22.26)
+NVQ or HND or HNC or equivalent or other professional qualifications	52561 (11.61)	50276 (11.50)	2285 (14.60)
+None of the above	74597 (16.48)	68500 (15.67)	6097 (38.95)
+Missing data	9340 (2.06)	8822 (2.02)	518 (3.31)
+Healthy lifestyle, %	183039 (40.43)	179200 (41.00)	3839 (24.53)
+Not current smoker, %	404577 (89.36)	394446 (90.24)	10131 (64.73)
+Not current drinker, %	35960 (7.94)	34158 (7.81)	1802 (11.51)
+Healthy diet, %	339187 (74.92)	329659 (75.42)	9528 (60.87)
+Regular physical activity, %	229764 (50.75)	223107 (51.04)	6657 (42.53)
+Open in a separate window
+Abbreviations: COPD, chronic obstructive pulmonary disease.
+
+The distributions of age and body mass index were described using median (interquartile range) and mean (standard deviation), respectively.
+
+Table 2
+Distribution of air pollutants.
+
+Air pollutants	Mean (SD)	5th	25th	50th (median)	75th	95th
+PM2.5, μg/m3	9.99 (1.06)	8.29	9.29	9.93	10.56	11.86
+PM10, μg/m3	16.24 (1.90)	13.21	15.25	16.03	17.01	20.24
+NOx, μg/m3	43.97 (15.63)	22.97	34.18	42.21	50.71	71.16
+NO2, μg/m3	26.64 (7.63)	15.00	21.36	26.12	31.22	39.56
+Open in a separate window
+Table 3 presents association between air pollution and risk of COPD. Each interquartile range (IQR) increase in annual concentrations of PM2.5, PM10, NOx, and NO2 was associated with 1.17 (95% CI: 1.15,1.19), 1.05 (95% CI: 1.03,1.06), 1.13 (95% CI: 1.11,1.14), and 1.19 (95% CI: 1.16,1.21) times the risk of COPD, respectively, after adjusting for potential confounders. Similar associations were observed when the concentrations of air pollutions were included as categorical variables (quartiles) (see Supplemental Table 6). The exclusion of participants with missing covariates, participants with events of COPD occurred within 1 year of follow- up, or participants staying at current address less than 1 or 5 years did not alter these associations (see Supplemental Tables 7–9).
+
+Table 3
+Associations between long-term exposure to air pollutants (per IQR increase) and risk of chronic obstructive pulmonary disease (n=452762).
+
+Air pollutants	Cases/N	Model 1
+Model 2
+Model 3
+HR (95% CI)	P-value	HR (95% CI)	P-value	HR (95% CI)	P-value
+PM2.5	15652/452762	1.27 (1.25, 1.29)	<.001	1.34 (1.32, 1.37)	<.001	1.17 (1.15, 1.19)	<.001
+PM10	15652/452762	1.08 (1.07, 1.10)	<.001	1.11 (1.09, 1.12)	<.001	1.05 (1.03, 1.06)	<.001
+NOx	15652/452762	1.18 (1.16, 1.19)	<.001	1.22 (1.21, 1.24)	<.001	1.13 (1.11, 1.14)	<.001
+NO2	15652/452762	1.25 (1.22, 1.27)	<.001	1.34 (1.31, 1.36)	<.001	1.18 (1.16, 1.21)	<.001
+Open in a separate window
+Model 1: crude.
+
+Model 2: Adjusted for age, sex, and race.
+
+Model 3: Adjusted for age, sex, race, body mass index, employment status, household income, educational level, smoking status, drinking status, diet, and physical activity.
+
+The associations of genetic risk score and lifestyle score with risk of COPD are presented in Supplemental Tables 10, 11. Higher genetic risk score was associated with increased risk of COPD, while the negative association between lifestyle score and COPD risk was not significant after adjustment for potential confounders. When stratified by lifestyle or genetic risk, the magnitude of effect of air pollution exposure on COPD risk was smaller among participants with healthy lifestyle or low genetic risk than those with unfavourable lifestyle or high genetic risk, respectively. However, only interactions of PM2.5 exposure with lifestyle (P-interact=0.075) were statistically significant (see Table 4). The HRs per IQR increase in PM2.5 were higher in individuals with unfavourable lifestyle (1.24, 95% CI: 1.21-1.26) than in those with healthy lifestyle (1.20, 95% CI: 1.15-1.24). In addition, we also performed analyses after stratification according to lifestyle score and quartiles of genetic risk score, and the results also showed that adverse effect of air pollution was more evident among participants with higher genetic risk and lifestyle score (see Supplemental Tables 12, 13).
+
+Table 4
+Association of long-term exposure to air pollutants (per IQR increase) and risk of chronic obstructive pulmonary disease according to the lifestyle (n=452762) and genetic risk (n=396593).
+
+Subgroups	Cases/N	HR (95% CI)	P-value		Cases/N	HR (95% CI)	P-value	P-interact
+Lifestyle	Unfavorable lifestyle		Healthy lifestyle	
+PM2.5	11813/269723	1.24 (1.21, 1.26)	<.001		3839/183039	1.20 (1.15, 1.24)	<.001	0.075
+PM10	11813/269723	1.07 (1.05, 1.09)	<.001		3839/183039	1.06 (1.03, 1.09)	<.001	0.607
+NOx	11813/269723	1.17 (1.15, 1.19)	<.001		3839/183039	1.16 (1.12, 1.19)	<.001	0.540
+NO2	11813/269723	1.27 (1.24, 1.30)	<.001		3839/183039	1.23 (1.18, 1.28)	<.001	0.245
+Genetic risk	Low genetic risk		High genetic risk	
+PM2.5	6410/198433	1.16 (1.12, 1.19)	<.001		7367/198160	1.19 (1.16, 1.22)	<.001	0.101
+PM10	6410/198433	1.04 (1.02, 1.07)	<.001		7367/198160	1.05 (1.02, 1.07)	<.001	0.753
+NOx	6410/198433	1.12 (1.10, 1.15)	<.001		7367/198160	1.14 (1.11, 1.16)	<.001	0.258
+NO2	6410/198433	1.17 (1.14, 1.21)	<.001		7367/198160	1.20 (1.17, 1.24)	<.001	0.123
+Open in a separate window
+Models for subgroups by lifestyle were adjusted for age, body mass index, sex, race, employment status, household income, and educational level.
+
+Models for subgroups by genetic risk were adjusted for age, body mass index, sex, race, employment status, household income, educational level, smoking status, drinking status, diet, and physical activity.
+
+Measures for interaction of air pollution (low and high) with lifestyle and genetic risk are presented in Table 5. RERI and AP for interaction between high PM2.5 and high genetic risk was 0.154 (0.083, 0.226) and 0.114 (0.062, 0.166), respectively, which indicated that the interaction was responsible for 0.154 relative excess risk and accounted for 11.8% of the risk of COPD. Similarly, 0.156 (95% CI: 0.085–0.226) relative excess risk was attributed to the interaction between high NOx and high genetic risk, accounting for 11.7% (95% CI: 6.5%–16.9%) risk of COPD. However, we did not observe any significant interactions between air pollution exposure (low and high) and lifestyle.
+
+Table 5
+The interaction of air pollution with genetic risk and healthy lifestyle.
+
+High genetic risk
+Healthy lifestyle
+Air pollution	RERI	AP	RERI	AP
+High PM2.5	0.154 (0.083, 0.226)	0.114 (0.062, 0.166)	0.025 (-0.059, 0.110)	0.019 (-0.043, 0.081)
+High PM10	0.059 (-0.092, 0.211)	0.050 (-0.075, 0.174)	-0.065 (-0.233, 0.102)	-0.057 (-0.205, 0.091)
+High NOx	0.156 (0.085, 0.226)	0.117 (0.065, 0.169)	-0.045 (-0.133, 0.043)	-0.032 (-0.096, 0.031)
+High NO2	0.047 (-0.152, 0.246)	0.030 (-0.096, 0.156)	-0.172 (-0.402, 0.057)	-0.118 (-0.278, 0.043)
+Open in a separate window
+Abbreviations: AP, Attributable proportion due to interaction; RERI, relative excess risk due to interaction;
+
+References were low air pollution exposure, low genetic risk, and unfavorable lifestyle.
+
+Models for genetic risk were adjusted for age, sex, race, body mass index, employment status, household income, and educational level.
+
+Models for lifestyle were adjusted for age, sex, race, body mass index, employment status, household income, educational level, smoking status, drinking status, diet, and physical activity.
+
+PM2.5 level was categorized as low PM2.5 < 10 μg/m3 and high PM2.5 ≥ 10 μg/m3 according to the WHO air quality guidelines.
+
+PM10 level was categorized as low PM10 < 20 μg/m3 and high PM10 ≥ 20 μg/m3 according to the WHO air quality guidelines.
+
+NOx level was categorized as low NOx < 42.21 μg/m3 and high NOx ≥ 42.21 μg/m3 by to median level of NOx.
+
+NO2 level was categorized as low NO2 < 40 μg/m3 and high NO2 ≥ 40 μg/m3 according to the WHO air quality guidelines.
+
+The joint effects of air pollution, lifestyle, and genetic risk on risk of COPD behaved in a dose-response manner. (see Figure 1) Risk of COPD was reduced with decreased air pollution and genetic risk, as well as the improvement in lifestyle. Participants with low air pollution exposure, healthy lifestyle and low genetic risk showed the lowest risk of COPD (PM2.5, HR: 0.33, 95% CI: 0.31–0.36; PM10, HR: 0.41, 95% CI: 0.36-0.46; NOx, HR: 0.35, 95% CI: 0.32-0.37; and NO2, HR: 0.27, 95% CI: 0.24-0.30). In addition, the effect of air pollution on risk of COPD also showed smallest magnitude in participants with healthy lifestyle and low genetic risk (see Supplemental Table 14).
+
+Fig 1
+Figure 1
+Risk of incident chronic obstructive pulmonary disease according to air pollution, genetic susceptibility, and lifestyle. Abbreviations: CI, confidence interval; HR, hazards ratio; PM2.5, particle matter with diameter <2.5μm; PM10, particle matter with diameter <10μm; NOx, nitrogen oxides; NO2, nitrogen dioxide. HRs were obtained from Cox proportional hazards models, and all models were adjusted for age, sex, race, body mass index, employment status, household income, and educational level.
+
+All analyses related with lifestyle were repeated under assumption of participants with unidentified status of lifestyle having optimal status or after excluding them for missing information, which came to similar results to those in the main analysis (see Supplemental Tables 15–24).
+
+Go to:
+Discussion
+Results from our study suggested that long-term exposures to air pollution, including PM2.5, PM10, NOx, and NO2, were positively associated with risk of COPD. High genetic risk and unfavourable lifestyle were associated with increased COPD risk. The adverse effects of PM2.5 were stronger in individuals with high genetic risk and unfavourable lifestyle. We also provided quantitative data about the effects of the interactions of high air pollution exposure with high genetic risk and healthy lifestyle. When examining the joint effects of air pollution, genetic risk, and lifestyle, participants with high air pollution exposure, high genetic risk, and unfavourable lifestyle showed the highest risk of COPD.
+
+Previous studies have assessed the effect of long-term exposure to air pollution on risk of COPD, but did not arrive at the same conclusion. A population-based cohort study of Ontarians reported a positive association of 3-year moving average of PM2.5 exposure with COPD risk.3 A study from Taiwan demonstrated that long-term exposure to PM2.5 was not only related to an increased risk of the incidence of COPD, but also related to reduced and faster declines in lung function.27 Significant associations between long-term exposures to PM2.5, NO2 and COPD risk were also observed in a pooled analysis of three cohort studies within the “Effects of Low-Level Air Pollution: A Study in Europe” (ELAPSE) study,28 in a retrospective cohort study in Korea,29 and among 1.1 million adults from Toronto, Canada.30 As for the NOx, Zorana et al. assessed the long-term traffic-related air pollution (NO2 and NOx), and demonstrated that the 35-year mean concentrations of NO2 and NOx were related to high risk of COPD, while those over 25-year or 15-year periods did not show significant associations with COPD risk.4 Nevertheless, some other studies reported negative results. For example, Atkinson et al. conducted a prospective cohort study of 812063 patients aged 40–89 years. However, the hazards ratios for COPD and PM2.5, PM10 and NO2 were close to unity, and the associations were not statistically significant.31 A meta-analysis integrated four cohort studies participating in ESCAPE (European Study on Chronic Air Pollution Effect), and reported that none of air pollutants (PM2.5, PM10, NOx, NO2, PMcoarse (particle matter with diameter from 2.5μm to 10μm)) were significantly associated with incidence of COPD.7 In the present study, our results indicated that exposures of four air pollutions of PM2.5, PM10, NOx, and NO2 significantly increased the risk of COPD. The discrepancy across studies might be caused by the differences in sociodemographic characteristics, air pollution levels, and chemical profiles of pollution.
+
+It is widely recognized that the pathogenesis of COPD involves a complex interplay between genetic background and exposure to environmental factors.32 Although the effects are seen in the population, there is clearly interindividual variability in the respiratory effect of air pollutants. Evidence from some genetic linkage studies of air pollution exposure in animals and human demonstrated that gene polymorphisms influenced the lung function response to PM and NO2 exposures.33 To the best of our knowledge, this is the first study to assess the interaction between genetic susceptibility and air pollution exposure in the development of COPD. Results from our study suggested that participants with higher genetic risk were more vulnerable to adverse effect of PM2.5 exposure.
+
+Moreover, we also evaluated the potential effect of modifiable lifestyle on association between air pollution and COPD risk. Although the modifiable lifestyle factors have been recognized as cost-effective interventions in preventing and controlling non-communicable disease,9 the evidence about interaction between air pollution and lifestyle in COPD risk is still scarce. Fisher et al. assessed the associations between PM exposure and COPD risk in subgroups of current smokers, former smokers, and never smokers, but did not observe significant associations in any subgroups.34 A study from the Danish Diet, Cancer, and Health study also performed stratified analyses to assess the modifying effect of smoking status and fruit consumption, but the interactions of them with NO2 exposure were not statistically significant in COPD risk.4 Results from the same cohort also demonstrated the protective effect of physical activities and the negative effect of NO2 exposure on the development of COPD, but the interactions between them did not show any significance.35 In addition, a review from Whyand et al. suggested that some nutrients, such as carotenoids, vitamin D and vitamin E, helped protect against pollution damage which could trigger COPD and lung cancer initiation, but there was no evidence about Mediterranean diet protecting against air pollution.36 In the present study, results from stratified analysis showed that the adverse effect of exposure to PM2.5 could be partly compensated by healthy lifestyle, however, which could not be deduced from measures of RERI and AP. These discrepancies might be attributable to loss of information, since air pollution levels had to be treated as categorical variables in these calculations. This study observed the modification by overall lifestyle on risk of COPD induced by air pollution exposure, which suggested that targeted intervention on modifiable lifestyle might offset the adverse effect of PM2.5 exposure on COPD risk.
+
+Our study was conducted based on a nation-wide population study. Besides evaluation of associations of long-term exposures to various air pollutants with COPD risk, we also conducted investigations into the modification effects of genetic risk and lifestyle on these associations and the interactions of air pollution with genetic risk and lifestyle. However, there were also some limitations in our study. First, air pollutions, especially PM, are heterogeneous mixtures of solid and liquid particles that varies in size and chemical compositions. We could not evaluate the effect of specific components of air pollutions because of the limited data. Second, exposure of air pollution was evaluated based on the address collected at baseline, which might be influenced by the length of time at this address. However, we performed sensitivity analyses after excluding participants staying less than 1 or 5 years at current address, and we did not observe substantial alteration of our main results. Third, data we used to identify the status of lifestyle were self-reported, which might lead to misclassification. Fourth, our study was conducted on UK Biobank data, and most participants were of European descent. This might limit the generalizability of our results. However, the UK biobank recruited about 0.5 million participants living within reasonable distance of a total of 22 assessment centres across the UK,37 which made it nationally representative. The results can be well represented in European countries. Fifth, in this study, demographic and lifestyle information for some participants were missing, which might bias our results. However, such incompleteness is unlikely related to air pollutant levels. Moreover, a series of sensitivity analyses were conducted after excluding participants with missing information, and the results did not change.
+
+In conclusion, findings from our study indicated the great influence of air pollution exposure on development of COPD, and highlighted the important role of improvement in lifestyle in the intervention for COPD. As for individuals with high genetic risk of COPD, they should be paid extra attention in prevention of adverse effect of air pollutions.
+
+Go to:
+Contributors
+L.W. and Y.T. conceived the study. Y.T., L.W., Y.H., and J.X. contributed to the study design. L.W. and Y.T. prepared and conducted the data analysis. L.W. drafted the manuscript. All authors critically revised the manuscript for important intellectual content. All authors approved the final version of the manuscript. Y.T. acts as guarantor.
+
+Data sharing statement
+All data are available on the aforementioned public repository and are accessible with permission from the corresponding data committee. No restrictions on data availability other than those imposed by the corresponding data committee.
+
+Go to:
+Declaration of interests
+None.
+
+Go to:
+Acknowledgements
+The research has been done using the UK Biobank resource as a part of the approved Research Application 69741.
+
+Go to:
+Footnotes
+Supplementary material associated with this article can be found in the online version at doi:10.1016/j.ebiom.2022.103994.
+
+Go to:
+Appendix. Supplementary materials
+Click here to view.(16K, docx)Image, application 1
+Click here to view.(71K, docx)Image, application 2
+Go to:
+References
+1. Rabe K.F., Watz H. Chronic obstructive pulmonary disease. Lancet. 2017;389(10082):1931–1940. (London, England) [PubMed] [Google Scholar]
+2. Li X., Cao X., Guo M., Xie M., Liu X. Trends and risk factors of mortality and disability adjusted life years for chronic respiratory diseases from 1990 to 2017: Systematic analysis for the Global Burden of Disease Study 2017. BMJ. 2020;368:m234. (Clinical research ed) [PMC free article] [PubMed] [Google Scholar]
+3. Shin S., Bai L., Burnett R.T., et al. Air pollution as a risk factor for incident chronic obstructive pulmonary disease and asthma. A 15-year population-based cohort study. Am J Respir Crit Care Med. 2021;203(9):1138–1148. [PubMed] [Google Scholar]
+4. Andersen Z.J., Hvidberg M., Jensen S.S., et al. Chronic obstructive pulmonary disease and long-term exposure to traffic-related air pollution: A cohort study. Am J Respir Crit Care Med. 2011;183(4):455–461. [PubMed] [Google Scholar]
+5. Losacco C., Perillo A. Particulate matter air pollution and respiratory impact on humans and animals. Environ Sci Pollut Res Int. 2018;25(34):33901–33910. [PubMed] [Google Scholar]
+6. Park J., Kim H.J., Lee C.H., Lee C.H., Lee H.W. Impact of long-term exposure to ambient air pollution on the incidence of chronic obstructive pulmonary disease: A systematic review and meta-analysis. Environ Res. 2021;194 [PubMed] [Google Scholar]
+7. Schikowski T., Adam M., Marcon A., et al. Association of ambient air pollution with the prevalence and incidence of COPD. Eur Respir J. 2014;44(3):614–626. [PubMed] [Google Scholar]
+8. Hizawa N. Genetic backgrounds of asthma and COPD. Allergol Int. 2009;58(3):315–322. official journal of the Japanese Society of Allergology. [PubMed] [Google Scholar]
+9. ‘Best buys’ and other recommended interventions for the prevention and control of noncommunicable diseases. Geneva, World Health Organization, 2017 (http://apps.who.int/iris/bitstream/10665/259232/1/WHO-NMHNVI-17.9-eng.pdf, Accessed January 2020).
+10. Walter R., Gottlieb D.J., O'Connor G.T. Environmental and genetic risk factors and gene-environment interactions in the pathogenesis of chronic obstructive lung disease. Environ Health Perspect. 2000;108(Suppl 4):733–742. [PMC free article] [PubMed] [Google Scholar]
+11. Hobbs B.D., de Jong K., Lamontagne M., et al. Genetic loci associated with chronic obstructive pulmonary disease overlap with loci for lung function and pulmonary fibrosis. Nat Genet. 2017;49(3):426–432. [PMC free article] [PubMed] [Google Scholar]
+12. Park B., Koo S.M., An J., et al. Genome-wide assessment of gene-by-smoking interactions in COPD. Sci Rep. 2018;8(1):9319. [PMC free article] [PubMed] [Google Scholar]
+13. Ng R., Sutradhar R., Yao Z., Wodchis W.P., Rosella LC. Smoking, drinking, diet and physical activity-modifiable lifestyle risk factors and their associations with age to first chronic disease. Int J Epidemiol. 2020;49(1):113–130. [PMC free article] [PubMed] [Google Scholar]
+14. Kaluza J., Harris H.R., Linden A., Wolk A. Alcohol consumption and risk of chronic obstructive pulmonary disease: A prospective cohort study of men. Am J Epidemiol. 2019;188(5):907–916. [PubMed] [Google Scholar]
+15. Kaluza J., Larsson S.C., Linden A., Wolk A. Consumption of unprocessed and processed red meat and the risk of chronic obstructive pulmonary disease: A prospective cohort study of men. Am J Epidemiol. 2016;184(11):829–836. [PubMed] [Google Scholar]
+16. Sudlow C., Gallacher J., Allen N., et al. UK biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age. PLoS Med. 2015;12(3) [PMC free article] [PubMed] [Google Scholar]
+17. Beelen R., Hoek G., Vienneau D., et al. Development of NO2 and NOx land use regression models for estimating air pollution exposure in 36 study areas in Europe - The ESCAPE project. Atmos Environ. 2013;72:10–23. [Google Scholar]
+18. Eeftens M., Beelen R., de Hoogh K., et al. Development of land use regression models for PM2.5, PM2.5 Absorbance, PM10 and PMcoarse in 20 European study areas; results of the ESCAPE project. Environ Sci Technol. 2012;46(20):11195–11205. [PubMed] [Google Scholar]
+19. Bycroft C., Freeman C., Petkova D., et al. The UK Biobank resource with deep phenotyping and genomic data. Nature. 2018;562(7726):203–209. [PMC free article] [PubMed] [Google Scholar]
+20. Khera A.V., Emdin C.A., Drake I., et al. Genetic risk, adherence to a healthy lifestyle, and coronary disease. N Engl J Med. 2016;375(24):2349–2358. [PMC free article] [PubMed] [Google Scholar]
+21. Fan M., Sun D., Zhou T., et al. Sleep patterns, genetic susceptibility, and incident cardiovascular disease: A prospective study of 385 292 UK biobank participants. Eur Heart J. 2020;41(11):1182–1189. [PMC free article] [PubMed] [Google Scholar]
+22. Lloyd-Jones D.M., Hong Y., Labarthe D., et al. Defining and setting national goals for cardiovascular health promotion and disease reduction: The American Heart Association's strategic Impact Goal through 2020 and beyond. Circulation. 2010;121(4):586–613. [PubMed] [Google Scholar]
+23. Mozaffarian D. Dietary and policy priorities for cardiovascular disease, diabetes, and obesity: A comprehensive review. Circulation. 2016;133(2):187–225. [PMC free article] [PubMed] [Google Scholar]
+24. Kaufman J.S., MacLehose R.F. Which of these things is not like the others? Cancer. 2013;119(24):4216–4222. Dec 15. [PMC free article] [PubMed] [Google Scholar]
+25. Lundberg M., Fredlund P., Hallqvist J., Diderichsen F. A SAS program calculating three measures of interaction with confidence intervals. Epidemiology. 1996;7(6):655–656. (Cambridge, Mass) [PubMed] [Google Scholar]
+26. Hosmer D.W., Lemeshow S. Confidence interval estimation of interaction. Epidemiology. 1992;3(5):452–456. (Cambridge, Mass) [PubMed] [Google Scholar]
+27. Guo C., Zhang Z., Lau A.K.H., et al. Effect of long-term exposure to fine particulate matter on lung function decline and risk of chronic obstructive pulmonary disease in Taiwan: A longitudinal, cohort study. Lancet Planetary Health. 2018;2(3):e114–ee25. [PubMed] [Google Scholar]
+28. Liu S., Jørgensen J.T., Ljungman P., et al. Long-term exposure to low-level air pollution and incidence of chronic obstructive pulmonary disease: The ELAPSE project. Environ Int. 2021;146 [PubMed] [Google Scholar]
+29. Han C., Oh J., Lim Y.H., Kim S., Hong Y.C. Long-term exposure to fine particulate matter and development of chronic obstructive pulmonary disease in the elderly. Environ Int. 2020;143 [PubMed] [Google Scholar]
+30. Weichenthal S., Bai L., Hatzopoulou M., et al. Long-term exposure to ambient ultrafine particles and respiratory disease incidence in in Toronto, Canada: a cohort study. Environ Health. 2017;16(1):64. A global access science source. [PMC free article] [PubMed] [Google Scholar]
+31. Atkinson R.W., Carey I.M., Kent A.J., van Staa T.P., HR A., Cook D.G. Long-term exposure to outdoor air pollution and the incidence of chronic obstructive pulmonary disease in a national English cohort. Occup Environ Med. 2015;72(1):42–48. [PMC free article] [PubMed] [Google Scholar]
+32. Kleeberger S.R., Peden D. Gene-environment interactions in asthma and other respiratory diseases. Annu Rev Med. 2005;56:383–400. [PubMed] [Google Scholar]
+33. Yang I.A., Fong K.M., Zimmerman P.V., Holgate S.T., Holloway J.W. Genetic susceptibility to the respiratory effects of air pollution. Thorax. 2008;63(6):555–563. [PubMed] [Google Scholar]
+34. Fisher J.A., Puett R.C., Hart J.E., et al. Particulate matter exposures and adult-onset asthma and COPD in the Nurses' Health Study. Eur Respir J. 2016;48(3):921–924. [PMC free article] [PubMed] [Google Scholar]
+35. Fisher J.E., Loft S., Ulrik C.S., et al. Physical activity, air pollution, and the risk of asthma and chronic obstructive pulmonary disease. Am J Respir Crit Care Med. 2016;194(7):855–865. [PubMed] [Google Scholar]
+36. Whyand T., Hurst J.R., Beckles M., Caplin M.E. Pollution and respiratory disease: Can diet or supplements help? A review. Respir Res. 2018;19(1):79. [PMC free article] [PubMed] [Google Scholar]
+37. Allen N.E., Sudlow C., Peakman T., Collins R., Biobank U.K. UK biobank data: come and get it. Sci Transl Med. 2014;6(224):224ed4. doi: 10.1126/scitranslmed.3008601. Feb 19PMID: 24553384. [PubMed] [CrossRef] [Google Scholar]

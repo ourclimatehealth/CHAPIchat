@@ -1,0 +1,682 @@
+Skip to main content
+U.S. flag
+An official website of the United States government.
+
+Here’s how you know
+
+Here’s how you know
+United States Department of Labor
+U.S. DEPARTMENT OF LABOR
+MENU
+OSHA
+By Standard Number 1910.134 - Respiratory protection.
+Part Number:
+1910
+Part Number Title:
+Occupational Safety and Health Standards
+Subpart:
+1910 Subpart I
+Subpart Title:
+Personal Protective Equipment
+Standard Number:
+1910.134
+Title:
+Respiratory protection.
+Appendix:
+A B-1 B-2 C D
+GPO Source:
+e-CFR
+This section applies to General Industry (part 1910), Shipyards (part 1915), Marine Terminals (part 1917), Longshoring (part 1918), and Construction (part 1926).
+
+1910.134(a)
+Permissible practice.
+
+1910.134(a)(1)
+In the control of those occupational diseases caused by breathing air contaminated with harmful dusts, fogs, fumes, mists, gases, smokes, sprays, or vapors, the primary objective shall be to prevent atmospheric contamination. This shall be accomplished as far as feasible by accepted engineering control measures (for example, enclosure or confinement of the operation, general and local ventilation, and substitution of less toxic materials). When effective engineering controls are not feasible, or while they are being instituted, appropriate respirators shall be used pursuant to this section.
+
+1910.134(a)(2)
+A respirator shall be provided to each employee when such equipment is necessary to protect the health of such employee. The employer shall provide the respirators which are applicable and suitable for the purpose intended. The employer shall be responsible for the establishment and maintenance of a respiratory protection program, which shall include the requirements outlined in paragraph (c) of this section. The program shall cover each employee required by this section to use a respirator.
+
+1910.134(b)
+Definitions. The following definitions are important terms used in the respiratory protection standard in this section.
+
+Air-purifying respirator means a respirator with an air-purifying filter, cartridge, or canister that removes specific air contaminants by passing ambient air through the air-purifying element.
+
+Assigned protection factor (APF) means the workplace level of respiratory protection that a respirator or class of respirators is expected to provide to employees when the employer implements a continuing, effective respiratory protection program as specified by this section.
+
+Atmosphere-supplying respirator means a respirator that supplies the respirator user with breathing air from a source independent of the ambient atmosphere, and includes supplied-air respirators (SARs) and self-contained breathing apparatus (SCBA) units.
+
+Canister or cartridge means a container with a filter, sorbent, or catalyst, or combination of these items, which removes specific contaminants from the air passed through the container.
+
+Demand respirator means an atmosphere-supplying respirator that admits breathing air to the facepiece only when a negative pressure is created inside the facepiece by inhalation.
+
+Emergency situation means any occurrence such as, but not limited to, equipment failure, rupture of containers, or failure of control equipment that may or does result in an uncontrolled significant release of an airborne contaminant.
+
+Employee exposure means exposure to a concentration of an airborne contaminant that would occur if the employee were not using respiratory protection.
+
+End-of-service-life indicator (ESLI) means a system that warns the respirator user of the approach of the end of adequate respiratory protection, for example, that the sorbent is approaching saturation or is no longer effective.
+
+Escape-only respirator means a respirator intended to be used only for emergency exit.
+
+Filter or air purifying element means a component used in respirators to remove solid or liquid aerosols from the inspired air.
+
+Filtering facepiece (dust mask) means a negative pressure particulate respirator with a filter as an integral part of the facepiece or with the entire facepiece composed of the filtering medium.
+
+Fit factor means a quantitative estimate of the fit of a particular respirator to a specific individual, and typically estimates the ratio of the concentration of a substance in ambient air to its concentration inside the respirator when worn.
+
+Fit test means the use of a protocol to qualitatively or quantitatively evaluate the fit of a respirator on an individual. (See also Qualitative fit test QLFT and Quantitative fit test QNFT.)
+
+Helmet means a rigid respiratory inlet covering that also provides head protection against impact and penetration.
+
+High efficiency particulate air (HEPA) filter means a filter that is at least 99.97% efficient in removing monodisperse particles of 0.3 micrometers in diameter. The equivalent NIOSH 42 CFR 84 particulate filters are the N100, R100, and P100 filters.
+
+Hood means a respiratory inlet covering that completely covers the head and neck and may also cover portions of the shoulders and torso.
+
+Immediately dangerous to life or health (IDLH) means an atmosphere that poses an immediate threat to life, would cause irreversible adverse health effects, or would impair an individual's ability to escape from a dangerous atmosphere.
+
+Interior structural firefighting means the physical activity of fire suppression, rescue or both, inside of buildings or enclosed structures which are involved in a fire situation beyond the incipient stage. (See 29 CFR 1910.155)
+
+Loose-fitting facepiece means a respiratory inlet covering that is designed to form a partial seal with the face.
+
+Maximum use concentration (MUC) means the maximum atmospheric concentration of a hazardous substance from which an employee can be expected to be protected when wearing a respirator, and is determined by the assigned protection factor of the respirator or class of respirators and the exposure limit of the hazardous substance. The MUC can be determined mathematically by multiplying the assigned protection factor specified for a respirator by the required OSHA permissible exposure limit, short-term exposure limit, or ceiling limit. When no OSHA exposure limit is available for a hazardous substance, an employer must determine an MUC on the basis of relevant available information and informed professional judgment.
+
+Negative pressure respirator (tight fitting) means a respirator in which the air pressure inside the facepiece is negative during inhalation with respect to the ambient air pressure outside the respirator.
+
+Oxygen deficient atmosphere means an atmosphere with an oxygen content below 19.5% by volume.
+
+Physician or other licensed health care professional (PLHCP) means an individual whose legally permitted scope of practice (i.e., license, registration, or certification) allows him or her to independently provide, or be delegated the responsibility to provide, some or all of the health care services required by paragraph (e) of this section.
+
+Positive pressure respirator means a respirator in which the pressure inside the respiratory inlet covering exceeds the ambient air pressure outside the respirator.
+
+Powered air-purifying respirator (PAPR) means an air-purifying respirator that uses a blower to force the ambient air through air-purifying elements to the inlet covering.
+
+Pressure demand respirator means a positive pressure atmosphere-supplying respirator that admits breathing air to the facepiece when the positive pressure is reduced inside the facepiece by inhalation.
+
+Qualitative fit test (QLFT) means a pass/fail fit test to assess the adequacy of respirator fit that relies on the individual's response to the test agent.
+
+Quantitative fit test (QNFT) means an assessment of the adequacy of respirator fit by numerically measuring the amount of leakage into the respirator.
+
+Respiratory inlet covering means that portion of a respirator that forms the protective barrier between the user's respiratory tract and an air-purifying device or breathing air source, or both. It may be a facepiece, helmet, hood, suit, or a mouthpiece respirator with nose clamp.
+
+Self-contained breathing apparatus (SCBA) means an atmosphere-supplying respirator for which the breathing air source is designed to be carried by the user.
+
+Service life means the period of time that a respirator, filter or sorbent, or other respiratory equipment provides adequate protection to the wearer.
+
+Supplied-air respirator (SAR) or airline respirator means an atmosphere-supplying respirator for which the source of breathing air is not designed to be carried by the user.
+
+This section means this respiratory protection standard.
+
+Tight-fitting facepiece means a respiratory inlet covering that forms a complete seal with the face.
+
+User seal check means an action conducted by the respirator user to determine if the respirator is properly seated to the face.
+
+1910.134(c)
+Respiratory protection program. This paragraph requires the employer to develop and implement a written respiratory protection program with required worksite-specific procedures and elements for required respirator use. The program must be administered by a suitably trained program administrator. In addition, certain program elements may be required for voluntary use to prevent potential hazards associated with the use of the respirator. The Small Entity Compliance Guide contains criteria for the selection of a program administrator and a sample program that meets the requirements of this paragraph. Copies of the Small Entity Compliance Guide will be available on or about April 8, 1998 from the Occupational Safety and Health Administration's Office of Publications, Room N 3101, 200 Constitution Avenue, NW, Washington, DC, 20210 (202-219-4667).
+
+1910.134(c)(1)
+In any workplace where respirators are necessary to protect the health of the employee or whenever respirators are required by the employer, the employer shall establish and implement a written respiratory protection program with worksite-specific procedures. The program shall be updated as necessary to reflect those changes in workplace conditions that affect respirator use. The employer shall include in the program the following provisions of this section, as applicable:
+
+1910.134(c)(1)(i)
+Procedures for selecting respirators for use in the workplace;
+
+1910.134(c)(1)(ii)
+Medical evaluations of employees required to use respirators;
+
+1910.134(c)(1)(iii)
+Fit testing procedures for tight-fitting respirators;
+
+1910.134(c)(1)(iv)
+Procedures for proper use of respirators in routine and reasonably foreseeable emergency situations;
+
+1910.134(c)(1)(v)
+Procedures and schedules for cleaning, disinfecting, storing, inspecting, repairing, discarding, and otherwise maintaining respirators;
+
+1910.134(c)(1)(vi)
+Procedures to ensure adequate air quality, quantity, and flow of breathing air for atmosphere-supplying respirators;
+
+1910.134(c)(1)(vii)
+Training of employees in the respiratory hazards to which they are potentially exposed during routine and emergency situations;
+
+1910.134(c)(1)(viii)
+Training of employees in the proper use of respirators, including putting on and removing them, any limitations on their use, and their maintenance; and
+
+1910.134(c)(1)(ix)
+Procedures for regularly evaluating the effectiveness of the program.
+
+1910.134(c)(2)
+Where respirator use is not required:
+
+1910.134(c)(2)(i)
+An employer may provide respirators at the request of employees or permit employees to use their own respirators, if the employer determines that such respirator use will not in itself create a hazard. If the employer determines that any voluntary respirator use is permissible, the employer shall provide the respirator users with the information contained in appendix D to this section ("Information for Employees Using Respirators When Not Required Under the Standard"); and
+
+1910.134(c)(2)(ii)
+In addition, the employer must establish and implement those elements of a written respiratory protection program necessary to ensure that any employee using a respirator voluntarily is medically able to use that respirator, and that the respirator is cleaned, stored, and maintained so that its use does not present a health hazard to the user. Exception: Employers are not required to include in a written respiratory protection program those employees whose only use of respirators involves the voluntary use of filtering facepieces (dust masks).
+
+1910.134(c)(3)
+The employer shall designate a program administrator who is qualified by appropriate training or experience that is commensurate with the complexity of the program to administer or oversee the respiratory protection program and conduct the required evaluations of program effectiveness.
+
+1910.134(c)(4)
+The employer shall provide respirators, training, and medical evaluations at no cost to the employee.
+
+1910.134(d)
+Selection of respirators. This paragraph requires the employer to evaluate respiratory hazard(s) in the workplace, identify relevant workplace and user factors, and base respirator selection on these factors. The paragraph also specifies appropriately protective respirators for use in IDLH atmospheres, and limits the selection and use of air-purifying respirators.
+
+1910.134(d)(1)
+General requirements.
+
+1910.134(d)(1)(i)
+The employer shall select and provide an appropriate respirator based on the respiratory hazard(s) to which the worker is exposed and workplace and user factors that affect respirator performance and reliability.
+
+1910.134(d)(1)(ii)
+The employer shall select a NIOSH-certified respirator. The respirator shall be used in compliance with the conditions of its certification.
+
+1910.134(d)(1)(iii)
+The employer shall identify and evaluate the respiratory hazard(s) in the workplace; this evaluation shall include a reasonable estimate of employee exposures to respiratory hazard(s) and an identification of the contaminant's chemical state and physical form. Where the employer cannot identify or reasonably estimate the employee exposure, the employer shall consider the atmosphere to be IDLH.
+
+1910.134(d)(1)(iv)
+The employer shall select respirators from a sufficient number of respirator models and sizes so that the respirator is acceptable to, and correctly fits, the user.
+
+1910.134(d)(2)
+Respirators for IDLH atmospheres.
+
+1910.134(d)(2)(i)
+The employer shall provide the following respirators for employee use in IDLH atmospheres:
+
+1910.134(d)(2)(i)(A)
+A full facepiece pressure demand SCBA certified by NIOSH for a minimum service life of thirty minutes, or
+
+1910.134(d)(2)(i)(B)
+A combination full facepiece pressure demand supplied-air respirator (SAR) with auxiliary self-contained air supply.
+
+1910.134(d)(2)(ii)
+Respirators provided only for escape from IDLH atmospheres shall be NIOSH-certified for escape from the atmosphere in which they will be used.
+
+1910.134(d)(2)(iii)
+All oxygen-deficient atmospheres shall be considered IDLH. Exception: If the employer demonstrates that, under all foreseeable conditions, the oxygen concentration can be maintained within the ranges specified in Table II of this section (i.e., for the altitudes set out in the table), then any atmosphere-supplying respirator may be used.
+
+1910.134(d)(3)
+Respirators for atmospheres that are not IDLH.
+
+1910.134(d)(3)(i)
+The employer shall provide a respirator that is adequate to protect the health of the employee and ensure compliance with all other OSHA statutory and regulatory requirements, under routine and reasonably foreseeable emergency situations.
+
+1910.134(d)(3)(i)(A)
+Assigned Protection Factors (APFs). Employers must use the assigned protection factors listed in Table 1 to select a respirator that meets or exceeds the required level of employee protection. When using a combination respirator (e.g., airline respirators with an air-purifying filter), employers must ensure that the assigned protection factor is appropriate to the mode of operation in which the respirator is being used.
+
+ 
+
+Table 1 - Assigned Protection Factors5
+Type of respirator1 2	Quarter mask	Half mask	Full facepiece	Helmet/hood	Loose-fitting facepiece
+1. Air-Purifying Respirator	5	310	50		
+2. Powered Air-Purifying Respirator (PAPR)		50	1,000	425/1,000	25
+3. Supplied-Air Respirator (SAR) or Airline Respirator					
+• Demand mode
+
+10	50		
+• Continuous flow mode
+
+50	1,000	425/1,000	25
+• Pressure-demand or other positive-pressure mode
+
+50	1,000		
+4. Self-Contained Breathing Apparatus (SCBA)					
+• Demand mode
+
+10	50	50	
+• Pressure-demand or other positive-pressure mode (e.g., open/closed circuit)
+
+10,000	10,000	
+Notes:
+1Employers may select respirators assigned for use in higher workplace concentrations of a hazardous substance for use at lower concentrations of that substance, or when required respirator use is independent of concentration.
+2The assigned protection factors in Table 1 are only effective when the employer implements a continuing, effective respirator program as required by this section (29 CFR 1910.134), including training, fit testing, maintenance, and use requirements.
+3This APF category includes filtering facepieces, and half masks with elastomeric facepieces.
+4The employer must have evidence provided by the respirator manufacturer that testing of these respirators demonstrates performance at a level of protection of 1,000 or greater to receive an APF of 1,000. This level of performance can best be demonstrated by performing a WPF or SWPF study or equivalent testing. Absent such testing, all other PAPRs and SARs with helmets/hoods are to be treated as loose-fitting facepiece respirators, and receive an APF of 25.
+5These APFs do not apply to respirators used solely for escape. For escape respirators used in association with specific substances covered by 29 CFR 1910 subpart Z, employers must refer to the appropriate substance-specific standards in that subpart. Escape respirators for other IDLH atmospheres are specified by 29 CFR 1910.134 (d)(2)(ii).
+
+1910.134(d)(3)(i)(B)
+Maximum Use Concentration (MUC).
+
+1910.134(d)(3)(i)(B)(1)
+The employer must select a respirator for employee use that maintains the employee's exposure to the hazardous substance, when measured outside the respirator, at or below the MUC.
+
+1910.134(d)(3)(i)(B)(2)
+Employers must not apply MUCs to conditions that are immediately dangerous to life or health (IDLH); instead, they must use respirators listed for IDLH conditions in paragraph (d)(2) of this standard.
+
+1910.134(d)(3)(i)(B)(3)
+When the calculated MUC exceeds the IDLH level for a hazardous substance, or the performance limits of the cartridge or canister, then employers must set the maximum MUC at that lower limit.
+
+1910.134(d)(3)(ii)
+The respirator selected shall be appropriate for the chemical state and physical form of the contaminant.
+
+1910.134(d)(3)(iii)
+For protection against gases and vapors, the employer shall provide:
+
+1910.134(d)(3)(iii)(A)
+An atmosphere-supplying respirator, or
+
+1910.134(d)(3)(iii)(B)
+An air-purifying respirator, provided that:
+
+1910.134(d)(3)(iii)(B)(1)
+The respirator is equipped with an end-of-service-life indicator (ESLI) certified by NIOSH for the contaminant; or
+
+1910.134(d)(3)(iii)(B)(2)
+If there is no ESLI appropriate for conditions in the employer's workplace, the employer implements a change schedule for canisters and cartridges that is based on objective information or data that will ensure that canisters and cartridges are changed before the end of their service life. The employer shall describe in the respirator program the information and data relied upon and the basis for the canister and cartridge change schedule and the basis for reliance on the data.
+
+1910.134(d)(3)(iv)
+For protection against particulates, the employer shall provide:
+
+1910.134(d)(3)(iv)(A)
+An atmosphere-supplying respirator; or
+
+1910.134(d)(3)(iv)(B)
+An air-purifying respirator equipped with a filter certified by NIOSH under 30 CFR part 11 as a high efficiency particulate air (HEPA) filter, or an air-purifying respirator equipped with a filter certified for particulates by NIOSH under 42 CFR part 84; or
+
+1910.134(d)(3)(iv)(C)
+For contaminants consisting primarily of particles with mass median aerodynamic diameters (MMAD) of at least 2 micrometers, an air-purifying respirator equipped with any filter certified for particulates by NIOSH.
+
+TABLE I. - ASSIGNED PROTECTION FACTORS [RESERVED]
+
+Table II
+Altitude (ft.)	Oxygen deficient Atmospheres (% 02) for which the employer may rely on atmosphere-supplying respirators
+Less than 3,001	16.0-19.5
+3,001-4,000	16.4-19.5
+4,001-5,000	17.1-19.5
+5,001-6,000	17.8-19.5
+6,001-7,000	18.5-19.5
+7,001-8,0001	19.3-19.5.
+1Above 8,000 feet the exception does not apply. Oxygen-enriched breathing air must be supplied above 14,000 feet.
+
+1910.134(e)
+Medical evaluation. Using a respirator may place a physiological burden on employees that varies with the type of respirator worn, the job and workplace conditions in which the respirator is used, and the medical status of the employee. Accordingly, this paragraph specifies the minimum requirements for medical evaluation that employers must implement to determine the employee's ability to use a respirator.
+
+1910.134(e)(1)
+General. The employer shall provide a medical evaluation to determine the employee's ability to use a respirator, before the employee is fit tested or required to use the respirator in the workplace. The employer may discontinue an employee's medical evaluations when the employee is no longer required to use a respirator.
+
+1910.134(e)(2)
+Medical evaluation procedures.
+
+1910.134(e)(2)(i)
+The employer shall identify a physician or other licensed health care professional (PLHCP) to perform medical evaluations using a medical questionnaire or an initial medical examination that obtains the same information as the medical questionnaire.
+
+1910.134(e)(2)(ii)
+The medical evaluation shall obtain the information requested by the questionnaire in Sections 1 and 2, part A of appendix C of this section.
+
+1910.134(e)(3)
+Follow-up medical examination.
+
+1910.134(e)(3)(i)
+The employer shall ensure that a follow-up medical examination is provided for an employee who gives a positive response to any question among questions 1 through 8 in Section 2, part A of appendix C or whose initial medical examination demonstrates the need for a follow-up medical examination.
+
+1910.134(e)(3)(ii)
+The follow-up medical examination shall include any medical tests, consultations, or diagnostic procedures that the PLHCP deems necessary to make a final determination.
+
+1910.134(e)(4)
+Administration of the medical questionnaire and examinations.
+
+1910.134(e)(4)(i)
+The medical questionnaire and examinations shall be administered confidentially during the employee's normal working hours or at a time and place convenient to the employee. The medical questionnaire shall be administered in a manner that ensures that the employee understands its content.
+
+1910.134(e)(4)(ii)
+The employer shall provide the employee with an opportunity to discuss the questionnaire and examination results with the PLHCP.
+
+1910.134(e)(5)
+Supplemental information for the PLHCP.
+
+1910.134(e)(5)(i)
+The following information must be provided to the PLHCP before the PLHCP makes a recommendation concerning an employee's ability to use a respirator:
+
+1910.134(e)(5)(i)(A)
+(A) The type and weight of the respirator to be used by the employee;
+
+1910.134(e)(5)(i)(B)
+The duration and frequency of respirator use (including use for rescue and escape);
+
+1910.134(e)(5)(i)(C)
+The expected physical work effort;
+
+1910.134(e)(5)(i)(D)
+Additional protective clothing and equipment to be worn; and
+
+1910.134(e)(5)(i)(E)
+Temperature and humidity extremes that may be encountered.
+
+1910.134(e)(5)(ii)
+Any supplemental information provided previously to the PLHCP regarding an employee need not be provided for a subsequent medical evaluation if the information and the PLHCP remain the same.
+
+1910.134(e)(5)(iii)
+The employer shall provide the PLHCP with a copy of the written respiratory protection program and a copy of this section.
+
+Note to paragraph (e)(5)(iii): When the employer replaces a PLHCP, the employer must ensure that the new PLHCP obtains this information, either by providing the documents directly to the PLHCP or having the documents transferred from the former PLHCP to the new PLHCP. However, OSHA does not expect employers to have employees medically reevaluated solely because a new PLHCP has been selected.
+
+1910.134(e)(6)
+Medical determination. In determining the employee's ability to use a respirator, the employer shall:
+
+1910.134(e)(6)(i)
+Obtain a written recommendation regarding the employee's ability to use the respirator from the PLHCP. The recommendation shall provide only the following information:
+
+1910.134(e)(6)(i)(A)
+Any limitations on respirator use related to the medical condition of the employee, or relating to the workplace conditions in which the respirator will be used, including whether or not the employee is medically able to use the respirator;
+
+1910.134(e)(6)(i)(B)
+The need, if any, for follow-up medical evaluations; and
+
+1910.134(e)(6)(i)(C)
+A statement that the PLHCP has provided the employee with a copy of the PLHCP's written recommendation.
+
+1910.134(e)(6)(ii)
+If the respirator is a negative pressure respirator and the PLHCP finds a medical condition that may place the employee's health at increased risk if the respirator is used, the employer shall provide a PAPR if the PLHCP's medical evaluation finds that the employee can use such a respirator; if a subsequent medical evaluation finds that the employee is medically able to use a negative pressure respirator, then the employer is no longer required to provide a PAPR.
+
+1910.134(e)(7)
+Additional medical evaluations. At a minimum, the employer shall provide additional medical evaluations that comply with the requirements of this section if:
+
+1910.134(e)(7)(i)
+An employee reports medical signs or symptoms that are related to ability to use a respirator;
+
+1910.134(e)(7)(ii)
+A PLHCP, supervisor, or the respirator program administrator informs the employer that an employee needs to be reevaluated;
+
+1910.134(e)(7)(iii)
+Information from the respiratory protection program, including observations made during fit testing and program evaluation, indicates a need for employee reevaluation; or
+
+1910.134(e)(7)(iv)
+A change occurs in workplace conditions (e.g., physical work effort, protective clothing, temperature) that may result in a substantial increase in the physiological burden placed on an employee.
+
+1910.134(f)
+Fit testing. This paragraph requires that, before an employee may be required to use any respirator with a negative or positive pressure tight-fitting facepiece, the employee must be fit tested with the same make, model, style, and size of respirator that will be used. This paragraph specifies the kinds of fit tests allowed, the procedures for conducting them, and how the results of the fit tests must be used.
+
+1910.134(f)(1)
+The employer shall ensure that employees using a tight-fitting facepiece respirator pass an appropriate qualitative fit test (QLFT) or quantitative fit test (QNFT) as stated in this paragraph.
+
+1910.134(f)(2)
+The employer shall ensure that an employee using a tight-fitting facepiece respirator is fit tested prior to initial use of the respirator, whenever a different respirator facepiece (size, style, model or make) is used, and at least annually thereafter.
+1910.134(f)(3)
+The employer shall conduct an additional fit test whenever the employee reports, or the employer, PLHCP, supervisor, or program administrator makes visual observations of, changes in the employee's physical condition that could affect respirator fit. Such conditions include, but are not limited to, facial scarring, dental changes, cosmetic surgery, or an obvious change in body weight.
+1910.134(f)(4)
+If after passing a QLFT or QNFT, the employee subsequently notifies the employer, program administrator, supervisor, or PLHCP that the fit of the respirator is unacceptable, the employee shall be given a reasonable opportunity to select a different respirator facepiece and to be retested.
+1910.134(f)(5)
+The fit test shall be administered using an OSHA-accepted QLFT or QNFT protocol. The OSHA-accepted QLFT and QNFT protocols and procedures are contained in appendix A of this section.
+
+1910.134(f)(6)
+QLFT may only be used to fit test negative pressure air-purifying respirators that must achieve a fit factor of 100 or less.
+1910.134(f)(7)
+If the fit factor, as determined through an OSHA-accepted QNFT protocol, is equal to or greater than 100 for tight-fitting half facepieces, or equal to or greater than 500 for tight-fitting full facepieces, the QNFT has been passed with that respirator.
+1910.134(f)(8)
+Fit testing of tight-fitting atmosphere-supplying respirators and tight-fitting powered air-purifying respirators shall be accomplished by performing quantitative or qualitative fit testing in the negative pressure mode, regardless of the mode of operation (negative or positive pressure) that is used for respiratory protection.
+1910.134(f)(8)(i)
+Qualitative fit testing of these respirators shall be accomplished by temporarily converting the respirator user's actual facepiece into a negative pressure respirator with appropriate filters, or by using an identical negative pressure air-purifying respirator facepiece with the same sealing surfaces as a surrogate for the atmosphere-supplying or powered air-purifying respirator facepiece.
+1910.134(f)(8)(ii)
+Quantitative fit testing of these respirators shall be accomplished by modifying the facepiece to allow sampling inside the facepiece in the breathing zone of the user, midway between the nose and mouth. This requirement shall be accomplished by installing a permanent sampling probe onto a surrogate facepiece, or by using a sampling adapter designed to temporarily provide a means of sampling air from inside the facepiece.
+1910.134(f)(8)(iii)
+Any modifications to the respirator facepiece for fit testing shall be completely removed, and the facepiece restored to NIOSH-approved configuration, before that facepiece can be used in the workplace.
+1910.134(g)
+Use of respirators. This paragraph requires employers to establish and implement procedures for the proper use of respirators. These requirements include prohibiting conditions that may result in facepiece seal leakage, preventing employees from removing respirators in hazardous environments, taking actions to ensure continued effective respirator operation throughout the work shift, and establishing procedures for the use of respirators in IDLH atmospheres or in interior structural firefighting situations.
+1910.134(g)(1)
+Facepiece seal protection.
+1910.134(g)(1)(i)
+The employer shall not permit respirators with tight-fitting facepieces to be worn by employees who have:
+1910.134(g)(1)(i)(A)
+Facial hair that comes between the sealing surface of the facepiece and the face or that interferes with valve function; or
+1910.134(g)(1)(i)(B)
+Any condition that interferes with the face-to-facepiece seal or valve function.
+1910.134(g)(1)(ii)
+If an employee wears corrective glasses or goggles or other personal protective equipment, the employer shall ensure that such equipment is worn in a manner that does not interfere with the seal of the facepiece to the face of the user.
+1910.134(g)(1)(iii)
+For all tight-fitting respirators, the employer shall ensure that employees perform a user seal check each time they put on the respirator using the procedures in appendix B-1 or procedures recommended by the respirator manufacturer that the employer demonstrates are as effective as those in appendix B-1 of this section.
+
+1910.134(g)(2)
+Continuing respirator effectiveness.
+1910.134(g)(2)(i)
+Appropriate surveillance shall be maintained of work area conditions and degree of employee exposure or stress. When there is a change in work area conditions or degree of employee exposure or stress that may affect respirator effectiveness, the employer shall reevaluate the continued effectiveness of the respirator.
+1910.134(g)(2)(ii)
+The employer shall ensure that employees leave the respirator use area:
+1910.134(g)(2)(ii)(A)
+To wash their faces and respirator facepieces as necessary to prevent eye or skin irritation associated with respirator use; or
+1910.134(g)(2)(ii)(B)
+If they detect vapor or gas breakthrough, changes in breathing resistance, or leakage of the facepiece; or
+1910.134(g)(2)(ii)(C)
+To replace the respirator or the filter, cartridge, or canister elements.
+1910.134(g)(2)(iii)
+If the employee detects vapor or gas breakthrough, changes in breathing resistance, or leakage of the facepiece, the employer must replace or repair the respirator before allowing the employee to return to the work area.
+1910.134(g)(3)
+Procedures for IDLH atmospheres. For all IDLH atmospheres, the employer shall ensure that:
+1910.134(g)(3)(i)
+One employee or, when needed, more than one employee is located outside the IDLH atmosphere;
+1910.134(g)(3)(ii)
+Visual, voice, or signal line communication is maintained between the employee(s) in the IDLH atmosphere and the employee(s) located outside the IDLH atmosphere;
+1910.134(g)(3)(iii)
+The employee(s) located outside the IDLH atmosphere are trained and equipped to provide effective emergency rescue;
+1910.134(g)(3)(iv)
+The employer or designee is notified before the employee(s) located outside the IDLH atmosphere enter the IDLH atmosphere to provide emergency rescue;
+1910.134(g)(3)(v)
+The employer or designee authorized to do so by the employer, once notified, provides necessary assistance appropriate to the situation;
+1910.134(g)(3)(vi)
+Employee(s) located outside the IDLH atmospheres are equipped with:
+1910.134(g)(3)(vi)(A)
+Pressure demand or other positive pressure SCBAs, or a pressure demand or other positive pressure supplied-air respirator with auxiliary SCBA; and either
+1910.134(g)(3)(vi)(B)
+Appropriate retrieval equipment for removing the employee(s) who enter(s) these hazardous atmospheres where retrieval equipment would contribute to the rescue of the employee(s) and would not increase the overall risk resulting from entry; or
+1910.134(g)(3)(vi)(C)
+Equivalent means for rescue where retrieval equipment is not required under paragraph (g)(3)(vi)(B).
+1910.134(g)(4)
+Procedures for interior structural firefighting. In addition to the requirements set forth under paragraph (g)(3), in interior structural fires, the employer shall ensure that:
+1910.134(g)(4)(i)
+At least two employees enter the IDLH atmosphere and remain in visual or voice contact with one another at all times;
+1910.134(g)(4)(ii)
+At least two employees are located outside the IDLH atmosphere; and
+1910.134(g)(4)(iii)
+All employees engaged in interior structural firefighting use SCBAs.
+
+Note 1 to paragraph (g): One of the two individuals located outside the IDLH atmosphere may be assigned to an additional role, such as incident commander in charge of the emergency or safety officer, so long as this individual is able to perform assistance or rescue activities without jeopardizing the safety or health of any firefighter working at the incident.
+
+Note 2 to paragraph (g): Nothing in this section is meant to preclude firefighters from performing emergency rescue activities before an entire team has assembled.
+1910.134(h)
+Maintenance and care of respirators. This paragraph requires the employer to provide for the cleaning and disinfecting, storage, inspection, and repair of respirators used by employees.
+1910.134(h)(1)
+Cleaning and disinfecting. The employer shall provide each respirator user with a respirator that is clean, sanitary, and in good working order. The employer shall ensure that respirators are cleaned and disinfected using the procedures in appendix B-2 of this section, or procedures recommended by the respirator manufacturer, provided that such procedures are of equivalent effectiveness. The respirators shall be cleaned and disinfected at the following intervals:
+
+1910.134(h)(1)(i)
+Respirators issued for the exclusive use of an employee shall be cleaned and disinfected as often as necessary to be maintained in a sanitary condition;
+1910.134(h)(1)(ii)
+Respirators issued to more than one employee shall be cleaned and disinfected before being worn by different individuals;
+1910.134(h)(1)(iii)
+Respirators maintained for emergency use shall be cleaned and disinfected after each use; and
+1910.134(h)(1)(iv)
+Respirators used in fit testing and training shall be cleaned and disinfected after each use.
+1910.134(h)(2)
+Storage. The employer shall ensure that respirators are stored as follows:
+1910.134(h)(2)(i)
+All respirators shall be stored to protect them from damage, contamination, dust, sunlight, extreme temperatures, excessive moisture, and damaging chemicals, and they shall be packed or stored to prevent deformation of the facepiece and exhalation valve.
+1910.134(h)(2)(ii)
+In addition to the requirements of paragraph (h)(2)(i) of this section, emergency respirators shall be:
+1910.134(h)(2)(ii)(A)
+Kept accessible to the work area;
+1910.134(h)(2)(ii)(B)
+Stored in compartments or in covers that are clearly marked as containing emergency respirators; and
+1910.134(h)(2)(ii)(C)
+Stored in accordance with any applicable manufacturer instructions.
+1910.134(h)(3)
+Inspection.
+1910.134(h)(3)(i)
+The employer shall ensure that respirators are inspected as follows:
+1910.134(h)(3)(i)(A)
+All respirators used in routine situations shall be inspected before each use and during cleaning;
+1910.134(h)(3)(i)(B)
+All respirators maintained for use in emergency situations shall be inspected at least monthly and in accordance with the manufacturer's recommendations, and shall be checked for proper function before and after each use; and
+1910.134(h)(3)(i)(C)
+Emergency escape-only respirators shall be inspected before being carried into the workplace for use.
+1910.134(h)(3)(ii)
+The employer shall ensure that respirator inspections include the following:
+1910.134(h)(3)(ii)(A)
+A check of respirator function, tightness of connections, and the condition of the various parts including, but not limited to, the facepiece, head straps, valves, connecting tube, and cartridges, canisters or filters; and
+1910.134(h)(3)(ii)(B)
+A check of elastomeric parts for pliability and signs of deterioration.
+1910.134(h)(3)(iii)
+In addition to the requirements of paragraphs (h)(3)(i) and (ii) of this section, self-contained breathing apparatus shall be inspected monthly. Air and oxygen cylinders shall be maintained in a fully charged state and shall be recharged when the pressure falls to 90% of the manufacturer's recommended pressure level. The employer shall determine that the regulator and warning devices function properly.
+1910.134(h)(3)(iv)
+For respirators maintained for emergency use, the employer shall:
+1910.134(h)(3)(iv)(A)
+Certify the respirator by documenting the date the inspection was performed, the name (or signature) of the person who made the inspection, the findings, required remedial action, and a serial number or other means of identifying the inspected respirator; and
+1910.134(h)(3)(iv)(B)
+Provide this information on a tag or label that is attached to the storage compartment for the respirator, is kept with the respirator, or is included in inspection reports stored as paper or electronic files. This information shall be maintained until replaced following a subsequent certification.
+1910.134(h)(4)
+Repairs. The employer shall ensure that respirators that fail an inspection or are otherwise found to be defective are removed from service, and are discarded or repaired or adjusted in accordance with the following procedures:
+1910.134(h)(4)(i)
+Repairs or adjustments to respirators are to be made only by persons appropriately trained to perform such operations and shall use only the respirator manufacturer's NIOSH-approved parts designed for the respirator;
+1910.134(h)(4)(ii)
+Repairs shall be made according to the manufacturer's recommendations and specifications for the type and extent of repairs to be performed; and
+1910.134(h)(4)(iii)
+Reducing and admission valves, regulators, and alarms shall be adjusted or repaired only by the manufacturer or a technician trained by the manufacturer.
+1910.134(i)
+Breathing air quality and use. This paragraph requires the employer to provide employees using atmosphere-supplying respirators (supplied-air and SCBA) with breathing gases of high purity.
+1910.134(i)(1)
+The employer shall ensure that compressed air, compressed oxygen, liquid air, and liquid oxygen used for respiration accords with the following specifications:
+1910.134(i)(1)(i)
+Compressed and liquid oxygen shall meet the United States Pharmacopoeia requirements for medical or breathing oxygen; and
+1910.134(i)(1)(ii)
+Compressed breathing air shall meet at least the requirements for Grade D breathing air described in ANSI/Compressed Gas Association Commodity Specification for Air, G-7.1-1989, to include:
+1910.134(i)(1)(ii)(A)
+Oxygen content (v/v) of 19.5-23.5%;
+1910.134(i)(1)(ii)(B)
+Hydrocarbon (condensed) content of 5 milligrams per cubic meter of air or less;
+1910.134(i)(1)(ii)(C)
+Carbon monoxide (CO) content of 10 ppm or less;
+1910.134(i)(1)(ii)(D)
+Carbon dioxide content of 1,000 ppm or less; and
+1910.134(i)(1)(ii)(E)
+Lack of noticeable odor.
+1910.134(i)(2)
+The employer shall ensure that compressed oxygen is not used in atmosphere-supplying respirators that have previously used compressed air.
+1910.134(i)(3)
+The employer shall ensure that oxygen concentrations greater than 23.5% are used only in equipment designed for oxygen service or distribution.
+1910.134(i)(4)
+The employer shall ensure that cylinders used to supply breathing air to respirators meet the following requirements:
+1910.134(i)(4)(i)
+Cylinders are tested and maintained as prescribed in the Shipping Container Specification Regulations of the Department of Transportation (49 CFR part 180);
+1910.134(i)(4)(ii)
+Cylinders of purchased breathing air have a certificate of analysis from the supplier that the breathing air meets the requirements for Grade D breathing air; and
+1910.134(i)(4)(iii)
+The moisture content in the cylinder does not exceed a dew point of −50 °F (−45.6 °C) at 1 atmosphere pressure.
+
+1910.134(i)(5)
+The employer shall ensure that compressors used to supply breathing air to respirators are constructed and situated so as to:
+1910.134(i)(5)(i)
+Prevent entry of contaminated air into the air-supply system;
+1910.134(i)(5)(ii)
+Minimize moisture content so that the dew point at 1 atmosphere pressure is 10 degrees F (5.56 °C) below the ambient temperature;
+
+1910.134(i)(5)(iii)
+Have suitable in-line air-purifying sorbent beds and filters to further ensure breathing air quality. Sorbent beds and filters shall be maintained and replaced or refurbished periodically following the manufacturer's instructions.
+1910.134(i)(5)(iv)
+Have a tag containing the most recent change date and the signature of the person authorized by the employer to perform the change. The tag shall be maintained at the compressor.
+1910.134(i)(6)
+For compressors that are not oil-lubricated, the employer shall ensure that carbon monoxide levels in the breathing air do not exceed 10 ppm.
+1910.134(i)(7)
+For oil-lubricated compressors, the employer shall use a high-temperature or carbon monoxide alarm, or both, to monitor carbon monoxide levels. If only high-temperature alarms are used, the air supply shall be monitored at intervals sufficient to prevent carbon monoxide in the breathing air from exceeding 10 ppm.
+1910.134(i)(8)
+The employer shall ensure that breathing air couplings are incompatible with outlets for nonrespirable worksite air or other gas systems. No asphyxiating substance shall be introduced into breathing air lines.
+1910.134(i)(9)
+The employer shall use only the respirator manufacturer's NIOSH-approved breathing-gas containers,marked and maintained in accordance with the Quality Assurance provisions of the NIOSH approval for the SCBA as issued in accordance with the NIOSH respirator-certification standard at 42 CFR part 84.
+1910.134(j)
+Identification of filters, cartridges, and canisters. The employer shall ensure that all filters, cartridges and canisters used in the workplace are labeled and color coded with the NIOSH approval label and that the label is not removed and remains legible.
+1910.134(k)
+Training and information. This paragraph requires the employer to provide effective training to employees who are required to use respirators. The training must be comprehensive, understandable, and recur annually, and more often if necessary. This paragraph also requires the employer to provide the basic information on respirators in appendix D of this section to employees who wear respirators when not required by this section or by the employer to do so.
+
+1910.134(k)(1)
+The employer shall ensure that each employee can demonstrate knowledge of at least the following:
+1910.134(k)(1)(i)
+Why the respirator is necessary and how improper fit, usage, or maintenance can compromise the protective effect of the respirator;
+1910.134(k)(1)(ii)
+What the limitations and capabilities of the respirator are;
+1910.134(k)(1)(iii)
+How to use the respirator effectively in emergency situations, including situations in which the respirator malfunctions;
+1910.134(k)(1)(iv)
+How to inspect, put on and remove, use, and check the seals of the respirator;
+1910.134(k)(1)(v)
+What the procedures are for maintenance and storage of the respirator;
+1910.134(k)(1)(vi)
+How to recognize medical signs and symptoms that may limit or prevent the effective use of respirators; and
+1910.134(k)(1)(vii)
+The general requirements of this section.
+1910.134(k)(2)
+The training shall be conducted in a manner that is understandable to the employee.
+1910.134(k)(3)
+The employer shall provide the training prior to requiring the employee to use a respirator in the workplace.
+1910.134(k)(4)
+An employer who is able to demonstrate that a new employee has received training within the last 12 months that addresses the elements specified in paragraph (k)(1)(i) through (vii) is not required to repeat such training provided that, as required by paragraph (k)(1), the employee can demonstrate knowledge of those element(s). Previous training not repeated initially by the employer must be provided no later than 12 months from the date of the previous training.
+1910.134(k)(5)
+Retraining shall be administered annually, and when the following situations occur:
+1910.134(k)(5)(i)
+Changes in the workplace or the type of respirator render previous training obsolete;
+1910.134(k)(5)(ii)
+Inadequacies in the employee's knowledge or use of the respirator indicate that the employee has not retained the requisite understanding or skill; or
+1910.134(k)(5)(iii)
+Any other situation arises in which retraining appears necessary to ensure safe respirator use.
+1910.134(k)(6)
+The basic advisory information on respirators, as presented in appendix D of this section, shall be provided by the employer in any written or oral format, to employees who wear respirators when such use is not required by this section or by the employer.
+
+1910.134(l)
+Program evaluation. This section requires the employer to conduct evaluations of the workplace to ensure that the written respiratory protection program is being properly implemented, and to consult employees to ensure that they are using the respirators properly.
+1910.134(l)(1)
+The employer shall conduct evaluations of the workplace as necessary to ensure that the provisions of the current written program are being effectively implemented and that it continues to be effective.
+1910.134(l)(2)
+The employer shall regularly consult employees required to use respirators to assess the employees' views on program effectiveness and to identify any problems. Any problems that are identified during this assessment shall be corrected. Factors to be assessed include, but are not limited to:
+1910.134(l)(2)(i)
+Respirator fit (including the ability to use the respirator without interfering with effective workplace performance);
+1910.134(l)(2)(ii)
+Appropriate respirator selection for the hazards to which the employee is exposed;
+1910.134(l)(2)(iii)
+Proper respirator use under the workplace conditions the employee encounters; and
+1910.134(l)(2)(iv)
+Proper respirator maintenance.
+1910.134(m)
+Recordkeeping. This section requires the employer to establish and retain written information regarding medical evaluations, fit testing, and the respirator program. This information will facilitate employee involvement in the respirator program, assist the employer in auditing the adequacy of the program, and provide a record for compliance determinations by OSHA.
+1910.134(m)(1)
+Medical evaluation. Records of medical evaluations required by this section must be retained and made available in accordance with 29 CFR 1910.1020.
+1910.134(m)(2)
+Fit testing.
+1910.134(m)(2)(i)
+The employer shall establish a record of the qualitative and quantitative fit tests administered to an employee including:
+1910.134(m)(2)(i)(A)
+The name or identification of the employee tested;
+1910.134(m)(2)(i)(B)
+Type of fit test performed;
+1910.134(m)(2)(i)(C)
+Specific make, model, style, and size of respirator tested;
+1910.134(m)(2)(i)(D)
+Date of test; and
+1910.134(m)(2)(i)(E)
+The pass/fail results for QLFTs or the fit factor and strip chart recording or other recording of the test results for QNFTs.
+1910.134(m)(2)(ii)
+Fit test records shall be retained for respirator users until the next fit test is administered.
+1910.134(m)(3)
+A written copy of the current respirator program shall be retained by the employer.
+1910.134(m)(4)
+Written materials required to be retained under this paragraph shall be made available upon request to affected employees and to the Assistant Secretary or designee for examination and copying.
+1910.134(n)
+Effective date. Paragraphs (d)(3)(i)(A) and (d)(3)(i)(B) of this section become effective November 22, 2006.
+1910.134(o)
+Appendices. Compliance with appendix A, appendix B-1, appendix B-2, appendix C, and appendix D to this section are mandatory.
+
+[63 FR 1152, Jan. 8, 1998; 63 FR 20098, April 23, 1998; 71 FR 16672, April 3, 2006; 71 FR 50187, August 24, 2006; 73 FR 75584, Dec. 12, 2008; 76 FR 33606, June 8, 2011; 84 FR 50755, Sept. 26, 2019]
+
+OSHA
+Standards
+Enforcement
+Topics
+Media Center
+Contact Us
+United States Department of Labor
+U.S. DEPARTMENT OF LABOR
+Occupational Safety and Health Administration
+200 Constitution Ave NW
+Washington, DC 20210
+ 1-800-321-OSHA
+1-800-321-6742
+www.osha.gov
+
+FEDERAL GOVERNMENT
+OCCUPATIONAL SAFETY & HEALTH
+ABOUT THE SITE
+Connect With OSHA
+

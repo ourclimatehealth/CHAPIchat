@@ -1,0 +1,341 @@
+Out‐of‐Hospital Cardiac Arrests and Wildfire‐Related Particulate Matter During 2015–2017 California Wildfires
+Caitlin G. Jones, Ana G. Rappold, Jason Vargo, Wayne E. Cascio, Martin Kharrazi, Bryan McNally, Sumi Hoshiko and with the CARES Surveillance Group
+Originally published15 Apr 2020https://doi.org/10.1161/JAHA.119.014125Journal of the American Heart Association. 2020;9:e014125
+Other version(s) of this article
+Abstract
+Background
+The natural cycle of large‐scale wildfires is accelerating, increasingly exposing both rural and populous urban areas to wildfire emissions. While respiratory health effects associated with wildfire smoke are well established, cardiovascular effects have been less clear.
+
+Methods and Results
+We examined the association between out‐of‐hospital cardiac arrest and wildfire smoke density (light, medium, heavy smoke) from the National Oceanic Atmospheric Association's Hazard Mapping System. Out‐of‐hospital cardiac arrest data were provided by the Cardiac Arrest Registry to Enhance Survival for 14 California counties, 2015–2017 (N=5336). We applied conditional logistic regression in a case‐crossover design using control days from 1, 2, 3, and 4 weeks before case date, at lag days 0 to 3. We stratified by pathogenesis, sex, age (19–34, 35–64, and ≥65 years), and socioeconomic status (census tract percent below poverty). Out‐of‐hospital cardiac arrest risk increased in association with heavy smoke across multiple lag days, strongest on lag day 2 (odds ratio, 1.70; 95% CI, 1.18–2.13). Risk in the lower socioeconomic status strata was elevated on medium and heavy days, although not statistically significant. Higher socioeconomic status strata had elevated odds ratios with heavy smoke but null results with light and medium smoke. Both sexes and age groups 35 years and older were impacted on days with heavy smoke.
+
+Conclusions
+Out‐of‐hospital cardiac arrests increased with wildfire smoke exposure, and lower socioeconomic status appeared to increase the risk. The future trajectory of wildfire, along with increasing vulnerability of the aging population, underscores the importance of formulating public health and clinical strategies to protect those most vulnerable.
+
+Clinical Perspective
+What Is New?
+Wildfire smoke exposure was associated with increased risk of out‐of‐hospital cardiac arrest.
+
+The effect appeared greater for cases of out‐of‐hospital cardiac arrest in lower socioeconomic communities.
+
+Out‐of‐hospital cardiac arrest has not been previously examined in the United States, and this outcome would not be included in wildfire studies based on emergency department visits or hospital admissions.
+
+What Are the Clinical Implications?
+Smoke exposures from wildfires likely have the potential to trigger fatal and near‐fatal cardiac arrest.
+
+Risk was the highest on dense smoke days and the effects persisted for several days following the exposure.
+
+Healthcare professionals and emergency medical service responders may benefit from awareness of these results to counsel patients at increased risk from the adverse health effects of poor air quality and in particular wildfire smoke on ways to limit exposure.
+
+Introduction
+A century of accumulated forest biomass in combination with changes in climate and forest health are accelerating the natural cycle of large‐scale wildfires, exposing increasingly large populations to wildfire emissions and thereby creating the potential for smoke‐related adverse health outcomes.1, 2, 3 An estimated 57 million individuals were exposed to at least 1 episode of wildfire smoke in the United States between 2004 and 2009, and it is predicted that the number of individuals exposed yearly will grow 43% to over 82 million by midcentury.4
+
+Wildfires produce massive quantities of emissions, including fine and coarse particulate matter (PM), carbon monoxide, methane, nitrous oxide, nitrogen oxides, volatile organic carbon, metals, and other toxins.5, 6 During wildfire events, air concentrations of PM can substantially exceed regulatory air quality standards7, 8, 9, 10 and can travel hundreds of miles to impact highly populated areas distant from the original fire.11, 12, 13 Emissions from wildfires also contribute significantly to the burden of ambient air pollution,1, 5 accounting for ≈15% to 20% of total fine PM (PM2.5) in the United States over the past decade.14
+
+Epidemiological studies of short‐ and long‐term air pollution exposures have consistently demonstrated associations between ambient PM2.5 and cardiovascular‐related morbidity and mortality, including ischemic heart disease and heart failure,15, 16, 17 myocardial infarction,18 stroke,19, 20, 21, 22 and arrhythmias.23 Despite these known causal relationships, evidence from epidemiological studies examining wildfire smoke exposures and cardiovascular outcomes has been mixed and inconclusive.24, 25 In a critical review, Reid et al25 examined 66 epidemiological studies of wildfires and health effects. While they found consistent associations with respiratory outcomes, only 18 studies evaluated cardiovascular outcomes and less than a fourth of the analyses identified a statistically significant relationship. More recently, however, several studies have identified positive associations with cardiovascular end points.11, 26, 27, 28, 29, 30
+
+While respiratory conditions are prevalent and can be life‐threatening, cardiovascular diseases contribute to a substantial public health burden, affecting 1 in 3 adults in the United States, an estimated 92 million individuals, and resulting in an annual economic cost of $316 billion for direct and indirect costs.31 Out‐of‐hospital cardiac arrest (OHCA) represents a significant component of adverse cardiovascular events and is a leading cause of death among Americans.32 Over 300 000 people in the United States experience OHCAs annually and 92% of these events result in sudden death.33, 34 In this context, greater clarity on inconsistencies in cardiovascular‐wildfire smoke research is urgently needed to provide appropriate, evidence‐based public health guidance, particularly to patients with underlying cardiovascular conditions.
+
+Previous studies of wildfire smoke exposures and cardiovascular health have primarily relied on data from hospital admissions and emergency department visits.24, 25 However, hospitalization data do not capture all clinical events, as ≈70% of emergency medical service (EMS)–treated OHCA cases do not survive to hospital admission.34 OHCA is an outcome that has only been examined in a few studies. A research group in Australia using a different OHCA measure examined a severe wildfire season in 2006–2007 in 2 analyses.35, 36 Researchers in Singapore also studied OHCA, but used a composite, multicontaminant measure of ambient air pollution rather than wildfire smoke or PM specifically; air quality in Singapore is regional and influenced by haze drifting from illegal agricultural burning in neighboring islands.27, 37, 38 These OHCA investigations are among the limited number of epidemiological studies of biomass smoke demonstrating a relationship with a cardiovascular outcome. To the authors’ knowledge, this is the first study to examine OHCA and wildfire smoke in the United States.
+
+Our study investigated OHCA and wildfire smoke exposures in 14 climatically and demographically diverse California counties from 2015 to 2017 in order to advance our understanding of the relationship between wildfire smoke and cardiovascular health. The specific aims of our study were to investigate the impact of wildfire‐related PM2.5 on OHCA and to characterize these relationships within subpopulations by age, sex, and socioeconomic status (SES).
+
+Methods
+Data Accessibility
+Because of the sensitive nature of the data collected for this study, requests to access the CARES (Cardiac Arrest Registry to Enhance Survival) data set from qualified researchers meeting the CARES data use criteria may be sent to CARES at cares@emory.edu. All exposure data have been made publicly available at the National Oceanic and Atmospheric Administration's (NOAA's) Hazard Mapping System (HMS) Archive and can be accessed at https://satepsanone.nesdis.noaa.gov/pub/volcano/FIRE/HMS_ARCHIVE/.
+
+Health and Population Data
+Reports of OHCA from January 1, 2015, to December 31, 2017, were provided by CARES, a surveillance data set from EMS and hospital providers designed to improve survival. In 2004, the Centers for Disease Control and Prevention (CDC) established CARES in collaboration with the Department of Emergency Medicine at the Emory University School of Medicine. CARES is operated on a national scale in 42 states, with a catchment of more than 130 million people.39 CARES collects reports of OHCAs treated by EMS, excluding patients dead on EMS arrival to the scene or with do‐not‐resuscitate directives. Incident reports, including demographic, medical, and survival outcome data, are informed by EMS assessments and bystander reports and hospital outcome measures.
+
+We obtained local permissions for receiving deidentified data from 14 California counties participating in CARES during 2015–2017 with wildfires of large size (≥50 000 acres burned) or long duration (≥50 days) within or neighboring the county during the study period: Alameda, Amador, Calaveras, Contra Costa, Mariposa, Mendocino, Napa, San Francisco, San Luis Obispo, San Mateo, Santa Barbara, Sonoma, Stanislaus, and Ventura Counties. Two counties only participated in CARES during part of the study period (Alameda County, 2016–2017; San Luis Obispo County, 2017). Counties encompass urban and rural areas across Northern, Central, and Southern California (Figure 1).
+
+Figure 1.
+Download figureDownload PowerPoint
+Figure 1. Map of the 14 California counties in the study region showing the number of smoke days in each county, 2015–2017, based on the National Oceanic and Atmospheric Administration's Hazard Mapping System wildfire smoke plume products.
+
+We only included cases of OHCA of presumed cardiac or respiratory/asphyxia pathogenesis and people 19 years and older. We restricted the analysis to the primary wildfire months, May to October (5336 of the 12 548 OHCA cases). Cases with origins attributed to other causes, such as drowning, trauma, overdose, or electrocution, were excluded. The address of the OHCA event defined the location of the case. We assigned census tract SES indicators using 2017 poverty data from the US Census American Community Survey 5‐year estimates. We created a dichotomous variable of lower and higher SES using the federal definition of a poverty area; thus, census tracts with at least 20% of people living below the poverty level were indicated as lower SES.
+
+Wildfire Smoke Data
+Categorical estimates of smoke plume density were publicly available from the NOAA Office of Satellite and Product Operations’ HMS Smoke Product. Data collected by the Geostationary Operational Environmental Satellites (GOES) and the Polar Operational Environmental Satellites (POES) are analyzed daily by algorithm and NOAA analysts, then published as shapefiles on the NOAA website.40 Plumes are detected using visual range of satellite images and assigned an estimated smoke‐originated PM2.5 density: light (0–10 μg/m3), medium (10.5–21.5 μg/m3), and heavy (>22 μg/m3).41
+
+We used the geospatial function “intersect” to spatially assign daily HMS data from NOAA's archives with US Census Block Group Population Centers to obtain a daily maximum smoke plume density by block groups in California, using the Simple Features package in R software version 3.5.0 (R Foundation for Statistical Computing). The HMS smoke product is derived primarily from instruments aboard geostationary and polar orbiting satellites and provides a spatial resolution of 1 km. Exposures at the block group level were aggregated to corresponding census tracts and the maximum smoke density was used to describe exposure of OHCA cases within respective census tracts. Three records were excluded from the analysis as a result of missing both address and latitude/longitude coordinates.
+
+Meteorological Data
+Daily mean temperature and relative humidity were obtained from the University of Idaho Gridded Surface Meteorological Dataset (gridMET) on the Google Earth Engine Data Catalog. Daily temperature and humidity were averaged for each census tract from 4‐km grids using data from the National Land Data Assimilation System (NLDAS). We calculated daily heat index values for each census tract using the mean temperature and humidity values with the algorithm from Anderson et al.42
+
+Statistical Analysis
+We examined the association between OHCA and wildfire smoke PM2.5 in a case‐crossover study design using conditional logistic regression models. A case‐crossover design, which is appropriate for investigation of acute events and has been used previously in wildfire studies, was selected to control for individual risk factors, such as age and sex, and control for day of the week.43, 44
+
+Wildfire smoke exposures were compared on case and noncase (control) days. Each OHCA case day was matched by day of the week with 4 control days at 1, 2, 3, and 4 weeks before the event.44 Odds ratios (ORs) were expressed relative to days with no exposure, eg, odds of case occurrence on heavy smoke days versus odds on days without smoke.
+
+We selected control days close to the case date to reduce selection bias and variability in individual risk factors or temporal trends that may differ beyond a month.44, 45 Heat index was incorporated as a natural cubic spline with 2 degrees of freedom. Separate models were run for exposures on lag days 0 to 3. The exposure for lag day 0 is the smoke exposure density on the day of the OHCA event or control day, for lag day 1 is the density on the day before an OHCA event or control day, for lag day 2 it is the density 2 days before an OHCA event or control day, and for lag day 3 it is the density 3 days before an OHCA event or control day.
+
+In secondary analyses by subgroup, we explored the effects by SES, sex, and age (19–34 years, 35–64 years, and ≥65 years) in stratified analyses. We conducted a post hoc 2‐sample t test for assessing statistically significant differences in ORs between lower and higher SES subgroups using point estimates and standard errors estimated for each group (see Data S1 for formula). We also conducted a sensitivity analysis restricted to OHCA cases of presumed cardiac pathogenesis. All analyses were conducted with SAS statistical software version 9.4 (SAS Institute Inc.). This research was approved by the Committee for the Protection of Human Subjects of the State of California Health and Human Services Agency (project number: 2018‐202). Informed consent was not required, as participants were not directly involved.
+
+Results
+Characteristics of the Study Population
+In 2015–2017, there were 5336 cases of OHCA occurring in wildfire months that met our inclusion criteria. Of these, 16.4% (877) were exposed to wildfire smoke. Descriptive statistics for sex, age group, SES group, and pathogenesis by exposure are shown in Table 1. Cases categorized as male, 65 years and older, reported in higher SES areas, and with presumed cardiac pathogenesis represented a greater proportion of the cases.
+
+John Wiley & Sons, Ltd
+Table 1. Sociodemographic Factors of Patients With OHCA, by Number and Percent Exposed to Wildfire Smoke, in 14 California Counties for May 2015 to October 2017
+Total Patients	Exposed Patients
+N=5336	% of Total Patients	No.	% of Row Category
+Pathogenesis
+Presumed cardiac	4967	93.1	811	16.3
+Respiratory/asphyxia	369	6.9	66	17.9
+SES
+Lower SES	1017	19.1	188	18.5
+Higher SES	4319	80.9	689	16.0
+Sex
+Women	1902	35.6	313	16.5
+Men	3434	64.4	564	16.4
+Age, y
+19 to 34	205	3.8	36	17.6
+35 to 64	2057	38.5	358	17.4
+≥65	3074	57.6	483	15.7
+Total	5336	100.0	877	16.4
+OHCA indicates out‐of‐hospital cardiac arrest; SES, socioeconomic status.
+
+Wildfire Smoke Exposures
+The number of days impacted by wildfire smoke increased each year in study counties (Figure 1). Heavy smoke days tended to be most frequent in July to September, although in 2017 the highest proportion occurred in October (Table 2). Heavy smoke frequency coincided roughly with the highest heat index values.
+
+John Wiley & Sons, Ltd
+Table 2. Percentage of Study Days by Month and Year in Census Tracts From 14 California Counties by Wildfire Smoke Density and Mean and Maximum Heat Index for May 2015 to October 2017
+Smoke Density	May	June	July	August	September	October	November
+2015
+None, %	92.0	94.0	95.3	74.7	80.4	95.6	99.9
+Light, %	7.8	5.9	3.5	17.7	15.5	4.1	0.0
+Medium, %	0.2	0.1	1.0	6.0	4.0	0.4	0.0
+Heavy, %	0.0	0.0	0.2	1.5	0.1	0.0	0.0
+Heat index, mean, °F	58.0	66.7	68.4	70.2	69.7	66.8	51.6
+Heat index, maximum, °F	77.4	87.9	87.4	88.5	89.0	85.5	75.5
+2016
+None, %	99.9	96.1	84.0	53.1	58.9	99.9	100.0
+Light, %	0.1	3.3	10.0	40.5	38.1	0.1	0.0
+Medium, %	0.0	0.5	3.9	5.9	2.9	0.0	0.0
+Heavy, %	0.0	0.1	2.1	0.6	0.1	0.0	0.0
+Heat index, mean, °F	61.1	66.2	66.7	66.1	65.6	61.2	55.9
+Heat index, maximum, °F	83.9	86.1	87.3	85.2	84.5	79.7	77.2
+2017
+None, %	99.9	99.9	87.6	46.3	61.7	73.8	100.0
+Light, %	0.1	0.2	10.4	51.5	21.5	16.0	0.0
+Medium, %	0.0	0.0	1.4	1.9	16.3	4.5	0.0
+Heavy, %	0.0	0.0	0.6	0.3	0.5	5.7	0.0
+Heat index, mean, °F	61.4	66.4	68.8	69.2	68.9	62.4	55.6
+Heat index, maximum, °F	83.6	99.1	91.5	95.8	93.9	87.0	79.7
+Out‐of‐Hospital Cardiac Arrest
+Within the overall study population, ORs for OHCA were consistently elevated on days with heavy smoke and up to 3 days following exposure (Figure 2; Table 3). Associations between OHCA and heavy smoke exposure were significant at lag days 0, 2, and 3 (OR, 1.56 [95% CI, 1.05–2.33]; OR, 1.70 [95% CI, 1.18–2.45]; and OR, 1.48 [95% CI, 1.02–2.13], respectively). The association for lag day 1 was also elevated and consistent with the heavy smoke effect at other lag days but not statistically different from null (OR, 1.20; 95% CI, 0.80–1.79). Associations with light and medium densities of smoke appeared null or at times negative in the study population as a whole. In the sensitivity analysis restricted to cases of cardiac pathogenesis only, which excluded 7% of cases thought to have an underlying respiratory mechanism as the primary cause of arrest, effects persisted for heavy smoke at lag days 0 and 2 (OR, 1.52 [95% CI, 1.00–2.31] and OR, 1.66 [95% CI, 1.14–2.43], respectively) (Table 4).
+
+Figure 2.
+Download figureDownload PowerPoint
+Figure 2. Odds ratios and 95% CIs for out‐of‐hospital cardiac arrest in 14 California counties, May 2015 to October 2017, by wildfire smoke exposure on lag days 0 to 3 for the whole study population and stratified by socioeconomic status (SES).
+
+John Wiley & Sons, Ltd
+Table 3. OHCA and Wildfire Smoke in 14 California Counties for May 2015 to October 2017, Within the Whole Study Population and Stratified by SES for Patients With OHCA Who Had Presumed Cardiac or Respiratory/Asphyxia Pathogenesis
+SES	Smoke Density	Lag Day 0	Lag Day 1	Lag Day 2	Lag Day 3
+No.	OR (95% CI)	No.	OR (95% CI)	No.	OR (95% CI)	No.	OR (95% CI)
+All SES	Heavy	34	1.56 (1.05–2.33)*	31	1.20 (0.80–1.79)	41	1.70 (1.18–2.45)*	39	1.48 (1.02–2.13)*
+Medium	153	1.01 (0.83–1.22)	142	0.97 (0.79–1.18)	134	0.87 (0.71–1.06)	139	0.88 (0.72–1.08)
+Light	691	0.95 (0.86–1.05)	679	0.92 (0.83–1.01)	687	0.96 (0.87–1.06)	681	0.93 (0.84–1.03)
+Lower SES	Heavy	7	1.47 (0.62–3.51)	5	1.31 (0.48–3.58)	7	2.25 (0.90–5.61)	7	1.93 (0.79–4.73)
+Medium	34	1.14 (0.75–1.73)	36	1.30 (0.87–1.95)	35	1.30 (0.86–1.96)	39	1.22 (0.81–1.83)
+Light	148	1.04 (0.84–1.30)	140	1.02 (0.81–1.27)	137	1.03 (0.82–1.30)	136	1.03 (0.82–1.29)
+Higher SES	Heavy	27	1.59 (1.02–2.49)*	26	1.17 (0.76–1.82)	34	1.60 (1.07–2.40)*	32	1.40 (0.93–2.10)
+Medium	119	0.97 (0.78–1.21)	106	0.89 (0.71–1.12)	99	0.78 (0.61–0.98)*	100	0.80 (0.63–1.00)
+Light	543	0.93 (0.83–1.04)	539	0.89 (0.80–1.00)	550	0.95 (0.85–1.06)	545	0.91 (0.82–1.02)
+OHCA indicates out‐of‐hospital cardiac arrest; OR, odds ratio; SES, socioeconomic status.
+
+Significant findings (α=0.05).
+
+John Wiley & Sons, Ltd
+Table 4. OHCA and Wildfire Smoke in 14 California Counties for May 2015 to October 2017, Stratified by SES for Patients With OHCA Who Had Presumed Cardiac Pathogenesis Only
+SES	Smoke Density	Lag Day 0	Lag Day 1	Lag Day 2	Lag Day 3
+No.	OR (95% CI)	No.	OR (95% CI)	No.	OR (95% CI)	No.	OR (95% CI)
+All SES	Heavy	31	1.52 (1.00–2.31)*	29	1.18 (0.78–1.79)	38	1.66 (1.14–2.43)*	35	1.39 (0.95–2.05)
+Medium	136	0.95 (0.78–1.17)	134	0.97 (0.79–1.20)	125	0.87 (0.70–1.07)	123	0.83 (0.67–1.02)
+Light	644	0.94 (0.85–1.05)	626	0.91 (0.82–1.00)	628	0.94 (0.85–1.04)	629	0.91 (0.82–1.01)
+Lower SES	Heavy	6	1.33 (0.53–3.36)	5	1.31 (0.48–3.59)	7	2.47 (0.98–6.24)	7	1.94 (0.79–4.76)
+Medium	32	1.12 (0.73–1.72)	36	1.30 (0.87–1.95)	33	1.32 (0.86–2.03)	35	1.18 (0.78–1.80)
+Light	143	1.07 (0.86–1.34)	130	0.98 (0.78–1.24)	127	1.03 (0.82–1.30)	129	1.03 (0.81–1.30)
+Higher SES	Heavy	25	1.58 (0.99–2.52)	24	1.15 (0.73–1.82)	31	1.53 (1.01–2.32)*	28	1.29 (0.84–1.98)
+Medium	104	0.91 (0.72–1.15)	98	0.89 (0.70–1.13)	92	0.77 (0.60–0.98)*	88	0.74 (0.58–0.95)*
+Light	501	0.91 (0.82–1.03)	496	0.89 (0.79–1.00)	501	0.92 (0.82–1.03)	500	0.89 (0.79–1.00)
+OHCA indicates out‐of‐hospital cardiac arrest; OR, odds ratio; SES, socioeconomic status.
+
+Significant findings (α=0.05).
+
+Socioeconomic Status
+Risk of OHCA was elevated for both lower and higher SES groups with exposure to heavy smoke, with significant positive associations observed for higher SES cases with heavy smoke at lag days 0 and 2 (OR, 1.59 [95% CI, 1.02–2.49] and OR, 1.60 [95% CI, 1.07–2.40], respectively) (Figure 2; Table 3). In the lower SES group, ORs for heavy smoke were similar in magnitude but not statistically significant (lag day 0: OR, 1.47 [95% CI, 0.62–3.51] and lag day 2: OR, 2.25 [95% CI, 0.90–5.61) (Figure 2). At light and medium smoke densities, the lower SES group had elevated but not significant ORs for nearly all lags, while the higher SES group had a consistent negative effect, which was statistically significant for medium smoke at lag day 2 (OR, 0.78; 95% CI, 0.61–0.98). Overall, although both SES groups had elevated risk with heavy smoke exposure, lower SES cases tended to have elevated effects at medium and possibly light smoke, while higher SES cases showed null results or deficits. However, a significant difference in effects between lower and higher SES was observed only for medium smoke at lag day 2. As these secondary analyses had overlapping CIs and small sample sizes, differences between these subgroups studied, ie, SES, sex, and age, are uncertain based on these data.
+
+Sex
+Analysis by sex showed that both men and women experienced increases in OHCA under heavy smoke conditions (Figure 3; Table 5). Risk in women was highest with heavy smoke at lag day 0 (OR, 2.02; 95% CI, 1.10–3.70); and the highest OR in men occurred on lag day 2 with heavy smoke exposure (OR, 1.67; 95% CI, 1.08–2.59). Small cell sizes prevented further analysis by multiple strata.
+
+Figure 3.
+Download figureDownload PowerPoint
+Figure 3. Odds ratios and 95% CIs for out‐of‐hospital cardiac arrest in 14 California counties, May 2015 to October 2017, by wildfire smoke exposure on lag days 0 to 3, stratified by sex.
+
+John Wiley & Sons, Ltd
+Table 5. OHCA and Wildfire Smoke in 14 California Counties for May 2015 to October 2017, Stratified by Sex
+Sex	Smoke Density	Lag Day 0	Lag Day 1	Lag Day 2	Lag Day 3
+No.	OR (95% CI)	No.	OR (95% CI)	No.	OR (95% CI)	No.	OR (95% CI)
+Women	Heavy	16	2.02 (1.10–3.70)*	12	1.62 (0.83–3.17)	12	1.73 (0.88–3.41)	12	1.29 (0.68–2.48)
+Medium	59	1.03 (0.76–1.42)	52	0.85 (0.62–1.18)	58	1.07 (0.78–1.47)	53	0.90 (0.65–1.25)
+Light	238	0.91 (0.77–1.07)	252	0.92 (0.78–1.08)	254	1.06 (0.90–1.26)	244	0.96 (0.81–1.14)
+Men	Heavy	18	1.30 (0.76–2.21)	19	1.04 (0.63–1.72)	29	1.67 (1.08–2.59)*	27	1.57 (1.01–2.46)*
+Medium	94	0.98 (0.77–1.26)	90	1.05 (0.81–1.35)	76	0.76 (0.58–0.99)*	85	0.87 (0.67–1.12)
+Light	452	0.98 (0.87–1.11)	427	0.91 (0.81–1.04)	432	0.91 (0.80–1.03)	437	0.91 (0.81–1.04)
+OHCA indicates out‐of‐hospital cardiac arrest; OR, odds ratio.
+
+Significant findings (α=0.05).
+
+Age Group
+Heavy smoke increased risk of OHCA across age groups at multiple lags, although the age group 19 to 34 years had an insufficient number of cases and is not displayed in the figures. The 35‐ to 64‐year age group experienced their highest risk at lag day 0 (OR, 1.91; 95% CI, 1.07–3.42) (Figure 4; Table 6). A delayed effect was suggested in the age group 65 years and older for heavy smoke, as the association with OHCA appeared stronger on later lag days (lag day 2: OR, 2.12 [95% CI, 1.31–3.46]; lag day 3: OR, 1.67 [95% CI, 1.02–2.72). However, similar limitations to our subgroup comparisons apply to any interpretation based on comparing differences in timing (lags) and whether they reflect a biologically or behaviorally meaningful pattern.
+
+Figure 4.
+Download figureDownload PowerPoint
+Figure 4. Odds ratios and 95% CIs for out‐of‐hospital cardiac arrest in 14 California counties, May 2015 to October 2017, by wildfire smoke exposure on lag days 0 to 3, stratified by age group. Younger adults aged 19 to 34 years are not shown because of low numbers.
+
+John Wiley & Sons, Ltd
+Table 6. OHCA and Wildfire Smoke in 14 California Counties for May 2015 to October 2017, Stratified by Age Group
+Age, y	Smoke Density	Lag Day 0	Lag Day 1	Lag Day 2	Lag Day 3
+No.	OR (95% CI)	No.	OR (95% CI)	No.	OR (95% CI)	No.	OR (95% CI)
+19 to 34	Heavy	<5	3.19 (0.20–52.07)	0	…	0	…	0	…
+Medium	7	0.97 (0.40–2.38)	5	0.46 (0.16–1.30)	<5	0.38 (0.11–1.34)	<5	0.28 (0.06–1.24)
+Light	28	0.93 (0.57–1.51)	26	0.87 (0.53–1.43)	28	0.81 (0.50–1.32)	29	0.99 (0.61–1.61)
+35 to 64	Heavy	17	1.91 (1.07–3.42)a	15	1.33 (0.74–2.39)	16	1.47 (0.83–2.61)	16	1.52 (0.85–2.70)
+Medium	52	0.94 (0.68–1.29)	59	1.12 (0.82–1.53)	62	1.06 (0.78–1.44)	60	1.04 (0.76–1.41)
+Light	289	1.04 (0.89–1.22)	262	0.91 (0.78–1.07)	269	0.99 (0.84–1.16)	270	0.97 (0.83–1.14)
+≥65	Heavy	16	1.28 (0.72–2.25)	16	1.22 (0.70–2.14)	25	2.12 (1.31–3.46)a	23	1.67 (1.02–2.72)a
+Medium	94	1.05 (0.82–1.35)	78	0.92 (0.71–1.20)	69	0.78 (0.59–1.03)	76	0.83 (0.63–1.08)
+Light	373	0.89 (0.78–1.02)	391	0.92 (0.81–1.05)	389	0.95 (0.84–1.09)	382	0.90 (0.79–1.03)
+OHCA indicates out‐of‐hospital cardiac arrest; OR, odds ratio.
+
+aSignificant findings (α=0.05).
+
+Discussion
+Investigation of wildfire smoke exposure and OHCA in the diverse California population across varying geographies has provided additional evidence for an association between wildfire smoke and clinically important cardiovascular outcomes. In our analysis of 14 wildfire‐impacted California counties in 2015–2017, we observed a significant increase in OHCA with exposure to heavy density of wildfire smoke. This increased risk persisted for several days after exposure, and consistent associations were present across study population subgroups. Because the majority of patients with OHCA do not survive to hospital admission, this surveillance data enabled us to capture effects for cases that would not have been included in previous wildfire studies examining cardiovascular outcomes based on hospital admissions or emergency department visits.7, 30, 46, 47
+
+Although the pathophysiological mechanisms linking wildfire smoke exposure specifically to OHCA have not been studied, much is known about the mechanisms relating particle air pollution to cardiovascular outcomes, such as acute ischemia, myocardial infarction, heart failure, thromboembolism, and arrhythmia, conditions known to place an individual at risk for sudden death.48 This body of knowledge recognizes multiple pathways by which wildfire smoke can disrupt the cardiovascular system.
+
+PM deposits in pulmonary airways and alveoli, prompting imbalances in the autonomic nervous system, inflammation, and oxidative stress. The primary initiating pathways stem from oxidative stress and direct translocation of PM from the lung to the circulation. Secondary pathways have been described that include effects on vascular function, activation of central nervous system pathways, activation of prothrombotic pathways, activation of the hypothalamic and pituitary‐adrenal axis, systemic inflammatory pathways, and epigenetic changes.49Figure 5 shows a conceptual model of proposed adverse outcome pathways that transduce wildfire smoke exposure to clinically relevant cardiovascular outcomes including OHCA based on what is known about airborne PM.48 Such a conceptual model is important for developing research to investigate mechanisms triggering cardiovascular events including out‐of‐hospital cardiac death.
+
+Figure 5.
+Download figureDownload PowerPoint
+Figure 5. Biochemical and physiological responses to inhaled particulate matter: linking inhalation of wildfire smoke to out‐of‐hospital cardiac arrest. Inhaled ambient air particles deposit in airways and alveoli activating the transient receptor potential (TRP) channels receptors and modulating autonomic control of the heart rhythm and affecting vascular function. Pulmonary macrophages and epithelium produce proinflammatory cytokines and chemokines and contribute to systemic oxidative stress and inflammation mediating responses in adipose tissue and the liver (C‐reactive protein, fibrinogen). These responses are associated with vascular effects, insulin resistance, lipoprotein modification, increased coagulation, and decreased fibrinolysis. Ultrafine particulate matter (PM) and soluble components of PM translocate to systemic circulation. Direct translocation to the central nervous system (CNS) through the nose and olfactory bulb has also been postulated. The biological and physiological responses appear to accelerate atherosclerosis and contribute to plaque vulnerability over the long‐term and thrombosis in the short‐term. Short‐term clinical responses to ambient air particle pollution include myocardial infarction, stroke, pulmonary embolism, heart failure, and arrhythmia (these apical end points are also documented in response to wildfire smoke in30) ANS indicates autonomic nervous system; BP, blood pressure; DVT, deep venous thrombosis; HPA, hypothalamic and pituitary adrenal; HR, heart rate; PAI‐1, plasminogen activator inhibitor‐1; PE, pulmonary embolism; ROS, reactive oxygen species; UFPM, ultrafine particulate matter. Adapted from.50
+
+In addition to underlying cardiovascular disease, conditions such as aging, obesity, and diabetes mellitus are important biologic modifiers of cardiac electrophysiology that might influence the mechanistic relationship between PM and cardiac arrest. A variety of chronic respiratory conditions, such as asthma, chronic obstructive pulmonary disease, pulmonary fibrosis, and pulmonary hypertension, if severe, might also place individuals at risk for sudden cardiac death.
+
+Our results are consistent with the few other studies that examined wildfire smoke and OHCA. Although the Singapore OHCA study used a multipollutant exposure metric not directly comparable with our study,37, 38 they observed increased risk at moderate and unhealthy exposure levels.27 The OHCA registry used in the 2 Australian studies had broader inclusion criteria than CARES, allowing cases in which resuscitation was not attempted by EMS.35, 36, 51 One of these analyses examined hourly exposure levels and cumulative lag effects, showing the strongest effect across 24 to 48 hours, similar to our finding of the strongest effect for heavy smoke with a lag effect of daily averaged exposure.35
+
+Precipitating conditions to OHCA such as ischemic heart disease and cardiac arrhythmia have also been examined for associations with wildfire smoke, but while some recent studies have found positive associations,29, 30, 36, 52 other studies have null or even negative findings.47, 52, 53, 54, 55, 56 However, in a previous analysis, we found significant increases in emergency department visits for arrhythmia, among others, with the greatest effect among adults 65 years and older exposed to dense smoke.30 Possibly because of the high fatality rate with OHCA, wildfire studies reporting OHCA or mortality have tended to result in more consistent associations; significant positive associations were seen in 8 of 13 all‐cause or cardiovascular mortality analyses in Reid's critical review.25 This may reflect in a situation in which acute cardiovascular events are not always captured in hospital or emergency department studies.
+
+Our study and other studies have shown deficits in cardiovascular events, and while we do not hypothesize a true physiologically protective effect, further exploration is warranted to investigate potential reasons.47, 52, 57 Johnston and colleagues52 noted deficits for cardiac arrhythmia, positing that this effect may be caused by an offsetting increase in cardiac arrests occurring outside a hospital setting, thereby decreasing the hospital presentations.
+
+Competing risks may also play an important role in a lack of association or deficit for cardiovascular outcomes. Given the substantial prevalence of comorbidity in people with both cardiovascular and respiratory conditions in the population,58 it may be possible that people with both types of conditions may first develop a respiratory problem and seek emergency care or be hospitalized for this condition, and thus be prevented from developing an adverse cardiovascular event during a wildfire exposure period. DeFlorio‐Barker et al26 similarly suggested that acute respiratory effects of PM may reduce the risk pool for cardiovascular events in their analysis of cardiopulmonary hospitalizations for older adults.
+
+Our study findings are consistent with previous research on the importance of SES vulnerability factors in wildfire impacts.59 Besides external factors such as exposure or adaptive capacity, lower SES populations may have a greater prevalence of underlying health conditions that would increase their risk of adverse health outcomes during wildfires. Rappold et al60 found that SES factors strongly influenced the wildfire smoke effect on congestive heart failure. A study of respiratory effects from a northern California wildfire also found the highest impact in low‐income zip codes.47 In Australia, Johnston and colleagues57 observed a deficit in cardiovascular hospital admissions for the nonindigenous population yet a consistent increase among the more vulnerable indigenous population.
+
+In addition to the increased vulnerability in lower SES communities, several possible protective behaviors could be considered that may be more relevant to higher SES individuals, as a result of their greater capacity to make adaptive changes through behavioral modification: (1) individuals in the high‐risk group, eg, with preexisting cardiopulmonary conditions, may leave the area during the fires; (2) at the advent of fires, at‐risk individuals may act to decrease exposure by some combination of staying indoors, using portable air filters, and/or using N95 respirators; and (3) the at‐risk group may modify activities to avoid exertion, thereby averting the biological processes that could trigger cardiac arrest. In addition to behavioral modifications that may reduce risk, higher SES individuals may also live in homes with air‐conditioning and better air filtration.
+
+Few studies have investigated differences in wildfire smoke effects for cardiovascular health outcomes by sex, with mixed results.29, 61 Two Australian OHCA studies found that men were more affected than women and suggested this may be attributable to sex differences in biologic susceptibility to cardiac arrest.35, 36 Women's cardiovascular risk may also be shaped by their levels of risk awareness for cardiovascular conditions, which remains low despite advances in research,31 and they may therefore be less likely to take preventive measures.62
+
+Aging can also modify the risk of underlying cardiovascular conditions, and the population of patients older than 65 years would be expected to have higher baseline risk. Not surprisingly, a number of studies have found stronger associations between wildfire smoke exposure and cardiovascular health effects in adults 65 or older.11, 30, 36 However, we also observed elevated effects for adults aged 35 to 64 years. Similar to women, our finding that younger as well as older adults experienced elevated risk may relate to lower awareness of their potential risk, causing them to continue activities involving exertion and exposure during wildfire smoke episodes. This middle‐aged adult population is of particular concern for public health officials, characterized by CDC and Centers for Medicare and Medicaid Services (CMS) as a priority population because of increasing risk for adverse cardiovascular outcomes.63 OHCA among the younger population is likely related to uncommon congenital or familial conditions and comprises a small proportion of OHCA, limiting our ability to detect effects.34
+
+Study Limitations
+There are limitations within this study. Because the CARES registry includes only patients with OHCA for which EMS provided treatment, and not EMS‐assessed patients who were dead on EMS arrival or presented with a do‐not‐resuscitate directive, our results may not be generalizable to all cases of OHCA. If case status (dead/alive) at the time of arrival is dependent on wildfire smoke exposure, our results would likely underestimate the overall risk. Our interpretation of findings assumed that probability of EMS treatment on arrival does not depend on smoke exposure, but rather is influenced by factors such as comorbidities, arrest witness status, and local EMS protocols. Considering that smoke, unlike fire, does not impact timing and delivery of EMS service, this may be a reasonable assumption to make, although difficult to verify. Also, classification of cardiac versus respiratory pathogenesis may be inaccurate, as it is largely provided by field EMS assessments and occasional bystander reports. Finally, although we considered the entire population of OHCA cases in this analysis, our sample size is limited, therefore we advise caution in interpreting results and recommend that our findings be viewed in the context of other evidence reported in the literature.
+
+Our secondary analyses of subgroups should similarly be viewed with caution in light of the relatively small sample size in our study to detect statistically robust differences. Further investigation with a large, diverse sample would be desirable to understand potential differences and reasons for these differences by SES, age, and sex.
+
+Exposure misclassification may also impact this study because we cannot presume that the place of exposure is consistent across lag days. However, smoke exposure is typically spatially widespread on any given day, and the majority of OHCA cases in the United States, ≈66%, are reported to occur at private residences.33
+
+Our exposure is classified based on satellite images of smoke plumes. While satellite imagery is good at depicting spatial and temporal domain of exposure and contrasts between high and low exposure days, it does not capture smoke concentrations at ground level, which monitoring data would provide. However, the lack of comprehensive placement of stationary monitors presents other shortcomings, requiring further calculations to estimate concentrations for much of California. The validity of satellite‐derived HMS plumes is supported by recent studies correlating elevated PM2.5 concentrations measured by ground monitors with the presence and density of HMS plumes.64, 65 To investigate this issue further, we compared HMS smoke plumes during 2016–2017 with daily averages of hourly PM2.5 measurements from monitors in California, which are part of the US Environmental Protection Agency's (EPA's) air quality system.66 We found that average PM2.5 concentrations at monitor locations increased in correspondence with HMS smoke plume density category: no smoke: 9.6 μg/m3; light smoke: 12.6 μg/m3; medium smoke: 18.2 μg/m3; heavy smoke: 26.1 μg/m3; and all differences between categories were significant at a 95% level. Our categorical exposure metric does not allow for examination of a potential dose response function at higher concentrations. Wildfire‐derived PM2.5 has been monitored in ranges exceeding the 100s, even reaching the 1000s μg/m3.9, 10 Effects we noted for heavy smoke may have been dependent on higher concentrations.
+
+Mega‐wildfires, which can produce high concentrations of PM, are increasingly arising from extended drought and extreme weather events combined with accumulated biomass. Climate models predict weather conditions that signal a future in which severe wildfires and their emissions will continue to impact both rural and heavily populated urban areas for generations to come. In addition to climate‐driven increases, health effects from wildfire emissions will also be intensified by demographics of the aging American population, the increasingly large proportion of the population living in the wildland‐urban interface, and the rising prevalence of comorbid conditions, not only cardiopulmonary but conditions such as obesity and diabetes mellitus.
+
+Historically in the United States, the ambient particle air pollution has been curtailed through implementation of the Clean Air Act and associated policies, which have primarily addressed emissions from power plants, vehicles, and industry. Despite renewed attention on best practices for forest management, the options to curb wildfire emissions are limited. Because of this, personal interventions to decrease exposure to smoke assume greater importance in the efforts to protect those at greatest risk, patients with cardiopulmonary disease, namely ischemic heart disease, heart failure, cerebrovascular disease, arrhythmia, chronic obstructive pulmonary disease, and asthma. Engineering interventions might include creating cleaner air spaces in homes, work places, and public buildings through improved heating, ventilating, and air‐conditioning air ventilation systems. Models of the health benefit of portable high‐efficiency particulate air filtration in homes of older adults at higher risk for adverse health effects from wildfire smoke exposure suggest that such an intervention would be cost‐effective.67 The need for empirically proven interventions to provide better guidance to the public at risk has been raised by multiple agencies including the National Heart, Lung, and Blood Institute; National Institutes of Environmental Health Sciences; CDC; CMS; and the US EPA.68
+
+The principal finding of our study showing the temporal association between wildfire smoke exposure and OHCA provides direct evidence of cardiovascular clinical events. An expert panel convened by the American Heart Association and others recommends advising patients with cardiovascular disease about the risks from air pollution.50 The US EPA offers continuing education for healthcare providers on particle air pollution at https://www.epa.gov/pmcourse/continuing-education-particle-pollution-course.
+
+Conclusions
+Further research should investigate ways to enhance the public's adaptive capacity to increasingly frequent and widespread wildfire smoke conditions. Addressing disparities in vulnerabilities and protective capacity is critical to mounting an effective wildfire smoke response, as low SES appears to be a factor that intensifies the health burden. Studies to assess the thresholds for health effects, as well as the mechanisms of action and physiological processes that culminate in a cardiovascular outcome, can be used to develop more targeted wildfire smoke advisories. The future trajectory of wildfire along with the increasing vulnerability of our population highlights the far‐reaching nature of the threat to Californians and others worldwide and underscores the importance of formulating strategies to protect those most vulnerable.
+
+Sources of Funding
+All authors were supported for this work through their listed affiliations.
+
+Disclosures
+None.
+
+Acknowledgments
+The CARES Surveillance Group comprises all members of contributing EMS agencies and hospitals. We would like to acknowledge their contributions, although we are unable to individually list all of the members, as CARES includes individuals from the 1800+ EMS agencies and 2000+ hospitals that participate in the registry. We wish to thank the members in the contributing EMS agencies and hospitals that participate in the CARES Surveillance Group for granting inclusion of their jurisdiction's surveillance data. We greatly appreciate CARES's Director of Data Management and Software Development, Kimberly Vellano, MPH, for her expert guidance in facilitating our obtaining and interpreting their data. Caroline Collins, MPH, California Department of Public Health, assisted us in obtaining and analyzing additional exposure data. The research described in this article has been reviewed by the National Health and Environmental Effects Research Laboratory, US EPA, and approved for publication. Approval does not signify that the contents necessarily reflect the views and the policies of the Agency, nor does mention of trade names of commercial products constitute endorsement or recommendation for use. The findings and conclusions of this study are those of the authors and do not necessarily represent the official position of the California Department of Public Health.
+
+Footnotes
+*Correspondence to: Sumi Hoshiko, MPH, California Department of Public Health, Environmental Health Investigations Branch/CDPH/EHIB, 850 Marina Bay Parkway, Building P, 3rd Floor, Richmond, CA 94804. Email: sumi.hoshiko@cdph.ca.gov
+References
+1O'Dell K, Ford B, Fischer EV, Pierce JR. The contribution of wildland‐fire smoke to US PM2.5 and its influence on recent trends. Environ Sci Technol. 2019; 53:1797–1804.CrossrefMedlineGoogle Scholar
+2Pachauri RK, Allen MR, Barros VR, Broome J, Cramer W, Christ R, Church JA, Clarke L, Dahe Q, Dasgupta P, Dubash NK. Climate change 2014: synthesis report. Contribution of working groups I, II and III to the fifth assessment report of the intergovernmental panel on climate change. Geneva, Switzerland. IPCC. 2014;151.Google Scholar
+3Reidmiller D, Avery C, Easterling D, Kunkel K, Lewis K, Maycock T, Stewart BC. Impacts, risks, and adaptation in the United States: Fourth national climate assessment, volume II. Washington, DC, USA. U.S. Global Change Research Program. 2017;186.Google Scholar
+4Liu JC, Mickley LJ, Sulprizio MP, Dominici F, Yue X, Ebisu K, Anderson GB, Khan RF, Bravo MA, Bell ML. Particulate air pollution from wildfires in the western US under climate change. Clim Change. 2016; 138:655–666.CrossrefMedlineGoogle Scholar
+5Liu X, Huey LG, Yokelson RJ, Selimovic V, Simpson IJ, Müller M, Jimenez JL, Campuzano‐Jost P, Beyersdorf AJ, Blake DR, Butterfield Z. Airborne measurements of western US wildfire emissions: comparison with prescribed burning and air quality implications. JGR Atmos. 2017; 122:6108–6129.CrossrefGoogle Scholar
+6Naeher LP, Brauer M, Lipsett M, Zelikoff JT, Simpson CD, Koenig JQ, Smith KR. Woodsmoke health effects: a review. Inhal Toxicol. 2007; 19:67–106.CrossrefMedlineGoogle Scholar
+7Hutchinson JA, Vargo J, Milet M, French NH, Billmire M, Johnson J, Hoshiko S. The San Diego 2007 wildfires and Medi‐Cal emergency department presentations, inpatient hospitalizations, and outpatient visits: an observational study of smoke exposure periods and a bidirectional case‐crossover analysis. PLoS Med. 2018; 15:e1002601.CrossrefMedlineGoogle Scholar
+8Navarro KM, Cisneros R, O'Neill SM, Schweizer D, Larkin NK, Balmes JR. Air‐quality impacts and intake fraction of PM2.5 during the 2013 Rim megafire. Environ Sci Technol. 2016; 50:11965–11973.CrossrefMedlineGoogle Scholar
+9Wagoner JW. Biannual air quality report and update on Check Before You Light Program. BCAQMD Governing Board Meeting. Chico, CA; 2018.Google Scholar
+10Wagoner JW. 2018 Biannual air quality update. Butte County Air Quality Management District Board of Directors. Chico, CA; 2019.Google Scholar
+11Kollanus V, Tiittanen P, Niemi JV, Lanki T. Effects of long‐range transported air pollution from vegetation fires on daily mortality and hospital admissions in the Helsinki metropolitan area, Finland. Environ Res. 2016; 151:351–358.  CrossrefMedlineGoogle Scholar
+12Moeltner K, Kim MK, Zhu E, Yang W. Wildfire smoke and health impacts: a closer look at fire attributes and their marginal effects. J Environ Econ Manage. 2013; 66:476–496.CrossrefGoogle Scholar
+13Zu K, Tao G, Long C, Goodman J, Valberg P. Long‐range fine particulate matter from the 2002 Quebec forest fires and daily mortality in greater Boston and New York City. Air Qual Atmos Health. 2016; 9:213–221.CrossrefMedlineGoogle Scholar
+14US EPA . National emissions inventory data [Internet]. Washington, DC: US EPA; 2014. Available at: https://www.epa.gov/air-emissions-inventories/2014-national-emissions-inventory-nei-data. Accessed October 22, 2019.Google Scholar
+15US EPA . Integrated science assessment (ISA) for particulate matter (external review draft). Washington, DC: U.S. Environmental Protection Agency. 2018;600:179.Google Scholar
+16World Health Organization . Health effects of particulate matter. Policy implications for countries in eastern Europe. Caucasus and central Asia. Copenhagen Ø, Denmark: World Health Organization Regional Office for Europe; 2013:15.Google Scholar
+17Shah AS, Langrish JP, Nair H, McAllister DA, Hunter AL, Donaldson K, Newby DE, Mills NL. Global association of air pollution and heart failure: a systematic review and meta‐analysis. Lancet. 2013; 382:1039–1048.CrossrefMedlineGoogle Scholar
+18Mustafić H, Jabre P, Caussin C, Murad MH, Escolano S, Tafflet M, Périer MC, Marijon E, Vernerey D, Empana JP, Jouven X. Main air pollutants and myocardial infarction: a systematic review and meta‐analysis. JAMA. 2012; 307:713–721.CrossrefMedlineGoogle Scholar
+19Shah AS, Lee KK, McAllister DA, Hunter A, Nair H, Whiteley W, Langrish JP, Newby DE, Mills NL. Short term exposure to air pollution and stroke: systematic review and meta‐analysis. BMJ. 2015; 350:h1295.CrossrefMedlineGoogle Scholar
+20Shin HH, Fann N, Burnett RT, Cohen A, Hubbell BJ. Outdoor fine particles and nonfatal strokes: systematic review and meta‐analysis. Epidemiology. 2014; 25:835.CrossrefMedlineGoogle Scholar
+21Stafoggia M, Cesaroni G, Peters A, Andersen ZJ, Badaloni C, Beelen R, Caracciolo B, Cyrys J, de Faire U, de Hoogh K, Eriksen KT. Long‐term exposure to ambient air pollution and incidence of cerebrovascular events: results from 11 European cohorts within the escape project. Environ Health Perspect. 2014; 122:919–925.CrossrefMedlineGoogle Scholar
+22Wang Y, Eliot MN, Wellenius GA. Short‐term changes in ambient particulate matter and risk of stroke: a systematic review and meta‐analysis. J Am Heart Assoc. 2014; 3:e000983. DOI: 10.1161/JAHA.114.000983LinkGoogle Scholar
+23Link MS, Dockery DW. Air pollution and the triggering of cardiac arrhythmias. Curr Opin Cardiol. 2010; 25:16.CrossrefMedlineGoogle Scholar
+24Cascio WE. Wildland fire smoke and human health. Sci Total Environ. 2018; 624:586–595.CrossrefMedlineGoogle Scholar
+25Reid CE, Brauer M, Johnston FH, Jerrett M, Balmes JR, Elliott CT. Critical review of health impacts of wildfire smoke exposure. Environ Health Perspect. 2016; 124:1334–1343.CrossrefMedlineGoogle Scholar
+26DeFlorio‐Barker S, Crooks J, Reyes J, Rappold AG. Cardiopulmonary effects of fine particulate matter exposure among older adults, during wildfire and non‐wildfire periods, in the United States 2008–2010. Environ Health Perspect. 2019; 127:037006.CrossrefMedlineGoogle Scholar
+27Ho AFW, Wah W, Earnest A, Ng YY, Xie Z, Shahidah N, Yap S, Pek PP, Liu N, Lam SS, Ong ME. Health impacts of the southeast Asian haze problem–a time‐stratified case crossover study of the relationship between ambient air pollution and sudden cardiac deaths in Singapore. Int J Cardiol. 2018; 271:352–358.CrossrefMedlineGoogle Scholar
+28Parthum B, Pindilli E, Hogan D. Benefits of the fire mitigation ecosystem service in the Great Dismal Swamp National Wildlife Refuge, Virginia, USA. J Environ Manage. 2017; 203:375–382.CrossrefMedlineGoogle Scholar
+29Tinling MA, West JJ, Cascio WE, Kilaru V, Rappold AG. Repeating cardiopulmonary health effects in rural North Carolina population during a second large peat wildfire. Environ Health. 2016; 15:12.CrossrefMedlineGoogle Scholar
+30Wettstein ZS, Hoshiko S, Fahimi J, Harrison RJ, Cascio WE, Rappold AG. Cardiovascular and cerebrovascular emergency department visits associated with wildfire smoke exposure in California in 2015. J Am Heart Assoc. 2018; 7:e007492. DOI: 10.1161/JAHA.117.007492LinkGoogle Scholar
+31Benjamin EJ, Blaha MJ, Chiuve SE, Cushman M, Das SR, Deo R, Floyd J, Fornage M, Gillespie C, Isasi CR, Jiménez MC. Heart disease and stroke statistics‐2017 update: a report from the American Heart Association. Circulation. 2017; 135:e146–e603.LinkGoogle Scholar
+32Milan M, Perman SM. Out of hospital cardiac arrest: a current review of the literature that informed the 2015 American Heart Association guidelines update. Curr Emerg Hosp Med Rep. 2016; 4:164–171.CrossrefMedlineGoogle Scholar
+33McNally B, Robb R, Mehta M, Vellano K, Valderrama AL, Yoon PW, Sasson C, Crouch A, Perez AB, Merritt R, Kellermann A. Out‐of‐hospital cardiac arrest surveillance—cardiac arrest registry to enhance survival (CARES), United States, October 1, 2005–December 31, 2010. MMWR Morb Mortal Wkly Rep. 2011; 60:1–19.Google Scholar
+34Cardiac Arrest Registry to Enhance Survival . CARES annual report 2017. Atlanta, GA: Cardiac Arrest Registry to Enhance Survival; 2018:40.Google Scholar
+35Dennekamp M, Straney LD, Erbas B, Abramson MJ, Keywood M, Smith K, Sim MR, Glass DC, Del Monaco A, Haikerwal A, Forest Tonkin AM. Forest fire smoke exposures and out‐of‐hospital cardiac arrests in Melbourne, Australia: a case‐crossover study. Environ Health Perspect. 2015; 123:959–964.CrossrefMedlineGoogle Scholar
+36Haikerwal A, Akram M, Del Monaco A, Smith K, Sim MR, Meyer M, Tonkin AM, Abramson MJ, Dennekamp M. Impact of fine particulate matter (PM 2.5) exposure during wildfires on cardiovascular health outcomes. J Am Heart Assoc. 2015; 4:e0001653. DOI: 10.1161/JAHA.114.001653LinkGoogle Scholar
+37Ong MEH, Shin SD, Tanaka H, Ma MHM, Khruekarnchana P, Hisamuddin N, Atilla R, Middleton P, Kajino K, Leong BS, Khan MN. Pan‐Asian resuscitation outcomes study (PAROS): rationale, methodology, and implementation. Acad Emerg Med. 2011; 18:890–897.CrossrefMedlineGoogle Scholar
+38National Environment Agency . Haze Situation Update [Internet]. National Environmental Agency. 2019. 2019. Available at: https://www.haze.gov.sg/. Accessed October 22, 2019.Google Scholar
+39Cardiac Arrest Registry to Enhance Survival . CARES in action. Atlanta, GA: Cardiac Arrest Registry to Enhance Survival. 2018:12.Google Scholar
+40Index of /pub/volcano/FIRE/HMS_ARCHIVE. Silver Spring, MD. NOAA. 2003. Available at: https://satepsanone.nesdis.noaa.gov/pub/volcano/FIRE/HMS_ARCHIVE/. Accessed October 22, 2019.Google Scholar
+41Ruminski M, Simko J. The NOAA/NESDIS fire and smoke analysis product. 2012.Google Scholar
+42Anderson GB, Bell ML, Peng RD. Methods to calculate the heat index as an exposure metric in environmental health research. Environ Health Perspect. 2013; 121:1111–1119.CrossrefMedlineGoogle Scholar
+43Maclure M. The case‐crossover design: a method for studying transient effects on the risk of acute events. Am J Epidemiol. 1991; 133:144–153.CrossrefMedlineGoogle Scholar
+44Maclure M, Mittleman MA. Should we use a case‐crossover design?Annu Rev Public Health. 2000; 21:193–221.CrossrefMedlineGoogle Scholar
+45Bateson TF, Schwartz J. Selection bias and confounding in case‐crossover analyses of environmental time‐series data. Epidemiology. 2001; 12:654–661.CrossrefMedlineGoogle Scholar
+46Delfino RJ, Brummel S, Wu J, Stern H, Ostro B, Lipsett M, Winer A, Street DH, Zhang L, Tjoa T, Gillen DL. The relationship of respiratory and cardiovascular hospital admissions to the southern California wildfires of 2003. Occup Environ Med. 2009; 66:189–197.CrossrefMedlineGoogle Scholar
+47Reid CE, Jerrett M, Tager IB, Petersen ML, Mann JK, Balmes JR. Differential respiratory health effects from the 2008 northern California wildfires: a spatiotemporal approach. Environ Res. 2016; 150:227–235.CrossrefMedlineGoogle Scholar
+48Cascio WE. Proposed pathophysiologic framework to explain some excess cardiovascular death associated with ambient air particle pollution: insights for public health translation. Biochim Biophys Acta. 2016; 1860:2869–2879.CrossrefMedlineGoogle Scholar
+49Rajagopalan S, Brook RD. Fishin’ mission on emissions. J Am Coll Cardiol. 2019; 73:2086–2088.CrossrefMedlineGoogle Scholar
+50Brook RD, Rajagopalan S, Pope CA, Brook JR, Bhatnagar A, Diez‐Roux AV, Holguin F, Hong Y, Luepker RV, Mittleman MA, Peters A. Particulate matter air pollution and cardiovascular disease: an update to the scientific statement from the American Heart Association. Circulation. 2010; 121:2331–2378.LinkGoogle Scholar
+51Ambulance Victoria Centre for Research & Evaluation . Victorian ambulance cardiac arrest registry 2016–2017 annual report. Doncaster, VIC: Ambulance Victoria; 2018:56.Google Scholar
+52Johnston FH, Purdie S, Jalaludin B, Martin KL, Henderson SB, Morgan GG. Air pollution events from forest fires and emergency department attendances in Sydney, Australia 1996–2007: a case‐crossover analysis. Environ Health. 2014; 13:105.CrossrefMedlineGoogle Scholar
+53Hanigan IC, Johnston FH, Morgan GG. Vegetation fire smoke, indigenous status and cardio‐respiratory hospital admissions in Darwin, Australia, 1996–2005: a time‐series study. Environ Health. 2008; 7:42.CrossrefMedlineGoogle Scholar
+54Martin KL, Hanigan IC, Morgan GG, Henderson SB, Johnston FH. Air pollution from bushfires and their association with hospital admissions in Sydney, Newcastle and Wollongong, Australia 1994–2007. Aust N Z J Public Health. 2013; 37:238–243.CrossrefMedlineGoogle Scholar
+55Morgan G, Sheppeard V, Khalaj B, Ayyar A, Lincoln D, Jalaludin B, Beard J, Corbett S, Lumley T. Effects of bushfire smoke on daily mortality and hospital admissions in Sydney, Australia. Epidemiology. 2010;47–55.CrossrefMedlineGoogle Scholar
+56Rappold AG, Stone SL, Cascio WE, Neas LM, Kilaru VJ, Carraway MS, Szykman JJ, Ising A, Cleve WE, Meredith JT, Vaughan‐Batten H. Peat bog wildfire smoke exposure in rural North Carolina is associated with cardiopulmonary emergency department visits assessed through syndromic surveillance. Environ Health Perspect. 2011; 119:1415–1420.CrossrefMedlineGoogle Scholar
+57Johnston FH, Bailie RS, Pilotto LS, Hanigan IC. Ambient biomass smoke and cardio‐respiratory hospital admissions in Darwin, Australia. BMC Public Health. 2007; 7:240.CrossrefMedlineGoogle Scholar
+58Carter P, Lagan J, Fortune C, Bhatt DL, Vestbo J, Niven R, Chaudhuri N, Schelbert EB, Potluri R, Miller CA. Association of cardiovascular disease with respiratory disease. J Am Coll Cardiol. 2019; 73:2166–2177.CrossrefMedlineGoogle Scholar
+59Davies IP, Haugo RD, Robertson JC, Levin PS. The unequal vulnerability of communities of color to wildfire. PLoS ONE. 2018; 13:e0205825.CrossrefMedlineGoogle Scholar
+60Rappold AG, Cascio WE, Kilaru VJ, Stone SL, Neas LM, Devlin RB, Diaz‐Sanchez D. Cardio‐respiratory outcomes associated with exposure to wildfire smoke are modified by measures of community health. Environ Health. 2012; 11:71.CrossrefMedlineGoogle Scholar
+61Henderson SB, Brauer M, MacNab YC, Kennedy SM. Three measures of forest fire smoke exposure and their associations with respiratory and cardiovascular health outcomes in a population‐based cohort. Environ Health Perspect. 2011; 119:1266–1271.CrossrefMedlineGoogle Scholar
+62Mosca L, Hammond G, Mochari‐Greenberger H, Towfighi A, Albert MA. Fifteen‐year trends in awareness of heart disease in women: results of a 2012 American Heart Association national survey. Circulation. 2013; 127:1254–1263.LinkGoogle Scholar
+63Centers for Disease Control and Prevention . Particle pollution and heart disease. Atlanta, GA: Centers for Disease Control and Prevention . 2019. Available at: https://www.cdc.gov/air/particulate_matter.html. Accessed October 21, 2019.Google Scholar
+64Preisler HK, Schweizer D, Cisneros R, Procter T, Ruminski M, Tarnay L. A statistical model for determining impact of wildland fires on particulate matter (PM2.) in central California aided by satellite imagery of smoke. Environ Pollut. 2015; 205:340–349.CrossrefMedlineGoogle Scholar
+65Larsen AE, Reich BJ, Ruminski M, Rappold AG. Impacts of fire smoke plumes on regional air quality, 2006–2013. J Expo Sci Environ Epidemiol. 2018; 28:319.CrossrefMedlineGoogle Scholar
+66Index of /monitoring/AirNow/RData. Washington, DC: USDA Forest Service; 2016. Available from: https://haze.airfire.org/monitoring/AirNow/RData/. Accessed October 22, 2019.Google Scholar
+67Fisk W, Chan W. Health benefits and costs of filtration interventions that reduce indoor exposure to PM 2.5 during wildfires. Indoor Air. 2017; 27:191–204.CrossrefMedlineGoogle Scholar
+68Brook RD, Newby DE, Rajagopalan S. Air pollution and cardiometabolic disease: an update and call for clinical trials. Am J Hypertens. 2017; 31:1–10.CrossrefMedlineGoogle Scholar

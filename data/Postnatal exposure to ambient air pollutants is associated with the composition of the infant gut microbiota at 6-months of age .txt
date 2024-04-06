@@ -1,0 +1,415 @@
+Postnatal exposure to ambient air pollutants is associated with the composition of the infant gut microbiota at 6-months of age
+Maximilian J. Bailey,Elizabeth A. Holzhausen,Zachariah E. M. Morgan,Noopur Naik,Justin P. Shaffer,Donghai Liang, show all
+Article: 2105096 | Received 24 Feb 2022, Accepted 13 Jul 2022, Published online: 13 Aug 2022
+Cite this article
+https://doi.org/10.1080/19490976.2022.2105096
+CrossMark LogoCrossMark
+In this article
+ PDF EPUB
+Share icon
+Back to Top
+Formulae display:MathJax Logo?
+ABSTRACT
+Epidemiological studies in adults have shown that exposure to ambient air pollution (AAP) is associated with the composition of the adult gut microbiome, but these relationships have not been examined in infancy. We aimed to determine if 6-month postnatal AAP exposure was associated with the infant gut microbiota at 6 months of age in a cohort of Latino mother-infant dyads from the Southern California Mother’s Milk Study (n = 103). We estimated particulate matter (PM2.5 and PM10) and nitrogen dioxide (NO2) exposure from birth to 6-months based on residential address histories. We characterized the infant gut microbiota using 16S rRNA amplicon sequencing at 6-months of age. At 6-months, the gut microbiota was dominated by the phyla Bacteroidetes, Firmicutes, Proteobacteria, and Actinobacteria. Our results show that, after adjusting for important confounders, postnatal AAP exposure was associated with the composition of the gut microbiota. As an example, PM10 exposure was positively associated with Dialister, Dorea, Acinetobacter, and Campylobacter while PM2.5 was positively associated with Actinomyces. Further, exposure to PM10 and PM2.5 was inversely associated with Alistipes and NO2 exposure was positively associated with Actinomyces, Enterococcus, Clostridium, and Eubacterium. Several of these taxa have previously been linked with systemic inflammation, including the genera Dialister and Dorea. This study provides the first evidence of significant associations between exposure to AAP and the composition of the infant gut microbiota, which may have important implications for future infant health and development.
+
+KEYWORDS: Gut microbiomeinfantdevelopmentambient air pollutionpostnatal
+Previous article
+Next article
+Introduction
+Exposure to air pollutants has been linked with the composition and function of the gut microbiome in adults; however, this relationship has not been examined in infancy.Citation1–3 The gut microbiome interfaces with several physiological systems, including but not limited to the immune, endocrine, and the nervous systems.Citation4–8 Beyond facilitating several functions across various physiological systems, the composition of the gut microbiome has been associated with several disease states that may have early life origins, including obesity, Crohn’s disease, and type 2 diabetes.Citation9–11 Notably, the infant gut microbiome matures within the first 2–3 years of life, which may have long lasting health impacts.Citation12 For example, a gut microbiome missing specific bacteria may increase future disease risk through altered immune development, metabolism, and/or development of the enteric nervous system.Citation13 Therefore, it is important to examine the early life factors that may impact the development of the gut microbiome, including exposure to inhaled pollutants.
+
+Postnatally, the gut microbiome undergoes rapid and dynamic microbial colonization.Citation14 Under normal developmental processes, the newborn gut microbiome includes Enterobacteriaceae and Bifidobacterium.Citation12 Throughout the first 6 months of life, the infant gut microbiome becomes largely populated by Firmicutes and Actinobacteria.Citation12 Beyond mode of delivery, early life feeding practices, and antibiotic exposure, early life exposure to environmental toxins may also alter the development of the infant gut microbiome.Citation12,Citation15 In young adults from Southern California, we have shown that near-roadway and ambient air pollution (AAP) exposure was associated with the composition and functional potential of the gut microbiome.Citation1,Citation2 Another study in adults has also shown that the gut microbiota may mediate the associations between AAP and risk for impaired fasting glucose and type 2 diabetes.Citation3 These results suggest that exposure to inhaled pollutants may have the potential to impact the human gut microbiome and, consequently, contribute to disease risk. Compared to adults, infants have higher rates of ventilation, which may contribute to higher levels of inhaled exposure to air pollutants.Citation16 Early life exposure to air pollution has been shown to negatively impact future health, including respiratory function, cognitive functioning and cardiometabolic health.Citation17–19 This may be partly due to the fact that infancy represents a critical developmental window during which many physiological systems, such as metabolism, the visual cortex, the motor cortex, and the immune systems undergo rapid development.Citation20–23 Collectively, increased rates of ventilation, rapid physiological growth, and the development of the gut microbiome make early life a critical window where exposure to AAP may have disproportionately deleterious health effects.
+
+Previous work in adults and animal models has shown that exposure to airborne pollutants is associated with the composition and function of the gut microbiome.Citation1–3,Citation24 However, there have been no previous studies which have examined the associations between AAP exposure and the composition of the infant gut microbiota to date. Importantly, inhaled pollutants have the potential to reach the gut and may impact the gut microbiome via several mechanisms.Citation24 Briefly, inhaled particles can be deposited into the respiratory tract where mucociliary clearance and subsequent ingestion of mucus provides a route for air pollutants to reach the gut. In the gut, particulate matter(PM) and components of traffic emissions, such as carbon derivatives, nitrates, sulfates, and toxic metals, may impact the gut microbial community in the lumen of the gastrointestinal tract.Citation25 Additionally, nitrogen dioxide (NO2) serves as a marker for near-roadway air pollution, which is a mixture of gases and particles, including black carbon, polycyclic aromatic hydrocarbons, and PM.Citation26,Citation27 Solid components of near-roadway air pollution may impact the gut microbiome through deposition in the airways, mucociliary clearance and ingestion, while gaseous components may alter the gut microbiome through endocrine mediated mechanisms.Citation24,Citation28 Further, recent studies suggest that AAP may also stimulate the release of corticosteroids and catecholamine production, both of which have been shown to alter the composition of the gut microbiota.Citation29,Citation30 Therefore, the aim of the current study was to examine the relationships between postnatal exposure to patriculate matter < 2.5 and 10 microns in aerodynamic diameter (PM2.5 and PM10)and NO2 during the first 6 months of life and the infant gut microbiota at 6 months of age. We hypothesized that exposure to AAP would be associated with the abundance and diversity of gut bacteria.
+
+Results
+We examined 103 Latino infants that were 186 days old on average (range: 164–219 days). Average postnatal exposure to ambient air pollutants (AAP) is shown in Table 1. Overall, we observed a moderate correlation and covariation among these pollutants (Figure S4 and Table S5). For example, log transformed postnatal PM10 exposure was moderately correlated with log transformed PM2.5 (Pearson r = 0.78; p < .001) and log transformed NO2 (Pearson r = 0.52; p < .001). Further, there was moderate correlation between birthweight with log transformed NO2 (Pearson r = 0.23; p < .05) and log transformed PM10 exposure (Pearson r = 0.20; p < .05). The infant gut microbiota at 6 months of age was first examined by visualizing the top 10 most abundant taxa at the phylum and genus levels (Figure S3). At the phylum level, the four most abundant taxa were Bacteroidetes (39%), Firmicutes (24%), Proteobacteria (21%) and Actinobacteria (14%). At the genus level, the four most abundant taxa were Bacteroides (29%), an unclassified genus within the family Enterobacteriaceae (18%), Bifidobacterium (13%) and Parabacteroides (7%). We also examined measures gut bacterial alpha-diversity, including Shannon’s index (mean = 2.91, standard deviation = 0.718), richness (mean = 53.6, standard deviation = 26.8), and Faith’s phylogenetic diversity (mean = 7.93, standard deviation = 2.35).
+
+Table 1. Characteristics of mother-infant pairs from the Mother’s Milk Study.
+
+Download CSVDisplay Table
+AAP exposure was associated with the gut microbiota
+Results from the multivariable zero-inflated negative binomial regression (ZINBR) analysis revealed that postnatal exposure to PM10, PM2.5, and NO2 was associated with the infant gut microbiota at 6 months of age, after adjusting for infant sex, breastfeeding per day, socioeconomic status, birthweight, and infant age (Figure 1, Table 2, and Table S6). Here, exposure to PM10 and/or PM2.5 was positively associated with gut bacterial genera belonging to Actinobacteria, Bacteroidetes, Firmicutes, and Proteobacteria. Specifically, PM10 exposure was positively associated with Dialister (FDRBH = 0.01) and Dorea (FDRBH = 0.04) from the phylum Firmicutes, as well as Acinetobacter (FDRBH = 0.09) and Campylobacter (FDRBH = 0.03) from the phylum Proteobacteria. Additionally, PM2.5 was positively associated with Actinomyces (FDRBH = 0.002) from the phylum Actinobacteria. NO2 exposure was positively associated gut bacterial genera belonging to Actinobacteria, Firmicutes, and Proteobacteria. This included Actinomyces (FDRBH = 0.01) from the Actinobacteria phylum, Clostridium (FDRBH = 0.09), Enterococcus (FDRBH = 0.04) and Eubacterium (FDRBH = 0.04) from the Firmicutes phylum, as well as Haemophilus (FDRBH < 0.001) from the Proteobacteria phylum. Further, exposure to PM10, PM2.5, and/or NO2 was inversely associated with gut bacterial genera belonging to Bacteroidetes, Firmicutes, and Proteobacteria. Here, exposure to PM10 and PM2.5 was inversely associated with the genera Alistipes (both FDRBH ≤ 0.02) while exposure to PM10 was inversely associated with Neisseria (FDRBH < 0.001) from the Proteobacteria phylum. Lastly, exposure to PM2.5 and NO2 was inversely associated with Phascolarctobacterium (FDRBH = 0.005 and FDRBH = 0.001, respectively) from the Proteobacteria phylum. These results were largely unchanged in sensitivity analyses that adjusted for mode of delivery (Table S7). Next, we found that the associations between AAP and six gut bacterial taxa differed based on infant sex (Pinteraction < 0.05; Table S8). For example, PM10 exposure was positively associated with the gut bacterial genus Acinetobacter in males (P < .001) but not females (P = .631). Conversely, PM10 exposure was positively associated with the gut bacterial genus Dialister in females (P = .002) but not males (P = .125). Additionally, we used multivariable linear regression analyses and found that postnatal exposure to PM10, PM2.5, and NO2 was not associated with any of the highly abundant gut microbial taxa (i.e., taxa present in > 95% of samples) as shown in Table S9. Finally, there were no significant associations between AAP exposure and measures of alpha- or beta-diversity (i.e., Bray-Curtis Dissimilarity Index and Weighted Normalized UniFrac).
+
+Figure 1. Dendrograms show the associations between NO2, PM10, and PM2.5 exposure with infant gut microbial taxa at 6 months of age using zero-inflated negative binomial regression (ZINBR) analyses. Associations are displayed on a branching tree that shows the phylogenetic relationship between taxa examined in this analysis where branch lengths do not represent evolutionary time. ZINBR models adjusted for infant sex, breastfeeding per day, socioeconomic status, birthweight, and infant age. The direction and magnitude of the association was determined from the incidence risk ratio’s (IRR) distance from an effect estimate which would indicate zero association (IRR = 1). IRRs greater than one represent positive associations (blue), IRRs less than one represent negative associations (red), and the node size denotes the strength of the association. Only associations that were statistically significant at a 10% false discovery rate (PFDR < 0.10) are shown. Nodes framed by a dashed circle indicate statistical significance at a 5% false discovery rate (PFDR <0.05). Each edge in the dendrogram represents various phylogenetic levels (inner to outer circle: kingdom, phylum, class, order, family, genus).
+
+Figure 1. Dendrograms show the associations between NO2, PM10, and PM2.5 exposure with infant gut microbial taxa at 6 months of age using zero-inflated negative binomial regression (ZINBR) analyses. Associations are displayed on a branching tree that shows the phylogenetic relationship between taxa examined in this analysis where branch lengths do not represent evolutionary time. ZINBR models adjusted for infant sex, breastfeeding per day, socioeconomic status, birthweight, and infant age. The direction and magnitude of the association was determined from the incidence risk ratio’s (IRR) distance from an effect estimate which would indicate zero association (IRR = 1). IRRs greater than one represent positive associations (blue), IRRs less than one represent negative associations (red), and the node size denotes the strength of the association. Only associations that were statistically significant at a 10% false discovery rate (PFDR < 0.10) are shown. Nodes framed by a dashed circle indicate statistical significance at a 5% false discovery rate (PFDR <0.05). Each edge in the dendrogram represents various phylogenetic levels (inner to outer circle: kingdom, phylum, class, order, family, genus).
+Display full size
+Table 2. Infant gut bacterial genera belonging to dominant phyla were associated with postnatal exposure to ambient air pollution (AAP).
+
+Download CSVDisplay Table
+AAP exposure was associated with gut microbial profiles
+Using a multinomial regression-based approach, we identified gut bacteria that were associated with postnatal PM10, PM2.5, and NO2 exposure after adjusting for infant sex, breastfeeding per day, socioeconomic status, birthweight, and infant age. As shown in Table S4, we examined the top 35% of taxa as ranked by association with exposure to each air pollutant (i.e., normalized to be compositionally robust by taking the log-ratio of the abundances of those taxa with respect to the bottom 35%, and hereafter referred to as ‘important taxa’). As shown in Figure 2, we found that AAP exposure was also significantly associated with the normalized abundance of important taxa. For example, NO2 exposure was significantly associated with the normalized abundance of important taxa (RCitation2 = 0.20, P < .001). Further, PM2.5 and PM10 exposure were significantly associated with the normalized abundance of important taxa (RCitation2 = 0.28, P < .001 and R2 = 0.20, P < .001, respectively). For each exposure, we then examined the classification of these sub-operational taxonomic units (sOTUs) at the genus level and noted specific taxa that were contained within the groups of important taxa for PM10 (n = 4), PM2.5 (n = 3), and NO2 (n = 6), which were also identified in the ZINBR analyses. These genera belonged to the phyla Actinobacteria, Firmicutes and Bacteroidetes. Of the 13 genera identified by both ZINBR and multinomial analyses, all but one displayed the same direction of association with AAP (Table S10).
+
+Figure 2. Associations between (a) NO2, (b) PM10, and (c) PM2.5 exposure during the first 6 months of life and differentially ranked log ratios. The differentially ranked log ratios represent the ratio between the top and bottom 35% of sOTUs as ranked based on their association with each pollutant by Songbird (i.e., important taxa).
+
+Figure 2. Associations between (a) NO2, (b) PM10, and (c) PM2.5 exposure during the first 6 months of life and differentially ranked log ratios. The differentially ranked log ratios represent the ratio between the top and bottom 35% of sOTUs as ranked based on their association with each pollutant by Songbird (i.e., important taxa).
+Display full size
+Discussion
+Our results show that increased exposure to AAP during the first 6 months of life was associated with the composition of the infant gut microbiota across multiple taxonomic levels at 6 months of age after adjusting for potential confounders such as infant sex, breastfeedings per day, socioeconomic status, birthweight, and infant age. Importantly, this analysis represents the first study to examine these associations in infancy. Further, this study found several differential associations between AAP exposure and the gut microbiota based on infant sex. These results, along with other epidemiological and animal studies, suggest that environmental exposures such as AAP may impact the human gut microbiota.Citation24 These findings have significant public health relevance since 99% of the world’s population is estimated to live in areas where air quality guidelines are not met.Citation31
+
+The gut microbiome develops during the first 2–3 years of life.Citation32 During this time, the gut microbiome shifts from being dominated largely by Bifidobacterium (Actinobacteria) to Bacteroidetes and Firmicutes.Citation33 Previous studies in adults have shown that exposure to air pollutants is associated with the composition and functional potential of the gut microbiome.Citation1–3 In the current study, we found that measures of AAP were negatively associated with the microbial family Rikenellaceae, whereas a previous study in young adults found that near-roadway air pollution exposure was positively associated with the abundance of Rikenellaceae.Citation2 Additionally, in previous human studies, exposure to particulate matter and NO2 was inversely associated with measures of alpha-diversity in some but not all studies.Citation1–3 Whereas, in the current study, AAP exposure was not associated with measures of alpha-diversity or beta-diversity. These differential findings may be due to compositional dissimilarities in gut bacterial taxa in early life compared to adults, where the mature gut is more diverse and largely populated by Firmicutes and Bacteroidetes. Additionally, regional differences in the composition of ambient and near-roadway air pollution may contribute to differential effects on microbial communities irrespective of life stage.Citation34–36 Despite this, several of the associations that we observed among infants overlap with findings from a previous study among adults. For example, we found that exposure to PM2.5 was associated with Phascolarctobacterium and Dorea. Among adults, species within these genera have been shown to mediate the associations between PM2.5 exposure and type 2 diabetes.Citation3 In the current study, we also found that the associations between AAP exposure and six gut bacterial taxa differed by infant sex. This is consistent with previous work that found that the associations between arsenic exposure and the gut microbiome differed among male and female infants.Citation37 These differential associations may be due to sex based differences in the structure of the gut microbiome and/or gastrointestinal physiology.Citation38–40
+
+The current study examined the associations between multiple ambient air pollutants and the infant gut microbiota, including PM2.5, PM10, and NO2. During infancy, age, breastfeeding, introduction of solid food, and mode of delivery have each been shown to impact the development of the gut microbiome.Citation33,Citation41–43 Results from our study suggest that AAP exposure may also be an important factor in the development of the gut microbiome. Within Bacteroidetes, higher postnatal exposure to PM2.5 was associated with a lower abundance of the family Rikenellaceae and the genus Alistipes. This suggests that PM2.5 exposure may impair the normal transition from Bifidobacterium (Actinobacteria) to Bacteroidetes as one of the dominant taxa. Exposure to PM10 was positively associated with bacteria belonging to the phylum Firmicutes, including the genera Dorea and Dialister. Similarly, multiple gut bacteria belonging to the Firmicutes phylum were positively associated with exposure to NO2 at the order, family, and genus levels, which included the genera Clostridium, Enterococcus, Phascolarctoba-cterium and Eubacterium. Additionally, NO2 exposure was positively associated gut bacteria belonging to Actinobacteria at the order, family and genus levels that included the genus Actinomyces. These findings suggest that NO2 and PM10 exposure may shape the developing gut microbiota via the early establishment of Firmicutes and Actinobacteria as dominant gut bacterial phyla. Such impacts on the developing gut microbiome may have important implications for infant health and development. For example, a higher ratio of Firmicutes to Bacteroidetes has been associated with obesity in adults and animal studies.Citation44
+
+At the genus level, we found that AAP exposure was associated with bacteria that have been linked to adverse health outcomes as well as those known to produce short-chain fatty acids (SCFAs). For example, PM10 exposure was positively associated with the abundance of Campylobacter, which has been linked with gastroenteritis.Citation45 Further, PM2.5 and NO2 exposure was negatively associated with the abundance of the genus Phascolarctobacterium, which has been found to produce high levels of SCFAs.Citation46 SCFAs are a major microbial metabolite that has been linked with gut barrier integrity, metabolic and cardiovascular health, as well as gut-brain communication and the maintenance of the blood brain barrier.Citation47–49 Alterations to SCFA producing microbes have the potential to impact SCFA availability in the body and play a role in the pathophysiology of various disease states (e.g., inflammatory bowel diseases, obesity, cancer, Parkinson’s disease and celiac disease).Citation50–53 Further, the genera Dialister, Dorea and Alistipes have previously been linked to negative health outcomes such as systemic inflammation, cancer, multiple sclerosis and mental health in adults.Citation54–57 We found PM10 to be positively associated with Dialister and Dorea, while PM10 and PM2.5 were inversely associated with Alistipes. However, it is difficult to draw conclusions given that the health effects of these taxa have not been examined in infancy. Lastly, we observed that postnatal PM2.5 and PM10 exposure had overlapping associations with gut microbial taxa. For example, five of the seven taxa which were associated with PM2.5 were similarly associated with PM10, potentially because PM2.5 makes up a subfraction of PM10. Conversely, NO2 exposure was associated with 10 taxa that were not associated with PM2.5 or PM10. This may be due to the fact that NO2 is a marker for near-roadway air pollution, which has a different chemical composition than ambient particulate matter.Citation58 These differential chemical constituents likely have distinct toxicological mechanisms by which they interact with the gut microbiome. For example, gaseous pollutants have been shown to disrupt endocrine function, whereas components of particulate matter (e.g., heavy metals) may exert direct microbiocidal effects.Citation25,Citation28,Citation30 When considered in conjunction with previous work, the current findings seem to suggest that the AAP induced alterations to the gut microbiome may alter human health through inflammatory pathways and altered microbial metabolite production.
+
+Whereas this study provides the first evidence of important associations between postnatal AAP exposure and the developing infant gut microbiota at 6 months of age, there are several study limitations that should be considered. First, we were unable to examine longitudinal associations between AAP and the developing gut microbiome. However, at the completion of infant follow-up, we plan to investigate the associations between AAP with the developing gut microbiome in this cohort. This study also examined associations between AAP and the gut microbiota in a low-income Latino population from Southern California, which may limit generalizability to other populations. However, Latino communities in the US experience a disproportionate level of AAP exposure that may contribute to health disparities observed in an understudied and at-risk population.Citation59 Further, we characterized the infant gut microbiota using 16S rRNA amplicon sequencing, which does not allow for reliable taxonomic characterization of gut bacterial taxa below the genus level.Citation60,Citation61,Citation62,Citation63 Within all microbial sequencing studies, there is the potential for contamination or index hopping. For this reason, we noted gut bacterial taxa that were associated with AAP exposure and present in our negative controls. However, these taxa have not been identified as common kit contaminants.Citation64 Infant AAP exposure was estimated using residence based spatial interpolation, which may introduce error to the classification of exposure estimates when compared to personal monitoring. Yet, such exposure misclassification is likely random and would thus bias our results to the null.Citation65 Additionally, without PM speciation data, we were unable to determine if specific components of AAP were more strongly associated with the infant gut microbiota. Future studies should examine the composition of AAP to further elucidate what mechanisms may functionally and toxicologically underlie these associations. Beyond this, future work should incorporate animal and in vitro studies to examine the specific mechanisms by which AAP alters microbial communities. Additionally, tools such as fecal microbiota transplantation can be used to examine the potential physiological implications of AAP-inducted alterations to the gut microbiome.
+
+There were also several statistical limitations of the current study. While all statistical analyses were adjusted for multiple hypothesis testing using a 10% FDR, we cannot rule out the possibility of false positives. Therefore, results from this study should also be viewed as hypothesis generating for future longitudinal investigations. Due to normal developmental processes, we observed a high prevalence of low abundant taxa in the infant gut. For this reason, we used three complementary analytical approaches to examine the associations between postnatal AAP exposure and the infant gut microbiota at 6 months of age. These methods included multivariable linear models, ZINBR analysis, and multinomial regression models that adjusted for important early life factors that were identified based on our directed acyclic graph (DAG), including infant sex, breastfeeding per day, socioeconomic status, birthweight, and infant age. Overall, taxa found to be associated with AAP in the ZINBR analyses were also identified in the differential abundance (i.e., Songbird multinomial regression) analysis and largely displayed the same direction of association. While ZINBR analyses are sensitive to false positives and model diagnostics can be subjective, the concordance in findings between the differential abundance analyses and ZINBR analyses help to alleviate these concerns. Based on our DAG, mode of delivery and early life antibiotic treatment were not identified as potential confounders in the relationship between air pollution exposure and the infant gut microbiota. Nevertheless, due to the importance of these factors in the context of the gut microbiota, we sought to perform additional sensitivity analyses that included adjustment for these variables. Overall, we found that our results were largely unchanged after adjusting for mode of delivery. However, in the current study we were unable to adjust for antibiotic exposure since 90% of infants did not receive antibiotics in the first year of life.
+
+In conclusion, our results demonstrate that increased exposure to PM2.5, PM10, and NO2 in the first 6 months of life was associated with the abundance of several infant gut bacterial taxa belonging to the Bacteroidetes, Firmicutes, Proteobacteria, and Actinobacteria phyla. While previous work has established associations between air pollution exposure and the gut microbiome in adults, this study represents the first characterization of the relationships between postnatal exposures to air pollutants and the infant gut microbiota. Many of the infant gut bacterial taxa that were found to be associated with postnatal AAP exposure have previously been linked with adverse health outcomes such as systemic inflammation, gastroenteritis, multiple sclerosis, and mental health disorders. Further, several of the identified taxa are involved in the production of important gut microbial derived metabolites (e.g., SCFAs) that play an integral role in human physiology. These results, along with other epidemiological and animal studies, suggest that exposure to air pollutants may impact the gut microbiome in early life, which may have implications for human development, health, and physiology.
+
+Patients, materials and methods
+Study design
+Participants were recruited from the Southern California Mother’s Milk Study, which is examining the associations between breast milk factors and infant growth and the gut microbiota in Latino mother-infant pairs.Citation66 At the time of analysis, 103 of the 219 mother-infant pairs had complete postnatal AAP exposure data as well as assessment of the gut microbiota at 6-months of age (Figure S1). These 103 infants were recruited between 2016–2017 from clinics in Southern California. On average, those included in the current analysis did not significantly differ on any important baseline characteristics except for average AAP. Specifically, AAP exposure was higher among participants that were included in the current analysis than those who were excluded (Table S1). Inclusion criteria for the Mother’s Milk Study included healthy term singleton births, first time mothers over the age of 18 years, mothers and fathers with self-reported Hispanic/Latino ethnicity, and an intent to breastfeed for at least 3 months postpartum. Exclusion criteria included medical diagnosis that may affect metabolism, nutritional status, and mental or physical health. Additionally, participants were excluded if they were taking medication which may affect body weight/composition, insulin resistance, or lipid profiles. Further, current smoking or recreational drug use, pre-term births, low birthweight, and fetal abnormalities were exclusion criteria. Written informed consent was obtained from all participants and the study protocol was approved by the University of Southern California, Children’s Hospital Los Angeles, and the University of Colorado Boulder Institutional Review Boards.
+
+Study visits
+As part of the ongoing Mother’s Milk Study, mother-infant pairs are brought in for clinical assessments at 1, 6, 12, 18, and 24-months of age as previously reported.Citation67 The Mother’s Milk Study is currently ongoing and not all participants have completed all clinical assessments. Maternal weight was measured to the nearest 0.1 kg (Tanita BC-549 Plus Ironman Body Composition Monitor) and standing height was measured to the nearest 1 mm (Seca 126, Seca GmBH & Co. KG) to calculate body mass index (BMI). Maternal pre-pregnancy BMI was based on self-reported height and weight prior to pregnancy. Infant weight was measured in duplicate to the nearest 5 g by net difference of the mother with and without baby on a Tanita scale. Birth weight (kg) and length (cm) were obtained from hospital records. Infant length was measured to the nearest 1 mm using an infantometer. Infant breastfeedings per day were based on questionnaire data with the following answer choices: 0–1, 1, 2, 3, 4, 5, 6, 7, and ≥8 breastfeedings per day. Briefly, 0–1 breastfeedings per day were assigned to 0 breastfeedings per day, 2–7 breastfeedings per day were assigned to their reported values and ≥8 breastfeedings per day were assigned a value of 8. Lastly, information regarding parental occupation and education was used to examine individual socioeconomic status based on a modified version of the four factor Hollingshead Index as previously reported.Citation67,Citation68
+
+Ambient air pollution exposures
+Time weighted average AAP exposure was examined during the first 6 months of life. Exposures included PM2.5, PM10 as well as NO2 which was used as a marker for near-roadway air pollution. Detailed residential address histories (including birth to 6-months of age) were determined at the first study visit and geocoded at the street level using the Texas A&M Geocoding Services (http://geoservices.tamu.edu/Services/Geocode/). Monthly averages of ambient pollutant exposures were estimated from the U.S. Environmental Protection Agency’s Air Quality System (AQS, http://www.epa.gov/ttn/airs/airsaqs), which records hourly air quality data from ambient monitoring stations. Spatial interpolation of up to four of the closest monitoring stations within 50 km of infant homes was performed via an inverse distance-squared weighting (IDW2) algorithm. This method has been demonstrated to be robust to leave-one-out validation for the same data source in California with R2 values of 0.73, 0.53, and 0.46 for NO2, PM2.5, and PM10, respectively.Citation69 Postnatal exposure was modeled based upon the cumulative average exposure from birth to the 6-month visit (mean exposure day: 185.3, range: 164–219 days). PM2.5 and PM10 are reported in micrograms per cubic meter (μg/m3) and NO2 is reported as parts per billion (ppb).
+
+Gut microbiota
+As previously reported, infant stool samples were collected at 6-months postpartum using OMNIgene GUT kits (DNA Genotek, Ottawa, ON, CAN) and a subset have undergone 16S rRNA sequencing.Citation70 Briefly, DNA was extracted and the bacteria/archaeal 16S rRNA gene sequenced using the 515/806 barcoded primer pair (515 F [Parada]): GTGYCAGCMGCCGCGGTAA, 806 R [Apprill]: GGACTACNVGGGTWTCTAAT), standardized in accordance with the Earth Microbiome Project.Citation71 A ~150-bp fragment was sequenced including variable region 4 (V4) of the 16S rRNA gene. All samples were amplified in triplicate and then pooled into a single sample. Amplicons from each sample were then run on agarose gel to verify the presence of PCR product.Citation71 The 515/806 barcoded primer pair has previously been used for cross-cultural analysis, which included infants.Citation12 Paired-end (2x150bp) next-generation sequencing was performed using the Illumina MiSeq platform available at the Institute for Genomic Medicine at the University of California (UC) San Diego.Citation72 Demultiplexed files were processed using Qiita (https://qiita.ucsd.edu).Citation73 Sequences were trimmed to a length of 150-bp, and Deblur was used to remove suspected error sequences and assign amplicon sequence variants called sOTUs.Citation74 Subsequently, a feature-table was generated with counts of each sOTU for each sample. To generate a phylogeny, Deblur tag sequences were inserted into the GreenGenes 13_8 backbone phylogeny using SATÉ-enabled phylogenetic placement (SEPP), and all sOTUs not placed were removed from the feature-table.Citation75 Negative controls (blanks) and extraction controls were included throughout the amplification and sequencing of samples. The average read depth of the blanks was 1,336 reads as compared to an average read depth of 19,822 for infant stool samples. Taxa present in the blanks were not excluded from the analysis as we were unable to determine if taxa originated from contamination or index hopping.Citation62 Given this, we calculated a ratio between the average counts of individual taxa across the blanks to the average counts across the infant samples. The taxa reported in these analyses that exceeded a 1:10 ratio were the order Bacillales, the families Rikenellaceae and Paraprevotellaceae, and the genera Dialister and Alistipes.
+
+Statistical analyses
+Analytical approach
+Descriptive statistics, including means and frequencies of key variables were examined. Overall, three separate and complementary analytical approaches were used to examine the associations between AAP and the infant gut microbiota. ZINBR was the primary analysis performed, as it accounts for over dispersion and a high proportion of zeros present within these data. Complementary analyses were performed to validate the results of the ZINBR as well as to examine aspects of the gut microbiota that cannot be captured via a ZINBR. For example, Songbird analyses account for the compositional nature of microbiome data and use a multinomial regression model to estimate differential rankings for features based on their abundances with respect to model variables. Thus, Songbird analyses were used to provide insight into microbial profiles that may be associated with AAP exposure and to also validate the findings from ZINBR. In addition to these analytical approaches, we also utilized multivariable linear regression to examine highly abundant taxa and alpha-diversity metrics, since these data structures are not appropriate for ZINBR. Finally, Mantel tests were used to evaluate if AAP was associated with measures of beta-diversity (i.e., similarity and dissimilarity matrices). All models were adjusted for infant sex, breastfeedings per day, socioeconomic status, birthweight, and infant age, which was based on a DAG (Figure S2). All participants had complete data for the aforementioned covariates. Race/ethnicity was not controlled for within our statistical models as all participants were Latino. Models which displayed a significant association between AAP exposure and individual taxa were further examined to determine if these associations differed by infant sex by including an interaction term (air pollutant * infant sex). In the case that this interaction term was significant, a stratified analysis was conducted. P-values from all statistical analyses were adjusted for multiple hypothesis testing using a false discovery rate (FDR) of 10% with the Benjamini-Hochberg (BH) procedure. This threshold for statistical significance was determined to increase our statistical power, while also acknowledging that this procedure may be an overadjustment since gut microbial abundances are correlated and the BH procedure assumes independence of tests.Citation76 Lastly, the current analysis will be used to generate hypotheses for future investigations related to air pollution exposure and the developing infant gut microbiome in all study participants once follow-up of the Mother’s Milk Study is completed. All statistical analyses were conducted using QIIME2 v.2020.11 and R (Version 4.1.1). Some figures were produced using Prism (GraphPad Version 9.2.0).Citation77
+
+Gut bacterial diversity
+To normalize for sequencing depth, samples were rarefied to a standard read depth of 10,000, which resulted in two samples being dropped. We quantified alpha-diversity (i.e., Shannon’s index, richness, and Faith’s phylogenetic diversity) and beta-diversity (i.e., Bray-Curtis Dissimilarity Index and Weighted Normalized UniFrac) via QIIME2.Citation77 Associations between AAP and estimates of alpha- and beta-diversity were interpreted via linear regression models and a Mantel test, respectively. For alpha-diversity metrics, linear regression models adjusted for infant sex, breastfeedings per day, socioeconomic status, birthweight, and infant age.
+
+Linear regression
+Multivariable linear regression analysis was used to examine the associations between postnatal ambient air pollution exposure and the relative abundance of 25 highly abundant gut microbial taxa (Table S2), which were present in more than 95% of the raw sample counts. Relative abundance was log transformed (Equation 1) to satisfy the assumptions of linear regression.Citation78 Specifically, relative abundance was log transformed to better meet the assumption of normality and homoscedasticity, which were examined via Q-Q plots and by plotting fitted values against standardized residuals, respectively. All models adjusted for the variables identified as potential confounders by a DAG (Figure S2).
+
+Equation 1. General Equation for Log Transformed Relative Abundance
+
+Log10([Rawcountinsample(i)#ofsequencesinsample(i)∗Averagenumberofsequencespersample]+1)
+Zero-inflated negative binomial regression
+Due to normal developmental processes, there were several taxa that were not present in a high proportion of samples. Therefore, ZINBR analysis (PSCL R package) was used to examine the associations between AAP and the abundance of gut microbial taxa after removing rare taxa (i.e., those present in <10% of samples).Citation79,Citation80 Briefly, this technique models the abundance of microbes as a mixture of two components: a negative binomial count distribution and a point-mass at zero. For ZINBR models, raw counts were used as the outcome of interest and models were offset by the total sample sequence reads to account for differences in sequencing depth between samples. A zero-inflated model was used to account for overdispersion and two distinct zero-generating processes, one of which is technical and potentially due to sampling error, the other is biological. Additionally, ZINBR was selected due to the potential occurrence of excess zeros due to low abundance taxa in early life as well as potential sampling error. Specifically, ZINBR was chosen over other generalized linear models (e.g., negative binomial regressions and zero-inflated Poisson regression) due to the presence of a high proportion of zeros between 49% and 73% at each taxonomic level (Table S3), and overdispersion of microbial counts. In the current analysis, there were an average of 55 microbial taxa with zero counts. Additionally, the average predicted probability of an observation being an excess zero was 0.34. This high proportion of zeros, coupled with significant Vuong tests, suggest that these zero inflated count regression models are an improvement over standard negative binomial models. Specifically, Vuong tests, performed as a sensitivity analysis, revealed significant raw, Akaike information criterion (AIC) and Bayesian information criterion (BIC) corrected and positive z-statistics when individual ZINBRs were compared to standard negative binomial regressions. This suggests that these zero-inflated models have better model fit as compared to non-zero-inflated models.Citation81,Citation82 Within our analysis, this technique models the abundance of microbes in the count portion of the model as well as the presence of excess zeros. Incidence risk ratios (IRRs), which represent the estimated cumulative incidence for a one-unit increase in each AAP exposure, were estimated for microbes based only on the negative binomial distribution. The average number of zero count taxa and the average predicted probability of an observation being an excess zero at each taxonomic level can be found in Table S3. The “estimated excess zero” sample points were not included in the negative binomial portion of the model. Several additional steps were taken for sensitivity analysis. Predicted values were compared to standardized residuals and theoretical normal quantiles were compared to sample quantiles (Q-Q plots). Further, outliers, with respect to microbial counts, were filtered from the data-set and truncated models were compared to full models to determine if significance was retained. Overall, three statistically significant associations between gut bacteria and AAP were not reported due to being driven by outliers with respect to microbial counts or having Q-Q which varied significantly from the expected distribution. The negative binomial portion of the model adjusted for infant sex, breastfeedings per day, socioeconomic status, birthweight, and infant age as identified by our DAG. The zero inflated portion of the model adjusted for AAP exposure, age, birthweight, and breastfeeding since these variables were thought to potentially contribute to the occurrence of a non-natural zero (e.g., sampling error). Although mode of delivery was not identified as a traditional confounder via our DAG, sensitivity analysis was performed where models additionally adjusted for mode of delivery. This additional sensitivity analysis was performed due to existing literature that suggests that mode of delivery is significantly associated with the composition of the infant gut microbiome. Dendrograms were created using the ggtree R package to summarize the associations between AAP exposure and the abundance of gut bacterial taxa based on ZINBR models (Figure 1).Citation83
+
+Differential abundance testing
+Songbird (v1.0.3) and Qurro (0.7.1) were used to calculate and examine the differential ranks of sOTUs associated with AAP exposure.Citation84,Citation85 Briefly, Songbird accounts for the compositional nature of microbiome data and uses a multinomial regression model to estimate differential rankings for features based on their abundances with respect to model variables. The full list of feature rankings from this analysis are included in Table S4. Using Qurro, we then selected the top- and bottom 35% of ranked sOTUs, which corresponds to those 35% of taxa that are most- or least-associated with each AAP exposure. Based on this selection, all 103 samples were included when examining NO2 and PM10, while one sample was excluded when examining PM2.5 exposure. For visualization purposes and to perform hypothesis testing, we then examined the log-ratio (Equation 2) of the same microbes with each air pollutant using univariate models and R-squared (R2) values.
+
+Equation 2. General Equation for Differentially Ranked Log Ratio
+
+ln(Top35%DifferentiallyRankedTaxaBottom35%DifferentiallyRankedTaxa)
+Data availability
+The data that support the findings of this study are available on request from the corresponding author, TLA. The data are not publicly available, as they contain information that could compromise the privacy of participants included in this study.
+
+Authors’ contributions
+Maximilian Bailey helped formulate the data analysis plan, conducted the formal analysis, and prepared the original manuscript draft. Zachariah Morgan assisted with data analysis. Noopur Naik helped prepare datasets for exposures and covariates. Howard Chang and Justin Shaffer advised on analytical approaches and revised the manuscript. Elizabeth Holzhausen, Kelsey Schmidt, Jeremy Sarnat, and Donghai Liang reviewed and revised the manuscript. Frederick Lurmann modeled air pollutant exposure estimates and reviewed and revised the manuscript. Michael Goran supervised all primary data collection, acquired funding, and reviewed and revised the manuscript. Tanya Alderete conceived the hypothesis and data analysis plan, supervised data collection, supervised the formal analysis, acquired funding, and reviewed and revised the manuscript. All authors read and approved the final manuscript.
+
+Supplemental material
+Supplemental Material
+Download Zip (5.9 MB)
+Acknowledgments
+Research described in this article was conducted under contract to the Health Effects Institute (HEI), an organization jointly funded by the United States Environmental Protection Agency (EPA) (Assistance Award No. CR 83998101) and certain motor vehicle and engine manufacturers. The contents of this article do not necessarily reflect the views of HEI, or its sponsors, nor do they necessarily reflect the views and policies of the EPA or motor vehicle and engine manufacturers.
+
+Disclosure statement
+Michael I. Goran receives book royalties. Michael I. Goran is a scientific advisor for Yumi. The authors declare no other competing interests.
+
+Supplementary material
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/19490976.2022.2105096
+
+Additional information
+Funding
+This work was supported by the NIH NIDDK (R01 DK11079), The Gerber Foundation (15PN-013), NIH NIEHS (R00 ES027853), the Health Effects Institute Rosenblith Award, and the NIH NIMHD Southern California Center for Latino Health (P50 MD17344). Design of the study; collection, analysis, and interpretation of data; and writing the manuscript was strictly the responsibility of the authors.
+Previous article
+Next article
+References
+Fouladi F, Bailey MJ, Patterson WB, Sioda M, Blakley IC, Fodor AA, Jones RB, Chen Z, Kim JS, Lurmann F, et al. Air pollution exposure is associated with the gut microbiome as revealed by shotgun metagenomic sequencing. Environ Int. 2020;138:105604. doi:10.1016/j.envint.2020.105604.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Alderete TL, Jones RB, Chen Z, Kim JS, Habre R, Lurmann F, Gilliland FD, Goran MI. Exposure to traffic-related air pollution and the composition of the gut microbiota in overweight and obese adolescents. Environ Res. 2018;161:472–15. doi:10.1016/j.envres.2017.11.046.
+View
+ PubMed Web of Science ®Google Scholar
+Liu T, Chen X, Xu Y, Wu W, Tang W, Chen Z, Ji G, Peng J, Jiang Q, Xiao J, et al. Gut microbiota partially mediates the effects of fine particulate matter on type 2 diabetes: evidence from a population-based epidemiological study. Environ Int. 2019;130:104882. doi:10.1016/j.envint.2019.05.076.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Rosser EC, Mauri C. A clinical update on the significance of the gut microbiota in systemic autoimmunity. J Autoimmun. 2016;74:85–93. doi:10.1016/j.jaut.2016.06.009.
+View
+ PubMed Web of Science ®Google Scholar
+Selvanantham T, Lin Q, Guo CX, Surendra A, Fieve S, Escalante NK, Guttman DS, Streutker CJ, Robertson SJ, Philpott DJ, et al. NKT cell–deficient mice harbor an altered microbiota that fuels intestinal inflammation during chemically induced colitis. J Immunol. 2016;197(11):4464–4472. doi:10.4049/jimmunol.1601410.
+View
+ PubMed Web of Science ®Google Scholar
+Canfora EE, Jocken JW, Blaak EE. Short-chain fatty acids in control of body weight and insulin sensitivity. Nat Rev Endocrinol. 2015;11(10):577–591. doi:10.1038/nrendo.2015.128.
+View
+ PubMed Web of Science ®Google Scholar
+Ridlon JM, Ikegawa S, Alves JMP, Zhou B, Kobayashi A, Iida T, Mitamura K, Tanabe G, Serrano M, De Guzman A, et al. Clostridium scindens: a human gut microbe with a high potential to convert glucocorticoids into androgens. J Lipid Res. 2013;54(9):2437–2449. doi:10.1194/jlr.M038869.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Borre YE, Moloney RD, Clarke G, Dinan TG, Cryan JF. The impact of microbiota on brain and behavior: mechanisms & therapeutic potential. Adv Exp Med Biol. 2014;817:373–403. doi:10.1007/978-1-4939-0897-4_17.
+View
+ PubMed Web of Science ®Google Scholar
+Castaner O, Goday A, Park YM, Lee SH, Magkos F, Shiow STE, Schröder H. The gut microbiome profile in obesity: a systematic review. Int J Endocrinol. 2018;2018:e4095789. doi:10.1155/2018/4095789.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Pascal V, Pozuelo M, Borruel N, Casellas F, Campos D, Santiago A, Martinez X, Varela E, Sarrabayrouse G. A microbial signature for Crohn’s disease. Gut. 2017;66(5):813–822. doi:10.1136/gutjnl-2016-313235.
+View
+ PubMed Web of Science ®Google Scholar
+Doumatey AP, Adeyemo A, Zhou J, Lei L, Adebamowo SN, Adebamowo C, Rotimi CN. Gut microbiome profiles are associated with type 2 diabetes in Urban Africans. Front Cell Infect Microbiol. 2020;10:63. doi:10.3389/fcimb.2020.00063.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Yatsunenko T, Rey FE, Manary MJ, Trehan I, Dominguez-Bello MG, Contreras M, Magris M, Hidalgo G, Baldassano RN, Anokhin AP, et al. Human gut microbiome viewed across age and geography. Nature. 2012;486(7402):222–227. doi:10.1038/nature11053.
+View
+ PubMed Web of Science ®Google Scholar
+Carabotti M, Scirocco A, Maselli MA, Severi C. The gut-brain axis: interactions between enteric microbiota, central and enteric nervous systems. Ann Gastroenterol. 2015;28:203–209.
+ PubMed Web of Science ®Google Scholar
+Tanaka M, Nakayama J. Development of the gut microbiota in infancy and its impact on health in later life. Allergol Int. 2017;66(4):515–522. doi:10.1016/j.alit.2017.07.010.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Moore RE, Townsend SD. Temporal development of the infant gut microbiome. Open Biol. 2019;9(9):190128. doi:10.1098/rsob.190128.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Fleming S, Thompson M, Stevens R, Heneghan C, Plüddemann A, Maconochie I, Tarassenko L, Mant D. Normal ranges of heart rate and respiratory rate in children from birth to 18 years of age: a systematic review of observational studies. The Lancet. 2011;377(9770):1011–1018. doi:10.1016/S0140-6736(10.
+View
+ PubMed Web of Science ®Google Scholar
+Citerne A, Roda C, Viola M, Rancière F, Momas I. Early postnatal exposure to traffic-related air pollution and asthma in adolescents: vulnerability factors in the Paris birth cohort. Environ Res. 2021;201:111473. doi:10.1016/j.envres.2021.111473.
+View
+ PubMed Web of Science ®Google Scholar
+Clifford A, Lang L, Chen R, Anstey KJ, Seaton A. Exposure to air pollution and cognitive functioning across the life course – a systematic literature review. Environ Res. 2016;147:383–398. doi:10.1016/j.envres.2016.01.018.
+View
+ PubMed Web of Science ®Google Scholar
+Johnson NM, Hoffmann AR, Behlen JC, Lau C, Pendleton D, Harvey N, Shore R, Li Y, Chen J, Tian Y, et al. Air pollution and children’s health—a review of adverse effects associated with prenatal exposure from fine to ultrafine particulate matter. Environ Health Prev Med. 2021;26(1):72. doi:10.1186/s12199-021-00995-5.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Patricia M, Heavey IRR. The gut microflora of the developing infant: microbiology and metabolism. Microb Ecol Health Dis. 1999;11(2):75–83. doi:10.1080/089106099435808.
+view
+View
+ Google Scholar
+Espinosa JS, Stryker MP. Development and plasticity of the primary visual cortex. Neuron. 2012;75(2):230–249. doi:10.1016/j.neuron.2012.06.009.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Hadders-Algra M. Early human motor development: from variation to the ability to vary and adapt. Neurosci Biobehav Rev. 2018;90:411–427. doi:10.1016/j.neubiorev.2018.05.009.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Simon AK, Hollander GA, McMichael A. Evolution of the immune system in humans from infancy to old age. Proc Biol Sci. 2015;282(1821):20143085. doi:10.1098/rspb.2014.3085.
+View
+ PubMed Web of Science ®Google Scholar
+Bailey MJ, Naik NN, Wild LE, Patterson WB, Alderete TL. Exposure to air pollutants and the gut microbiota: a potential link between exposure, obesity, and type 2 diabetes. Gut Microbes. 2020;11(5):1188–1202. doi:10.1080/19490976.2020.1749754.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Li X, Brejnrod AD, Ernst M, Rykær M, Herschend J, Olsen NMC, Dorrestein PC, Rensing C, Sørensen SJ. Heavy metal exposure causes changes in the metabolic health-associated gut microbiome and metabolites. Environ Int. 2019;126:454–467. doi:10.1016/j.envint.2019.02.048.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Riediker M, Williams R, Devlin R, Griggs T, Bromberg P. Exposure to particulate matter, volatile organic compounds, and other air pollutants inside patrol cars. Environ Sci Technol. 2003;37(10):2084–2093. doi:10.1021/es026264y.
+View
+ PubMed Web of Science ®Google Scholar
+Europe WRO for. Proximity to roads, NO2, other air pollutants and their mixtures. WHO Regional Office for Europe; 2013. Accessed November 6, 2021. https://www.ncbi.nlm.nih.gov/books/NBK361807/
+ Google Scholar
+Thomson EM, Vladisavljevic D, Mohottalage S, Kumarathasan P, Vincent R. Mapping acute systemic effects of inhaled particulate matter and ozone: multiorgan gene expression and glucocorticoid activity. Toxicol Sci. 2013;135(1):169–181. doi:10.1093/toxsci/kft137.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Petrosus E, Silva EB, Jr LD, Eicher SD. Effects of orally administered cortisol and norepinephrine on weanling piglet gut microbial populations and Salmonella passage1. J Anim Sci. 2018;96(11):4543–4551. doi:10.1093/jas/sky312.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Thomas J, Guénette J, Thomson EM. Stress axis variability is associated with differential ozone-induced lung inflammatory signaling and injury biomarker response. Environ Res. 2018;167:751–758. doi:10.1016/j.envres.2018.09.007.
+view
+View
+ PubMed Web of Science ®Google Scholar
+World Health Organization. Ambient (outdoor) air pollution. Published September 22, 2021. Accessed November 12, 2021. https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
+ Google Scholar
+Rodríguez JM, Murphy K, Stanton C, Ross RP, Kober OI, Juge N, Avershina E, Rudi K, Narbad A, Jenmalm MC, et al. The composition of the gut microbiota throughout life, with an emphasis on early life. Microb Ecol Health Dis. 2015;26. doi:10.3402/mehd.v26.26050.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Stewart CJ, Ajami NJ, O’Brien JL, Hutchinson DS, Smith DP, Wong MC, Ross MC, Lloyd RE, Doddapaneni H, Metcalf GA, et al. Temporal development of the gut microbiome in early childhood from the TEDDY study. Nature. 2018;562(7728):583–588. doi:10.1038/s41586-018-0617-x.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Peltier RE, Cromar KR, Ma Y, Fan ZH, (Tina LM. Spatial and seasonal distribution of aerosol chemical components in New York City: (2) Road dust and other tracers of traffic-generated air pollution. J Expo Sci Environ Epidemiol. 2011;21(5):484–494. doi:10.1038/jes.2011.15.
+View
+ PubMed Web of Science ®Google Scholar
+Kleeman MJ, Cass GR. Source contributions to the size and composition distribution of urban particulate air pollution. Atmos Environ. 1998;32(16):2803–2816. doi:10.1016/S1352-2310(98.
+View
+ Web of Science ®Google Scholar
+Friedlander SK. Chemical element balances and identification of air pollution sources. Environ Sci Technol. 1973;7(3):235–240. doi:10.1021/es60075a005.
+View
+ PubMed Web of Science ®Google Scholar
+Hoen AG, Madan JC, Li Z, Coker M, Lundgren SN, Morrison HG, Palys T, Jackson BP, Sogin ML, Cottingham KL, et al. Sex-specific associations of infants’ gut microbiome with arsenic exposure in a US population. Sci Rep. 2018;8(1):12627. doi:10.1038/s41598-018-30581-9.
+view
+View
+ PubMedGoogle Scholar
+Kim YS, Unno T, Kim BY, Park MS. Sex differences in gut microbiota. World J Mens Health. 2020;38(1):48–60. doi:10.5534/wjmh.190009.
+view
+View
+ PubMedGoogle Scholar
+Lampe JW, Fredstrom SB, Slavin JL, Potter JD. Sex differences in colonic function: a randomised trial. Gut. 1993;34(4):531–536. doi:10.1136/gut.34.4.531.
+View
+ PubMed Web of Science ®Google Scholar
+Afonso-Pereira F, Dou L, Trenfield SJ, Madla CM, Murdan S, Sousa J, Veiga F, Basit AW. Sex differences in the gastrointestinal tract of rats and the implications for oral drug delivery. Eur J Pharm Sci. 2018;115:339–344. doi:10.1016/j.ejps.2018.01.043.
+View
+ PubMed Web of Science ®Google Scholar
+Princisval L, Rebelo F, Williams BL, Coimbra AC, Crovesy L, Ferreira AL, Kac G. Association between the mode of delivery and infant gut microbiota composition up to 6 months of age: a systematic literature review considering the role of breastfeeding. Nutr Rev. 2021 [Published online April 9, 2021]:nuab008. doi:10.1093/nutrit/nuab008.
+view
+View
+ Web of Science ®Google Scholar
+Dominguez-Bello MG, Costello EK, Contreras M, Magris M, Hidalgo G, Fierer N, Knight R. Delivery mode shapes the acquisition and structure of the initial microbiota across multiple body habitats in newborns. Proc Natl Acad Sci. 2010;107(26):11971–11975. doi:10.1073/pnas.1002601107
+View
+ PubMed Web of Science ®Google Scholar
+Pannaraj PS, Li F, Cerini C, Bender JM, Yang S, Rollie A, Adisetiyo H, Zabih S, Lincez P, Bittinger K. Association between breast milk bacterial communities and establishment and development of the infant gut microbiome. JAMA Pediatr. 2017;171(7):647–654. doi:10.1001/jamapediatrics.2017.0378.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Magne F, Gotteland M, Gauthier L, Zazueta A, Pesoa S, Navarrete P, Balamurugan R. The firmicutes/bacteroidetes ratio: a relevant marker of gut dysbiosis in obese patients? Nutrients. 2020;12((5):1474):1474. doi:10.3390/nu12051474.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Galanis E. Campylobacter and bacterial gastroenteritis. CMAJ. 2007;177(6):570–571. doi:10.1503/cmaj.070660.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Reichardt N, Duncan SH, Young P, Belenguer A, McWilliam Leitch C, Scott KP, Flint HJ, Louis P. Phylogenetic distribution of three pathways for propionate production within the human gut microbiota. ISME J. 2014;8(6):1323–1335. doi:10.1038/ismej.2014.14.
+View
+ PubMed Web of Science ®Google Scholar
+Chambers ES, Preston T, Frost G, Morrison DJ. Role of gut microbiota-generated short-chain fatty acids in metabolic and cardiovascular health. Curr Nutr Rep. 2018;7(4):198–206. doi:10.1007/s13668-018-0248-8.
+view
+View
+ PubMedGoogle Scholar
+Roshanravan N, Mahdavi R, Alizadeh E, Jafarabadi M, Hedayati M, Ghavami A, Alipour S, Alamdari N, Barati M, Ostadrahimi A, et al. Effect of butyrate and inulin supplementation on glycemic status, lipid profile and glucagon-like peptide 1 level in patients with type 2 diabetes: a randomized double-blind, placebo-controlled trial. Horm Metab Res. 2017;49(11):886–891. doi:10.1055/s-0043-119089.
+View
+ PubMed Web of Science ®Google Scholar
+Kim S, Goel R, Kumar A, Qi Y, Lobaton G, Hosaka K, Mohammed M, Handberg E, Richards E, Pepine C, et al. Imbalance of gut microbiome and intestinal epithelial barrier dysfunction in patients with high blood pressure. Clin Sci (Lond). 2018;132(6):701–718. doi:10.1042/CS20180087.
+View
+ PubMed Web of Science ®Google Scholar
+Aho VTE, Houser MC, Pereira PAB, Chang J, Rudi K, Paulin L, Hertzberg V, Auvinen P, Tansey M, Scheperjans F. Relationships of gut microbiota, short-chain fatty acids, inflammation, and the gut barrier in Parkinson’s disease. Mol Neurodegener. 2021;16(1):6. doi:10.1186/s13024-021-00427-6.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Tan J, McKenzie C, Potamitis M, Thorburn AN, Mackay CR, and Macia L. Chapter three - The role of short-chain fatty acids in health and disease. In: Alt FW, editor. Advances in immunology. Vol. 121. Boston (MA): Academic Press; 2014. p. 91–119. doi:10.1016/B978-0-12-800100-4.00003-9.
+View
+ Google Scholar
+Kim KN, Yao Y, Ju SY. Short chain fatty acids and fecal microbiota abundance in humans with obesity: a systematic review and meta-analysis. Nutrients. 2019;11(10):2512. doi:10.3390/nu11102512.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Wu G, Jiang Z, Pu Y, Chen S, Wang T, Wang Y, Xu X, Wang S, Jin M, Yao Y, et al. Serum short-chain fatty acids and its correlation with motor and non-motor symptoms in Parkinson’s disease patients. BMC Neurol. 2022;22(1):13. doi:10.1186/s12883-021-02544-7.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Parker BJ, Wearsch PA, Veloo ACM, Rodriguez-Palacios A. The genus alistipes: gut bacteria with emerging implications to inflammation, cancer, and mental health. Front Immunol. 2020 [Accessed May 15, 2022];11. https://www.frontiersin.org/article/10.3389/fimmu.2020.00906 10.3389/fimmu.2020.00906
+view
+View
+ Web of Science ®Google Scholar
+Chen J, Chia N, Kalari KR, Yao JZ, Novotna M, Paz Soldan MM, Luckey DH, Marietta EV, Jeraldo PR, Chen X, et al. Multiple sclerosis patients have a distinct gut microbiota compared to healthy controls. Sci Rep. 2016;6(1):28484. doi:10.1038/srep28484.
+view
+View
+ PubMedGoogle Scholar
+Schirmer M, Smeekens SP, Vlamakis H, Jaeger M, Oosting M, Franzosa EA, ter Horst R, Jansen T, Jacobs L, Bonder MJ, et al. Linking the human gut microbiome to inflammatory cytokine production capacity. Cell. 2016;167(4):1125–1136.e8. doi:10.1016/j.cell.2016.10.020.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Tito RY, Cypers H, Joossens M, Varkas G, Praet L, Glorieus E, Bosch FVD, Vos MD, Raes J, Elewaut D. Brief report: dialister as a microbial marker of disease activity in spondyloarthritis. Arthritis Rheumatol. 2017;69(1):114–121. doi:10.1002/art.39802.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Jeong CH, Evans GJ, Healy RM, Jadidian P, Wentzell J, Liggio J, Brook JR. Rapid physical and chemical transformation of traffic-related atmospheric particles near a highway. Atmos Pollut Res. 2015;6(4):662–672. doi:10.5094/APR.2015.075.
+view
+View
+ Web of Science ®Google Scholar
+Jones MR, Diez-Roux AV, Hajat A, Kershaw KN, O’Neill MS, Guallar E, Post WS, Kaufman JD, Navas-Acien A. Race/ethnicity, residential segregation, and exposure to ambient air pollution: the multi-ethnic study of atherosclerosis (mesa). Am J Public Health. 2014;104(11):2130–2137. doi:10.2105/AJPH.2014.302135.
+View
+ PubMed Web of Science ®Google Scholar
+Ranjan R, Rani A, Metwally A, McGee HS, Perkins DL. Analysis of the microbiome: advantages of whole genome shotgun versus 16S amplicon sequencing. Biochem Biophys Res Commun. 2016;469(4):967–977. doi:10.1016/j.bbrc.2015.12.083.
+View
+ PubMed Web of Science ®Google Scholar
+Weiss S, Amir A, Hyde ER, Metcalf JL, Song SJ, Knight R. Tracking down the sources of experimental contamination in microbiome studies. Genome Biol. 2014;15(12):564. doi:10.1186/s13059-014-0564-2.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Hornung BVH, Zwittink RD, Kuijper EJ. Issues and current standards of controls in microbiome research. FEMS Microbiol Ecol. 2019;95(5):fiz045. doi:10.1093/femsec/fiz045.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Kim D, Hofstaedter CE, Zhao C, Mattei L, Tanes C, Clarke E, Lauder A, Sherrill-Mix S, Chehoud C, Kelsen J, et al. Optimizing methods and dodging pitfalls in microbiome research. Microbiome. 2017;5:52. doi:10.1186/s40168-017-0267-5.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Laurence M, Hatzis C, Brash DE. Common contaminants in next-generation sequencing that hinder discovery of low-abundance microbes. PLOS ONE. 2014;9(5):e97876. doi:10.1371/journal.pone.0097876.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Setton E, Marshall JD, Brauer M, Lundquist KR, Hystad P, Keller P, Cloutier-Fisher D. The impact of daily mobility on exposure to traffic-related air pollution and health effect estimates. J Expo Sci Environ Epidemiol. 2011;21(1):42–48. doi:10.1038/jes.2010.14.
+View
+ PubMed Web of Science ®Google Scholar
+Alderete TL, Wild LE, Mierau SM, Bailey MJ, Patterson WB, Berger PK, Jones RB, Plows JF, Goran MI. Added sugar and sugar-sweetened beverages are associated with increased postpartum weight gain and soluble fiber intake is associated with postpartum weight loss in Hispanic women from Southern California. Am J Clin Nutr. 2020;112(3):519–526. doi:10.1093/ajcn/nqaa156.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Patterson WB, Glasson J, Naik N, Jones RB, Berger PK, Plows JF, Minor HA, Lurmann F, Goran MI, Alderete TL, et al. Prenatal exposure to ambient air pollutants and early infant growth and adiposity in the southern California mother’s milk study. Environ Health. 2021;20(1):67. doi:10.1186/s12940-021-00753-8.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Hollingshead HA. AB. Four factor index of social status. Yale J Sociolo. 2011;8:21–52.
+ Google Scholar
+Eckel SP, Cockburn M, Shu YH, Deng H, Lurmann FW, Liu L, Gilliland FD. Air pollution affects lung cancer survival. Thorax. 2016;71(10):891–898. doi:10.1136/thoraxjnl-2015-207927.
+View
+ PubMedGoogle Scholar
+Alderete TL, Jones RB, Shaffer JP, Holzhausen EA, Patterson WB, Kazemian E, Chatzi L, Knight R, Plows JF, Berger PK, et al. Early life gut microbiota is associated with rapid infant growth in Hispanics from Southern California. Gut Microbes. 2021;13(1):1961203. doi:10.1080/19490976.2021.1961203.
+view
+View
+ PubMed Web of Science ®Google Scholar
+16S Illumina Amplicon Protocol: earthmicrobiome. Accessed May 13, 2022. https://earthmicrobiome.org/protocols-and-standards/16s/
+ Google Scholar
+Caporaso JG, Lauber CL, Walters WA, Berg-Lyons D, Huntley J, Fierer N, Owens SM, Betley J, Fraser L, Bauer M, et al. Ultra-high-throughput microbial community analysis on the Illumina HiSeq and MiSeq platforms. ISME J. 2012;6(8):1621–1624. doi:10.1038/ismej.2012.8.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Gonzalez A, Navas-Molina JA, Kosciolek T, McDonald D, Vázquez-Baeza Y, Ackermann G, DeReus J, Janssen S, Swafford AD, Orchanian SB, et al. Qiita: rapid, web-enabled microbiome meta-analysis. Nat Methods. 2018;15(10):796–798. doi:10.1038/s41592-018-0141-9.
+View
+ PubMed Web of Science ®Google Scholar
+Amir A, McDonald D, Navas-Molina JA, Kopylova E, Morton JT, Zech Xu Z, Kightley EP, Thompson LR, Hyde ER, Gonzalez A, et al. Deblur rapidly resolves single-nucleotide community sequence patterns. mSystems. 2017;2(2):e00191–16. doi:10.1128/mSystems.00191-16.
+view
+View
+ PubMed Web of Science ®Google Scholar
+DeSantis TZ, Hugenholtz P, Larsen N, Rojas M, Brodie EL, Keller K, Huber T, Dalevi D, Hu P, Andersen GL, et al. Greengenes, a chimera-checked 16S rRNA gene database and workbench compatible with ARB. Appl Environ Microbiol. 2006;72(7):5069–5072. doi:10.1128/AEM.03006-05.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Schwartzman A, Lin X. The effect of correlation in false discovery rate estimation. Biometrika. 2011;98(1):199–214. doi:10.1093/biomet/asq075.
+View
+ PubMed Web of Science ®Google Scholar
+Bolyen E, Rideout JR, Dillon MR, Bokulich NA, Abnet CC, Al-Ghalith GA, Alexander H, Alm EJ, Arumugam M, Asnicar F, et al. Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2. Nat Biotechnol. 2019;37(8):852–857. doi:10.1038/s41587-019-0209-9.
+View
+ PubMed Web of Science ®Google Scholar
+Kim HY. Statistical notes for clinical researchers: simple linear regression 3 – residual analysis. Restor Dent Endod. 2019;44(1):e11. doi:10.5395/rde.2019.44.e11.
+view
+View
+ PubMedGoogle Scholar
+Zeileis A, Kleiber C, Jackman S. Regression models for count data in R. J Stat Softw. 2008;27:1–25. doi:10.18637/jss.v027.i08.
+view
+View
+ Web of Science ®Google Scholar
+UCLA: Statistical Consulting. Group. zero-inflated negative binomial regression | r data analysis examples. Accessed November 16, 2021. https://stats.idre.ucla.edu/r/dae/zinb/
+ Google Scholar
+Desmarais BA, Harden JJ. Testing for zero inflation in count models: bias correction for the vuong test. Stata J. 2013;13(4):810–835. doi:10.1177/1536867X1301300408.
+view
+View
+ Web of Science ®Google Scholar
+Huurre A, Kalliomäki M, Rautava S, Rinne M, Salminen S, Isolauri E. Mode of delivery – effects on gut microbiota and humoral immunity. Neo. 2008;93(4):236–240. doi:10.1159/000111102.
+View
+ Google Scholar
+Yu G. Using ggtree to visualize data on tree-like structures. Curr Protoc Bioinformatics. 2020;69(1):e96. doi:10.1002/cpbi.96.
+View
+ PubMedGoogle Scholar
+Morton JT, Marotz C, Washburne A, Silverman J, Zarmela L, Edlund A, Zengler K, Knight R. Establishing microbial composition measurement standards with reference frames. Nat Commun. 2019;10(1):2719. doi:10.1038/s41467-019-10656-5.
+view
+View
+ PubMed Web of Science ®Google Scholar
+Fedarko MW, Martino C, Morton JT, González A, Rahman G, Marotz CA, Minich JJ, Allen EE, Knight R. Visualizing ’omic feature rankings and log-ratios using Qurro. NAR Genom Bioinform. 2020;2:2. doi:10.1093/nargab/lqaa023.

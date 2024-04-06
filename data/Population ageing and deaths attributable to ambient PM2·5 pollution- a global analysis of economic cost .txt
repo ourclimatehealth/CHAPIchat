@@ -1,0 +1,427 @@
+Population ageing and deaths attributable to ambient PM2·5 pollution: a global analysis of economic cost
+Hao Yin, PhD
+Prof Michael Brauer, DSc
+Prof Junfeng (Jim) Zhang, PhD
+Wenjia Cai, PhD
+Prof Ståle Navrud, DSc
+Richard Burnett, PhD
+et al.
+Show all authors
+ Open AccessPublished:June, 2021DOI:https://doi.org/10.1016/S2542-5196(21)00131-5
+PlumX Metrics
+
+Summary
+Background
+The health impacts of ambient air pollution impose large costs on society. Although all people are exposed to air pollution, the older population (ie, those aged ≥60 years) tends to be disproportionally affected. As a result, there is growing concern about the health impacts of air pollution as many countries undergo rapid population ageing. We investigated the spatial and temporal variation in the economic cost of deaths attributable to ambient air pollution and its interaction with population ageing from 2000 to 2016 at global and regional levels.
+Methods
+In this global analysis, we developed an age-adjusted measure of the value of a statistical life-year (VSLY) to estimate the economic cost of deaths attributable to ambient PM2·5 pollution using Global Burden of Diseases, Injuries, and Risk Factors Study 2017 data and country-level socioeconomic information. First, we estimated the global age-specific and cause-specific mortality and years of life lost (YLLs) attributable to PM2·5 pollution using the global exposure mortality model and global estimates of exposure at 0·1° × 0·1° (about 11 km × 11 km at the equator) resolution. Second, for each year between 2000 and 2016, we translated the YLLs within each age group into a health-related cost using a country-specific, age-adjusted measure of VSLY. Third, we decomposed the major driving factors that contributed to the temporal change in health costs related to PM2·5. Finally, we did a sensitivity test to analyse the variability of the estimated health costs to four alternative valuation measures. We identified the uncertainty intervals (UIs) from 1000 draws of the parameters and concentration–response functions by age, cause, country, and year. All economic values are reported in 2011 purchasing power parity-adjusted US dollars. All simulations were done with R, version 3.6.0.
+Findings
+Globally, in 2016, PM2·5 was estimated to have caused 8·42 million (95% UI 6·50–10·52) attributable deaths, which was associated with 163·68 million (116·03–219·44) YLLs. In 2016, the global economic cost of deaths attributable to ambient PM2·5 pollution for the older population was US$2·40 trillion (1·89–2·93) accounting for 59% (59–60) of the cost for the total population ($4·09 trillion [3·19–5·05]). The economic cost per capita for the older population was $2739 (2160–3345) in 2016, which was 10 times that of the younger population (ie, those aged <60 years). By assessing the factors that contributed to economic costs, we found that increases in these factors changed the total economic cost by 77% for gross domestic product (GDP) per capita, 21% for population ageing, 16% for population growth, −41% for age-specific mortality, and −0·4% for PM2·5 exposure.
+Interpretation
+The economic cost of ambient PM2·5 borne by the older population almost doubled between 2000 and 2016, driven primarily by GDP growth, population ageing, and population growth. Compared with younger people, air pollution leads to disproportionately higher health costs among older people, even after accounting for their relatively shorter life expectancy and increased disability. As the world's population is ageing, the disproportionate health cost attributable to ambient PM2·5 pollution potentially widens the health inequities for older people. Countries with severe air pollution and rapid ageing rates need to take immediate actions to improve air quality. In addition, strategies aimed at enhancing health-care services, especially targeting the older population, could be beneficial for reducing the health costs of ambient air pollution.
+Funding
+National Natural Science Foundation of China, China Postdoctoral Science Foundation, and Qiushi Foundation.
+• View related content for this article
+
+Introduction
+As a leading health risk factor, ambient PM2·5 substantially damages public health.1 Worldwide exposure to ambient PM2·5 results in 4·2–8·9 million attributable deaths per year.2,  3 By reducing life expectancy, air pollution also causes substantial loss in human capital, productivity, and social wellbeing. The negative health effects of air pollution increase with age as the reduction in physiological processes leads to more age-related diseases.4,  5 According to the UN, the population who are aged 60 years and older increased globally by 50% between 2000 and 2016.6 The global shift in age demographics means that a greater share of the population is more vulnerable to air pollution, and population ageing is greatest in many low-income and middle-income countries (LMICs), where air pollution is higher than in high-income regions.6 Thus, an expanding older population can potentially amplify the health costs of exposure to air pollution on social welfare, jeopardising the health targets outlined by the UN Sustainable Development Goals.
+Research in context
+Evidence before this study
+We searched Web of Science, Google Scholar, and publicly available literature published up to March 2, 2020, for the terms “air pollution”, “mortality”, “health cost”, and “population ageing” without language restrictions to find studies that examine the relationship between population ageing and the health cost of air pollution. Previous research found that population ageing was a major driver of the substantial growth in global non-communicable diseases. However, although many studies have assessed the health costs of air pollution, few have considered how it changed as a result of population ageing. We found multiple articles, including reports from the World Bank, WHO, and the Organization for Economic Co-operation and Development that estimated the health cost of air pollution at both regional and global levels. These studies applied either an age-invariant value of a statistical life (VSL) or an age-invariant value of a statistical life-year (VSLY) as their economic measure of attributable mortality. For example, using an age-invariant VSL measure, the World Bank calculated that the total welfare loss from deaths attributable to ambient air pollution rose from US$2·18 trillion to $3·55 trillion between 1990 and 2013. By assuming an age-invariant VSL or VSLY, these studies do not account for the increased risks and fewer life-years lost that older people face when exposed to air pollution and are unable to establish the effect of population ageing on its economic cost.
+Added value of this study
+This study examines the interaction between population ageing and the global health cost of deaths attributable to ambient air pollution. Unlike previous studies that adopted an age-invariant VSL or VSLY to estimate the health cost of air pollution, we developed an age-adjusted measure of VSLY that incorporates the effects of variations in life expectancy, wealth distribution, and life quality over the lifecycle. By accounting for these factors, our method provides a complementary measure for the value of mortality abatement. Health costs estimated in this study also provide rationale for allocating resources by age groups. Additionally, we used the global exposure mortality model to describe the relationship between pollution exposure and mortality. Compared with previous studies that apply integrated exposure–response functions, our health cost estimates capture not only the five major causes (ischaemic heart disease, stroke, chronic obstructive pulmonary disease, lung cancer, and lower respiratory infections) of deaths previously attributable to PM2·5 pollution, but also the impacts of additional non-accidental causes of mortality. This study provides updated estimates of the global economic cost of deaths attributable to PM2·5 pollution from 2000 to 2016. Furthermore, our decomposition analysis shows the contribution of population ageing to the growth of health cost attributable to PM2·5 pollution over time. The findings of this study are particularly relevant for pollution control policies in countries that face both high levels of pollution and a rapidly ageing population.
+Implications of all the available evidence
+Air pollution's impact on mortality disproportionately affects the older population (ie, those aged ≥60 years). Given general trends in population ageing, our results suggest that the economic health costs of ambient air pollution will continue to rise in the immediate future. Although air quality management is needed globally, it is especially urgent for countries with high levels of pollution and large older populations. In response to rapid demographic change worldwide, more stringent actions are needed to avoid substantial cost on exposed ageing population and additional burden to health-care systems. In addition to deploying clean energy and reducing major sources of emissions, health insurance for the retired population and preventive interventions towards older individuals, such as reducing outdoor activities on a highly polluted day, and avoiding exposure to major air pollution sources (eg, traffic-related air pollution) can partially mitigate the health costs of ambient air pollution. However, more upstream air quality management approaches focused on emissions reduction are likely to be more cost-effective. Understanding the health effects of ambient air pollution across the age distribution has important implications for assessing the aggregate costs of other age-differential health risks, such as the outbreak of COVID-19. Since the outbreak is particularly dangerous for older people with pre-existing health conditions, air pollution might intensify the health risks of the pandemic. The method developed in this study is applicable for assessing the health costs of the epidemic. Further investigation into the indirect health cost of COVID-19 attributable to the exposure of air pollution might provide more incentives for air pollution control.
+To inform policy decisions regarding the mitigation of air pollution, a growing literature has evaluated the economic costs of the effect of air pollution on human health. These studies have documented large health costs associated with air pollution on both global and regional scales.7,  8,  9 According to a World Bank report on the cost of air pollution, the economic cost of ambient PM2·5 was US$3·55 trillion in 2013, equivalent to 3·5% of global gross domestic product (GDP).7 The 2019 Lancet Countdown on Health and Climate Change added the health costs of air pollution as an indicator of the health co-benefits of climate change mitigation.10 Because activities related to fuel combustion also produce greenhouse gases, valuations of the costs of air pollution provide compelling rationale for decision makers to reduce not only air pollution, but also the drivers of climate change.
+Value of statistical life (VSL) and cost of illness (COI) are two major methods to capture the cost of health risks or disease burden.11 Costs estimated by the COI method comprise of the direct health care costs (eg, treatment and hospital admission cost), non-medical costs (eg, transportation) and indirect costs (eg, productivity loss) of air pollution. In comparison, the VSL method converts individuals' willingness to pay for a small reduction in mortality to values of saving a statistical life, thereby capturing additional intangible costs (eg, painfulness of diseases) that the COI method does not capture.12 Therefore, COI is a conservative method adopted for resource allocation in health-care programmes, whereas VSL is a commonly used measure to quantify the health cost in cost–benefit analyses for both environment and health-care programmes that affect social wellbeing—eg, health cost of deaths attributable to PM2·5 pollution.13
+Theoretical models and some empirical studies suggest that VSL and value of a statistical life-year (VSLY) might vary with age.14,  15,  16 However, it is a controversial debate whether older people lose less than younger people from increased health risks.15 Public opposition to an age-adjusted VSL originated from a perception that it values the lives of older people less than those of the young. Rather than valuing a life, VSL represents individual's willingness to pay to reduce a unit of mortality risk. Yet, there is no agreement on whether an age-invariant or age-adjusted measure is more appropriate for making sound policy decisions. Most previous studies multiplied either an age-invariant VSL with cases of attributable deaths or an age-invariant VSLY with years of life lost to quantify the health costs of air pollution.7,  8 For example, the US Environmental Protection Agency and the European Commission apply an age-invariant VSL measure to estimate the health benefits of pollution-control policies.17,  18 By contrast, the Department for Environment Food & Rural Affairs in the UK and the ExternE project preferred a VSLY measure to value the cost of air pollution-related mortality.19,  20 In both cases, the major concern of an age-invariant measure is that it assumes that the VSL or VSLY are equal for people of different ages.16 Estimates derived from this method do not account for the theoretical and empirical evidence that both VSL and VSLY vary with people's age because of changes in remaining life expectancy, life quality, and socioeconomic status.15,  21,  22,  23 Therefore, applying an age-invariant VSL or VSLY might provide bias estimates of the economic cost attributable to air pollution.
+In this study, we applied an age-adjusted VSLY to investigate the contribution of population ageing to the global economic cost of five cause-specific mortalities that have been well linked to PM2·5 in the literature.3 Increasing evidence supports that air pollution exposure is associated to other health effects such as preterm birth, type 2 diabetes, and neurocognitive disorders.24,  25 These adverse effects can contribute to additional attributable mortality and health costs, which should be considered in future evaluations of air pollution impact. In addition to ambient PM2·5, the health costs of many other risk factors are underexplored.26 The expansion of the health cost estimates on the other risk factors, such as household air pollution, would be useful to facilitate the design of policy that aims to improve public health and social welfare. The method developed in this study is applicable to estimate the health costs of other health risks, especially those that disproportionately affect older and younger people.
+Methods
+Estimating global PM2·5 exposure, 2000–16
+In this mixed-methods analysis of demographic and socioeconomic factors, we retrieved average annual estimates of PM2·5 concentrations at 0·1° × 0·1° (about 11 km × 11 km at the equator) resolution using a global PM2·5 database developed by the Atmospheric Composition Analysis Group.27
+To estimate the population that was exposed within each grid of PM2·5 concentration, we collected population data (Gridded Population of the World, version 4 [GPWv4]) from the National Aeronautics and Space Administration's Socioeconomic Data and Applications Center (SEDAC). The GPWv4 is gridded at 0·0083° × 0·0083° (about 1 km × 1 km at the equator) resolution. We aggregated the population data into the same (0·1° × 0·1°) resolution as the PM2·5 data. Population age structure data were collected from Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2017 results. The older population in this study was defined as individuals aged 60 years and older.
+Estimating health damages and economic cost, 2000–16
+We applied new concentration–response functions from the global exposure mortality model (GEMM) developed by Burnett and colleagues3 to estimate the number of attributable deaths associated with non-communicable diseases (NCDs) and lower respiratory infections. Additionally, we specifically quantified five major causes—chronic obstructive pulmonary disease (COPD), ischaemic heart disease, stroke, lung cancer, and lower respiratory infections—to understand their contribution to total mortality.2 The difference in mortality between NCD plus lower respiratory infection and the five specific causes of diseases is defined as due to other NCD. We classified age groups in 5-year increments, censoring the last age group at age 85 years and older. Applying the GEMM, we further estimated attributable mortality, attributable deaths, and years of life lost (YLLs) from 2000 to 2016.
+We estimated the economic cost within each age group as the product of the number of prevalent YLLs (death × life expectancy) in that group and the discounted present value of a life-year loss. To account for the variation in willingness to pay over one's lifecycle, we developed an age-adjusted VSLY that modifies the constant VSL with wealth, remaining life expectancy, and age-specific survival probability at the country level.
+First, country-specific VSL was estimated using the benefit–transfer approach with a base VSL of US$3·54 million, estimated from Organization for Economic Co-operation and Development (OECD) countries.28 We adjusted the base VSL with country-specific GDP per capita by average GDP per capita in OECD countries. Country-specific GDP per capita from 2000 to 2016 was obtained from the World Bank database. Second, we adjusted country-specific VSL for the effect of wealth over the life cycle by multiplying the constant VSL with age-specific wealth weights (wealth for each age group divided by the mean wealth of all age groups) that capture changes in consumption over a lifetime. We then adjusted the VSL by the ratio of the age-specific remaining life expectancy over the mean life expectancy of the total population. Finally, the age-adjusted VSLY was derived from dividing the VSL by the product of remaining life years and survival probability, which represents the quality of a life year. In this study, GDP per capita, wealth, VSL, and VSLY are adjusted by purchasing power parity (PPP) US$ in 2011 in each country.
+The analytical procedures for the estimation of relative risk, attributable deaths, YLLs, age-adjusted VSLY, and health cost are in the appendix (pp 3–9).
+Uncertainty analysis and sensitivity test
+Uncertainties in the distribution of PM2·5 concentration, exposed population sizes, life expectancy, concentration–response functions, socioeconomic parameters and valuation methods propagated to the economic cost estimates. We adopted Monte Carlo simulations to estimate 95% uncertainty intervals (UIs) from 1000 draws of parameters and concentration–response functions throughout the economic cost assessment. Specifically, the uncertainty in parameters of baseline mortality, survival probability, and life expectancy was captured by taking random draws from a normal distribution.29 The counterfactual concentration was assumed to follow a uniform distribution between 2·4 μg/m3 and 5·9 μg/m3.3 In the relative risk and economic cost valuation process, we randomly sampled parameters, including concentration–response functions, base VSL, discount rate, income elasticity of VSL estimates, and wealth weights, following a log-normal distribution.30
+For our sensitivity analysis, we evaluated the health cost using four additional valuation measures: a country-specific, age-invariant VSLY across all age groups; a global average age-adjusted VSLY; a country-specific, age-adjusted VSL; and a country-specific, age-invariant VSL across all age groups. To compare the economic cost across countries and regions, we also introduced a measure of global average age-adjusted VSLY. This measure was estimated using an average global GDP per capita instead of country-specific GDP per capita and by removing differences due to variation in GDP per capita across countries (appendix p 5). All five measures applied a base VSL estimate from OECD countries. All simulations were done with R, version 3.6.0.
+Role of the funding source
+The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.
+Results
+Globally, 8·42 million (95% UI 6·50–10·52) attributable deaths were estimated to be attributable to PM2·5 pollution in 2016, which was 1·4 times (1·3–1·4) the number in 2000, because of population growth and population ageing (appendix p 10). Our estimates were consistent with previous estimates of deaths attributable to PM2·5 applying the GEMM.3,  31 The attributable deaths among those aged 60 years and older comprised more than 69% (66–73) of the total because of the higher attributable mortality in the older population (appendix p 10). The deaths attributable to PM2·5 were associated with 163·68 million (116·03–219·44) YLLs in 2016, of which 38% (37–38) is accounted for by the YLLs of those aged 60 years and older. Between 2000 and 2016, the YLLs for those aged 60 years and older increased by 60% (59–61), whereas the YLLs increased by 3% (2–3) among those younger than 60 years. Similarly, the global average YLLs per capita was 0·004 (0·002–0·006) in 2016, whereas YLLs per capita among the population aged 60 years and older was 16 times (16–17) higher. Geographically, the southeast Asia, east Asia, and Oceania and south Asia super-regions had the majority of global deaths attributable to PM2·5 pollution, mainly because of their larger population sizes and higher PM2·5 exposure and baseline mortality than other regions. Even after controlling for population size, the YLLs per capita in south Asia was 9 times (9–10) the global average.
+The economic cost of the YLLs attributable to PM2·5 pollution in the total population increased from US$2·37 trillion (95% UI 1·88–2·87) per year in 2000 to $4·09 trillion (3·19–5·05) per year in 2016, reflecting a 70% increase, driven by GDP growth, population growth, and population ageing. This cost was equivalent to 3·6% (2·8%–4·5%) of global GDP in 2016 ($114 trillion, 2011 PPP adjusted). However, the health cost to the older population alone increased from $1·34 trillion (1·09–1·60) in 2000 to $2·40 trillion (1·89–2·93) in 2016. The increase in economic cost over this period was 23% faster in the older population than in the younger population. Globally, the economic cost per capita of the older population was $2739 (2160–3345) in 2016, which was 10 times (10–11) the per capita cost of the younger population. As a result of higher health cost per capita and higher baseline mortality, the exposure of ambient PM2·5 caused disproportionate economic costs for the older population.
+In 2016, PM2·5-attributable economic cost in the older population ($2·40 trillion [95% UI 1·89–2·93]) accounted for 59% (59–60) of that in the total population. Notably, despite generally lower air pollution concentrations, the high-income super-region had the highest share of total economic cost borne by the older population (73% [72–74] in 2016; $1·01 trillion [0·80–1·22]), followed by the central Europe, eastern Europe, and central Asia super-region (60% [59–60]; $0·49 trillion [0·40–0·58]). By comparison, given its much younger age distribution, about 24% of the total cost in the Sub-Saharan Africa super-region was borne by the population aged 60 years and older. The share of the economic cost on the older population increased over time in most countries because of rapid population ageing. The proportion of economic cost related to the older population was higher in countries with lower population-weighted PM2·5 concentrations because there was an overall negative correlation between PM2·5 levels and the national proportion of those aged 60 years and older. For example, Japan had the highest proportion of the economic cost in the elderly from 2000 to 2016 (84% [84–85]; $0·16 trillion [0·13–0·19]), followed by Italy (83% [82–83]; $0·09 trillion [0·07–0·10]) where the population-weighted PM2·5 concentration was less than 20 μg/m3.
+The health cost attributable to PM2·5 varied substantially by age and cause. The highest economic costs were associated with the populations aged 60–64 years ($0·48 trillion [95% UI 0·38–0·58]) and the aggregated age group of people aged 85 years and older ($0·53 trillion [0·42–0·65]). Of all the age groups, health cost for the population aged 60–64 years increased the most, by 87% (86–87) between 2000 and 2016, followed by ages 50–59 years and 80–84 years (figure 1). By contrast, the population younger than 24 years had a 41% (40–42) increase in health cost. We also disaggregated the health cost distribution across age groups by GBD super-regions. For the high-income super-region, the health cost for the population aged 60 years and older increased by 10% (9–10) whereas the health cost on the younger age groups (<60 years) decreased by 62% (62–63) between 2000 and 2016. By contrast, the other super-regions had a rapid increase of health costs for the population aged 60 years and older that was about 1·2 times (1·1–1·3) the increase for people younger than 60 years.
+Figure thumbnail gr1
+Figure 1Economic cost by age across GBD super-regions in 2000, 2005, 2010, and 2016
+Show full caption
+View Large ImageDownload Hi-res imageDownload (PPT)
+The economic costs of deaths attributable to PM2·5 varied significantly among the five specific causes (figure 2). Ischaemic heart disease was associated with the highest costs, comprising 27% (95% UI 26–28) of the total economic cost attributable to PM2·5 in 2016. The cost of ischaemic heart disease was 6 times that caused by COPD because of a higher disease-specific baseline mortality and more YLLs per death associated with ischaemic heart disease. The global health costs associated with ischaemic heart disease increased from $0·7 trillion (0·6–0·9) to $1·1 trillion (0·9–1·4) from 2000 to 2016. The health cost associated with stroke increased fastest among all the specific causes, followed by COPD because of the increasing older population. 84% (83–85) of the economic cost attributable to COPD was associated with the older population. In people aged 60 years and older, ischaemic heart disease accounted for 64% (63–65), lung cancer for 74% (72–76), and stroke for 72% (69–74) of the corresponding disease-specific total economic cost associated with PM2·5.
+Figure thumbnail gr2
+Figure 2Economic costs of deaths by cause and country, 2000–16
+Show full caption
+View Large ImageDownload Hi-res imageDownload (PPT)
+Assessing deaths according to cause, attributable deaths associated with other NCDs accounted for 37% (95% UI 26–52) of global attributable deaths from PM2·5. Other NCD-related deaths comprised 44% (36–56) of the total health cost attributable to PM2·5, although this varied widely by country. In China and India, the economic cost of other NCD-related mortality comprised more than 30% (32% [31–32] in China, 38% [37–38] in India) of the total cost attributable to PM2·5 pollution in 2016 (figure 2). By contrast, in countries in the high-income region, such as Japan and the USA, the share of cost due to other NCDs was high (57% [56–57] in Japan and 58% [57–58] in the USA). In the north Africa and Middle East; south Asia; southeast Asia, east Asia, and Oceania; and central Europe, eastern Europe, and central Asia regions, about 30% of their total cost was due to other NCDs, whereas the high-income and Latin America and Caribbean super-regions attributed more than 50% of their health cost to other NCD-attributable deaths. From 2000 to 2016, the high-income super-region generally had a decrease in economic costs due to the five specific causes, but an increase from other NCD mortality. The higher proportion of health costs due to other NCDs might be due to a higher incidence of other NCDs in the older population.
+We also present the economic health costs related to PM2·5 pollution in 2016 as a percentage of national GDP (figure 2). Although the economic cost for China was the largest worldwide, the economic cost relative to national GDP was higher in Russia, India, Italy, and Nigeria. The health costs in China and India associated with PM2·5 pollution increased substantially in the 2000–16 period because of their rapid economic growth, which resulted in a larger VSL.
+The substantial health cost of air pollution reflects the influence of environmental, demographic, and socioeconomic factors. We divided the change in health cost attributable to ambient PM2·5 pollution from 2000 to 2016 by country and region into five major contributors as follows: population growth, population ageing, age-specific baseline mortality due to NCDs plus lower respiratory infections, the exposure level of ambient PM2·5, and the growth of GDP per capita (figure 3; appendix pp 8–9). Globally, from 2000 to 2016, GDP growth increased the health cost attributable to PM2·5 by 77%. The effects of population ageing increased health costs by 21%, offsetting about half of the benefits gained from mortality reduction. We further subdivided the driving factors by GBD super-region. Among all driving factors, the increase in GDP per capita was the dominant contributor to the rapid growth of health cost over the study period in the southeast Asia, east Asia, and Oceania region and in the south Asia region (appendix p 22). In the high-income super-region, the change in age-specific baseline mortality due to NCDs plus lower respiratory infections played a key role in reducing the health cost, decreasing it by 29% between 2000 and 2016. However, the growth in health cost due to population ageing offset about 90% of these benefits in this region. Except for the south Asia and sub-Saharan Africa super-regions, all other regions had an increase in health cost due to population ageing of at least 19%.
+Figure thumbnail gr3
+Figure 3Global contribution of each driving factor to the change in health cost related to ambient PM2·5, 2000–16
+Show full caption
+View Large ImageDownload Hi-res imageDownload (PPT)
+Across countries, there was considerable variation in the effects of the driving factors on the increase in health cost attributable to PM2·5 pollution. In most LMICs, rapid growth in GDP per capita contributed the most. For example, the growth in China's health cost was mainly due to the increase in GDP per capita (contributing a 490% increase in health cost), population ageing (29%), and PM2·5 exposure (20%). Similarly, the substantial increase in health cost in India was driven by the growth of GDP per capita (235%), population growth (26%), and PM2·5 exposure (19%). However, population ageing was not a major contributor in India. By contrast, for the high-income super-region, population ageing was a leading factor for the growth in health costs. In the USA, the health cost caused by population ageing (19%) exceeded the benefits of baseline mortality reduction (17%). The effect of population ageing was even larger in Japan, where it contributed to a 44% increase in health cost. Likewise, South Korea was also heavily affected by population ageing, and had a 66% growth in its health costs from this demographic shift.
+We found that the effects of the driving factors on the change in health costs also varied by age group. The decrease in PM2·5 exposure contributed more to the reduction in health cost for the population aged 60 years and older than for the population younger than 60 years. By contrast, the effect of mortality reduction avoided 56% of the health cost for the younger population, whereas this reduction in mortality only brought a 29% decrease in the health cost for the older population.
+The economic cost of air pollution might change significantly depending on the valuation method used. Therefore, as sensitivity analyses, we compared our primary estimates of the health costs computed using the country-specific age-adjusted VSLY to those from four other measures: an age-invariant VSL, an age-invariant VSLY, an age-adjusted VSL, and a global average age-adjusted VSLY. Unlike the country-specific methods, the global average age-adjusted VSLY does not place a higher willingness to pay to avoid mortality for richer countries, and thereby removes from the estimates of economic cost the effects of income inequality across countries.
+The health cost estimates using the age-adjusted VSLY measure were also largely dependent on wealth weights data. To test the sensitivity of our findings to the selection of wealth data from five countries (Canada, China, Germany, UK, and USA), we analysed the health cost attributable to PM2·5 pollution using China's wealth–age distribution because China has the most equally distributed wealth across ages of the five countries (appendix p 8). In this extreme case, we find that the global health cost of PM2·5 (US$3·75 trillion [95% UI 2·86–4·72]) was 8% lower than the estimates with an average wealth data. Specifically, the proportion of health cost on the population aged 60 years and older dropped 21 percentage points in the high-income super-region and 18 percentage points in the central Europe, eastern Europe, and central Asia super-regions over the 17 years (appendix p 28).
+We assessed VSL as a function of age using the four country-specific valuation measures by GBD super-region (figure 4). Each of these measures relies on different assumptions about the effects of wealth, life expectancy, and survival probability on VSL. By definition, the VSL computed using an age-invariant VSL measure was constant across all age groups. After accounting for differences in life expectancy, the VSL computed using an age-invariant VSLY measure monotonically decreased over the lifecycle. Next, when we also adjust for differences in wealth, the age-adjusted VSL generates two bumps over one's lifetime. Using the age-adjusted VSLY where we adjust for life expectancy, wealth, and survival probability, we found that the shape of VSL over the lifecycle continues to peak once around age 10–15 years and again at age 45–50 years. The peak of VSL before age 20 years was because of our assumption that the population younger than 20 years share the same wealth data as their parents.32 The VSL of the population younger than 20 years was higher than the average VSL during adulthood as a result of their longer life expectancy, better life quality, and paternalistic altruism.32 The inverted U-shape pattern of the relationship between age and VSL among people older than 20 years was also consistent with previous studies that explored the relationship between age and VSL (figure 4).15,  21,  33 In addition to the patterns of VSL distribution with respect to age, we also analysed the relationship between age and VSLY (appendix p 23).
+Figure thumbnail gr4
+Figure 4Age–VSL relationship by GBD super regions
+Show full caption
+View Large ImageDownload Hi-res imageDownload (PPT)
+We found that the health costs computed using the age-adjusted methods were smaller than those estimated using age-invariant measures (figure 5). This suggests that accounting for life expectancy, life quality, and wealth reduces the estimates of the health costs. In 2016, the economic cost was $4·09 trillion (95% UI 3·19–5·05) using an age-adjusted VSLY and $3·88 trillion (3·07–4·73) using an age-adjusted VSL. If we use an age-invariant VSLY that does not account for wealth differences, then the estimated health costs increases modestly to $4·54 trillion (3·58–5·57). If we do not account for life expectancy by using an age-invariant VSL, then the health costs increase greatly to $8·32 trillion (6·62–10·11). Similarly, the largest effect on the estimates of the share of total economic cost borne by those aged 60 years and older was due to adjusting for life expectancy. Although the older population's share of economic costs was 77% using an age-invariant VSL, it ranged between 59% and 61% using the other three measures. Details on the influence of different valuation measures on the age-specific health cost and its distribution with PM2·5 pollution are in the appendix (pp 23–26).
+Figure thumbnail gr5
+Figure 5Global economic cost distribution with PM2·5 concentration using different valuation measures in 2016
+Show full caption
+View Large ImageDownload Hi-res imageDownload (PPT)
+Discussion
+In this study, we examined the economic cost of attributable deaths by looking at the interaction between ambient PM2·5 pollution and global ageing. We found that the older population (aged ≥60 years), which accounts for 10–12% of the global population, contributed 57–59% of the total economic cost of deaths attributable to ambient PM2·5 over the 2000–16 period. Moreover, the rate of increase in the economic cost of the older population was 23% greater than that of the younger population (aged <60 years). Geographically, we found that the high-income super-region had the highest share of total economic cost borne by the older population, followed by the central Europe, eastern Europe, and central Asia super-region.
+The disproportionately large economic cost on the older population was driven by a higher age-specific and disease-specific baseline mortality, and from population ageing leading to increases in the older population. The effects of population ageing offset about half of the reduction in economic costs of air pollution from the overall drop in baseline mortality. Additionally, the benefits of baseline mortality reduction were not distributed evenly across all age groups. Reduction in mortality contributed to a faster rate of economic cost abatement among the younger population, which potentially enlarges the already disproportionate economic cost on the older population. Besides population ageing, increases in GDP per capita and population growth also contributed to the rapid growth of global economic cost between 2000 and 2016.
+To understand the illnesses driving the rise in PM2·5 costs, we also decomposed the economic costs by the cause of attributable death. Among the five traditional specific causes, ischaemic heart disease resulted in the highest economic cost per year and is more concentrated in the older population. In addition to the five specific causes of diseases previously considered in GBD 2016, the health impacts of additional non-accidental causes related to PM2·5 also increased rapidly and had a higher incidence among the older population. The differences in economic costs by cause provide additional information to policy makers to facilitate the allocation of public medical resources. Furthermore, the additional costs of other NCD-related deaths attributable to ambient PM2·5 suggest that air pollution control strategies could potentially lead to much greater health benefits than previous estimates.
+The estimates of the economic cost of ambient PM2·5 pollution fluctuates substantially depending on the valuation measure used. The age-invariant VSL measure, which is used in most previous studies, generated the highest estimate of economic cost in 2016 of the five methods. In comparison to an age-invariant VSL, we developed an age-adjusted VSLY measure that accounts for three major effects that influence VSLY over the lifecycle: the change in remaining life expectancy, life quality, and wealth weights. After the adjustment of VSLY by age, we obtained a set of VSL estimates that varied with age in an inverted U shape that peaks at age 45–50 years, as consistent with previous studies. Although there are concerns about the inequality caused by adjusting VSLY by age, social preferences showed from consumers' choices and workers' wage rates imply that both VSL and VSLY peak at middle age and decline afterwards.22 Since air pollution disproportionately affects the older population, individuals' risk–money tradeoff varies as their age, mortality rate, and socioeconomic status change.34 An age-adjusted VSLY measure has the potential to reflect patterns of health cost distribution across all age groups. The economic costs estimated using the age-adjusted VSLY informs the allocation of pollution control and health-care resources to protect the older population while also not undervaluing (in terms of VSL) the younger population.
+Despite the advancements in this study in estimating the health cost of ambient air pollution, limitations remain. First, we applied methods that require a series of global and historical data inputs, which are measured with uncertainty. Although satellite-based estimates are generally somewhat lower than the ground monitoring data, the PM2·5 estimates used in this study show a high consistency (R2=0·81) with ground measurements.27 In addition, uncertainties in the population spatial distribution typically increase with the disaggregation of the age categories. The age-specific and disease-specific baseline mortality applied in this study uses national data which cannot reflect the variations in mortality at the subnational level. Therefore, the estimates of attributable deaths might be overestimated or underestimated depending on the relative magnitude and direction of mortality in the specific regions compared with average national mortality rates.
+Second, the concentration–response functions applied in this study also introduced uncertainties. Our estimates of the economic costs caused by NCDs plus lower respiratory infection were 40% higher than the total of the five specific diseases in the older population using the GEMM. The GEMM was developed using 41 cohorts that were mostly implemented in high-income countries.3 As a result of this, the model assumes that the prevalence of deaths for the additional NCDs, such as chronic kidney disease and dementia, is similar in all countries compared with the predominantly high-income countries that are included in the 41 cohort studies.35 Including more cohort studies from highly polluted countries and additional concentration–response functions for other NCDs in the GEMM will reduce the uncertainties in the estimates of deaths attributable to PM2·5 pollution. We also suggest that the concentration–response relationships of other NCDs should be further investigated to improve the estimates of the health cost attributable to PM2·5 pollution. For example, GBD 2017 included type 2 diabetes as another specific cause of disease, and GBD 2019 incorporated the estimates of deaths mediated by the impact of air pollution on birthweight and short gestation. Adding additional causes of disease related to PM2·5 might alter the share of the health impacts on the older population relative to the total impact over all ages. In addition, as the GEMM is based on adult cohort mortality analyses, it might underestimate the overall impact of air pollution, and specifically its impacts on infant mortality and youth morbidity.36 Some other caveats of concentration–response functions are discussed in the appendix (p 26).
+Third, there were uncertainties embedded in the age-adjusted VSLY because of the small number of national studies of VSL. To compensate, we extrapolated the VSL and VSLY of all countries worldwide from the VSL database of OECD countries using a benefit-transfer method. However, this database might underestimate the VSL in the USA and other high-income countries.37 For example, Viscusi37 estimated that the VSL in the USA is $10 million based on a hedonic wage approach, which is much higher than the benefit-transfer estimate used in this study ($4·5 million in the USA). If we adopt a VSL of $10 million in the USA, the health cost of PM2·5 in the USA will be $1·02 trillion (95% UI 0·81–1·22). In addition, the benefit-transfer method introduces uncertainties from variation in the estimates of the income elasticity for VSL across countries. In this study, we applied an age-invariant value of income elasticity within two groups of countries: low-income and high-income countries. To limit these uncertainties, we considered a wide range of elasticities between 0·6 and 1·4, which covers the estimates of elasticity reported in most previous studies.38,  39 We acknowledge that elasticities are different across countries, but we believe our uncertainty assessment captured most of the bias caused by the variation of income elasticity in the VSL estimates. To adjust VSLY by age, we adopted average wealth weights from the wealth–age data of five countries because there was scarce wealth data publicly available at the country level. Our preferred estimates apply the average data from the five countries by assuming that all countries follow a similar pattern in wealth–age distribution. The shape of the wealth–age curve across countries are consistent with the predictions of lifecycle and inheritance theories that people acquire more fortune over time.40,  41 To test the sensitivity of the health cost estimates to the wealth data, we applied the wealth–age distribution data in China across all countries as an extreme example since the other four high-income countries have higher inequality in the wealth distribution across ages. Although the proportion of health cost on the older population decreased using a relatively equal wealth–age distribution, the older population was still disproportionately affected by the exposure of PM2·5 pollution. Therefore, changes in the wealth–age distribution data did not affect the major findings of this study. Yet, we agree that the health cost estimates in this study would be improved by more national wealth–age distribution data should that become available. Details of the results of the sensitivity test are in the appendix (pp 27–28).
+The age-adjusted VSLY measure developed in this study emphasises the importance of taking variations in wealth, life expectancy, and life quality over one's lifetime into consideration, because it could affect people's preferences for reducing mortality risks across ages. Our sensitivity analysis found that this measure provides a conservative lower bound to estimates of the health costs attributable to PM2·5 that is complementary to existing methods for the valuation of health risks by age. We suggest that age-invariant VSL and age-adjusted VSLY measures should be compared in cost–benefit analyses of policies, because they capture a large range of the uncertainties embedded in the valuation of health cost attributable to ambient PM2·5.
+In conclusion, the economic cost of deaths attributable to ambient PM2·5 among the older population accounted for most of the total cost of PM2·5. From 2000 to 2016, PM2·5-related health cost has increased substantially, among which population ageing raised the health cost by 21%. Furthermore, additional NCDs, which have not been considered in previous health cost valuations, represent a large share of the total economic costs, suggesting that the benefits of pollution reduction might exceed previous estimates. These findings imply that if substantial pollution reduction is not achieved, especially in countries with high pollution levels and large older populations, ambient air pollution will lead to rapid increases in economic cost related to attributable deaths. This would, therefore, induce substantial burden on national health-care systems. In addition, improved health care targeted towards older individuals and strategies to reduce their exposure can be beneficial to reduce the health cost of ambient air pollution. The implications of this study emphasise the need for ambitious actions to contain ambient air pollution in an ageing world.
+Contributors
+HY, DG, ZL, and QZ developed the research idea and framework. HY, MB, JZ, ZD, ZL, QZ, SN, DG, RB, HK, DMK, AJC, and HJS developed models, provided guidance on methods, and managed the estimation process. HY, MB, ZD, ZL, and QZ provided or analysed data. HY did coding and data visualisation. MB, JZ, WC, CH, KC, ZM, D'MC, AJC, and PG reviewed the results and manuscript. All authors finalised the draft according to the comments from authors and reviewers. HY, ZL, MB, JZ, HJS, AJC, and DG accessed and verified the data in the study. All authors had full access to all the data in the study and had final responsibility for the decision to submit for publication.
+Data sharing
+The wealth data, main results, and analytical codes of this study are available at GitHub. Our estimates rely on multiple datasets (detailed in the Methods section and appendix pp 3–7) complying with terms and conditions, or licensing.
+Declaration of interests
+We declare no competing interests.
+Acknowledgments
+QZ acknowledges funding from the National Natural Sciences Fund Innovation Research Community Science Fund (NSFC 41921005). HY acknowledges funding from the National Natural Science Foundation of China (71904104) and the China Postdoctoral Science Foundation (2019M650726). DG acknowledges funding from the National Natural Science Foundation of China (72091514). ZL acknowledges funding from the Qiushi Foundation and the National Natural Science Foundation of China (71874097 and 41921005). AJC acknowledges the Health Effects Institute member's support for their work on this manuscript. NZ acknowledges funding from the National Key Research and Development Program of China (2018YFC0213600) and the National Natural Science Foundation of China (72033005 and 71822402).
+Editorial note: the Lancet Group takes a neutral position with respect to territorial claims in published maps and institutional affiliations.
+Supplementary Material
+Download .pdf (2.82 MB)
+Help with pdf files
+Supplementary appendix
+References
+1.Abbafati C Machado DB Cislaghi B et al.
+Global burden of 87 risk factors in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019.
+Lancet. 2020; 396: 1223-1249
+View in Article 
+Scopus (3812)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+2.Cohen AJ Brauer M Burnett R et al.
+Estimates and 25-year trends of the global burden of disease attributable to ambient air pollution: an analysis of data from the Global Burden of Diseases Study 2015.
+Lancet. 2017; 389: 1907-1918
+View in Article 
+Scopus (4109)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+3.Burnett R Chen H Szyszkowicz M et al.
+Global estimates of mortality associated with long-term exposure to outdoor fine particulate matter.
+Proc Natl Acad Sci USA. 2018; 115: 9592-9597
+View in Article 
+Scopus (1370)
+PubMed
+Crossref
+Google Scholar
+4.Pope 3rd, CA
+Mortality effects of longer term exposures to fine particulate air pollution: review of recent epidemiological evidence.
+Inhal Toxicol. 2007; 19: 33-38
+View in Article 
+Scopus (212)
+PubMed
+Crossref
+Google Scholar
+5.Shumake KL Sacks JD Lee JS Johns DO
+Susceptibility of older adults to health effects induced by ambient air pollutants regulated by the European Union and the United States.
+Aging Clin Exp Res. 2013; 25: 3-8
+View in Article 
+Scopus (42)
+PubMed
+Crossref
+Google Scholar
+6.Department of Economic and Social Affairs Population Division
+World Population Ageing 2017.
+United Nations, New York, NY2017
+https://www.un.org/en/development/desa/population/publications/pdf/ageing/WPA2017_Report.pdf
+Date accessed: June 4, 2020
+View in Article 
+Google Scholar
+7.World Bank
+The cost of air pollution: strengthening the economic case for action (English).
+The World Bank, Watchington, DC2016
+https://documents.worldbank.org/curated/en/781521473177013155/The-cost-of-air-pollution-strengthening-the-economic-case-for-action
+Date accessed: May 16, 2020
+View in Article 
+Crossref
+Google Scholar
+8.Maji KJ Ye W-F Arora M Shiva Nagendra SM
+PM2.5-related health and economic loss assessment for 338 Chinese cities.
+Environ Int. 2018; 121: 392-403
+View in Article 
+Scopus (212)
+PubMed
+Crossref
+Google Scholar
+9.Pimpin L Retat L Fecht D et al.
+Estimating the costs of air pollution to the National Health Service and social care: an assessment and forecast up to 2035.
+PLoS Med. 2018; 15e1002602
+View in Article 
+Scopus (56)
+PubMed
+Crossref
+Google Scholar
+10.Watts N Amann M Arnell N et al.
+The 2019 report of The Lancet Countdown on health and climate change: ensuring that the health of a child born today is not defined by a changing climate.
+Lancet. 2019; 394: 1836-1878
+View in Article 
+Scopus (877)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+11.Viscusi WK Aldy JE
+The value of a statistical life: a critical review of market estimates throughout the world.
+J Risk Uncertain. 2003; 27: 5-76
+View in Article 
+Scopus (1237)
+Crossref
+Google Scholar
+12.Watts E Sim SY Constenla D Sriudomporn S Brenzel L Patenaude B
+Economic benefits of immunization for 10 pathogens in 94 low- and middle-income countries from 2011 to 2030 using cost-of-illness and value-of-statistical-life approaches.
+Value Health. 2021; 24: 78-85
+View in Article 
+Scopus (13)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+13.Robinson LA Hammitt JK Cecchini M et al.
+Reference case guidelines for benefit-cost analysis in global health and development.
+https://cdn1.sph.harvard.edu/wp-content/uploads/sites/2447/2019/05/BCA-Guidelines-May-2019.pdf
+Date: 2019
+Date accessed: January 18, 2020
+View in Article 
+Google Scholar
+14.Hammitt JK
+Admissible utility functions for health, longevity, and wealth: integrating monetary and life-year measures.
+J Risk Uncertain. 2013; 47: 311-325
+View in Article 
+Scopus (38)
+Crossref
+Google Scholar
+15.Aldy JE Viscusi WK
+Age differences in the value of statistical life: revealed preference evidence.
+Rev Environ Econ Policy. 2007; 1: 241-260
+View in Article 
+Crossref
+Google Scholar
+16.Robinson LA Sullivan R Shogren JF
+Do the benefits of COVID-19 policies exceed the Costs? Exploring uncertainties in the age-VSL relationship.
+Risk Anal. 2020; (published online July 16.)
+https://doi.org/10.1111/risa.13561
+View in Article 
+Google Scholar
+17.European Commission
+What are the health costs of environmental pollution?.
+European Union, LuxembourgDecember, 2018
+https://ec.europa.eu/environment/integration/research/newsalert/pdf/health_costs_environmental_pollution_FB21_en.pdf
+Date accessed: September 12, 2019
+View in Article 
+Google Scholar
+18.WHO Regional Office for Europe OECD
+Economic cost of the health impact of air pollution in Europe: clean air, health and wealth.
+World Health Organization, Copenhagen2015
+https://www.euro.who.int/en/media-centre/events/events/2015/04/ehp-mid-term-review/publications/economic-cost-of-the-health-impact-of-air-pollution-in-europe
+Date accessed: December 16, 2020
+View in Article 
+Google Scholar
+19.Birchby D Stedman J Whiting S Vedrenne M
+Air quality damage cost update 2019.
+UK Department for Environment Food & Rural Affairs, Feb 27, 2019
+https://uk-air.defra.gov.uk/library/reports?report_id=974
+Date accessed: January 3, 2021
+View in Article 
+Google Scholar
+20.Bickel P Friedrich R
+ExternE: externalities of energy: methodology 2005 update.
+Directorate-General for Research and Innovation, Luxembourg2005
+http://www.externe.info/externe_d7/?q=node/4
+Date accessed: September 12, 2020
+View in Article 
+Google Scholar
+21.Aldy JE Viscusi WK
+Adjusting the value of a statistical life for age and cohort effects.
+Rev Econ Stat. 2008; 90: 573-581
+View in Article 
+Scopus (188)
+Crossref
+Google Scholar
+22.O'Brien J
+Age, autos, and the value of a statistical life.
+J Risk Uncertain. 2018; 57: 51-79
+View in Article 
+Scopus (13)
+Crossref
+Google Scholar
+23.Viscusi WK
+Risk guideposts for a safer society: introduction and overview.
+J Risk Uncertain. 2019; 58: 101-119
+View in Article 
+Scopus (11)
+Crossref
+Google Scholar
+24.Schraufnagel DE Balmes JR Cowl CT et al.
+Air pollution and noncommunicable diseases: a review by the Forum Of International Respiratory Societies' Environmental Committee, part 2: air pollution and organ systems.
+Chest. 2019; 155: 417-426
+View in Article 
+Scopus (478)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+25.Zhang JJ Adcock IM Bai Z et al.
+Health effects of air pollution: what we need to know and to do in the next decade.
+J Thorac Dis. 2019; 11: 1727-1730
+View in Article 
+Scopus (10)
+PubMed
+Crossref
+Google Scholar
+26.Abbafati C Machado DB Cislaghi B et al.
+Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019.
+Lancet. 2020; 396: 1204-1222
+View in Article 
+Scopus (7337)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+27.van Donkelaar A Martin RV Brauer M et al.
+Global estimates of fine particulate matter using a combined geophysical-statistical method with information from satellites, models, and monitors.
+Environ Sci Technol. 2016; 50: 3762-3772
+View in Article 
+Scopus (864)
+PubMed
+Crossref
+Google Scholar
+28.Lindhjem H Navrud S Braathen NS Biausque V
+Valuing mortality risk reductions from environmental, transport, and health policies: a global meta-analysis of stated preference studies.
+Risk Anal. 2011; 31: 1381-1407
+View in Article 
+Scopus (153)
+PubMed
+Crossref
+Google Scholar
+29.Nasari MM Szyszkowicz M Chen H et al.
+A class of non-linear exposure-response models suitable for health impact assessment applicable to large cohort studies of ambient air pollution.
+Air Qual Atmos Health. 2016; 9: 961-972
+View in Article 
+Scopus (102)
+PubMed
+Crossref
+Google Scholar
+30.Narain U Sall C
+Methodology for valuing the health impacts of air pollution: discussion of challenges and proposed solutions.
+World Bank, Washington, DC2016
+https://openknowledge.worldbank.org/handle/10986/24440
+Date accessed: March 16, 2020
+View in Article 
+Crossref
+Google Scholar
+31.Lelieveld J Pozzer A Pöschl U Fnais M Haines A Münzel T
+Loss of life expectancy from air pollution compared to other risk factors: a worldwide perspective.
+Cardiovasc Res. 2020; 116: 1910-1917
+View in Article 
+Scopus (411)
+PubMed
+Crossref
+Google Scholar
+32.Leung J Guria J
+Value of statistical life: adults versus children.
+Accid Anal Prev. 2006; 38: 1208-1217
+View in Article 
+Scopus (23)
+PubMed
+Crossref
+Google Scholar
+33.Aldy JE
+Birds of a feather: estimating the value of statistical life from dual-earner families.
+J Risk Uncertain. 2019; 58: 187-205
+View in Article 
+Scopus (9)
+Crossref
+Google Scholar
+34.Viscusi WK
+The heterogeneity of the value of statistical life: introduction and overview.
+J Risk Uncertain. 2010; 40: 1-13
+View in Article 
+Scopus (57)
+Crossref
+Google Scholar
+35.Hystad P Yusuf S Brauer M
+Air pollution health impacts: the knowns and unknowns for reliable global burden calculations.
+Cardiovasc Res. 2020; 116: 1794-1796
+View in Article 
+Scopus (11)
+PubMed
+Crossref
+Google Scholar
+36.Heft-Neal S Burney J Bendavid E Burke M
+Robust relationship between air quality and infant mortality in Africa.
+Nature. 2018; 559: 254-258
+View in Article 
+Scopus (213)
+PubMed
+Crossref
+Google Scholar
+37.Viscusi WK
+Pricing lives: guideposts for a safer society.
+Princeton University Press, Princeton, NJMay 15, 2018: 28-29
+View in Article 
+Google Scholar
+38.Lindhjem H Navrud S
+Reliability of meta-analytic benefit transfers of international value of statistical life estimates: tests and illustrations.
+in: Johnston R Rolfe J Rosenberger R Brouwer R Benefit transfer of environmental and resource values. The economics of non-market goods and resources. vol 14. Springer, Dordrecht2015: 441-464
+View in Article 
+Crossref
+Google Scholar
+39.Hammitt JK Robinson LA
+The income elasticity of the value per statistical life: transferring estimates between high and low income populations.
+J Benefit Cost Anal. 2011; 2: 1-29
+View in Article 
+Scopus (188)
+Crossref
+Google Scholar
+40.Börsch-supan A Stahl K
+Life cycle savings and consumption constraints: theory, empirical evidence, and fiscal implications.
+J Popul Econ. 1991; 4: 233-255
+View in Article 
+Scopus (59)
+PubMed
+Crossref
+Google Scholar
+41.Davies JB Shorrocks AF
+The distribution of wealth.
+in: Atkinson AB Bourguignon F Handbook of Income Distribution. Elsevier, Amsterdam2000: 605-675
+View in Article 
+Scopus (143)
+Crossref
+Google Scholar

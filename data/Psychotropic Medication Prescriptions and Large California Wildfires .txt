@@ -1,0 +1,161 @@
+Psychotropic Medication Prescriptions and Large California Wildfires
+Zachary S. Wettstein, MD, MS1,2; Ambarish Vaidyanathan, PhD, MSEnvE1
+Author Affiliations Article Information
+JAMA Netw Open. 2024;7(2):e2356466. doi:10.1001/jamanetworkopen.2023.56466
+Key Points
+Question  Is residential proximity to large wildfires associated with increased prescriptions of psychotropic medications, indicating greater mental health burden?
+
+Findings  This cohort study of more than 7 million individuals living in areas affected by 25 large California wildfires (2011-2018) found a statistically significant increase in prescriptions of antidepressants, anxiolytics, and mood-stabilizing medications during the fire period compared with the prefire period, but not for antipsychotics, hypnotics, or the negative control outcome, statins.
+
+Meaning  This study’s results suggest that large wildfires may exacerbate certain mental health conditions, necessitating a comprehensive public health approach that ensures access to a wide variety of services, including those that improve mental health resilience before, during, and after disasters.
+
+Abstract
+Importance  Wildfires, intensified by climate change, have known effects on physical health but their effects on mental health are less well characterized. It has been hypothesized that the residential proximity to a large wildfire can exacerbate underlying mental health conditions as evidenced by increased prescriptions of psychotropic medications.
+
+Objective  To evaluate the association between the occurrence of large wildfires and the prescription rates of psychotropic medications immediately following the start of the fire.
+
+Design, Setting, and Participants  This cohortstudy used an interrupted time-series analysis to compare psychotropic medication prescriptions in the 6 weeks before and after each of 25 wildfires. The setting was California counties within metropolitan statistical areas (MSAs) experiencing large wildfires from 2011 through 2018. Participants included individuals residing in California MSAs with prescriptions of psychotropic medications recorded in the Merative MarketScan Research Database (MarketScan) during the study period. Statistical analysis was performed for these 25 large wildfires occurring between September 2011 and November 2018.
+
+Exposure  Residential proximity to large wildfires that burned more than 25 000 acres occurring in a California county within an MSA.
+
+Main Outcomes and Measures  Prescriptions of psychotropic medications, including antidepressants, antipsychotics, anxiolytics, hypnotics, and mood-stabilizers, with statins as a negative control outcome.
+
+Results  For the study period, prescription data and patient-level attributes were extracted for 7 115 690 unique individuals (annual mean [range]: 889 461 [455 705-1 426 928] individuals) enrolled in MarketScan and residing in fire-affected MSAs. This study found a statistically significant increase in prescriptions of antidepressants (rate ratio [RR], 1.04 [95% CI, 1.01-1.07]), anxiolytics (RR, 1.05 [95% CI, 1.02-1.09]), and mood-stabilizing medications (RR, 1.06 [95% CI, 1.01-1.13]) in the fire period compared with the prefire baseline. However, the prescriptions of antipsychotics, hypnotics, and the negative control outcome, statins, showed no significant association.
+
+Conclusions and Relevance  In this cohort study of large California wildfires, the occurrence of wildfire was associated with increased mental health burden as reflected in increased prescription rates of certain psychotropic medications. The findings underscore the need for further scientific examination into the mental health effects of wildfires and the allocation of mental health resources in disaster responses. California experienced a substantial burden of wildfires from 2011 to 2018, and as wildfires become more intense and frequent in the context of anthropogenic climate change, it is increasingly important to understand and address their mental health effects.
+
+Introduction
+In recent years, states in the western United States have experienced destructive wildfires with substantial societal effects.1,2 While wildfires can occur naturally and many ecosystems benefit from periodic fires, climate change has been a sizable contributor to the increased frequency, intensity, and duration of large wildfires.1 Consequently, wildfire-related damages to property and disruptions to people’s life have become more frequent in the last few decades, especially in California.3-6
+
+The public health burden due to wildfires can be substantial with negative health consequences resulting from direct fire-related damage, air pollution, and severe disruptions to ecosystems. While the physical health effects of wildfires have been extensively studied, their effect on mental health is poorly understood despite a vast burden expected.3,4,7-9 Prior studies assessing mental health outcomes associated with disasters have identified increases in diagnoses and medication prescriptions for anxiety, depression, posttraumatic stress disorder (PTSD), and sleep disturbances associated with earthquakes, hurricanes, and floods.10,11 Few studies have explored the implications of wildfires on mental health, which remain challenging to study due to a range of factors including stigma, underdiagnosis, and difficulty in measuring mental health burden.11,12 Furthermore, published studies have identified associations between wildfire and impaired mental health including anxiety, depression, and PTSD, but these studies have relied primarily on qualitative methods or focused on a particular wildfire or season; and, to our knowledge, none have used prescriptions of psychotropic medications as a proxy for mental health burden nor evaluated across wildfire seasons.3,4,7-9,13
+
+We hypothesized that the presence of large wildfires in California, especially near population centers, would be associated with exacerbations of underlying mental health conditions. Toward this end, our objective for this study was to analyze associations between large wildfires in California and prescription rates of various psychotropic medication categories as a proxy indicator of public mental health burden.
+
+Methods
+Setting and Data Sources
+We conducted a cohort study analyzing psychotropic medication prescriptions in California around the times of 25 of the largest wildfires that occurred in California from 2011 through 2018. Our fire selection criteria were based on acreage burned (>25 000 acres) and occurrence within a county that was part of a metropolitan statistical area (MSA) to account for proximity to the fires. We identified fire size using the California Department of Forestry and Fire Protection (CALFIRE) Redbook (eTable 1 in Supplement 1). We obtained information on outpatient drug claims from the Merative MarketScan Research Database (MarketScan; commercial claims and encounters data, 2011-2018). All health data used in this study were deidentified, so the study did not qualify as human research according to the policies of the US Centers for Disease Control and Prevention (CDC); therefore, institutional review board approval and informed consent were not required.
+
+Outcome Measures
+We extracted daily medication prescriptions from MarketScan with information on the MSA that each patient resided in along with patient-level attributes, such as age and sex. In addition, we categorized them into various psychotropic medication groups, according to Micromedex, with statins included as a control category (eTable 2 in Supplement 1). Specifically, we created 7 daily time series at the MSA level: (1) all psychotropic medications, (2) antidepressants, (3) antipsychotics, (4) anxiolytics, (5) hypnotics, (6) mood stabilizers, and (7) statins. Additional analyses were stratified by age group (18-44 years and 45-64 years) and sex (male or female) for all outcomes. We identified the onset date of a wildfire episode as the first date of posting on Twitter by an official local, state, or federal wildfire agency. Tweets have been traditionally used by wildfire agencies to provide real-time updates on containment efforts and alert the public of fire-related hazards. Based on the posting date, we restricted the duration of each wildfire-specific study period to 6 weeks after the start of the fire (fire period) and 6 weeks before fire initiation (prefire period). For each series, we extracted the total number of persons enrolled in MarketScan during the fire and prefire period. Our analysis did not consider a stratified analysis by race or ethnicity as that information was not available from MarketScan. This study followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) reporting guideline.
+
+Statistical Analysis
+We used an interrupted time-series (ITS) regression framework to explore the association of wildfire episodes and the prescription rates of psychotropic medications.14-17 For our analysis, we used the first Twitter posting date for each wildfire as the interruption point. Based on this interruption point, we performed an ITS analysis comparing the 6 weeks after the start of the fire with the 6 weeks before fire initiation. We relied on recently published ITS studies to account for variables representing time, including a variable to denote time since the start of each wildfire-specific study period that was centered at the interruption point and a binary indicator based on the interruption point, denoting the mean change in daily prescription medication between prefire and fire periods. Specifically, we fitted Poisson generalized linear models, that accounted for overdispersion.18 We regressed daily counts of various psychotropic medication categories against the binary variable denoting mean change in daily prescription medications, while controlling for time trends, seasonality, and factors that influence baseline prescription rates for each MSA where a major wildfire episode occurred. Of note, using a binary indicator, we controlled for the cooccurrence of any extreme weather alerts and disaster declarations for other hazards (eg, cold, flood, and heat alerts), reported in the National Oceanic and Atmospheric Administration (NOAA) storm event database, either during the fire or prefire period.19 Other variables included a variable for the combination of wildfire name and location, an interaction between month and year, an indicator to identify weekends, and an interaction term between the time variable centered at the interruption point and the variable denoting name and location of the wildfire. We used the logarithm of persons enrolled in MarketScan during the fire and prefire period as an offset variable to adjust for potential fluctuations in enrollee population over time. The models estimated mean daily change in prescription rates between fire and prefire periods as rate ratios (RRs) with 95% CIs and were implemented using generalized estimating equations with a first-order autoregressive correlation structure to allow for correlation within MSA. A 2-sided α of .05 was used for statistical significance. We performed data analysis using SAS version 9.4 (SAS Institute) and ArcGIS version 10.8 (Environmental Systems Research Institute). Statistical analysis was performed for these 25 large wildfires occurring between September 2011 and November 2018.
+
+We also conducted a series of sensitivity analyses to examine the robustness of results. First, we identified an alternative interruption point based on the wildfire onset date reported in the CALFIRE Redbook. In addition, we also explored the sensitivity associated with the length of prefire and fire period by varying the duration to 4, 8, or 12 weeks. Lastly, we executed models by controlling for binary indicators for specific extreme weather events or disasters, and continuous measures of daily temperature and air pollution. We obtained daily mean air temperature in degrees Fahrenheit (°F) from NOAA National Center for Environmental Information and used estimates of daily 24-hour mean fine particulate matterin micrograms per cubic meter and daily maximum 8-hour mean ozone concentrations in parts per billion from a bayesian space-time downscaler fusion model.20-22
+
+Results
+This study included 25 fires spread across 14 MSAs (Figure). Between January 1, 2011, and December 31, 2018, we extracted patient-level attributes for 7 115 690 unique individuals (annual mean [range]: 889 461 [455 705-1 426 928] individuals) enrolled in MarketScan and residing in fire-affected MSAs. The mean (range) percentage of enrollees who had at least 1 outpatient drug claim was 22% (21%-23%) for psychotropic medications and 12% (11%-13%) for statin medications. Overall, medication use patterns were different between the prefire and the fire period; of note, 251 978 psychotropic prescriptions were used in the prefire period vs 255 319 in the fire period, and 97 463 statin prescriptions were used in the prefire period vs 97 764 in the fire period. Age-specific and sex-specific distributions of psychotropic and statin medications are provided in Table 1.
+
+In the primary analysis using fire start according to first posting on Twitter, we observed statistically significant RRs, indicating an increase in mean daily medication prescriptions for the fire period, for antidepressant medications (1.04 [95% CI, 1.01-1.07]), anxiolytic medications (1.05 [95% CI, 1.02-1.09]), mood-stabilizing medications (1.06 [95% CI, 1.01-1.13]), and all psychotropic medications (1.04 [95% CI, 1.01-1.07]) (Table 2). After age group–based stratification, these significant findings persisted for all medication categories, but category-specific associations were found only for older adults (aged 45-64 years) (Table 2). The effect sizes based on sex-stratification were comparable; however, RR for mood-stabilizing medications was only statistically significant for female enrollees (1.09 [95% CI, 1.02-1.17]). For antipsychotic medications (eg, RR for all ages and sexes, 1.01 [95% CI, 0.96-1.06]) and hypnotic medications (eg, RR for all ages and sexes, 1.04 [95% CI, 0.99-1.08]), mean RRs were greater than unity but the risk estimates were not statistically significant. Daily prescriptions for the control category of statins showed no statistically significant association during the period with wildfires (RR, 1.03 [95% CI, 1.00-1.06]) or across any stratifications considered in this analysis.
+
+In the sensitivity analysis, when the fire start was based upon the CALFIRE Redbook, the results were consistent with Twitter-based wildfire onset date across all medication categories except for mood-stabilizer medications, and the hypnotic medications category was statistically significant for male enrollees (eTable 3 in Supplement 1). In addition, we observed that the length of the prefire and fire period did influence the risk estimates for all medication categories. Optimal length of the prefire and fire period seemed to be 6 weeks as there was a reduction in effect sizes beyond this duration and for certain medication categories, longer durations resulted in nonsignificant results. Of note, the addition of continuous measures of air pollution and temperature parameters and/or the inclusion of binary indicators for specific extreme weather events or disasters in the Poisson generalized linear models did not significantly affect associations between medication prescriptions and the binary indicator based on the interruption point, representing mean daily change (eFigure 1 and eFigure 2 in Supplement 1).
+
+Discussion
+In this cohort study, psychotropic medication prescriptions increased in the fire period compared with the prefire baseline, including for antidepressant medications, anxiolytic medications, and mood-stabilizer medication, but not for antipsychotic medications, hypnotic medications, or statin medications, the nonpsychotropic control. Furthermore, by controlling for other severe weather events and disaster declarations, this analysis established a robust baseline and limited the potential confounding of other environmental hazards.
+
+Possible mechanisms for health effects of wildfires have been previously discussed, and likely represent a range of factors resulting from the physical, psychological, and economic tolls imposed from wildfires.3,4,7,10,13 Mental health burdens likely result from physical health effects including trauma and cardiorespiratory conditions; distress reactions including sleep disruption and decreased sense of safety, particularly among those who face displacement, evacuation, and property loss; and exacerbations of underlying psychiatric disorders such as PTSD, anxiety, depression, and complex grief.10 While other analyses of wildfire health effects typically focus on air quality, there are numerous other hazards from wildfires ranging from direct flame exposure, ash and smoke constituents, water quality degradation, and property destruction. By focusing on residential proximity to the wildfires, this analysis considered the exposure to these numerous hazards as well as the community stress, anxiety, and social medial exposure to images and discussions of the wildfire that would be simultaneously present, which was hypothesized to be among the primary mechanisms of the resulting mental health effects.23
+
+The sensitivity analyses further supported the robustness of the findings in this study. Controlling for temperature, precipitation, and air pollution demonstrated some degree of confounding but with a persistent and similar distribution of the results, suggesting that the effect of these fires on mental health burden may be due to a separate mechanism, such as community stress and social media exposure to wildfire-related content. Stratification of the analysis by age was statistically significant in all psychotropic medications regardless of age group, although with older adults demonstrating a greater magnitude of the effect, with statistically significant associations persisting for specific medication classes, including antidepressants and anxiolytics. This may have been due to an increased mental health burden among older adults associated with the wildfires; however, the greater sample size of psychotropic prescriptions among older adults may have contributed to this statistically significant finding as well. Interestingly, the sex-stratified results demonstrated a higher baseline count of psychotropic prescriptions among female enrollees, which may indicate a higher engagement in mental health care or a higher burden of mental health conditions among female individuals.24-26 Notably, the increase in psychotropic prescriptions in the postfire period were disproportionately higher among female enrollees than male enrollees, suggesting a higher engagement in mental health care and psychotropic medication use, and potentially greater mental health burden among female enrollees.
+
+Limitations
+There were limitations to this study. The ITS framework can misrepresent the step change associated with the fire period, especially when other California-specific unplanned major events that occur simultaneously contribute to changes in prescription rates.27 In order to account for such uncertainties, we controlled for other disasters, restricted our fire and prefire periods to a reasonably short duration, and conducted a series of sensitivity analyses to ascertain the influence of several continuous environmental parameters. These additional steps helped verify the robustness of our results and reduced the possibility of misattributing the associations between wildfires and prescription rates. In addition, although this study did not evaluate whether these were new prescriptions or refills of prior medication, prior studies have found disasters associated with incident mental health diagnoses and prescriptions.10 As these prescription records were sourced from commercial claims data, they likely underestimate the burden for other disproportionately affected groups, such as people who are uninsured or experiencing unstable housing, and those enrolled in Medicaid or Medicare. Rural communities also face a disproportionate burden of wildfire exposure and concomitant lack of mental health resources, which may not be captured in these psychotropic medication prescriptions if conditions go undiagnosed and untreated, and they are likely underrepresented in this data set focused on MSAs.3 Additionally, individuals with limited or no access to mental health services are not likely included in this commercial claims database. Therefore, these findings may vastly underestimate the true risk of mental health effects among those not actively engaged in mental health care, who may be at greater risk without a preexisting structure for support and treatment.11
+
+Conclusions
+In this cohort study of large California wildfires from 2001 to 2018, the analysis demonstrated a significant association between psychotropic medication fills and wildfires consistent with previous literature describing mental health risk associated with wildfires, but on a broader spatial and timescale using administrative prescription data.3,4,7-9,13,28 These findings warrant further examination of mental health effects related to wildfires, including exploration of exposure pathways and mechanisms for mental health effects, incident diagnoses compared with exacerbation of preexisting mental health conditions, and identification of mental health needs in communities and populations disproportionately affected by wildfires. Further investigation on mental health prescription medications is needed, particularly focusing on populations with limited or no access to mental health services, so that appropriate public health measures can be implemented with an emphasis on addressing medication needs of affected populations. In addition, the importance of clinical and public health efforts that shed light on negative mental health consequences is underscored by climate change and its role in increasing the frequency, intensity, and extent of wildfires and other environmental hazards, potentially escalating mental health burdens worldwide. Lastly, while awaiting further scientific exploration, ensuring access to mental health services and supporting programs that promote mental health resilience before, during, and after wildfires are integral to mitigating the mental health effects associated with catastrophic fires.29,30
+
+Back to top
+Article Information
+Accepted for Publication: December 26, 2023.
+
+Published: February 26, 2024. doi:10.1001/jamanetworkopen.2023.56466
+
+Open Access: This is an open access article distributed under the terms of the CC-BY License. © 2024 Wettstein ZS et al. JAMA Network Open.
+
+Corresponding Author: Ambarish Vaidyanathan, PhD, MSEnvE, Climate and Health Program, National Center for Environmental Health, Centers for Disease Control and Prevention, 4770 Buford Hwy, Mail Stop Cham S6-106, Atlanta, GA 30341 (rishv@cdc.gov).
+
+Author Contributions: Drs Wettstein and Vaidyanathan had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. In addition, Drs Wettstein and Vaidyanathan contributed equally to the study and are co–first authors.
+
+Concept and design: Vaidyanathan and Wettstein.
+
+Acquisition, analysis, or interpretation of data: Vaidyanathan and Wettstein.
+
+Drafting of the manuscript: Vaidyanathan and Wettstein.
+
+Critical review of the manuscript for important intellectual content: Vaidyanathan and Wettstein.
+
+Statistical analysis: Vaidyanathan and Wettstein.
+
+Administrative, technical, or material support: Vaidyanathan.
+
+Supervision: Vaidyanathan.
+
+Conflict of Interest Disclosures: None reported.
+
+Disclaimer: The findings and conclusions in this study are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention (CDC).
+
+Data Sharing Statement: See Supplement 2.
+
+Additional Contributions: The authors would like to thank W. Dana Flanders, MD, Emory University, for his suggestions and assistance with the study design. We would also like to thank reviewers, both internal and external to authors’ affiliated organizations, who provided insightful comments toward the improvement of this manuscript. We are also grateful for the support and assistance provided by colleagues at the Department of Interior, United States Forest Service, and United States Environmental Protection Agency. Finally, we appreciate the support received from the CDC’s Data Hub, National Centers for Environmental Health, and Office of Readiness and Response, Public Health Preparedness and Response for this project. These contributors were not compensated.
+
+References
+1.
+U. S. Global Change Research Program. Fifth National Climate Assessment. Accessed December 14, 2023. https://nca2023.globalchange.gov/
+2.
+Burke  M﻿, Driscoll  A﻿, Heft-Neal  S﻿, Xue  J﻿, Burney  J﻿, Wara  M﻿.  The changing risk and burden of wildfire in the United States. ﻿  Proc Natl Acad Sci U S A. 2021;118(2):e2011048118. doi:10.1073/pnas.2011048118PubMedGoogle ScholarCrossref
+3.
+Humphreys  A﻿, Walker  EG﻿, Bratman  GN﻿, Errett  NA﻿.  What can we do when the smoke rolls in? an exploratory qualitative analysis of the impacts of rural wildfire smoke on mental health and wellbeing, and opportunities for adaptation. ﻿  BMC Public Health. 2022;22(1):41. doi:10.1186/s12889-021-12411-2PubMedGoogle ScholarCrossref
+4.
+Rodney  RM﻿, Swaminathan  A﻿, Calear  AL﻿,  et al.  Physical and mental health effects of bushfire and smoke in the Australian capital territory 2019-20. ﻿  Front Public Health. 2021;9:682402. doi:10.3389/fpubh.2021.682402PubMedGoogle ScholarCrossref
+5.
+Buechi  H﻿, Weber  P﻿, Heard  S﻿, Cameron  D﻿, Plantinga  AJ﻿.  Long-term trends in wildfire damages in California. ﻿  Int J Wildland Fire. 2021;30(10):757-762. doi:10.1071/WF21024Google ScholarCrossref
+6.
+Williams  AP﻿, Abatzoglou  JT﻿, Gershunov  A﻿,  et al.  Observed impacts of anthropogenic climate change on wildfire in California. ﻿  Earths Futur. 2019;7(8):892-910. doi:10.1029/2019EF001210Google ScholarCrossref
+7.
+Mao  W﻿, Adu  M﻿, Eboreime  E﻿,  et al.  Post-traumatic stress disorder, major depressive disorder, and wildfires: a fifth-year postdisaster evaluation among residents of Fort McMurray. ﻿  Int J Environ Res Public Health. 2022;19(15):9759. doi:10.3390/ijerph19159759PubMedGoogle ScholarCrossref
+8.
+Mirabelli  MC﻿, Vaidyanathan  A﻿, Pennington  AF﻿, Ye  D﻿, Trenga  CA﻿.  Wildfire smoke and symptoms affecting mental health among adults in the U.S. state of Oregon. ﻿  Prev Med. 2022;164:107333. doi:10.1016/j.ypmed.2022.107333PubMedGoogle ScholarCrossref
+9.
+Zhang  Y﻿, Workman  A﻿, Russell  MA﻿, Williamson  M﻿, Pan  H﻿, Reifels  L﻿.  The long-term impact of bushfires on the mental health of Australians: a systematic review and meta-analysis. ﻿  Eur J Psychotraumatol. 2022;13(1):2087980. doi:10.1080/20008198.2022.2087980PubMedGoogle ScholarCrossref
+10.
+Morganstein  JC﻿, Ursano  RJ﻿.  Ecological disasters and mental health: causes, consequences, and interventions. ﻿  Front Psychiatry. 2020;11:1. doi:10.3389/fpsyt.2020.00001PubMedGoogle ScholarCrossref
+11.
+Goldmann  E﻿, Galea  S﻿.  Mental health consequences of disasters. ﻿  Annu Rev Public Health. 2014;35(1):169-183. doi:10.1146/annurev-publhealth-032013-182435PubMedGoogle ScholarCrossref
+12.
+Kranke  D﻿, Schmitz  S﻿, Der-Martirosian  C﻿, Dobalian  A﻿.  Stigma as a barrier to engaging in mental health services among adolescents who survive natural disasters. ﻿  Soc Work Ment Health. 2017;15(2):171-183. doi:10.1080/15332985.2016.1199392Google ScholarCrossref
+13.
+Silveira  S﻿, Kornbluh  M﻿, Withers  MC﻿, Grennan  G﻿, Ramanathan  V﻿, Mishra  J﻿.  Chronic mental health sequelae of climate change extremes: a case study of the deadliest Californian wildfire. ﻿  Int J Environ Res Public Health. 2021;18(4):1487. doi:10.3390/ijerph18041487PubMedGoogle ScholarCrossref
+14.
+Bernal  JL﻿, Cummins  S﻿, Gasparrini  A﻿.  Interrupted time series regression for the evaluation of public health interventions: a tutorial. ﻿  Int J Epidemiol. 2017;46(1):348-355. doi:10.1093/ije/dyw098PubMedGoogle ScholarCrossref
+15.
+Wagner  AK﻿, Soumerai  SB﻿, Zhang  F﻿, Ross-Degnan  D﻿.  Segmented regression analysis of interrupted time series studies in medication use research. ﻿  J Clin Pharm Ther. 2002;27(4):299-309. doi:10.1046/j.1365-2710.2002.00430.xPubMedGoogle ScholarCrossref
+16.
+Jandoc  R﻿, Burden  AM﻿, Mamdani  M﻿, Lévesque  LE﻿, Cadarette  SM﻿.  Interrupted time series analysis in drug utilization research is increasing: systematic review and recommendations. ﻿  J Clin Epidemiol. 2015;68(8):950-956. doi:10.1016/j.jclinepi.2014.12.018PubMedGoogle ScholarCrossref
+17.
+Zhang  N﻿, Song  D﻿, Zhang  J﻿,  et al.  The impact of the 2016 flood event in Anhui Province, China on infectious diarrhea disease: an interrupted time-series study. ﻿  Environ Int. 2019;127:801-809. doi:10.1016/j.envint.2019.03.063PubMedGoogle ScholarCrossref
+18.
+Agresti  A﻿.  Foundations of Linear and Generalized Linear Models. John Wiley & Sons; 2015.
+19.
+National Centers for Environmental Information, National Oceanic and Atmospheric Administration. Storm Events Database. Published online 2023. Accessed July 19, 2023. https://www.ncdc.noaa.gov/stormevents/
+20.
+National Oceanic and Atmospheric Administration. NOAA U.S. Climate Gridded Dataset (NClimGrid). Accessed December 14, 2023. https://registry.opendata.aws/noaa-nclimgrid/
+21.
+United States Environmental Protection Agency. Fused air quality surface using a Bayesian space-time downscaler model. Published online November 17, 2015. Accessed December 14, 2023. https://www.epa.gov/hesc/rsig-related-downloadable-data-files
+22.
+Berrocal  VJ﻿, Gelfand  AE﻿, Holland  DM﻿.  Space-time data fusion under error in computer model output: an application to modeling air quality. ﻿  Biometrics. 2012;68(3):837-848. doi:10.1111/j.1541-0420.2011.01725.xPubMedGoogle ScholarCrossref
+23.
+Zhao  N﻿, Zhou  G﻿.  Social media use and mental health during the COVID-19 pandemic: moderator role of disaster stressor and mediator role of negative affect. ﻿  Appl Psychol Health Well Being. 2020;12(4):1019-1038. doi:10.1111/aphw.12226PubMedGoogle ScholarCrossref
+24.
+Maestre-Miquel  C﻿, López-de-Andrés  A﻿, Ji  Z﻿,  et al.  Gender differences in the prevalence of mental health, psychological distress and psychotropic medication consumption in Spain: a nationwide population-based study. ﻿  Int J Environ Res Public Health. 2021;18(12):6350. doi:10.3390/ijerph18126350PubMedGoogle ScholarCrossref
+25.
+Steel  Z﻿, Marnane  C﻿, Iranpour  C﻿,  et al.  The global prevalence of common mental disorders: a systematic review and meta-analysis 1980-2013. ﻿  Int J Epidemiol. 2014;43(2):476-493. doi:10.1093/ije/dyu038PubMedGoogle ScholarCrossref
+26.
+Charlotte  M﻿, Schwartz  E﻿, Slade  E﻿,  et al.  Gender differences in mood stabilizer medications prescribed to veterans with serious mental illness. ﻿  J Affect Disord. 2015;188:112-117. doi:10.1016/j.jad.2015.08.065PubMedGoogle ScholarCrossref
+27.
+Ewusie  JE﻿, Soobiah  C﻿, Blondal  E﻿, Beyene  J﻿, Thabane  L﻿, Hamid  JS﻿.  Methods, applications and challenges in the analysis of interrupted time series data: a scoping review. ﻿  J Multidiscip Healthc. 2020;13:411-423. doi:10.2147/JMDH.S241085PubMedGoogle ScholarCrossref
+28.
+To  P﻿, Eboreime  E﻿, Agyapong  VIO﻿.  The impact of wildfires on mental health: a scoping review. ﻿  Behav Sci (Basel). 2021;11(9):126. doi:10.3390/bs11090126PubMedGoogle ScholarCrossref
+29.
+North  CS﻿, Pfefferbaum  B﻿.  Mental health response to community disasters: a systematic review. ﻿  JAMA. 2013;310(5):507-518. doi:10.1001/jama.2013.107799
+ArticlePubMedGoogle ScholarCrossref
+30.
+SAMHSA. TAP 34 disaster planning handbook for behavioral health service programs. Accessed January 29, 2024. https://store.samhsa.gov/product/tap-34-disaster-planning-handbook-behavioral-health-service-programs/pep21-02-01-001

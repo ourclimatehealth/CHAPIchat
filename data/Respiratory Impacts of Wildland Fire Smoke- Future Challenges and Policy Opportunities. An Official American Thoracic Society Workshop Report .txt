@@ -1,0 +1,296 @@
+Respiratory Impacts of Wildland Fire Smoke: Future Challenges and Policy Opportunities. An Official American Thoracic Society Workshop Report
+Mary B. Rice, Sarah B. Henderson, Allison A. Lambert, Kevin R. Cromar, John A. Hall, Wayne E. Cascio, Paul G. Smith, Brenda J. Marsh, Sarah Coefield, John R. Balmes, Ali Kamal, M. Ian Gilmour, Chris Carlsten, Kathleen M. Navarro, Gwen W. Collman, Ana Rappold, Mark D. Miller, Susan L. Stone, and , on behalf of the American Thoracic Society Environmental Health Policy Committee and the American Thoracic Society Assembly on Environmental, Occupational, and Population Health
+Copyright and License information PMC Disclaimer
+See commentary " Journal Club: Respiratory Impact of Wildfire Smoke " in Chronic Obstr Pulm Dis, volume 8 on page 408.
+Go to:
+Abstract
+Wildland fires are diminishing air quality on a seasonal and regional basis, raising concerns about respiratory health risks to the public and occupational groups. This American Thoracic Society (ATS) workshop was convened in 2019 to meet the growing health threat of wildland fire smoke. The workshop brought together a multidisciplinary group of 19 experts, including wildland fire managers, public health officials, epidemiologists, toxicologists, and pediatric and adult pulmonologists. The workshop examined the following four major topics: 1) the science of wildland fire incidence and fire management, 2) the respiratory and cardiovascular health effects of wildland fire smoke exposure, 3) communication strategies to address these health risks, and 4) actions to address wildland fire health impacts. Through formal presentations followed by group discussion, workshop participants identified top priorities for fire management, research, communication, and public policy to address health risks of wildland fires. The workshop concluded that short-term exposure to wildland smoke causes acute respiratory health effects, especially among those with asthma and chronic obstructive pulmonary disease. Research is needed to understand long-term health effects of repeated smoke exposures across fire seasons for children, adults, and highly exposed occupational groups (especially firefighters). Other research priorities include fire data collection and modeling, toxicology of different fire fuel sources, and the efficacy of health protective measures to prevent respiratory effects of smoke exposure. The workshop committee recommends a unified federal response to the growing problem of wildland fires, including investment in fire behavior and smoke air quality modeling, research on the health impacts of smoke, and development of robust clinical and public health communication tools.
+
+Keywords: air pollution, wildfire, wildland fire, smoke, health
+Go to:
+Table of Contents
+Overview
+
+Wildland Fire Incidence and Management
+
+Wildland Fire Health Effects
+
+ Susceptible Populations
+
+ Occupational Exposures
+
+ Smoke Toxicology and Controlled Human Exposures
+
+Communicating Health Risks of Wildland Fire Smoke
+
+ Communication by Clinicians
+
+ Communication by Public Health Agencies
+
+Actions to Address the Health Impacts of Wildland Fires
+
+ Effectiveness of Public Health Interventions
+
+ Coordinated Approach to Smoke Preparedness
+
+ A Call for a Federally Funded Wildland Fire Smoke Research Program
+
+Conclusions
+
+Go to:
+Overview
+Wildland fires include both wildfires (unplanned) and prescribed fires (planned). Millions of people each year are exposed to wildland fire smoke, often repeatedly within a fire season. The expansion of the wildland–urban interface and influx of people into fire-prone areas further increases risk. Wildfires are increasing in severity, causing a deterioration in air quality in the western United States and elsewhere (1). With evidence that the wildfire season is lengthening, in part because of climate change and its effect on fuel conditions, this trend is expected to continue (2, 3).
+
+This workshop was convened in 2019 in response to the rising severity and health consequences of wildland fires. The workshop was led by Drs. Rice (Chair) and Costa (Co-Chair) and included wildland fire managers, firefighters, public health officials, epidemiologists, toxicologists, and pediatric and adult pulmonologists and cardiologists. The 19 workshop participants presented information as part of four sessions that were followed by group discussion and identification of future needs and priorities. Topics of discussion included 1) fire incidence and management, 2) health effects of wildland fire smoke exposure, 3) communicating health risks of wildland fire smoke, and 4) actions to address wildland fire health impacts.
+
+The information presented and discussed in the four sessions is summarized below, followed by a table listing the main recommendations that emerged from each group discussion. This report was written by committee, with further editing by the senior authors. It is not a systematic review. Presenter names are listed by topic area immediately before the References. Workshop participants concluded that there is an urgent need for a unified federal response to the growing problem of wildland fires, including investment in fire behavior and air quality modeling, health effects research, evaluation of interventions, and development of robust clinical and public health communication tools that translate relevant research findings into usable information to protect public health.
+
+Go to:
+Wildland Fire Incidence and Management
+In many parts of the United States, wildland vegetation evolved with fire. Wildland fires are a ubiquitous natural phenomenon and part of an ecological cycle known as the “fire regime.” Unless managed (e.g., through thinning, harvest, grazing, or prescribed burns) wildland vegetation will generally accumulate until wildfire can no longer be prevented or easily contained. In the United States, years of fire suppression, a lengthening of the fire season because of climate change, population growth, increased public access, and expansion of the wildland–urban interface have resulted in an increased incidence of severe, uncontrolled, and destructive wildfires. These factors are expected to be exacerbated for the foreseeable future, especially in the western United States (4).
+
+Wildland fires have become a national public health issue given the increasing area burned by both wildfires (unplanned) and prescribed (planned) fires (Figure 1) and the increasing frequency of very large destructive fires on wildlands (5). Both wildfires and prescribed fires produce smoke and impair air quality, so both raise health concerns. However, large wildfires create particular challenges because they are less predictable and impact large areas for long periods.
+
+An external file that holds a picture, illustration, etc.
+Object name is AnnalsATS.202102-148STf1.jpg
+Figure 1.
+Total acres burned by wildfires (1983–2019) and prescribed fires (2010–2019) in the United States, including Alaska. Wildfire numbers are for all fires exceeding 100 acres forest/300 acres rangeland (100 acres = 40.5 hectares). Prescribed fire acreage depends on state reporting. Source: National Interagency Fire Center, 2020 (5).
+
+Wildland fires affect both fire-adapted ecosystems, which require periodic fire to maintain ecosystem resilience, and fire-prone ecosystems, which are often morphed by the invasion or introduction of nonnative flammable grasses and flora. Because of years of fire prevention efforts and species invasion, much of the western United States has extensive accumulation of fire-prone vegetation and vegetative debris, which are exceedingly vulnerable to wildfire activity. In some parts of North America, most notably in the southeastern United States, vigorous fire management has allowed areas to burn, either naturally or through prescribed burning, which has promoted the regrowth of fire-adapted vegetation. Such vegetation is more diverse and resistant to rapidly spreading wildfires. Nonetheless, many fire-adapted ecosystems in the United States, especially in the northwest, have a fire deficit because of years of fire suppression, resulting in accumulated vegetation, litter, and duff (an organic layer on the surface of mineral soil). These fire-adapted areas are also prone to intense fires, illustrating the complexity of fire management across diverse landscapes. In both fire-prone and fire-adapted landscapes, the health consequences of wildland fires are amplified by the movement of people into these areas, expanding the wildland–urban interface with manmade structures that provide additional fuel for wildfires.
+
+Prescribed burning can mitigate wildfire risk by preventing the overaccumulation of organic matter and thereby reducing fuel load. Although it is an important fire management tool, prescribed burning has several limitations and is not always feasible. Planning and implementing prescribed burning requires substantial resources that, in many areas, may not be adequate to contend with the large areas with high vegetation accumulation and wildfire risk. With extensive domestic development in wildland areas, it is not always possible to ensure a fully controlled burn that does not extend into areas where people live. Prescribed burns are generally conducted under low wind conditions to minimize smoke and health impacts. However, unpredictable weather changes can create more smoke than anticipated, exposing nearby communities. Prescribed fires tend to burn at lower temperatures with more smolder than wildfires, likely producing a different smoke profile. However, smoke exposure assessment studies have used different sampling periods at different proximities to the fire, which complicates efforts to directly compare pollutant exposures from prescribed fires and wildfires (6). It remains unknown how the toxicity of smoke from different types of fires compares (7).
+
+To model and predict smoke exposures to inform decisions about fire management and risk, a robust system is needed to estimate wildland fire emissions. The factors that predict differences in the quantity, composition, toxicity, and duration of smoke emissions are still emerging (7). The existing dichotomous “wildfire” versus “prescribed fire” paradigm does not sufficiently capture the effects of different fires on ecosystem resilience, human health, and local economies. A recently proposed framework by Williamson and colleagues (7) evaluates the health impacts from smoke but does not incorporate other values such as water quantity and quality, carbon storage, soil stability, habitat, cultural resources, local economies, and property. A more expansive assessment framework proposed by Hall and others (Figure 2) allows the impacts on multiple values to be assessed and compared by viewing fire as an ecological continuum in different ecosystems and regions. Understanding the factors that predict wildland fire characteristics, smoke production and dispersion, health effects, and impact on other public values affected by fires will improve fire management decision-making (Table 1).
+
+An external file that holds a picture, illustration, etc.
+Object name is AnnalsATS.202102-148STf2.jpg
+Figure 2.
+Conceptual overview of a proposed assessment framework for wildland fire. Figure printed with permission from co-author, John Hall.
+
+Table 1.
+Priorities for fire science and management
+
+#1	Judicious use of prescribed fire is needed to reduce risk of uncontrolled and deadly wildfires by helping to address the problem of fuel accumulation after years of fire suppression.
+#2	Exposure data are needed across a range of potential exposures, including different fuel types and proximities to the fire.
+#3	A robust wildland fire data collection and modeling framework is needed to characterize and predict emission quantities, compositions, toxic potencies, and durations of smoke exposure to inform decisions about fire management.
+Open in a separate window
+Go to:
+Wildland Fire Health Effects
+Nearly three decades of epidemiological, clinical, and toxicological research have demonstrated cardiopulmonary health effects of exposure to ambient particulate matter (PM), especially fine PM (PM2.5). Across parts of the fire-prone northwestern United States, ambient PM2.5 concentrations have worsened between 1988 and 2016 during a time when the rest of the United States experienced dramatic improvements in air quality (1). Despite the fact that one-third of PM2.5 in the United States originates from wildland fires (8), comparatively few studies have examined relationships between smoke exposure and adverse health outcomes. This is concerning because the acreage burned by wildland fires is generally increasing (Figure 1), and populations continue to expand into the wildland–urban interface. Approximately 39% of U.S. housing units interface with undeveloped wildland (9), and millions are at risk of exposure to smoke from nearby wildland fires. The following sections provide a brief overview of the known acute health effects of wildland fire smoke. Few studies have evaluated the chronic health effects of repeated smoke exposure across wildfire seasons.
+
+Investigators have examined a wide range of health outcomes, from subclinical indicators of inflammation to cause-specific mortality. In general, the associations between wildland fire smoke and cardiopulmonary health effects are consistent with those found for exposures to ambient PM2.5 (10). A large body of evidence indicates that wildland fire smoke increases rates of respiratory medication use, ambulance calls, emergency department visits, hospital admissions, and all-cause mortality (11–16). The respiratory health effects are especially evident for those with asthma and chronic obstructive pulmonary disease (COPD) (11, 12, 17, 18). Per unit mass, PM from wildland fire smoke may result in a higher risk of hospitalization for asthma among children and older adults than PM from other ambient sources, likely because of the different toxic emissions profile of smoke (17, 19). There is also growing evidence of acute cardiovascular health effects of wildland fires (16, 20–23), although cardiovascular studies to date have been less consistent than respiratory studies (11, 12, 19, 24, 25). In addition, there is emerging evidence that wildland fire smoke affects outcomes among those with diabetes and end-stage renal disease (16, 26–28).
+
+Susceptible Populations
+People who are most susceptible to health effects of air pollution—children, the elderly, and those with cardiopulmonary diseases (including asthma, COPD, ischemic heart disease) or socioeconomic disadvantage—appear to be more susceptible to wildland fire smoke (12, 19, 29). Pregnant women and the developing fetus also appear to be at increased risk (19, 28, 30). Even healthy children have been found to experience upper respiratory symptoms and increased cough and wheeze during wildfires (31), and those with relatively smaller airways have a higher risk of respiratory symptoms (32). Recent meta-analyses suggest that women (18, 33), older adults, African Americans, and those living in poorer neighborhoods are especially likely to experience respiratory health effects from wildland fire smoke exposure (29).
+
+Occupational Exposures
+Wildland firefighters are highly exposed to smoke but are also generally in better physical condition than the general population (a “healthy firefighter effect”) (34, 35). According to a workshop participant who is a firefighter, many firefighters view smoke as “part of the job” and express little concern about the potential health risks, especially during nonextreme smoke conditions. However, both short- and long-term repeated exposures to wildland fire smoke may pose a serious health hazard to firefighters. The arduous conditions of firefighting increase respiratory rate and ventilation, thereby increasing the exposure to smoke pollution (36). Personal protective respirators are often not practical for such conditions and are rarely used (37). During prescribed fires, personnel are often in close proximity to the burning area, and therefore exposure can be very high. Even during off-duty and rest periods, when fire workers retreat to camps and staging areas, the air often remains polluted by smoke as well as emissions from generators and other equipment.
+
+There is limited research on the acute and chronic health effects of fighting wildfires and managing prescribed fires, though the health risk is likely to be high based on what is known about the adverse effects of PM2.5. One recent systematic review concluded that short-term exposure of firefighters to wildfire smoke was associated with impaired lung function, hypertension, and post-traumatic stress (38). Higher risks of mortality from cardiovascular disease and lung cancer have been predicted (36), and there is some evidence of higher cancer risk among firefighters (34). Because of the dynamic environment and research challenges of studying on-duty firefighters, there remain many knowledge gaps regarding occupational health risk. Meanwhile, multiple government agencies and private companies recruit wildland firefighters with incomplete information about occupational risks to health and life expectancy.
+
+Smoke Toxicology and Controlled Human Exposures
+The physical and chemical attributes of wildland fire smoke vary with the characteristics of the fire, such as fuel type (e.g., forest, grassland, peat bogs, and human-made structures), energy of combustion, flaming versus smoldering conditions, weather or atmospheric conditions, and topography. Although not equivalent to “natural” wildfire, controlled studies from laboratory-generated smoke allow chemical analysis and subsequent toxicity testing in animal or biological models and have identified elements of fires and their emissions that impair health (39, 40). These studies have confirmed that the chemical composition of smoke differs by the type of biomass burned (e.g., pine, oak, and peat) (39) and have found that concentrations of heavy metals and polycyclic aromatic hydrocarbons are higher in flaming than smoldering smoke (39). Variation in particle size appears to impact particle toxicity (41, 42). Higher-throughput toxicology models are needed to determine the uncertainty of the emissions factors for specific pollutants (e.g., lead and mercury) and whether specific pollutants may be more appropriate than PM2.5 to assess the health impacts of wildfire smoke.
+
+Controlled human exposure studies are very limited in number and vary widely in study design, and they have involved only healthy adults who may be less susceptible than children or those with comorbidities. These studies consistently report adverse effects of wood smoke on airway inflammation (43–45). Findings on systemic inflammation and oxidative stress have been mixed (46, 47). Laboratory-generated wood smoke may have different toxicological properties than wildland fire smoke because of smoldering versus flaming fire, photochemical aging, and varying fuel types (Table 2).
+
+Table 2.
+Research needed on wildland fire health effects
+
+#1	Toxicology and chemistry research is needed to define the composition and toxicity of smoke from different fuel sources (biomass types and building structures) and under different burning conditions (flaming, smoldering, and residual conditions after a fire). Such research may determine whether PM2.5 is the best index substance to measure against the health impacts of wildfire smoke.
+#2	Research is needed on the effects of long-term and repeated wildland fire smoke pollution on respiratory, cardiovascular, neurological, and psychological health across life stages, including developing fetuses and children, and among highly exposed occupational groups (especially firefighters).
+#3	Centers of wildland fire research expertise are needed in regions affected by wildland fires that can quickly apply research action plans for unpredictable fire events, such as mobile units/teams for collecting exposure and physiologic data in underserved areas.
+Open in a separate window
+Definition of abbreviation: PM2.5 = fine particulate matter.
+
+Go to:
+Communicating Health Risks of Wildland Fire Smoke
+Although many people are aware of the health risks of wildfire smoke and take defensive actions to protect their health (31, 48), public misperception or underappreciation of the health risks of wildland fire smoke is common. For example, in a citizen-science study by U.S. Environmental Protection Agency (EPA), adults with chronic illness did not self-identify as being at higher risk of harmful effects and did not take action to mitigate smoke exposure unless they were already experiencing smoke-associated symptoms (49). Workshop participants agreed on the need for clinicians and public health agencies to provide clear and consistent messaging to the public around the following points: 1) although risk varies among individuals, wildland fire smoke poses a health risk to all; and 2) preparedness and prevention can minimize harm.
+
+Communication by Clinicians
+Healthcare providers have a special relationship with their patients and can play a key role in mitigating the health impacts of wildland fire smoke in both healthy patients and those who may be at particular risk. Multiple studies have demonstrated that passive communication of information does not necessarily influence behavioral change, but people are more likely to act based on messages they receive from a trusted professional, including their physician (50, 51). Unfortunately, few clinician-focused resources exist that outline 1) the effects of wildland fire smoke in healthy people and specific vulnerable groups, 2) preseason planning strategies for patients and families, 3) measures to reduce exposures during smoke events, and 4) resources for updates during wildfire season. Some materials in the United States include the AirNow web course Particle Pollution and Your Patients’ Health (https://www.epa.gov/pmcourse), the EPA factsheet Prepare for Fire Season (52), and a targeted online course from the EPA entitled Wildfire Smoke and Your Patient’s Health (53). State-sponsored wildfire information sites can also provide health professionals with general information for counseling patients about smoke events.
+
+Communication by Public Health Agencies
+As more information about the detrimental health effects of wildfire fire smoke emerges, communities will increasingly look to public health agencies for advice on preseason preparedness and for information on how smoke conditions may affect health. Those agencies may, in turn, look to national organizations for resources and recommendations. Recently, collaborations between experts in public health and environmental science have led to the creation of multiagency fact sheets, such as the EPA Smoke-Ready Toolbox for Wildfires (54) and the Centers for Disease Control (CDC) Natural Disasters and Severe Weather: Wildfires site (55). The EPA advisory Wildfire Smoke: A Guide for Public Health Officials can help public health agencies improve community preparedness in advance of the wildfire season.
+
+Public health agencies can improve community preparedness by educating local officials and equipping public institutions with recommendations and resources. For example, the California Air Resources Board developed the Air Quality Guidance Template for Schools to standardize decision-making among school districts across the state (56). Despite uncertainties about the health benefits of many interventions (see the section on actions below), such collaborative guidelines are needed to help local institutions advise their communities on reducing smoke-related harms on the basis of the best available evidence.
+
+Public health officials are also tasked with the challenge of translating local fire and smoke conditions into health risk information. The Air Quality Index is the current U.S. federal communications tool for air quality and health, but it was not developed for rapidly changing smoke conditions and can be misleading in many circumstances. Similar problems have been recognized and addressed for the Canadian Air Quality Health Index (57). There is a growing need for collaboration between public health agencies and content experts to collect up-to-date information on smoke conditions, forecast short- and long-term changes in smoke trajectory, and predict the extent of smoke-related health effects in specific locations. To help fill this need, the U.S. Forest Service (USFS) created the Wildland Fire Air Quality Response Program (58), which deploys air resource advisors as part of the fire incident management team. These specialists monitor air pollution, model and forecast smoke patterns, and provide behavior modification messages to reduce smoke exposure in specific communities (59). Similar collaborations in Canada have led to the development of the British Columbia Asthma Prediction System (60), which uses wildfire smoke forecasts to predict respiratory exacerbations in affected regions. The National Oceanic and Atmospheric Administration’s Global Systems Laboratory satellite fire and smoke transport model (High-Resolution Rapid Refresh Smoke) has been used to predict smoke conditions and issue air quality alerts in limited settings (61). It remains to be determined whether these collaborative ventures can be applied broadly.
+
+To reduce the health impacts of wildland fire smoke, public health agencies also require effective communication strategies to effect behavioral changes at the individual and community level. These include the use of handouts and webpages, which can be designed with the help of resources such as the CDC Clear Communication Index (62), as well as smartphone applications and traditional and social media campaigns. Communication between public health agencies and the people they serve appears to be especially effective when done through a familiar and trusted individual. For example, during the 2017 and 2018 wildfire seasons in Montana, the Missoula City–County Health Department nominated a single air quality specialist to coordinate all smoke-related public communications. This individual served as the sole source of email and social media updates and became a familiar voice in local newspapers and a trusted face on Missoula newscasts (Table 3) (63).
+
+Table 3.
+Improving communication on health risk of wildland fires
+
+#1	Healthcare providers require clinician-focused guidelines to counsel patients on how to reduce the health impacts of smoke exposure.
+#2	Public health officials require training and tools to communicate health risk of wildland fires and advise risk mitigation strategies to the public and vulnerable groups.
+#3	Greater collaboration between public health agencies and scientists is needed to forecast and communicate short- and long-term changes in smoke conditions and their anticipated health risks in specific geographic regions.
+Open in a separate window
+Go to:
+Actions to Address the Health Impacts of Wildland Fires
+The U.S. Department of the Interior, U.S. Department of Defense, USFS, and state agencies are all involved in the management of wildland fires, but there are some health-relevant considerations regarding smoke that fall outside of the principal activities of these agencies. Formal evaluation of public health interventions (including the impact on behavior and health), improved federal/nonfederal coordination of smoke preparedness, and increased investment in wildland fire research programs are all areas in which coordinated efforts across federal and state agencies are needed to better address the health impacts of wildland fire smoke.
+
+Effectiveness of Public Health Interventions
+There are a number of potential interventions to mitigate the acute respiratory health effects of smoke exposure. These include interventions at the individual level (advisories to wear an N95 respirator and to avoid outdoor activity or exercise), building level (closing windows/doors, air filtration in the home, school, or office), and community level (school closures, public clean air shelters, stay-at-home orders, and evacuation orders). The most strongly recommended intervention is high-efficiency particulate air (HEPA) filters (64), which can reduce indoor PM concentrations by up to 80% (65) and appear to improve asthma symptoms when installed in homes and schools, even in nonwildfire settings (66–68).
+
+One of the very few studies examining the impact of public health interventions to reduce wildfire health effects was conducted by the CDC in the form of a retrospective medical record review and survey of a Native American reservation community affected by a large wildfire in 1999 (69). During the fire, the local medical center and other tribal organizations implemented several interventions, including the provision of 1) free filtered and nonfiltered masks, 2) vouchers for hotel services in nearby towns, 3) portable HEPA cleaners, and 4) public service announcements through local media outlets. The duration of HEPA cleaner use and recollection of the public service announcements were associated with fewer self-reported respiratory health effects, whereas no protective respiratory health effects were found for mask use or duration of self-evacuation.
+
+The widespread use of masks remains a controversial public health intervention. Although filtered respirators (e.g., certified National Institute for Occupational Safety and Health N95 masks) clearly reduce exposure to particle pollution from smoke, there are a number of limitations. These include lack of filtration efficacy if the mask does not properly fit, lack of protection against toxic and volatile gases, a “false sense of security” that might lead to increased outdoor smoke exposure, and concerns about the increased work of breathing from prolonged use (70). Another limitation is that, to date, there are no National Institute for Occupational Safety and Health–approved N95 masks fitted for children (56). Consequently, public health agencies have been divided about whether or not to recommend or distribute masks. Although potentially helpful, other public health interventions, including advisories to close windows and doors, creation of “clean air” spaces in the home or in the community, school closures, and stay-at-home orders, have not been evaluated. Hence, the relative effectiveness of these public health tools to affect behavior and reduce health impacts of wildland fire smoke exposure remains unknown.
+
+Coordinated Approach to Smoke Preparedness
+Smoke preparedness is generally localized and ad hoc because of the lack of a comprehensive and overarching national strategy to address health risks. A more systematic approach to protect public health during wildland fire smoke events is needed (71). Presently, the Federal Emergency Management Agency (FEMA) has preseason dollars to spend on wildfire mitigation, and there are opportunities for the EPA and other agencies to work collaboratively with FEMA to ensure that those preseason actions provide the greatest health benefit to communities. In the United States, a multiagency consortium of federal partners, including the FEMA, USFS, EPA, CDC, and others, may be best positioned to effectively bring groups together to address wildland fire smoke risk and management.
+
+A Call for a Federally Funded Wildland Fire Smoke Research Program
+The magnitude of risk associated with wildland smoke, coupled with the many knowledge gaps relating to exposures, toxicities, and efficacy of interventions, warrants targeted research to guide fire management and health messaging. The National Institutes of Health (NIH), through a variety of mechanisms, serves as an important source of health research funding and is a convener of transdisciplinary and community-based research and training. So far, the NIH has been only marginally involved in health research addressing wildland fire smoke, mostly through the NIH Disaster Research Response program in collaboration with the National Library of Medicine. A useful illustration of a focused research program addressing a national environmental health problem is the EPA Clean Air Research Program. In 1999, the EPA funded five interdisciplinary centers of expertise to evaluate exposure uncertainties, toxicity, and health effects of ambient PM (72). Findings from these centers of expertise vastly enhanced scientific understanding of PM exposures and health effects and informed air quality regulations over the past 20 years, which, in turn, resulted in improved air quality and life expectancy (73). A national wildland fire smoke research program could be modeled on this success story, and expanded in scope beyond health effects research, to provide a mechanism to allocate funds efficiently to research studies that address the many knowledge gaps highlighted in this report. These include questions relating to fire behavior and emissions, relative fuel toxicities, and efficacy of personal and public health interventions and communication tools. Because there are multiple federal agencies with a focus on health, air quality, and/or wildland fires, a multiagency consortium (with collaborators from Canada and Mexico) would be appropriate for funding a comprehensive research program focused on wildland fire smoke (Table 4).
+
+Table 4.
+Actions needed to address health risks of wildland fires
+
+#1	There is an urgent need to identify effective public health interventions that affect behavior and reduce smoke-related morbidity and/or mortality in children and adults.
+#2	A coordinated national smoke preparedness strategy is needed to guide local efforts to address health risks.
+#3	Federal agencies must invest in a comprehensive national research program that brings together varied expertise (exposure science, quantitative modeling, toxicology, epidemiology, social science, and economics) to evaluate and reduce the health risks of wildland fire smoke.
+Open in a separate window
+Go to:
+Conclusions
+Addressing the growing respiratory health risks of wildland fire smoke requires a coordinated and integrated approach among scientists, fire managers, regulators, public health practitioners, and the affected public. Health gains will hinge on actions that arise from multidisciplinary research, policy development, and communications that penetrate to all levels, from those directly managing and fighting the fires to the health practitioners managing health consequences of smoke and to an informed and empowered public.
+
+This official document was prepared by an ad hoc subcommittee of the ATS Environmental Health Policy Committee and the ATS Assembly on Environmental, Occupational, and Population Health.
+
+Go to:
+Acknowledgments
+Members of the subcommittee are as follows:
+
+Daniel L. Costa, Sc.D. (Co-Chair)1*
+
+Mary B. Rice, M.D., M.P.H. (Co-Chair)2‡
+
+John R. Balmes, M.D.3,4§
+
+Chris Carlsten, M.D.5‡
+
+Wayne E. Cascio, M.D.6‡
+
+Sarah Coefield, M.S., M.A.7||
+
+Gwen W. Collman, Ph.D.8‡
+
+Kevin R. Cromar, Ph.D.9,10§
+
+M. Ian Gilmour, Ph.D.11‡
+
+John A. Hall, Ph.D.12*
+
+Sarah B. Henderson, B.A.Sc., Ph.D.13,14||
+
+Ali Kamal, M.S.P.H., Ph.D.15§
+
+Allison A. Lambert, M.D., M.H.S.16,17
+
+Brenda J. Marsh, M.D., Ph.D.18||
+
+Mark D. Miller, M.D., M.P.H.19||
+
+Kathleen M. Navarro, M.P.H., Ph.D.20‡
+
+Ana Rappold, Ph.D.21||
+
+Jeffery Rupert, M.S.22*¶
+
+Paul G. Smith, D.O.23‡
+
+Susan L. Stone, M.S.24§
+
+1Department of Environmental Sciences and Engineering, Gillings School of Global Public Health, University of North Carolina, Chapel Hill, North Carolina; 2Division of Pulmonary and Critical Care Medicine, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts; 3Department of Medicine, University of California, San Francisco, California; 4Division of Environmental Health Sciences, School of Public Health, University of California, Berkeley, California; 5Air Pollution Exposure Laboratory, Department of Medicine, University of British Columbia, Vancouver, British Columbia, Canada; 6Center for Public Health and Environmental Assessment and 11Cardiopulmonary and Immunotoxicology Branch Public Health Integrated Toxicology Division, Office of Research and Development, U.S. Environmental Protection Agency, Research Triangle Park, North Carolina; 7Missoula City–County Health Department, Missoula, Montana; 8Division of Extramural Research and Training, National Institute of Environmental Health Sciences, Research Triangle Park, North Carolina; 9Marron Institute of Urban Management, New York University, New York, New York; 10Departments of Environmental Medicine and Population Health, New York University School of Medicine, New York, New York; 12Division of Research and Economic Development, Boise State University, Boise, Idaho; 13Environmental Health Services, British Columbia Centre for Disease Control, Vancouver, British Columbia, Canada; 14School of Population and Public Health, University of British Columbia, Vancouver, British Columbia, Canada; 15Office of Air and Radiation, U.S. Environmental Protection Agency, Research Triangle Park, North Carolina; 16University of Washington School of Medicine, Seattle, Washington; 17Providence Medical Research Center, Spokane, Washington; 18Pulmonary and Critical Care Medicine, Oregon Health and Science University, Portland, Oregon; 19Office of Air Quality Planning and Standards, U.S. Environmental Protection Agency, Research Triangle Park, North Carolina; 20U.S. Department of Agriculture Forest Service, Manti-La National Forest, Price, Utah; 21Clinical Research Branch, U.S. Environmental Protection Agency, Research Triangle Park, North Carolina; 22Office of Wildfire Management, Department of the Interior, Washington DC; 23School of Public and Community Health, University of Montana, Missoula, Montana; and 24Children’s Environmental Health Center, Office of Environmental Health Hazard Assessment, California Environmental Protection Agency, Sacramento, California.
+
+*Topic: Wildland Fire Incidence and Management
+
+‡Topic: Wildland Fire Health Effects
+
+§Topic: Actions to Address the Health Impacts of Wildland Fires
+
+||Topic: Communicating Health Risks of Wildland Fire Smoke
+
+¶Member of the subcommittee who was not part of the writing committee.
+
+Go to:
+Footnotes
+Supported by the American Thoracic Society, the National Institute of Environmental Health Sciences, and the U.S. Environmental Protection Agency. The views expressed in this article are those of the authors and do not necessarily represent the views of policies of the U.S. Environmental Protection Agency or other federal agencies.
+
+This official workshop report of the American Thoracic Society was approved February 2021
+
+Author Disclosures: M.B.R. received research support from the National Institutes of Health. S.C. is an air quality specialist with the Missoula City-County Health Department. J.R.B. received research support from the National Institutes of Health; is an employee of the California Air Resources Board. C.C. served on an advisory committee and received research support from GlaxoSmithKline. S.B.H., A.A.L., K.R.C., J.A.H., W.E.C., P.G.S., B.J.M., A.K., M.I.G., K.M.N., G.W.C., A.R., M.D.M., S.L.S., D.L.C. reported no commercial or relevant non-commercial interests.
+
+Go to:
+References
+1 . McClure CD, Jaffe DA. US particulate matter air quality improves except in wildfire-prone areas. Proc Natl Acad Sci U S A. 2018;115:7901–7906. [PMC free article] [PubMed] [Google Scholar]
+2 . Abatzoglou JT, Williams AP. Impact of anthropogenic climate change on wildfire across western US forests. Proc Natl Acad Sci U S A. 2016;113:11770–11775. [PMC free article] [PubMed] [Google Scholar]
+3 . Nolte CG, Dolwick PD, Fann N, Horowitz LW, Naik V, Pinder RW, et al.US Global Change Research Program. Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment. Vol. 2. Washington, DC: US Global Change Research Program; 2018. Air quality; pp. 512–538. [Google Scholar]
+4 . Westerling AL.Increasing western US forest wildfire activity: sensitivity to changes in the timing of spring Philos Trans R Soc Lond B Biol Sci 201637120150178[Published erratum appears in Philos Trans R Soc Lond B Biol Sci 371:20160373.] [PMC free article] [PubMed] [Google Scholar]
+5 . National Interagency Fire Center Fire Information/Statistics Boise, ID: National Interagency Fire Center; 2020 [accessed 2020 Nov 29]. Available from: https://www.nifc.gov/fireInfo/fireInfo_statistics.html [Google Scholar]
+6 . Navarro KM, Schweizer D, Balmes JR, Cisneros R. A review of community smoke exposure from wildfire compared to prescribed fire in the United States. Atmosphere. 2018;9:185. [Google Scholar]
+7 . Williamson GJ, Bowman DMJS, Price OF, Henderson SB, Johnston FH. A transdisciplinary approach to understanding the health effects of wildfire and prescribed fire smoke regimes. Environ Res Lett. 2016;11:125009. [Google Scholar]
+8 . US Environmental Protection Agency Air Emissions InventoriesCriteria pollutants National Tier 1 for 1970–2019. 2020 [accessed 2021 Mar 15]. Available from: https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data [Google Scholar]
+9 . Radeloff VCHR, Stewart SI, Fried JS, Holocomb SS, McKeefry JE. The wildland-urban interface in the United States. Ecol Appl. 2005;15:799–805. [Google Scholar]
+10 . US Environmental Protection Agency Integrated Science Assessment (ISA) for particulate matter (Final Report, 2019) Washington DC: US Environmental Protection Agency; 2019[accessed 2020 Nov 29]Available from: https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=347534 [Google Scholar]
+11 . Reid CE, Brauer M, Johnston FH, Jerrett M, Balmes JR, Elliott CT. Critical review of health impacts of wildfire smoke exposure. Environ Health Perspect. 2016;124:1334–1343. [PMC free article] [PubMed] [Google Scholar]
+12 . Liu JC, Pereira G, Uhl SA, Bravo MA, Bell ML. A systematic review of the physical health impacts from non-occupational exposure to wildfire smoke. Environ Res. 2015;136:120–132. [PMC free article] [PubMed] [Google Scholar]
+13 . Adetona O, Reinhardt TE, Domitrovich J, Broyles G, Adetona AM, Kleinman MT, et al. Review of the health effects of wildland fire smoke on wildland firefighters and the public. Inhal Toxicol. 2016;28:95–139. [PubMed] [Google Scholar]
+14 . Naeher LP, Brauer M, Lipsett M, Zelikoff JT, Simpson CD, Koenig JQ, et al. Woodsmoke health effects: a review. Inhal Toxicol. 2007;19:67–106. [PubMed] [Google Scholar]
+15 . Doubleday A, Schulte J, Sheppard L, Kadlec M, Dhammapala R, Fox J, et al. Mortality associated with wildfire smoke exposure in Washington state, 2006-2017: a case-crossover study. Environ Health. 2020;19:4. [PMC free article] [PubMed] [Google Scholar]
+16 . Yao J, Brauer M, Wei J, McGrail KM, Johnston FH, Henderson SB. Sub-daily exposure to fine particulate matter and ambulance dispatches during wildfire seasons: a case-crossover study in British Columbia, Canada. Environ Health Perspect. 2020;128:67006. [PMC free article] [PubMed] [Google Scholar]
+17 . DeFlorio-Barker S, Crooks J, Reyes J, Rappold AG. Cardiopulmonary effects of fine particulate matter exposure among older adults, during wildfire and non-wildfire periods, in the United States 2008–2010. Environ Health Perspect. 2019;127:37006. [PMC free article] [PubMed] [Google Scholar]
+18 . Borchers Arriagada N, Horsley JA, Palmer AJ, Morgan GG, Tham R, Johnston FH. Association between fire smoke fine particulate matter and asthma-related outcomes: systematic review and meta-analysis. Environ Res. 2019;179:108777. [PubMed] [Google Scholar]
+19 . Delfino RJ, Brummel S, Wu J, Stern H, Ostro B, Lipsett M, et al. The relationship of respiratory and cardiovascular hospital admissions to the southern California wildfires of 2003. Occup Environ Med. 2009;66:189–197. [PMC free article] [PubMed] [Google Scholar]
+20 . Wettstein ZS, Hoshiko S, Fahimi J, Harrison RJ, Cascio WE, Rappold AG. Cardiovascular and cerebrovascular emergency department visits associated with wildfire smoke exposure in California in 2015. J Am Heart Assoc. 2018;7:e007492. [PMC free article] [PubMed] [Google Scholar]
+21 . Tinling MA, West JJ, Cascio WE, Kilaru V, Rappold AG. Repeating cardiopulmonary health effects in rural North Carolina population during a second large peat wildfire. Environ Health. 2016;15:12. [PMC free article] [PubMed] [Google Scholar]
+22 . Rappold AG, Stone SL, Cascio WE, Neas LM, Kilaru VJ, Carraway MS, et al. Peat bog wildfire smoke exposure in rural North Carolina is associated with cardiopulmonary emergency department visits assessed through syndromic surveillance. Environ Health Perspect. 2011;119:1415–1420. [PMC free article] [PubMed] [Google Scholar]
+23 . Dennekamp M, Straney LD, Erbas B, Abramson MJ, Keywood M, Smith K, et al. Forest fire smoke exposures and out-of-hospital cardiac arrests in Melbourne, Australia: a case-crossover study. Environ Health Perspect. 2015;123:959–964. [PMC free article] [PubMed] [Google Scholar]
+24 . Liu JC, Wilson A, Mickley LJ, et al. Wildfire-specific fine particulate matter and risk of hospital admissions in urban and rural counties. Epidemiology. 2017;28:77–85. [PMC free article] [PubMed] [Google Scholar]
+25 . Stowell JD, Geng G, Saikawa E, Chang HH, Fu J, Yang C-E, et al. Associations of wildfire smoke PM2.5 exposure with cardiorespiratory events in Colorado 2011-2014. Environ Int. 2019;133:105151. [PMC free article] [PubMed] [Google Scholar]
+26 . Xi Y, Kshirsagar AV, Wade TJ, Richardson DB, Brookhart MA, Wyatt L, et al. Mortality in US hemodialysis patients following exposure to wildfire smoke. J Am Soc Nephrol. 2020;31:1824–1835. [PMC free article] [PubMed] [Google Scholar]
+27 . Johnston FH, Salimi F, Williamson GJ, Henderson SB, Yao J, Dennekamp M, et al. Ambient particulate matter and paramedic assessments of acute diabetic, cardiovascular, and respiratory conditions. Epidemiology. 2019;30:11–19. [PMC free article] [PubMed] [Google Scholar]
+28 . Melody SM, Ford JB, Wills K, Venn A, Johnston FH. Maternal exposure to fine particulate matter from a large coal mine fire is associated with gestational diabetes mellitus: a prospective cohort study. Environ Res. 2020;183:108956. [PubMed] [Google Scholar]
+29 . Liu JC, Wilson A, Mickley LJ, Ebisu K, Sulprizio MP, Wang Y, et al. Who among the elderly is most vulnerable to exposure to and health risks of fine particulate matter from wildfire smoke? Am J Epidemiol. 2017;186:730–735. [PMC free article] [PubMed] [Google Scholar]
+30 . Willis GA, Chappell K, Williams S, Melody SM, Wheeler A, Dalton M, et al. Respiratory and atopic conditions in children two to four years after the 2014 Hazelwood coalmine fire. Med J Aust. 2020;213:269–275. [PubMed] [Google Scholar]
+31 . Künzli N, Avol E, Wu J, Gauderman WJ, Rappaport E, Millstein J, et al. Health effects of the 2003 Southern California wildfires on children. Am J Respir Crit Care Med. 2006;174:1221–1228. [PMC free article] [PubMed] [Google Scholar]
+32 . Mirabelli MC, Künzli N, Avol E, Gilliland FD, Gauderman WJ, McConnell R, et al. Respiratory symptoms following wildfire smoke exposure: airway size as a susceptibility factor. Epidemiology. 2009;20:451–459. [PMC free article] [PubMed] [Google Scholar]
+33 . Kondo MC, De Roos AJ, White LS, et al. Meta-analysis of heterogeneity in the effects of wildfire smoke exposure on respiratory health in North America. Int J Environ Res Public Health. 2019;16:960. [PMC free article] [PubMed] [Google Scholar]
+34 . Glass DC, Pircher S, Del Monaco A, Hoorn SV, Sim MR. Mortality and cancer incidence in a cohort of male paid Australian firefighters. Occup Environ Med. 2016;73:761–771. [PubMed] [Google Scholar]
+35 . Glass DC, Del Monaco A, Pircher S, Vander Hoorn S, Sim MR. Mortality and cancer incidence among male volunteer Australian firefighters. Occup Environ Med. 2017;74:628–638. [PubMed] [Google Scholar]
+36 . Navarro KM, Kleinman MT, Mackay CE, Reinhardt TE, Balmes JR, Broyles GA, et al. Wildland firefighter smoke exposure and risk of lung cancer and cardiovascular disease mortality. Environ Res. 2019;173:462–468. [PubMed] [Google Scholar]
+37 . Broyles GA.Wildland firefighter smoke exposure study Logan, UT: Utah State University; 2013[accessed 2020 Nov 29]. Available from: https://digitalcommons.usu.edu/gradreports/356 [Google Scholar]
+38 . Groot E, Caturay A, Khan Y, Copes R. A systematic review of the health impacts of occupational exposure to wildland fires. Int J Occup Med Environ Health. 2019;32:121–140. [PubMed] [Google Scholar]
+39 . Kim YH, Warren SH, Krantz QT, King C, Jaskot R, Preston WT, et al. Mutagenicity and lung toxicity of smoldering vs. flaming emissions from various biomass fuels: implications for health effects from wildland fires. Environ Health Perspect. 2018;126:017011. [PMC free article] [PubMed] [Google Scholar]
+40 . Hargrove MM, Kim YH, King C, et al. Smoldering and flaming biomass wood smoke inhibit respiratory responses in mice. Inhal Toxicol. 2019;31:236–247. [PMC free article] [PubMed] [Google Scholar]
+41 . Wegesser TC, Franzi LM, Mitloehner FM, Eiguren-Fernandez A, Last JA. Lung antioxidant and cytokine responses to coarse and fine particulate matter from the great California wildfires of 2008. Inhal Toxicol. 2010;22:561–570. [PubMed] [Google Scholar]
+42 . Kim YH, King C, Krantz T, Hargrove MM, George IJ, McGee J, et al. The role of fuel type and combustion phase on the toxicity of biomass smoke following inhalation exposure in mice. Arch Toxicol. 2019;93:1501–1513. [PMC free article] [PubMed] [Google Scholar]
+43 . Ghio AJ, Soukup JM, Case M, Dailey LA, Richards J, Berntsen J, et al. Exposure to wood smoke particles produces inflammation in healthy volunteers. Occup Environ Med. 2012;69:170–175. [PubMed] [Google Scholar]
+44 . Burbank AJ, Vadlamudi A, Mills KH, Alt EM, Wells H, Zhou H, et al. The glutathione-S-transferase mu-1 null genotype increases wood smoke-induced airway inflammation. J Allergy Clin Immunol. 2019;143:2299–2302, e3. [PMC free article] [PubMed] [Google Scholar]
+45 . Ferguson MD, Semmens EO, Dumke C, Quindry JC, Ward TJ. Measured pulmonary and systemic markers of inflammation and oxidative stress following wildland firefighter simulations. J Occup Environ Med. 2016;58:407–413. [PMC free article] [PubMed] [Google Scholar]
+46 . Stockfelt L, Sallsten G, Almerud P, Basu S, Barregard L. Short-term chamber exposure to low doses of two kinds of wood smoke does not induce systemic inflammation, coagulation or oxidative stress in healthy humans. Inhal Toxicol. 2013;25:417–425. [PMC free article] [PubMed] [Google Scholar]
+47 . Peters B, Ballmann C, Quindry T, et al. Experimental woodsmoke exposure during exercise and blood oxidative stress. J Occup Environ Med. 2018;60:1073–1081. [PMC free article] [PubMed] [Google Scholar]
+48 . Richardson LA, Champ PA, Loomis JB. The hidden cost of wildfires: Economic valuation of health effects of wildfire smoke exposure in southern California. J For Econ. 2012;18:14–35. [Google Scholar]
+49 . US Environmental Protection Agency Smoke sense study: a citizen science project using a mobile app Washington, DC: US Environmental Protection Agency; 2019 [accessed 2020 Nov 29]Available form: https://www.epa.gov/air-research/smoke-sense-study-citizen-science-project-using-mobile-app [Google Scholar]
+50 . Kelley JM, Kraft-Todd G, Schapira L, Kossowsky J, Riess H. The influence of the patient-clinician relationship on healthcare outcomes: a systematic review and meta-analysis of randomized controlled trials. PLoS One. 2014;9:e94207. [PMC free article] [PubMed] [Google Scholar]
+51 . Ong LM, de Haes JC, Hoos AM, Lammes FB. Doctor-patient communication: a review of the literature. Soc Sci Med. 1995;40:903–918. [PubMed] [Google Scholar]
+52 . US Environmental Protection Agency Wildfire smoke factsheet: prepare for fire season Washington, DC: US Environmental Protection Agency; 2018 [accessed 2020 Nov 29]. Available form: https://www.airnow.gov/sites/default/files/2020-06/prepare-for-fire-season.pdf. [Google Scholar]
+53 . US Environmental Protection Agency Wildfire smoke and your patients’ health Washington, DC: US Environmental Protection Agency; 2019 [accessed 2020 Nov 29]. Available form: https://www.epa.gov/wildfire-smoke-course [Google Scholar]
+54 . US Environmental Protection Agency Smoke-ready toolbox for wildfires Washington, DC: US Environmental Protection Agency; 2019 [updated 2019 Nov; accessed 2020 Nov 29]. Available form: https://www.epa.gov/smoke-ready-toolbox-wildfires [Google Scholar]
+55 . Centers for Disease Control and PreventionNatural Disasters: WildfiresAtlanta, GA: Centers for Disease Control and Prevention; 2019[updated 2019 Nov; accessed 2020 Nov 29]. Available form: https://www.cdc.gov/disasters/wildfires/index.html [Google Scholar]
+56 . California Air Pollution Control Officers Association Air quality guidance template for schools Sacramento, CA: California Air Pollution Control Officers Association; 2019. Available form: http://www.capcoa.org/wp-content/uploads/downloads/2019/06/Air-Quality-Guidance-Template-for-Schools-Updated-5.13.2019.pdf [Google Scholar]
+57 . Yao J, Stieb DM, Taylor E, Henderson SB. Assessment of the Air Quality Health Index (AQHI) and four alternate AQHI-plus amendments for wildfire seasons in British Columbia. Can J Public Health. 2020;111:96–106. [PMC free article] [PubMed] [Google Scholar]
+58 . Interagency Wildland Fire Air Quality Response Program (IWFAQRP) Interagency wildland fire air quality response program2020 [accessed 2020 Nov 29]. Available from: https://wildlandfiresmoke.net
+59 . Peters J, Hedley AJ, Lam TH, Liu J, Wong CM, Ong SG. Factors influencing smoking behavior in Hong Kong primary schoolchildren: targets for prevention. Asia Pac J Public Health. 1995;8:102–108. [PubMed] [Google Scholar]
+60 . McLean KE, Yao J, Henderson SB. An evaluation of the British Columbia asthma monitoring system (BCAMS) and PM2.5 exposure metrics during the 2014 forest fire season. Int J Environ Res Public Health. 2015;12:6710–6724. [PMC free article] [PubMed] [Google Scholar]
+61 . Cobb S.Forecasters are giving feedback to improve GSD’s experimental High Resolution Rapid Refresh-Smoke (HRRR-Smoke): experimental model getting real-time test with Western US wildfires Washington, DC: National Oceanic and Atmospheric Administration; 2016[accessed 2020 Nov 19]. Available form: https://www.esrl.noaa.gov/gsd/learn/hotitems/2016/hrrr-smoke.html [Google Scholar]
+62 . Baur C, Prue C. The CDC Clear Communication Index is a new evidence-based tool to prepare and review health information. Health Promot Pract. 2014;15:629–637. [PubMed] [Google Scholar]
+63 . Friesen P.Monday’s Montanan: Coefield keeps air quality alerts entertaining Missoulian 2017[accessed 2017 Aug 13]. Available from: https://missoulian.com/news/local/mondays-montanan-coefield-keeps-air-quality-alerts-entertaining/article_9fb93327-bbdd-532f-9349-ab4965bdd1bf.html
+64 . Barn PK, Elliott CT, Allen RW, Kosatsky T, Rideout K, Henderson SB. Portable air cleaners should be at the forefront of the public health response to landscape fire smoke. Environ Health. 2016;15:116. [PMC free article] [PubMed] [Google Scholar]
+65 . US Environmental Protection Agency Indoor environments division: residential air cleaners: a technical summary 3rd edWashington, DC: US Environmental Protection Agency; 2018117167–174.2018 [accessed 2020 Nov 29]. Available from: https://www.epa.gov/sites/production/files/2018-07/documents/residential_air_cleaners_-_a_technical_summary_3rd_edition.pdf. [Google Scholar]
+66 . McDonald E, Cook D, Newman T, Griffith L, Cox G, Guyatt G. Effect of air filtration systems on asthma: a systematic review of randomized trials. Chest. 2002;122:1535–1542. [PubMed] [Google Scholar]
+67 . Morgan WJ, Crain EF, Gruchalla RS, O’Connor GT, Kattan M, Evans R, III, et al. Inner-City Asthma Study Group. Results of a home-based environmental intervention among urban children with asthma. N Engl J Med. 2004;351:1068–1080. [PubMed] [Google Scholar]
+68 . Jhun I, Gaffin JM, Coull BA, Huffaker MF, Petty CR, Sheehan WJ, et al. School environmental intervention to reduce particulate pollutant exposures for children with asthma. J Allergy Clin Immunol Pract. 2017;5:154–159, e3. [PMC free article] [PubMed] [Google Scholar]
+69 . Mott JA, Meyer P, Mannino D, Redd SC, Smith EM, Gotway-Crawford C, et al. Wildland forest fire smoke: health effects and intervention evaluation, Hoopa, California, 1999. West J Med. 2002;176:157–162. [PMC free article] [PubMed] [Google Scholar]
+70 . Laumbach RJ. Clearing the air on personal interventions to reduce exposure to wildfire smoke. Ann Am Thorac Soc. 2019;16:815–818. [PMC free article] [PubMed] [Google Scholar]
+71 . United States Government Accountability Office Report to congressional requesters: wildland fire risk reduction: multiple factors affect federal-nonfederal collaboration, but action could be taken to better measure Progress Washington, DC: United States Government Accountability Office; 2017117167–174.2017 [accessed 2020 Nov 29]. Available form: https://www.gao.gov/assets/690/684545.pdf [Google Scholar]
+72 . Fanning EW, Froines JR, Utell MJ, Lippmann M, Oberdörster G, Frampton M, et al. Particulate matter (PM) research centers (1999-2005) and the role of interdisciplinary center-based research. Environ Health Perspect. 2009;117:167–174. [PMC free article] [PubMed] [Google Scholar]
+73 . Correia AW, Pope CA, III, Dockery DW, Wang Y, Ezzati M, Dominici F. Effect of air pollution control on life expectancy in the United States: an analysis of 545 U.S. counties for the period from 2000 to 2007. Epidemiology. 2013;24:23–31. [PMC free article] [PubMed] [Google Scholar]

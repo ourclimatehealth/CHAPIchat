@@ -1,0 +1,745 @@
+Ambient air pollution and the risk of ischaemic and haemorrhagic stroke
+Jamie I Verhoeven, MD
+Youssra Allach, BSc
+Ilonca C H Vaartjes, PhD
+Prof Catharina J M Klijn, PhD
+Prof Frank-Erik de Leeuw, PhD 
+ Open AccessPublished:August, 2021DOI:https://doi.org/10.1016/S2542-5196(21)00145-5
+PlumX Metrics
+
+Summary
+Stroke is a leading cause of disability and the second most common cause of death worldwide. Increasing evidence suggests that air pollution is an emerging risk factor for stroke. Over the past decades, air pollution levels have continuously increased and are now estimated to be responsible for 14% of all stroke-associated deaths. Interpretation of previous literature is difficult because stroke was usually not distinguished as ischaemic or haemorrhagic, nor by cause. This Review summarises the evidence on the association between air pollution and the different causes of ischaemic stroke and haemorrhagic stroke, to clarify which people are most at risk. The risk for ischaemic stroke is increased after short-term or long-term exposure to air pollution. This effect is most pronounced in people with cardiovascular burden and stroke due to large artery disease or small vessel disease. Short-term exposure to air pollution increases the risk of intracerebral haemorrhage, a subtype of haemorrhagic stroke, whereas the effects of long-term exposure are less clear. Limitations of the current evidence are that studies are prone to misclassification of exposure, often rely on administrative data, and have insufficient clinical detail. In this Review, we provide an outlook on new research opportunities, such as those provided by the decreased levels of air pollution due to the current COVID-19 pandemic.
+• View related content for this article
+
+Introduction
+On World Environment Day in 2019, the UN called on governments to more strictly regulate air pollution levels and develop air quality action plans.1 In the past few decades, it has become clear that short-term and long-term exposure to ambient air pollution is an important risk factor for cardiovascular disease, including stroke.2,  3,  4 Worldwide, stroke is the second most common cause of death and a leading cause of disability.5 Stroke has a yearly global incidence of over 15 million patients and is responsible for over 116 million disability-adjusted life years (DALYs), of which an estimated 16·9% can be attributed to air pollution.6,  7 The incidence of air pollution-related stroke is most pronounced in low-income and middle-income countries due to their fast-growing economies, urbanisation, and industrialisation.8,  9,  10,  11
+During the ongoing COVID-19 pandemic, there was an unprecedented worldwide decrease in outdoor air pollution levels due to the global lockdown. This situation provides a unique opportunity to study whether cleaner air results in less air pollution-related disease. Initial research has already shown a remarkable decrease in stroke admissions in centres around the world during the first peak of the COVID-19 pandemic.12 This decrease might result from patients not seeking the usual medical help, because of fear or because of limited access to emergency rooms. However, reduced air pollution could also translate into a lower stroke incidence. In Europe and China, estimates already suggest that tens of thousands of all-cause premature deaths have been prevented due to reduced air pollution in 2020 alone.13,  14
+The notion of an association between air pollution and the incidence of stroke is now widely accepted; however, methodological limitations prevent demonstration of causality. First, in most studies, stroke has been used as an umbrella term combining ischaemic stroke and haemorrhagic stroke. Only a few studies have addressed the differences between these two completely different subtypes of stroke, as well as their different causes and associations with other cardiovascular risk factors. Second, the way that air pollutants are measured and individual exposure is estimated might result in exposure misclassification. Third, most studies use administrative data, which almost always does not include detailed clinical information, which might result in misclassification of stroke occurrence. Finally, the pathophysiological mechanisms of the varying air pollutants leading to stroke remain uncertain.
+In this Review, we summarise the current evidence on the association of short-term and long-term exposure to air pollutants with risk of ischaemic stroke and its different causes, stratified by age, sex, and presence of cardiovascular risk factors. Additionally, we summarise the risk of haemorrhagic stroke due to short-term and long-term exposure to air pollution and underlying pathophysiological mechanisms. We discuss the methods used for air pollution measurement and stroke ascertainment in epidemiological studies. Finally, we conclude by highlighting the societal implications and possible clinical implications, and provide an outlook for future research. Determining which specific patients are at a higher risk will not only provide more insight into the underlying biological mechanisms, but could also be the first step towards targeted intervention strategies to reduce air pollution-related stroke worldwide.
+Key messages
+•
+There is an increased risk of ischaemic stroke after short-term (days) and long-term (years) exposure to air pollution. This risk is most pronounced in countries where mean air pollution levels and daily variations are high, often concerning low-income and middle-income countries.
+•
+The effect of air pollution seems most pronounced in patients with ischaemic stroke due to large artery disease or small vessel disease and in patients with pre-existent cardiovascular risk factors, without clear sex or age differences.
+•
+Haemorrhagic stroke is an umbrella term for intracerebral and subarachnoid haemorrhage. Short-term exposure to air pollution increases the risk of intracerebral haemorrhage but not the risk of haemorrhagic stroke overall. Long-term exposure seems to increase the risk of haemorrhagic stroke, but few studies have focused specifically on intracerebral haemorrhage.
+•
+Findings must be interpreted with care given that air pollution exposure in all studies is extrapolated from mean concentrations of a certain area to individual exposure, without taking into account the actual time spent in this area and whether this was inside or outside. This extrapolation might, therefore, lead to exposure misclassification and non-random errors.
+•
+For the first time since the industrial revolution, ambient air pollution levels have drastically decreased due to the global lockdown during the COVID-19 pandemic, which provides a unique opportunity to study the effect of improved air quality on stroke incidence.
+What is air pollution?
+Air pollution is generally classified into household pollution and outdoor or ambient air pollution. In this Review, we only discuss the effects of ambient air pollution because this type of air pollution is reported to be most relevant for stroke incidence.6 Air pollution consists of small particles (particulate matter; PM) and several toxic gasses. PM is classified by the size of the particles into coarse particles (<10 μm in size, PM10), fine particles (<2·5 μm in size, PM2·5), and ultrafine particles (<1 nm in size, PM0·1). The larger particles (PM10) are more common in industrial emissions, whereas the smaller particles (PM2·5 and PM0·1) result mainly from traffic emissions. The most common gaseous pollutants are carbon monoxide (CO), black carbon (BC), nitrogen oxides (NOx), sulphate (SO4−), and ozone (O3). The composition of air pollution depends on the pollution source; for example, traffic emission contains high concentrations of NO2.15
+The mean concentrations of air pollutants differ substantially between continents (figure). Data published by WHO showed that mean annual PM2·5 concentrations in different regions in 2016 varied: between less than 10 μg/m3 and 25 μg/m3 in Europe, Russia, and North America; between 10 μg/m3 and 50 μg/m3 in South America, Africa, and the Middle East; and between 15 μg/m3 to more than 50 μg/m3 in Asia.17
+Figure thumbnail gr1
+FigureWorld map of annual daily mean PM2·5 (μg/m3) exposure levels per country in 2019
+Show full caption
+View Large ImageDownload Hi-res imageDownload (PPT)
+Air pollution and ischaemic stroke
+Short-term increased exposure to air pollution and the risk of ischaemic stroke
+Short-term exposure relates to the daily variation of air pollution concentration. To assess this association, stroke risk on days with higher pollution levels is compared with days that have lower pollution levels. Many studies have reported an association between short-term increased air pollutant levels and increased risk of ischaemic stroke (table 1; appendix pp 2–6).19,  20,  22,  23,  24,  25,  26,  27,  29,  31,  32,  33,  34,  35,  36,  37,  38,  39,  40,  41,  42,  43,  44
+Table 1Risk of ischaemic stroke and haemorrhagic stroke after short-term exposure to increased concentrations of air pollution in recent literature*
+Location (study period)	Number of participants	Exposure	Results (95% CI)
+Ischaemic stroke and haemorrhagic stroke
+Byrne et al, 202018	Dublin and Cork, Ireland (2013–17)	15 086	PM10,PM2·5, NO2, SO2, O3	Ischaemic stroke: OR of 1·10 (1·06–1·14) per average 8·4 μg/m3 (IQR) increase of PM10 concentration at 0–2 days before stroke, and significant associations for PM2·5 and NO2 concentrations; haemorrhagic stroke: no overall significant associations
+Fisher et al, 201919	Boston, USA (1999–2010)	731	PM10, PM2·5	Ischaemic stroke: OR of 1·26 (1·03–1·55) per average 14·46 μg/m3 (IQR) increase of PM10 concentration at 0–4 days before stroke, and no significant association for PM2·5 concentration; haemorrhagic stroke: no significant positive associations
+Gu et al, 202020	248 cities, China (2013–17)	6 735 204	PM2·5	Ischaemic stroke: 0·26% increase (0·17–0·35) per 10 μg/m3 increase of PM2·5 concentration at same day of stroke; haemorrhagic stroke: no significant associations
+Sun et al, 201921	40 clinical centres, USA (1993–2012)	5417 (all women)	PM2·5, SO2, NOx, NO2,	Ischaemic stroke: no significant associations; haemorrhagic stroke: RR of 1·24 (1·01–1·52) per average 8·2 μg/m3 (IQR) increase of PM2·5 concentration at 0–4 days before stroke, as well as significant associations for NOx concentration but not for PM2·5 or SO2concentrations
+Tian et al, 20199	184 cities, China (2014–17)	8 834 533	PM2·5	Ischaemic stroke: 0·29% increase (0·18–0·40) per 10 μg/m3 increase of PM2·5 concentration at same day as stroke; haemorrhagic stroke: no significant positive associations
+Ischaemic stroke only
+Chen et al, 202022	Five cities, China (2013–15)	68 122	PM10, PM2·5, PM1	Ischaemic stroke: OR of 1·005 (1·001–1·009) per average 10 μg/m3 increase of PM10 concentration at 0–1 days before stroke, as well as significant associations for PM1 and PM2·5 concentrations
+Dong et al, 201823	Changzhou, China (2015–16)	32 840	PM10, PM2·5 SO2, NO2	Ischaemic stroke: 0·208% increase (0·036–0·381) for average 12·0 μg/m3 (IQR) increase of NO2 concentration at 0–5 days before stroke, and no significant association for PM2·5, PM10, or SO2 concentrations
+Ho et al, 201824	Shanghai, China (2010–15)	29 384	PSI†	Ischaemic stroke: IRR of 1·10 (1·06–1·13) for days with unhealthy PSI compared with healthy PSI, as well as a significant increase for moderate PSI compared with healthy PSI
+Tian et al, 201825	172 cities, China (2014–16)	2 032 667	PM2·5, SO2, NO2, O3, CO	Ischaemic stroke: 0·34% increase (0·20–0·48) for 10 μg/m3 increase of PM2·5concentration on the day of stroke, and significant associations for NO2, SO2, CO concentrations but not for O3 concentrations
+Tian et al, 201926	172 cities, China (2014–16)	2 032 667	PM10–2·5	Ischaemic stroke: 0·91% increase (0·73–1·10) for 10 μg/m3 increase of PM10–2·5 concentration on the day of stroke
+Qi et al, 202027	Tianjin, China (2018–19)	520	PM10, PM2·5, NO2, SO2, O3	Ischaemic stroke: OR of 1·58 (1·09–2·29) per average 55·5 μg/m3 (IQR) increase of PM10 concentration at 0–3 days before stroke, and no significant associations for PM2·5, NO2, SO2, or O3 concentrations
+Vivanco-Hidalgo et al, 201828	Barcelona, Spain (2005–14)	2742	PM2·5, BC	Ischaemic stroke and transient ischaemic attack: no significant overall associations
+Wang et al, 202029	Shenzhen region, China (2008–14)	63 997	PM10, SO2, NO2, O3, CO	Ischaemic stroke: RR of 1·007 (1·000–1·014) per average 43·21 μg/m3 (IQR) increase of PM10 concentration at 0–12 days before stroke, and significant associations for SO2, NO2, and O3concentrations but not for CO concentration
+Intracerebral haemorrhage only
+Nzwalo et al, 201830	Algarve, Portugal (2010–15)	368	PM2·5	Intracerebral haemorrhage: OR of 1·057 (1·020–1·095) per average 10 μg/m3 increase of PM2·5 concentration at 0–3 days before stroke
+Wilker et al, 201811	Boston, USA (2006–11)	577	PM2·5, BC, NO2, O3	Intracerebral haemorrhage: OR of 1·62 (1·18–2·22) for lobar intracerebral haemorrhage per average 0·01 ppm increase of O3 concentration at 0–7 days before stroke, and no significant associations for PM2·5, BC, or NO2 concentrations
+BC=black carbon. CO=carbon monoxide. IRR=incidence rate ratio. NOx=nitrogen oxides. NO2=nitrogen dioxide. OR=odds ratio. O3=ozone. PM=particulate matter. PSI=pollutant standards index. RR=relative risk. SO2=sulphur dioxide.
+* Recent literature published between Jan 1, 2018, and July 1, 2020.
+† PSI is computed from six air pollutants (PM2·5, PM10, SO2, CO, O3, and NO2) and scale range that includes 0–50 (good), 51–100 (moderate), 101–200 (unhealthy), 201–300 (very unhealthy), and more than 300 (hazardous).
+Open table in a new tab
+A US study showed a small, but statistically significant, increase of 1·03% (95% CI 0·04–2·04) in ischaemic stroke admissions per IQR increase (22·96 μg/m3) in PM10 concentration 1–2 days before stroke onset.39 A similar risk increase was reported for increases in concentrations of NO2, SO2, and CO.39 A study that investigated over eight million ischaemic stroke cases in 184 cities in China also supported these findings.25 The authors reported a 0·29% increase in hospital admissions for ischaemic stroke per 10 μg/m3 increased PM2·5 on the day of stroke.25 Conversely, other studies, mostly set in Europe or North America, could not confirm this association.18,  21,  28,  45 There are several reasons for these conflicting results. First, geographical location and, thus, median air pollution levels differ between studies. Furthermore, the variation in hourly or daily pollutant levels are important for the effect of short-term exposure. These daily variations are ten times lower in Europe than those in Asia (figure). This smaller variation in air pollution levels results in an accompanying lower ischaemic stroke risk increase, which makes it harder to detect an association between air pollution levels and ischaemic stroke. The effect of the level of variation in air pollutant concentration is shown by a Swedish study,35 with a low median PM10 concentration of 16 μg/m3 and 80% of measured daily concentrations ranging between 10 μg/m3 and 29 μg/m3. The authors reported a 13% (95% CI 4–22) increase in ischaemic stroke admissions on the day after high (>30 μg/m3) versus low (<15 μg/m3) pollutant concentrations.35 Finally, studies done in Asia tend to have larger numbers of patients than European or North American studies, which provides more power to show small, albeit statistically significant, differences.
+Long-term exposure to air pollution and the risk of ischaemic stroke
+Attention has increased regarding the association between long-term exposure to air pollution—ranging from weeks to years—and the incidence of ischaemic stroke (table 2).4,  46,  47,  48 A Danish study of 23 423 persons including 1·078 incident cases of stroke reported a hazard ratio (HR) of 1·13 (95% CI 1·01–1·25) for ischaemic stroke per 3·9 μg/m3 (IQR) higher annual mean of PM2·5, with similar HRs for 3-year and 23-year averages of PM2·5 concentration.4 A study in China, spanning 1992 to 2008, reported an HR of 1·20 (95% CI 1·15–1·25) for ischaemic stroke occurrence per average 10 μg/m3 increase in PM2·5 concentrations over a mean follow-up time of 7·5 years.47
+Table 2Risk of ischaemic stroke and haemorrhagic stroke due to long-term exposure to air pollution in recent literature*
+Location (study period)	Number of participants; number of cases	Follow-up	Exposure	Results (95% CI)
+Ischaemic stroke and haemorrhagic stroke
+Amini et al, 20204	Denmark (1993, 1999–2014)	23 423; 1078	Median 19·45 years	PM2·5, PM10, NO2, NOx	Ischaemic stroke: HR of 1·12 (1·01–1·25) per 1-year mean 3·9 μg/m3 (IQR) increase of PM2·5 concentration, and no significant associations for PM10, NOx, and NO2 concentrations; haemorrhagic stroke: no statistically significant associations
+Cai et al, 201846	Three cohorts: two from the UK (1993–2008 and 2006–2010) and one from Norway (1995–2013)	355 732; 1845	Mean 14·1, 10·8, and 1·3 years	PM2·5	Ischaemic stroke: no statistically significant associations per 1-year mean 4·1 μg/m3 (IQR) increase of PM2·5concentration; haemorrhagic stroke: no statistically significant associations per 1-year mean 4·1 μg/m3 (IQR) increase of PM2·5 concentration
+Huang et al, 201947	China (1992–2008)	119 388; 3540	900 214 person-years	PM2·5	Ischaemic stroke: HR of 1·20 (1·15–1·25) per average 10 μg/m3 increased exposure during a mean 7·5 years follow-up; haemorrhagic stroke: HR of 1·12 (1·05–1·20) per average 10 μg/m3 increased exposure during a mean 7·5 years follow-up
+Yuan et al, 201948	Meta-analysis of 16 cohort studies: six from North America, six from Europe, three from Asia, and one including cases from China, Ghana, India, Mexico, Russia, and South Africa (1980–2012)	2·2 million; 49 1149	..	PM2·5	Ischaemic stroke: no statistically significant association per 5 μg/m3 increase of PM2·5 concentration during a 1-year to 4-year period (four studies); haemorrhagic stroke: no statistically significant association per 5 μg/m3 increase of PM2·5 concentration during a 1-year to 4-year period (four studies)
+Haemorrhagic stroke only
+Noh et al, 201949	Korea (2002–13)	62 676; 521	670 431 person-years	PM2·5	Haemorrhagic stroke: HR of 1·43 (1·09–1·88) per average 10 μg/m3 increased exposure of PM2·5 concentration during a mean follow-up of 10·7 years
+HR=hazard ratio. PM=particulate matter. NO2=nitrogen dioxide. NOx=nitrogen oxides.
+* Recent literature published between Jan 1, 2018, and July 1, 2020.
+Open table in a new tab
+A 2019 meta-analysis reported a statistically significant association between long-term exposure to increased PM2·5 levels and all-cause stroke within a 1-year to 4-year exposure window, but not for ischaemic or haemorrhagic stroke separately.48 The fact that the authors found no association for ischaemic or haemorrhagic stroke specifically could be explained by the small number of studies that separately investigated these stroke subtypes.
+Association of air pollution and the different causes of ischaemic stroke
+Ischaemic stroke can be due to several causes, commonly classified into five categories according to the Trial of Org 10172 in Acute Stroke Treatment (commonly known as TOAST) criteria: large artery atherosclerosis, small vessel disease, cardioembolic stroke, rare causes, and cryptogenic stroke (unknown cause).50 These causes might be differently affected by air pollution. Because most epidemiological studies have used administrative datasets, the studies were not able to distinguish between causes of ischaemic stroke. However, a few hospital-based studies have been able to distinguish between causes (table 3).28,  31,  42,  51
+Table 3Association between air pollutants and different causes of ischaemic stroke
+Exposure	Results (95% CI)
+Andersen et al, 201031
+6798 ischaemic stroke cases*	PM10, PM0·1, NOx, CO	..
+4727 without atrial fibrillation	..	OR of 1·05 (1·01–1·09) per 13·5 μg/m3 (IQR) increase of PM10 concentration at 3 days before stroke, and significant associations for ischaemic stroke without atrial fibrillation with increased concentrations of PM0·1, NOx, and CO
+772 with atrial fibrillation	..	No statistically significant associations
+Maheswaran et al, 201451
+833 ischaemic stroke cases*	PM10, NO2	..
+136 large artery atherosclerosis-associated strokes	..	No statistically significant associations
+371 cardioembolic strokes	..	No statistically significant associations
+376 small vessel disease-associated strokes	..	No statistically significant associations
+Maheswaran et al, 201642
+1513 ischaemic stroke cases*	PM10, NO2, O3, CO, SO2	..
+154 large artery atherosclerosis-associated strokes	..	HR of 1·28 (1·07–1·53) per 10·46 μg/m3 (IQR) increase of PM10 concentration on the day of stroke
+420 cardioembolic strokes	..	HR of 1·36 (1·13–1·63) per 12·75 ppb (IQR) increase of O3 concentration at 5 days before stroke
+382 small vessel disease-associated strokes	..	HR of 1·21 (1·07–1·36) per 10·46 μg/m3 (IQR) increase of PM10 concentration at 6 days before stroke, and significant associations with increased concentrations of SO2 and NO2
+557 other strokes	..	No statistically significant associations
+Vivanco-Hidalgo et al, 201828
+2742 ischaemic stroke cases*	PM2·5, BC	..
+313 large artery atherosclerosis-associated strokes	..	OR of 1·251 (1·001–1·552) per 1·5 μg/m3 increase of BC at 2 days before stroke
+923 cardioembolic strokes	..	No statistically significant associations
+581 small vessel disease-associated strokes	..	No statistically significant associations
+1595 other strokes	..	No statistically significant associations
+BC=black carbon. CO=carbon monoxide. HR=hazard ratio. NOx=nitrogen oxides. NO2=nitrogen dioxide. OR=odds ratio. O3=ozone. PM=particulate matter. SO2=sulphur dioxide.
+* Number of participants in subgroup analysis for causal attributions of stroke.
+Open table in a new tab
+One study reported an increased risk of stroke caused by large artery atherosclerosis per day-to-day increase of 10·46 μg/m3 (IQR) of PM10 concentration (HR 1·28; 95% CI 1·07–1·53; p<0·001), as well as an increased risk with similar HRs for stroke caused by small vessel disease for increased concentrations of PM10 and SO2 at 6 days pre-stroke and per mean IQR increase of NO2 concentration at 0–6 days pre-stroke.42 The risk of cardioembolic stroke was only associated with increased O3 concentration at 5 days pre-stroke.42 There was no association between air pollutants and stroke due to rare causes or cryptogenic stroke.42 A study among 2500 patients with ischaemic stroke in Spain reported an increased risk of stroke caused by large artery atherosclerosis per 1·5 μg/m3 increase of BC concentration at 2 days pre-stroke (odds ratio [OR] 1·251; 95% CI 1·001–1·552).28 The authors reported no association between BC or PM2·5 and stroke caused by small vessel disease, cardioembolic stroke, stroke due to rare causes, or cryptogenic stroke.28
+Stroke caused by large artery atherosclerosis or small vessel disease is related to classical vascular risk factors and atherosclerotic disease. Air pollution could have an additive effect on the association between the classical cardiovascular risk profile and ischaemic stroke.52
+Effect modifiers
+Studies have shown inconsistent results for the modifying effect of age on air pollution-related ischaemic stroke.19,  23,  24,  25,  27,  34,  53,  54 A recent study24 classified daily air pollution levels into unhealthy days and good days according to the Pollutant Standards Index. This scale is devised by the Environmental Protection Agency and takes six pollutants into account. The scale range includes 0–50 (good), 51–100 (moderate), 101–200 (unhealthy), 201–300 (very unhealthy) and more than 300 (hazardous). When comparing unhealthy days with good days, there was only an increased risk of ischaemic stroke for patients older than 65 years (incidence rate ratio 1·18; 95% CI 1·06–1·18), but not for younger patients (incidence rate ratio 1·05; 95% CI 1·00–1·11).24 A study that included over 2 million hospital admissions across 172 cities in China reported a increase in ischaemic stroke admissions per 10 μg/m3 increase of PM2·5 concentration on the same day in patients aged 75 years or older (0·45%) and for patients aged 18–64 years (0·11%; p=0·004).25 Although the risk of ischaemic stroke admission was significantly higher for patients aged 75 years or older compared with those aged 18–64 years, the risk in patients older than 75 years was not significantly increased compared with those aged 65–75 years.25 Conversely, a study from Israel among 4000 patients with ischaemic stroke (mean age 70 years) reported an increased risk of ischaemic stroke only in adults younger than 55 years.54 Due to poorer respiratory function and ventilation, older individuals (>65 years) might be more susceptible to air pollutants because of a higher deposition rate of PM in the airways.52,  55 Additionally, older people more often have other cardiovascular risk factors that might increase the risk of air pollution-related stroke. By contrast, it has also been suggested that the vessel wall in adults younger than 55 years might be more susceptible to air pollutants. Their vessel wall is still more reactive, whereas increased arterial stiffness is more prominent in people older than 55 years.54 The effect of age might also be explained by potential exposure misclassification. Generally, people older than 60 years spend more time inside the house, which might result in overestimation of the effect of ambient air pollution. Whereas adults younger than 60 years spend more time outside or away from their home address.34 Hence, the effect of age on the association between air pollution and ischaemic stroke remains unclear and should be investigated further.
+Most studies report similar effect sizes for men and women in terms of ischaemic stroke risk related to air pollution, with only few exceptions.2,  4,  23,  24,  25,  29,  34,  53,  56 One Swedish study showed a significantly increased risk of ischaemic stroke for women (HR 2·16; 95% CI 1·15–4·06) but not for men (HR 1·07; 95% CI 0·61–1·86) per 10 μg/m3 higher mean PM10 concentration the year before stroke.2 The higher risk in women could be explained by the smaller diameter of the conducting airways, which leads to more particle deposition in the lungs.57 However, a Chinese study of 1000 patients with first-ever ischaemic stroke reported a significant increased risk of stroke exclusively in men (increase of 6·5%; 95% CI 0·5–12·9) per 10 μg/m3 increased O3 concentration at 2–3 day lags.56 Similar to the age-associated effect, the effect of sex might be modified by exposure misclassification. Some survey-based studies have reported that women tend to spend more time indoors compared with men and, therefore, exposure to outdoor air pollution might be slightly overestimated in women.58
+The risk increase of ischaemic stroke due to air pollution is higher in patients who have one or more cardiovascular risk factors, especially patients with diabetes.24,  27,  38,  44 A Canadian study of over 9000 patients reported an 11% (95% CI 1–22%) increased ischaemic stroke risk per 10 μg/m3 increase of PM2·5 exclusively in patients with diabetes.44 Another study reported a significantly higher risk increase for people who had had a previous stroke compared with those who did not. The ORs were 2·31 (95% CI 1·39–3·83) versus 1·25 (95% CI 0·87–1·80 per 5·8 μg/m3 (IQR) average increase of NO2 in the 3 days before stroke.38 The authors also showed a non-significant trend towards increased ischaemic stroke risk for those patients taking anti-diabetic medications and those with a history of heart disease.38 Smoking and socioeconomic status did not seem to significantly modify the effect of air pollutants on ischaemic stroke.4,  19,  21,  24,  25,  27,  46,  59 One Chinese study reported that a diet containing low fruit and vegetable content had a significant effect (OR 1·03, 95% CI 1·00–1·08) on the association between short-term increased PM2·5 and a higher risk of ischaemic stroke.59
+Other environmental factors, such as traffic noise, could also modify the effect of air pollutants on stroke. Traffic emissions are considered to be responsible for over 90% of air pollution in urbanised areas.60 Traffic noise might activate the hypothalamus–pituitary axis, which promotes the release of stress hormones, leading to cardiovascular disease.46 A 2020 study showed that the significant risk increase of ischaemic stroke and haemorrhagic stroke after long-term increased PM2·5 exposure remained unchanged after correcting for traffic noise.4
+Air pollution and haemorrhagic stroke
+Short-term exposure to air pollution and risk of haemorrhagic stroke
+Haemorrhagic stroke includes intracerebral haemorrhage and subarachnoid haemorrhage. Only a small number of studies have investigated haemorrhagic stroke, separate from all-cause stroke.18,  19,  20,  21,  25,  30,  31,  32,  33,  38,  39,  61 Even fewer studies have focused specifically on intracerebral haemorrhage.11,  30,  49,  62,  63 One Taiwanese study reported a 12% risk increase in intracerebral haemorrhage admissions per 17·46 μg/m3 (IQR) increased PM2·5 levels on the day of stroke compared to other days.63 A 2019 study of just under 400 patients showed a 5·7% (95% CI 1·02–1·10; p=0·002) increased risk of spontaneous intracerebral haemorrhage per 10 μg/m3 increase of PM2·5 concentration. The same study reported a higher risk of non-lobar intracerebral haemorrhage versus lobar intracerebral haemorrhage.30 Non-lobar intracerebral haemorrhage usually results from chronic damage to the basal ganglia, thalamus, internal or external capsule, brainstem, and cerebellum due to several vascular risk factors, including hypertension (small vessel disease). Lobar intracerebral haemorrhage is often caused by cerebral amyloid angiopathy, but hypertension is also an important risk factor.64 Recent studies reported no statistically significant association between air pollution and haemorrhagic stroke overall.18,  19,  20 This finding might suggest that air pollutants exclusively increase intracerebral haemorrhage risk and not subarachnoid haemorrhage.19,  30,  63
+The long-term exposure to air pollution and risk of haemorrhagic stroke
+All long-term exposure studies have used haemorrhagic stroke, and not intracerebral haemorrhage, as an outcome.4,  46,  47,  48,  49 Two recent European studies did not find any association between PM2·5 exposure and incident haemorrhagic stroke during a mean follow-up of over 15 years.4,  46 By contrast, two recently published Asian studies did find an increased risk of haemorrhagic stroke after long-term increased PM2·5 exposure.47,  49 One study estimated long-term exposure as a time-varying cumulative average of PM2·5 during follow-up, using annual mean exposure levels over a mean follow-up of 10·7 years.49 The authors reported an increased risk of haemorrhagic stroke per 10 μg/m3 increased PM2·5 (HR 1·43; 95% CI 1·09–1·88).49 The other study calculated long-term exposure as time-varying average exposure weighted for time spent at each residential address over a mean follow-up of 7·5 years. The authors also reported an increased risk of haemorrhagic stroke per 10 μg/m3 increased PM2·5 concentration (HR 1·12; 95% CI 1·05–1·20).47 This regional haemorrhagic stroke difference might, again, be caused by the lower and less varied air pollutant concentrations in European countries compared with Asian countries.
+Pathophysiological mechanisms
+There are several proposed mechanisms by which air pollutants might acutely trigger cardiovascular events. After inhalation pollutants are deposited in the lungs, in which the smaller particles (PM2·5 and PM0·1) and gaseous pollutants are directly diffused or translocated into the systemic circulation, larger particles are taken up by macrophages, which triggers local inflammation in the lungs and, consequently, release of pro-oxidative and pro-inflammatory mediators. In the systemic circulation, gaseous pollutants and small particles react with nitric oxide, thereby resulting in reactive oxygen species, which rapidly leads to endothelial dysfunction.65 Short-term PM2·5 exposure has been shown to increase markers of plaque vulnerability, namely matrix metalloproteinases, and to increase systemic inflammation and thrombogenicity.66 All of these processes have a central role in the occurrence of acute cerebrovascular disease. Therefore, these mechanisms might be most important in patients with pre-existing cardiovascular conditions and could result mainly in ischaemic stroke due to atherosclerosis. Another important trigger mechanism involves the autonomic respiratory reflex arcs, in which the pollutants trigger an autonomic reflex via pulmonary receptors, baroreceptors, and chemical receptors. This occurrence leads to increased vascular resistance, arrythmias, and hypertension.60 This mechanism might result in cardioembolic ischaemic stroke due to cardiac ischaemia or cardiac arrythmia, or in intracerebral haemorrhage.
+Long-term exposure to environmental PM is associated with accelerated progression of atherosclerosis through reactive oxygen species formation and systemic inflammation.65,  67 These mechanisms also cause or worsen conditions such as obesity or diabetes after prolonged exposure, which in turn increases the risk of ischaemic stroke in the long term.68 Additionally, chronic exposure to PM and gaseous pollutants might directly and indirectly damage the brain; indirectly through the previously mentioned autonomic respiratory reflex arcs, or directly through the diffusion or uptake of nanoparticles and gaseous pollutants through the blood–brain barrier, which locally induces neuro-inflammation and neuronal damage.60
+One study reported that O3 is specifically associated with lobar intracerebral haemorrhage but not with haemorrhagic stroke overall.11 The authors hypothesised that O3 might trigger the deposition of amyloid in cerebral amyloid angiopathy.11 However, to our knowledge, no studies have directly explored the effect of air pollution on the pathology of cerebral amyloid angiopathy.
+Two methods to estimate individual air pollution exposure are most commonly used. The first involves air pollution monitoring systems. These systems can be ground monitoring systems that measure the concentration of the air pollutants. They can be found in most populated areas and provide hourly or daily mean concentrations of most known pollutants. Satellites that measure air pollution concentration in the air are also used as a monitoring systems.34,  54 Mean concentrations are used to estimate individual exposure. This estimation is done by taking the mean concentrations of the combined monitoring systems in one geographical area, or through extrapolating the daily mean concentration of the pollutant from the monitoring system that is closest to the home address of the patient.10,  25,  36,  39 The second method estimates the individual exposure using advanced modelling of known sources of air pollution, such as the proximity of busy roads, powerplants, and industrial grounds to a person's home address.2,  51
+In all of the aforementioned approaches, there is the risk of exposure misclassification. This misclassification is caused by extrapolating mean pollutant concentrations of a city or geographical area to individual exposure. This extrapolation is flawed for at least two reasons. First, this approach does not consider that people spend time at places that are not their home address or the city they live in; for example, for work or vacation. This misclassification might be most pronounced in (younger) people who work. This approach might, depending on differences in air pollution between their residential and working area, result in either underestimation or overestimation of exposure. Finally, the methods do not differentiate between time spent inside and outside of the home, which might also differ for age groups and for men and women. This potential non-differential misclassification of individual exposure might lead to non-random error in the overall results.
+Another methodological issue that needs to be discussed to adequately interpret the results are possible confounders and proper adjustments. All recent studies have corrected for environmental confounders, such as temperature, relative humidity, day of the week, and seasonality.11,  18,  25,  27,  28,  29 Most studies chose a case-crossover design, in which participants are their own controls.28,  42
+It also remains hard to prove the true effect of each individual pollutant. Air pollutants are never singularly present and can show high levels of collinearity. Therefore, single pollutant models should be interpreted with caution.25,  29 For example, Tian and colleagues25 excluded PM10 from their multi-pollutant model because of very high collinearity with PM2·5 (Spearman coefficient >0·9). The authors still reported an independent significant effect for short-term increased SO2, NO2, and PM2·5 concentrations and ischaemic stroke incidence.25
+Stroke assessment as an outcome
+Most of the epidemiological studies have used administrative databases for the assessment of stroke as an outcome. These databases can be regional or national stroke registries or insurance data. In these registries, in-hospital diagnoses are converted into codes, often based on the International Classification of Diseases (ICD). This approach is useful because these datasets provide large patient samples, resulting in more power. However, this approach also comes with downsides. First, there is considerable misclassification when using administrative codes. As shown by validation studies reporting moderate-to-good, but not excellent, agreement for using ICD-9 or ICD-10 codes for stroke.69 A second downside is the scarcity of clinical detail. Many studies have used all-cause stroke as an outcome, by combining the administrative codes for ischaemic stroke and haemorrhagic stroke, despite the fact that these are different diseases with different causes and outcomes. Furthermore, all-cause stroke also includes “stroke, not further specified as ischaemic or haemorrhagic”.70 Although, widening the inclusion criteria provides larger patients samples, this action will hamper finding the true effect of air pollutants for different subtypes of stroke. The scarcity of clinical detail also means that it is often not possible to study subtypes of causal attributions and cardiovascular risk factors of ischaemic stroke and haemorrhagic stroke in relation to air pollution. From a clinical perspective, information on cause and risk factors of stroke is important because this information gives insight into which patients are most at risk of air pollutant-related stroke.
+Future perspectives
+Currently, knowledge on air pollution-related stroke is based on observational big-data studies, mostly limited to distinct geographical areas and containing insufficient clinical detail with, at best, inconclusive results. Future research should focus on limiting this potential exposure misclassification. In the past years, wearable sensors have become available. These sensors measure individual exposure and can also correct for differences in metabolic activity through, for example, registering breathing rate and step counting. These personal sensors are promising for identifying patient groups most at risk.71 This knowledge is the first step towards personalised preventive strategies; for example, advising patients at high risk of air pollution-related stroke to avoid highly polluted areas, or not to go exercising outside during rush hour or near large powerplants.72 Another intriguing development is agent-based modelling. Agent-based modelling is a technique that can simulate individual human behaviour. The agents are software objects that represent humans and are programmed to show individual behaviour based on a set of behavioural rules. This type of modelling could more accurately estimate individual risk of air pollution-related stroke compared with studies simply using a home address as estimator of individual exposure. This approach is possibly more suited for larger patient sample studies and for studies into long-term exposure.73
+Currently, the risk of ischaemic stroke and intracerebral haemorrhage related to air pollution is most pronounced in low-income and middle-income countries. These regional differences in air pollution levels are important to put the results reported in different studies into perspective. Several meta-analyses have included studies from different continents and presented a HR standardised per 10 μg/m3 increase in air pollutant concentration. This standardisation is useful to prove an overall effect of air pollutants on stroke incidence. However, especially in European and North American studies, the low end of the IQR is often lower than 10 μg/m3. Therefore, a statistically significant overall effect might not always have the same clinical relevance.3,  74 Also, the question remains if the difference in risk increase found in low-income and middle-income countries compared with most high-income countries is solely the result of higher air pollution levels, or if this difference is modified by ethnicity or behavioural differences. Almost all low-income and middle-income countries investigated are in Asia, whereas most high-income countries are in Europe or North America. Therefore, less studied continents, such as Africa, the Middle East, and other high-income countries should also be investigated.
+Estimations suggest that 91% of people worldwide live in places with mean air pollution levels exceeding the standards set by WHO. Most of these patients live in low-income and middle-income countries.72 The Global Burden of Disease Study6 calculated that ambient air pollution contributed to 18% of the stroke burden in low-income and middle-income countries compared with 10% of the burden in high-income countries. However, the combined contribution of other modifiable (vascular) risk factors was similar.6 Steps should be taken to decrease air pollutant levels, particularly in low-income and middle-income countries; for example, through promoting the use of clean energy sources. Another possibility could be separating living areas more from industrial areas, or by making public transport more accessible to reduce polluting road traffic. Furthermore, several studies have shown that even air pollutant exposure below the levels set by WHO are still associated with an increased risk of ischaemic and haemorrhagic stroke.9,  10,  11 Therefore, even in Europe and North America, it is important to further improve the air quality and even perhaps to revisit the guidelines set by the WHO.8
+During the global COVID-19 lockdown there has been an acute drop in air pollution levels, as well as a drop in the number of hospital admissions for stroke.75 On one hand, this decrease in stroke admissions could be explained by behavioural changes, such as not seeking medical help because of fear of contracting the virus or unnecessarily burdening medical services. On the other hand, there could also be fewer strokes because of fewer acute triggers. Presumably, during the lockdown there is less physically strenuous activity and less work-related stress. Conversely, people have adopted a more sedentary lifestyle, an unhealthier diet, and more mental health issues have been reported.76 One clearly less prevalent acute trigger is ambient air pollution. Future studies should investigate whether stroke occurrence will increase again while the quality of air is still improved and the fear in society and the strain on hospital care has decreased. These studies should also aim to correct for the prevalence of other acute triggers and indoor air pollution. Particularly, indoor air pollution might have become more relevant during the lockdown, given that much more time is being spent inside. It will be interesting to see if after COVID-19 there is still reduced work-related traffic or if people continue to wear face masks, and if these factors will affect the association between air pollutants and stroke incidence.
+Search strategy and selection criteria
+We searched PubMed for all articles published before July 1, 2020, using the terms: “stroke”, “isch(a)emic stroke”, “h(a)emorrhagic stroke”, and “intracerebral h(a)emorrhage individually in combination with one of the following terms: “air pollution”, “air pollutants”, “particulate matter”, “PM10”, “PM2·5”, “ultrafine particles”, “UFP”, “nitrogen (di)oxide”, “carbon monoxide”, “ozone”, “sulphate”, and “black carbon”. We used English search terms and only included articles with full-text available in English. We screened all titles and abstracts for relevance to the aim of our study. Epidemiological studies, cohort studies, and reviews were considered if ischaemic stroke and haemorrhagic stroke were separate outcomes and the studies reported specifically on stroke incidence. Studies regarding pathophysiological mechanisms on the risk of air pollution were also considered. We screened citation lists of studies considered relevant to identify other potentially relevant articles. To ensure novelty, we focused on studies published after 2017 in the main text and tables. Finally, we searched PubMed for articles on “COVID-19” and “air pollution” or “ischaemic stroke incidence”, or both, published between March 1, 2020, and Oct 1, 2020, to add up-to-date perspectives on the issue.
+Contributors
+F-EdL led the design and coordination of this Review. JIV and YA did the initial literature search and the screening and extraction of the data. JIV, with support of YA, wrote the first and subsequent drafts of the manuscript. F-EdL, CJMK, and ICHV contributed to reviewing and editing the manuscript. All authors approved the final version.
+Editorial note: the Lancet Group takes a neutral position with respect to territorial claims in published maps and institutional affiliations.
+Declaration of interests
+CJMK is supported by a clinical established investigator grant of the Dutch Heart Foundation (grant 2012T077) and an Aspasia grant from The Netherlands Organisation for Health Research and Development (ZonMW grant 015008048). F-EdL is supported by a clinical established investigator grant of the Dutch Heart Foundation (grant number 2014 T060), by a Vidi innovational grant from The Netherlands Organisation for Health Research and Development (ZonMW grant 016.126.351). All other authors declared no competing interests.
+Supplementary Material
+Download .pdf (.19 MB)
+Help with pdf files
+Supplementary appendix
+References
+1.United Nations Environment Programme
+Towards a pollution-free planet: background report.
+https://wedocs.unep.org/bitstream/handle/20.500.11822/21800/UNEA_towardspollution_long%20version_Web.pdf
+Date: 2017
+Date accessed: July 1, 2020
+View in Article 
+Google Scholar
+2.Stockfelt L Andersson EM Molnár P et al.
+Long-term effects of total and source-specific particulate air pollution on incident cardiovascular disease in Gothenburg, Sweden.
+Environ Res. 2017; 158: 61-71
+View in Article 
+Scopus (126)
+PubMed
+Crossref
+Google Scholar
+3.Shah AS Lee KK McAllister DA et al.
+Short term exposure to air pollution and stroke: systematic review and meta-analysis.
+BMJ. 2015; 350h1295
+View in Article 
+PubMed
+Crossref
+Google Scholar
+4.Amini H Dehlendorff C Lim YH et al.
+Long-term exposure to air pollution and stroke incidence: a Danish nurse cohort study.
+Environ Int. 2020; 142105891
+View in Article 
+Scopus (51)
+PubMed
+Crossref
+Google Scholar
+5.Barker-Collo S Bennett DA Krishnamurthi RV et al.
+Sex differences in stroke incidence, prevalence, mortality and disability-adjusted life years: results from the Global Burden of Disease Study 2013.
+Neuroepidemiology. 2015; 45: 203-214
+View in Article 
+Scopus (152)
+PubMed
+Crossref
+Google Scholar
+6.Feigin VL Roth GA Naghavi M et al.
+Global burden of stroke and risk factors in 188 countries, during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013.
+Lancet Neurol. 2016; 15: 913-924
+View in Article 
+Scopus (1071)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+7.Feigin VL Nichols E Alam T et al.
+Global, regional, and national burden of neurological disorders, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016.
+Lancet Neurol. 2019; 18: 459-480
+View in Article 
+Scopus (2493)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+8.WHO
+Air quality guidelines—global update 2005.
+https://apps.who.int/iris/bitstream/handle/10665/107823/9789289021920-eng.pdf?sequence=1&isAllowed=y
+Date: 2005
+Date accessed: July 1, 2020
+View in Article 
+Google Scholar
+9.Tian Y Liu H Wu Y et al.
+Association between ambient fine particulate pollution and hospital admissions for cause specific cardiovascular disease: time series study in 184 major Chinese cities.
+BMJ. 2019; 367l6572
+View in Article 
+Scopus (142)
+PubMed
+Crossref
+Google Scholar
+10.Wellenius GA Burger MR Coull BA et al.
+Ambient air pollution and the risk of acute ischemic stroke.
+Arch Intern Med. 2012; 172: 229-234
+View in Article 
+Scopus (277)
+PubMed
+Crossref
+Google Scholar
+11.Wilker EH Mostofsky E Fossa A et al.
+Ambient pollutants and spontaneous intracerebral hemorrhage in greater Boston.
+Stroke. 2018; 49: 2764-2766
+View in Article 
+Scopus (12)
+Crossref
+Google Scholar
+12.Markus HS Brainin M
+COVID-19 and stroke—a global World Stroke Organization perspective.
+Int J Stroke. 2020; 15: 361-364
+View in Article 
+Scopus (287)
+PubMed
+Crossref
+Google Scholar
+13.Huang L Liu Z Li H et al.
+The silver lining of COVID-19: estimation of short-term health impacts due to lockdown in the Yangtze River Delta region, China.
+Geohealth. 2020; 4e2020GH000272
+View in Article 
+Scopus (26)
+Crossref
+Google Scholar
+14.Giani P Castruccio S Anav A Howard D Hu W Crippa P
+Short-term and long-term health impacts of air pollution reductions from COVID-19 lockdowns in China and Europe: a modelling study.
+Lancet Planet Health. 2020; 4: e474-e482
+View in Article 
+Scopus (129)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+15.Zhang K Batterman S
+Air pollution and health risks due to vehicle traffic.
+Sci Total Environ. 2013; 450–51: 307-316
+View in Article 
+Scopus (470)
+Crossref
+Google Scholar
+16.IQAir
+World's most polluted countries 2019 (PM2·5).
+https://www.iqair.com/us/world-most-polluted-countries
+Date accessed: July 1, 2020
+View in Article 
+Google Scholar
+17.WHO
+Air pollution, maps and databases.
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/concentrations-of-fine-particulate-matter-(pm2-5)
+Date: 2016
+Date accessed: March 25, 2021
+View in Article 
+Google Scholar
+18.Byrne CP Bennett KE Hickey A et al.
+Short-term air pollution as a risk for stroke admission: a time-series analysis.
+Cerebrovasc Dis. 2020; 49: 404-411
+View in Article 
+Scopus (25)
+PubMed
+Crossref
+Google Scholar
+19.Fisher JA Puett RC Laden F et al.
+Case-crossover analysis of short-term particulate matter exposures and stroke in the health professionals follow-up study.
+Environ Int. 2019; 124: 153-160
+View in Article 
+Scopus (34)
+PubMed
+Crossref
+Google Scholar
+20.Gu J Shi Y Chen N Wang H Chen T
+Ambient fine particulate matter and hospital admissions for ischemic and hemorrhagic strokes and transient ischemic attack in 248 Chinese cities.
+Sci Total Environ. 2020; 715136896
+View in Article 
+Scopus (48)
+PubMed
+Crossref
+Google Scholar
+21.Sun S Stewart JD Eliot MN et al.
+Short-term exposure to air pollution and incidence of stroke in the Women's Health Initiative.
+Environ Int. 2019; 132105065
+View in Article 
+Scopus (38)
+PubMed
+Crossref
+Google Scholar
+22.Chen L Zhang Y Zhang W et al.
+Short-term effect of PM1 on hospital admission for ischemic stroke: a multi-city case-crossover study in China.
+Environ Pollut. 2020; 260113776
+View in Article 
+Scopus (32)
+PubMed
+Crossref
+Google Scholar
+23.Dong H Yu Y Yao S et al.
+Acute effects of air pollution on ischaemic stroke onset and deaths: a time-series study in Changzhou, China.
+BMJ Open. 2018; 8e020425
+View in Article 
+Scopus (37)
+PubMed
+Crossref
+Google Scholar
+24.Ho AFW Zheng H De Silva DA et al.
+The relationship between ambient air pollution and acute ischemic stroke: a time-stratified case-crossover study in a city-state with seasonal exposure to the southeast Asian haze problem.
+Ann Emerg Med. 2018; 72: 591-601
+View in Article 
+Scopus (21)
+PubMed
+Summary
+Full Text
+Full Text PDF
+Google Scholar
+25.Tian Y Liu H Zhao Z et al.
+Association between ambient air pollution and daily hospital admissions for ischemic stroke: a nationwide time-series analysis.
+PLoS Med. 2018; 15e1002668
+View in Article 
+Scopus (171)
+PubMed
+Crossref
+Google Scholar
+26.Tian Y Liu H Xiang X et al.
+Ambient coarse particulate matter and hospital admissions for ischemic stroke.
+Stroke. 2019; 50: 813-819
+View in Article 
+Scopus (16)
+PubMed
+Crossref
+Google Scholar
+27.Qi X Wang Z Guo X et al.
+Short-term effects of outdoor air pollution on acute ischaemic stroke occurrence: a case-crossover study in Tianjin, China.
+Occup Environ Med. 2020; 77: 862-867
+View in Article 
+Scopus (22)
+PubMed
+Crossref
+Google Scholar
+28.Vivanco-Hidalgo RM Wellenius GA Basagaña X et al.
+Short-term exposure to traffic-related air pollution and ischemic stroke onset in Barcelona, Spain.
+Environ Res. 2018; 162: 160-165
+View in Article 
+Scopus (46)
+PubMed
+Crossref
+Google Scholar
+29.Wang Z Peng J Liu P et al.
+Association between short-term exposure to air pollution and ischemic stroke onset: a time-stratified case-crossover analysis using a distributed lag nonlinear model in Shenzhen, China.
+Environ Health. 2020; 19: 1
+View in Article 
+Scopus (40)
+PubMed
+Crossref
+Google Scholar
+30.Nzwalo H Guilherme P Nogueira J et al.
+Fine particulate air pollution and occurrence of spontaneous intracerebral hemorrhage in an area of low air pollution.
+Clin Neurol Neurosurg. 2019; 176: 67-72
+View in Article 
+Scopus (12)
+PubMed
+Crossref
+Google Scholar
+31.Andersen ZJ Olsen TS Andersen KK Loft S Ketzel M Raaschou-Nielsen O
+Association between short-term exposure to ultrafine particles and hospital admissions for stroke in Copenhagen, Denmark.
+Eur Heart J. 2010; 31: 2034-2040
+View in Article 
+Scopus (157)
+PubMed
+Crossref
+Google Scholar
+32.Henrotin JB Besancenot JP Bejot Y Giroud M
+Short-term effects of ozone air pollution on ischaemic stroke occurrence: a case-crossover analysis from a 10-year population-based study in Dijon, France.
+Occup Environ Med. 2007; 64: 439-445
+View in Article 
+Scopus (131)
+PubMed
+Crossref
+Google Scholar
+33.Huang F Luo Y Guo Y et al.
+Particulate matter and hospital admissions for stroke in Beijing, China: modification effects by ambient temperature.
+J Am Heart Assoc. 2016; 5e003437
+View in Article 
+Scopus (68)
+PubMed
+Crossref
+Google Scholar
+34.Lin H Guo Y Di Q et al.
+Ambient PM2·5 and stroke: effect modifiers and population attributable risk in six low- and middle-income countries.
+Stroke. 2017; 48: 1191-1197
+View in Article 
+Scopus (97)
+PubMed
+Crossref
+Google Scholar
+35.Oudin A Strömberg U Jakobsson K Stroh E Björk J
+Estimation of short-term effects of air pollution on stroke hospital admissions in southern Sweden.
+Neuroepidemiology. 2010; 34: 131-142
+View in Article 
+Scopus (57)
+PubMed
+Crossref
+Google Scholar
+36.Tsai SS Goggins WB Chiu HF Yang CY
+Evidence for an association between air pollution and daily stroke admissions in Kaohsiung, Taiwan.
+Stroke. 2003; 34: 2612-2616
+View in Article 
+Scopus (233)
+PubMed
+Crossref
+Google Scholar
+37.Villeneuve PJ Chen L Stieb D Rowe BH
+Associations between outdoor air pollution and emergency department visits for stroke in Edmonton, Canada.
+Eur J Epidemiol. 2006; 21: 689-700
+View in Article 
+Scopus (141)
+PubMed
+Crossref
+Google Scholar
+38.Villeneuve PJ Johnson JY Pasichnyk D Lowes J Kirkland S Rowe BH
+Short-term effects of ambient air pollution on stroke: who is most vulnerable?.
+Sci Total Environ. 2012; 430: 193-201
+View in Article 
+Scopus (64)
+PubMed
+Crossref
+Google Scholar
+39.Wellenius GA Schwartz J Mittleman MA
+Air pollution and hospital admissions for ischemic and hemorrhagic stroke among medicare beneficiaries.
+Stroke. 2005; 36: 2549-2553
+View in Article 
+Scopus (302)
+PubMed
+Crossref
+Google Scholar
+40.Chiu HF Yang CY
+Short-term effects of fine particulate air pollution on ischemic stroke occurrence: a case-crossover study.
+J Toxicol Environ Health A. 2013; 76: 1188-1197
+View in Article 
+Scopus (17)
+PubMed
+Crossref
+Google Scholar
+41.Guo P Wang Y Feng W et al.
+Ambient air pollution and risk for ischemic stroke: a short-term exposure assessment in south China.
+Int J Environ Res Public Health. 2017; 14E1091
+View in Article 
+Scopus (46)
+PubMed
+Crossref
+Google Scholar
+42.Maheswaran R Pearson T Beevers SD Campbell MJ Wolfe CD
+Air pollution and subtypes, severity and vulnerability to ischemic stroke-a population based case-crossover study.
+PLoS One. 2016; 11e0158556
+View in Article 
+Scopus (21)
+PubMed
+Crossref
+Google Scholar
+43.Matsuo R Michikawa T Ueda K et al.
+Short-term exposure to fine particulate matter and risk of ischemic stroke.
+Stroke. 2016; 47: 3032-3034
+View in Article 
+Scopus (34)
+PubMed
+Crossref
+Google Scholar
+44.O'Donnell MJ Fang J Mittleman MA Kapral MK Wellenius GA
+Fine particulate air pollution (PM2·5) and the risk of acute ischemic stroke.
+Epidemiology. 2011; 22: 422-431
+View in Article 
+Scopus (144)
+PubMed
+Crossref
+Google Scholar
+45.Lisabeth LD Escobar JD Dvonch JT et al.
+Ambient air pollution and risk for ischemic stroke and transient ischemic attack.
+Ann Neurol. 2008; 64: 53-59
+View in Article 
+Scopus (137)
+PubMed
+Crossref
+Google Scholar
+46.Cai Y Hodgson S Blangiardo M et al.
+Road traffic noise, air pollution and incident cardiovascular disease: a joint analysis of the HUNT, EPIC-Oxford and UK Biobank cohorts.
+Environ Int. 2018; 114: 191-201
+View in Article 
+Scopus (109)
+PubMed
+Crossref
+Google Scholar
+47.Huang K Liang F Yang X et al.
+Long term exposure to ambient fine particulate matter and incidence of stroke: prospective cohort study from the China-PAR project.
+BMJ. 2019; 367l6720
+View in Article 
+Scopus (156)
+PubMed
+Crossref
+Google Scholar
+48.Yuan S Wang J Jiang Q et al.
+Long-term exposure to PM2·5 and stroke: a systematic review and meta-analysis of cohort studies.
+Environ Res. 2019; 177108587
+View in Article 
+Scopus (88)
+PubMed
+Crossref
+Google Scholar
+49.Noh J Sohn J Han M et al.
+Long-term effects of cumulative average PM2·5 exposure on the risk of hemorrhagic stroke.
+Epidemiology. 2019; 30: S90-S98
+View in Article 
+Scopus (15)
+PubMed
+Crossref
+Google Scholar
+50.Adams Jr, HP Bendixen BH Kappelle LJ et al.
+Classification of subtype of acute ischemic stroke. Definitions for use in a multicenter clinical trial. TOAST. Trial of Org 10172 in Acute Stroke Treatment.
+Stroke. 1993; 24: 35-41
+View in Article 
+Scopus (9580)
+PubMed
+Crossref
+Google Scholar
+51.Maheswaran R Pearson T Beevers SD Campbell MJ Wolfe CD
+Outdoor air pollution, subtypes and severity of ischemic stroke— a small-area level ecological study.
+Int J Health Geogr. 2014; 13: 23
+View in Article 
+Scopus (20)
+PubMed
+Crossref
+Google Scholar
+52.Franchini M Mannucci PM
+Thrombogenicity and cardiovascular effects of ambient air pollution.
+Blood. 2011; 118: 2405-2412
+View in Article 
+Scopus (165)
+PubMed
+Crossref
+Google Scholar
+53.Tian Y Xiang X Wu Y et al.
+Fine particulate air pollution and first hospital admissions for ischemic stroke in Beijing, China.
+Sci Rep. 2017; 73897
+View in Article 
+Scopus (57)
+PubMed
+Crossref
+Google Scholar
+54.Yitshak Sade M Novack V Ifergane G Horev A Kloog I
+Air pollution and ischemic stroke among young adults.
+Stroke. 2015; 46: 3348-3353
+View in Article 
+Scopus (45)
+PubMed
+Crossref
+Google Scholar
+55.Sandström T Frew AJ Svartengren M Viegi G
+The need for a focus on air pollution research in the elderly.
+Eur Respir J Suppl. 2003; 40: 92s-995
+View in Article 
+PubMed
+Crossref
+Google Scholar
+56.Xue T Guan T Liu Y et al.
+A national case-crossover study on ambient ozone pollution and first-ever stroke among Chinese adults: interpreting a weak association via differential susceptibility.
+Sci Total Environ. 2019; 654: 135-143
+View in Article 
+Scopus (16)
+PubMed
+Crossref
+Google Scholar
+57.Sheel AW Dominelli PB Molgat-Seon Y
+Revisiting dysanapsis: sex-based differences in airways and the mechanics of breathing during exercise.
+Exp Physiol. 2016; 101: 213-218
+View in Article 
+Scopus (64)
+PubMed
+Crossref
+Google Scholar
+58.Matz CJ Stieb DM Davis K et al.
+Effects of age, season, gender and urban-rural status on time-activity: Canadian Human Activity Pattern Survey 2 (CHAPS 2).
+Int J Environ Res Public Health. 2014; 11: 2108-2124
+View in Article 
+Scopus (209)
+PubMed
+Crossref
+Google Scholar
+59.Guan T Xue T Liu Y et al.
+Differential susceptibility in ambient particle-related risk of first-ever stroke: findings from a national case-crossover study.
+Am J Epidemiol. 2018; 187: 1001-1009
+View in Article 
+Scopus (26)
+PubMed
+Crossref
+Google Scholar
+60.Hahad O Lelieveld J Birklein F Lieb K Daiber A Münzel T
+Ambient air pollution increases the risk of cerebrovascular and neuropsychiatric disorders through induction of inflammation and oxidative stress.
+Int J Mol Sci. 2020; 214306
+View in Article 
+Scopus (189)
+Crossref
+Google Scholar
+61.Liu H Tian Y Xu Y Zhang J
+Ambient particulate matter concentrations and hospitalization for stroke in 26 Chinese cities: a case-crossover study.
+Stroke. 2017; 48: 2052-2059
+View in Article 
+Scopus (53)
+PubMed
+Crossref
+Google Scholar
+62.Yorifuji T Suzuki E Kashima S
+Cardiovascular emergency hospital visits and hourly changes in air pollution.
+Stroke. 2014; 45: 1264-1268
+View in Article 
+Scopus (45)
+PubMed
+Crossref
+Google Scholar
+63.Chiu HF Chang CC Yang CY
+Relationship between hemorrhagic stroke hospitalization and exposure to fine particulate air pollution in Taipei, Taiwan.
+J Toxicol Environ Health A. 2014; 77: 1154-1163
+View in Article 
+Scopus (26)
+PubMed
+Crossref
+Google Scholar
+64.Jolink WMT Wiegertjes K Rinkel GJE Algra A de Leeuw FE Klijn CJM
+Location-specific risk factors for intracerebral hemorrhage: systematic review and meta-analysis.
+Neurology. 2020; 95: e1807-e1818
+View in Article 
+Scopus (42)
+PubMed
+Crossref
+Google Scholar
+65.Münzel T Gori T Al-Kindi S et al.
+Effects of gaseous and solid constituents of air pollution on endothelial function.
+Eur Heart J. 2018; 39: 3543-3550
+View in Article 
+Scopus (257)
+PubMed
+Crossref
+Google Scholar
+66.Xu H Wang T Liu S et al.
+Extreme levels of air pollution associated with changes in biomarkers of atherosclerotic plaque vulnerability and thrombogenicity in healthy adults.
+Circ Res. 2019; 124: e30-e43
+View in Article 
+Scopus (83)
+PubMed
+Crossref
+Google Scholar
+67.Künzli N Jerrett M Garcia-Esteban R et al.
+Ambient air pollution and the progression of atherosclerosis in adults.
+PLoS One. 2010; 5e9096
+View in Article 
+Scopus (210)
+PubMed
+Crossref
+Google Scholar
+68.Li Y Xu L Shan Z Teng W Han C
+Association between air pollution and type 2 diabetes: an updated review of the literature.
+Ther Adv Endocrinol Metab. 2019; 10 (2042018819897046)
+View in Article 
+Scopus (48)
+Crossref
+Google Scholar
+69.Tirschwell DL Longstreth Jr, WT
+Validating administrative data in stroke research.
+Stroke. 2002; 33: 2465-2470
+View in Article 
+Scopus (552)
+PubMed
+Crossref
+Google Scholar
+70.Ramalle-Gomara E Ruiz E Serrano M Bartulos M Gonzalez MA Matute B
+Validity of discharge diagnoses in the surveillance of stroke.
+Neuroepidemiology. 2013; 41: 185-188
+View in Article 
+Scopus (12)
+PubMed
+Crossref
+Google Scholar
+71.Dons E Laeremans M Orjuela JP et al.
+Wearable sensors for personal monitoring and estimation of inhaled traffic-related air pollution: evaluation of methods.
+Environ Sci Technol. 2017; 51: 1859-1867
+View in Article 
+Scopus (69)
+PubMed
+Crossref
+Google Scholar
+72.Hadley MB Baumgartner J Vedanthan R
+Developing a clinical approach to air pollution and cardiovascular health.
+Circulation. 2018; 137: 725-742
+View in Article 
+Scopus (81)
+PubMed
+Crossref
+Google Scholar
+73.Chapizanis D Karakitsios S Gotti A Sarigiannis DA
+Assessing personal exposure using agent based modelling informed by sensors technology.
+Environ Res. 2021; 192110141
+View in Article 
+Scopus (11)
+PubMed
+Crossref
+Google Scholar
+74.Niu Z Liu F Yu H Wu S Xiang H
+Association between exposure to ambient air pollution and hospital admission, incidence, and mortality of stroke: an updated systematic review and meta-analysis of more than 23 million participants.
+Environ Health Prev Med. 2021; 26: 15
+View in Article 
+Scopus (72)
+PubMed
+Crossref
+Google Scholar
+75.Diegoli H Magalhães PSC Martins SCO et al.
+Decrease in hospital admissions for transient ischemic attack, mild, and moderate stroke during the COVID-19 era.
+Stroke. 2020; 51: 2315-2321
+View in Article 
+Scopus (167)
+PubMed
+Crossref
+Google Scholar
+76.Zachary Z Brianna F Brianna L et al.
+Self-quarantine and weight gain related risk factors during the COVID-19 pandemic.
+Obes Res Clin Pract. 2020; 14: 210-216

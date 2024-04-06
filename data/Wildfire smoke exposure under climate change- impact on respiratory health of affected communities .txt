@@ -1,0 +1,300 @@
+Wildfire smoke exposure under climate change: impact on respiratory health of affected communities
+Colleen E. Reid, Ph.D.,M.P.H. and Melissa May Maestas, Ph.D.
+Author information Copyright and License information PMC Disclaimer
+The publisher's final edited version of this article is available at Curr Opin Pulm Med
+Go to:
+Abstract
+Purpose of review
+In this review, we describe the current status of the literature regarding respiratory health related to wildfire smoke exposure, anticipated future impacts under a changing climate, and strategies to reduce respiratory health impacts of wildfire smoke.
+
+Recent Findings
+Recent findings confirm associations between wildfire smoke exposure and respiratory health outcomes, with the clearest evidence for exacerbations of asthma. Although previous evidence showed a clear association between wildfire smoke and chronic obstructive pulmonary disease, findings from recent studies are more mixed. Current evidence in support of an association between respiratory infections and wildfire smoke exposure is also mixed. The only study to investigate long-term respiratory health impacts of wildfire smoke demonstrated decreases in lung function ten years after exposure though this finding was only in males who were young adults during the 1997 Indonesian fires. Few studies have estimated future health impacts of wildfires under likely climate change scenarios.
+
+Summary
+Wildfire activity has been increasing over the past several decades and is likely to continue to do so as climate change progresses, which, combined with a growing population, means that population exposure to and respiratory health impacts of wildfire smoke is likely to grow in the future. More research is needed to understand which population subgroups are most vulnerable to wildfire smoke exposure and the long-term respiratory health impacts of these high pollution events.
+
+Keywords: Wildfires, smoke, air pollution, climate change, respiratory system, particulate matter
+Go to:
+1. Introduction: Wildfire Smoke, Climate Change, and Respiratory Health
+Wildfire activity has increased over the past few decades in the western United States (US). This can be at least partly attributed to climate change and historical fire suppression [1–3]. Anthropogenic contributions to climate change are estimated to have led to a doubling of the total area burned by forest fires in the western US between 1984–2015 [1]. Wildland fires contribute to increases in air pollution locally and regionally [4, 5*, 6–9]. An estimated 26% of summertime organic aerosols in the western US come from wildfires; this fraction is expected to increase as wildfires become more prevalent while urban air pollution continues to decline [10]. PM2.5 (particulate matter with an aerodynamic diameter smaller than 2.5 microns) concentrations are declining in most of the US except the Northwest US where the increasing concentrations are attributed to wildfires [7]. Recent review papers have highlighted the health impacts of population exposure to air pollution from wildfires [11–13], with consistent evidence of an association with exacerbations of asthma and chronic obstructive pulmonary disease (COPD) [11]. Current estimates of the health costs of wildfire smoke exposure range from $11–20 billion/year in the continental US [14]. In this review, we review the findings from epidemiological studies published between January 2016 and August 2018 in English in peer-reviewed journals on the association between wildfire smoke and population respiratory health. We also review proposed strategies to decrease population exposure to wildfire smoke and papers that project future air quality and health impacts of wildfires in a changing climate.
+
+Go to:
+2. Exposure Assessment During Wildfires
+Wildfire smoke contains a variety of chemical components [9, 15–17] and can significantly impact air quality locally and regionally [4, 5*, 18*]. Population exposure levels from wildfires vary widely, depending on the area burned, fuels, fire intensity, rate of burning, dispersion, and population location [9,19].
+
+PM2.5 is the component in wildfire smoke of most concern for health. In the US, the daily average National Ambient Air Quality Standard for PM2.5 is 35 μg/m3, however, the World Health Organization recommends that daily PM2.5 not exceed 25 μg/m3.
+
+Ambient concentrations of PM2.5 in the vicinity of a wildfire can be extremely high. Hourly concentrations of 6,106 μg/m3 and daily concentrations of 394 μg/m3 have been documented [15,17]. About 52% of all summertime 24-hr PM2.5 observations above 35 μg/m3 in the continental US occur when a smoke plume is present [20].
+
+Exposure assessment methods of PM2.5 from wildfires have improved in recent years. Many early studies used temporal comparisons, in which the health outcomes from one time period are compared with similar time periods without wildfire smoke. Temporal comparisons may be confounded by temporally-varying factors such as temperature and relative humidity and do not allow quantification of the exposure-response function. Other early studies relied on monitoring data to assess particulate matter (PM) exposure. Although monitoring data is our best estimate of PM exposure at that location, air pollution varies spatially, especially during wildfires. This can lead to exposure misclassification likely biasing effect estimates towards the null [21]. In our previous review [11], some studies began to use atmospheric models (AMs) and/or satellite aerosol optical depth (AOD) data to help assess exposure. These data can improve spatiotemporal information about PM2.5, but both have uncertainties. AOD measures total particles in the atmospheric column, and does not directly represent ground-level PM concentrations that people are breathing. AOD data is also missing when clouds are present [22]. AMs are physically-based and can provide information related to emissions, transport, and chemistry in locations that lack monitors but are often inaccurate compared to monitors. Research demonstrates that statistically merging AMs with monitoring data improves accuracy [23]. Recent wildfire smoke and health studies often statistically ‘blend’ data (e.g. Gan et al. [24!] and Reid et al. [25*] from multiple sources such as satellites, AMs, monitors, meteorology, and land use. There is yet no consensus on which of the various blending methods is ‘best’, however, these methods likely improve understanding of wildfire smoke exposures beyond the use of monitoring or modelled data alone.
+
+Go to:
+3. Respiratory health effects associated with wildfire smoke exposure
+PM from wildfire smoke is thought to affect the lungs by contributing to oxidative stress, inflammation, and cell toxicity [26]. Studies of the toxicity of wildfire smoke tend to focus on in vitro assessments of release of inflammatory proteins, concentrations of species that indicate oxidative stress, biomarkers of the body’s response to oxidative stress and inflammation, evidence of genotoxicity, or levels of macrophages and monocytes denoting activation of the immune system [27*]. A recent review finds that although few toxicity studies of PM focus on wildfire sources, of those that do, most find that finer particles are more toxic than coarser particles and that wildfire PM may be more toxic than urban PM [27*]. Previous research shows that respiratory symptoms are associated with exposure to wildfire smoke [28, 29], and current evidence is consistent with this conclusion [30*–34*].
+
+We review the recent evidence for respiratory health impacts associated with wildfire smoke exposure, noting that many studies explored a variety of respiratory health outcomes but are assessed here separately. One recent study [35] is not included in our discussion as it did not adjust for any appropriate confounding factors and therefore we consider the findings inaccurate. Information on study location, exposure assessment method, and findings are shown in Table 1. Table 1 also highlights methodological concerns in the studies reviewed.
+
+Table 1:
+Summary of studies examining respiratory health impacts of wildfire smoke exposure by respiratory outcome.
+
+Health Encounter Type	Study Period and Area	Exposure Assessment Method	Findings
+Lung Function				
+Kim et al. [36!]	Pulmonology tests	Indonesia ten years after 1997 fires	Interpolated satellite data	↓↓
+Asthma				
+Hutchinson et al. [32*]NEW1OLD2	outpatient presentation	2007 fires San Diego County	Temporal comparison	↑↑
+Haikerwal et al. [37*]	ED visits	Victoria, Australia Dec2006-Jan2007	AM PM2.5 output	↑↑
+Hutchinson et al. [32*]NEW1OLD2	ED visits	2007 fires San Diego County	Temporal comparison	↑↑
+Hutchinson et al. [32*]NEW2OLD7	ED visits	2007 fires San Diego County	AM PM2.5 output	↑
+Reid et al. [25*]	ED visits	Northern California 2008 fires	Blended model combining monitoring data, AOD, AM output, meterology and land use	↑↑
+Tinling et al. [33*]NEW3OLD6	ED visits	2011 fires, North Carolina	AM PM2.5 output	↔
+Alman et al. [38*]NEW4OLD5	Hospitalizations and ED visits combined	2012 Colorado fires	AM PM2.5 output	↑
+Gan et al. [24!]	Hospitalizations	2012 fire season Washington State	AM PM2.5 output	↑↑
+Gan et al. [24!]	Hospitalizations	2012 fire season Washington State	Kriged PM2.5	↑↑
+Gan et al. [24!]	Hospitalizations	2012 fire season Washington State	Blended model combining kriged monitoring, AOD, and AM data	↑↑
+Hutchinson et al. [32*]NEW1OLD2	Hospitalizations	2007 fires San Diego County	Temporal comparison	↑
+Reid et al. [25*]	Hospitalizations	Northern California 2008 fires	Blended model combining monitoring data, AOD, AM output, meterology and land use	↑↑
+COPD				
+Hutchinson et al. [32*]NEW1OLD2	outpatient presentation	2007 fires San Diego County	Temporal comparison	↔
+Haikerwal et al. [37*]	ED visits	Victoria, Australia Dec2006-Jan2007	AM PM2.5 output	↔
+Hutchinson et al. [32*]NEW1OLD2	ED visits	2007 fires San Diego County	Temporal comparison	↔
+Reid et al. [25*]	ED visits	Northern California 2008 fires	Blended model combining monitoring data, AOD, AM output, meterology and land use	↑↑
+Tinling et al. [33*]NEW5OLD9	ED visits	2011 fires, North Carolina	Modelled predictions of daily wildfire PM2.5
+from emissions and HYSPLIT trajectories	↔
+Alman et al. [38*]NEW4OLD5	Hospitalizations and ED visits combined	2012 Colorado fires	AM PM2.5 output	↑↑
+Gan et al. [24!]	Hospitalizations	2012 fire season Washington State	AM PM2.5 output	↔
+Gan et al. [24!]	Hospitalizations	2012 fire season Washington State	Kriged PM2.5	↑↑
+Gan et al. [24!]	Hospitalizations	2012 fire season Washington State	Blended model combining kriged monitoring, AOD, and AM data	↑↑
+Hutchinson et al. [32*]NEW1OLD2	Hospitalizations	2007 fires San Diego County	Temporal comparison	↔
+Reid et al. [25*]	Hospitalizations	Northern California 2008 fires	Blended model combining monitoring data, AOD, AM output, meterology and land use	↔
+Respiratory Infections (combined)				↔
+Sheldon & Sankaran [5*]
+no ICD codes reported	outpatient presentation	Singapore, 2010–2016	Predicted pollution based on regression of fire radiative power from satellites, monitoring data, and meteorology	↑↑
+Tinling et al. [33*]NEW6OLD10
+ICD-9 codes: 466,481,
+487, and 485 combined	ED visits	2011 fires, North Carolina	Modelled predictions of daily wildfire PM2.5
+from emissions and HYSPLIT trajectories	↑↑
+Upper Respiratory Infections				
+Hutchinson et al. [32*]NEW1OLD2
+ICD-9 codes 460–464	outpatient presentation	2007 fires San Diego County	Temporal comparison	↔
+Hutchinson et al. [32*]NEW1OLD2
+ICD-9 codes 460–464	ED visits	2007 fires San Diego County	Temporal comparison	↑↑
+Alman et al. [38*]NEW4OLD5
+ICD-9 codes 460–465, 466	Hospitalizations and ED visits combined	2012 Colorado fires	AM PM2.5 output	↑↑
+Hutchinson et al. [32*]NEW1OLD2
+ICD-9 codes 460–464	Hospitalizations	2007 fires San Diego County	Temporal comparison	↔
+Pneumonia				
+Hutchinson et al. [32*]NEW1OLD2
+ICD-9 codes 480–487	outpatient presentation	2007 fires San Diego County	Temporal comparison	↑
+Hutchinson et al. [32*]NEW1OLD2
+ICD-9 codes 480–487	ED visits	2007 fires San Diego County	Temporal comparison	↔
+Reid et al. [25*]
+ICD-9 codes 480–486	ED visits	Northern California 2008 fires	Blended model combining monitoring data, AOD, AM output, meterology and land use	↔
+Alman et al. [38*]NEW4OLD5
+ICD-9 codes 480–486	Hospitalizations and ED visits combined	2012 Colorado fires	AM PM2.5 output	↔↔
+Gan et al. [24!]
+ICD-9 codes 480–486	Hospitalizations	2012 fire season Washington State	AM PM2.5 output	↔
+Gan et al. [24!]
+ICD-9 codes 480–486	Hospitalizations	2012 fire season Washington State	Kriged PM2.5	↑↑
+Gan et al. [24!]
+ICD-9 codes 480–486	Hospitalizations	2012 fire season Washington State	Blended model combining kriged monitoring, AOD, and AM data	↑
+Hutchinson et al. [32*]NEW1OLD2
+ICD-9 codes 480–487	Hospitalizations	2007 fires San Diego County	Temporal comparison	↔
+Reid et al. [25*]
+ICD-9 codes 480–486	Hospitalizations	Northern California 2008 fires	Blended model combining monitoring data, AOD, AM output, meterology and land use	↔
+Bronchitis				
+Hutchinson et al. [32*]NEW1OLD2
+ICD-9 code 466 (acute bronchitis)	outpatient presentation	2007 fires San Diego County	Temporal comparison	↑↑
+Hutchinson et al. [32*]NEW1OLD2
+ICD-9 code 466 (acute bronchitis)	ED visits	2007 fires San Diego County	Temporal comparison	↑↑
+Alman et al. [38*]NEW4OLD5
+ICD-9 code 490 (bronchitis, not otherwise specified)	Hospitalizations and ED visits combined	2012 Colorado fires	AM PM2.5 output	↔
+Gan et al. [24!]
+ICD-9 code 466 (acute bronchitis)	Hospitalizations	2012 fire season Washington State	AM PM2.5 output	↔
+Gan et al. [24!]
+ICD-9 code 466 (acute bronchitis)	Hospitalizations	2012 fire season Washington State	Kriged PM2.5	↔
+Gan et al. [24!]
+ICD-9 code 466 (acute bronchitis)	Hospitalizations	2012 fire season Washington State	Blended model combining kriged monitoring, AOD, and AM data	↔
+Hutchinson et al. [32*]NEW1OLD2
+ICD-9 code 466 (acute bronchitis)	Hospitalizations	2007 fires San Diego County	Temporal comparison	↔
+Combined Respiratory Conditions				
+Hutchinson et al. [32*]NEW1OLD2	outpatient presentation	2007 fires San Diego County	Temporal comparison	↑↑
+Hutchinson et al. [32*]NEW7OLD3	ED visits	2007 fires San Diego County	Modelled predictions of daily wildfire PM2.5
+from emissions and HYSPLIT trajectories	↑↑
+Hutchinson et al. [32*]NEW1OLD2	ED visits	2007 fires San Diego County	Temporal comparison	↑↑
+Reid et al. [25*]	ED visits	Northern California 2008 fires	Blended model combining monitoring data, AOD, AM output, meterology and land use	↑↑
+Tinling et al. [33*]	ED visits	2011 fires, North Carolina	Modelled predictions of daily wildfire PM2.5
+from emissions and HYSPLIT trajectories	↑
+Alman et al. [38*]NEW4OLD5	Hospitalizations and ED visits combined	2012 Colorado fires	AM PM2.5 output	↑↑
+Gan et al. [24!]	Hospitalizations	2012 fire season Washington State	AM PM2.5 output	↑↑
+Gan et al. [24!]	Hospitalizations	2012 fire season Washington State	Kriged PM2.5	↑↑
+Gan et al. [24!]	Hospitalizations	2012 fire season Washington State	Blended model combining kriged monitoring, AOD, and AM data	↑↑
+Hutchinson et al. [32*]NEW1OLD2	Hospitalizations	2007 fires San Diego County	Temporal comparison	↔
+Kollanus et al. [18*]	Hospitalizations	Helsinki metro area 2001–2010	Binary smoke days determined from monitoring data	↔
+Liu et al. [39*]OLD4	Hospitalizations	Western US 2004–2009	Binary smoke waves determined from AM	↑↑
+Reid et al. [25*]	Hospitalizations	Northern California 2008 fires	Blended model combining monitoring data, AOD, AM output, meterology and land use	↑↑
+Open in a separate window
+When analyses were stratified by subgroups (i.e., age), we are only showing results in this table for all groups combined.
+
+Abbreviations: US = United States; COPD = chronic obstructive pulmonary disease; PM2.5 = particulate matter with an aerodynamic diameter smaller than 2.5 μm; AM = Atmospheric Model; AOD = Aerosol Optical Depth
+
+↔No association.
+↑Suggestive increase.
+↑↑Significant increase.
+↓↓Significant decrease.
+NEW1OLD2: This analysis did not adjust for temperature and relative humidity.
+
+NEW2OLD7: Increase in OR with increasing moving average (48-hour and 72-hour)
+
+NEW3OLD6: effect estimate shown is for all adults, but sub-analyses were done for other age groups
+
+NEW4OLD5: lag 0
+
+NEW5OLD9: called chronic pulmonary conditions using ICD codes: (490, 491, 492, 496)
+
+NEW6OLD10: Called upper respiratory infections
+
+NEW7OLD3: Increase in OR with increasing moving average (48-hour and 72-hour)
+
+3.1. Lung Function
+As discussed in Reid et al. [11], multiple studies have found a decrease in lung function associated with wildfire smoke exposure among individuals without asthma or bronchial hyperreactivity. It is hypothesized that medication use among these individuals prevents a decrease in lung function [11]. A recent study is the first to demonstrate potential long-term health impacts from wildfire smoke exposures in humans [36!]. Males who were adults during the 1997 Indonesian wildfires showed decreased lung function ten years later that was not associated with other temporal changes; those exposed as children seemed to have recovered their lung function ten years later [36!]. A decrease in lung function was also observed in a cohort of three year-old (adolescent) Macaque monkeys who were infants during the 2008 California wildfires that was not observed in an unexposed cohort (born a year later) [40].
+
+3.2. Asthma
+A growing body of evidence documents an association between exacerbations of asthma and wildfire smoke exposure [11]. Since 2016, this evidence is corroborated by significant positive associations between hospitalizations, ED visits, and outpatient visits for asthma exacerbations and wildfire smoke exposure in nine of 12 analyses reviewed here [24!, 25*, 32*, 37*, 38*], see Table 1. Two more found suggestive, if not statistically significant associations [32*, 33*], and another found a null association [33*]. It is notable that two of these non-significant analyses used estimates of wildfire PM2.5 from an AM that does not account for chemical reactions in the atmosphere or blend with monitoring data, and the third used a temporal comparison.
+
+3.3. Chronic obstructive pulmonary disease (COPD)
+In our previous review [11], we showed that the consensus of the literature showed a consistent positive association for exacerbations of COPD and wildfire smoke exposure. The current literature, however, is less consistent with only four statistically significant positive associations of 11 analyses. Significant associations were observed between wildfire smoke exposure and COPD ED visits but null results for hospitalizations during the 2008 northern California wildfires [25*]. An analysis of the 2012 Washington state fires found significant associations between hospitalizations for COPD when using kriged monitoring data or PM2 5 exposures from a model that blended monitoring, AOD, and AM data, but not from AM-derived PM2 5 estimates [24!]. Alman et al. [38*] found significant associations between combined hospitalizations and ED visits for COPD and AM-derived PM2.5 levels during the 2012 Colorado fire season. Analyses using temporal comparisons were null for outpatient visits, ED visits, and hospitalizations [32*], as were results from two analyses using AM-derived PM exposures for ED visits [33*, 37*].
+
+3.4. Respiratory Infections
+Previously, we found mixed evidence of an association between wildfire smoke exposure and respiratory infections [11]. At that time, of fourteen analyses of all respiratory infections combined or pneumonia and bronchitis combined, eight showed a significantly positive relationship, two showed a suggestive positive relationship, and four found null associations. We have found 18 new analyses of the relationship between wildfire smoke exposure and respiratory infections, however different studies group respiratory infections differently (see Table 1), making comparisons across studies difficult. Different findings could be due to outcome grouping or other methodological choices.
+
+In a study of the impacts of wildfires in Indonesia on air pollution and health in Singapore, clinic visits for acute respiratory infections increased significantly during weeks with high fire levels (as estimated from satellite-derived fire radiative power) in Indonesia during 2010–2016 [5*]. During a 2008 peat fire in North Carolina, ED visits for a set of acute respiratory infections that included acute bronchitis and pneumonia were significantly positively associated with PM2.5 [33*].
+
+Hutchinson et al. [32*] found significantly elevated risk of ED visits, but not outpatient or inpatient presentations at hospitals, for upper respiratory infections during a wildfire event compared to reference periods among the Medi-Cal (Medicaid) population in San Diego. Alman et al. [38*] found a borderline significant association for combined hospitalizations and ED visits for upper respiratory infections and PM2 5 during wildfires in 2012 in Colorado.
+
+We found four recent studies [24!, 25*, 32*,38*] with seven different analyses of the association between wildfire smoke and pneumonia, of which, all were null except two. The analysis of outpatient presentations (but not hospitalizations or ED visits) by Hutchinson et al. [32*] found a borderline significant relationship. Gan et al. [24!] found a significant association between pneumonia hospitalizations and wildfire smoke during the 2012 Washington state fires only when assessing exposure from kriged monitoring data, but not from an AM or a blended model.
+
+The studies that have investigated the association between wildfire smoke and acute bronchitis show mixed findings, and the only significant findings come from one study that used only temporal comparisons and found statistically significant associations for ED visits and outpatient presentations, but not for hospitalizations among Medi-Cal patients in San Diego [32*]. A study of the 2012 Washington State wildfires found no significant associations between acute bronchitis hospitalizations and wildfire smoke using three different methods to estimate wildfire smoke [24!]. No association was found for hospitalizations and ED visits combined for bronchitis, not otherwise specified, during the 2012 wildfire season in Colorado [38*].
+
+The null findings associated with pneumonia and bronchitis are in contrast to previous papers that collectively hinted at an association between wildfire smoke and pneumonia and bronchitis [11]. It is notable that most of the previous studies had grouped pneumonia and bronchitis together rather than separating them as is the norm in these recent studies. One earlier study that did separate pneumonia and bronchitis found a significant association between PM2.5 and pneumonia but not acute bronchitis during the 2003 wildfires in southern California [41].
+
+3.5. Grouped Respiratory Outcomes
+Several recent papers investigate the relationship between wildfire smoke exposure and all respiratory health outcomes grouped together. Studies consistently find significant associations for hospitalizations [24!, 25*, 39*], hospitalizations and ED visits combined [38*], ED visits [25*, 32*], and outpatient presentations [32*]. A few studies, however, did not observe significant relationships [18*, 32*, 33*]. It should be noted that one of these [18*] examined long-range transported smoke rather than fresh smoke, which could have different chemical composition.
+
+Go to:
+4. Vulnerable Populations
+Understanding if specific population subsets experience differential impacts from wildfire smoke is important for targeting public health messages to more vulnerable groups. Yet few studies have investigated effect modification by population subgroups and, of those, the results are not consistent across studies. When investigating differential effects by gender, some find larger effect sizes in women [25*, 37*,42*], some in men [24!, 36!], but many find no differences [24!, 32*, 33*, 43*]. Many studies investigate differential impacts by age groups [24!, 25*, 32*, 33*, 37*, 38*], but no consistent conclusions can be drawn. Other population subgroups have been insufficiently studied with only one recent study investigating race [42*], and only two investigating socio-economic status [25*,42*].
+
+Go to:
+5. Strategies to Reduce Smoke Exposure and Associated Health Impacts
+Fire is a feature of the landscape that we cannot remove [3, 19, 44], therefore we have to learn to live with fire and its associated air pollution impacts. We can, however, aim to decrease population health harms. Changes to land and fire management practices could help balance the ecological need for fires with the need to minimize population exposure to wildfire smoke [3, 19, 44]. Prescribed fires can be used to decrease the risk of catastrophic wildfires. To our knowledge, no studies have quantified potential differential health impacts of smoke from wildfires and prescribed fires, though the question has been raised [9].
+
+In communicating risk to the public, recent research highlights the need for consistent messages using simple language across several channels of communication, with attentiveness to the particular at-risk population [45]. Clean air shelters and portable air cleaners may reduce individual exposure to wildfire smoke [34*, 46]. Hospitals should prioritize the increased risk of wildfires in their planning related to climate change [47].
+
+Go to:
+6. Future Impacts Due to Climate Change
+Few studies have estimated future population exposures to wildfire smoke due to climate change, despite many studies projecting higher wildfire risk [48–50]. Mills et al. [50] project that tens of millions of people in the continental US will be exposed to wildfire smoke at least once per 20-year period in the mid- and late-21st century under two climate change scenarios. Liu et al. [51] estimated that PM2 5 exposures due to wildfire smoke in the western US for 2046–2051 under moderate climate change will be 160% higher than currently observed.
+
+Combining modeled estimates of future wildfire-specific PM2.5 concentrations for the western US with projected population changes and current exposure-response curves for the association between “smoke waves” and respiratory hospitalizations, Liu et al. [52!] found that both climatic changes and projected increases in population will increase the number of respiratory hospitalizations due to wildfire smoke exposure. Ford et al. [53!] estimate that premature deaths attributable to fire-related PM2.5 will double by late 21st century compared to early 21st century under climate change scenarios.
+
+Go to:
+7. Conclusion
+As climate change progresses, the probability of wildfires is likely to increase in many places, making it more important than ever to understand the health effects of wildfire smoke exposure. Growing evidence suggests respiratory health is impacted by wildfire smoke. Further research is needed to elucidate causes of inconsistent findings among studies, which could be due to exposure assessment methods, fire characteristics, groupings of ICD-9 codes, population susceptibility, or statistical techniques. Additionally, research is needed to investigate effective measures for reducing population exposure, including clean air shelters, portable air cleaners, and land management practices.
+
+​
+Key Points
+Wildfires and smoke exposures are anticipated to increase in the western US as climate change progresses.
+A growing body of evidence indicates that exacerbations of asthma are affected by wildfire smoke exposure, while evidence of COPD was clear but recent research is not as consistent.
+Inconsistent results among studies examining associations between wildfire smoke exposure and respiratory infections indicate that more research is necessary to achieve consensus.
+Inconsistencies in the findings among studies considering differential health impacts of smoke exposure among various subsets of the population indicate that more research is needed to understand which populations are most vulnerable to smoke exposure.
+Further research is needed to better understand the reasons for inconsistency in findings among studies, which could be due to exposure assessment method, fire characteristics, grouping of ICD-9 codes, underlying population susceptibility, or statistical techniques used.
+Go to:
+Acknowledgements
+MM Maestas is supported by Earth Lab in the Cooperative Institute for Research in Environmental Sciences at the University of Colorado Boulder. CE Reid received support from a grant from the Bureau of Land Management [grant number L14AC00173].
+
+Financial support and sponsorship
+
+MM Maestas is supported by Earth Lab in the Cooperative Institute for Research in Environmental Sciences at the University of Colorado Boulder. CE Reid received support from a grant from the Bureau of Land Management [grant number L14AC00173].
+
+Go to:
+Footnotes
+There are no conflicts of interest.
+
+Go to:
+Contributor Information
+Colleen E. Reid, University of Colorado Boulder, Department of Geography, Guggenheim 110, 260 UCB, Boulder, Colorado 80309, 303-492-7050.
+
+Melissa May Maestas, University of Colorado Boulder, Cooperative Institute for Research in Environmental Sciences, Earth Lab, 4001 Discovery Dr., SEEC Building Suite S348, UCB 611, Boulder, CO 80303.
+
+Go to:
+References
+[1] Abatzoglou JT, Williams AP. Impact of anthropogenic climate change on wildfire across western US forests. Proc Natl Acad Sci USA. 2016;113:11770–11775. [PMC free article] [PubMed] [Google Scholar]
+[2] Westerling ALR. Increasing western US forest wildfire activity: sensitivity to changes in the timing of spring. Philos Trans R Soc Lond B Biol Sci. 2016;371. [PMC free article] [PubMed] [Google Scholar]
+[3] Schoennagel T, Balch JK, Brenkert-Smith H, et al. Adapt to more wildfire in western North American forests as climate changes. Proc Natl Acad Sci USA. 2017;114:4582–4590. [PMC free article] [PubMed] [Google Scholar]
+[4] Alonso-Blanco E, Castro A, Calvo AI, et al. Wildfire smoke plumes transport under a subsidence inversion: Climate and health implications in a distant urban area. Sci Total Environ. 2018;619–620:988–1002. [PubMed] [Google Scholar]
+[5]* Sheldon TL, Sankaran C. The Impact of Indonesian Forest Fires on Singaporean Pollution and Health. The American Economic Review. 2017;107:526–529. [PubMed] [Google Scholar]
+This study highlights the international nature of wildfire smoke exposure by examining the health effects of smoke in Singapore that were generated from fires in Indonesia.
+[6] Larsen AE, Reich BJ, Ruminski M, Rappold AG. Impacts of fire smoke plumes on regional air quality, 2006–2013. Journal of Exposure Science & Environmental Epidemiology. 2017;28:319–327. [PMC free article] [PubMed] [Google Scholar]
+[7] McClure CD, Jaffe DA. US particulate matter air quality improves except in wildfire-prone areas. Proc Natl Acad Sci US A. 2018;:1–6. [PMC free article] [PubMed] [Google Scholar]
+[8] Lassman W, Ford B, Gan RW, et al. Spatial and temporal estimates of population exposure to wildfire smoke during the Washington state 2012 wildfire season using blended model, satellite, and in situ data. GeoHealth. 2017;1:106–121. [PMC free article] [PubMed] [Google Scholar]
+[9] Williamson GJ, Bowman DMJS, Price OF, et al. A transdisciplinary approach to understanding the health effects of wildfire and prescribed fire smoke regimes. Environmental Research Letters. 2016;11:125009. [Google Scholar]
+[10] Ridley DA, Heald CL, Ridley KJ, Kroll JH. Causes and consequences of decreasing atmospheric organic aerosol in the United States. Proc Natl Acad Sci USA. 2018;115:290–295. [PMC free article] [PubMed] [Google Scholar]
+[11] Reid CE, Brauer M, Johnston FH, et al. Critical Review of Health Impacts of Wildfire Smoke Exposure. Environ Health Perspect. 2016;124:1334–43. [PMC free article] [PubMed] [Google Scholar]
+[12] Cascio WE. Wildland fire smoke and human health. Sci Total Environ. 2018;624:586–595. [PMC free article] [PubMed] [Google Scholar]
+[13] Liu JC, Pereira G, Uhl SA, et al. A systematic review of the physical health impacts from non-occupational exposure to wildfire smoke. Environ Res. 2015;136:120–132. [PMC free article] [PubMed] [Google Scholar]
+[14] Fann N, Alman B, Broome RA, et al. The health impacts and economic value of wildland fire episodes in the U.S.: 2008–2012. Sci Total Environ. 2018;610–611:802–809. [PMC free article] [PubMed] [Google Scholar]
+[15] Bytnerowicz A, Hsu YM, Percy K, et al. Ground-level air pollution changes during a boreal wildland mega-fire. Sci Total Environ. 2016;572:755–769. [PubMed] [Google Scholar]
+[16] Kim YH, Warren SH, Krantz QT, et al. Mutagenicity and Lung Toxicity of Smoldering vs. Flaming Emissions from Various Biomass Fuels: Implications for Health Effects from Wildland Fires. Environ Health Perspect. 2018;126:017011. [PMC free article] [PubMed] [Google Scholar]
+[17] Landis MS, Edgerton ES, White EM, et al. The impact of the 2016 Fort McMurray Horse River Wildfire on ambient air pollution levels in the Athabasca Oil Sands Region, Alberta, Canada. Sci Total Environ. 2018;618:1665–1676. [PMC free article] [PubMed] [Google Scholar]
+[18]* Kollanus V, Tiittanen P, Niemi JV, Lanki T. Effects of long-range transported air pollution from vegetation fires on daily mortality and hospital admissions in the Helsinki metropolitan area, Finland. Environ Res. 2016;151:351–358. [PubMed] [Google Scholar]
+This study analyzed associations between hospitalizations and long-range transported smoke from vegetation fires. At this point in time, we don’t know if the health impacts from long-range transported smoke would be different from more proximate smoke due to chemical changes in the smoke as it travels.
+[19] Long JW, Tarnay LW, North MP. Aligning Smoke Management with Ecological and Public Health Goals. Journal of Forestry. 2018;116:76–86. [Google Scholar]
+[20] Kaulfus AS, Nair U, Jaffe D, et al. Biomass Burning Smoke Climatology of the United States: Implications for Particulate Matter Air Quality. Environmental Science & Technology. 2017;51:11731–11741. [PubMed] [Google Scholar]
+[21] Zeger SL, Thomas D, Dominici F, et al. Exposure measurement error in time-series studies of air pollution: concepts and consequences. Environ Health Perspect. 2000;108:419–426. [PMC free article] [PubMed] [Google Scholar]
+[22] Paciorek CJ, Liu Y. Limitations of remotely sensed aerosol as a spatial proxy for fine particulate matter. Environ Health Perspect. 2009;117:904–9. [PMC free article] [PubMed] [Google Scholar]
+[23] Berrocal VJ, Gelfand AE, Holland DM. Space-time data fusion under error in computer model output: an application to modeling air quality. Biometrics. 2012;68:837–848. [PMC free article] [PubMed] [Google Scholar]
+[24]** Gan RW, Ford B, Lassman W, et al. Comparison of wildfire smoke estimation methods and associations with cardiopulmonary-related hospital admissions. GeoHealth. 2017;1:122–136. [PMC free article] [PubMed] [Google Scholar]
+This study used three separate methods of estimating population exposure to wildfire smoke in Washington State, US. They found that some of their results were not consistent among the three exposure estimation methods, highlighting the importance of carefully considering exposure estimation methods.
+[25]* Reid CE, Jerrett M, Tager IB, et al. Differential respiratory health effects from the 2008 northern California wildfires: A spatiotemporal approach. Environ Res. 2016;150:227–35. [PubMed] [Google Scholar]
+This study examined effect modification of the health impacts of wildfire smoke exposure by sex, age, and area-level socioeconomic status.
+[26] Adetona O, Reinhardt TE, Domitrovich J, et al. Review of the health effects of wildland fire smoke on wildland firefighters and the public. Inhalation Toxicology. 2016;28:95–139. [PubMed] [Google Scholar]
+[27]* Dong TTT, Hinwood AL, Callan AC, et al. In vitro assessment of the toxicity of bushfire emissions: A review. Sci Total Environ. 2017;603–604:268–278. [PubMed] [Google Scholar]
+This paper is a very good overview of the toxicological evidence from wildfire smoke.
+[28] Jalaludin BB, O’Toole BI, Leeder SR. Acute effects of urban ambient air pollution on respiratory symptoms, asthma medication use, and doctor visits for asthma in a cohort of Australian children. Environ Res. 2004;95:32–42. [PubMed] [Google Scholar]
+[29] Kunzli N, Avol E, Wu J, et al. Health effects of the 2003 Southern California wildfires on children. Am J Respir Crit Care Med. 2006;174:1221–8. [PMC free article] [PubMed] [Google Scholar]
+[30]* Dodd W, Scott P, Howard C, et al. Lived experience of a record wildfire season in the Northwest Territories, Canada. Can J Public Health. 2018;109:327–337. [PMC free article] [PubMed] [Google Scholar]
+This paper uses interviews of four communities, many of them First Nations communities, in the Northwest Territories during a summer in which the area was inundated with smoke. They find many interesting findings related to mental health that should influence future quantitative epidemiological investigations.
+[31]* Vicedo-Cabrera AM, Esplugues A, Iniguez C, et al. Health effects of the 2012 Valencia (Spain) wildfires on children in a cohort study. Environ Geochem Health. 2016;38:703–12. [PubMed] [Google Scholar]
+This is the only recent study to analyze the impacts of pre-existing conditions (asthma and rhinitis) on the respiratory effects of wildfire smoke exposure.
+[32]* Hutchinson JA, Vargo J, Milet M, et al. The San Diego 2007 wildfires and Medi-Cal emergency department presentations, inpatient hospitalizations, and outpatient visits: An observational study of smoke exposure periods and a bidirectional case-crossover analysis. PLOS Medicine. 2018;15:e1002601. [PMC free article] [PubMed] [Google Scholar]
+This study examined outpatient visits, in addition to ED visits and hospitalizations, and PM2 5 attributed to wildfires within the Medi-Cal population of San Diego. Many of their analyses relied on temporal comparisons without apparent adjustment for temperature and relative humidity.
+[33]* Tinling MA, West JJ, Cascio WE, et al. Repeating cardiopulmonary health effects in rural North Carolina population during a second large peat wildfire. Environ Health. 2016;15:12. [PMC free article] [PubMed] [Google Scholar]
+This study tested the repeatability of a previous analysis of the health effects of wildfire smoke exposure, and this is one of few studies that have examined the health effects of smoke from peat fires.
+[34]* Salimi F, Henderson SB, Morgan GG, et al. Ambient particulate matter, landscape fire smoke, and emergency ambulance dispatches in Sydney, Australia. Environment International. 2017;99:208–212. [PubMed] [Google Scholar]
+This study took a novel approach to researching health effects by investigating emergency ambulance dispatches in Australia and PM2.5 attributed to wildfire smoke.
+[35] Garcia-Olivé I, Radua J, Salvador R, Marin A. Association Between Forest Fires, Environmental Temperature and Cardiorespiratory Admissions From 2005 to 2014. Archivos de Bronconeumología (English Edition). 2017;53:471–534. [PubMed] [Google Scholar]
+[36]** Kim Y, Knowles S, Manley J, Radoias V. Long-run health consequences of air pollution: Evidence from Indonesia’s forest fires of 1997. Economics and Human Biology. 2017;26:186–198. [PubMed] [Google Scholar]
+This study observed a long-term (10-years) decrease in the lung function associated with smoke exposure to the 1997 Indonesian Fires. This is the first study to analyze long-term health consequences of landscape smoke exposure.
+[37]* Haikerwal A, Akram M, Sim MR, et al. Fine particulate matter (PM2 5) exposure during a prolonged wildfire period and emergency department visits for asthma. Respirology (Carlton, Vic). 2016;21:88–94. [PubMed] [Google Scholar]
+This study used case-crossover design to analyzed ED visits for asthma with PM2 5 during a prolonged wildfire period and stratified by age and sex.
+[38]* Alman BL, Pfister G, Hao H, et al. The association of wildfire smoke with respiratory and cardiovascular emergency department visits in Colorado in 2012: a case crossover study. Environ Health. 2016;15:64. [PMC free article] [PubMed] [Google Scholar]
+This study conducted case crossover analyses of several respiratory outcomes for wildfire smoke exposure and stratified by age to examine effect modification.
+[39]* Liu JC, Wilson A, Mickley LJ, et al. Wildfire-specific Fine Particulate Matter and Risk of Hospital Admissions in Urban and Rural Counties. Epidemiology (Cambridge, Mass). 2017;28:77–85. [PMC free article] [PubMed] [Google Scholar]
+This study conducted a large-scale study both in terms of geographic extent and time. Liu et al. used the concept of smoke waves to analyze the risk of respiratory hospital admissions among the Medicare population and wildfire-specific PM2 5, and found a positive association for the western US from 2004–2009.
+[40] Black C, Gerriets JE, Fontaine JH, et al. Early Life Wildfire Smoke Exposure Is Associated with Immune Dysregulation and Lung Function Decrements in Adolescence. Am J Respir Cell Mol Biol. 2017;56:657–666. [PMC free article] [PubMed] [Google Scholar]
+[41] Delfino RJ, Brummel S, Wu J, et al. The relationship of respiratory and cardiovascular hospital admissions to the southern California wildfires of 2003. Occup Environ Med. 2009;66:189–97. [PMC free article] [PubMed] [Google Scholar]
+[42]* Liu JC, Wilson A, Mickley LJ, et al. Who among the elderly is most vulnerable to exposure and health risks of PM2.5 from wildfire smoke? Am J Epidemiol. 2017;186:730–735. [PMC free article] [PubMed] [Google Scholar]
+This is one of the few recent studies to investigate effect modification of the smoke-health relationship by population subgroups (age, sex, race), which is an area that needs more research.
+[43]* Wettstein ZS, Hoshiko S, Fahimi J, et al. Cardiovascular and Cerebrovascular Emergency Department Visits Associated With Wildfire Smoke Exposure in California in 2015. JAHA. 2018;7:e007492. [PMC free article] [PubMed] [Google Scholar]
+Although not the focus of this review, this paper demonstrates an association between wildfire smoke and cardiovascular disease that has not been found in many previous studies.
+[44] Schweizer D, Cisneros R, Traina S, et al. Using National Ambient Air Quality Standards for fine particulate matter to assess regional wildland fire smoke and air quality management. Journal of Environmental Management. 2017;201:345–356. [PubMed] [Google Scholar]
+[45] Fish JA, Peters MDJ, Ramsey I, et al. Effectiveness of public health messaging and communication channels during smoke events: A rapid systematic review. Journal of Environmental Management. 2017;193:247–256. [PubMed] [Google Scholar]
+[46] Barn PK, Elliott CT, Allen RW, et al. Portable air cleaners should be at the forefront of the public health response to landscape fire smoke. Environ Health. 2016;15:116. [PMC free article] [PubMed] [Google Scholar]
+[47] Adelaine SA, Sato M, Jin Y, Godwin H. An Assessment of Climate Change Impacts on Los Angeles (California USA) Hospitals, Wildfires Highest Priority. Prehospital and Disaster Medicine. 2017;32:556–562. [PubMed] [Google Scholar]
+[48] Weatherly JW, Rosenbaum MA. Future Projections of Heat and Fire-Risk Indices for the Contiguous United States. Journal of Applied Meteorology and Climatology. 2017;56:863–876. [Google Scholar]
+[49] Stambaugh MC, Guyette RP, Stroh ED, et al. Future southcentral US wildfire probability due to climate change. Climatic Change. 2018;147:617–631. [Google Scholar]
+[50] Mills D, Jones R, Wobus C, et al. Projecting Age-Stratified Risk of Exposure to Inland Flooding and Wildfire Smoke in the United States under Two Climate Scenarios. Environ Health Perspect. 2018;126:047007. [PMC free article] [PubMed] [Google Scholar]
+[51] Liu JC, Mickley LJ, Sulprizio MP, et al. Particulate air pollution from wildfires in the Western US under climate change. Climatic Change. 2016;138:655–666. [PMC free article] [PubMed] [Google Scholar]
+[52]** Liu JC, Mickley LJ, Sulprizio MP, et al. Future respiratory hospital admissions from wildfire smoke under climate change in the Western US. Environmental Research Letters. 2016;11:124018. [Google Scholar]
+This is the first study to project health impacts of wildfire smoke into the future under climate change scenarios.
+[53]** Ford B, Val Martin M, Zelasky SE, et al. Future Fire Impacts on Smoke Concentrations, Visibility, and Health in the Contiguous United States. GeoHealth. 2018;2:229–247. [PMC free article] [PubMed] [Google Scholar]
+This study projects future air pollution impacts from wildfires under two climate change scenarios. It then estimates the number of deaths that would be expected from those changes in air pollution.

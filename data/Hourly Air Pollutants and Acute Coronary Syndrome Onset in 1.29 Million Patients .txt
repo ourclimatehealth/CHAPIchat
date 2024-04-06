@@ -1,0 +1,365 @@
+Hourly Air Pollutants and Acute Coronary Syndrome Onset in 1.29 Million Patients
+Renjie Chen, Yixuan Jiang, Jialu Hu, Honglei Chen, Huichu Li, Xia Meng, John S. Ji, Ya Gao, Weidong Wang, Cong Liu, Weiyi Fang, Hongbing Yan, Jiyan Chen, Weimin Wang, Dingcheng Xiang, Xi Su, Bo Yu, Yan Wang, Yawei Xu, Lefeng Wang, Chunjie Li, Yundai Chen, Michelle L. Bell, Aaron J. Cohen, Junbo Ge, … See all authors 
+Originally published22 Apr 2022https://doi.org/10.1161/CIRCULATIONAHA.121.057179Circulation. 2022;145:1749–1760
+This article is commented on by the following:
+Other version(s) of this article
+Abstract
+Background:
+Short-term exposure to ambient air pollution has been linked with daily hospitalization and mortality from acute coronary syndrome (ACS); however, the associations of subdaily (hourly) levels of criteria air pollutants with the onset of ACS and its subtypes have rarely been evaluated.
+
+Methods:
+We conducted a time-stratified case-crossover study among 1 292 880 patients with ACS from 2239 hospitals in 318 Chinese cities between January 1, 2015, and September 30, 2020. Hourly concentrations of fine particulate matter (PM2.5), coarse particulate matter (PM2.5–10), nitrogen dioxide (NO2), sulfur dioxide (SO2), carbon monoxide (CO), and ozone (O3) were collected. Hourly onset data of ACS and its subtypes, including ST-segment–elevation myocardial infarction, non–ST-segment–elevation myocardial infarction, and unstable angina, were also obtained. Conditional logistic regressions combined with polynomial distributed lag models were applied.
+
+Results:
+Acute exposures to PM2.5, NO2, SO2, and CO were each associated with the onset of ACS and its subtypes. These associations were strongest in the concurrent hour of exposure and were attenuated thereafter, with the weakest effects observed after 15 to 29 hours. There were no apparent thresholds in the concentration–response curves. An interquartile range increase in concentrations of PM2.5 (36.0 μg/m3), NO2 (29.0 µg/m3), SO2 (9.0 µg/m3), and CO (0.6 mg/m3) over the 0 to 24 hours before onset was significantly associated with 1.32%, 3.89%, 0.67%, and 1.55% higher risks of ACS onset, respectively. For a given pollutant, the associations were comparable in magnitude across different subtypes of ACS. NO2 showed the strongest associations with all 3 subtypes, followed by PM2.5, CO, and SO2. Greater magnitude of associations was observed among patients older than 65 years and in the cold season. Null associations of exposure to either PM2.5–10 or O3 with ACS onset were observed.
+
+Conclusions:
+The results suggest that transient exposure to the air pollutants PM2.5, NO2, SO2, or CO, but not PM2.5–10 or O3, may trigger the onset of ACS, even at concentrations below the World Health Organization air quality guidelines.
+
+Clinical Perspective
+What Is New?
+This is the first case-crossover study that has systematically examined the roles of criteria air pollutants in the onset of acute coronary syndrome and all of its subtypes on an hour-by-hour basis.
+
+Transient increases in exposures to fine particulate matter, nitrogen dioxide, sulfur dioxide, and carbon monoxide may trigger the acute onset of acute coronary syndrome, with the strongest associations in the concurrent hour of exposure and the linear nonthreshold concentration–response relationship.
+
+No association was found between exposure to coarse particulate matter or ozone and acute coronary syndrome onset.
+
+What Are the Clinical Implications?
+This study adds to the evidence of the adverse cardiovascular effects of air pollution and the relevant time course, underscoring continued efforts for air pollution control.
+
+The concentration–response curves without apparent thresholds support the tightening targets in the recently updated World Health Organization Global Air Quality Guidelines 2021.
+
+Editorial, see p 1761
+
+Ischemic heart disease (IHD) is a leading cause of premature mortality worldwide and ranks second in the causes of disability-adjusted life-years.1,2 According to the Global Burden of Disease study, 9.1 million people died of IHD in 2019.3 Acute coronary syndrome (ACS) represents a broad spectrum of IHD-related conditions, including ST-segment–elevation myocardial infarction (STEMI), non–ST-segment–elevation myocardial infarction (NSTEMI), and unstable angina.4 These conditions can be fatal, and for survivors, can substantially reduce their quality of life.5,6 Ambient air pollution is an important modifiable risk factor for IHD and ACS.3,7,8 An estimated 21.9 million disability-adjusted life-years for IHD were attributed to fine particulate matter (PM2.5) pollution globally.9 Improving air quality may substantially reduce the burdens of these diseases.
+
+In the past several decades, a growing body of epidemiologic evidence has linked short-term exposures to air pollutants with ACS-related events.7,8,10–12 However, most studies reported findings on few selected pollutants in association with overall ACS or STEMI, raising concerns about publication bias. To our knowledge, no studies have comprehensively evaluated the associations of multiple air pollutants with the onset of ACS and its subtypes. Furthermore, previous results were often mixed and inconclusive, especially for coarse particulate matter (PM2.5–10) and ozone (O3).8,13,14 The causality of air pollutants and ACS onset is unclear because of the nature of time-series analyses that examine daily average levels of air pollutants with daily aggregate counts of hospitalization or death attributable to ACS,15,16 which may lead to temporal misclassification of exposures. Therefore, investigations at the individual level that link hourly exposure with the hour of ACS onset are warranted to help clarify this relationship.
+
+China, the largest developing country, faces one of the most severe air pollution problems and the largest disease burden of ACS in the world.2,9 On the basis of a nationwide registry in China, we performed an individual-level case-crossover study to examine comprehensively the associations between hourly exposure to multiple air pollutants and the onset of ACS and its subtypes. Potential effect modifications by sex, age, season, geographic region, time of day, proximity to roads, and clinical characteristics were also assessed.
+
+Methods
+Study Population and Outcome Data
+In China, the Chest Pain Center is an integrated hospital model that provides urgent health care for patients presenting to emergency departments with acute chest pain. All events or admissions to the chest pain centers must be reported to the Chinese Cardiovascular Association (CCA) Database–Chest Pain Center, a nationally representative and multicenter registry established by the CCA in 2015. Information on demographic characteristics (e.g., sex and age), history of potentially relevant diseases, date and time of symptom onset, diagnosis, and treatment procedures was collected. The CCA Executive Committee routinely performs strict quality control for data entry. Details of the database were published elsewhere.17
+
+In this study, data were obtained from the CCA Database–Chest Pain Center between January 1, 2015, and September 30, 2020. Patients diagnosed with STEMI, NSTEMI, or unstable angina were identified as ACS cases and included in the analysis. The diagnoses were all made by cardiologists according to standard guidelines on the basis of symptoms, electrocardiographic evidence, and cardiac troponin levels.4,6,18,19 Data of patients with valvular heart disease were also extracted from the database as negative controls for the analysis owing to its lack of biological links to short-term air pollutant exposure. The time of symptom onset was reported by the patient or the patient’s next of kin. To ensure the availability of relevant air pollutant data, the current study only included hospitals within 50 kilometers of a monitoring station. The hospital was used as the index place for the event because (1) most, if not all, patients with chest pain were sent to hospitals nearest to the location of ACS symptom onset and (2) ≈60% of the patients did not provide a complete address at symptom onset. We excluded patients who were referred from another hospital (to ensure the place of ACS onset was in the vicinity of the hospital of interest) or who did not report the time of symptom onset.
+
+The study protocol was approved by the institutional review board at the School of Public Health, Fudan University (approval number 2021-04-0889). All data in this study were deidentified and used under an agreement to protect patients’ privacy and confidentiality. Anonymized data will be available through a formal application process that will be reviewed by the Data Management Committee of the CCA Database–Chest Pain Center.
+
+Study Design
+We used a time-stratified case-crossover design to examine the associations between various air pollutants and ACS onset. For each individual patient, the levels of air pollution exposures before the hour of ACS symptomatic onset were compared with those of control periods of the same individual when the event had not occurred.12,20 This study design allows each patient to be his or her own control and therefore minimizes potential confounding from time-invariant/stable risk factors (for example, demographic, socioeconomic, and some behavioral risk factors that do not vary considerably within a short time period). For each patient, the case index hour was the hour of symptom onset (i.e., case period) and 3 to 4 control index hours were matched to this hour by the same hour of the day, day of the week, month, and year with the case index hour. Control index hours were also selected in the days before and after the case day to control for time trends.21 For example, if the first ACS symptom occurred at 8 am on Wednesday, June 20, 2018, we would define 8 am on Wednesday, June 20, 2018, as the case index hour and 8 am on all other Wednesdays in June 2018 (June 6, 13, and 27) as the control index hours.
+
+Environmental Data
+Hourly concentrations of air pollutants, including PM2.5, particulate matter with an aerodynamic diameter ≤10 µm (PM10), nitrogen dioxide (NO2), sulfur dioxide (SO2), carbon monoxide (CO), and O3, were obtained from the National Urban Air Quality Real-time Publishing Platform (http://106.37.208.233:20035) over the study period. The platform provides real-time data on criteria air pollutants across all state-controlled monitoring sites operated by China’s Ministry of Environmental Protection with strict data quality control procedures. These fixed-site monitors were mandated not to be installed in the direct vicinity of major emission sources (e.g., traffic) to represent the general background levels of air pollution in the designated area of interest. The hourly concentration of PM2.5–10 was additionally calculated by subtracting the hourly PM2.5 concentration from that of PM10 for co-located stations, as done in previous studies.22–24 In addition, hourly temperature and relative humidity data were extracted over the same period from the China Meteorological Data Service Center (http://data.cma.cn).
+
+Hospital address for each patient was geocoded into longitude and latitude and then matched with the nearest monitoring station. For each case and control period, hourly air pollution exposure and meteorologic conditions were assigned up to 72 hours before the index hour. Exposure at lag 0 hours refers to the concentration monitored during the preceding natural hour if the event occurred in the first half of the index hour or to the concentration at the concurrent natural hour if it occurred in the second half of the index hour. The missing values of the nearest stations were predicted by constructing simple linear regressions for available measurements between the nearest and second nearest stations that were also within 50 kilometers from the hospital. There were 1.74%, 1.97%, 1.68%, 1.68%, 1.69%, and 1.69% of hourly measurements of PM2.5, PM2.5–10, NO2, SO2, CO, and O3 still missing, respectively, which were omitted in subsequent statistical analyses. The highest and lowest 0.1% of hourly concentrations for all pollutants were trimmed to reduce the potential influences of outliers on the analyses.
+
+Statistical Analysis
+Conditional logistic regression models were used to quantify the associations between hourly exposures to air pollutants and the onset of ACS and its subtypes. Linear relationships were first assumed, which were consistent with the broad literature on air pollutants and cardiovascular health.10,21 The polynomial distributed lag model was applied to account for linear associations and collinearity across different lag hours when constructing the cross-basis functions. A maximum of 72 lag hours was selected a priori as most previous studies reported that short-term effects of air pollution on myocardial infarction are within 72 hours.7,12 The lag structure was modeled using a priori third-degree polynomial function.25 The cross-basis function was added to the primary conditional logistic regression models. Because O3 concentrations were much lower in the cold season and had drastic day–night variations, the association of O3 with ACS was evaluated only for the warm season (April to September), and it was further stratified by peak (10 am to 6 pm) versus nonpeak time (6 pm to 10 am the next day).21 We controlled for public holidays and the 72-hour average temperature and relative humidity using natural cubic spline functions with 6 and 3 degrees of freedom, respectively (Expanded Methods in the Supplemental Material). We plotted the lag structure over 72 hours to explore the pattern of the associations over time.
+
+The cross-basis functions for all air pollutants were rebuilt using the distributed lag nonlinear model to explore the possibility of nonlinear concentration–response curves of air pollutants with ACS onset. This model allows for nonlinear associations that may vary over multiple lag periods.26 In cross-basis functions, natural cubic splines were used for both air pollutant and lag space. A natural cubic spline with 2 internal spline knots at equally spaced percentiles of concentrations was fitted to account for potential nonlinear relationships between pollutants and ACS onset. For the lags, a natural cubic spline with 2 internal knots was selected at equally spaced log values of lags to allow for more flexibility at shorter delays.27 Then, separate models were refitted for each air pollutant to plot the cumulative concentration–response curves (Expanded Methods in the Supplemental Material).
+
+To explore potential effect modifications, stratified analyses were conducted by sex (male vs female), age (<65 vs ≥65 years), season (warm [April to September] vs cold [October to March]), geographic region (North, South, Northwest, and Qing-Tibet), time of day (8 am to 8 pm vs 8 pm to 8 am the next day), proximity to major roads (≤100 meters vs 100–1000 meters) on the basis of the address of symptom onset, history of smoking (yes vs no), and history of chronic cardiorespiratory diseases (yes vs no). Statistical differences between stratum-specific estimates were tested using 2-sample z tests with the following formula:
+
+z
+=
+�
+1
+−
+�
+2
+SE
+1
+2
++
+SE
+2
+2
+(1)
+where 
+�
+1
+ and 
+�
+2
+ were the stratum-specific regression coefficients (log odds ratio) and SE1 and SE2 were the corresponding standard errors.7
+
+Multiple sensitivity analyses were conducted to examine the robustness of the associations of air pollutants with ACS. First, in addition to the above single-pollutant models, 2-pollutant models were fitted for each pair of the 6 pollutants to control for potential confounding from co-pollutants. Second, temperature was adjusted at hourly level over the 72-hour period before the index hour to exclude the confounding from hourly changes of temperature. In this modeling, the distributed lag nonlinear model was used with cross-basis function of temperature defined by natural splines for both exposure and lag space. Third, the cross-basis function in distributed lag nonlinear model was alternatively constructed with 2 internal spline knots placed at equally spaced values in the range of pollutant concentrations when deriving concentration–response curves.27 Fourth, for patients who provided complete addresses of ACS onset within 50 kilometers of a monitoring station, the main models were rerun separately using exposure data on the basis of hospital addresses and onset addresses. Last‚ the analyses were restricted to patients whose place of ACS onset was within 10 or 25 kilometers from the nearest monitoring stations to examine possible effects from exposure misclassification using fixed-site monitoring data.
+
+All analyses were conducted in R (version 4.0.0, R Project for Statistical Computing) using 2-sided tests with an α of 0.05. To facilitate data interpretations and comparisons across air pollutants, odds ratios and their 95% CIs were converted into percent change in risk of ACS onset associated with each interquartile range increase of air pollutant concentrations,12 using the following equation:
+
+Percent
+ 
+ 
+change 
+=
+e
+�
+×
+IQR
+−
+1
+×
+100
+%
+(2)
+Lower 
+95
+%
+ 
+ 
+ 
+CI 
+=
+e
+(
+�
+−
+1.96
+×
+SE
+)
+×
+IQR
+−
+1
+×
+100
+%
+(3)
+Upper 
+95
+%
+ 
+ 
+CI 
+=
+e
+(
+�
++
+1.96
+×
+SE
+)
+×
+IQR
+−
+1
+×
+100
+%
+(4)
+where β is the regression coefficient (log odds ratio) and SE is the standard error of the β. To further facilitate future comparisons across studies and meta-analyses, the risk of ACS onset associated with each 10 µg/m3 increase of PM2.5, PM2.5–10, NO2, SO2, and O3 and 1 mg/m3 increase of CO was also reported.
+
+Results
+Descriptive Data
+Of the 1 829 020 ACS cases recorded in the CCA Database–Chest Pain Center between January 1, 2015, and September 30, 2020, a total of 1 292 880 cases (Figure S1) from 2239 hospitals in 318 Chinese cities (Figure S2) were eligible for this study. The median distance between reporting hospitals and air quality monitoring stations was 2.6 kilometers. A total of 33% of these patients had both addresses of ACS onset and the reporting hospitals, with a median distance of 6.1 kilometers between them. Of the patients identified from the CCA Database–Chest Pain Center, patients excluded from the analyses had similar age and sex distributions as those included (Table S1). Tables S2 and S3 provide further demographic and clinical details about patients included in this study and Tables S4 and S5 describe the distributions of air pollutants and weather conditions at national and regional levels during the study period. The national average concentrations of hourly PM2.5 (44.3 µg/m3), PM2.5–10 (35.1 µg/m3), and NO2 (33.7 µg/m3) before the index hour were well above the recently updated World Health Organization Global Air Quality Guidelines 2021 (annual average: PM2.5, 5 µg/m3; PM10 minus PM2.5, 10 µg/m3; NO2, 10 µg/m3). At the regional level, air pollution was considerably worse in the Beijing-Tianjin-Hebei and northwest regions than in other parts of China (Figure S3). As for diurnal variations, concentrations were generally comparable between daytime and nighttime, with the exception of O3, which peaked at 3 pm during the day (Figure S4).
+
+There were low to moderate correlations among air pollutants and weather conditions (Table S6). For example, PM2.5 concentration was positively correlated with that of PM2.5–10, NO2, SO2, and CO (Spearman r = 0.49, 0.59, 0.49, and 0.64, respectively) and negatively with O3, temperature, and relative humidity (r = −0.10, −0.38, and −0.16, respectively). For each air pollutant, we further observed moderate to high correlation coefficients (all r ≥ 0.70) between readings from each 2 monitoring stations ≤50, ≤25, and ≤10 kilometers apart (Table S7).
+
+Regression Results
+We observed associations of exposures to PM2.5, NO2, SO2, and CO with higher incidence in the onset of overall ACS in the concurrent hour. Thereafter, the associations gradually attenuated and became statistically nonsignificant after ≈15 to 29 hours (Figure 1), so we decided to use the duration of 0 to 24 hours to derive the risk estimates. Each interquartile range increase in the concentrations of PM2.5 (36.0 µg/m3), NO2 (29.0 µg/m3), SO2 (9.0 µg/m3), and CO (0.6 mg/m3) over 0 to 24 hours was associated with higher risk of ACS onset by 1.32% (95% CI, 1.07%–1.57%), 3.89% (95% CI, 3.41%–4.37%), 0.67% (95% CI, 0.47%–0.86%), and 1.55% (95% CI, 1.22%–1.88%), respectively (Table 1). The corresponding risk estimates with each 10 µg/m3 increase of PM2.5, PM2.5–10, NO2, SO2, and O3, and 1 mg/m3 increase of CO are presented in Table S8. Null associations were observed for the negative control conditions of valvular heart disease (Table S9).
+
+Table 1. Risk of ACS Onset Associated With Each IQR Increase in Air Pollutant Concentrations Over Lags 0 to 24 Hours
+
+Pollutant	IQR	ACS	STEMI	NSTEMI	Unstable angina
+PM2.5	36.0 µg/m3	1.32 (1.07, 1.57)	1.22 (0.81, 1.62)	1.91 (1.34, 2.49)	1.16 (0.78, 1.55)
+PM2.5–10	31.0 µg/m3	0.37 (−0.09, 0.83)	0.70 (−0.05, 1.44)	0.18 (−0.80, 1.17)	0.40 (−0.28, 1.08)
+NO2	29.0 µg/m3	3.89 (3.41, 4.37)	3.64 (2.84, 4.45)	3.57 (2.52, 4.64)	4.37 (3.64, 5.10)
+SO2	9.0 µg/m3	0.67 (0.47, 0.86)	0.68 (0.37, 1.00)	0.93 (0.46, 1.41)	0.62 (0.29, 0.94)
+CO	0.6 mg/m3	1.55 (1.22, 1.88)	1.45 (0.90, 2.00)	1.45 (0.79, 2.11)	1.53 (1.03, 2.02)
+O3 (peak time)*	69.0 µg/m3	−0.31 (−1.68, 1.08)	1.38 (−0.92, 3.74)	−0.63 (−3.71, 2.54)	−1.73 (−3.77, 0.35)
+O3 (nonpeak time)†	69.0 µg/m3	0.71 (−0.88, 2.33)	−1.22 (−3.71, 1.33)	1.68 (−1.78, 5.25)	2.46 (−3.82, 9.15)
+Values are estimated percent change (95% CI). ACS indicates acute coronary syndrome; CO, carbon monoxide; IQR, interquartile range; NO2, nitrogen dioxide; NSTEMI, non–ST-segment–elevation myocardial infarction; O3, ozone; PM2.5, fine particulate matter; PM2.5–10, coarse particulate matter; SO2, sulfur dioxide; and STEMI, ST-segment–elevation myocardial infarction.
+
+* Peak time is from 10 am to 6 pm during 1 day.
+
+† Nonpeak time is from 6 pm to 10 am the next day.
+
+Figure 1.
+Download figureDownload PowerPoint
+Figure 1. Lag structures for the associations of acute coronary syndrome onset with hourly concentrations of pollutants. A through D, Fine particulate matter (PM2.5); E through H, nitrogen dioxide (NO2); I through L, sulfur dioxide (SO2); M through P, carbon monoxide (CO). The black solid lines are the average percent change in the risk of acute coronary syndrome (ACS) onset associated with each interquartile range increase of pollutants (PM2.5, 36.0 µg/m3; NO2, 29.0 µg/m3; SO2, 9.0 µg/m3; and CO, 0.6 mg/m3) and the gray areas are the 95% CIs. NSTEMI indicates non–ST-segment–elevation myocardial infarction; STEMI, ST-segment–elevation myocardial infarction; and UA, unstable angina.
+
+The magnitude of associations varied slightly by ACS subtypes. NO2 showed the strongest associations with the onset of all 3 subtypes, followed by PM2.5 and CO, whereas SO2 exhibited relatively weaker associations. The lag analyses showed similar findings, with the highest risk at the concurrent hour of exposure, which attenuated through 15 to 29 hours.
+
+Figure 2 presents the concentration–response curves for PM2.5, NO2, SO2, and CO. In general, the curves were almost linear without apparent thresholds. The risks of ACS onset increased consistently with increasing concentrations of air pollutants, but the slopes appeared to slightly attenuate beyond the breakpoints of approximately 25 µg/m3 for PM2.5, 30 µg/m3 for NO2, 10 µg/m3 for SO2, and 0.8 mg/m3 for CO.
+
+Figure 2.
+Download figureDownload PowerPoint
+Figure 2. Cumulative exposure–response curves for the associations of PM2.5, NO2, SO2, and CO with acute coronary syndrome onset over lags 0 to 24 hours. A, Acute coronary syndrome (ACS). B, ST-segment–elevation myocardial infarction (STEMI). C, Non–ST-segment–elevation myocardial infarction (NSTEMI). D, Unstable angina (UA). The black solid lines are the average percent change in the risk of ACS onset and the gray areas are the 95% CIs. CO indicates carbon monoxide; NO2, nitrogen dioxide; PM2.5, fine particulate matter; SO2, sulfur dioxide.
+
+For PM2.5–10, there were no significant associations with ACS or its subtypes (Table 1 and Figure S5). According to the exposure–response curves (Figure S6), there were significantly increasing risks of overall ACS, STEMI, and NSTEMI at concentrations lower than ≈25 µg/m3, but the curves tended to level off or decrease at higher concentrations. For unstable angina, the curve was almost always nonsignificant. There were no significant associations of O3 during peak time or nonpeak time with ACS and its subtypes (Figures S7 and S8).
+
+In stratified analyses, we found a stronger association of SO2 with ACS among patients 65 years of age or older than in their younger counterparts (0.89% vs 0.50% per interquartile range; pbetween-group difference=0.048; Table 2). Stronger associations of PM2.5, NO2, and CO with ACS were found in the cold season than in the warm season (pdifference<0.01). The associations were generally comparable in the north and south, except that NO2 had significantly higher effect estimates in the north. Null associations were observed in the northwest and Qing-Tibet region. The associations appeared to be slightly stronger during the daytime, when closer to major roads, or in individuals who never smoked or had no history of chronic cardiorespiratory disease (Table 2 and Table S10). However, most of these between-stratum differences did not reach statistical significance.
+
+Table 2. Risk of ACS Onset Associated With Each IQR Increase in Air Pollutant Concentrations Over Lags 0 to 24 Hours Stratified by Sex, Age, Season, Region, Time of Day, and Proximity to Major Roads
+
+Subgroups	Sample size	PM2.5	NO2	SO2	CO
+Sex
+ Male	878 354	1.37 (1.07, 1.67)	3.74 (3.17, 4.32)	0.67 (0.43, 0.91)	1.27 (0.90, 1.64)
+ Female	414 395	1.19 (0.75, 1.63)	4.37 (3.50, 5.25)	0.74 (0.36, 1.12)	1.86 (1.28, 2.44)
+Age, y
+ <65	656 831	1.28 (0.94, 1.63)	4.15 (3.46, 4.83)	0.50 (0.24, 0.76)*	1.51 (1.05, 1.96)
+ ≥65	635 725	1.36 (1.00, 1.73)	3.77 (3.09, 4.45)	0.89 (0.60, 1.19)*	1.42 (0.99, 1.85)
+Season
+ Warm	690 082	1.04 (0.66, 1.41)*	2.08 (1.46, 2.70)*	0.68 (0.33, 1.03)	0.77 (0.29, 1.26)*
+ Cold	602 798	1.78 (1.37, 2.20)*	5.44 (4.68, 6.20)*	0.88 (0.57, 1.19)	1.84 (1.40, 2.28)*
+Region
+ North	692 183	1.51 (1.16, 1.86)	4.76 (4.06, 5.47)*	1.02 (0.70, 1.35)	1.79 (1.35, 2.23)
+ South	538 440	1.78 (1.27, 2.29)	3.23 (2.54, 3.92)*	0.78 (0.38, 1.18)	1.33 (0.81, 1.86)
+ Northwest	59 936	0.23 (−0.64, 1.10)	1.77 (−0.90, 4.50)	0.05 (−0.65, 0.75)	0.15 (−1.28, 1.61)
+ Qing-Tibet	2321	−3.87 (−13.64, 7.00)	−0.64 (−15.19, 16.41)	−5.01 (−10.44, 0.76)	0.16 (−7.82, 8.84)
+Time of day†
+ Daytime	837 833	1.32 (1.00, 1.65)	4.01 (3.41, 4.60)	0.71 (0.46, 0.96)	1.70 (1.26, 2.14)
+ Nighttime	455 047	1.28 (0.90, 1.65)	3.87 (3.05, 4.70)	0.60 (0.29, 0.91)	1.22 (0.75, 1.69)
+Proximity to roads, m‡
+ ≤100	75 750	1.23 (0.17, 2.30)	4.86 (2.74, 7.01)	1.31 (0.35, 2.28)	1.87 (0.62, 3.15)
+ >100	253 317	1.08 (0.50, 1.66)	4.33 (3.21, 5.46)	0.96 (0.44, 1.48)	1.44 (0.73, 2.16)
+Values are estimated percent change (95% CI). ACS indicates acute coronary syndrome; CO, carbon monoxide; IQR, interquartile range; NO2, nitrogen dioxide; PM2.5, fine particulate matter; and SO2, sulfur dioxide.
+
+* Significant between-subgroup difference.
+
+† Daytime was from 8 am to 8 pm during 1 day; nighttime was the rest of the day.
+
+‡ This analysis was conducted among patients with complete address at ACS onset and was restricted to those within 1 kilometer of the major roads.
+
+In our sensitivity analyses, the results from 2-pollutant models were not substantially different from those of the single-pollutant models, suggesting minimal confounding from each other (Figure 3 and Figure S9). Furthermore, all associations remained stable after additionally adjusting for the cumulative effects of hourly temperature over 0 to 72 lag hours (Table S11). The concentration–response curves from models with knots placed at equally spaced values in the range of concentrations were similar to our primary results, showing linear associations without apparent thresholds (Figure S10). Furthermore, when restricting the analyses to the subset of patients who provided detailed addresses of the event onset, the findings were little affected by using air pollutant estimates from the event onset versus hospital addresses (Table S12). Restricting the analysis to patients whose place of ACS onset was nearer to fixed-site monitors would considerably decrease the valid sample size and yield larger effect estimates, but the increments were very small (Table S12).
+
+Figure 3.
+Download figureDownload PowerPoint
+Figure 3. Estimated percent change (95% CIs) in the risk of acute coronary syndrome onset associated with each interquartile range increase in air pollutant concentrations over lags 0 to 24 hours in single- and 2-pollutant models. The interquartile range concentrations for fine particulate matter (PM2.5), nitrogen dioxide (NO2), sulfur dioxide (SO2), and carbon monoxide (CO) were 36.0 µg/m3, 29.0 µg/m3, 9.0 µg/m3, and 0.6 mg/m3, respectively. In each panel, the first column shows the effect estimates and 95% CIs from single-pollutant models and the remaining columns indicate the estimates and 95% CIs for that pollutant after adjusting for the others in 2-pollutant models. O3 indicates ozone.
+
+Discussion
+This nationwide study demonstrated immediate and robust associations of transient exposures to air pollution with a higher risk of ACS onset as well as all its subtypes. The associations were strongest for NO2, followed by PM2.5, CO, and SO2, and their risk estimates appeared to be stable with copollutant adjustments as shown in the 2-pollutant models. The risks were generally the strongest in the concurrent hour of exposure, attenuated thereafter, and became statistically nonsignificant ≈15 to 29 hours later. The risk of ACS onset increases with increasing concentrations of air pollutants almost throughout their full range without discernible threshold effects. We found stronger associations among patients 65 years of age or older, among patients without smoking history or chronic cardiorespiratory disease history, and in the cold season. Throughout the analyses, PM2.5–10 or O3 concentration was not associated with ACS onset, suggesting they have no or limited role in the acute onset of ACS. To our knowledge, this is the first case-crossover study that has systematically examined the roles of criteria air pollutants in the onsets of ACS and all of its subtypes on an hour-by-hour basis.
+
+The hourly assessment using individual-level data is a strength of this study. Most previous studies have assessed the associations by fitting aggregate cases of ACS-related events and exposures at the daily timescale through time series analyses.15,16 These studies have been challenged by concerns about ecological fallacy, exposure misclassification,28 and the inability to inform biological mechanisms without identifying the most relevant time windows of exposures for ACS onset. To date, only a few studies have examined these associations using a case-crossover design at the hourly timescale, and they have predominantly focused on the association of PM2.5 with myocardial infarction. Three case-crossover studies reported positive associations between myocardial infarction and PM2.5 exposure in the previous hour,13,20,29 but another study did not report any association.30 Another study among 79 288 patients in the United Kingdom observed increased myocardial infarction onset 1 to 6 hours after high exposures to PM10 and NO2.12 In comparison, the current case-crossover study analyzed national data of hourly measurements of all criteria air pollutants with hourly ACS onset for 1.29 million patients. This study provides clear evidence that ACS and all its subtypes can be triggered by transient exposures to high levels of multiple air pollutants even in the same hour of exposure.
+
+Previous studies have also examined the associations of air pollutants with ACS subtypes, largely focusing on STEMI. Evidence to date consistently supports positive associations of air pollutants with STEMI,8,10,13 but data on NSTEMI are inconsistent. Several case-crossover studies reported positive associations between air pollution and NSTEMI,11,31 whereas others reported null associations.8,13 This inconsistency may be attributable to study differences in geographic coverage, sample size, air pollutant levels and compositions, population exposure patterns, and statistical approaches. The association of air pollution with unstable angina has seldom been studied, although there are sporadic reports of higher risks of unstable angina events with higher daily exposures of PM2.5 and NO2.8,32 The current study provides robust evidence that PM2.5, NO2, CO, and SO2 are associated with ACS onset regardless of its clinical subtype.
+
+Although the biological mechanisms underlying the associations between air pollution and ACS are not fully established, several hypotheses have been proposed.33 Both controlled human exposure studies and animal in vivo experiments support that acute exposure to particulate matters could lead to an enhanced thrombogenicity through various pathways, including platelet activation, oxidative stress, and interplays between interleukin-6 and tissue factors.33–37 Endothelial dysfunction, inflammation, dyslipidemia, and autonomic and vascular dysfunction are also possible pathways.38,39 Fewer studies have evaluated the relationships between gaseous pollutants and biomarkers of cardiovascular health.39 Preliminary evidence suggests that both oxidative stress and endothelial dysfunction may underlie the adverse effects of gaseous pollutants on the cardiovascular system.40,41
+
+Epidemiologic evidence on PM2.5–10 and cardiovascular health has been limited and inconsistent. Two multisite time series studies found significant associations of PM2.5–10 with cardiovascular mortality24 and hospitalization,42 but the associations lost statistical significance after adjusting for PM2.5. In contrast, 2 other multicity time series analyses in China reported significant associations of PM2.5–10 with IHD mortality, which was not affected by adjusting for PM2.5 exposure.22,23 This nationwide case-crossover study did not support a significant association between PM2.5–10 and any type of ACS. The null associations for PM2.5–10 are plausible because it predominantly consists of traffic dust, biogenic compounds (e.g., pollen), and various crustal materials from grinding and crushing and it preferentially deposits in the upper and larger airways and thus may be less toxic to the cardiovascular system.
+
+This study provides evidence that short-term O3 exposure, in peak or nonpeak time, was not associated with ACS onset. As with PM2.5–10, previous epidemiologic evidence on O3 and cardiovascular health was limited and inconsistent.14,15,43 This inconsistency may stem from the inherent difficulties in assessing potential adverse health effects of O3. As a secondary pollutant, the formation of O3 depends on complex chemical processes involving heat and sunlight.15 Therefore, the assessment of health associations with O3 may be complicated by these factors. To alleviate these concerns, we restricted our analyses of O3 to the warm season only, and further stratified the analyses by peak and nonpeak time. Our findings support the US Environmental Protection Agency Integrated Science Assessment, which concluded the cardiovascular effect of O3 as “not sufficient to infer a causal relationship.”44
+
+The stratified analyses revealed stronger associations of ACS with air pollutants among older patients, consistent with the results of previous studies.8,10,21 Stronger associations were also observed in the cold season, which is probably attributable to the much higher pollutant concentrations and the higher demand on the cardiovascular system during the cold season.10,27 The lack of associations in the northwest and Qing-Tibet regions may be partly explained by the sparse distribution of chest pain centers in these regions and the small sample size, resulting in inadequate statistical power to detect a significant association and unstable estimates. Our analysis also found slightly stronger associations during the daytime. This may be explained by the fact that people often spend more time outdoors during the day, and thus the measurement errors of air pollutants were likely smaller for daytime because they were estimated on the basis of outdoor fixed-site monitors. Patients closer to major roads also showed stronger associations; however, these results must be interpreted with caution because the analytic sample size in these analyses was much smaller. Furthermore, nonsignificant or relatively weak associations were observed among patients with smoking or chronic cardiorespiratory disease history. It is possible that these individuals were at high risk of ACS for other reasons, making the contributions from air pollutants less relevant. It is also possible that the effects of air pollutants might have been masked or attenuated by medications or other risk factors. Although the results of these stratified analyses are interesting, some were on the basis of small samples, and therefore they must be interpreted cautiously and require independent confirmation.
+
+This study has several strengths. First, the centralized national ACS database ensured data of high quality, covering almost all major hospitals in large and medium cities across China. The very large sample size, nationwide coverage, and individual patient information enabled us to conduct comprehensive statistical analyses to maximize the validity of study results. Second, unlike studies in western developed countries, the wide ranges of air pollutant distributions offered us a unique opportunity to investigate air pollutants in association with ACS onset to their full exposure ranges. Third, the time-stratified case-crossover design of this study facilitated the causal inference of study findings by autonomically controlling for time-invariant confounding at the individual level.45 Fourth, 6 criteria air pollutants were reported in relation to ACS and all its subtypes, excluding the possibility of publication bias. Last, we took advantage of hourly air pollution data and detailed records of ACS onset time, which is instrumental in characterizing a subdaily time course from exposure to ACS onset as well as defining the duration for this effect.
+
+The study has several limitations. First, individual-level exposures were estimated on the basis of nearby fixed-site monitors. Although this is a common practice in epidemiologic studies of air pollution, exposure misclassification is inevitable. We conducted a sensitivity analysis by using estimates with varying distances to the fixed monitors and observed similar results. Furthermore, such measurement errors were likely nondifferential and might have underestimated the associations.46 Second, the exposure assessments did not fully capture air pollution variations in the microenvironments, such as the proximity of traffic, making it difficult to explore the possible effect modifications by transient high exposures during rush hours. Third, exposure assessments were conducted on the basis of the hospital addresses rather than the exact addresses of disease onset in the primary analysis. This is not a major concern because (1) patients with ACS in China are almost always sent to the nearest hospital for timely care; (2) in this study, the place of ACS onset, care hospitals, and air quality monitoring stations are all reasonably close to each other, often within several kilometers; (3) as shown in our results, concentrations of the same air pollutant tended to vary in similar directions and magnitudes within the 50-kilometer measurement range; and (4) our sensitivity analysis using the addresses of ACS onset showed comparable results with the primary analysis using hospital addresses. Fourth, although time-invariant confounders could be controlled by design, time-varying lifestyle-related confounders could not be excluded; nonetheless, this type of residual confounding would not substantially change our results because these factors are not likely to vary considerably for an individual within a month. Fifth, given the measurement errors and correlations across air pollutants, we cannot infer independent associations of specific air pollutants with ACS onset even with 2-pollutant analyses. Last, the self-reported time of ACS onset was also subject to reporting errors, but the nature may be random and thus would not substantially bias our findings.
+
+This nationwide case-crossover study of 1.29 million ACS cases from 2239 hospitals in 318 Chinese cities provides novel and robust evidence that hourly exposure to PM2.5, NO2, SO2, and CO, but not PM2.5–10 or O3, may trigger the onset of ACS. The findings of this study add to the mounting evidence on the adverse cardiovascular effects of air pollution and its time course, underscoring continued efforts for public health intervention and air pollution control. Furthermore, the concentration–response curves without apparent thresholds support the tightening targets in the recently updated World Health Organization Global Air Quality Guidelines 2021.47
+
+Article Information
+Acknowledgments
+The authors thank the regional certification offices (General Hospital of Southern Theatre Command, Xiamen Cardiovascular Hospital Xiamen University, Wuhan Asia Heart Hospital, and The 2nd Affiliated Hospital of Harbin Medical University); the recertification offices (Tianjin Chest Hospital and Shanghai Tenth People’s Hospital); and Huiping Bian (Qinghai Province Cardio-cerebrovascular Disease Specialist Hospital), Lin Cai (The Third People’s Hospital of Chengdu), Qiutang Zeng (Union Hospital, Tongji Medical College, Huazhong University of Science and Technology), Fengying Chen (The Affiliated Hospital of Inner Mongolia Medical University), Lianglong Chen (Fujian Medical University Union Hospital), Mao Chen (West China Hospital, Sichuan University), Xiaoping Chen (Taiyuan Central Hospital Affiliated to Shanxi Medical University), Yuguo Chen (Qilu Hospital of Shandong University), Xiaoshu Cheng (The Second Affiliated Hospital of Nanchang University), Hongliang Cong (Tianjin Chest Hospital), Shaohong Dong (Shenzhen People’s Hospital), Juexin Fan (Yantai Yantaishan Hospital), Xianghua Fu (The Second Hospital of Hebei Medical University), Chuanyu Gao (Fuwai Central China Cardiovascular Hospital), Luobu Gesang (Tibet Autonomous Region People’s Hospital), Lei Ge (Zhongshan Hospital Fudan University), Huaimin Guan (The First Affiliated Hospital of Henan University of CM), Bing Han (Xuzhou Central Hospital), Yuquan He (China-Japan Union Hospital of Jilin University), Aijie Hou (The People’s Hospital of Liaoning Province), Kai Huang (Union Hospital, Tongji Medical College, Huazhong University of Science and Technology), Shaobin Jia (General Hospital of Ningxia Medical University), Qianfeng Jiang (The First People’s Hospital of Zunyi), Tiemin Jiang (Affiliated Hospital of Logistics University of People’s Armed Police Force), Jun Jiang (The Second Affiliated Hospital, Zhejiang University School of Medicine), Xiangqing Kong (The First Affiliated Hospital with Nanjing Medical University), Bao Li (Second Hospital of Shanxi Medical University), Guoqing Li (Xinjiang Uiger Municipal People’s Hospital), Jianping Li (Peking University First Hospital), Lang Li (The First Affiliated Hospital of Guangxi Medical University), Lijun Li (The Second Affiliated Hospital of Xi’an Jiaotong University), Wei Li (The Affiliated Hospital of Guizhou Medical University), Zhihong Li (Affiliated Hospital of Jining Medical University), Feng Liu (Suzhou Kowloon Hospital, Shanghai Jiaotong University School of Medicine), Jian Liu (Peking University People’s Hospital), Qiang Liu (Shenzhen Traditional Chinese Medicine Hospital), Yijun Lu (The People’s Hospital of Guangxi Zhuang Autonomous Region), Shijuan Lu (Haikou People’s Hospital), Suxin Luo (The Hospital Group of the First Affiliated Hospital of Chongqing Medical University), Genshan Ma (Zhongda Hospital Southeast University), Likun Ma (Anhui Provincial Hospital), Xiang Ma (The First Affiliated Hospital of Xinjiang Medical University), Yitong Ma (The First Affiliated Hospital of Xinjiang Medical University), Juying Qian (Zhongshan Hospital Fudan University), Weiyi Qin (Jinshazhou Hospital of Guangzhou University of Chinese Medicine), Xinkai Qu (Huadong Hospital Affiliated to Fudan University), Yong Sha (General Hospital of Ningxia Medical University), Chengxing Shen (Shanghai Sixth People’s Hospital Affiliated to Shanghai JiaoTong university), Mi Shen (Qinghai Red Cross Hospital), Bei Shi (Affiliated Hospital of Zunyi Medical University), Guohai Su (Jinan Central Hospital), Yuhong Sun (Sinopharm Tongmei General Hospital), Youqing Tang (General Hospital of Southern Theatre Command), Jianhong Tao (Sichuan Academy of Medical Sciences, Sichuan Provincial People’s Hospital), Jian’an Wang (The Second Affiliated Hospital, Zhejiang University School of Medicine), Jingfeng Wang (Sun Yat-sen Memorial Hospital, Sun Yat-sen University), Qingmin Wei (Xingtai People’s Hospital), Yanqing Wu (The Second Affiliated Hospital of Nanchang University), Guifu Wu (The Eighth Affiliated Hospital, Sun Yat-sen University), Guanxue Xu (Affiliated Hospital of Zunyi Medical University), Weizhen Xue (Taiyuan Eighth People’s Hospital), Lixia Yang (The 920th Hospital of Chinese People’s Liberation Army Joint Support Force), Qing Yang (Tianjin Medical University General Hospital), Zhiming Yang (Second Hospital of Shanxi Medical University), Zuomin Yin (Qingdao Central Hospital), Hongwei Yu (Zhengzhou First People’s Hospital), Zuyi Yuan (The First Affiliated Hospital of Xi’an Jiaotong University), Li Zhang (West China Hospital, Sichuan University), Ruiyan Zhang (Ruijin Hospital, Shanghai Jiaotong University School of Medicine), Xingwei Zhang (The Affiliated Hospital of Hangzhou Normal University), Zheng Zhang (The First Hospital of Lanzhou University), Dong Zhao (Beijing Anzhen Hospital, Capital Medical University), Xingsheng Zhao (Inner Mongolia People’s Hospital), Zhaofen Zheng (Hunan Provincial People’s Hospital), Yang Zheng (The First Bethune Hospital of Jilin University), and Li Zhu (Jiangsu Taizhou People’s Hospital).
+
+Sources of Funding
+This work was supported by the National Natural Science Foundation of China (92043301, 92143301, and 82030103), Shanghai Three-year Action Plan project (GWV-10.2-XD17 and GWV-10.2-YQ11), and Shanghai Xuhui District Science and Technology Commission (Q2020-012).
+
+Supplemental Material
+Supplemental Methods
+
+Figures S1–S10
+
+Tables S1–S12
+
+Nonstandard Abbreviations and Acronyms
+ACS	
+acute coronary syndrome
+
+CCA	
+Chinese Cardiovascular Association
+
+CO	
+carbon monoxide
+
+IHD	
+ischemic heart disease
+
+NO2	
+nitrogen dioxide
+
+NSTEMI	
+non–ST-segment–elevation myocardial infarction
+
+PM2.5	
+fine particulate matter
+
+PM2.5–10	
+coarse particulate matter
+
+PM10	
+particulate matter with an aerodynamic diameter ≤10 μm
+
+SO2	
+sulfur dioxide
+
+STEMI	
+ST-segment–elevation myocardial infarction
+
+Disclosures None.
+
+Footnotes
+*R. Chen, Y. Jiang, and J. Hu contributed equally.
+
+Circulation is available at www.ahajournals.org/journal/circ
+
+Supplemental Material is available at https://www.ahajournals.org/doi/suppl/10.1161/CIRCULATIONAHA.121.057179.
+
+Continuing medical education (CME) credit is available for this article. Go to http://cme.ahajournals.org to take the quiz.
+
+For Sources of Funding and Disclosures, see page 1759.
+
+Correspondence to: Junbo Ge, MD, PhD, Department of Cardiology, Zhongshan Hospital, Fudan University Shanghai Institute of Cardiovascular Diseases, 180 Fenglin Road, Shanghai 200032, China. Email ge.junbo@zs-hospital.sh.cn
+Yong Huo, MD, Department of Cardiology, Peking University First Hospital, No 8 Xishiku St, Xicheng District, Beijing 100034, China. Email huoyong@263.net.cn
+Haidong Kan, PhD, Department of Environmental Health, School of Public Health, Fudan University, PO Box 249, 130 Dong-An Road, Shanghai 200032, China. Email kanh@fudan.edu.cn
+References
+1.Vos T, Lim SS, Abbafati C, Abbas KM, Abbasi M, Abbasifard M, Abbasi-Kangevari M, Abbastabar H, Abd-Allah F, Abdelalim A, et al. Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019.Lancet. 2020; 396:1204–1222. doi: 10.1016/S0140-6736(20)30925-9CrossrefMedlineGoogle Scholar
+2.Zhou M, Wang H, Zeng X, Yin P, Zhu J, Chen W, Li X, Wang L, Wang L, Liu Y, et al. Mortality, morbidity, and risk factors in China and its provinces, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017.Lancet. 2019; 394:1145–1158. doi: 10.1016/S0140-6736(19)30427-1CrossrefMedlineGoogle Scholar
+3.Roth GA, Mensah GA, Johnson CO, Addolorato G, Ammirati E, Baddour LM, Barengo NC, Beaton AZ, Benjamin EJ, Benziger CP, et al.; GBD-NHLBI-JACC Global Burden of Cardiovascular Diseases Writing Group. Global burden of cardiovascular diseases and risk factors, 1990-2019: update from the GBD 2019 study.J Am Coll Cardiol. 2020; 76:2982–3021. doi: 10.1016/j.jacc.2020.11.010CrossrefMedlineGoogle Scholar
+4.Thygesen K, Alpert JS, Jaffe AS, Chaitman BR, Bax JJ, Morrow DA, White HD; Executive Group on behalf of the Joint European Society of Cardiology (ESC)/American College of Cardiology (ACC)/American Heart Association (AHA)/World Heart Federation (WHF) Task Force for the Universal Definition of Myocardial Infarction. Fourth universal definition of myocardial infarction (2018).Circulation. 2018; 138:e618–e651. doi: 10.1161/cir.0000000000000617LinkGoogle Scholar
+5.Shi XJ, Li MN, Xuan L, Li H, Chen B, Zhang J, Wang HJ. Clinical characteristics of patients with premature acute coronary syndrome and adverse cardiovascular events after PCI.Exp Ther Med. 2019; 18:793–801. doi: 10.3892/etm.2019.7618CrossrefMedlineGoogle Scholar
+6.Amsterdam EA, Wenger NK, Brindis RG, Casey DE, Ganiats TG, Holmes DR, Jaffe AS, Jneid H, Kelly RF, Kontos MC, et al. 2014 AHA/ACC guideline for the management of patients with non–ST-elevation acute coronary syndromes.Circulation. 2014; 130:e344–e426. doi: 10.1161/CIR.0000000000000134LinkGoogle Scholar
+7.Liu Y, Pan J, Fan C, Xu R, Wang Y, Xu C, Xie S, Zhang H, Cui X, Peng Z, et al. Short-term exposure to ambient air pollution and mortality from myocardial infarction.J Am Coll Cardiol. 2021; 77:271–281. doi: 10.1016/j.jacc.2020.11.033CrossrefMedlineGoogle Scholar
+8.Pope CA, Muhlestein JB, Anderson JL, Cannon JB, Hales NM, Meredith KG, Le V, Horne BD. Short-term exposure to fine particulate matter air pollution is preferentially associated with the risk of ST-segment elevation acute coronary events.J Am Heart Assoc. 2015; 4:e002506. doi: 10.1161/jaha.115.002506LinkGoogle Scholar
+9.Wang L, Wu X, Du J, Cao W, Sun S. Global burden of ischemic heart disease attributable to ambient PM2.5 pollution from 1990 to 2017.Chemosphere. 2021; 263:128134. doi: 10.1016/j.chemosphere.2020.128134CrossrefMedlineGoogle Scholar
+10.Li J, Liu C, Cheng Y, Guo S, Sun Q, Kan L, Chen R, Kan H, Bai H, Cao J. Association between ambient particulate matter air pollution and ST-elevation myocardial infarction: a case-crossover study in a Chinese city.Chemosphere. 2019; 219:724–729. doi: 10.1016/j.chemosphere.2018.12.094CrossrefMedlineGoogle Scholar
+11.Milojevic A, Wilkinson P, Armstrong B, Bhaskaran K, Smeeth L, Hajat S. Short-term effects of air pollution on a range of cardiovascular events in England and Wales: case-crossover analysis of the MINAP database, hospital admissions and mortality.Heart. 2014; 100:1093–1098. doi: 10.1136/heartjnl-2013-304963CrossrefMedlineGoogle Scholar
+12.Bhaskaran K, Hajat S, Armstrong B, Haines A, Herrett E, Wilkinson P, Smeeth L. The effects of hourly differences in air pollution on the risk of myocardial infarction: case crossover analysis of the MINAP database.BMJ. 2011; 343:d5531. doi: 10.1136/bmj.d5531CrossrefMedlineGoogle Scholar
+13.Gardner B, Ling F, Hopke PK, Frampton MW, Utell MJ, Zareba W, Cameron SJ, Chalupa D, Kane C, Kulandhaisamy S, et al. Ambient fine particulate air pollution triggers ST-elevation myocardial infarction, but not non-ST elevation myocardial infarction: a case-crossover study.Part Fibre Toxicol. 2014; 11:1. doi: 10.1186/1743-8977-11-1CrossrefMedlineGoogle Scholar
+14.Henrotin JB, Zeller M, Lorgis L, Cottin Y, Giroud M, Béjot Y. Evidence of the role of short-term exposure to ozone on ischaemic cerebral and cardiac events: the Dijon Vascular Project (DIVA).Heart. 2010; 96:1990–1996. doi: 10.1136/hrt.2010.200337CrossrefMedlineGoogle Scholar
+15.Mustafic H, Jabre P, Caussin C, Murad MH, Escolano S, Tafflet M, Périer M-C, Marijon E, Vernerey D, Empana J-P, et al. Main air pollutants and myocardial infarction: a systematic review and meta-analysis.JAMA. 2012; 307:713–721. doi: 10.1001/jama.2012.126CrossrefMedlineGoogle Scholar
+16.Konduracka E, Niewiara Ł, Guzik B, Kotynia M, Szolc P, Gajos G, Nessler J, Podolec P, Żmudka K. Effect of short-term fluctuations in outdoor air pollution on the number of hospital admissions due to acute myocardial infarction among inhabitants of Kraków, Poland.Pol Arch Intern Med. 2019; 129:88–96. doi: 10.20452/pamw.4424CrossrefMedlineGoogle Scholar
+17.Xiang D, Xiang X, Zhang W, Yi S, Zhang J, Gu X, Xu Y, Huang K, Su X, Yu B, et al. Management and outcomes of patients with STEMI during the COVID-19 pandemic in China.J Am Coll Cardiol. 2020; 76:1318–1324. doi: 10.1016/j.jacc.2020.06.039CrossrefMedlineGoogle Scholar
+18.Chinese Society of Cardiology of Chinese Medical Association, and Editorial Board of Chinese Journal of Cardiology. [2019 Chinese Society of Cardiology (CSC) guidelines for the diagnosis and management of patients with ST-segment elevation myocardial infarction.]Zhonghua Xin Xue Guan Bing Za Zhi. 2019; 47:766–783. doi: 10.3760/cma.j.issn.0253-3758.2019.10.003CrossrefMedlineGoogle Scholar
+19.Chinese Society of Cardiology of Chinese Medical Association, and Editorial Board of Chinese Journal of Cardiology. [Guideline and consensus for the management of patients with non-ST-elevation acute coronary syndrome (2016).]Zhonghua Xin Xue Guan Bing Za Zhi. 2017; 45:359–376. doi: 10.3760/cma.j.issn.0253-3758.2017.05.003CrossrefMedlineGoogle Scholar
+20.Peters A, Dockery DW, Muller JE, Mittleman MA. Increased particulate air pollution and the triggering of myocardial infarction.Circulation. 2001; 103:2810–2815. doi: 10.1161/01.cir.103.23.2810LinkGoogle Scholar
+21.Di Q, Dai L, Wang Y, Zanobetti A, Choirat C, Schwartz JD, Dominici F. Association of short-term exposure to air pollution with mortality in older adults.JAMA. 2017; 318:2446–2456. doi: 10.1001/jama.2017.17923CrossrefMedlineGoogle Scholar
+22.Chen R, Yin P, Meng X, Wang L, Liu C, Niu Y, Liu Y, Liu J, Qi J, You J, et al. Associations between coarse particulate matter air pollution and cause-specific mortality: a nationwide analysis in 272 Chinese cities.Environ Health Perspect. 2019; 127:17008. doi: 10.1289/ehp2711CrossrefMedlineGoogle Scholar
+23.Tian F, Qi J, Wang L, Yin P, Qian ZM, Ruan Z, Liu J, Liu Y, McMillin SE, Wang C, et al. Differentiating the effects of ambient fine and coarse particles on mortality from cardiopulmonary diseases: a nationwide multicity study.Environ Int. 2020; 145:106096. doi: 10.1016/j.envint.2020.106096CrossrefMedlineGoogle Scholar
+24.Lee H, Honda Y, Hashizume M, Guo YL, Wu CF, Kan H, Jung K, Lim YH, Yi S, Kim H. Short-term exposure to fine and coarse particles and mortality: a multicity time-series study in East Asia.Environ Pollut. 2015; 207:43–51. doi: 10.1016/j.envpol.2015.08.036CrossrefMedlineGoogle Scholar
+25.Yang J, Zhou M, Li M, Yin P, Hu J, Zhang C, Wang H, Liu Q, Wang B. Fine particulate matter constituents and cause-specific mortality in China: a nationwide modelling study.Environ Int. 2020; 143:105927. doi: 10.1016/j.envint.2020.105927CrossrefMedlineGoogle Scholar
+26.Gasparrini A, Armstrong B, Kenward MG. Distributed lag non-linear models.Stat Med. 2010; 29:2224–2234. doi: 10.1002/sim.3940CrossrefMedlineGoogle Scholar
+27.Guo Y, Barnett AG, Pan X, Yu W, Tong S. The impact of temperature on mortality in Tianjin, China: a case-crossover design with a distributed lag nonlinear model.Environ Health Perspect. 2011; 119:1719–1725. doi: 10.1289/ehp.1103598CrossrefMedlineGoogle Scholar
+28.Lokken RP, Wellenius GA, Coull BA, Burger MR, Schlaug G, Suh HH, Mittleman MA. Air pollution and risk of stroke: underestimation of effect due to misclassification of time of event onset.Epidemiology. 2009; 20:137–142. doi: 10.1097/ede.0b013e31818ef34aCrossrefMedlineGoogle Scholar
+29.Yao J, Brauer M, Wei J, McGrail KM, Johnston FH, Henderson SB. Sub-daily exposure to fine particulate matter and ambulance dispatches during wildfire seasons: a case-crossover study in British Columbia, Canada.Environ Health Perspect. 2020; 128:67006. doi: 10.1289/ehp5792CrossrefMedlineGoogle Scholar
+30.Sullivan J, Sheppard L, Schreuder A, Ishikawa N, Siscovick D, Kaufman J. Relation between short-term fine-particulate matter exposure and onset of myocardial infarction.Epidemiology. 2005; 16:41–48. doi: 10.1097/01.ede.0000147116.34813.56CrossrefMedlineGoogle Scholar
+31.Ho AFW, Zheng H, Earnest A, Cheong KH, Pek PP, Seok JY, Liu N, Kwan YH, Tan JWC, Wong TH, et al. Time-stratified case crossover study of the association of outdoor ambient air pollution with the risk of acute myocardial infarction in the context of seasonal exposure to the southeast Asian haze problem.J Am Heart Assoc. 2019; 8:e011272. doi: 10.1161/jaha.118.011272LinkGoogle Scholar
+32.Kuźma Ł, Pogorzelski S, Struniawski K, Bachórzewska-Gajewska H, Dobrzycki S. Exposure to air pollution-a trigger for myocardial infarction? A nine-year study in Bialystok: the capital of the Green Lungs of Poland (BIA-ACS registry).Int J Hyg Environ Health. 2020; 229:113578. 10.1016/j.ijheh.2020.113578CrossrefMedlineGoogle Scholar
+33.Robertson S, Miller MR. Ambient air pollution and thrombosis.Part Fibre Toxicol. 2018; 15:1. doi: 10.1186/s12989-017-0237-xCrossrefMedlineGoogle Scholar
+34.Lucking AJ, Lundbäck M, Barath SL, Mills NL, Sidhu MK, Langrish JP, Boon NA, Pourazar J, Badimon JJ, Gerlofs-Nijland ME, et al. Particle traps prevent adverse vascular and prothrombotic effects of diesel engine exhaust inhalation in men.Circulation. 2011; 123:1721–1728. doi: 10.1161/circulationaha.110.987263LinkGoogle Scholar
+35.Barath S, Mills NL, Lundbäck M, Törnqvist H, Lucking AJ, Langrish JP, Söderberg S, Boman C, Westerholm R, Löndahl J, et al. Impaired vascular function after exposure to diesel exhaust generated at urban transient running conditions.Part Fibre Toxicol. 2010; 7:19. doi: 10.1186/1743-8977-7-19CrossrefMedlineGoogle Scholar
+36.Smyth E, Solomon A, Birrell MA, Smallwood MJ, Winyard PG, Tetley TD, Emerson M. Influence of inflammation and nitric oxide upon platelet aggregation following deposition of diesel exhaust particles in the airways.Br J Pharmacol. 2017; 174:2130–2139. doi: 10.1111/bph.13831CrossrefMedlineGoogle Scholar
+37.Mutlu GM, Green D, Bellmeyer A, Baker CM, Burgess Z, Rajamannan N, Christman JW, Foiles N, Kamp DW, Ghio AJ, et al. Ambient particulate matter accelerates coagulation via an IL-6-dependent pathway.J Clin Invest. 2007; 117:2952–2961. doi: 10.1172/jci30639CrossrefMedlineGoogle Scholar
+38.Rao X, Zhong J, Brook RD, Rajagopalan S. Effect of particulate matter air pollution on cardiovascular oxidative stress pathways.Antioxid Redox Signal. 2018; 28:797–818. doi: 10.1089/ars.2017.7394CrossrefMedlineGoogle Scholar
+39.Münzel T, Gori T, Al-Kindi S, Deanfield J, Lelieveld J, Daiber A, Rajagopalan S. Effects of gaseous and solid constituents of air pollution on endothelial function.Eur Heart J. 2018; 39:3543–3550. doi: 10.1093/eurheartj/ehy481CrossrefMedlineGoogle Scholar
+40.Li H, Han M, Guo L, Li G, Sang N. Oxidative stress, endothelial dysfunction and inflammatory response in rat heart to NO2 inhalation exposure.Chemosphere. 2011; 82:1589–1596. doi: 10.1016/j.chemosphere.2010.11.055CrossrefMedlineGoogle Scholar
+41.Campen MJ, Lund AK, Doyle-Eisele ML, McDonald JD, Knuckles TL, Rohr AC, Knipping EM, Mauderly JL. A comparison of vascular effects from complex and individual air pollutants indicates a role for monoxide gases and volatile hydrocarbons.Environ Health Perspect. 2010; 118:921–927. doi: 10.1289/ehp.0901207CrossrefMedlineGoogle Scholar
+42.Peng RD, Chang HH, Bell ML, McDermott A, Zeger SL, Samet JM, Dominici F. Coarse particulate matter air pollution and hospital admissions for cardiovascular and respiratory diseases among Medicare patients.JAMA. 2008; 299:2172–2179. doi: 10.1001/jama.299.18.2172CrossrefMedlineGoogle Scholar
+43.Nuvolone D, Balzi D, Pepe P, Chini M, Scala D, Giovannini F, Cipriani F, Barchielli A. Ozone short-term exposure and acute coronary events: a multicities study in Tuscany (Italy).Environ Res. 2013; 126:17–23. doi: 10.1016/j.envres.2013.08.002CrossrefMedlineGoogle Scholar
+44.US Environmental Protection Agency.Integrated science assessment (ISA) for ozone and related photochemical oxidants (final report, April 2020). Accessed April 20, 2020. https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=348522Google Scholar
+45.Maclure M, Mittleman MA. Should we use a case-crossover design?Annu Rev Public Health. 2000; 21:193–221. doi: 10.1146/annurev.publhealth.21.1.193CrossrefMedlineGoogle Scholar
+46.Zeger SL, Thomas D, Dominici F, Samet JM, Schwartz J, Dockery D, Cohen A. Exposure measurement error in time-series studies of air pollution: concepts and consequences.Environ Health Perspect. 2000; 108:419–426. doi: 10.1289/ehp.00108419CrossrefMedlineGoogle Scholar
+47.Carvalho H. New WHO global air quality guidelines: more pressure on nations to reduce air pollution levels.Lancet Planet Health. 2021; 5:e760–e761. doi: 10.1016/s2542-5196(21)00287-4CrossrefMedlineGoogle Scholar
+
