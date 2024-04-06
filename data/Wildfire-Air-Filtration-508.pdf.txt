@@ -1,0 +1,1434 @@
+Evidence on the Use of Indoor Air Filtration as an  
+Intervention for Wildfire Smoke Pollutant Exposure
+A Summary for Health Departments
+BRACE Technical Report Series 
+Gregory Joseph,1,2 Paul J. Schramm,1 Ambarish Vaidyanathan,1  
+Patrick Breysse,3 Bradley Goodwin4
+1Climate and Health Program, Asthma and Community Health Branch, Division of Environmental Health 
+Science and Practice, National Center for Environmental Health, Centers for Disease Control and Prevention
+2Karna, LLC
+3Office of the Director, National Center for Environmental Health, Centers for Disease Control and Prevention
+4Division of Community Health Investigations, Agency for Toxic Substances and Disease Registry, Centers for 
+Disease Control and Prevention
+July 2020
+The findings and conclusions in this report are those of the author(s)  
+and do not necessarily represent the official position of the Centers for Disease Control and Prevention.  
+CS320255-A
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+ii
+A Summary for Health Departments
+iii
+Acknowledgements
+The authors would like to acknowledge  
+the contributors and reviewers of this document.
+Maria Mirabelli
+Asthma and Community Health Branch
+U.S. Centers for Disease Control  
+and Prevention
+Josephine Malilay
+Asthma and Community Health Branch
+U.S. Centers for Disease Control  
+and Prevention
+Alison Clune
+Office of Air and Radiation
+U.S. Environmental Protection Agency
+Lars Perlmutt
+Office of Air and Radiation
+U.S. Environmental Protection Agency 
+Serena Chung
+Office of Research and Development
+U.S. Environmental Protection Agency
+Amara Holder
+Office of Research and Development
+U.S. Environmental Protection Agency
+Stacey Katz
+Office of Research and Development
+U.S. Environmental Protection Agency
+Gail Robarge
+Office of Research and Development
+U.S. Environmental Protection Agency
+Jason Sacks
+Office of Research and Development
+U.S. Environmental Protection Agency
+Jeffery Williams
+California Air Resources Board
+California Environmental  
+Protection Agency
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+iv
+A Summary for Health Departments
+v
+Contents
+Executive Summary  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
+Background   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .2
+Wildfires . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Climate Change Impact on Wildfires  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Wildfires Smoke Impacts on Human Health  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+At-Risk Populations Affected by Wildfire Smoke  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Pregnant Women . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Children 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Older Adults  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Pre-existing Medical Conditions  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Low Socioeconomic Status  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Air Filtration: An Intervention for Wildfire Smoke Pollutant Exposure  .  .  .  .  .  .  .  .  .  .6
+HVAC Systems and Portable Air Cleaners. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Efficiency and Effectiveness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Standard Measures of Performance  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+MERV: The Measure for HVAC Fibrous Filters  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+CADR: Portable Air Cleaner Measure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Air Cleaning Technologies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Mechanical Filtration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Gas-phase Filtration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Electronic Filtration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Effectiveness in Reducing Pollutant Concentrations  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Summary of Evidence  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20
+Complementary Methods to Improve Air Filtration   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .21
+Selected Resources 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .22
+Appendix 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .23
+References   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .24
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+vi
+  
+A Summary for Health Departments
+1
+Executive Summary
+Over the last few decades, the United States has experienced an increase in frequency 
+of intense wildfires. Climate change has likely impacted these events through increased 
+summer and spring temperatures, drier vegetation, decreased precipitation in some 
+areas, and an increased probability of lightning storms.8,14,19 Wildfires have caused 
+billions of dollars in property damage and contributed to an estimated 339,000 
+premature deaths per year globally.7,30 Wildfires are also associated with negative health 
+outcomes. The smoke from wildfires contains gaseous pollutants and particulate matter 
+which are associated with multiple respiratory and cardiovascular illnesses.24 There is 
+evidence that certain populations are more vulnerable to the wildfire smoke exposure 
+than others, including older adults and infants, pregnant women, people with pre-
+existing medical conditions, and people of lower socio-economic status.23 Interventions 
+that effectively decrease wildfire smoke exposures can protect these vulnerable 
+populations as well as the health of the general public.
+This technical document summarizes the available peer-reviewed literature about 
+the effectiveness of air filtration as an intervention to decrease exposure to wildfire 
+smoke and protect health when sheltering indoors. It describes the different types of air 
+filtering technology and metrics for measuring air quality and summarizes the literature 
+on their effectiveness in protecting against the harmful air pollutants in wildfire smoke. 
+Relevant federal and state resources for local health professionals are listed.
+This review illustrates that proper air filtration is an effective method of reducing 
+certain wildfire smoke pollutants indoors and potentially limiting the risk of negative 
+health impacts associated with exposure to wildfire smoke.
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+2
+Background
+Wildfires  
+Photo of a wildfire.  
+Over the past three decades, the frequency of 
+wildfires in the United States has increased. In 
+addition, the duration of wildfires and average 
+amount of area burned have increased since 1987.1,2 
+“Megafires,” which are defined as wildfires that burn 
+over 100,000 hectares (ha), have also significantly 
+increased in frequency, intensity, and duration 
+over the last few decades.3,4 For instance, in 2018 
+California experienced one of its largest wildfires on 
+record (Mendocino Complex Fire—459,123 ha) and 
+its deadliest wildfire (Camp Fire—85 fatalities, 18,804 
+destroyed structures) in state history.5,6 The United 
+States Forest Service’s annual suppression cost 
+has exceeded a billion dollars for 13 of the 18 years 
+between 2000 and 2017;7 In contrast, annual suppression costs had never exceeded a 
+billion dollars from the years 1985 through 1999.2 These financial costs of wildfires are 
+damaging, but the personal cost is far greater. People in wildfire proximity have the 
+potential to lose their entire livelihood. Houses, cars, businesses and more are at risk 
+of destruction from these events, displacing thousands of people. Displaced people 
+put additional strain on community resources as some decide to leave their homes, 
+impacting neighboring communities.2 One of the biggest factors that influences the 
+increase in severity and frequency of wildfires is climate change.8  
+Climate Change Impact on Wildfires 
+Human behavior has a direct impact on climate change and the recent trends in 
+wildfires.9,10,11,12 As the earth’s climate changes, the effects on the environment and 
+weather patterns create an environment in some regions suitable to create large, 
+sustained wildfires.9,11,12 The Fourth National Climate Assessment demonstrates that 
+global average temperature measured both on land and in oceans has increased by 
+about 1.8°F from 1901 to 2016. Sixteen of the last 17 years have been the warmest ever 
+recorded by human observation. In the United States, the annual average temperature 
+has increased by 1.2°F for the period 1986–2016 and by 1.8°F relative to the beginning 
+of last century. Researchers project that additional increases in annual average 
+temperatures of about 2.5°F will take place over the next few decades, regardless of any 
+changes in human activity to mitigate the changes in climate. The frequency of cold 
+waves has dramatically decreased, while the frequency of heat waves has increased 
+since the mid-1960s.8 The increased heat caused by global warming creates drier 
+climates and even prolonged drought, which could make many environments more 
+susceptible to wildfires due to the flammability of fuel sources. Researchers predict 
+that climate change will increase the probability for megadroughts within the United 
+States.14 The increased temperatures also influence weather patterns. According to the 
+United States Forest Service, 46% of the National Forests and Grassland wildfires were 
+caused by lightning over the last decade.15 Lightning storms occur more frequently 
+A Summary for Health Departments
+3
+during higher temperatures than when it is cooler.16 Of all the lightning-caused fires 
+that occurred from 1994–2012, 78% of them occurred during the summer months.17 
+Between 1992 and 2015, 70% of the area burned in the western U.S. region was from 
+lightning-ignited wildfires and 27% of the area burned in the Southeastern U.S. resulted 
+from lightning-ignited wildfires.18 As the average temperature of the globe continues to 
+increase, the frequency of lightning storms will potentially increase as well, which could 
+increase the probability of lightning strikes.19  Lightning is the primary natural wildland 
+fire source, with an average of over 10,000 lightning-caused  fires reported each year.20 
+Wildfires Smoke Impacts on Human Health 
+Wildfire smoke is a major contributor to air 
+pollution. In 2014, wildfire smoke accounted 
+for approximately 30% of all fine particulate 
+emissions in the United States.21 The composition 
+of wildfire smoke is largely influenced by the type 
+of vegetation being burned, flame temperature, 
+weather conditions, and moisture content.22 
+The key primary emission of public health 
+concern from wildfires is particulate matter 
+(PM). Particulate matter varies in size, but 90% 
+of particulate mass produced by wildfires is fine 
+particulate matter, or PM2.5 (particulate matter 
+2.5µm in aerodynamic diameter or smaller).23 
+PM2.5 has significant health impacts if inhaled.23 
+Wildfires also produce harmful gases such as carbon monoxide (CO), nitrous acid 
+(HNO2), volatile organic compounds (VOCs), polycyclic aromatic hydrocarbons 
+(PAHs), nitrous oxide (N2O), nitrogen oxides (NOx), heavy metals, and other air 
+pollutants.23,24,25 These are just a few of the dangerous pollutants produced, but wildfire 
+smoke can be composed of thousands of different compounds.23 The smoke from 
+wildfires poses a significant danger to large areas of the country because it can travel 
+long distances under certain weather conditions.1,27 Because of this, there is potential for 
+smoke exposure even in areas not in direct danger of wildfire.1,28,29 
+There is evidence that suggests exposure to fine particulate matter from wildfire smoke 
+can be associated with premature mortality. Many studies have noted the positive 
+relationship between fine particulate matter exposure and mortality rates across the 
+globe.30,31,32,33 Wildfire smoke has been estimated to attribute to 339,000 deaths per year 
+globally, making wildfires an important contributor to global mortality.30 In addition 
+to contributing to mortality rates worldwide, wildfire smoke exposure has also been 
+associated with cardiovascular and respiratory morbidity.1,8,34 The 2019 EPA Integrated 
+Science Assessment on particulate matter highlights the current science on acute 
+health effects from particulate matter exposure (see Selected Resources).21
+Epidemiologic studies conducted over the last 50 years have demonstrated a 
+relationship between an increase in respiratory effects and exposure to wildfire smoke 
+pollutants, especially fine particulate matter (PM ).4,24,35,36,37,38
+2.5
+ PM2.5 can potentially 
+contribute to oxidative stress, inflammation, and cell toxicity.39 Increased exposure 
+to particulate matter has also been associated with a significant decrease in lung  
+Photo of wildfire smoke.
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+4
+functionality.40,41 During wildfire events, there is evidence of increases in hospital visits 
+pertaining to respiratory illnesses including asthma, bronchitis, and chronic obstructive 
+pulmonary disease (COPD).26,29,42,43
+Positive associations between wildfire smoke exposure and cardiovascular illness have 
+been reported in multiple studies.19,42,44 The particulate matter from wildfire smoke has 
+been associated with elevated blood pressure and heart rate along with decreased heart 
+rate variability.45,46 Recent studies have shown that during wildfire events, emergency 
+department visits for cardiovascular illnesses increase. The risk for out-of-hospital 
+cardiac arrests also increases during wildfire events.14 Extended exposure to the highly 
+polluted air caused by wildfires can significantly increase the risk of cardiovascular 
+disease-related mortality and nonfatal events.45
+At-Risk Populations Affected by Wildfire Smoke 
+Exposure to wildfire smoke poses a significant 
+danger to everyone. However, certain populations 
+may have a higher risk of experiencing negative 
+effects. This section gives a brief overview of 
+evidence of vulnerability.
+Pregnant Women
+Pregnant women may be particularly vulnerable to  
+the health impacts of wildfire smoke exposure.24,35,47  
+A study that analyzed the effects of long-range 
+wildfire smoke transport on pregnant women 
+found that exposure to wildfire smoke particulate 
+matter over the full gestation and during the second 
+trimester were positively associated with preterm birthrate. The researchers found that 
+each increase of 1 µg/m3 in the trimester-average wildfire smoke PM2.5 over the second 
+trimester was associated with 13.2% increase in odds of preterm birth.35 These results 
+were consistent with the findings of another study conducted in Brazil, which found 
+that the exposure to air pollutants in biomass burning during the second and third 
+trimesters of pregnancy were associated with low birth weight.33 A systematic review 
+of evidence highlighted that maternal inhalation of certain hydrocarbons found within 
+PM2.5 can lead to endocrine disruption, which could result in intrauterine fetal growth 
+retardation.47 Exposure to CO from biomass burning may result in the formation of 
+carboxyhemoglobin in the mother, which could potentially result in decreased delivery 
+of oxygen to the fetus. 
+Children
+Children are vulnerable to many environmental hazards due to the ongoing 
+development of their respiratory and immune systems.48 Exposure to pollutants in 
+wildfire smoke can exacerbate respiratory symptoms in children. A study analyzing the 
+effect of the 2003 southern California wildfires on children concluded that in homes 
+that had a “smell of fire smoke indoors” for more than six days, the rates of dry coughs 
+and sneezing increased threefold. The rates of wheezing increased more than threefold 
+and the rates of sore throats, physician visits and missed school increased twofold.49  
+Photo of a child using an inhahler. 
+A Summary for Health Departments
+5
+Another study was conducted focusing on the San Diego fires in 2007, where the 
+researchers found that among children (aged 0–4 years) emergency department visits 
+for respiratory related illnesses increased by 70% during the wildfire PM2.5 exposure 
+period.50 These findings were consistent with a study in Chile that found a 40% increase 
+in coughing symptoms among children after exposure to wildfire smoke pollutants.13
+Older Adults 
+Older adults are especially vulnerable to PM2.5.51 A study of the health impacts of 
+wildfire smoke pollutant exposure on elderly populations found that hospitalization 
+rates for asthma, bronchitis, and wheezing were positively associated with PM2.5 
+exposure during periods of wildfire smoke and concluded that the pollutants in wildfire 
+smoke can trigger acute respiratory responses.34 These results were consistent with 
+another study of cardiovascular and respiratory hospital admissions and exposure 
+to fine particulate matter (PM2.5) pollution from the California wildfires of 2003. The 
+researchers found a 10.1% increase in hospitalizations for asthma amongst the elderly 
+population per 10 µg/m3 increase of PM2.5 concentrations.36 The vulnerability of older 
+populations to wildfire smoke pollutants may be linked to their immunology. Older 
+people tend to have degraded immune systems, making them more vulnerable to the 
+health impacts of wildfire air pollutants.52
+Pre-existing Medical Conditions 
+People with certain illnesses prior to wildfire events have a higher risk of being 
+impacted by the pollutants present in the smoke. Multiple studies have found that 
+people with pre-existing respiratory and cardiovascular conditions have a higher risk 
+of experiencing exacerbated health symptoms during wildfire events.13,41,53 Studies 
+have found that individuals with certain respiratory conditions such as having small 
+airways26 and asthma54 exhibited worse symptoms and higher frequency of hospital 
+visits during wildfires. A study conducted on individuals with asthma during the 2007 
+San Diego wildfires found that exposure to wildfire air pollution was associated with 
+increased airway inflammation.55 
+Low Socioeconomic Status 
+Communities of low socioeconomic status (SES) may be particularly vulnerable to 
+the health impacts of wildfire smoke pollutant exposure. People with low SES tend 
+to have a higher prevalence of comorbid cardiovascular and respiratory illnesses 
+that would make them more susceptible to the effects of the smoke pollutants.56 SES 
+also influences individuals’ ability to access resources and adapt to disasters. Low 
+SES households are more likely to have poorer housing quality.57 The quality of the 
+buildings can play a large factor in the amount of exposure to harmful components of 
+wildfire smoke in indoor air. For instance, a study in Arizona suggested that households 
+with low SES tend to have more difficulty preparing for wildfire disasters and recovering 
+from them than high SES households.58 People of the lowest SES may not even have 
+structures to protect them from smoke pollutants. People experiencing homelessness 
+are already more susceptible to respiratory and cardiovascular illnesses due to poor 
+nutrition, environmental stressors, and crowding.59 Lack of suitable clean air structures 
+could make them more vulnerable to high exposure to pollutants, raising their risk of 
+exacerbated symptoms and preexisting health conditions.
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+6
+Air Filtration: An Intervention for Wildfire 
+Smoke Pollutant Exposure
+During wildfires, it is generally advised that people stay inside in order to protect 
+themselves from the heavy air pollution caused by the fires.23 Air pollution from wildfire 
+smoke still poses a significant danger to individuals that are indoors, as pollutants can 
+infiltrate structures through multiple points of entry. One of the most effective ways 
+to protect individuals from indoor wildfire smoke pollutant exposure and the health 
+impacts associated with it is to ensure that proper air filtration mechanisms are in place 
+during wildfire events.60 A wide variety of air filtration technologies are available to 
+protect individuals from fine particulate matter and harmful gases indoors. This section 
+will define key terms and summarize the main facts about the filtration technologies 
+(mechanical, electronic, gas), air devices (installed inside Heating, Ventilation, and 
+Air-Conditioning [HVAC] systems and Portable Air Cleaners), and standard measures 
+of performance (Minimum Efficiency Reporting Value [MERV] and Clean Air Delivery 
+Rate [CADR]). It will also provide a summary of evidence on the effectiveness of these 
+technologies in reducing wildfire smoke pollutants and evidence-based complementary 
+actions to aid in reducing pollutants within structures.
+HVAC Systems and Portable Air Cleaners
+Air filtration technology can be implemented in two ways: portable room air cleaners 
+and inside central Heating, Ventilation, and Conditioning (HVAC) systems. Both can 
+be effective in reducing indoor air pollution when the devices are outfitted with the 
+appropriate air filtration technology. There are significant differences when it comes  
+to functionality, cost, and noise that should be considered when deciding which method 
+to use.23
+HVAC systems filter air for the entire structure. The filters are typically installed in 
+the return-air ducts in a specific filter rack either at the base of the air-handling unit or 
+upstream in the return grills within the HVAC system. The filters only function when the 
+system is operating. Most HVAC systems can run as long as needed to filter indoor air 
+but are usually only operated when heating and cooling is necessary, which can be less 
+than 25% of the time during heating and cooling seasons in residential structures.61,84  
+In order for the system to filter indoor air during a wildfire, the HVAC system would 
+need to run for longer periods (See Complimentary Methods to Improve Air Filtration 
+Section). It can be relatively inexpensive to install a filter within an HVAC system. 
+However, certain structures may need to have an HVAC installed or retrofitted in order 
+to accommodate certain filters, which can be expensive. There is also a difference in price 
+when comparing HVAC filtration technology for a home and a commercial building.23,63
+Portable air cleaning devices are air filtration units that are designed to be mobile.  
+Unlike HVAC systems, which filter air throughout the whole structure, portable air 
+cleaners are designed to just clean the air in smaller spaces, such as individual rooms.  
+In order to effectively reduce pollutants throughout the entire structure, multiple 
+portable air cleaning devices may be needed due to this limitation. Portable cleaning 
+devices can be activated for as long as necessary to improve the air quality within its 
+vicinity. Portable cleaning devices are relatively cheap to install. Portable air cleaners 
+A Summary for Health Departments
+7
+tend to generate a lot of noise which could be disruptive to some people if they expect 
+to run the device overnight.23,63
+For these devices to effectively filter particles, it is important to adhere to proper 
+maintenance and filter replacement procedures. Maintenance neglect can inhibit 
+functionality and performance of the devices. Any owner should follow the 
+manufacturer recommendations when operating their air cleaning technology.63
+Photo of HVAC units. 
+Photo of a portable air cleaner. 
+Efficiency and Effectiveness
+When referring to air filtration and the use of portable air cleaners and HVAC system 
+filters, it is important to understand the difference between effectiveness and efficiency. 
+These measures are used to compare different technologies under similar conditions. 
+The EPA defines an air cleaner’s efficiency as a fractional measure of its ability to  
+reduce the concentration of pollutants in the air that passes once through the device. 
+Efficiency is usually measured in a laboratory setting, where all variables for testing can 
+be controlled.63
+The effectiveness of an air cleaning device is a measure of its ability to remove 
+pollutants from the spaces in which it is operated.  Effectiveness is used to describe an 
+air cleaners’ function in real-world scenarios. Unlike efficiency, which is strictly tested 
+in laboratory settings under highly controlled conditions, the effectiveness of an air 
+cleaning device is dependent on factors such as its location, installation, air flow rate, 
+and hours of operation.63
+Standard Measures of Performance 
+Multiple air cleaners are available to the general public, making it difficult to 
+understand which cleaners are most effective in reducing air pollutants within certain 
+structures.64 Currently, two main standards are used to measure performance for fibrous 
+air cleaners: MERV and CADR. No standards for efficiency currently exist for electronic 
+filters although testing standards are being created. Gas-phase filters are tested using 
+the ANSI/ASHRAE Standard 14.1-2015 and 145.2-2016, but there are no rating metrics 
+from the testing method.
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+8
+MERV: The Measure for HVAC Fibrous Filters 
+Multiple measures are used to evaluate the efficiency of particle removal within fibrous 
+filters. The most widely used fibrous media air filter test method for duct-mounted 
+particle filters in the United States is the American Society of Heating, Refrigerating 
+and Air-Conditioning Engineers (ASHRAE) Standard 52.2, which is a national 
+consensus standard that evaluates the removal efficiency for particles 0.3 to 10 µm  
+in diameter. Results are reported as a minimum efficiency reporting value (MERV) 
+based on the average removal efficiency across three particle size ranges, which are 
+0.3–1 µm, 1–3 µm, and 3–10 µm. The higher the MERV rating, the higher particle removal 
+efficiency of the filter. Only MERV 11 filters and above are specifically tested for  
+their ability to remove the smaller (0.3–1 µm) particles. MERV 11 filters must achieve  
+at least 20% efficiency for 0.3–1 µm particles, while MERV 13 and above require at least 
+50% efficiency for 0.3–1 µm particles.63 
+CADR: Portable Air Cleaner Measure
+Portable air cleaners have a metric that evaluates their effectiveness in reducing 
+airborne pollutants from the air. The clean air delivery rate (CADR), which was 
+developed by the Association of Home Appliance Manufacturers (AHAM), is a  
+measure that estimates the filtration effectiveness of reducing particle concentrations 
+in an occupied space, based on the maximum recommended floor area for the rated unit 
+expressed in cubic feet per minute. Similar to the MERV rating, CADRs are calculated 
+for three different size classes of particles: pollen (5 to 11 µm), dust (0.5 to 3 µm) and 
+tobacco smoke (0.09 to 1.0 µm).  Typically, a person will want a portable air cleaner  
+that is rated with a tobacco smoke CADR at least 2/3 of the room area in which it will be 
+placed.  For example, a unit with a CADR of 200 is appropriate for a room size of  
+300 ft2. Many of the portable air cleaners tested by AHAM have moderate to large 
+CADR ratings for small particles. Units tested by AHAM carry a verified label 
+suggesting the appropriate maximum room size for the cleaner.61,63
+A Summary for Health Departments
+9
+Air Cleaning Technologies
+Mechanical Filtration
+Fibrous Media Filter 
+According to ASHRAE, mechanical air filters use media with porous structures that 
+contain fibers or stretched membrane material in a variety of fiber sizes, densities, and 
+media extension configurations to remove particles from airstreams. Air is cleaned 
+when particles enter a filter and attach to the media, removing the particles from the air 
+as it passes through. The effectiveness of these filters in cleaning air is contingent on a 
+multitude of factors (Figure 1). Fibrous air filters can be made from a variety of different 
+materials that influence the effectiveness and efficiency of the filter.65 
+Figure 1: Factors that influence fibrous air filtration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■Particle size
+■Filter porosity
+■Dust loading conditions
+■Filter thickness
+■Electrostatic media
+■System/device runtime
+■Airflow
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+10
+Fibrous Media Filter Types
+MERV Ratings (ASHRAE Standard 52.2)86
+MERV RATING
+PARTICLE SIZE RANGE 
+(µM)
+EFFICIENCY
+APPLICATION
+1–4
+3.0–10.0
+<20%
+Minimum Equipment 
+Protection
+5–8
+3.0–10.0
+≥20% to <85%
+Minimum Particulate 
+Protection
+Residential Homes
+Commercial 
+Buildings
+9–12
+3.0–10.0
+1.0–3.0 
+≥85%
+<50 to ≥80
+Improved Particulate 
+Protection
+Industrial Buildings
+Commercial 
+Buildings
+Residential Buildings
+13–16
+3.0–10.0
+1.0–3.0
+0.30–1.0
+≥90%
+>90%
+<70 to ≥95
+Superior Particulate 
+Protection
+Smoke Removal 
+Healthcare Facilities
+General Surgery 
+Panel Filters (MERV 1–4) 
+Flat or panel filters are inexpensive filters consisting of coarse glass fibers, coated 
+animal hair, vegetable fibers, synthetic foams, metallic wools, synthetic fibers, or 
+expanded metals and foils. Panel filters have very low efficiency to remove most particle 
+sizes. These filters are commonly used in residential furnaces and air-conditioning 
+systems. They are also used as pre-filters for more efficient filters. Given its efficiency, 
+these filters are mostly used to protect HVAC equipment from buildup of materials in 
+the machinery than protect occupants from particulate matter.63
+Pleated, extended surface, and unpleated, pad filter (MERV 5–12)
+Compared to panel filters, pleated/unpleated pad filters generally have a higher 
+efficiency for most particle sizes. Pleating the filter increases its surface area and allows 
+for the use of smaller fibers and increased density of the filter fibers without reducing 
+airflow. The media used for pleated filters can be fiber mats, bonded glass fibers, 
+synthetic fibers, cellulose fibers, wool felt, and other cotton-polyester material blends. 
+These filters are more suitable for protecting occupants from certain types of particles 
+like dust and pollen.63
+A Summary for Health Departments
+11
+High efficiency filters (MERV 13 or higher)
+High-efficiency filters will have a higher average airflow resistance than medium-
+efficiency filters with the same thickness. The EPA recommends high efficiency filters 
+for residential and commercial buildings for their ability to protect occupants from 
+fine particulate matter. High Efficiency Particulate Air (HEPA) filters are categorized 
+as MERV 16 under the ASHRAE Standard 52.2, but undergo more specific testing and 
+are the most effective at removing fine and ultrafine particulate matter than lower rated 
+filters. HEPA filters are better than a standard MERV 16 filter and are generally used 
+in healthcare and industrial settings due to their efficiency in removing particles and 
+more narrowly defined performance characteristics. A HEPA filter is standardized at a 
+minimum 99.97% efficiency rating for removing particles at 0.3µm in diameter. Particles 
+that are larger or smaller than 0.3µm are trapped at even higher efficiencies, which make 
+HEPA filters effective in protecting occupants from particulate matter from smoke.61,63, 66
+Gas-phase Filtration
+Sorption Filters
+Gas-phase air filters use a material with a high surface area called sorbent to capture 
+gaseous pollutants. This is done through either adsorption or chemisorption. 
+Adsorption is a process that results from the physical attraction of gas or vapor 
+molecules to a surface. Chemisorption occurs when gas or vapor molecules chemically 
+react with the sorbent material or with reactive agents impregnated into the sorbent.29 
+The reaction forms compounds that can be bound to the media or broken down and 
+released into the air. Activated carbon is the most common filter used in HVAC systems 
+and portable cleaners for gaseous pollutant removal. It can potentially remove most 
+hydrocarbons, ozone, aldehydes, and organic acids, but is not effective against oxides 
+like sulfur, nitrogen oxide, and ammonia. Activated carbon filters are rarely found on 
+their own in air cleaners. They are usually used in addition with another air cleaning 
+technology, like a HEPA filter. Gas-phase filters are usually specifically designed 
+to address one or a limited number of gaseous pollutants and need to be replaced 
+frequently due to their limited lifespan. None are expected to remove all the gaseous 
+pollutants present in a typical home.61,63
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+12
+Electronic Filtration
+A few electronic air cleaning technologies can be used to filter indoor air pollutants: 
+electrostatic precipitators, ionizers, and ozone generators. Currently there are no widely 
+used standard measurements for the effectiveness of electronic air cleaners. 
+Electrostatic Precipitators
+Electrostatic precipitators (ESPs) are air cleaners that use an electrostatic process to 
+charge particles, which make them become attracted to the oppositely charged plates 
+inside the cleaner. ESPs remove and collect small airborne particles and often have an 
+initial single pass removal efficiency of 60% or more for most particle sizes, depending 
+on the airflow rate. ESPs can have different removal efficiencies for particles with 
+different compositions. This is because different particles have different electrical 
+properties that will affect their ability to hold a charge.63 
+Ion Generator
+Ion generators (Ionizers) use a high voltage wire or carbon fiber brush to electrically 
+charge air molecules, which produces negative ions that attach to airborne particles. 
+Ionizers are similar to ESPs but without the added collector, instead dispersing the 
+negatively charged particles in the air. The charged particles can attach to nearby 
+surfaces, like walls and furniture, or to one another and settle faster. Because ionizers 
+don’t typically use fans to move air past the cleaner, their CADRs are usually low for 
+most particle sizes. Ionizers can also be installed within HVAC systems.61,63
+Ozone Generators
+Both ESPs and ionizers can potentially produce ozone when operating. Ozone (O3) is 
+a known pulmonary irritant.61 Positive associations have been found between ozone 
+exposure and hospital admission visits for conditions such as pneumonia, asthma, 
+chronic obstructive pulmonary disease, and other respiratory illnesses. Increased 
+exposure to ozone has also been correlated with premature mortality.36 Ozone, through 
+potential secondary chemical reactions, can produce other harmful pollutants like 
+formaldehyde, which has been associated with negative respiratory health effects.67  
+The productions of this pollutant directly contrast with the goal of reducing harmful 
+irritants within structures. Ozone generators intentionally produce ozone in order 
+to create a chemical reaction with the harmful VOCs that produce a less harmful 
+substance like carbon dioxide. However, given the potential harm that ozone can cause, 
+ozone generators have not been recommended for use within structures.63,64,68 The 
+California Air Resources Board (CARB) requires that all air cleaners sold in California 
+be certified to meet electrical safety and ozone emissions standards and has created a 
+list of certified air cleaners for public use (See Selected Resources).69 
+A Summary for Health Departments
+13
+Effectiveness in Reducing Pollutant Concentrations 
+A literature search was conducted to find relevant studies pertaining to the 
+effectiveness of air cleaning technologies in substantially reducing air pollutants 
+prevalent in wildfire smoke (see Appendix for methodology). The tables below 
+summarize study characteristics and conclusions of highly relevant research. Detailed 
+summaries of each study follow the tables.
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+14
+Effectiveness of Mechanical Filters on Air Pollution Reduction
+Summary of Literature on Pollutant Reductions from Mechanical Filter Use
+STUDY
+STUDY CHARACTERISTICS
+POLLUTANT EXPOSURE 
+VARIABLE IMPACT
+MAIN CONCLUSION
+Barn et al. (2018)
+Randomized control group, 
+540 pregnant adult women, 
+Residential apartments, 
+portable HEPA filter air 
+cleaner, Secondhand smoke 
+pollution.
+PM2.5 (29%)  
+Portable air cleaners 
+substantially reduced indoor 
+ concentrations and 
+PM2.5
+secondhand smoke exposure.
+Chuang et al. (2017)
+Randomized crossover, 
+422 adult homeowners, 
+Residential Houses, 
+Mongolia, HVAC with filter, 
+General air pollution
+PM2.5 (57%)  
+VOC (33%)c  
+Findings suggest that air 
+conditioning with a HEPA filter 
+can be a simple and useful 
+method to reduce indoor air 
+pollution.
+Ward et al. (2017)
+Three arm randomized 
+placebo-controlled trial, 98 
+residential homes, Portable 
+HEPA filter air cleaner, Wood 
+stove smoke pollution.
+PM2.5 (68%)  
+HEPA filter air cleaners were a 
+relatively less expensive and 
+more efficacious intervention 
+than a wood stove changeout 
+intervention for lowering 
+exposure to wood stove 
+pollutants.
+Wheeler et al. (2014)a
+Randomized case-control 
+study, 31 residential homes, 
+Canada, portable HEPA filter 
+air cleaner, wood smoke 
+pollution.
+PM2.5 (52%)  
+The use of HEPA air cleaners 
+reduced exposures to indoor 
+ resulting from both 
+PM2.5
+indoor and ambient wood 
+smoke sources.
+Allen et al. (2011)a
+45 healthy adults, 
+Randomized crossover, 
+residential homes, portable 
+HEPA filter air cleaner, wood 
+smoke pollution.
+PM2.5 (60%)  
+Levoglucosan (75%)  
+Proper air filtration (HEPA) 
+can significantly reduce 
+woodsmoke pollutants like 
+PM2.5.
+Xu et al. (2010)a
+30 children with asthma, 
+Residential homes, portable 
+HEPA filter air cleaner, 
+general air pollution.
+PM10 (72%)  
+VOC (59%)c  
+CO2 (19%)  
+Use of HEPA filter/ventilator 
+proved to be effective in 
+reducing particle and gas 
+concentrations.
+CO (30%)  
+Barn et al. (2008)ab
+38 homes affected by either 
+wood smoke or forest fire 
+smoke, British Columbia, 
+89% CADR, portable HEPA 
+air cleaner, wildfire & wood 
+smoke pollution.
+Avg. Summer Finf (57%)  
+Avg. Winter Finf (79%)  
+Avg. Both Finf (75%)  
+Remaining indoors combined 
+with use of HEPA filter air 
+cleaner can effectively reduce 
+ exposure during forest 
+PM2.5
+fires and residential smoke 
+burning.
+Eggleston et al. (2005). 
+ Randomized controlled trial, 
+HEPA air filter, Homes with 
+asthmatic children
+PM10 (39%)  
+Environmental treatment 
+reduced indoor airborne 
+particulate matter.
+a = (µg/m3)
+b = Finf: PM Indoor infiltration rate
+c= Specific filters weren’t designed to reduce VOCs, so reasons for VOC reduction are unclear.
+A Summary for Health Departments
+15
+Barn et al. (2018)
+A study was conducted to determine the effectiveness of portable HEPA filter air 
+cleaners in reducing indoor particulate matter PM2.5 and secondhand smoke exposures 
+among non-smoking pregnant women in Ulaanbaatar, Mongolia. 540 participants were 
+randomly assigned to an intervention group which received one or two HEPA filter air 
+cleaners and a control group which received no air cleaners. The researchers monitored 
+259 intervention and 253 control participants to the end of their pregnancy. Residential 
+indoor and outdoor PM2.5 concentrations were measured in early and late pregnancy. 
+The blood samples of 382 participants were collected by a nurse and analyzed for 
+cadmium during late pregnancy. Hair samples were also collected and analyzed for 
+nicotine as an indicator for secondhand smoke exposure. The researchers used a mixed-
+effects and multiple linear regression models and used stratified models and interaction 
+terms to evaluate potential modifiers of effectiveness. Indoor PM2.5 concentrations were 
+29% lower in the intervention group. Blood cadmium concentrations were 14% lower 
+in intervention group due to reduced pollutant exposure. Researchers concluded that 
+HEPA filter air cleaners can lower indoor PM2.5 concentrations and secondhand smoke 
+exposures in highly polluted settings.70
+Chuang et al. (2017)
+A study was conducted on whether there was an association between air pollution 
+filtration and cardiovascular health. The researchers recruited 200 adult homemakers 
+and randomly assigned 100 of them to either an air filtration intervention or control 
+intervention. The subjects who were assigned to the air filtration group in 2013 were 
+assigned to the control group in 2014, while the people who were assigned to the 
+control group in 2013 were assigned to the filtration group in 2014. Measurements were 
+taken for PM2.5 and total VOCs. The blood pressure of the participants was monitored, 
+and blood samples were collected after air pollution monitoring. The researchers used 
+mixed-effects models to investigate the associations among pollution measurements, 
+biological markers, and blood pressures. The participants in the air filtration 
+intervention group experienced less exposure to VOCs and PM2.5 and had improved 
+cardiovascular health markers. Researchers concluded that long-term filtration lowered 
+exposure to particulate matter and VOCs and affected cardiovascular health.71
+Ward et al. (2017)
+A study was conducted to assess the efficacy of residential interventions to reduce 
+indoor particulate matter exposure from wood stoves. The researchers enacted a three-
+arm randomized placebo-controlled trial, with the interventions of air filtration and 
+wood stove changeouts being evaluated. The outcomes variables being monitored 
+were PM2.5 concentrations and carbon monoxide. 16 homes received the wood stove 
+changeout, 40 homes received a placebo filter, and 42 homes received the HEPA air 
+cleaner. The variables were collected before and after the interventions and linear 
+mixed models were used to account for the dependence of repeated measures of 
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+16
+indoor air quality in the same home and were used to evaluate whether pre- to post 
+intervention changes in indoor air quality concentrations differed significantly by 
+interventions. PM2.5 concentrations were reduced by 68% in the filtration intervention 
+group, whereas no significant reductions in PM2.5 were observed in the placebo filter 
+intervention group or wood stove changeout group. The researchers concluded 
+that HEPA filter air cleaners were a relatively less expensive and more efficacious 
+intervention for lowering exposure to wood stove pollutants.72
+Wheeler et al. (2014)
+A study was conducted to evaluate the effectiveness of air cleaners in reducing wood 
+smoke associated PM2.5. Thirty-one homes were monitored for three consecutive 
+days each, with two homes monitored concurrently per week. Homes were randomly 
+assigned to a filtration intervention group and control group. Homes used their wood 
+burning appliance as usual on day 1. On days 2 and 3, the wood smoke appliance was 
+not operated, and the HEPA filter air cleaner was activated (if assigned to intervention 
+group). The PM2.5 concentrations were monitored, along with the infiltration factor.  
+The infiltration factor (Finf) is defined as the fraction of ambient particles that penetrate 
+indoors and remain suspended under steady-state conditions. The researchers found 
+that when the air cleaner was operating, the total indoor PM2.5 levels were significantly 
+lower than in the control group, with median reductions of 52%. There was also a 
+reduction in the median PM2.5 Finf from .56 to .26, suggesting that the HEPA filter  
+air cleaner was responsible for increased PM deposition during filtration days.  
+The researchers concluded that the use of HEPA air cleaners reduced exposures to 
+indoor PM2.5 resulting from both indoor and ambient wood smoke sources.73 
+Allen et al. (2011)
+A study was conducted to assess a HEPA portable air filter’s effectiveness in 
+lowering indoor pollutants from wood smoke and improving cardiovascular health 
+outcomes. The researchers recruited 45 healthy adults and conducted a randomized 
+crossover intervention study that exposed them to consecutive 7-day periods of 
+filtered and nonfiltered air. PM2.5 was monitored for the indoor air pollutant measure.  
+The researchers used mixed models to account for measurements clustered within 
+individuals and individuals clustered within homes. They explored effect modification 
+by filtration/placebo order, age, sex, overweight, time spent indoors at home, and  
+wood stove use. Averages of indoor infiltration factor (Finf) for PM2.5 were significantly 
+lower during HEPA filtration, with nearly 60% reductions in average concentrations. 
+The HEPA filters reduced indoor PM2.5 in 24 of 25 homes and were associated with 
+positive increases in selected cardiovascular health markers. The researchers concluded 
+that proper air filtration can significantly reduce woodsmoke pollutants like PM2.5, 
+which can favorably influence cardiovascular morbidity.74
+Xu et al. (2010)
+A study was conducted to monitor how a HEPA air cleaner/ventilator would improve 
+respiratory health of children with asthma. Thirty children with asthma were recruited 
+and randomly assigned to a control group and a filtration group. For the first six weeks 
+the filtration group had air cleaning/ventilation units running in their bedrooms and 
+the control group did not. During the second six weeks, both groups had air cleaning/
+A Summary for Health Departments
+17
+ventilation units running. The parameters of indoor air quality were temperature, 
+VOC, CO, CO2, and PM10 concentrations. The researchers monitored exhaled breath 
+condensate (EBC) for nitrate and pH to measure pulmonary inflammation and 
+peak expiratory flow (PEF). They also measured peak expiratory flow. ANOVA was 
+performed on the raw health marker data to test the treatment levels for the different 
+HEPA status (on/off). The researchers found that there were average reductions in the 
+pollutants of PM10, VOCs, CO, and CO2 by 72%, 59%, 30%, and 19% respectively when the 
+air cleaner was operating. There was also less pulmonary inflammation and an increase 
+in PEF in the children who had an air cleaner/ventilator operating in the room. These 
+results indicate that air cleaning in combination with ventilation can effectively reduce 
+symptoms for asthma sufferers.75
+Barn et al. (2008) 
+A study was conducted to address the effectiveness of HEPA filter air cleaners on 
+indoor pollutants from forest fires. The researchers collected valid indoor/outdoor 
+1-minute PM2.5 averages and 48-hour outdoor PM2.5 samples for 19 winter and 13 summer 
+homes impacted by wood burning and forest fire smoke respectively during 2004–2005. 
+Portable HEPA filter air cleaners were operated indoors with the filter removed for one 
+of two sampling days. The researchers conducted modeling in order to measure the 
+indoor filtration factor (Finf) of PM2.5 from forest fires/wood smoke. Particle Finf and  
+air cleaner effectiveness (ACE) were calculated for each home with a recursive model. 
+The researchers found significantly lower Finf values in the homes when the air cleaner 
+was run with the HEPA filter. PM2.5 was decreased with air cleaner use for 9 out of 10 
+homes sampled in the summer and 14 out of 16 houses sampled in the winter.  
+The researchers concluded that remaining indoors combined with use of a HEPA filter 
+air cleaner can effectively reduce PM2.5 exposure during forest fires and residential 
+smoke burning.76
+Eggleston et al. (2005)
+A study was conducted to monitor if reducing airborne pollutants inside homes would 
+reduce asthma morbidity in children. An initial evaluation that included interviews, 
+allergen tests, home inspections, and pollutant measurements was implemented to 
+locate suitable candidates for the study.  100 asthmatic children were randomized 
+to a treatment group, which were households that were provided with pest and mice 
+extermination services, HEPA filters, and allergen-free mattress and pillow casings,  
+and a control group, which received no interventions until after the 1 year period.  
+The outcome variables monitored were particulate matter concentration, allergens,  
+and asthma symptoms. The researchers evaluated the differences in outcomes between 
+the two groups at 6 and 12 months. Within the treatment group, the PM10 concentrations 
+decreased 30% at 6 months and 39% at 12 months in comparison to the respective 
+8% and 5% increases in concentrations within control group. There were reductions 
+in indoor allergen levels in the intervention group, as well. Daytime symptoms 
+significantly decreased under the intervention group. Researchers concluded that a 
+tailored, multifaceted environmental treatment reduced airborne particulate matter  
+and indoor allergen levels in inner-city homes, which, in turn, had a modest effect  
+on morbidity.77
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+18
+Effectiveness of Electrostatic Precipitators (ESP) on Air Pollutant 
+Reduction 
+Summary of Literature on Pollutant Reduction from ESP Use
+STUDY
+STUDY 
+CHARACTERISTICS
+POLLUTANT EXPOSURE 
+VARIABLE IMPACT
+MAIN CONCLUSION
+Chen et al. (2015)a
+Randomized, double 
+blind crossover trial, 
+35 nonsmoking college 
+students, Shanghai 
+college dormitories, 
+portable ESP air cleaner, 
+general air pollution. 
+PM2.5 (57%) ▼
+The intervention of air 
+purification demonstrated 
+clear cardio-pulmonary 
+benefits among healthy 
+adults in a Chinese city 
+with severe ambient 
+particulate air pollution.
+Weichenthal et al. (2013)ab Crossover study, 37 
+Canadian residents (20 
+homes), portable ESP 
+air cleaner, general air 
+pollution.
+Avg. PM10 (38%) ▼
+Avg. PM2.5 (37%) ▼
+Avg. PM1 (34%) ▼
+BTEX (7%) ▼
+Portable indoor air filters 
+may offer substantial 
+reductions in indoor 
+particulate matter, and 
+such reductions may be 
+associated with improved 
+lung function.
+Hart et al. (2011)ac
+Crossover study, two 
+residential homes, 
+portable ESP air cleaner, 
+wood stove smoke 
+pollution.
+PM10 (61%, 78%) ▼
+PM5 (63%, 81%) ▼
+PM2.5 (61%,84%) ▼
+PM1 (63%, 85%) ▼
+A portable air cleaner 
+may effectively reduce 
+indoor particulate matter 
+concentrations associated 
+with wood combustion 
+during home heating.
+▼
+PM0.5 (66%, 83%) 
+▼
+PM.0.3 (65%, 82%) 
+Henderson et al. (2005)a
+Randomized controlled 
+trial, two residential 
+homes, portable ESP air 
+cleaner, wildfire smoke 
+pollution.
+▼
+PM2.5 (63-88%) 
+O3 (2-4ppm) ▲
+Indoor air filtration in 
+combination with closed 
+windows is effective in 
+reducing harmful wildfire 
+smoke pollutant exposure.
+a = (µg/m3)
+b = BTEX: sum of benzene, toluene, ethylbenzene, xylenes
+c = (Home A, Home B)
+Chen et al. (2015)
+A study was conducted to evaluate the effectiveness of ESP air cleaners in improving 
+cardiopulmonary health in China. The researchers enacted a randomized, double- 
+blind crossover trial among 35 healthy, nonsmoker college students in Shanghai.  
+The students lived in 10 dormitory rooms that were randomly assigned into two 
+groups of five. The groups alternated between using a real ESP air cleaner and a 
+placebo cleaner for 48 hours with a two-week washout period (where no cleaner was 
+being operated). The researchers monitored health impacts by measuring 14 markers 
+for inflammation, coagulation, vasoconstriction, lung function, and blood pressure. 
+A Summary for Health Departments
+19
+The researchers applied linear mixed-effect models to evaluate the effect of the air 
+cleaners on health outcome variables. Air purification resulted in an average 57% 
+reduction in PM2.5 concentration within hours of operation. Purification was also 
+significantly associated with decreases in geometric means of multiple inflammatory 
+and thrombogenic markers. The researchers concluded that the intervention of air 
+purification demonstrated clear cardio-pulmonary benefits among healthy adults in a 
+Chinese city with severe ambient particulate air pollution.78
+Weichenthal et al. (2013)
+A case-crossover study was conducted to examine how indoor air quality impacts 
+cardiorespiratory health within First Nation communities. The researchers recruited 
+37 residents within 20 homes. Each home was monitored over a three-week period and 
+was provided an electrostatic precipitator air cleaner for 1 week, a placebo air filter 
+for one week, and no filter (washout period) for one week. Pollution was measured by 
+monitoring the weekly average particulate matter concentrations (PM1, PM10, PM2.5), 
+VOCs concentrations, NO2 samples, and CO2 samples. Heath markers monitored 
+were blood pressure, reactive hyperemia index (RHI) and forced expiratory flow. The 
+researchers used linear model-effects models to examine the impact of indoor air filter 
+use on weekly changes in clinical measures (excluding washout period) adjusted for 
+potential time-varying factors. Indoor PM2.5, PM1, and PM10 decreased substantially 
+during air filter weeks relative to placebo. Filtration had little impact on the other 
+exposure pollutants monitored. The researchers concluded that portable indoor air 
+filters may offer substantial reductions in indoor particulate matter, and that such 
+reductions may be associated with improved lung function.79
+Hart et al. (2011)
+A study was conducted to evaluate the effectiveness of an electrostatic filter portable 
+air cleaner in reducing the particulate matter (PM10, PM2.5, PM1) within homes where a 
+wood stove is the sole heat source. The study was conducted in two homes in Montana 
+that contained wood burning stoves. Sampling of PM2.5 counts and mass concentrations 
+were conducted in each home for ten 24-hour periods. In each of the 24-hour periods, 
+an ESP air cleaner was operated on high for 12 hours (half of the period duration). The 
+remaining sample duration was conducted with the cleaner turned off. Occupants were 
+told to record any activities conducted inside the houses that could potentially create 
+more particulate matter. The researchers conducted multiple regression tests to analyze 
+the data. Home A’s mean 12-hour particle count and particle mass concentrations were 
+consistently lower when the air cleaner was on versus when it was off. The effectiveness 
+of the ESP filter was demonstrated in all particle sizes, ranging from 61% to 68% 
+reductions. House B’s mean 12-hour particle count and particle mass concentrations 
+were also significantly reduced when the ESP air cleaner was operated. There were 
+significant decreases in all particle sizes, ranging from 78% to 85% reductions. Findings 
+suggest that an ESP portable air cleaner may effectively reduce indoor particulate 
+matter concentrations associated with wood combustion during home heating.80
+Henderson et al. (2005)
+A study was conducted to understand the impacts of mitigation strategies for 
+residences impacted by scheduled prescribed burns and wildfires. Indoor and outdoor 
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+20
+PM2.5 concentrations from pairs of residences were monitored during one prescribed 
+burn and three wildfires during the 2002 fire season. The effect of ESP cleaners on 
+indoor PM2.5 concentrations was investigated, with a cleaner being given to one of 
+the houses in each pair. All occupants in the residences were told to keep all windows 
+closed and to record all activities that may be a source of particulate matter (like 
+cooking or cleaning). The researchers found that the homes that used the ESP cleaner 
+had reduced concentrations of PM2.5 by a range of 63–88%. The researchers concluded 
+that air filtration in combination with closed windows is an effective intervention for 
+reducing exposure to the harmful pollutants of wildfire smoke and prescribed burns.81
+Summary of Evidence 
+Several studies found beneficial impacts of implementing HEPA filter air cleaners 
+in order to reduce air pollutants prevalent in wildfire smoke. Most studies reported 
+a statistically significant reduction in particulate matter and a few studies have 
+reported reductions in other gaseous pollutants, such as VOCs and CO. In some 
+cases, researchers also found modest improvements in cardiorespiratory function 
+when implementing HEPA filter air cleaners. Based on the evidence, HEPA filter 
+implementation can potentially reduce exposure to wildfire smoke pollutants and  
+could mitigate negative health impacts. 
+A moderate amount of literature supports the effectiveness of ESP air cleaners in 
+reducing harmful air pollutants that are prevalent in wildfire smoke. Most studies 
+found a significant reduction in particulate matter and certain VOCs when operating 
+an ESP cleaner indoors. Henderson et al. (2005) cited noticeable ozone increases 
+when operating the ESP cleaner. Even though the evidence suggests that ESP filters 
+will reduce PM and pollutants in wildfire settings, the potential ozone production 
+from some of the devices can be dangerous to residents and should be considered.67 
+ 
+Referring to the CARB certified list of air cleaners when purchasing electronic air 
+cleaners could potentially mitigate dangerous ozone production within structures.69
+There is little evidence on gas-phase filters reducing wildfire smoke pollutants. Newer 
+air cleaning devices usually have sorbent filters in a addition to HEPA filters. Gas phase 
+air cleaners are not generally used by the general public and there are not any widely 
+used standardized measures for performance for gas filters in structures. An evaluation 
+of air cleaner effectiveness in reducing VOCs illustrated the efficiency of gas filters to 
+reduce the concentration of VOCs was inconsistent even when using the same model. 
+More research needs to be done on the effectiveness of gas filters in reducing harmful 
+gaseous pollutants.64,82
+Overall, HEPA filter and electrostatic precipitators seem to be effective in reducing 
+exposure to air pollutants produced by wildfires and can potentially limit the negative 
+health impacts from exposure as well. These findings are consistent with an evidence 
+review conducted by Barn et al. (2016), who also found a significant amount of evidence 
+to state that air filtration is an intervention that should be utilized during wildfires.60
+A Summary for Health Departments
+21
+Complementary Methods to Improve  
+Air Filtration 
+In addition to using effective air filtration technology to reduce pollutants within 
+structures, there are other methods that will aid in reducing exposure to harmful 
+wildfire smoke. Listed in the figure below are methods that will help filter the air and 
+create a “clean room” environment. 
+Figure 2: Methods to help improve air quality in combination with air filtration23
+ 
+ 
+ 
+■Stay indoors
+■Keep windows and doors closed 
+■Make sure air is not recycled from outsidea
+• If you have an HVAC system with a fresh air intake, set the system to recirculate 
+mode, or close the outdoor intake damper.81
+• If you have a window air conditioner, close the outdoor air damper. If you cannot 
+close the damper, do not use the window air conditioner. (Make sure that the seal 
+between the air conditioner and the window is as tight as possible).81
+• If you have an HVAC system which has a filter, you can set the fan to continuous 
+operation to pull indoor air through the filter, even when the HVAC system is not 
+actively heating or cooling or when the heat/cool is intermittent.61,84
+• If you have a portable air conditioner with a single hose, typically vented out of a 
+window, do not use it in smoky conditions. If you have a portable air conditioner 
+with two hoses, make sure that the seal between the window vent kit and the 
+window is as tight as possible.81
+ 
+ 
+ 
+ 
+■Reduce activities that might increase pollutants (smoking, wood smoke, cooking, 
+lighting candles) 
+■Do not vacuum anywhere in the house unless using a HEPA-filter equipped vacuum
+■Keep the room clean (use a damp cloth or mop)
+■Ventilate the room once outside air quality is improved
+a = Please refer to manufacturer for information on your specific air conditioning unit.
+These methods highlighted in Figure 2 in combination with using air filtration 
+technology will reduce harmful exposure to wildfire smoke pollutants and potentially 
+improve health outcomes. In addition, there may be cases to where the air quality is so 
+bad to where it is a direct harm to stay in certain structures, even with the appropriate 
+measures. If that happens, it is more advantageous to relocate to a safer area with 
+cleaner air.23
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+22
+Selected Resources
+Wildfire Smoke: A Guide for Public Health Officials—EPA:30
+https://www.airnow.gov/sites/default/files/2020-06/wildfire-smoke-guide-revised-2019.
+pdf
+Residential Air Cleaners Technical Summary—U.S. Environmental Protection Agency:63
+https://www.epa.gov/sites/production/files/2018-07/documents/residential_air_
+cleaners_-_a_technical_summary_3rd_edition.pdf
+Guide to Air Cleaners in the Home—U.S. Environmental Protection Agency:61
+https://www.epa.gov/sites/production/files/2014-07/documents/aircleaners.pdf
+Integrated Science Assessment for Particulate Matter—U.S. Environmental Protection 
+Agency:21
+https://www.epa.gov/isa/integrated-science-assessment-isa-particulate-matter
+Air Cleaning Devices for the Home—California Air Resource Board:84
+https://ww3.arb.ca.gov/research/indoor/acdsumm.pdf
+Residential Air Cleaner Evidence Review—National Collaborating Centre for 
+Environmental Health:63
+http://www.ncceh.ca/sites/default/files/Air_Cleaners_Oct_2010.pdf
+California Certified Air Cleaners – California Air Resource Board:69
+https://ww2.arb.ca.gov/our-work/programs/air-cleaners-ozone-products/california-
+certified-air-cleaning-devices
+Filtration in Institutional Settings during Wildfire smoke events—British Columbia 
+Centre for Disease Control:85
+http://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/
+Guidelines%20and%20Manuals/Health-Environment/WFSG_EvidenceReview_
+FiltrationinInstitutions_FINAL_v3_edstrs.pdf
+New Guidance of Residential Air Cleaners—ASHRAE:66
+https://www.epa.gov/sites/production/files/2019-09/documents/harriman_stephens_
+brennan_-_new_guidance_for_residential_air_cleaners_-_ashrae_journal_sept-2019._
+web_version.pdf
+A Summary for Health Departments
+23
+Appendix
+Methodology 
+An initial peer-reviewed and grey literature search was conducted in the winter of 
+2019-2020, utilizing Google Scholar. Additional subject matter expert input was 
+received from internal CDC staff, and EPA staff. The literature search focused on 
+finding relevant resources pertaining to climate change effects on wildfires, wildfire 
+smoke exposure effects on human health, and literature focusing on the effectiveness of 
+certain air cleaning technology and devices for reducing pollutants prevalent in wildfire 
+smoke. Based on initial search and discussion with internal and external partners, a 
+more comprehensive narrative review was conducted with the assistance of the CDC 
+Library using CAB Abstracts, Embase, Medline, and Scopus. The Library found 1486 
+sources using the designated search terms (Figure 3). All sources were reviewed, 
+and the most relevant literature was compiled into a separate database which was 
+used for the document. The database contained 200 articles. Additional articles were 
+identified through snowball searching by examining citations and “cited by” references. 
+Additional citations and resources were recommended by CDC staff, the author team, 
+reviewers, and subject matter experts.
+Figure 3: Literature Search Terms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■Air cleaner
+■Air filter
+■Air purifier
+■Air quality
+■Asthma
+■Cardiovascular 
+■Children
+■Climate change
+ 
+ 
+ 
+ 
+ 
+ 
+■Electrostatic precipitator
+■Elderly
+■Fine particulate matter
+■Health effects 
+■HEPA
+■High-efficiency
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■Houses
+■HVAC
+■Industrial   
+■Intervention
+■Ionizer
+■PAC
+■Portable air cleaner
+ 
+ 
+ 
+■Respiratory
+■Schools
+■Wildfire smoke
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+24
+References 
+1.
+Kinney, P. L. (2008). Climate Change, Air Quality, and Human Health. American Journal of Preventive 
+Medicine, 35(5), 459-467. doi:10.1016/j.amepre.2008.08.025
+2.
+Rossiello, M. R., & Szema, A. (2019). Health Effects of Climate Change-induced Wildfires and
+Heatwaves. Cureus, 11(5), e4771.
+3.
+Jones, G. M., Gutiérrez, R. J., Tempel, D. J., Whitmore, S. A., Berigan, W. J., & Peery, M. Z. (2016).
+Megafires: An Emerging Threat to Old-forest Species. Frontiers in Ecology and the Environment, 14(6),
+300-306. doi:10.1002/fee.1298
+4.
+Stephens, S. L., Burrows, N., Buyantuyev, A., Gray, R. W., Keane, R. E., Kubian, R., Lui, S., Seijo, F. Shu, L.,
+Tolhurst, K. G., van Wagtendonk, J. W. (2014). Temperate and boreal forest mega-fires: characteristics
+and challenges. Frontiers in Ecology and the Environment, 12(2), 115-122. doi:10.1890/120332
+5.
+Department of Forestry and Fire Protection, U.S. (2019). Top 20 Most Destructive California Wildfires.
+Retrieved from https://www.fire.ca.gov/media/11417/top20_destruction.pdf
+6.
+Department of Forestry and Fire Protection, U.S. (2019). Top 20 Largest California Wildifres. Retrieved
+from https://www.fire.ca.gov/media/11416/top20_acres.pdf
+7.
+NIFC. (2018). Federal Firefighting Costs (Suppression Only). Retrieved from https://www.nifc.gov/
+fireInfo/fireInfo_documents/SuppCosts.pdf
+8.
+GCRP, U. S. (2018). Our Changing Climate. In L. O. Mearns (Ed.), Impacts, Risks, and Adaptation in 
+the United States: Fourth National Climate Assessment (Vol. 2). Washington, D.C.: U.S. Global Change
+Research Program.
+9.
+Abatzoglou, J. T., & Kolden, C. A. (2011). Climate Change in Western US Deserts: Potential for
+Increased Wildfire and Invasive Annual Grasses. Rangeland Ecology & Management, 64(5), 471-478.
+doi:10.2111/rem-d-09-00151.1
+10.
+Groot, W. J. d., Flannigan, M. D., & Stocks, B. J. (2013). Climate Change and Wildfires. Retrieved from
+https://www.srs.fs.usda.gov/pubs/44494
+11.
+Harvey, B. J. (2016). Human-caused climate change is now a key driver of forest fire activity in the
+western United States. Proceedings of the National Academy of Sciences of the United States of 
+America, 113(42), 11649-11650.
+12.
+Williams, A. P., Abatzoglou, J. T., Gershunov, A., Guzman-Morales, J., Bishop, D. A., Balch, J. K.,
+& Lettenmaier, D. P. (2019). Observed Impacts of Anthropogenic Climate Change on Wildfire in
+California. Earth’s Future, 7(8), 892-910. doi:10.1029/2019ef001210
+13.
+Prieto-Parra, L., Yohannessen, K., Brea, C., Vidal, D., Ubilla, C. A., & Ruiz-Rudolph, P. (2017). Air
+Pollution, PM2.5 Composition, Source Factors, and Respiratory Symptoms in Asthmatic and
+Nonasthmatic Children in Santiago, Chile. Environment International, 101, 190-200.
+14.
+Godfree, R. C., Knerr, N., Godfree, D., Busby, J., Robertson, B., & Encinas-Viso, F. (2019). Historical
+Reconstruction Unveils the Risk of Mass Mortality and Ecosystem Collapse during Pancontinental
+Megadrought. Proc Natl Acad Sci U S A, 116(31), 15580-15589. doi:10.1073/pnas.1902046116
+15.
+F.S, U.S. (2019). Safe and Effective Wildfire Response. Retrieved from https://www.fs.usda.gov/
+managing-land/fire/response
+16.
+Romps, D. M., Seeley, J. T., Vollaro, D., & Molinari, J. (2014). Projected Increase in Ligtning Strikes in
+the United States due to Global Warming. Science, 346(6211), 851-854.
+17.
+Balch, J. K., Bradley, B. A., Abatzoglou, J. T., Nagy, R. C., Fusco, E. J., & Mahood, A. L. (2017). Human-
+started Wildfires Expand the Fire Niche across the United States. Proc Natl Acad Sci U S A, 114(11),
+2946-2951. doi:10.1073/pnas.1617394114
+18.
+Brey, S. J., Barnes, E. A., Pierce, J. R., Wiedinmyer, C., & Fischer, E. V. (2018). Environmental Conditions,
+Ignition Type, and Air Quality Impacts of Wildfires in the Southeastern and Western United States.
+Earth’s Future, 6, 1442–1456. https://doi.org/10.1029/2018EF000972
+19.
+Rodopoulou, S., Chalbot, M. C., Samoli, E., Dubois, D. W., San Filippo, B. D., & Kavouras, I. G. (2014). Air
+Pollution and Hospital Emergency Room and Admissions for Cardiovascular and Respiratory Diseases
+in Dona Ana County, New Mexico. Environmental Research, 129, 39-46.
+A Summary for Health Departments
+25
+20. Sopko, P., Bradshaw, L., & Jolly, M. (2016). Spatial Products Available for Identifying Areas of Likely 
+Wildfire Ignitions using Ligtning Location Data-Wildland Fire Assessment System (WFAS). Paper 
+presented at the 24th International Lightning Detection Conference, San Diego, California, USA. 
+21. EPA, U. S. (2017). Profile of Version 1 of the 2014 National Emissions Inventory. U.S. Environmental 
+Protection Agency. 
+22. Youssouf, H., Liousse, C., Roblou, L., Assamoi, E. M., Salonen, R. O., Maesano, C., Banerjee, S., & 
+Annesi-Maesano, I. (2014). Non-accidental Health Impacts of Wildfire Smoke. International Journal of 
+Environmental Research and Public Health, 11(11), 11772–11804. https://doi.org/10.3390/ijerph111111772
+23. EPA, U. S. (2019). Wildfire Smoke Guide for Public Health Officials. EPA: EPA 
+24. Cascio, W. E. (2018). Wildland fire smoke and human health. Science of the Total Environment, 624, 586-
+595. doi:10.1016/j.scitotenv.2017.12.086
+25. Stein, E. D., Brown, J. S., Hogue, T. S., Burke, M. P., & Kinoshita, A. (2012). Stormwater contaminant 
+loading following southern California wildfires. Environ Toxicol Chem, 31(11), 2625-2638. doi:10.1002/
+etc.1994
+26. Mirabelli, M. C., Kunzli, N., Avol, E., Gilliland, F. D., Gauderman, W. J., McConnell, R., & Peters, J. M. 
+(2009). Respiratory Symptoms Following Wildfire Smoke Exposure: Airway Size as a Susceptibility 
+Factor. Epidemiology, 20(3), 451-459. doi:10.1097/EDE.0b013e31819d128d
+27. Sapkota, A., Symons, J.M., Kleissl, J., Wang, L., Parlange, M.B., Ondov, J., Breysse, P.N., Diette, G., 
+Eggleston, P.A., Buckley, T.J. (2005). Impact of the 2002 Canadian Forest Fires on PM Air Quality in 
+Baltimore City. Environ. Sci. Tech. 39(1), 24-32.  
+28. Black, C., Tesfaigzi, Y., Bassein, J. A., & Miller, L. A. (2017). Wildfire Smoke Exposure and Human 
+Health: Significant Gaps in Research for a Growing Public Health Issue. Environ Toxicol Pharmacol, 
+55, 186-195. doi:10.1016/j.etap.2017.08.022
+29. Reisen, F., Duran, S. M., Flannigan, M., Elliott, C., & Rideout, K. (2015). Wildfire smoke and public health 
+risk. International Journal of Wildland Fire, 24(8). doi:10.1071/wf15034
+30. Johnston, F. H., Henderson, S. B., Chen, Y., Randerson, J. T., Marlier, M., Defries, R. S., Kinney, P., 
+Bowman, D. M., & Brauer, M. (2012). Estimated Global Mortality Attributable to Smoke from Landscape 
+Fires. Environmental Health Perspectives, 120(5), 695–701. https://doi.org/10.1289/ehp.1104422
+31. Kochi, I., Champ, P. A., Loomis, J. B., & Donovan, G. H. (2012). Valuing mortality impacts of smoke 
+exposure from major southern California wildfires. Journal of Forest Economics, 18(1), 61-75. 
+doi:10.1016/j.jfe.2011.10.002
+32. Nunes, K. V., Ignotti, E., & Hacon Sde, S. (2013). Circulatory Disease Mortality Rates in the Elderly and 
+Exposure to PM2.5 Generated by Biomass Burning in the Brazilian Amazon in 2005. Cadernos de 
+Saude Publica, 29(3), 589-598. 
+33. Sastry, N. (2002). Forest Fires, Air Pollution, and Mortality in Southeast Asia. Demography, 39(1), 1-23. 
+34. DeFlorio-Barker, S., Crooks, J., Reyes, J., & Rappold, A. G. (2019). Cardiopulmonary Effects of Fine 
+Particulate Matter Exposure among Older Adults, during Wildfire and Non-Wildfire Periods, in the 
+United States 2008-2010. Environmental Health Perspectives, 127(3), 37006. 
+35. Abdo, M., Ward, I., O’Dell, K., Ford, B., Pierce, J. R., Fischer, E. V., & Crooks, J. L. (2019). Impact of 
+Wildfire Smoke on Adverse Pregnancy Outcomes in Colorado, 2007-2015. Int J Environ Res Public 
+Health, 16(19). doi:10.3390/ijerph16193720
+36. Dennekamp, M., & Abramson, M. J. (2011). The effects of bushfire smoke on respiratory health. 
+Respirology, 16(2), 198-209. 
+37. Gan, R. W., Lassman, W., Ford, B., Pfister, G., Magzamen, S., Fischer, E. V., & Pierce, J. R. (2017). Spatial 
+and Temporal Estimates of Population Exposure to Wildfire Smoke during the Washington State 
+2012 Wildfire Season using Blended Model, Satellite, and In Situ Data. GeoHealth, 1(3), 106-121. 
+doi:10.1002/2017GH000049
+38. Gan, R. W., Liu, J., Ford, B., O’Dell, K., Vaidyanathan, A., Wilson, A., Volckens, J., Pfister, G., Fischer, 
+E.V., Pierce, J.R., Magzamen, S. (2020). The association between wildfire smoke exposure and asthma-
+specific medical care utilization in Oregon during the 2013 wildfire season. J Expo Sci Environ 
+Epidemiol. doi:10.1038/s41370-020-0210-x
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+26
+39. Adetona, O., Reinhardt, T. E., Domitrovich, J., Broyles, G., Adetona, A. M., Kleinman, M. T., Ottmar, 
+R. D., & Naeher, L. P. (2016). Review of the Health Wffects of Wildland Fire Smoke on Wildland 
+Firefighters and the Public. Inhalation Toxicology, 28(3), 95–139.
+40. Adetona, O., Hall, D. B., & Naeher, L. P. (2011). Lung Function Changes in Wildland Firefighters 
+Working at Prescribed Burns. Inhalation Toxicology, 23(13), 835-841. 
+41. Reid, C. E., & Maestas, M. M. (2019). Wildfire Smoke Exposure Under Climate Change: Impact on 
+Respiratory Health of Affected Communities. Current Opinion in Pulmonary Medicine, 25(2), 179-187. 
+42. Alman, B. L., Pfister, G., Hao, H., Stowell, J., Hu, X., Liu, Y., & Strickland, M. J. (2016). The Association 
+of Wildfire Smoke with Respiratory and Cardiovascular Emergency Department Visits in Colorado in 
+2012: A Case Crossover Study. Environmental Health, 15(1). doi:10.1186/s12940-016-0146-8
+43. Delfino, R. J., Brummel, S., Wu, J., Stern, H., Ostro, B., Lipsett, M., Winer, A., Street, D. H., Zhang, L., Tjoa, 
+T., & Gillen, D. L. (2009). The Relationship of Respiratory and Cardiovascular Hospital Admissions to 
+the Southern California Wildfires of 2003. Occupational and environmental medicine, 66(3), 189–197. 
+https://doi.org/10.1136/oem.2008.041376
+44. Wettstein, Z. S., Hoshiko, S., Fahimi, J., Harrison, R. J., Cascio, W. E., & Rappold, A. G. (2018). 
+Cardiovascular and Cerebrovascular Emergency Department Visits Associated With Wildfire Smoke 
+Exposure in California in 2015. Journal of the American Heart Association, 7(8), 11. 
+45. Brook, R. D., Rajagopalan, S., Pope, C. A., 3rd, Brook, J. R., Bhatnagar, A., Diez-Roux, A. V., Holguin, F., 
+Hong, Y., Luepker, R. V., Mittleman, M. A., Peters, A., Siscovick, D., Smith, S. C., Jr, Whitsel, L., Kaufman, 
+J. D., & American Heart Association Council on Epidemiology and Prevention, Council on the Kidney 
+in Cardiovascular Disease, and Council on Nutrition, Physical Activity and Metabolism (2010). 
+Particulate matter Air Pollution and Cardiovascular Disease: An Update to the Scientific Statement 
+from the American Heart Association. Circulation, 121(21), 2331–2378. https://doi.org/10.1161/
+CIR.0b013e3181dbece1
+46. Stowell, J. D., Geng, G., Saikawa, E., Chang, H. H., Fu, J., Yang, C. E., Zhu, Q., Liu, Y., & Strickland, M. J. 
+(2019). Associations of Wildfire Smoke PM2.5 Exposure with Cardiorespiratory Events in Colorado 
+2011-2014. Environment International, 133(Pt A), 105151. https://doi.org/10.1016/j.envint.2019.105151
+47. Glinianaia, S. V., Rankin, J., Bell, R., Pless-Mulloli, T., & Howel, D. (2004). Particulate Air Pollution 
+and Fetal Health: A Systematic Review of the Epidemiologic Evidence. Epidemiology, 15(1), 36-45. 
+doi:10.1097/01.ede.0000101023.41844.ac
+48. Black, C., Gerriets, J. E., Fontaine, J. H., Harper, R. W., Kenyon, N. J., Tablin, F., Schelegle, E. S., & Miller, 
+L. A. (2017). Early Life Wildfire Smoke Exposure Is Associated with Immune Dysregulation and Lung 
+Function Decrements in Adolescence. American Journal of Respiratory Cell and Molecular Biology, 
+56(5), 657–666. https://doi.org/10.1165/rcmb.2016-0380OC
+49. Künzli, N., Avol, E., Wu, J., Gauderman, W. J., Rappaport, E., Millstein, J., Bennion, J., McConnell, 
+R., Gilliland, F. D., Berhane, K., Lurmann, F., Winer, A., & Peters, J. M. (2006). Health Effects of the 
+2003 Southern California Wildfires on Children. American Journal of Respiratory and Critical Care 
+Medicine, 174(11), 1221–1228. https://doi.org/10.1164/rccm.200604-519OC
+50. Hutchinson, J. A., Vargo, J., Milet, M., French, N. H. F., Billmire, M., Johnson, J., & Hoshiko, S. (2018). 
+The San Diego 2007 Wildfires and Medi-Cal Emergency Department Presentations, Inpatient 
+Hospitalizations, and Outpatient Visits: An Observational Study of Smoke Exposure Periods and a 
+Bidirectional Case-crossover Analysis. PLoS Med, 15(7), e1002601. doi:10.1371/journal.pmed.1002601
+51. Le, G., Breysse, P.N., Eftim, S., McDermott, A., Geyh, A., Berman, J., Curriero, F. (2014) Canadian Forest 
+Fires and the Effects of Long-Range Transboundary Air Pollution on Hospitalizations Among the 
+Elderly. Journal of Geo-Information Special Issue:  Remote Sensing and Geospatial Technologies in 
+Public Health, 3(2), 713-731.
+52. Liu, J. C., Wilson, A., Mickley, L. J., Ebisu, K., Sulprizio, M. P., Wang, Y., Peng, R. D., Yue, X., Dominici, 
+F., & Bell, M. L. (2017). Who Among the Elderly Is Most Vulnerable to Exposure to and Health Risks 
+of Fine Particulate Matter From Wildfire Smoke?. American journal of epidemiology, 186(6), 730–735. 
+https://doi.org/10.1093/aje/kwx141
+53. Finlay, S. E., Moffat, A., Gazzard, R., Baker, D., & Murray, V. (2012). Health Impacts of Wildfires. PLoS 
+Currents, 4, e4f959951cce959952c. 
+A Summary for Health Departments
+27
+54. Reid, C. E., Considine, E. M., Watson, G. L., Telesca, D., Pfister, G. G., & Jerrett, M. (2019). Associations 
+Between Respiratory Health and Ozone and Fine Particulate Matter during a Wildfire Event. 
+Environment International, 129, 291-298. 
+55. Vora, C., Renvall, M. J., Chao, P., Ferguson, P., & Ramsdell, J. W. (2011). 2007 San Diego Wildfires and 
+Asthmatics. Journal of Asthma, 48(1), 75-78. 
+56. Rapheal, D. (2011). Poverty in Childhood and Adverse Health Outcomes in Adulthood. Maturitas, 
+69(1), 22-26. doi: 10.1016/j.maturitas.2011.02.011
+57. Nawrotzki, R. J., Brenkert-Smith, H., Hunter, L. M., & Champ, P. A. (2013). Wildfire-Migration Dynamics: 
+Lessons from Colorado’s Fourmile Canyon Fire. Society & Natural Resources, 27(2), 215-225. doi:10.1080
+/08941920.2013.842275
+58. Ojerio, R., Moseley, C., Lynn, K., & Bania, N. (2011). Limited Involvement of Socially Vulnerable 
+Populations in Federal Programs to Mitigate Wildfire Risk in Arizona. Natural Hazards Review, 12, 28-
+36. doi:10.1061/共ASCE共NH.1527-6996.0000027
+59. Insitute of Medicine, U. S. (1988). Health Problems of Homeless People. In Homelessness, Health, and 
+Human Needs (pp. 39-70). Washington D.C.: National Academies Press (US).
+60. Barn, P. K., Elliott, C. T., Allen, R. W., Kosatsky, T., Rideout, K., & Henderson, S. B. (2016). Portable Air 
+Cleaners Should be at the Forefront of the Public Health Response to Landscape Fire Smoke. Environ 
+Health, 15(1), 116. doi:10.1186/s12940-016-0198-9
+61. EPA, U. S. (2008). Guide to Air Cleaners in the Home. U.S. Environmental Protection Agency.
+62. EPA, U. S. (2018). Guide to Air Cleaners in the Home. U.S. Environmental Protection Agency.
+63. EPA, U. S. (2018). Residential Air Cleaners: A Technical Summary. U.S. Environmental Protection 
+Agency.
+64. Barn, P. (2010). Residential Air Cleaner Use to Improve Indoor Air Quality and Health: A Review of the 
+Evidence. British Columbia Centre for Disease Control: British Columbia Centre for Disease Control. 
+Retrieved from http://www.ncceh.ca/sites/default/files/Air_Cleaners_Oct_2010.pdf
+65. ASHRAE. (2015). ASHRAE Position Document on Filtration and Air Cleaning. Retrieved from https://
+www.ashrae.org/file%20library/about/position%20documents/filtration-and-air-cleaning-pd.pdf
+66. ASHRAE. (2019). New Guidance for Residential Air Cleaners. Retreived from https://www.epa.gov/
+sites/production/files/2019-09/documents/harriman_stephens_brennan_-_new_guidance_for_
+residential_air_cleaners_-_ashrae_journal_sept-2019._web_version.pdf
+67. Institute of Medicine. 2011. Climate Change, the Indoor Environment, and Health. Washington, DC: 
+The National Academies Press. https://doi.org/10.17226/13115
+68. Macintosh, D. L., Myatt, T. A., Ludwig, J. F., Baker, B. J., Suh, H. H., & Spengler, J. D. (2008). Whole 
+House Particle Removal and Clean Air Delivery Rates for In-Duct and Portable Ventilation Systems. J 
+Air Waste Manag Assoc, 58(11), 1474-1482. doi:10.3155/1047-3289.58.11.1474
+69. CARB. (2020). California Certified Air Cleaning Devices. California Air Resource Board. Retrieved 
+from https://ww2.arb.ca.gov/our-work/programs/air-cleaners-ozone-products/california-certified-air-
+cleaning-devices
+70. Barn, P., Gombojav, E., Ochir, C., Laagan, B., Beejin, B., Naidan, G., Boldbaatar, B., Galsuren, J., Byambaa, 
+T., Janes, C., Janssen, P. A., Lanphear, B. P., Takaro, T. K., Venners, S. A., Webster, G. M., Yuchi, W., 
+Palmer, C. D., Parsons, P. J., Roh, Y. M., & Allen, R. W. (2018). The Effect of Portable HEPA Filter Air 
+Cleaners on Indoor PM2.5 Concentrations and Second Hand Tobacco Smoke Exposure among 
+Pregnant Women in Ulaanbaatar, Mongolia: The UGAAR Randomized Controlled Trial. The Science of 
+the Total Environment, 615, 1379–1389. https://doi.org/10.1016/j.scitotenv.2017.09.291
+71. Chuang, H. C., Ho, K. F., Lin, L. Y., Chang, T. Y., Hong, G. B., Ma, C. M., Liu, I. J., & Chuang, K. J. (2017). 
+Long-term Indoor Air Conditioner Filtration and Cardiovascular Health: A Randomized Crossover 
+Intervention Study. Environment International, 106, 91-96. https://doi.org/10.1016/j.envint.2017.06.008
+72. Ward, T. J., Semmens, E. O., Weiler, E., Harrar, S., & Noonan, C. W. (2017). Efficacy of Interventions 
+Targeting Household Air Pollution from Residential Wood Stoves. Journal of Exposure Science & 
+Environmental Epidemiology, 27(1), 64-71. 
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+28
+73. Wheeler, A. J., Gibson, M. D., MacNeill, M., Ward, T. J., Wallace, L. A., Kuchta, J., Seaboyer, M., Dabek-
+Zlotorzynska, E., Guernsey, J. R., & Stieb, D. M. (2014). Impacts of Air Cleaners on Indoor Air Quality 
+in Residences Impacted by Wood Smoke. Environmental science & technology, 48(20), 12157–12163. 
+https://doi.org/10.1021/es503144h
+74. Allen, R. W., Carlsten, C., Karlen, B., Leckie, S., van Eeden, S., Vedal, S., Wong, I., & Brauer, M. (2011). 
+An Air Filter Intervention Study of Endothelial Function Among Healthy Adults in a Woodsmoke-
+Impacted Community. American Journal of Respiratory and Critical Care Medicine, 183(9), 1222–1230. 
+https://doi.org/10.1164/rccm.201010-1572OC
+75. Xu, Y., Raja, S., Ferro, A. R., Jaques, P. A., Hopke, P. K., Gressani, C., & Wetzel, L. E. (2010). Effectiveness 
+of Heating, Ventilation and Air Conditioning System with HEPA Filter Unit on Indoor Air 
+Quality and Asthmatic Children’s Health. Building and Environment, 45(2), 330-337. doi:10.1016/j.
+buildenv.2009.06.010
+76. Barn, P., Larson, T., Noullett, M., Kennedy, S., Copes, R., & Brauer, M. (2008). Infiltration of Forest 
+Fire and Residential Wood Smoke: An Evaluation of Air Cleaner Effectiveness. J Expo Sci Environ 
+Epidemiol, 18(5), 503-511. doi:10.1038/sj.jes.7500640
+77. Eggleston, P. A., Butz, A., Rand, C., Curtin-Brosnan, J., Kanchanaraksa, S., Swartz, L., Breysse, P., 
+Buckley, T., Diette, G., Merriman, B., & Krishnan, J. A. (2005). Home environmental intervention in 
+inner-city asthma: a randomized controlled clinical trial. Annals of Allergy, Asthma & Immunology: 
+Official Publication of the American College of Allergy, Asthma, & Immunology, 95(6), 518–524. https://
+doi.org/10.1016/S1081-1206(10)61012-5
+78. Chen, R., Zhao, A., Chen, H., Zhao, Z., Cai, J., Wang, C., Yang, C., Li, H., Xu, X., Ha, S., Li, T., & Kan, H. 
+(2015). Cardiopulmonary Benefits of Reducing Indoor Particles of Outdoor Origin: A Randomized, 
+Double-blind Crossover Trial of Air Purifiers. Journal of the American College of Cardiology, 65(21), 
+2279–2287. https://doi.org/10.1016/j.jacc.2015.03.553
+79. Weichenthal, S., Mallach, G., Kulka, R., Black, A., Wheeler, A., You, H., St-Jean, M., Kwiatkowski, R., 
+& Sharp, D. (2013). A Randomized Double-blind Crossover Study of Indoor Air Filtration and Acute 
+Changes in Cardiorespiratory Health in a First Nations Community. Indoor Air, 23(3), 175–184. https://
+doi.org/10.1111/ina.12019
+80. Hart, J. F., Ward, T. J., Spear, T. M., Rossi, R. J., Holland, N. N., & Loushin, B. G. (2011). Evaluating 
+the Effectiveness of a Commercial Portable Air Purifier in Homes with Wood Burning Stoves: A 
+Preliminary Study. Journal Of Environmental & Public Health, 2011, 324809. 
+81. Henderson, D. E., Milford, J. B., & Miller, S. L. (2005). Prescribed Burns and Wildfires in Colorado: 
+Impacts of Mitigation Measures on Indoor Air Particulate Matter. Journal of the Air & Waste 
+Management Association, 55(10), 1516-1526. 
+82. Chen, W., Zhang, J. S., & Zhang, Z. (2005). Performance of Air Cleaners for Removing Multiple Volatile 
+Organic Compounds in Indoor Air. ASHRAE Transactions: Symposia, 1101-1114. 
+83. EPA, U.S. (2020). Wildfires and Indoor Air Quality. Environmental Protection Agency. Retrieved from 
+https://www.epa.gov/indoor-air-quality-iaq/wildfires-and-indoor-air-quality-iaq
+84. CARB. (2014). Air Cleaning Devices for the Home. California Air Resources Board. Retreived from 
+https://ww3.arb.ca.gov/research/indoor/acdsumm.pdf
+85. CDC, B.C. (2014). Evidence Review: Filtration in Institutional Setting During Wildfire Smoke Events. 
+British Columbia Centre for Disease Control. Retreived from http://www.bccdc.ca/resource-gallery/
+Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Health-Environment/
+WFSG_EvidenceReview_FiltrationinInstitutions_FINAL_v3_edstrs.pdf
+86. ASHRAE. (n.d.). Top Ten Things Consumers Should Know About Their Air Conditioning. Retrieved 
+from https://www.ashrae.org/technical-resources/free-resources/top-ten-things-consumers-should-
+know-about-air-conditioning
+87. NAFA. (2018). Understanding MERV | NAFA User’s Guide to ANSI/ASHRAE 52.2. Retrieved from 
+https://www.nafahq.org/understanding-merv-nafa-users-guide-to-ansi-ashrae-52-2/
+A Summary for Health Departments
+29
+Evidence on the Use of Indoor Air Filtration as an Intervention for Wildfire Smoke Pollutant Exposure
+30

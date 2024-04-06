@@ -1,0 +1,470 @@
+A S H R A E J O U R N A L 
+ashrae.org 
+MARCH 2021
+38
+IEQ APPLICATIONS
+Column
+©ASHRAE www.ashrae.org. Used with permission from ASHRAE Journal at www.epa.gov. This article may not be copied nor distributed in either paper or digital form 
+without ASHRAE’s permission. For more information about ASHRAE, visit www.ashrae.org.
+Protecting Building 
+Occupants From Smoke 
+During Wildfire and 
+Prescribed Burn Events
+BY TOM JAVINS, P.E. LIFE MEMBER ASHRAE; GAIL ROBARGE; EMILY GIBB SNYDER, PH.D.; GREGORY NILSSON; STEVEN J. EMMERICH, FELLOW ASHRAE
+ASHRAE Guideline 44P, Protecting Building Occupants from Smoke During Wildfire and Prescribed 
+Burn Events, will provide HVAC and building measures to minimize occupant exposures 
+and health impacts from smoke during wildfire and prescribed burn smoke events. This 
+column summarizes the planning framework for Guideline 44P, which is being shared 
+by the guideline committee to provide immediate information on this pressing issue 
+while the committee continues work on the complete guideline. 
+The planning framework includes information 
+for building managers on developing their Smoke 
+Readiness Plan, preparing for smoke events by having 
+supplies on hand and testing procedures in advance, 
+and knowing when and how to implement measures in 
+their plans. The document, “Planning Framework for 
+Protecting Commercial Building Occupants from Smoke 
+During Wildfire Events,” can be found at https://tinyurl.
+com/yxyuqh72.
+What is the Concern and Who is at Risk?
+In 2020, in the U.S. alone, over 58,000 wildfires 
+occurred, burning more than 10 million acres 
+(4 million ha).1 Increasing numbers of wildfires and 
+large numbers of people living at wildland-urban inter­
+faces makes protecting building occupants from smoke 
+critically important. Wildfire smoke is composed of fine 
+particulate matter (PM2.5, particles less than 2.5 m 
+in diameter) and gases. Although wildfire smoke con­
+tains multiple contaminants, this document focuses 
+on controlling exposure to PM2.5. Breathing high con­
+centrations of these pollutants can cause respiratory 
+and cardiovascular health effects, especially for those 
+*To find out more about local ambient air quality see AirNow.gov and 
+state websites.3,4 The U.S. Air Quality Index, shown on AirNow.gov, 
+has six categories indicating levels of heath concern as a function of 
+PM2.5 concentrations.5
+Tom Javins, P.E., is a mechanical engineer at the University of Montana in Missoula, 
+Mont. Gail Robarge is a physical scientist and Emily Gibb Snyder, Ph.D., is a chemist 
+at the U.S. Environmental Protection Agency, Office of Research and Development in 
+Washington, D.C. Gregory Nilsson is a technical officer at National Research Council 
+Canada in Ottawa, ON, Canada. Steven J. Emmerich is Indoor Air Quality and Ventilation 
+Group Leader at the National Institute of Standards and Technology in Gaithersburg, Md.
+FIGURE 1 Process for making a building smoke ready.
+with preexisting conditions such as asthma or heart 
+disease.2 While most healthy people will recover quickly 
+from exposure to smoke during a wildfire episode, some 
+susceptible populations are also at greater risk of health 
+effects, including pregnant women, infants, children 
+and older adults.2
+When Do Building Managers Need to Take Action? 
+Knowing when to implement building measures is 
+critical for building managers. State and local health 
+departments may issue air quality notifications when 
+actions are needed to protect the public, and these noti­
+fications help building managers know when to initi­
+ate smoke mitigation efforts, outlined in their “Smoke 
+Readiness Plan.” Table 1 provides an easy to use decision 
+matrix to help managers know when to implement the 
+plan. The planning framework suggests that building 
+managers consider implementing the plan when smoky 
+conditions are likely to affect vulner­
+able populations.*
+What is the Scope of the Framework?
+This planning framework primar­
+ily focuses on reducing exposure to 
+particulate matter and applies to most 
+commercial buildings (e.g., retail, 
+office space), schools, multiunit resi­
+dential buildings and similar build­
+ings that use air-handling units to 
+provide HVAC. These recommendations are not intended 
+for single-family homes or individual dwelling tunits. 
+Health-care facilities and other specialized buildings 
+TABLE 1 Decision matrix for implementing the Smoke Readiness Plan.
+SMOKE CONDITIONSa
+ANSWERS
+ACTION
+Currently smoky? 
+Forecast to be smoky in the 
+coming days?
+No
+No
+Carry on with normal operations, and 
+have your Smoke Readiness Plan 
+prepared and ready.
+Currently smoky? 
+Forecast to be smoky in the 
+coming days?
+Yes
+No
+Consider implementing Smoke 
+Readiness Plan.
+Currently smoky? 
+Forecast to be smoky in the 
+coming days?
+No
+Yes
+Consider implementing Smoke 
+Readiness Plan.
+Currently smoky? 
+Forecast to be smoky 
+tomorrow?
+Yes
+Yes
+Implement Smoke Readiness Plan.
+aTo find out more about local ambient air quality see AirNow.gov 
+and state websites.3,4
+Before Wildfire Season 
+Develop a Smoke Readiness Plan
+• Perform Maintenance on HVAC 
+•  
+Upgrade System Filter and Test HVAC 
+• Optimize System Airflows
+• Add Supplemental Filtration
+•  
+Create Ability to Assess Filter Conditions
+• Limit Smoke Intrusion
+•  
+Add Ability to Monitor Indoor PM2.5
+•  
+Determine How to Create Temporary 
+Cleaner Air Spaces
+•  
+Anticipate Sources of Indoor PM2.5
+Wildfire Smoke
+Test HVAC 
+System in 
+Smoke Ready 
+Mode
+Look for 
+State/
+Local Air 
+Quality 
+Alerts
+Implement 
+The Smoke 
+Readiness 
+Plan
+Monitor the 
+Effectiveness 
+Of the Plan 
+and Adjust
+Operate 
+In Smoke 
+Ready Mode 
+Until Smoke 
+Subsides
+FIGURE 2 Flowchart for making a building smoke ready.
+Before Wildfire Season	
+Wildfire Smoke
+Develop Smoke 
+Readiness Plan
+(Modify/Maintain HVAC 
+To Remove Smoke From 
+Incoming Air, Prevent 
+Infiltration, Monitor 
+PM2.5, Plan Temporary 
+Cleaner Air Spaces)
+Test HVAC 
+System in 
+Smoke Ready 
+Conditions
+Is This System 
+Able to: 1) Operate 
+With MERV 13 
+Filters?
+2) Maintain
+Positive Building 
+Air Pressure?
+Implement Smoke 
+Readiness Plan
+Are the Actions 
+Reducing Indoor PM?
+Operate in Smoke 
+Ready Mode Until 
+Smoke Subsides
+Adjust Smoke 
+Readiness Plan
+Install a 
+Lower Rated 
+(Minimum 
+MERV 11) 
+Filter
+Plan for 
+Additional 
+Temporary 
+Cleaner Air 
+Spaces
+Check/Replace Filters, 
+Look For/Fix Cracks 
+in Building Envelope 
+and Reduce Indoor PM 
+Sources
+Create Additional 
+Temporary Cleaner Air 
+Spaces
+State/Local Air 
+Quality Alert
+If 
+Not
+If 
+Not
+MARCH 2021 
+ashrae.org 
+A S H R A E J O U R N A L
+39
+COLUMN IEQ APPLICATIONS
+A S H R A E J O U R N A L 
+ashrae.org 
+MARCH 2021
+40
+COLUMN IEQ APPLICATIONS
+should rely on qualified HVAC staff and consultants. 
+Ideally, quick implementation of temporary measures 
+will clean the air coming into the building and limit 
+infiltration of wildfire smoke. Some buildings and HVAC 
+systems are not designed and/or maintained to accom­
+modate the modifications recommended in the planning 
+framework. Appropriately sized portable air cleaners can 
+help create temporary cleaner air spaces. However, build­
+ing managers will need to assess whether these measures 
+are sufficiently reducing the levels of particulate matter. 
+The planning framework emphasizes assistance from an 
+HVAC professional is generally required to assess existing 
+HVAC equipment capabilities and implement portions of 
+these recommendations.
+Indoor air needs to be cleaned whether ventilating with 
+outdoor air or recirculating indoor air. To help build­
+ing managers accomplish this, the planning framework 
+outlines a process for making a building smoke ready 
+(Figure 1). Figure 2 provides a flowchart of actions within 
+this process, including assessing whether these actions 
+have been effective in reducing indoor PM2.5 levels. The 
+planning framework explains how and why they should 
+be taken before and during wildfire smoke episodes.
+The planning framework emphasizes a Smoke 
+Readiness Plan needs to be building-specific and 
+address the following:
+1.	 Purchase Smoke Preparation Supplies. Before wild­
+fire season, purchase materials and supplies needed for 
+the plan. For example, purchase portable air cleaners 
+and extra filters in advance, as they may become dif­
+ficult to find during a smoke event. Wildfire smoke can 
+quickly load filters (Figure 3) and they may need to be 
+changed as frequently as daily.
+2. Upgrade HVAC System Recirculation Filter.
+MERV 13 filters are recommended during smoke
+events. However, prior to wildfire season, HVAC
+systems must be assessed for the ability to function
+properly with the upgraded filters.
+3. Maintain the HVAC System. Repair broken
+dampers, actuators and HVAC controls prior to fire
+season. Pay special attention to the economizer because
+they can be complex and may not be installed correctly
+The economizer will need to be temporarily disabled.
+4. Optimize System Airflows. Assess and maintain
+adequate airflows that are protective of human health
+and equipment health during smoke events. Prior to
+wildfire season, determine an outdoor air intake level
+that controls odor, temperature, indoor contaminant 
+levels and maintains a positive building pressure 
+consistent with the building and HVAC system design.
+5. Prepare to Add Supplemental Filtration. During 
+a smoke event, add additional filtration at the intake 
+air vent where possible (Figure 4). A minimum of a 
+MERV 13 filter on the outdoor air intakes will capture a 
+large fraction of the PM2.5. Prior to fire season, inspect 
+the air intake and make a list of filters, tape, temporary 
+ducting materials and other items needed to mount filters 
+to the air intake with minimal bypass around the filter.
+6. Assess Filter Conditions. Prior to wildfire season,
+add a port or pressure gauge to measure the filter
+pressure drop on at least one air-handling unit. This
+will simplify determining when to change filters.
+7. Limit Smoke Intrusion. Prior to wildfire season,
+weatherize the building envelope, including doors and
+windows, to reduce infiltration by sealing and caulking
+cracks. Keep doors and windows closed to limit smoke
+intrusion.
+8. Prepare to Monitor Indoor PM2.5. Prior to wildfire
+. 
+season, purchase one or more low-cost air monitors 
+equipped with a PM2.5 sensor and install it in the 
+facility.6 These monitors will not be as accurate as 
+regulatory monitors but can show whether your 
+interventions are reducing indoor PM2.5. For example, 
+upward trends in PM2.5 levels can indicate that doors 
+FIGURE 3 A clean filter (left) and a filter heavily loaded with wildfire smoke (right).
+FIGURE 4 MERV 13 filter installed on an intake air vent.
+A S H R A E J O U R N A L 
+ashrae.org 
+MARCH 2021
+42
+COLUMN IEQ APPLICATIONS
+or windows are open, air filters are degrading or HEPA 
+room air purifiers should be turned on. Make a plan 
+for how the data from the monitor will be accessed and 
+the actions that will be taken during a smoke event.
+9. Determine How to Create Temporary Cleaner Air 
+Spaces. Determine how to create temporary cleaner 
+air spaces within the building prior to fire season. Use 
+portable room air cleaners of the appropriate size for the 
+room with HEPA filters (or other high efficiency filters) 
+and other methods to clean the air (see discussion 
+below). Some portable air cleaners come with indicators 
+that change color as the air quality improves. If the 
+cleaner does not come with an indicator function, it 
+may be helpful to purchase a low-cost air monitor to 
+determine whether the air is being cleaned. A low-
+cost air monitor may also help verify that the air is in 
+fact cleaner in the cleaner air space relative to other 
+spaces in the building. Avoid models of air cleaners that 
+produce ozone or generate ions (see list on California Air 
+Resources Board website).7
+10. Anticipate Sources of Indoor PM2.5. Cooking, 
+vacuum cleaning, use of printers or copiers and 
+smoking are examples of activities that increase indoor 
+PM2.5 levels.8 Understanding potential sources in the 
+building can assist in the reduction of these sources 
+during wildfire or prescribed burn events.
+The planning framework includes a full checklist to 
+determine whether the building HVAC system is ready 
+for smoke. A few issues include: Are outdoor dampers 
+working correctly? Is the outdoor air economizer work­
+ing and can it be shut off? Can the HVAC system use 
+MERV 13 filters?
+Pay Special Attention to Economizers
+The planning framework urges special attention to 
+economizers. Most rooftop units and larger HVAC sys­
+tems are equipped with an outdoor air economizer. To 
+save energy, the economizer uses outdoor air to replace 
+the mechanical cooling system when temperatures 
+allow. This can bring large amounts of smoke and partic­
+ulate matter into a building during wildfire season. The 
+economizer control also maintains a minimum outdoor 
+air damper position for ventilation, controls relief fans 
+and may close the outdoor damper when the building is 
+unoccupied. Care and regular maintenance are recom­
+mended to ensure the economizer operates as intended.
+Numerous manufacturers and control schemes exist 
+for economizers. Finding effective work-arounds to 
+temporarily limit the economizer damper operation in 
+response to wildfires is challenging. This framework rec­
+ommends investigating what actions are needed to limit 
+operations; this may include adding switches and con­
+trol relays. Other work-arounds may also be required, 
+such as placing the outdoor air damper in manual con­
+trol and setting the position to allow the minimum air 
+required for ventilation.
+SARS-CoV-2
+The planning framework recognizes that SARS-CoV-2 
+raises additional challenges. While HVAC filtration and 
+air cleaning recommendations for smoke and SARS-
+CoV-2 are similar due to comparable respirable particle 
+sizes, a low ventilation rate may be desirable for smoke 
+control9 and, in contrast, a high ventilation rate may 
+be needed to remove SARS-CoV-2 virus particles.10 The 
+building manager’s challenge is to monitor system com­
+ponents and indoor conditions and change system set­
+tings as outdoor air quality changes to balance potential 
+trade-offs between smoke and SARS-CoV-2 exposure. 
+Portable air cleaners with a HEPA filter may be helpful in 
+removing virus as well as smoke particles.
+Portable Air Cleaners
+If the HVAC system is not able to reduce the PM2.5 
+concentrations sufficiently throughout the building or 
+trade-offs are made to reduce potential SARS-CoV-2 
+exposures, a cleaner air space is needed. A portable air 
+cleaner with a HEPA filter (or other high efficiency fil­
+ter), appropriately sized for the space, is recommended. 
+Multiple devices may be needed for larger rooms. The 
+Association of Home Appliance Manufacturers has 
+developed a rating system and room size recommen­
+dations for portable air cleaners. The smoke clean air 
+delivery rate (CADR) is the rating for 0.09 to 1.0 micron 
+particles and represents the amount of clean air deliv­
+ered on the high-speed setting. Units with HEPA filters 
+(or other high efficiency filters) and low noise ratings are 
+recommended.11 
+While do-it-yourself room air cleaners using a box fan 
+and a MERV 13 furnace filter provide air cleaning simi­
+lar to a small room (100 ft2 [9 m2]) air cleaner, they are 
+noisier and should not be left unattended or placed near 
+water.12 The framework also recommends reading and 
+following the fan safety instructions.
+43
+Test the Smoke Readiness Plan Before Wildfire Season
+When the Smoke Readiness Plan is prepared and before 
+the start of wildfire season, the planning framework sug­
+gests testing the HVAC system with the additional filtra­
+tion and adjusted flow settings. Several non-functioning 
+items may exist that will take more time to fix than 
+emergency conditions allow. This test run, along with the 
+additional preparations outlined in the planning frame­
+work, should facilitate implementation of the Smoke 
+Readiness Plan when smoke occurs. For optimal results, 
+this framework suggests monitoring the effectiveness of 
+the plan over the course of the smoke event. At the end of 
+the wildfire season, any adjustments and lessons learned 
+should be incorporated into the Smoke Readiness Plan 
+to be better prepared for future smoke events. The full 
+guideline will build upon this planning framework, fur­
+ther fleshing out topics like design, installation and com­
+missioning of the components of a smoke-ready building 
+and system performance testing.
+Acknowledgments
+The planning framework was prepared and reviewed 
+by a Work Group of the GPC 44P committee includ­
+ing the following people: Tom Javins (Work Group 
+Chair), University of Montana, Retired; Alison Clune, 
+U.S. Environmental Protection Agency (EPA); Randall 
+Cooper, Association of Home Appliance Manufacturers; 
+Steven Emmerich, U.S. National Institute of Standards 
+and Technology; Michael Gallagher, Western Allied 
+Corporation; Duane Hammond, National Institute for 
+Occupational Safety and Health; Dr. Sarah Henderson, 
+B.C. Center of Disease Control, Canada; Stacey Katz, 
+EPA; Ann Kosmal, U.S. General Services Administration; 
+Gregory Nilsson, National Research Council Canada; 
+Gail Robarge, EPA; Emily Gibb Snyder, Ph.D., EPA; 
+Rebecca J. Schmidt, Ph.D., University of California, Davis 
+School of Medicine; David Schaaf, AAF Flanders; Kevin 
+Teichman, Ph.D., EPA, Retired; Amanda J. Wheeler, 
+Ph.D., Australian Catholic University.
+Disclaimer
+The views expressed in this article are those of the 
+authors and do not necessarily represent the views or 
+policies of the U.S. Environmental Protection Agency.
+References
+1.	 U.S. National Interagency Fire Center. 2021. “Fire Info.” 
+https://www.nifc.gov/fireInfo/nfn.htm
+2.	EPA. 2019. “Wildfire Smoke: A Guide for Public Health 
+Officials.” U.S. Environmental Protection Agency, with California 
+Air Resources Board, California Office of Environmental Health 
+Hazard Assessment, U.S. Centers for Disease Control and 
+Prevention and U.S. Forest Service. https://tinyurl.com/14kztn7s
+3.	EPA. 2021. AirNow website. U.S. Environmental Protection 
+Agency. https://www.airnow.gov/ 
+4.	EPA. 2020. “Smoke Advisories.” U.S. Environmental Protection 
+Agency. https://tinyurl.com/th2ksm8z
+5.	EPA. 2015. “Air Quality Guide for Particle Pollution.” U.S. 
+Environmental Protection Agency. https://tinyurl.com/y4dmkxnz
+6.	LBNL. 2020. “Low-Cost Home Air Quality Monitors Prove 
+Useful for Wildfire Smoke.” Lawrence Berkeley National Laboratory. 
+https://tinyurl.com/y2tapla3
+7.	 CARB. 2020. “Hazardous Ozone-Generating Air Purifiers.” 
+California Air Resources Board. https://tinyurl.com/y4aldpde
+8.	EPA. 2018. “Residential Air Cleaners: A Technical Summary.” 
+U.S. Environmental Protection Agency. https://tinyurl.com/52qctoyr
+9.	EPA. 2020. “Wildfires and Indoor Air Quality (IAQ).” U.S. 
+Environmental Protection Agency. https://tinyurl.com/5yaxs6kr
+10. ASHRAE Epidemic Task Force. 2021.”Building 
+Readiness.” ASHRAE. https://tinyurl.com/1mlbnl47
+11. AHAM. 2019. “Find a Certified Room Air 
+Cleaner.” Association of Home Appliance 
+Manufacturers. https://tinyurl.com/y5hfahlf
+12. Puget Sound Clean Air Agency. 2020. “DIY 
+Air Filter.” https://tinyurl.com/y4do38zu 
+https://bit.ly/3o6Pw0R
+Rate this Column
+Advertisement formerly in this space.

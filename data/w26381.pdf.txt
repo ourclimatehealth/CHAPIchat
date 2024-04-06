@@ -1,0 +1,1257 @@
+NBER WORKING PAPER SERIES
+RECENT INCREASES IN AIR POLLUTION:
+EVIDENCE AND IMPLICATIONS FOR MORTALITY
+Karen Clay
+Nicholas Z. Muller
+Working Paper 26381
+http://www.nber.org/papers/w26381
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+October 2019
+The authors thank Severin Borenstein, Akshaya Jha, Brian Kovak, Daniel Nagin, Joseph Shapiro, 
+Lowell Taylor, Xiao Wang and participants in the HILS seminar at CMU. Karen Clay 
+acknowledges financial support provided by Heinz College at Carnegie Mellon. The views 
+expressed herein are those of the authors and do not necessarily reflect the views of the National 
+Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been 
+peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies 
+official NBER publications.
+© 2019 by Karen Clay and Nicholas Z. Muller. All rights reserved. Short sections of text, not to 
+exceed two paragraphs, may be quoted without explicit permission provided that full credit, 
+including © notice, is given to the source.
+Recent Increases in Air Pollution:  Evidence and Implications for Mortality
+Karen Clay and Nicholas Z. Muller
+NBER Working Paper No. 26381
+October 2019
+JEL No. I10,Q51,Q52,Q53,Q54
+ABSTRACT
+After declining by 24.2% from 2009 to 2016, annual average fine particulate matter (PM2.5) in 
+the United States in counties with monitors increased by 5.5% between 2016 and 2018. Increases 
+occurred in multiple census regions and in counties that were in and out of attainment with 
+National Ambient Air Quality Standards (NAAQS). We explore channels through which the 
+increase may have occurred including increases in economic activity, increases in wildfires, and 
+decreases in Clean Air Act enforcement actions. The health implications of this increase in 
+PM2.5 between 2016 and 2018 are significant. The increase was associated with 9,700 additional 
+premature deaths in 2018. At conventional valuations, these deaths represent damages of $89 
+billion.
+Karen Clay
+Heinz College
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+and NBER
+kclay@andrew.cmu.edu
+Nicholas Z. Muller
+Department of Engineering, and Public Policy
+Tepper School of Business
+Carnegie Mellon University
+4215 Tepper Quad
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+and NBER
+nicholas.muller74@gmail.com
+1
+Introduction
+After a decade of improvement, annual average ﬁne particulate matter (PM2.5) in the
+United States increased in 2017 and again in 2018. These increases are worrisome, because
+previous studies have shown that PM2.5 increases premature mortality risk. This risk
+comprises the largest share of monetary damages from air pollution (United States En-
+vironmental Protection Agency, 1999, 2010a; Muller, Mendelsohn and Nordhaus, 2011).
+Drawing on data for 2009-2018, this paper documents trends in PM2.5 and the im-
+plications of these trends for mortality. Nationally, PM2.5 levels fell by 24.2% from 2009
+to 2016 and then increased 5.5% from 2016 to 2018. PM2.5 increased at monitors in the
+West and Midwest census regions and was ﬂat in Northeast and South census regions.
+Increases occurred in counties that were in and out of attainment with National Ambient
+Air Quality Standards (NAAQS).
+The paper explores channels through which the increases may have occurred, includ-
+ing increases in economic activity, increases in wildﬁres, and decreases in Clean Air Act
+enforcement actions. The evidence suggests that all three may have played roles in the
+observed increase. Diﬀerent types of economic activity are associated with diﬀerent sub-
+species of PM2.5. Trends in these subspecies are consistent with decreases in consumption
+of coal, increases in consumption of natural gas, and increases in fuel consumption by
+vehicles. For wildﬁres, omitting key wildﬁre months lowers the magnitude of the observed
+increases in PM2.5 in the West and Midwest from 2016 to 2018. The overall pattern of
+decline from 2009 to 2016 and then reversal, however, remains the same. The most fre-
+quent type of EPA Clean Air Act enforcement action that results in a penalty are 113d
+actions. 113d actions with penalties fell from 2009 to 2016 and continued to fall from
+2016 to 2018 in both attainment and nonattainment counties.
+While the causes of the increase in PM2.5 warrant further research, it is important
+to note that the documented increases in PM2.5 have health consequences. From 2016
+to 2018, premature deaths from PM2.5 rose by 9,700. At conventional valuations, these
+deaths represent damages of $89 billion (in $2016).
+2
+2
+Data amd Empirical Approach
+Data are from the Air Quality System (AQS) database of daily monitored readings pro-
+vided by United States Environmental Protection Agency (2019a). These data include
+total PM2.5 and three major species of PM2.5, ammonium nitrate, sulfate, and elemental
+carbon. Figure 1 shows the location of the 653 counties with monitors in our sample. The
+data encompass all observations in the contiguous United States from 2009 to 2018. This
+yields a dataset of over 1.8 million daily readings. NAAQS attainment status and histories
+are provided by United States Environmental Protection Agency (2019c). The analysis
+examines two deﬁnitions of nonattainment: nonattainment with standards relevant to
+PM2.5 levels including nitrogen dioxide, sulfur dioxide, and PM2.5 and nonattainment
+with any criteria pollutant.
+Our primary empirical speciﬁcation is:
+ln(PMj,m,d,t) = αj + γm + δd + βt + ϵj,m,d,t
+(1)
+The dependent variable is the natural log of PM2.5 (or its subspecies). It includes pollution
+monitor (j), month of year (m), day of month (d), and year (t) ﬁxed eﬀects. Standard
+errors are clustered at the monitor level.
+3
+Trends in PM2.5
+Figure 2 and column 1 of Table 1 show that the decline in PM2.5 pollution levels ended
+in 2016 and was followed by increases in 2017 and 2018. The aggregate decline from 2009
+to 2016 was 24.2%. By 2018, it had rebounded by 5.5% from its 2016 low. The annual
+average PM2.5 level across all monitors in 2016 was 7.51 µg/m3. Appendix Table A.1
+provides means for 2016 for outcomes in the regression tables and ﬁgures.
+Figure 3 and columns 2-5 of Table 1 show that PM2.5 pollution levels in all four Census
+regions stopped declining in 2016. Over 2016 to 2018, the Northeast and South census
+3
+regions saw no change in PM2.5, while the Midwest and West regions saw increases of
+9.3% and 11.5%. The average PM2.5 levels in 2016 for the Northeast, Midwest, South,
+and West were: 7.50, 7.19, 8.09, and 7.34 µg/m3. The patterns are similar in Appendix
+Table A.2, which is weighted by county population in 2016.
+Ambient air quality is managed under by the Clean Air Act primarily though the
+National Ambient Air Quality Standards (NAAQS). Counties are classiﬁed annually as
+being in or out of attainment with the NAAQS for the six criteria pollutants. In our
+main speciﬁcation, we consider a county in nonattainment if it is in nonattainment for
+PM2.5 or either of two precursor species, SO2 and NO2. In alternative speciﬁcations, we
+consider a county in nonattainment if it is in nonattainment for any criteria pollutant.
+Figure 4 and columns 1 and 2 of Table 2 show that PM2.5 began to increase after 2016
+for monitors located in both attainment and nonattainment counties. The aggregate de-
+cline from 2009 to 2016 was 21.7% in nonattainment counties and 23.9% in attainment
+counties. Between 2016 and 2018, pollution levels increased 8.1% in nonattainment coun-
+ties and 4.9% in attainment counties. The average PM2.5 levels in 2016 for nonattainment
+and attainment counties were: 8.73 and 7.05 µg/m3. Columns 3 and 4 of Table 2 present
+results if nonattainment is deﬁned as a county that is out of attainment for any of the
+criteria pollutants. The results are similar under this broader classiﬁcation.
+4
+Economic Activity, Wildﬁres, and Enforcement
+This section provides evidence on three possible channels through which the recent in-
+crease may have occurred: economic activity, wildﬁres, and enforcement.
+4.1
+Economic Activity
+To shed light on economic activity, we use speciated PM2.5 data, which consists of nitrate,
+sulfate, and elemental carbon. These species are useful for understanding the sources of
+pollution, because diﬀerent processes emit diﬀerent types of pollutants (United States
+4
+Environmental Protection Agency, 1998). For example, oxides of nitrogen (precursors
+to particulate nitrate) are emitted by industrial, household, and mobile sources. Sulfur
+dioxide is predominantly emitted by coal-ﬁred power plants (Zhang et al., 2014). In con-
+trast, natural gas-ﬁred power plants emit only trace amounts of sulfur dioxide. Elemental
+carbon is emitted by diesel vehicles, coal ﬁred power plants, and other industrial sources
+that utilize coal or fuel oil.
+Figure 5 and Table 3 show that sulfate, nitrate, and elemental carbon declined steeply
+from 2009 to 2016. From 2016 to 2018, sulfate continued to fall by 9.0%. In contrast,
+nitrate increased by 7.4% and elemental carbon rose by 20.7%. The average levels in
+2016 for sulfate, nitrate, and elemental carbon were: 0.76, 0.55, and 0.33µg/m3.
+The chemical composition of particulates point to increased use of natural gas and to
+vehicle miles traveled as likely contributors to the increase in PM2.5. Sulfate has declined,
+which is consistent with the decline in coal ﬁred power generation and increasing use of
+ﬂue-gas desulfurization in remaining plants. From 2009 to 2018, coal consumption by
+the electricity sector fell by 31.9% (Energy Information Administration, 2019a). The
+increase in nitrate is consistent with observed increases in natural gas consumption by
+households, power plants, and industry. Natural gas consumption during this period grew
+30.1% overall and consumption by the electricity sector rose 54.6% (Energy Information
+Administration, 2019b). From 2009 to 2018, vehicle miles increased by about 10% (Federal
+Highway Administration, 2019). Elemental carbon is primarily emitted when diesel fuel
+oil or biomass is burned.
+The pattern in Figure 5 for elemental carbon is robust to
+exclusion of summer wildﬁre months. Therefore, we conclude that the eﬀect is due to
+diesel vehicles, as well as some industrial boilers.
+4.2
+Wildﬁres
+Wildﬁres are another possible cause of the increase in PM2.5. Borgschulte, Molitor and
+Zou (2018) show that ﬁres frequently occur in the West and aﬀect air quality in the
+Midwest. Table 4 and Appendix Table A.3 examine the possible importance of wildﬁres
+5
+for the West, the Midwest, and for California by omitting June to September – the main
+wildﬁre season.1 We include California, because as we shall see later, it accounts for a
+large share of the increase in premature mortality in both years. The last column omits
+November in California, because there were two major wildﬁres in November 2018, the
+Camp and Woolsey ﬁres.
+The results in Table 4 and Appendix Table A.3 suggest that wildﬁres may account
+for some of the observed increase in PM2.5 from 2016 to 2018, but not for the general
+pattern of decline and then reversal. For example, in Table 4 over 2009-2016 when June
+to September are dropped, PM2.5 at the average monitor in the West decreased 23.5%, in
+the Midwest decreased 29.0%, and in California decreased 27.6%. It then increased from
+2016 to 2018 by 4.9% in the West, 4.2% in the Midwest, and 12.5% in California.
+4.3
+Enforcement
+Enforcement may inﬂuence ﬁrms’ compliance with the Clean Air Act. To explore en-
+forcement, we us the EPA’s ECHO database.
+The database includes many diﬀerent
+types of enforcement actions, not just those pertaining to air pollution. We report trends
+in enforcement actions targeting the Clean Air Act. More speciﬁcally, we focus on those
+actions resulting in a penalty for violations of section 113d of the Act. These are the
+most frequent type of action targeting the Clean Air Act and resulting in a penalty. Over
+3,000 such measures have been reported in the ECHO database since 2009.
+Figure 6 shows that 113d enforcement actions resulting in a penalty have been quite
+variable over time and have fallen from 2013 to 2018. Figure 7 provides graphs for counties
+by attainment status, where nonattainment refers to PM2.5, SO2, or NO2. Enforcement
+actions in attainment counties are similar to the patterns in Figure 6 – a decline from
+2013 on. Enforcement actions in nonattainment counties declined dramatically over time,
+especially since 2012. These declines could have been driven by many factors including
+increased compliance levels or changes in enforcement practices. The decline in enforce-
+1This is an imperfect solution, since some of the pollution during these months may come from
+increases in driving or increased use of electricity for air conditioning.
+6
+ment actions, however, is concerning in light of the increases in air pollution in both
+attainment and nonattainment counties after 2016.2
+5
+Implications for Mortality
+To explore the public health consequences of the increase in PM2.5, we employ the dam-
+age function approach used in EPA’s Beneﬁt-Cost Analyses of the Clean Air Act (United
+States Environmental Protection Agency, 1999, 2010a), the Regulatory Impact Analy-
+ses for PM2.5 (United States Environmental Protection Agency, 2010b), and numerous
+academic studies (Muller, Mendelsohn and Nordhaus, 2011; Muller, 2014). This strategy
+uses peer-reviewed epidemiological dose-response functions that link exposure to ambi-
+ent PM2.5 to elevated mortality rates (Krewski et al., 2009), along with vital statistics
+(population and mortality rates), by county. Further details on this calculation are in
+Appendix B.
+Table 5 presents the increases in annual deaths and damages from 2016 to 2017 and
+from 2016 to 2018. The number of premature deaths due to PM2.5 in counties with mon-
+itors increased by about 4,900 from 2016 to 2017 and 9,700 from 2016 to 2018. Valuation
+of mortality risk employs the Value of a Statistical Life (VSL) approach.(Viscusi and
+Aldy, 2003) We employ the EPA’s preferred VSL of $7.4 million, which we then convert
+to 2016 dollars (United States Environmental Protection Agency, 2019b) Applying the
+VSL to these eﬀects produces damages of $45 billion and $89 billion.
+About 80% of the burden of air pollution is borne by the elderly. While some deaths
+among the elderly are shifted by days or weeks, recent research suggests that the burden
+is ”concentrated among the elderly with ﬁve to ten years of remaining life expectancy,
+followed by those with two to ﬁve years remaining, because these groups represent a large
+2Interviews suggest that declines in federal enforcement may adversely aﬀect state enforcement (Vol-
+covici, 2019). Cynthia Giles, former head of the EPA’s Oﬃce of Enforcement and Compliance Assurance,
+wrote in April 2017: ”Don’t be fooled by the suggestion that if the EPA walks away, everything will still
+be ﬁne because states will step to the plate and enforce the law. The EPA’s retreat will only embolden
+industry and weaken states. If the EPA is not there to enforce laws, then in many cases no one will
+(Giles, 2017).”
+7
+fraction of the Medicare population and are also vulnerable to acute particulate matter
+exposure (Deryugina et al., 2019).”
+The ambient monitoring data suggest that PM2.5 increases were especially pronounced
+in California. In 2016, the readings across the state averaged 8.06 µg/m3. This increased
+to 9.68 µg/m3 in 2017, and 11.34 µg/m3 in 2018. Because of these large increases and the
+large exposed population in California, we ﬁnd that nearly 43% of the increase in deaths
+nationally from 2016 to 2018 occurred in California. California experienced numerous
+large wildﬁres. Table 5 presents deaths for California and for California dropping June
+to September. In contrast to the results for the United States, the number of deaths is
+very similar whether or not June to September are included.
+To further explore the inﬂuence of ﬁres, we conducted an additional exercise in which
+ambient PM2.5 readings from every month in 2017 and 2018 were dropped from the annual
+average PM2.5 calculations. This exercise ﬁnds that November 2018 had an outsized eﬀect
+on our mortality calculations. Without this month, the change in deaths from 2017 to
+2018 in California was 590 compared to over 2,000 when observations from November
+2018 are included. Importantly, the disastrous Camp Fire occurred during this month.
+No other month over the 2017 to 2018 time period in California has nearly as large an
+impact on our mortality calculations.
+6
+Conclusion
+After a long period of decline, PM2.5 in counties with monitors in the United States in-
+creased by 5.5% between 2016 and 2018. Increases occurred in multiple census regions and
+in counties that were in and out of attainment with National Ambient Air Quality Stan-
+dards (NAAQS). We examined evidence on economic activity, wildﬁres, and enforcement.
+The evidence is consistent with all three having contributed to the increase, although fur-
+ther research remains to be done on the relative eﬀects of the three and on other causes.
+The increase in PM2.5 was associated with 9,700 additional premature deaths in 2018.
+At conventional valuations, these deaths represent damages of $89 billion. The number
+8
+of deaths and the damages highlight the importance of air pollution as a policy issue.
+9
+References
+Borgschulte, Mark, David Molitor, and Eric Zou. 2018. “Air Pollution and the
+Labor Market: Evidence from Wildﬁre Smoke.” Working Paper.
+Deryugina, Tatyana, Garth Heutel, Nolan H Miller, David Molitor, and Julian
+Reif. 2019. “The mortality and medical costs of air pollution: Evidence from changes
+in wind direction.” National Bureau of Economic Research.
+Energy Information Administration. 2019a. “Consumption for electricity generation,
+coal, United States, annual, retrieved from EIA.”
+Energy Information Administration. 2019b. “Natural Gas Consumption by End Use,
+retrieved from EIA.” Data retrieved from: https://eia.gov/dnav/ng/ng_cons_sum_
+dcu_nus_m”.
+Federal
+Highway
+Administration.
+2019.
+“Vehicle
+Miles
+Traveled
+[TRFVO-
+LUSM227NFWA].” Data retrieved from:
+https://fred.stlouisfed.org/series/
+TRFVOLUSM227NFWA.
+Giles, Cynthia. 2017. “Why we cant just leave environmental protection to the states.”
+Grist. Available at: https://tinyurl.com/yyrcx9vl.
+Krewski, Daniel, Michael Jerrett, Richard T Burnett, Renjun Ma, Ed-
+ward Hughes, Yuanli Shi, Michelle C Turner, C Arden Pope III, George
+Thurston, Eugenia E Calle, et al. 2009. Extended follow-up and spatial analysis
+of the American Cancer Society study linking particulate air pollution and mortality.
+Health Eﬀects Institute Boston, MA.
+Muller, Nicholas Z. 2014. “Boosting GDP growth by accounting for the environment.”
+Science, 345(6199): 873–874.
+Muller, Nicholas Z, Robert Mendelsohn, and William Nordhaus. 2011. “Envi-
+ronmental accounting for pollution in the United States economy.” American Economic
+Review, 101(5): 1649–75.
+10
+United States Environmental Protection Agency. 1998. “Particulate Matter
+(PM2.5) Speciation Guidance Document.” Available at:
+https://www3.epa.gov/
+ttnamti1/files/ambient/pm25/spec/specpln2.pdf.
+United States Environmental Protection Agency. 1999. “The Beneﬁts and Costs
+of the Clean Air Act: 1990 to 2010.” EPA-410-R99-001. Washington, DC: US Environ-
+mental Protection Agency, Oﬃce of Air and Radiation, Oﬃce of Air and Radiation:
+Oﬃce of Policy in Washington, DC.
+United States Environmental Protection Agency. 2010a. “The Beneﬁts and Costs
+of the Clean Air Act 1990 to 2020: EPA Report to Congress.” Washington, DC: US
+Environmental Protection Agency, Oﬃce of Air and Radiation, Oﬃce of Air and Ra-
+diation: Oﬃce of Policy in Washington, DC.
+United States Environmental Protection Agency. 2010b. “Regulatory Impact
+Analysis for the Proposed Federal Transport Rule.” EPA-HQ-OAR-2009-0491. Wash-
+ington, DC: Oﬃce of Air and Radiation, Oﬃce of Air and Radiation: Oﬃce of Policy
+in Washington, DC.
+United States Environmental Protection Agency. 2019a. “USEPA AQS Data
+Mart.” Data retrieved from:
+https://aqs.epa.gov/aqsweb/airdata/download_
+files.html.
+United
+States
+Environmental
+Protection
+Agency.
+2019b.
+“USEPA
+Mor-
+tality
+Risk.”
+Available
+at:
+https://www.epa.gov/environmental-economics/
+mortality-risk-valuation.
+United
+States
+Environmental
+Protection
+Agency.
+2019c.
+“USEPA
+Non-
+Attainment Data.” Data retrieved from: https://www.epa.gov/green-book.
+Viscusi, W Kip, and Joseph E Aldy. 2003. “The value of a statistical life: a critical
+review of market estimates throughout the world.” Journal of risk and uncertainty,
+27(1): 5–76.
+11
+Volcovici, Valerie. 2019. “EPA Fines for Polluters at Lowest Level in Two Decades,
+Data Shows.” Reuters. Available at: https://tinyurl.com/ya8hv6eb.
+Zhang, Hongliang, Jianlin Hu, Michael Kleeman, and Qi Ying. 2014. “Source
+apportionment of sulfate and nitrate particulate matter in the Eastern United States
+and eﬀectiveness of emission control programs.” Science of the Total Environment,
+490: 171–181.
+12
+Figures and Tables
+Figure 1: Map Showing Counties with at Least One Monitor
+Notes: The map shows counties that had at least one PM2.5 monitor during 2009-2018.
+13
+Figure 2: PM2.5 Over Time
+Notes: The ﬁgure plots the year ﬁxed eﬀects from the estimation of equation 1. The 95-percent conﬁdence
+intervals are shown. The regression results are reported in Table 1. The national average PM2.5 level in
+2016 was 7.51 µg/m3.
+14
+Figure 3: PM2.5 by Census Region
+Notes: The ﬁgures plots the year ﬁxed eﬀects from the estimation of separate equations for each region.
+The 95-percent conﬁdence intervals are shown for each plot. The top left plot is the Northeast. The
+top right plot is the Midwest. The bottom left plot is the South. The bottom right plot is the West.
+The regression results are reported in Table 1. Note the vertical scales diﬀer across the four plots. The
+average PM2.5 levels in 2016 for the Northeast, Midwest, South, and West were: 7.50, 7.19, 8.09, and
+7.34 µg/m3.
+15
+Figure 4: PM2.5 By Attainment Status
+Notes: The black line plots year ﬁxed eﬀects for nonattainment counties and the light gray line plots the
+year ﬁxed eﬀects for attainment counties. The 95-percent conﬁdence intervals are shown. The regression
+results are reported in Table 2. The average PM2.5 levels in 2016 for nonattainment and attainment
+counties were: 8.73 and 7.05 µg/m3.
+16
+Figure 5: PM2.5 , Sulfate, Nitrate, and Elemental Carbon
+Notes: The top left plot is PM2.5 for reference. The top right plot is sulfate. The bottom left plot is
+nitrate. The bottom right plot is elemental carbon. The 95-percent conﬁdence intervals are shown for
+each plot. The regression results are reported in Table 3. Note the vertical scales diﬀer across the four
+plots. The average levels in 2016 for PM2.5, sulfate, nitrate, and elemental carbon were: 7.51, 0.76, 0.55,
+and 0.33µg/m3.
+17
+Figure 6: Clean Air Act 113d Enforcement Actions
+Notes: The ﬁgure plots percentage changes in Clean Air Act 113d Enforcement Actions relative to 2016.
+In 2016, there were 177 actions.
+18
+Figure 7: Clean Air Act 113d Actions by County Attainment Status
+Panel A: Counties in Attainment
+Panel B: Counties in NonAttainment
+Notes: The ﬁgure plots percentage changes in Clean Air Act 113d Enforcement Actions relative to 2016.
+The top panel is for counties in attainment. The bottom panel is for counties in nonattainment. In 2016,
+there were 164 actions in attainment counties and 13 actions in nonattainment counties.
+19
+Table 1: PM2.5 Nationally and by Census Region
+(1)
+(2)
+(3)
+(4)
+(5)
+National
+Northeast
+Midwest
+South
+West
+year=2009
+0.242∗∗∗
+0.258∗∗∗
+0.309∗∗∗
+0.209∗∗∗
+0.202∗∗∗
+(0.008)
+(0.020)
+(0.016)
+(0.011)
+(0.019)
+year=2010
+0.242∗∗∗
+0.210∗∗∗
+0.359∗∗∗
+0.298∗∗∗
+0.079∗∗∗
+(0.011)
+(0.020)
+(0.019)
+(0.011)
+(0.019)
+year=2011
+0.238∗∗∗
+0.246∗∗∗
+0.308∗∗∗
+0.261∗∗∗
+0.150∗∗∗
+(0.010)
+(0.022)
+(0.021)
+(0.012)
+(0.019)
+year=2012
+0.183∗∗∗
+0.186∗∗∗
+0.256∗∗∗
+0.182∗∗∗
+0.121∗∗∗
+(0.010)
+(0.019)
+(0.019)
+(0.013)
+(0.019)
+year=2013
+0.161∗∗∗
+0.166∗∗∗
+0.211∗∗∗
+0.109∗∗∗
+0.161∗∗∗
+(0.010)
+(0.020)
+(0.020)
+(0.013)
+(0.020)
+year=2014
+0.128∗∗∗
+0.148∗∗∗
+0.192∗∗∗
+0.126∗∗∗
+0.070∗∗∗
+(0.008)
+(0.020)
+(0.017)
+(0.011)
+(0.017)
+year=2015
+0.094∗∗∗
+0.129∗∗∗
+0.143∗∗∗
+0.052∗∗∗
+0.070∗∗∗
+(0.007)
+(0.015)
+(0.012)
+(0.010)
+(0.016)
+year=2016
+0.000
+0.000
+0.000
+0.000
+0.000
+(.)
+(.)
+(.)
+(.)
+(.)
+year=2017
+0.042∗∗∗
+-0.005
+0.032∗∗
+0.008
+0.101∗∗∗
+(0.008)
+(0.018)
+(0.016)
+(0.007)
+(0.016)
+year=2018
+0.055∗∗∗
+-0.008
+0.093∗∗∗
+-0.013
+0.115∗∗∗
+(0.008)
+(0.020)
+(0.015)
+(0.011)
+(0.016)
+Observations
+1831810
+310065
+457436
+485840
+578469
+Adjusted R2
+0.045
+0.075
+0.075
+0.069
+0.055
+Notes: The dependent variable is the natural log of PM2.5. The table reports the year ﬁxed eﬀects from
+the estimation of equation 1. Monitor, month, and day of month ﬁxed eﬀects are estimated but not
+reported. Standard errors are clustered at the monitor level. The national average PM2.5 level in 2016
+was 7.51 µg/m3. The average PM2.5 levels in 2016 for the Northeast, Midwest, South, and West were:
+7.50, 7.19, 8.09, and 7.34 µg/m3.
+20
+Table 2: PM2.5 by County Attainment Status
+(1)
+(2)
+(3)
+(4)
+NA
+Att
+NA Any
+Att All
+year=2009
+0.217∗∗∗
+0.239∗∗∗
+0.218∗∗∗
+0.255∗∗∗
+(0.014)
+(0.011)
+(0.011)
+(0.013)
+year=2010
+0.189∗∗∗
+0.262∗∗∗
+0.190∗∗∗
+0.288∗∗∗
+(0.020)
+(0.013)
+(0.016)
+(0.014)
+year=2011
+0.190∗∗∗
+0.257∗∗∗
+0.193∗∗∗
+0.277∗∗∗
+(0.019)
+(0.012)
+(0.014)
+(0.014)
+year=2012
+0.132∗∗∗
+0.207∗∗∗
+0.138∗∗∗
+0.222∗∗∗
+(0.019)
+(0.012)
+(0.013)
+(0.013)
+year=2013
+0.136∗∗∗
+0.167∗∗∗
+0.131∗∗∗
+0.183∗∗∗
+(0.018)
+(0.012)
+(0.013)
+(0.015)
+year=2014
+0.097∗∗∗
+0.137∗∗∗
+0.102∗∗∗
+0.146∗∗∗
+(0.017)
+(0.010)
+(0.012)
+(0.012)
+year=2015
+0.068∗∗∗
+0.102∗∗∗
+0.071∗∗∗
+0.108∗∗∗
+(0.015)
+(0.008)
+(0.011)
+(0.010)
+year=2016
+0.000
+0.000
+0.000
+0.000
+(.)
+(.)
+(.)
+(.)
+year=2017
+0.050∗∗∗
+0.042∗∗∗
+0.026∗∗
+0.060∗∗∗
+(0.017)
+(0.009)
+(0.012)
+(0.010)
+year=2018
+0.081∗∗∗
+0.049∗∗∗
+0.046∗∗∗
+0.062∗∗∗
+(0.017)
+(0.009)
+(0.012)
+(0.011)
+Observations
+616127
+1215683
+906758
+925052
+Adjusted R2
+0.056
+0.041
+0.050
+0.042
+Notes: Columns 1 and 2 deﬁne county nonattainment status as nonattainment for nitrogen dioxide,
+sulfur dioxide, and PM2.5. Columns 3 and 4 deﬁne county nonattainment status as nonattainment for
+any criteria pollutant. The dependent variable is the natural log of PM2.5. The table reports the year
+ﬁxed eﬀects from the estimation of equation 1. Monitor, month, and day of month ﬁxed eﬀects are
+estimated but not reported. Standard errors are clustered at the monitor level. The average PM2.5
+levels in 2016 for nonattainment and attainment counties were: 8.73 and 7.05 µg/m3.
+21
+Table 3: Sulfate, Nitrate, and Elemental Carbon
+(1)
+(2)
+(3)
+Sulfate
+Nitrate
+Elemental
+year=2009
+0.565∗∗∗
+0.269∗∗∗
+0.240∗∗∗
+(0.019)
+(0.017)
+(0.024)
+year=2010
+0.463∗∗∗
+0.228∗∗∗
+0.224∗∗∗
+(0.017)
+(0.017)
+(0.023)
+year=2011
+0.495∗∗∗
+0.219∗∗∗
+0.194∗∗∗
+(0.014)
+(0.016)
+(0.020)
+year=2012
+0.399∗∗∗
+0.228∗∗∗
+0.195∗∗∗
+(0.010)
+(0.014)
+(0.017)
+year=2013
+0.370∗∗∗
+0.262∗∗∗
+0.078∗∗∗
+(0.009)
+(0.014)
+(0.018)
+year=2014
+0.330∗∗∗
+0.236∗∗∗
+0.051∗∗
+(0.009)
+(0.016)
+(0.024)
+year=2015
+0.205∗∗∗
+0.176∗∗∗
+0.047∗∗∗
+(0.008)
+(0.013)
+(0.013)
+year=2016
+0.000
+0.000
+0.000
+(.)
+(.)
+(.)
+year=2017
+0.016∗
+0.019∗∗
+0.151∗∗∗
+(0.008)
+(0.009)
+(0.018)
+year=2018
+-0.090∗∗∗
+0.074∗∗∗
+0.207∗∗∗
+(0.018)
+(0.020)
+(0.025)
+Observations
+307089
+298278
+296833
+Adjusted R2
+0.151
+0.138
+0.039
+Notes: The dependent variable is the natural log of the species. The table reports the year ﬁxed eﬀects
+from the estimation of equation 1. Monitor, month, and day of month ﬁxed eﬀects are estimated but
+not reported. Standard errors are clustered at the monitor level. The average levels in 2016 for sulfate,
+nitrate, and elemental carbon were: 0.76, 0.55, and 0.33µg/m3.
+22
+Table 4: PM2.5 in the West, Midwest, and California,
+without June-September or November
+(1)
+(2)
+(3)
+(4)
+(5)
+West
+Midwest
+CAall
+CAnoJ-S
+CAnoNov
+year=2009
+0.235∗∗∗
+0.290∗∗∗
+0.219∗∗∗
+0.276∗∗∗
+0.210∗∗∗
+(0.020)
+(0.016)
+(0.024)
+(0.027)
+(0.025)
+year=2010
+0.123∗∗∗
+0.363∗∗∗
+0.065∗∗
+0.093∗∗∗
+0.070∗∗∗
+(0.021)
+(0.022)
+(0.025)
+(0.030)
+(0.024)
+year=2011
+0.175∗∗∗
+0.262∗∗∗
+0.145∗∗∗
+0.201∗∗∗
+0.147∗∗∗
+(0.020)
+(0.023)
+(0.026)
+(0.034)
+(0.027)
+year=2012
+0.094∗∗∗
+0.213∗∗∗
+0.040∗∗
+0.077∗∗∗
+0.040∗
+(0.016)
+(0.021)
+(0.020)
+(0.022)
+(0.021)
+year=2013
+0.231∗∗∗
+0.139∗∗∗
+0.132∗∗∗
+0.251∗∗∗
+0.126∗∗∗
+(0.024)
+(0.021)
+(0.030)
+(0.042)
+(0.029)
+year=2014
+0.096∗∗∗
+0.153∗∗∗
+0.053∗∗∗
+0.114∗∗∗
+0.050∗∗
+(0.017)
+(0.017)
+(0.019)
+(0.021)
+(0.020)
+year=2015
+0.089∗∗∗
+0.076∗∗∗
+0.048∗
+0.116∗∗∗
+0.058∗∗
+(0.016)
+(0.011)
+(0.024)
+(0.028)
+(0.024)
+year=2016
+0.000
+0.000
+0.000
+0.000
+0.000
+(.)
+(.)
+(.)
+(.)
+(.)
+year=2017
+0.052∗∗∗
+-0.027∗
+0.074∗∗∗
+0.072∗∗∗
+0.086∗∗∗
+(0.014)
+(0.014)
+(0.022)
+(0.020)
+(0.024)
+year=2018
+0.049∗∗∗
+0.042∗∗∗
+0.154∗∗∗
+0.125∗∗∗
+0.126∗∗∗
+(0.017)
+(0.016)
+(0.027)
+(0.028)
+(0.025)
+Observations
+384646
+305095
+256408
+171385
+234682
+Adjusted R2
+0.067
+0.080
+0.052
+0.067
+0.053
+Notes: Column 1: West without June - Sept. Column 2: Midwest without June - Sept. Column 3: CA
+all months. Column 4: CA without June-Sept. Column 5: CA without Nov. The dependent variable
+is the natural log of PM2.5. The table reports the year ﬁxed eﬀects from the estimation of equation 1.
+Monitor, month, and day of month ﬁxed eﬀects are estimated but not reported. Standard errors are
+clustered at the monitor level.
+23
+Table 5: Deaths and Damages from PM2.5
+Sample
+Years
+Deaths
+Damages (billions)
+US
+2017 - 2016
+4,881
+$45.1
+US
+2018 - 2016
+9,666
+$89.4
+US, dropping June-Sept
+2017 - 2016
+2,747
+$25.4
+US, dropping June-Sept
+2018 - 2016
+6,228
+$57.6
+CA
+2017 - 2016
+2,099
+$19.4
+CA
+2018 - 2016
+4,129
+$38.2
+CA, dropping June-Sept
+2017 - 2016
+2,201
+$20.4
+CA, dropping June-Sept
+2018 - 2016
+4,085
+$37.8
+Notes: Deaths and damages are changes in counties with PM2.5 monitors. Deaths are individuals who
+are 30 or older. Damages are in billions ($2016) at 2016 income levels.
+24
+A
+Appendix
+Table A.1: Annual Averages for 2016
+National
+Northeast
+Midwest
+South
+West
+PM2.5 µg/m3
+7.51
+7.50
+7.19
+8.09
+7.34
+PM2.5 Excluding Fire Season
+7.45
+7.35
+PM2.5 Nonatt. Counties
+8.73
+PM2.5 Attainment Counties
+7.05
+PM2.5 Nonatt. Counties Any
+8.50
+PM2.5 Attainment Counties Any
+6.70
+Sulfates µg/m3
+0.76
+Nitrates µg/m3
+0.55
+Elemental Carbon µg/m3
+0.32
+Enf. Actions 113d Penalty
+177
+Enf. Nonatt. Counties
+13
+Enf. Attainment Counties
+164
+Enf. Nonatt. Counties Any
+61
+Enf. Attainment Counties Any
+116
+Notes: Fire season is June to September, four months. The primary deﬁnition of nonattainment status
+is nonattainment for nitrogen dioxide, sulfur dioxide, and PM2.5.
+Attainment refers to attainment
+for nitrogen dioxide, sulfur dioxide, and PM2.5. Nonattainment Any is nonattainment for any criteria
+pollutant. Attainment Any is attainment for all criteria pollutant. Enforcement actions are counts of
+Clean Air Act section 113d actions that result in a penalty.
+25
+Table A.2: PM2.5 Nationally and by Census Region, Weighted by Population
+(1)
+(2)
+(3)
+(4)
+(5)
+National
+Northeast
+Midwest
+South
+West
+year=2009
+0.225∗∗∗
+0.255∗∗∗
+0.237∗∗∗
+0.175∗∗∗
+0.245∗∗∗
+(0.014)
+(0.026)
+(0.019)
+(0.016)
+(0.021)
+year=2010
+0.154∗∗∗
+0.206∗∗∗
+0.272∗∗∗
+0.240∗∗∗
+0.044∗∗∗
+(0.027)
+(0.027)
+(0.029)
+(0.016)
+(0.014)
+year=2011
+0.174∗∗∗
+0.247∗∗∗
+0.226∗∗∗
+0.214∗∗∗
+0.124∗∗∗
+(0.024)
+(0.025)
+(0.041)
+(0.029)
+(0.031)
+year=2012
+0.127∗∗∗
+0.178∗∗∗
+0.182∗∗∗
+0.163∗∗∗
+0.087∗∗
+(0.023)
+(0.023)
+(0.032)
+(0.021)
+(0.035)
+year=2013
+0.112∗∗∗
+0.137∗∗∗
+0.149∗∗∗
+0.087∗∗∗
+0.102∗∗∗
+(0.016)
+(0.024)
+(0.020)
+(0.023)
+(0.026)
+year=2014
+0.112∗∗∗
+0.139∗∗∗
+0.174∗∗∗
+0.122∗∗∗
+0.087∗∗∗
+(0.012)
+(0.021)
+(0.015)
+(0.013)
+(0.019)
+year=2015
+0.052∗∗∗
+0.102∗∗∗
+0.111∗∗∗
+0.068∗∗∗
+0.016
+(0.016)
+(0.014)
+(0.008)
+(0.017)
+(0.020)
+year=2016
+0.000
+0.000
+0.000
+0.000
+0.000
+(.)
+(.)
+(.)
+(.)
+(.)
+year=2017
+0.025∗∗
+-0.026
+-0.019
+0.014
+0.055∗∗∗
+(0.010)
+(0.017)
+(0.014)
+(0.014)
+(0.015)
+year=2018
+0.056∗∗∗
+0.004
+0.058∗∗∗
+-0.002
+0.091∗∗∗
+(0.010)
+(0.019)
+(0.015)
+(0.015)
+(0.018)
+Observations
+1831810
+310065
+457436
+485840
+578469
+Adjusted R2
+0.039
+0.083
+0.087
+0.057
+0.050
+Notes: The dependent variable is the natural log of PM2.5. The table reports the year ﬁxed eﬀects from
+the estimation of equation 1. The regressions are weighted by county population in 2016. Monitor,
+month, and day of month ﬁxed eﬀects are estimated but not reported. Standard errors are clustered at
+the monitor level. The national average PM2.5 level in 2016 was 7.51 µg/m3. The average PM2.5 levels
+in 2016 for the Northeast, Midwest, South, and West were: 7.50, 7.19, 8.09, and 7.34 µg/m3.
+26
+Table A.3: PM2.5 in the West, Midwest, and California,
+without June-September or November, Weighted by Population
+(1)
+(2)
+(3)
+(4)
+(5)
+West
+Midwest
+CAall
+CAnoJ-S
+CAnoNov
+year=2009
+0.263∗∗∗
+0.244∗∗∗
+0.245∗∗∗
+0.280∗∗∗
+0.235∗∗∗
+(0.025)
+(0.015)
+(0.021)
+(0.024)
+(0.021)
+year=2010
+0.040∗∗
+0.276∗∗∗
+0.029∗
+0.030
+0.044∗∗∗
+(0.019)
+(0.035)
+(0.016)
+(0.022)
+(0.014)
+year=2011
+0.128∗∗∗
+0.201∗∗∗
+0.089∗∗∗
+0.121∗∗∗
+0.090∗∗∗
+(0.020)
+(0.036)
+(0.020)
+(0.026)
+(0.019)
+year=2012
+0.086∗∗∗
+0.154∗∗∗
+0.036∗∗
+0.066∗∗∗
+0.036∗∗
+(0.021)
+(0.040)
+(0.017)
+(0.020)
+(0.017)
+year=2013
+0.161∗∗∗
+0.091∗∗∗
+0.067∗∗
+0.160∗∗∗
+0.069∗∗∗
+(0.029)
+(0.026)
+(0.026)
+(0.037)
+(0.024)
+year=2014
+0.140∗∗∗
+0.138∗∗∗
+0.052∗∗∗
+0.124∗∗∗
+0.061∗∗∗
+(0.015)
+(0.016)
+(0.009)
+(0.009)
+(0.013)
+year=2015
+0.054∗∗∗
+0.067∗∗∗
+-0.007
+0.047∗
+0.013
+(0.019)
+(0.010)
+(0.021)
+(0.025)
+(0.020)
+year=2016
+0.000
+0.000
+0.000
+0.000
+0.000
+(.)
+(.)
+(.)
+(.)
+(.)
+year=2017
+0.049∗∗∗
+-0.058∗∗∗
+0.051∗∗∗
+0.058∗∗∗
+0.064∗∗∗
+(0.016)
+(0.013)
+(0.017)
+(0.016)
+(0.019)
+year=2018
+0.057∗∗∗
+0.022
+0.101∗∗∗
+0.083∗∗
+0.086∗∗∗
+(0.018)
+(0.016)
+(0.031)
+(0.032)
+(0.026)
+Observations
+384646
+305095
+256408
+171385
+234682
+Adjusted R2
+0.063
+0.100
+0.046
+0.050
+0.047
+Notes: Column 1: West without June - Sept. Column 2: Midwest without June - Sept. Column 3: CA
+all months. Column 4: CA without June-Sept. Column 5: CA without Nov. The dependent variable is
+the natural log of PM2.5. The table reports the year ﬁxed eﬀects from the estimation of equation 1. The
+regressions are weighted by county population in 2016. Monitor, month, and day of month ﬁxed eﬀects
+are estimated but not reported. Standard errors are clustered at the monitor level.
+27
+B
+Appendix: Calculation of Mortality
+To estimate the mortality burden imposed by the increased PM2.5 levels in nonattainment
+counties, the following calculations are performed. The functional form and parameter
+estimate governing the link between ambient PM2.5 and mortality risk (β) are commonly
+used in the literature (United States Environmental Protection Agency (1999), United
+States Environmental Protection Agency (2010a)).
+Deathsa,i,t = Popa,i,txMRa,i,tx(1 −1/(exp(βx(PM2.5i,t))))
+(B.1)
+Totals deaths are the sum of (4) across age groups and nonattainment counties. We
+monetize the deaths from equation B.1 by applying the VSL uniformly across ages and
+counties.
+28

@@ -1,0 +1,2020 @@
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+7.1 Assessment and Surveillance for Climate Change 
+and Health
+Introduction
+Assessment is a core function of public health and encompasses monitoring health status to identify community 
+health problems and diagnosis and investigation of health problems and health hazards in the community. Local 
+health departments are already engaged in disease surveillance, community health assessments, vital statistics, 
+and program evaluation. The skills, data, and analysis used in these activities can be applied to assessment for 
+climate change and health, which provides a foundation to:
+•	
+Inform the public and policy makers about climate-related health risks and outcomes. 
+•	
+Determine the need for enhanced surveillance and environmental monitoring.
+•	
+Increase opportunities for realizing health benefits through greenhouse gas mitigation and adaptation 
+strategies. 
+•	
+Spur action to promote health equity and climate resilience. 
+To better integrate climate change into current surveillance and assessment activities, LHDs can: 
+•	
+Conduct climate, health and equity vulnerability assessment.
+•	
+Enhance existing environmental monitoring. 
+•	
+Enhance surveillance of climate-related health behaviors and health outcomes. 
+•	
+Conduct health analyses and health impact assessments of climate-related policies and programs.
+Climate, Health and Equity Vulnerability Assessment 
+“Climate vulnerability is the degree to which people or communities are at risk of experiencing the 
+negative impacts of climate change.”1  
+A community health assessment (CHA) is a collaborative process that “involves systematic collection and analysis 
+of data and information to provide a sound basis for decision-making and action.2” A climate, health and equity 
+vulnerability assessment (CHEV
+A) identifies climate-related risks, their likely health impacts, and the people and 
+places at higher risk. Coupled with knowledge of community resources to reduce risks and promote health, it 
+provides the foundation for guiding LHD actions to protect and promote health in the era of climate change. 
+Awareness within your LHD of the broad scope and scale of climate changes projected for your jurisdiction will 
+allow you to provide a more evidence-based assessment of potential climate-related health risks, how climate 
+Public Health 
+Functions
+PUBLIC HEALTH FUNCTIONS
+191
+191
+change will exacerbate existing health problems, and appropriate interventions to reduce the health impacts of 
+climate change. 
+CHEV
+A can be a stand-alone effort; but because climate change has such broad impacts on health and health equity, 
+both the CHEV
+A and CHA will be strengthened if you integrate climate risks and vulnerabilities into your CHA 
+process. Similarly, integration of climate change into Community Health Needs Assessments performed by not-for-
+profit hospitals provides another avenue for assessing the impacts of climate change on health and health equity. 
+See: Leveraging Hospital Community Benefit Activities to Address Climate Chang and Environmental Risks.3  
+•	
+The Alaska Department of Health and Human Services partnered with local Tribes, agencies, and 
+organizations to assess potential health impacts from climate change. The assessment included climate 
+predictions for Alaska based on the National Climate Assessment and described potential health impacts 
+across mental health, injury, nutrition, infectious disease, chronic disease, environmental health, and 
+health service capacity considerations.4 
+•	
+The Macomb County Health Department (MI) used the MAPP (Mobilizing for Action through Planning 
+and Partnerships) strategic planning framework to develop its Community Health Assessment, and 
+identified climate change as one of the key “forces of change”.5  
+Community Engagement in CHEVA
+Climate and health vulnerability assessments are most valuable when they incorporate the perspectives and 
+knowledge of community residents and are shared widely and seen as useful tools for informing community 
+and policy decisions. Bringing community partners into the assessment process as early as possible will help to 
+ensure that the information you produce will be disseminated and used. 
+Community residents and community-based organizations (CBOs) can share information about assets and needs 
+in their communities, prior efforts to address problems, resources and challenges, and specific ideas for how to 
+support and facilitate community efforts to promote health through climate mitigation, adaptation, and resilience. 
+For more on community engagement see the Health in All Policies Guide.6  
+LHDs have invited and/or contracted with community partners to comment on an initial list of proposed 
+indicators proposed, provide information on community assets and concerns that may not be reflected in 
+available data, participate in data collection and interviews of community members, review the draft assessment, 
+and present the assessment to residents in impacted communities as a tool for engaging in conversations about 
+actions that can build preparedness capacity and climate resilience. 
+•	
+Youth organizers in Richmond, California used community surveys, maps, and GIS applications to 
+understand climate vulnerabilities and community risks and assets. The results helped spur youth-led 
+proposals on job opportunities and policy changes for enhanced resilience.7 
+Steps in a Climate, Health and Equity Vulnerability Assessment
+One common framework for assessing climate and health vulnerability combines geographically refined data 
+on 1) current and future physical threats of climate change; 2) population vulnerabilities including social 
+determinants of health; 3) “adaptive capacity” that reflects individual and community-based resources that could 
+counteract the negative impacts of climate change; and 4) health impact projections.  
+The tables below list the common indicators used in CHEVA. Climate change and climate and health data sources 
+are available through the CDC: Climate and Health.8  
+192
+192
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Current and Future Physical Threats of Climate Change
+Understanding current and projected climate risks is the first step in developing a climate and health vulnerability 
+assessment. What are the environmental impacts of climate change that are happening now and will be 
+experienced? How will those vary across the jurisdiction, and over time? What difference will actions now 
+make? Start by checking with planning and emergency management agencies to see if they have conducted an 
+assessment of projected climate impacts in your jurisdiction. (See Table 7.1.1)
+Table 7.1.1
+INDICATORS OF 
+CLIMATE THREATS
+Category
+Indicator
+Data Source
+Temperature
+Maximum temperature
+3rd National 
+Climate 
+Assessment, 
+Human Health 
+Chapter
+Minimum temperature
+Extreme heat days
+Pollen
+Pollen loads
+Ragweed presence 
+Wildfire
+Annual average of area burned
+Percent of population currently living in high fire risk hazard zone
+Drought
+Palmer Drought Severity Index 
+NDMC’s drought impact reporter
+Water scarcity (water supply < 1,000 m3/person)
+Annual mean precipitation (inches)
+Snow water equivalent
+Air Quality
+Three-year annual mean concentration of particulate matter (PM2.5)
+Three-year ozone concentration exceedance above state standard
+Sea Level Rise 
+Percent of population living in 100-year flood zone and 55 inches 
+of sea level rise
+Sea level rise scenarios
+Water Quality
+Harmful algal blooms
+PUBLIC HEALTH FUNCTIONS
+193
+193
+Population Vulnerability
+Table 7.1.2 provides indicators associated with increased population vulnerability to climate-related adverse 
+health outcomes, including demographic characteristics such as age, and socioeconomic determinants such as 
+poverty, education, and race/ethnicity. While the indicators below are most often used to assess population 
+You don’t need to be a climate scientist or understand complex climate change models to use 
+climate projections in your CHEVA. But here are a few useful things to know: 
+•	
+Climate projections are not the same as weather forecasts. Climate change will not make year-
+to-year variability in climate go away. There may be a very cold winter one year, but decade-
+over-decade warming persists. Climate projections tell us how conditions are likely to change in 
+the future, on average, over multiple decades. 
+•	
+Climate change impact projections and greenhouse gas emissions scenarios are not the same 
+thing. Emissions scenarios use projections of population, demographics, economic growth, 
+energy supply and demand, land use, and technological developments as inputs to complex 
+socio-economic models that estimate emissions of greenhouse gas emissions. These scenarios 
+represent different possible futures, for example business-as-usual with continued high levels of 
+emissions or low-emissions scenarios based on aggressive efforts to reduce GHGE. 
+•	
+Climate scientists use emissions scenarios as input into very complex computer models that use 
+basic laws of physics and chemistry and information about oceans, land surface, ice, and the 
+atmosphere to produce climate projections. These projections forecast environmental changes 
+associated with various levels of GHGE at different points in the future for every part of the earth. 
+•	
+Planners often average across different climate projections to assess the most likely outcomes 
+for a particular emissions scenario. But they do not average across the emissions scenarios, 
+because those represent different futures based on what actions society may take to reduce 
+GHGE. Understanding the different climate projections for high emissions versus low emissions 
+scenarios can help LHDs understand the health implications of our choices about climate action, 
+and can help the public and policy makers decide how much cost and effort should go into 
+emissions reduction. 
+•	
+Climate change is the result of all of the GHG in the atmosphere cumulatively over time. 
+Because GHG persist in the atmosphere for long periods of time, the cumulative amount 
+changes with each incremental addition of GHGE. It also takes time for GHG in the oceans, 
+earth and atmosphere to equilibrate, so warming will continue even if GHGE stop. 
+•	
+Climate projections differ significantly for different time periods in the future. Both nearer term 
+and longer term projections are important for planning. The nature of interventions required to 
+reduce the health impacts of climate change range from very short-term (warnings for extreme 
+weather events) to multi-decadal (working with other sectors to achieve systems transformations 
+in energy and transportation) and everything in between (planting trees to provide shade). 
+Understanding Climate Change Projections9,10  
+194
+194
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+prevalence in a particular geographically defined area (e.g. census tract), it may also be useful to identify and map 
+specific sensitive institutional populations such as schools, nursing homes, or prisons. In areas that are rapidly 
+changing, for example due to gentrification or migration, consider updating these indicators more frequently. 
+Table 7.1.2
+INDICATORS OF 
+CLIMATE THREATS
+Indicator
+Definition
+Data Source 
+Children
+Percent of population aged less than 5 years
+American 
+Community 
+Survey 
+(2016)
+Uniform Crime 
+Report
+(2017)
+Elderly
+Percent of population aged 65 years or older
+Poverty
+Percent of population whose income in the past year was 
+below poverty level
+Education
+Percent of population aged >=25 years with less than s 
+high school education
+Race and Ethnicity
+Percent of population of color
+Outdoor Workers
+Percent of population employed and aged >=16 years 
+working outdoors
+Linguistic Isolation
+Percent of households with no one aged >=14 years 
+speaking English
+Physical Disability
+Percent of population living with physical disability
+Mental Disability
+Percent of population living with mental disability
+Health Insurance 
+Percent of population without health insurance
+Violent Crime Rate
+Number of violent crimes per 1,000 residents
+Linguistic Isolation
+Percent of households with no one aged >=14 years 
+speaking English
+Physical Disability
+Percent of population living with physical disability
+Mental Disability
+Percent of population living with mental disability
+Health Insurance 
+Percent of population without health insurance
+Violent Crime Rate
+Number of violent crimes per 1,000 residents
+Table continued on next page
+PUBLIC HEALTH FUNCTIONS
+195
+195
+Chronic Disease:
+Asthma
+Prevalence of current asthma
+CDC 500 Cities 
+Cardiovascular Disease
+Prevalence of coronary heart disease
+CDC 500 Cities
+Diabetes
+Prevalence of diagnosed diabetes
+CDC 500 Cities
+Identifying Indicators and Assets for Adaptation and Resilience
+Several indicators of adaptive capacity are recognized to lower climate risks (Table 7.1.3). These include 
+avoidance of the threats by temporary evacuation or using technologies such as air conditioning to create a 
+safe environment during heat waves. Adaptive capacity may also leverage social and political relationships so 
+resources can be shared before, during, and after extreme events. 
+Table 7.1.3
+INDICATORS OF 
+ADAPTIVE CAPACITY
+Indicator
+Definition
+Data Source 
+Impervious surfaces
+Percent of urban impervious surfaces 
+National Land 
+Cover Database 
+(2011)
+Air conditioning access
+Percent of the population with access to residential air 
+conditioning
+RAS Data
+Motor vehicle access
+Percent of households with access to a vehicle 
+ACS
+Transit access
+Percent of the population residing ½ mile from a rail or bus 
+stop with 15 minute frequency during peak commuter hours
+MPOs
+Tree canopy
+Population-weighted percentage of the census tract area with 
+tree canopy
+National Land 
+Cover Database 
+(2011)
+Social cohesion
+Percentage of registered voters who voted in the most recent 
+general election
+UC Berkeley 
+Statewide 
+Database
+196
+196
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Resiliency and Asset Mapping
+Communities have resources that are not easily identified through existing data but that are important in 
+withstanding climate stresses and building climate resilience (Table 7.1.4). Community surveys provide 
+information about social cohesion, strongly associated with better outcomes after climate-related extreme events 
+as well as other improved health outcomes. Community-based participatory asset mapping will identify people, 
+structures, organizations, and other intangible factors that may confer community climate resilience. To learn 
+more, see UCLA’s Center for Health Policy Research Asset Mapping Toolkit.11  
+Table 7.1.4
+RESILIENCE INDICATORS
+Short Title
+Indicator
+Data Source 
+Social cohesion12
+Frequency of interaction with friends/family
+Available support networks
+Frequency in feelings of loneliness
+Inter-group bridging (e.g., cross-group socialization, 
+integration of different groups)
+Trust (in neighbors, workplaces, government, social groups)
+Membership in voluntary associations, clubs, and religious 
+institutions
+Presence of neighborhood associations
+Neighborhood and senior centers
+Community 
+surveys
+Climate and Health Vulnerability Indices
+Different indicators can be combined to create an index of climate vulnerability, either for a specific exposure 
+such as heat, or for overall climate vulnerability. Index construction—such as choice of indicators and approach 
+to weighting of indicators—requires careful consideration. 
+•	
+The Climate and Health Program in the North Carolina Division of Public Health used a wildfire 
+vulnerability index developed by the EPA to identify counties with high exposure and sensitivity to smoke 
+health impacts.13  
+•	
+The California Environmental Health Tracking Program mapped population climate vulnerability in 
+Fresno and Los Angeles.14 
+•	
+Denver Department of Environmental Health created a Heat Vulnerability Index and accompanying story 
+map that shows heat vulnerability by census tract.15 
+PUBLIC HEALTH FUNCTIONS
+197
+197
+Projected Health Outcomes Associated with Climate Change
+An assessment of the burden of disease (mortality and morbidity) due to climate change asks how the number 
+of deaths or other health outcomes would change if a future climate threat increased by a specific amount from 
+the historical baseline. While LHDs can reasonably predict some of the ways and directions in which future 
+health outcomes will change due to climate change, it is more challenging to develop quantitative projections of 
+the magnitude of change in health outcomes that will accompany these impacts. These quantitative projections 
+can inform public health adaptation and preparedness planning and may help communities and policy makers 
+understand the longer term benefits of taking climate action now. Quantitative projection of health outcomes 
+associated with future climate change requires:
+•	
+Data on current disease burden associated with a particular impact (e.g. baseline asthma hospitalizations).
+•	
+Estimates of the quantitative relationship between temperature, related weather metrics (e.g. humidity), 
+and air pollution levels on mortality.
+•	
+Projections of changes in temperature, air pollution, etc. (and how those differ based on emissions 
+scenarios).
+•	
+Projections of changes in future size and geographic distribution of sensitive populations.
+•	
+Assumptions about future use of adaptation strategies such as air conditioners or of strategies to reduce 
+air pollution.
+The CDC provides documents that address methodological issues in projecting future climate-related disease 
+burden.16,17 In particular is the need to integrate demographic change, since changes in populations exposed 
+to climate risks can be significant. Between 2000 and 2016, while temperatures increased about 1.1°F on 
+average in the U.S., the number of Americans exposed to heat wave events annually increased by an average of 
+approximately 14.5 million, and the number of elderly exposed increased significantly.18  
+Communicating the Results of CHEVA 
+Report, websites, and community meetings have all been used to communicate the results of a CHEVA to 
+community residents, stakeholders, agency partners, and policy makers. Maps are a powerful way to display 
+information and make it more relevant and usable.  
+•	
+Use geographic analysis systems to create color-themed maps that demonstrate the intersection of specific 
+climate impact projections (e.g. heat islands, flood zones), social and population vulnerability, and 
+assets at the census tract level. Add information on specific sites (e.g. schools). The LHD Spotlight below 
+addresses flood health vulnerability assessment; it is one of a series of assessments of specific climate-
+related risks. See the end of this section for maps from Denver, Minneapolis, Multnomah County (OR) 
+and others.  
+Enhanced Monitoring and Surveillance  
+Climate change is altering disease and illness dynamics globally. Enhancing current monitoring and surveillance 
+protocols can detect emerging risks, track impacts on health outcomes, and assess effectiveness of public health 
+interventions. 
+198
+198
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Community Engagement in Monitoring and Surveillance
+LHDs can work with communities and academic partners to conduct community-based participatory research 
+(CBPR) to engage community residents, understand local health impacts of climate change and the contributors 
+to it, and identify strategies to promote health and equity. CBPR is “a collaborative process that equitably 
+involves all partners in the research process and recognizes the unique strengths that each brings. CBPR begins 
+with a research topic of importance to the community with the aim of combining knowledge and action for social 
+change to improve community health and eliminate health disparities.”21  
+•	
+Coast Salish Tribal Communities in Washington and Oregon partnered with local agencies and academic 
+institutions to conduct CBPR projects in local Native American communities on health inequities and 
+exacerbations due to climate change. Project researchers interviewed local leaders and community 
+members and held workshops to inform a set of six Indigenous Health Indicators to address health equity 
+and climate change impacts. These indicators included measures that are often not seen in traditional 
+indicator sets: community connection, natural resources security, cultural use and practices, self-
+determination, and emotional stability.22  
+Emerging community science programs also offer opportunities for enhanced surveillance and youth and 
+community engagement. As climate change threatens to drive Chagas disease northward from South America, 
+researchers in Texas established a project in which the public mailed “kissing bugs” for testing for Trypanosoma 
+cruzi, the parasite that carries the disease, allowing assessment of vector distribution and infection prevalence.23  
+Air quality monitoring provides another opportunity to engage communities in surveillance and assessment. A 
+variety of portable and lower-cost monitoring devices are being developed to enhance air quality monitoring 
+capabilities and provide information about air quality in locations without permanently stationed monitors. The 
+U.S. EPA resources for community scientists to do their own air monitoring—Citizen Science Opportunities for 
+Monitoring Air Quality.24 In 2016, a Salt Lake City advocacy group participated in the global Unmask My City 
+initiative. In a campaign to support air pollution control measures, volunteers used personal PM2.5 monitors with 
+masks that changed color to show real-time air pollution measurements.25 
+LHD Spotlight:
+San Francisco Department of Public Health19
+The San Francisco Department of Public Health (SFDPH) conducted a flood health vulnerability 
+assessment in order to focus resources on and design interventions for vulnerable populations 
+(Table 7.1.5). SFDPH included indicators on socioeconomic and demographic, exposure to 
+flooding, pre-existing health conditions, and housing quality. To obtain data, the department 
+used results from the American Community Survey and from the local police and fire departments, 
+San Francisco Public Utilities Commission, California Office of Statewide Health Planning and 
+Development, and the 2015 San Francisco Homeless Count. 
+continued on next page
+PUBLIC HEALTH FUNCTIONS
+199
+199
+TABLE 7.1.5
+VULNERABILITY INDICATORS
+Vulnerability
+Indicators20
+Social and 
+Demographic
+Age: Percent of residents who identify as 
+under 18 and over 65
+Percent of residents who do not identify as 
+white
+Percent of residents below 200% of the 
+federal poverty rate
+Percent of residents over 25 with at least a 
+high school degree
+Percent of households with adults who do 
+not speak English
+Exposure
+Percent of land in 100-year flood plain 
+with 36 inches of sea level rise
+Percent of land projected to have over 6 
+inches of precipitation during a 100-year 
+storm
+Minimum elevation
+Health
+Adult hospitalization rate due to diabetes
+Adult hospitalization rate due to asthma
+Adult hospitalization rate due to 
+schizophrenia and other psychotic 
+disorders
+Percent of residents who report a physical 
+disability 
+Housing
+Homeless population, per 1000 residents
+Annual housing violations, per 1000 
+residents
+Percent of residents who report living alone
+LHD Spotlight continued
+SFDPH overlaid available 
+data, creating vulnerability 
+indexes for each indicator set 
+and a combined flood health 
+vulnerability score by block 
+group and neighborhood. The 
+resulting maps defined areas 
+that are most likely to experience 
+flooding and areas that are 
+most likely to experience its 
+health impacts.
+200
+200
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Environmental Monitoring
+Share data with sister agencies to stay apprised of environmental changes associated with changes in disease risk:
+•	
+Changes in ocean or waterway temperature may enable growth of infectious agents.
+•	
+Changes in ambient temperature may put people at greater risk of heat illness.
+•	
+Buildout of impervious surfaces will increase risk of urban heat islands and heat illness.
+•	
+Community rain water collection could increase mosquito habitats without proper prevention.
+•	
+Bioengineered adaptation projects for storm water management and flood control may alter or create new 
+vector habitat.
+Water and food safety 
+As temperatures increase in the ocean and other bodies of water: 
+•	
+Increase monitoring of water temperature in areas where seafood and shellfish are harvested, as Vibrio 
+bacteria contamination can increase after periods of extreme heat. 
+•	
+Increase frequency of monitoring for harmful algal blooms/toxins. 
+•	
+Increase frequency of retail food inspections as higher ambient temperatures increase food safety risks.26 
+Disease vectors
+The frequency and location of monitoring for disease vectors should incorporate likely changes in the distribution 
+and types of these species with climate change impacts. 
+•	
+Ideal habitats for disease vectors are expected to expand in some regions, which will require monitoring 
+in areas that were previously outside endemic zones for these species.
+•	
+New vector species are expected to move into areas where they were not previously found, so 
+surveillance procedures will need to be altered (i.e. new types of traps and different monitoring times). 
+•	
+Plan for enhanced surveillance during droughts and after flooding and storm surge events. 
+•	
+Notify vector-borne disease agencies of mosquitoes tentatively identified as Aedes aegypti or Aedes 
+albopictus; confirm identification.
+•	
+Use data on blighted properties, substandard  properties without protections against mosquitos to 
+understand neighborhoods in need of response and education.
+Environmental hazards
+•	
+Improve air monitoring capacity in areas at known wildfire risk for better warning systems during an event.
+•	
+Prepare to monitor for toxics, for example in floodwater in areas at risk of flooding and located in 
+proximity to facilities that store or use hazardous materials or in ash residue following wildfire. 
+PUBLIC HEALTH FUNCTIONS
+201
+201
+Health equity
+Communities change over time, for example with aging; gentrification and displacement may create 
+more rapid change in the economic, race and ethnicity, social and health status, and access to services of 
+neighborhoods. Finding ways to monitor change at the micro level is challenging but important in keeping 
+vulnerability assessments current. Providing information about social and health inequalities in conjunction with 
+environmental and health monitoring data provides context and assists in identifying preventable inequities and 
+the need for targeted interventions. 
+Health outcomes
+Climate change may already be influencing patterns of health outcomes that are reported in vital statistics and 
+other surveillance programs.
+• 	
+Epidemic curves are a basic tool to describe extreme heat events and other climate-related events of 
+multi-day duration. These curves may be constructed, for example, using the daily number of deaths, 
+hospital admissions, and/or emergency room visits for heat illness and the larger pool of heat-sensitive 
+diagnoses such as cardiovascular disease, diabetes, and kidney disease during and after extreme 
+heat events.3 Similar data can demonstrate health impacts (e.g. increases in asthma ED visits or 
+hospitalizations) associated with wildfire smoke exposure. Analysis of ER visits during extreme weather 
+events can also provide planning information for emergency services providers.
+Data collection and analysis may be done in real time or post-event. Coupled with meteorological data, these 
+data can generate dose-response relationships for longer-term analysis of climate health impacts.4 Local health 
+departments have established protocols with community physicians, laboratories, and hospitals to exchange data 
+from electronic medical records, and climate-related conditions like heat-illness may be added to these protocols. 
+•	
+Syndromic surveillance systems provide health data in real time (i.e. a patient comes to a health facility 
+with specific symptoms). These systems are used in heat surveillance programs to:28,29     
+	
+assess the severity of an ongoing heat event.
+	
+allow early detection in disease or injury frequency. 
+	
+target messages to vulnerable communities.
+	
+justify additional response resources (more cooling center hours or water distribution sites)
+	
+prepare ER and clinic staff for visit surges.
+ Standardized search terms are available for heat and other conditions.30,31    
+For More Information: 
+•	
+National Notifiable Diseases Surveillance System39  
+•	
+National Syndromic Surveillance Program40   
+•	
+BioSense Platform41   
+•	
+Behavioral Risk Factor Surveillance System42
+202
+202
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Rapid Epidemiologic assessment
+CDC developed the Community Assessment for Public Health Emergency Response (CASPER) system to monitor 
+for health outcomes in emergency and non-emergency settings using neighborhood cluster sampling and 
+personal interviews or direct observation of residential areas.34 In 2008, the Iowa Department of Public Health 
+teamed with impacted county agencies to use the CASPER methodology to evaluate community needs following 
+severe flooding in the region. Results demonstrated that many households had been displaced and that there 
+were potential risks related to the presence of environmental hazards and disruption in medication access, 
+highlighting the need for improved risk communication and ongoing surveillance during recovery efforts.35 Other 
+examples of LHD CASPERs include an evaluation of cooling center availability and access in Maricopa County, 
+AZ and an assessment of the health impacts of the 2015 California drought in Tulare County.36,37   
+Surveys
+Surveys are an important tool to understand community experience and knowledge of climate-linked extreme 
+events and to assess impacts. In 2014, Macomb County, Michigan experienced unprecedented damage due to 
+historic levels of flooding in areas with little flooding experience. In 2017, the Macomb Health Department (MHD) 
+surveyed impacted residents to ascertain perceptions of the flooding and its long-term physical and mental health 
+impacts.
+Intersectoral Collaboration and Health Impact Assessment
+Many local health departments are actively engaged in Health in All Policies, strategies that integrate a health 
+lens into policy-making across sectors (See Section 7.3—Collaboration). Providing qualitative and quantitative 
+assessments of the health benefits and/or adverse health consequences of climate action plans, programs and 
+policies is an important strategy for promoting health and health equity. 
+•	
+Representatives from the Springfield Department of Health and Human Services and the Williamsburg 
+Board of Health collaborated with the Massachusetts Department of Public Health to conduct an HIA of 
+local climate action plans, including assessment of approaches specific for vulnerable populations (i.e. 
+cooling centers during extreme heat events for low-income communities without access to AC).43  
+•	
+The city of Davidson, NC conducted an HIA on the city’s Davidson Walks & Rolls: Active Transportation 
+Plan, including a social and health equity analysis to identify priority communities for pedestrian and 
+bicycle improvements. The assessment found that 29% of the city’s population lived in areas considered 
+high priority for future active transport infrastructure due to high prevalence of low-income communities 
+and existing chronic disease. The assessment also demonstrated that small increases in biking and 
+walking would result in over $1 million in benefits to the city due to health benefits associated with, in 
+part, reductions in greenhouse gas and resulting climate impacts.44 
+These assessments draw on a wide array of qualitative and quantitative techniques, can be scaled for rapid as 
+well as resource-intensive and rigorous implementation, and have been used to examine many aspects of climate 
+change and health. Community engagement and health equity analysis are key components of health impact 
+assessments (HIAs). For more information on how to conduct an HIA and related community engagement, see 
+Human Impact Partners Health Impact Assessment Toolkit: A Handbook to Conducting HIA.45  
+PUBLIC HEALTH FUNCTIONS
+203
+203
+Current Fossil Fuel Facilities and Projects
+LHDs can provide assessments of the health impacts of facilities and projects that may contribute to climate 
+change through supporting or expanding the fossil fuels infrastructure. 
+•	
+In 2011, the Green River District Health Department in Kentucky completed an HIA on three proposed 
+coal gasification plants to inform the community and policy makers on how benefits from job creation 
+in the region compared to potential health impacts, including on low-income communities and other 
+vulnerable populations.46,47   
+LHD Spotlight:
+Maricopa County Department of Public Health32
+In Arizona, Maricopa County Department of Public Health (MCDPH) obtained hospital data from 
+the National Syndromic Surveillance Program BioSense Platform to implement a heat-related illness 
+(HRI) syndromic surveillance system. Health facilities throughout the county transmitted data from 
+patient records to the BioSense platform. To use this data, MCDPH standardized queries for HRI 
+specifying MCDPH ICD codes and symptom terminology related to heat-illness diagnoses. They also 
+identified “exclusion terms” to prevent non-heat-related cases from being misclassified. The system 
+was validated by comparing emergency room visits identified by the query with the final diagnosis 
+for each result. For more information, see the Heat-Related Illness Syndrome Query: A Guidance 
+Document for Implementing Heat-Related Illness Syndromic Surveillance in Public Health Practice.33   
+The Maricopa County Department of Public Health (MCDPH) is no stranger to extreme heat. In 
+2005, 35 individuals died over a 9-day period of extreme heat. In response to extended periods 
+of extreme heat, the county set up cooling centers. In order to ensure that these centers were 
+accessible to the most vulnerable populations, MCDPH partnered with the Arizona Department of 
+Health Services and Arizona State University to evaluate community access to and perceptions of 
+cooling centers by surveying facility visitors and managers and observing use during an extreme 
+heat event.
+There are 58 private and public cooling centers in Maricopa County. The evaluation found that 
+many cooling centers were open only on weekdays, primarily in community centers, senior centers, 
+and religious institutions without clear or visible signs notifying the public of the availability 
+of a cooling center. The survey also found that 84% of visitors were unemployed, 33% had 
+no permanent residence, and 11% of those who indicated a permanent residence had no air 
+conditioning at their place of living.
+Maricopa County subsequently developed a Heat Relief Regional Network to mitigate heat health 
+risks. The Network maintains an updated list of operational cooling centers and their availability 
+and services on a publicly available map, hosts trainings provided by MCDPH and the local National 
+Weather Service, and identifies new cooling center sites.38  
+204
+204
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+•	
+In 2016, a public health advisory panel in Oakland, California reviewed the potential health impacts from 
+the proposed transport, storage and handling of coal through the city and in a former army base. The HIA 
+demonstrated the significant increase in concentrations of fine particulate matter (PM2.5) this transport 
+and handling would have on surrounding neighborhoods that were already suffering adverse health 
+outcomes from low air quality, poverty, and discrimination. It also highlighted the adverse health risks to 
+Oakland residents resulting from burning the exported coal.48 This HIA contributed to the decision of the 
+city council to vote to ban shipment of coal from the city, a decision recently overturned in court.
+Assessments of the Health Benefits and Harms from Climate Mitigation and Adaptation Strategies
+Strategies to reduce carbon emissions may have health consequences beyond reducing pollutants that are 
+generated when fossil fuels burn. 
+Three such strategies have large potential health co-benefits. First, substituting walking and cycling for short 
+car trips facilitates physical activity, which is associated with reduction in mortality and morbidity due to 
+cardiovascular disease, stroke, dementia, depression, and some cancers.49,50 Second, substituting plant-based 
+protein for red meat in the diet reduces farm inputs based on fossil fuels (e.g., fertilizers, pesticides, tractor fuel) 
+and methane emissions from ruminants and their waste products. Lower red meat consumption also reduces risk 
+for cardiovascular disease and some cancers.51,52 A third strategy to achieve health benefits is from improving 
+energy efficiency in residential buildings, particularly through weatherization and ventilation controls that reduce 
+fine particulate pollution.53  
+The Oregon Health Authority carried out an HIA in the transportation sector, using the Integrated Transport 
+and Health Impacts Model (ITHIM). ITHIM quantifies the health benefits and harms of regional transportation 
+plans, mobility goals of state and local transportation agencies, and health-based goals.54,55,56,57,58,59 This HIA 
+demonstrated that replacing short car trips with walking, cycling and transit would reduce overall mortality and 
+that this benefit is greater than that from air pollution reduction. However, these assessments also show the 
+potential for increased pedestrian and cyclist deaths as walking and cycling increase until better infrastructure for 
+these activities is built.60 
+Knowledge of health benefits and harms can inform jurisdictional partners as they put forward their 
+comprehensive plans, regional transportation and housing plans, and hazard mitigation plans. 
+Other Intersectoral Collaboration
+Increased coordination and data sharing among public health, environmental, meteorological, water, agricultural, 
+emergency responder, and other agencies can facilitate better understanding of the climate impacts, how they are 
+expected to impact infectious disease transmission, and who in your community is most at risk.61,62     
+PUBLIC HEALTH FUNCTIONS
+205
+205
+For More Information  
+Resiliency and Asset Mapping
+•	
+U.S. Climate Resilience Toolkit - Assessing Health Vulnerability to Climate Change: A Guide for 
+Health Departments and Social Vulnerability Index and Metadata Access Tool for Climate and Health 
+(MATCH)63,64,65     
+•	
+GlobalChange.Gov - Climate and Health Assessment66   
+•	
+San Francisco Public Health Department - San Francisco Heat Vulnerability Index67  
+•	
+Centers for Disease Control and Prevention - Preparing for the Health Effects of Drought: A Resources 
+Guide for Public Health Professionals68
+Example Vulnerability Maps
+•	
+San Francisco Flood Vulnerability Maps69   
+•	
+Denver Heat Vulnerability Maps70  
+•	
+Multnomah County Urban Heat Island Maps71  
+•	
+Minneapolis Climate Change Vulnerability Maps72  
+•	
+Contra Costa Heat Vulnerability Maps73  
+206
+206
+Addressing Heat Vulnerability: 
+Denver Department of
+Public Health and Environment
+Denver Department of Public Health and Environment (DDPHE) plays an integral role in climate change 
+activities in Denver city government. Equity and place are strong themes in Denver’s climate action and 
+adaptation plans and its community health needs assessment. DDPHEs Health in All Policies program developed 
+a Neighborhood Equity Index based on socioeconomic factors, access to care, built environment, and mortality 
+and morbidity data. In 2014, the City and County of Denver released its first climate adaptation plan identifying 
+increased temperature and urban heat island effects, extreme weather events, and reduced snow pack as priority 
+vulnerabilities. The plan proposed activities to reduce vulnerability and assigned responsibility to specific city 
+departments. 
+In January 2016, DDPHE began the Denver Neighborhood Climate and Health Vulnerability Project (DNCHV), 
+aiming to DDPHE build on its Health in All Policies approach to explicitly incorporate climate change into its 
+work on the upstream determinants of health and engage with diverse partners to integrate climate, health, and 
+equity across divisions and agencies. The goal of the project was to  conduct geographically refined climate and 
+health vulnerability assessments and connect them with established city neighborhood-level planning activities 
+such as Strong Neighborhoods and Denver Moves.
+Moving the conversation from climate science to climate and health
+DDPHE contracted to develop a heat vulnerability tool in which thirteen variables were combined into a heat 
+vulnerability index using factor analysis. The analysis is displayed on a story map that shows census tract 
+vulnerability to extreme heat in the context of the interconnected socioeconomic, health and environmental 
+conditions that can increase heat vulnerability. The program then engaged with other local agencies and 
+community based organizations (CBOs) to disseminate the tool widely for use in planning and policy 
+development. 
+In partnership with the Trust for Public Lands (TPL), DDPHE hosted a community forum to discuss how to 
+build a resilient Denver in the face of climate change. The Forum brought together a diverse group of health 
+agencies, CBOs, and academic partners to enable partnerships to assess current health vulnerabilities to climate 
+change and coordinate and prioritize interventions in the most impacted areas. DDPHE then co-hosted a series 
+of climate, health, and equity walks, collaborating with the local Walk2Connect program. The walks provided 
+an opportunity for Denver residents to join health department staff and local experts for fun physical activity on 
+walks that showcased Denver and Its Water, Denver’s Urban Forest, the Green Roofs Initiative, and Gardening in 
+Denver’s New Weather. 
+In summer 2018, DDPHE examined ways to create relevant messaging that connects climate change to injury 
+prevention and other community concerns. DDPHE partnered with the National Highway Transportation Safety 
+Administration to integrate climate change messaging into heat illness prevention public service announcements 
+(PSA), which will be posted in 40 buses during the month of July. DDPHE also created PSAs for outdoor workers 
+in collaboration with the Parks and Recreation Department and for pet owners in collaboration with Animal 
+Protection division.
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+PUBLIC HEALTH FUNCTIONS
+207
+207
+PUBLIC HEALTH FUNCTIONS
+207
+Future Work and 
+Lessons Learned
+Building on the success of the 
+extreme heat vulnerability map 
+to inform city plans, such as the 
+Denveright Plans, the Ultra-Urban 
+Green Infrastructure Guidelines, 
+and the Neighborhood Plans, 
+DDPHE will continue to disseminate 
+the vulnerability map to partner 
+agencies and organizations to 
+prepare for extreme heat in Denver. 
+Despite the challenges of limited 
+staff capacity, DDPHE continues to 
+work on systems and policy level 
+changes to improve climate resilience and equity throughout Denver. Additionally, DDPHE plans to continue to 
+identify existing messaging campaigns and seasonal health alerts to integrate simple climate change messaging.
+Learn More
+Department of Public Health and Environment - Heat Vulnerability
+•	 Build on existing Health in All Policies 
+initiatives to integrate climate change 
+and health and expand collaboration 
+with new agency partners.
+•	 Conduct a climate and health 
+vulnerability assessment. Make 
+accessible story maps based on the 
+assessment to share with CBOs, policy 
+makers, and other local agencies. 
+•	 Collaborate with local CBOs and other 
+local organizations to host community 
+meetings to share the CHEVA and 
+discuss and prioritize community-driven 
+climate resilience and adaptation 
+strategies. 
+•	 Establish other avenues to 
+continue community engagement 
+around climate change, built 
+environment, health, and equity (e.g., 
+Walk2Connect).
+•	 Continue meeting with other LHD 
+program and jurisdictional agencies 
+climate champions to support the 
+Health in All Policies approach to 
+climate change.
+•	 Integrate climate change messaging 
+into seasonal health messaging and 
+established PSA
+Key Action Steps:
+208
+208
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+7.2 Community Engagement 
+“Building an equitable and just climate future will require that all our voices are heard, which 
+also means that we should reject any efforts to diminish our political agency. We are, indeed, at 
+a crossroads on how we will move forward to address one of the most challenging social and 
+environmental problems in history. … The activism being undertaken by women, Indigenous, 
+communities of color, and youth from around the world are leading the way in addressing climate 
+change in just and sustainable ways…Achieving climate equity is about respect, inclusion and 
+collective action.”    
+– Dr. Cecilia Martinez, Center for Earth, Energy and Democracy1 
+A central tenet of patient-centered health care is “nothing about me without me.”2 The same principle applies in 
+public health: community residents must be included in decisions that affect community health. Despite being 
+disproportionately impacted by climate change, low income communities and communities of color have been, at 
+worst, purposefully excluded from and, at best, under-represented in decision making that impacts their health 
+and climate resilience. Climate justice and health equity require that the response to climate change is inclusive, 
+transparent, and accountable. 
+Community engagement is a critical strategy to ensure that climate action optimizes health and equity co-
+benefits and avoids missed opportunities or unintended adverse consequences on disadvantaged communities. 
+Community residents and community based organizations can share important information about assets and 
+needs in their communities, nuanced history of neighborhood experience with heat, drought, and flooding, 
+expert input about the likely acceptability and effectiveness of proposed strategies, and ideas for how government 
+agencies can support and facilitate community efforts to build climate resilience and sustainability. 
+Community-Driven Climate Resilience Planning 
+•	
+Improve infrastructure for community participation in decision making.
+•	
+Build authentic and equitable partnerships between local government and community-based 
+organizations that bring expertise and capacity to build community leadership and facilitate 
+the development and implementation of community- driven climate resilience solutions.
+•	
+Increase awareness of structural racism and other systemic issues contributing to 
+disproportionate climate impacts.
+•	
+Create more comprehensive solution sets that address the root causes of climate vulnerability. 
+•	
+Increase communication, coordination and collaboration across governmental agencies for 
+effective disaster preparedness and for implementation of policy and systems changes needed 
+to achieve climate resilience.
+– National Association of Climate Resilience Planners3 
+PUBLIC HEALTH FUNCTIONS
+209
+209
+There are many strategies for community engagement entailing a spectrum of involvement and control by the 
+LHD and community, as shown in Figure 7.2.1 below. At all levels of the ladder, communication is critical in 
+order to foster the trust and information-sharing necessary to develop solutions that work to meet community 
+needs. Greater community participation is one measure of community climate resilience.
+Figure 7.2.1: Ladder of Community Participation - Adapted from Contra Costa Health 
+Services4
+THE LADDER OF COMMUNITY PARTICIPATION
+2
+HEALTH DEPARTMENT INFORMS AND EDUCATES COMMUNITY
+Local health department shares information with the community.
+1
+HEALTH DEPARTMENT INITIATES AND DIRECTS ACTION
+Local health department takes the lead and directs the community to act.
+7
+COMMUNITY INITIATES AND DIRECTS ACTION
+Community makes decisions, acts, and shares information with the local health department.
+4
+COMPREHENSIVE COMMUNITY CONSULTA
+TION
+Local health department solicits ongoing, in-depth community input.
+5
+BRIDGING
+Community members serve as conduits of information and feedback to and from the local 
+health department.
+6
+POWER-SHARING
+Community and local health departments define and solve problems together.
+3
+LIMITED COMMUNITY INPUT/CONSULTA
+TION
+Local health department solicits specific, periodic community input.
+  
+Conduct a scan to assess potential interest in climate change, health, and health equity. Look for current and new 
+potential partners that address: 
+	
+Environmental justice, toxics, air pollution, water, farmland conservation, open space 
+	
+Healthy eating and active living, food justice, healthy food systems, transportation access and 
+public transit
+	
+Racial and gender justice, educational equity, economic justice
+	
+Other community-based organizations in neighborhoods that have experienced climate impacts
+210
+210
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Conduct outreach to local CBOs and community leaders to begin conversations regarding their interest and 
+activities related to climate change, health, and equity. 
+•	
+The Minneapolis and New Orleans Health Departments both mapped social and climate vulnerability and 
+then identified community organizations in neighborhoods with higher levels of risk for climate-related 
+health impacts. Formal agreements were made to compensate CBO staff for their time and knowledge 
+in planning, recruiting for, and facilitating workshops held in the communities on climate change and 
+health.
+•	
+The Seattle-King County Public Health Department surveyed and interviewed local community leaders to 
+assess their interest in climate change and health and their perceptions and ideas about LHD involvement 
+in addressing the health impacts of climate change. The results informed the Blueprint for Addressing 
+Climate Change and Health, which will serve as a guide for LHD action on climate, health, and equity. 
+Meet potential CBO or community partners where they are: develop an understanding of their current priorities, 
+concerns and challenges, membership and constituency, strengths and resources, and level of interest in climate 
+change and health equity. Help to connect the dots between climate change and the issues various groups are 
+currently addressing.
+Recognize and acknowledge the inherent power dynamics between community members and government 
+employees, and between people of color and White people and people with different educational and 
+socioeconomic backgrounds. Provide space and processes—such as agreed on ground rules for meetings and 
+opportunities for one-on-one conversations—to address those dynamics. Reflect on habits and patterns that 
+perpetuate inequities and replace them with practices that support community empowerment.5 
+Share important information about how climate change impacts community health or the health benefits of 
+actions to reduce GHGE. Listen respectfully to community residents who have much to share about their lived 
+experience of climate change and health inequities, community strengths and assets, and how to improve 
+community health in an equitable and sustainable manner.
+Identify ways to build community capacity as you partner with CBOs.
+•	
+Share information and allocate resources transparently.
+•	
+Ask for input as you develop metrics or indicators for climate change and health, share data so that 
+community partners can interpret it, and work with community partners to exhibit and communicate 
+data in ways that are accessible and understandable to community residents. 
+	
+In partnership with local community-based organization, Coalition of Communities of Color and 
+the Portland State University Planning Department, the Multnomah County Health Department 
+created a climate and health indicator tool built from input from community members.6  
+•	
+Share decision-making with community partners
+•	
+Make sure that CBO partners and community members are aware of how their input and feedback will be 
+used in LHD and other agency processes.
+	
+How will information from the community be used in a planning process or program 
+implementation? 
+PUBLIC HEALTH FUNCTIONS
+211
+211
+	
+Will the information be shared with other government partners?
+	
+When they can expect to see the results of their participation.
+•	
+Establish fair and supportive mechanisms for participation when requesting CBO or community member 
+participation in meetings or other partnership activities.
+	
+Compensate CBO staff and community members for time spent preparing for and participating in 
+meetings, responding to surveys, providing feedback on reports, etc.
+	
+Provide food, childcare, and subsidized transportation.
+	
+Make sure to provide translation in relevant language at meetings, and to translate written 
+materials for non-English speakers. 
+	
+Address the needs of community members with communications impairments, e.g. disabilities 
+such as blindness and deafness.
+•	
+Use collaborative Community-Based Participatory Research (CBPR) strategies to identify community 
+challenges, use community knowledge, support community assets and develop community informed and 
+relevant solutions (See Section 7.1—Surveillance).
+Environmental Justice Principles
+For Policy Implementation At Regulatory Agencies7  
+The California Environmental Justice Alliance and its members developed the following principles 
+to assess whether agencies are effectively integrating environmental justice (EJ) into their policy 
+development and implementation. While most LHD functions are not regulatory in nature, the 
+principles apply to all government agencies.
+(1)	 Prioritize and value prevention, human health and improving quality of life: Impacts on health 
+must be given full weight in decision-making, not overlooked in favor of business interests or 
+cost effectiveness, as is often the case, and particular concern must be given to the health and 
+well-being of residents in highly impacted neighborhoods. 
+(2)	 Do no harm: Regulatory agencies must commit to actions that do not further harms in 
+environmental justice communities. The most egregious decisions are those that actively 
+exacerbate environmental health and justice inequalities. 
+(3	 Prioritize environmental justice communities: State regulatory agencies have a responsibility to 
+address the historic legacy of pollution in low-income communities and communities of color. 
+This goes beyond simply preventing future harms, but also providing redress for the impacts 
+of long-standing, disproportionate burdens of pollution. There is an ethical, environmental 
+and public health imperative to ensure environmental justice communities are prioritized for 
+resources, programs, and receive special consideration within regulatory decision-making by 
+state agencies.
+212
+212
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+For More Information:
+•	
+Contra Costa County Health Services - Community Engagement in Public Health8  
+•	
+Urban Sustainability Directors Network - Guide to Equitable Community Driven Climate Preparedness9  
+•	
+Center for Community Engagement & Service Learning - Community Organizing Handbook10 
+•	
+International Association for Public Participation11 
+•	
+Institute for Local Government - Inclusive Public Engagement12  
+•	
+National Association of Climate Resilience Planners - Community-Driven Climate Resilience Planning: A 
+Framework13  
+Environmental Justice Principles continued
+(4)	 Meaningful community engagement: Residents in environmental justice communities must 
+have the ability and opportunity to inform design and implementation for policies that impact 
+their health and quality of life. Many agencies use a flawed “decide, announce, defend,” 
+process whereby an agency determines and releases documentation on a policy devoid of 
+any community input, engages with environmental justice communities in public discussions 
+after-the-fact, and ultimately moves forward with implementing their initial proposed policy 
+without incorporating significant feedback from environmental justice communities. Other 
+times, community organizations and members are engaged in dialogue but agencies do not 
+alter any decisions even after hearing significant feedback. Environmental justice communities 
+must be engaged early, often and in a meaningful way. 
+(5)	 Responsiveness: Agencies must respond, and be willing to address, community concerns once 
+they have been articulated rather than simply noting them in the public record. Without 
+a clear commitment to responsiveness, community engagement efforts become a “check 
+box” rather than a meaningful attempt to work with stakeholders in policy design and 
+implementation. 
+(6)	 Accountability: Agencies must be accountable for any and all actions, or lack of action, 
+commitments made, and decision-making processes that result in or perpetuate harm to 
+environmental justice communities, related to the agency’s area of jurisdiction. 
+(7)	 Transparency: Agencies must be clear in: (a) detailing the processes by which all decisions are 
+made and regularly reviewing the processes to ensure accessibility by environmental justice 
+communities, (b) disclosing all factors and stakeholders that inform and influence all decisions 
+affecting all policies and projects, and (c) describing decisions made, in addition to upholding 
+the principles of engagement and responsiveness outlined above.
+(8)	 Proactive partnerships: To be truly stellar on environmental justice issues, agencies need to 
+work proactively and in partnership with environmental justice communities and organizations 
+to develop innovative ways of addressing key environmental justice issues.
+PUBLIC HEALTH FUNCTIONS
+Supporting Community 
+Resilience: Minneapolis
+Health Department
+The Minneapolis City Council first 
+established goals for greenhouse gas 
+emissions in 2012 (now updated to an 80% 
+reduction by 2050). The 2013 Minneapolis 
+Climate Action Plan (CAP) focused on 
+energy efficiency, renewables, reducing 
+vehicle miles traveled and developing active 
+transport infrastructure, and reducing the 
+overall waste stream. However, the City did 
+not start to actively consider adaptation and 
+resilience until 2016 when the Minneapolis 
+Health Department (MHD) and the Office 
+of Sustainability (OoS) partnered with the 
+University of Minnesota School of Public 
+Affairs to conduct a climate, health, and 
+equity vulnerability assessment. The goal of the assessment was to identify neighborhoods most vulnerable 
+to climate-related heat and flooding, and work with local residents to develop community-driven strategies to 
+increase resilience to climate-related changes and extreme events. Using indicators of social vulnerability as 
+well as risk factors in the built and natural environments, the MHD/OoS team identified neighborhoods with 
+underlying vulnerabilities that increase the risks due to climate impacts. 
+Bringing Science to People
+The team then reached out to existing and new community partners in three vulnerable neighborhoods, and 
+contracted with groups in each to work with City staff to organize a community climate and health workshop. 
+Staff of the community based organizations (CBO) were compensated for their time spent working with MHD 
+to plan, recruit for, and facilitate the community workshops, each of which included an overview of the health 
+impacts of climate change, the specific climate, health, and social vulnerabilities of the neighborhood, a 
+discussion of residents’ experiences and ideas, and specific requests for LHD support and action. 
+CBO staff provided community connections, insight into issues of concern and community assets, and historical 
+knowledge about prior events that impacted the neighborhoods. The success of the workshops was attributed in 
+part to the willingness of the city team to share resources and decision-making with community residents. The 
+workshops—and the process—increase both community capacity and social cohesion critical components of 
+community climate resilience.
+Building on the information from the CHEVA and the community engagement process, the MHD/OoS team 
+contributed to the City’s Comprehensive Plan to ensure that climate, health, and equity are prominently featured 
+throughout and elevated as priorities across the City.
+214
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+•	 Conduct a climate and health 
+vulnerability assessment including 
+climate and social vulnerabilities (See 
+Section 7.1—Surveillance).	
+o		Reach out to other LHD programs/
+divisions and other city and county 
+agencies to compile data (e.g. 
+asthma ED visits, air quality, heat 
+indexes, tree cover).
+•	 Partner with local community-based 
+organizations to hold workshops to 
+review the CHEVA and brainstorm 
+community-based solutions.
+o		Provide funding to CBO partners 
+and use their expertise to shape 
+the workshops and expand resident 
+capacity and engagement.
+•	 Use resident insights and 
+recommendations to inform LHD action 
+on climate, health, and equity.
+•	 Engage in local, regional, and LHD 
+planning processes (e.g. climate action 
+plans, strategic plans, community 
+health improvement plans) to integrate 
+health into climate planning and 
+climate change into health planning.
+Key Action Steps:
+Future Work and Lessons Learned
+The MHD/OoS team plans to provide continued financial and technical assistance to partner CBOs to organize 
+additional community workshops focused on parental and family preparedness during extreme weather events. 
+MDH is now participating in drafting and reviewing the City of Minneapolis Strategic Plan. For the first time, 
+the plan will include information about the health impacts of climate change and the health and equity benefits 
+of climate action, and an action step to increase community resilience through strategies that enhance social 
+cohesion and build community capitals (See Section 6.5—Preparedness).
+Learn More
+Minneapolis Health Department - Climate Change Resiliency
+PUBLIC HEALTH FUNCTIONS
+215
+215
+7.3 Intersectoral Collaboration
+As public health practice has deepened its focus on the upstream social determinants of health, it has also shifted 
+from a siloed approach to a more collaborative “Health in All Policies” (HiAP) approach. HiAP is rooted in the 
+recognition that the policies of non-health agencies have profound impacts on health and that integrating health 
+into decision making across sectors is required for policy, systems, and environmental change to create healthy 
+living conditions and opportunities for health for all. It brings together expertise, tools, and decision makers for 
+effective health policy advancement based on five key elements: 1) promote health, equity, and sustainability; 2) 
+support intersectoral collaboration; 3) benefit multiple partners; 4) engage stakeholders; 5) create structural or 
+procedural change.1  
+To identify opportunities for intersectoral collaboration on climate change, health, and equity, ask:
+•	
+Which agencies are you already working with whom you can expand your collaboration to integrate 
+climate-related work?
+•	
+What other agencies are currently addressing climate change efforts to reduce greenhouse gas emissions 
+and/or efforts to prepare for climate impacts and reduce the effects on the community? 
+•	
+Are there interagency initiatives that address climate change or impacts, and opportunities for LHD 
+participation? 
+•	
+Is any agency engaged in strategic planning related to climate change, for which you could offer to 
+provide a health and equity lens and data? 
+Figure 7.3.1: Spectrum of Collaboration - Adapted from the Policy Consensus Initiative & 
+National Policy Consensus Center2,3,4   
+   
+216
+216
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Remember that building partnerships takes time. Be prepared to talk honestly with potential collaborators:
+•	
+What are their priorities, concerns, and constraints?
+•	
+Who are their partners and stakeholders?
+•	
+How do your interests and goals align?
+•	
+Why do you think it’s important for the LHD to be involved? 
+•	
+Does your partner have specific concerns about your involvement, or your perspective?
+•	
+What might the LHD bring to the table to help your new partner reach their objectives or strengthen a 
+particular initiative or process?
+•	
+What specifically can you offer? (data, assistance with community engagement, information, contacts, 
+staff resources)
+•	
+Is there something specific you want others to do? (integrate health data into their analysis, share resources) 
+•	
+Are there specific opportunities for win-win climate action strategies with health and equity benefits 
+(urban greening, local food systems, active transportation)?
+Table 7.3.1 provides a few examples of potential opportunities for intersectoral collaboration for climate, health, 
+and equity. Don’t forget that robust community engagement and collaboration across programs and divisions 
+within the LHD will strengthen your ability to partner effectively with agencies across the whole of government. 
+Table 7.3.1
+INTERSECTORAL COLLABORATION 
+FOR CLIMATE, HEALTH AND EQUITY
+Opportunities
+Policies & Programs
+Agencies (city/county/regional)
+Active 
+Transportation
+General and specific area plans
+Master walking and bike plans
+Safe Routes to Schools
+School siting
+Transit funding (route expansion, schedule 
+expansion, operations, maintenance, reduced 
+fares, youth transit passes, bus stop shading)
+Parks (location, amenities, funding, 
+maintenance, programming)
+Trails development, maintenance
+Tree canopy and urban forestry (location, 
+species)
+Metropolitan planning and regional 
+transportation organizations 
+Planning, public works, transportation, 
+parks, and forestry agencies
+School districts
+Table continued on next page
+PUBLIC HEALTH FUNCTIONS
+217
+217
+Opportunities
+Policies & Programs
+Agencies (city/county/regional)
+Healthy & 
+Sustainable Food 
+Systems
+Farmer’s markets (new, expanded, EBT)
+Community and school gardens
+Urban and peri-urban agriculture
+Healthy food retail
+Healthy food vending
+Food waste reduction 
+Edible food donation
+Gleaning
+Farm to fork (school, hospital, other 
+institutions)
+Environmental health
+Planning and zoning, business 
+development, agriculture, public works, 
+parks, and waste management agencies
+School districts
+Community hospitals 
+Heat Adaptation
+Tree canopy
+Parks, streams, and water features
+Hours/amenities/location of public cooling 
+shelters
+Alerts and warnings
+School sports policies
+Cool and green roofs
+Cool pavements
+Prevention of utility shutoffs
+Home weatherization
+AC provision
+Planning, public works, emergency 
+management, parks, forestry, libraries, 
+aging, building, social services, and law 
+enforcement agencies
+School districts
+Hospitals
+Utilities
+Flooding
+Parks
+Trees
+Permeable pavements
+Green infrastructure (e.g. bioswales)
+Evacuation
+Waste and sanitation facilities
+Planning and zoning, transportation, 
+water quality, public works, waste and 
+sanitation, and emergency management 
+agencies
+For More Information
+•	
+National Association of Climate Resilience Planners - Community-Driven Climate Resilience Planning: 
+A Framework5  
+•	
+APHA-CDPH-PHI: Health in All Policies Guide6  
+218
+218
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+7.4 Organizational Capacity 
+Many local health departments recognize climate change as an important issue but are concerned that it’s too 
+complex to address without new and dedicated resources. But public health has a long history of taking on 
+challenging emerging issues by building one step at a time on existing skills, resources, and relationships.  
+Building Organizational Capacity for Climate Change and Health Equity
+Efforts in LHDs
+(adapted from NACCHO Local Health Departments Prepare for the Health 
+Impacts of Climate Change1)  
+•	
+Assess current and future health impacts of climate and climate-related hazards in your 
+jurisdiction.
+•	
+Develop a comprehensive plan to reduce and prevent health and equity impacts of climate 
+change and increase climate resilience. Integrate local concerns and priorities, evidenced-based 
+results and both mitigation and adaptation strategies.
+•	
+Increase cross-sector collaboration around climate change and health equity using a Health in 
+All Policies approach.
+•	
+Engage in meaningful partnership with community residents, groups and organizations in 
+climate change adaptation and mitigation efforts.
+Getting Started: How ready is your LHD?
+An informal assessment and scan may help to determine the level of interest, support, capacity, and resources 
+for climate and health equity work, and to identify available information and potential partners. Many LHD staff 
+have been surprised to learn how much climate-related activity is already occurring in their jurisdictions, and 
+have built new partnerships based on shared interests in expanding climate work. 
+Climate and Health Equity Readiness and Capacity Assessment
+(adapted from the Oregon Health Authority2,3,4)  
+Internal
+•	
+Is departmental leadership committed to health equity and upstream public health? 
+o	
+Are these commitments reflected in the department’s strategic plan? Are there 
+upcoming program or department-wide strategic planning processes or community 
+health assessments?
+o	
+Has the department developed data and maps on health inequities?
+continued on next page
+PUBLIC HEALTH FUNCTIONS
+219
+219
+Climate and Health Equity Readiness and Capacity Assessment
+continued 
+•	
+Interest and support for climate and health work: Is there LHD leadership and senior 
+management support for initiating work on climate and health equity? Are any staff currently 
+interested in and knowledgeable about these topics? 
+o	
+What resource might be available? e.g. local philanthropy interest?
+o	
+Is any funding available now or in the near future to support this work? Do any current 
+funding streams allow integration of climate change and health equity, or could they? 
+o	
+Can any interested staff devote some time each week to getting started?
+•	
+Collaboration: Are there mechanisms in the department that support learning and 
+collaboration across programs? Is the department already engaged in Health in All Policies 
+or other collaborative work with agencies in other sectors such as transportation, housing, 
+agriculture, planning, parks, public works?
+External 
+•	
+Is there support for work on climate change in the jurisdiction broadly - e.g. among executive 
+and elected leadership? 
+o	
+Are jurisdiction leaders/managers engaged in work on climate change? 
+o	
+Has your jurisdiction had experience with climate-related events, e.g. wildfires, floods, 
+droughts?
+o	
+Are there other agencies nearby who are planning and/or taking action on climate 
+change?
+o	
+Are local elected officials speaking about climate change (or against climate action)?
+•	
+Are there local people/resources that can help staff learn about climate impacts in your 
+jurisdiction? e.g. Resilience or Sustainability office? Planning department? local NGOs? local 
+academics? 
+•	
+Community partnerships: Is the department working with community-based organizations who 
+are concerned about or working on climate change and health equity?
+o	
+Are there potential new partners i.e NGOs, environmental justice organizations, academics, 
+businesses - concerned about climate change and health equity?
+•	
+Are you familiar with any State laws and funding requirements that mandate or 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+provide incentives for local involvement in climate change?
+220
+220
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Depending on the informal assessment, think about how to use even limited capacity and resources to get started. 
+If there is very little support or resources available, identify a couple of interested staff and work together to 
+provide opportunities for staff and leadership to learn about climate change and health. Bring in a local speaker 
+to talk about climate change that relates to a department priority, and use that for initial discussion about what 
+your LHD might do. With management support, suggest conducting a survey to assess staff capacity and interest, 
+or ask to provide an overview on climate and health at some routine trainings or staff meetings. 
+Understanding the nature of current and projected climate impacts in your region is an important first step to 
+connect the dots between climate change and current LHD work. Look for existing climate assessments, and seek 
+out organizations and individuals with information and expertise about climate impacts in your region. 
+Be opportunistic: Look for opportunities to connect with others who are interested in climate work, or to 
+bridge current LHD work to climate change. Because climate change exacerbates health inequities and 
+disproportionately impacts disadvantaged communities, and because health inequities and climate change share 
+systemic causes, current work to address chronic diseases, the built environment, social determinants of health, 
+and health and racial equity provide logical building blocks for work on climate change and health equity. 
+•	
+Are there LHD efforts underway to promote policy and systems changes that also reduce greenhouse gas 
+emissions (e.g. active transportation)?  Talk to partners and stakeholders about how these changes have 
+health and climate benefits.
+•	
+Has your community experienced climate-related events, such as extreme heat events? If so, talk to those 
+in your department who were involved in response and recovery, or to emergency management agencies, 
+about whether climate change may make such events more frequent or more severe. 
+•	
+What climate-change related activities are your sister agencies engaged in? Has your jurisdiction done a 
+climate action or climate adaptation or resilience plan? Has your mayor or local governing body signed 
+on to any of the groups of elected officials that are supporting climate action, such as the C40 Compact of 
+Mayors or We Are Still In coalition? Who are their community partners and stakeholders?5,6    
+•	
+Is the LHD or local not-for-profit hospital starting a community health assessment process? Consideration 
+of climate change impacts might be incorporated into that process, or included in the analysis of forces of 
+change in the community. Macomb County Health Department collaborated with a stakeholder coalition 
+to engage in the Mobilizing for Action through Planning and Partnerships (MAPP) process, subsequently 
+incorporating the MAPP outputs indicating areas in which climate change and health could be addressed 
+in the overall Macomb County Community Health Assessment.7  
+•	
+Are any local health care systems engaged in reducing their hospital greenhouse gas emissions, 
+reducing waste, procuring local and sustainable food, or preparing the health care system for extreme 
+weather events? 
+•	
+Which community-based organizations are engaged in activities directly related to climate change or in 
+advocacy around healthy communities and/or health equity and social justice? Who in the LHD already 
+works with them? 
+•	
+Are there fossil fuels facilities or infrastructure in the jurisdiction and are there concerns about the health 
+impacts of associated air pollution or water contamination? Has the LHD conducted an assessment of the 
+health impacts? 
+PUBLIC HEALTH FUNCTIONS
+221
+221
+Staff and Leadership Development
+Few public health schools and health professional schools have yet integrated climate change into their curricula. 
+This means that both LHD staff and leadership will need to deepen their understanding of climate change to 
+build capacity to integrate climate change into LHD work. 
+Survey department leadership and staff to assess current perceptions of climate and health, and the role of LHD 
+programs in addressing these issues. Develop staff and leadership training based on responses.
+•	
+Seattle—King County’s Public Health Department developed key informant interview guides and survey 
+instruments and interviewed department leadership and staff in Preparedness, Communications, Chronic 
+Disease & Injury Prevention, and Environmental Health Services to assess current perceptions of the 
+nexus between climate, health, and equity and the perceived role of public health. The interviews 
+heightened awareness of the climate-health-equity nexus, and identified individuals interested in a 
+Climate and Health Action Team.
+Provide climate change, health, and equity trainings for leadership and staff and brainstorm potential entry-
+points for climate change in existing programs. Find nearby academics, staff from other agencies, or community 
+partners with relevant expertise. Use this Guide and internet resources to provide more information.
+•	
+Faculty and students from the University of California, Los Angeles School of Public Health facilitated 
+trainings on climate change and health for the Los Angeles County Department of Public Health. 
+Participants identified climate impacts that may affect their programs or clients. These trainings served 
+as the foundation for launching of a Climate and Health Workgroup that fleshed out a “Five Point Plan” 
+outlining how LADPH can integrate climate change into its work.8
+Integrate climate, health, and equity information and trainings into routine staff trainings and new staff 
+orientation to support sustained institutionalization of climate change into LHD activities. New Orleans Health 
+Department hosted an all-staff meeting on climate change, health, and equity as well as a training for Louisiana 
+Health Department’s Environmental Tracking Advisory Board.
+Provide information to staff about local and regional conferences on climate change.
+Develop a peer learning exchange with other LHDs. 
+•	
+Several Colorado Front Range LHDs meet informally to discuss climate, health and equity priorities and 
+action steps. 
+Seek to hire individuals who have a background in climate change and health equity/environmental justice. 
+Greater familiarity and expertise on the impacts of climate change and climate action on health and health 
+equity is important, but promoting health in the era of climate change requires much more. Building LHD skills 
+and capacity in health and racial equity, intersectoral collaboration, community and stakeholder engagement, 
+and effective communication is also vitally important (but beyond the scope of this Guide) See additional 
+resources below.
+222
+222
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Organizational Structure
+There is no “best” way to structure a climate, health, and equity program within a LHD. Climate change impacts 
+all aspects of public health, so it is important to integrate it  across departmental programs over time. It is also 
+important fort LHDs to build relationships with  local agencies likely to work to reduce GHGE, using a Health in 
+All Policies approach, and develop  partnerships with community-based organizations. 
+Integration across the LHD, intersectoral collaboration, and stakeholder engagement will be more effective 
+with a “back bone”  staff—staff designated at least part-time to coordinate climate-related activities across 
+programs, facilitate the building of staff capacity, and build partnerships with other agencies and community-
+based organizations. Where this back-bone staff is placed depends on factors including the nature and scope of 
+initial efforts, availability of staff resources and interest, level of commitment by leadership, and current levels of 
+involvement in intersectoral collaboration. Basic administrative support will foster greater success. 
+Effective LHD climate and health initiatives have been led by staff in Environmental Health, Policy and Planning, 
+Emergency Preparedness, Chronic Disease, and Epidemiology programs. In the California Department of Public 
+Health, the climate and health program is located within the Office of Health Equity. The greater the level of 
+visibility and leadership support for the work of the back-bone staff, the more that staff and external partners will 
+understand that the LHD sees climate change as an urgent issue. 
+Strategic Planning 
+“A strategic plan sets forth what an organization plans to achieve, how it will achieve it, and how it 
+will know if it has achieved it. The strategic plan provides a guide for making decisions on allocating 
+resources and on taking action to pursue strategies and priorities.”9   
+– Public Health Accreditation Board
+Integrate Climate Change into LHD Strategic Planning
+Strategic planning offers an ideal opportunity to engage in discussion across the programs about how climate 
+change connects to what you are already doing, and to think through what your LHD can do to address climate 
+change comprehensively. Incorporating goals for climate and health work and designating a responsible party 
+for developing an action plan to meet those goals is critical to support sustained climate action for health within 
+your LHD.
+•	
+The Philadelphia Department of Public Health’s Preparedness Program established a Climate Change 
+and Health Advisory Group. They engaged numerous divisions in their meetings, including Disease 
+Control, Environmental Health Services, Ambulatory Health Service, Chronic Disease Prevention, and Air 
+Management. The advisory group demonstrated the climate and health connection to each LHD program 
+and reached leadership, resulting in the institutionalization of climate change as an objective in the 
+department’s strategic plan.10  
+Develop a Strategic Plan for Climate Change and Health
+Development of a strategic plan focused on climate change, health, and equity work within LHDs is a 
+foundational step for sustained action at the local level. Collaborating with division/program leads and motivated 
+staff, local partners, and CBOs to develop priorities into action steps within a strategic plan can take LHD work to 
+the next level.
+PUBLIC HEALTH FUNCTIONS
+223
+223
+•	
+Public Health-Seattle and King County’s (PHSKC) Climate and Health Action Team developed a Blueprint 
+for Addressing Climate Change and Health that reflects the values and priorities of PHSKC, partner 
+agencies, and community partners. The Blueprint builds organizational capacity to address climate 
+change and health with equity as an overarching consideration. It covers climate and health impacts 
+in King County, core public health functions, and strategies to develop internal expertise and assess 
+opportunities to build on current work.
+Build and Blend Funding
+There is yet no dedicated funding stream for climate change and health. LHDs need to be creative in finding 
+resources. Many LHDs have found that even very small amounts of funding can jumpstart activity and mobilize 
+resources among community partners. 
+Use existing funding streams to provide resources for climate change work. 
+•	
+Build work on climate change into proposed Scope of Work for funding from state and federal programs. 
+	
+Propose a climate and health vulnerability assessment as a component of PHEP planning and 
+assessment work.
+	
+Propose community outreach to prevent heat illness in people with diabetes in a funding proposal 
+for diabetes case management.
+•	
+Integrate climate change into routine and new communications.
+Talk to local foundations, many of whom are funding academics, environmental organizations, and others to 
+work on climate change. 
+•	
+Apply for a grant in partnership with local community organizations. 
+Partner with other agencies that are working on climate change to integrate health funding into their grants or 
+contracts.
+Use students, interns, and faculty at local colleges and universities.  
+•	
+Students from the University of Minnesota worked with the Minneapolis Department of Health and Office 
+of Sustainability to develop a climate and health vulnerability assessment. 
+For More Information
+•	
+Human Impact Partner’s Health Equity Guide: Building Organizational Capacity Resources11   
+•	
+Governing Alliance for Racial Equity: Resources12  
+•	
+APHA-CDPH-PHI: Health in All Policies Guide13  
+•	
+Contra Costa County Public Health: Community Engagement in Public Health14   
+•	
+University of Kansas, Center for Community Health and Development: Community Tool Box15  
+224
+224
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+A Blueprint for Equity
+and Justice: Seattle-King 
+County Public Health 
+Public Health - Seattle-King County (PHSKC) has put the elimination of health inequities at the core of its 
+mission. In 2015, after participating in the development of the King County Strategic Climate Action Plan, PHSKC 
+staff formed a Climate Health Action Team (CHAT) to develop internal expertise on climate change and health, 
+elevate the public health voice for climate action, and develop a strategic approach to PHSKC engagement 
+on this critical issue. The team includes representatives from across the department, including Preparedness, 
+Communications, Chronic Disease & Injury Prevention, and Environmental Health Services. 
+Building Capacity for Climate and Health 
+CHAT started with an assessment of internal and external perspectives on the role of public health in climate 
+change. CHAT members conducted key informant interviews with 19 individuals on the Public Health Executive 
+Team, as well as with leaders and staff of community-based organizations in disadvantaged communities. Several 
+key themes emerged from these interviews plus two focus groups at community based gatherings and two 
+surveys—one for PHSKC staff and the other for community stakeholders:
+•	
+Knowledge: While both PHSKC staff and community residents 
+are aware of climate change and believe it is a health risk, they 
+lack knowledge about specific impacts to health. 
+•	
+Priority: Climate change is not seen as an urgent issue relative 
+to other concerns. 
+•	
+Role: PHSKC should take action and play a leadership role on 
+climate change impacts on health. Action should be grounded 
+in equity and in evidence,  integrated into existing functions, 
+and connected to community and to policy development.
+•	
+Equity: Work on climate and health must address equity 
+and social justice, social determinants of health, at-risk 
+populations, health in all policies, and increased preparedness 
+and resiliency.
+•	
+Collaboration: Community representation and engagement 
+are essential, including mechanisms to better participation in 
+county decision making processes.
+Based on these themes, and with input from CBO partners Puget Sound Sage and Got Green, and from the County 
+Climate Leadership Team, the CHAT team developed a PHSKC Blueprint for Addressing Climate Change and Health. 
+The Blueprint discusses existing opportunities and gaps, outlines strategies to increase internal capacity, and 
+identifies ways in which climate change can be integrated into existing public health programs and functions. 
+Source: Public Health Seattle-King County 
+PUBLIC HEALTH FUNCTIONS
+225
+225
+225
+Additionally, CHAT recommended a series of 
+climate and health trainings for PHSKC staff. 
+The Climate Leadership Team requested 
+that those trainings be made available to all 
+county staff. Engagement of senior PHSKC 
+leadership from the outset of the CHAT work 
+has also helped to establish climate change 
+as a priority within the executive team.
+Complementary to CHAT’s internal capacity 
+building and community engagement 
+efforts, they partnered with University 
+of Washington to develop a comic zine 
+series focused on extreme heat and heat 
+coping strategies. The zine was designed to 
+specifically reflect the cultural and ethnic 
+diversity in the Chinatown-International 
+District and Rainier Valley areas. 
+Future Work and Lessons 
+Learned
+Public health staff are now working with 
+other agencies to determine the most 
+relevant climate and health content for 
+various county staff, and scheduling climate 
+and health trainings across various agencies, 
+to include issues such as storm water, 
+food systems, air quality, extreme heat, 
+and open space. 
+Learn More
+•	
+Beating the Heat, for Your Health 
+•	 Establish a Climate and Health Action Team 
+that includes representatives from as many 
+LHD programs/divisions as possible. Include 
+subject matter experts, CBOs, academic 
+institutions, and other relevant stakeholders.
+•	 Conduct interviews and/or survey LHD 
+leadership and staff to assess current 
+knowledge and perceptions about climate 
+and health and LHD action on climate, 
+health, and equity. Conduct interviews, 
+surveys, and focus groups with CBOs, and 
+stakeholders.
+•	 Develop an internal and/or external guidance 
+document for LHD climate action on health. 
+Provide climate and health training for LHD 
+staff and other local agency staff. 
+•	 Develop a series of public educational 
+materials that are culturally linguistically 
+appropriate and accessible.
+Key Action Steps:
+PUBLIC HEALTH FUNCTIONS
+226
+226
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Use “greening” as an opportunity to talk with colleagues, LHD leadership, and other agencies about climate 
+change, its connection to health and equity, and why it’s important for your jurisdiction to lead by example on 
+climate action to improve and protect health.5        
+7.5 Greening Local Health Departments 
+LHDs can implement many practices to lead by example and reduce their own carbon footprint, while 
+contributing to improvements in community health. The National Academies of Science, Engineering and 
+Medicine recommend that “every city should develop a cohesive sustainability plan,” and many have already 
+done so.1 Find out what your jurisdiction and others in your region are already doing, and consult the many 
+resources that are available on greening health care systems, businesses, schools, and government agencies that 
+contain recommended practices that can be easily adopted and adapted for LHDs.
+For example, in 2009 the Chattanooga Green Committee (TN) identified electricity production and transportation 
+as the largest contributors of GHG in the region and established an ambitious goal to reduce GHG emissions 
+by 20% by 2020 and 80% by 2050 compared to 1990 levels.2 Initially the committee focused on increasing 
+energy efficiency and renewable energy procurement, drawing upon nearby wind and solar farms; in 2012 the 
+Chattanooga mayor issued an executive order mandating a 25% reduction in energy use by city departments and 
+buildings by 2020. The committee, Mayor’s Office, and other partners continue to advance their goals through 
+green building initiatives, coupled with affordable housing and anti-displacement measures.3  
+Greening” your department reduces GHGE, creates a healthier work and community environment, and saves 
+money through more responsible use of resources. Encourage all staff to be involved in green solutions to show 
+that your department is leading by example to build a healthier and more sustainable community. Encourage all 
+staff to be involved in green solutions and make climate change, health, equity more visible. This will show that 
+your department leads by example and is building a healthier community.
+Ten Reasons to Green Your Department 
+•	
+Greening strategies reduce greenhouse gas emissions 
+•	
+It promotes responsible use of resources
+•	
+Departments save money by lowering expenses
+•	
+It creates a healthier work environment
+•	
+It encourages teamwork by involving all staff in green solutions 
+•	
+The climate change, health, and equity connections become more visible 
+•	
+The department is seen as leading by example, because you will “walk the talk” 
+•	
+It decreases air pollution, water consumption, and waste
+•	
+You can build a healthier community 
+•	
+It helps to make sustainability a part of everyone’s daily life
+   	
+	
+	
+– Adapted from MyGreenDoctor.org4 
+PUBLIC HEALTH FUNCTIONS
+227
+227
+Establish a “Green Team”
+The recommendations below are adapted from the Alameda County, California Green Ambassadors program.6  
+Some action steps require buy-in from senior leadership or other agencies, so it is helpful to seek leadership buy-
+in from the start by talking about the many benefits of greening the LHD. 
+Cast a wide net when inviting people to join or lead a Green Team: Green Teams provide an opportunity for staff 
+in all classifications and across programs to work together for meaningful improvement in your work place. 
+•	
+Use staff meetings and trainings to talk about the Green Team and recruit volunteers to participate. 
+Reach out to other departments and programs in your LHD and request a few minutes during their staff 
+meetings as well. 
+•	
+Ask managers to send out an announcement about the first several Green Team meetings and to endorse 
+use of work time to participate.
+Ask if jurisdiction efforts are already in place to reduce waste, improve energy efficiency, transition to renewable 
+energy, reduce vehicle miles traveled, or implement local and sustainable procurement practices. What resources 
+or recommendations are available from others in sister agencies? 
+•	
+Find out who is responsible for decision making in these areas, either within your LHD or in another 
+agency, and share information with them about the health benefits of greening. 
+Identify goals and priorities—it may be helpful to think about ways in which greening relates to LHD goals or to 
+a climate action or sustainability plan.
+	
+Alameda County encouraged employees to participate in a county Clean Commute Challenge that 
+would also increase physical activity rates. 
+	
+Los Angeles County Department of Public Health staff are developing proposals to adjust routes 
+for staff who drive a lot for inspections or home visits to reduce miles traveled 
+Invite members from Green Teams from other agencies, institutions or LHDs in other jurisdictions to attend your 
+meetings and share ideas for action. 
+228
+228
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Greening Actions
+The Tables below provide recommendations for actions to green your LHD related to energy, transportation, 
+waste, and procurement, ranging from those that can be taken by individuals to others that will require more 
+coordination, support and authorization from LHD and jurisdiction leadership.
+Table 7.5.1
+ENERGY CONSERVATION, ENERGY EFFICIENCY, 
+AND CLEAN ENERGY (SEE SECTION 5.2—ENERGY)
+•	
+Train staff on energy conservation and efficiency practices
+	
+Turn off lights, computers, monitors, fax machines, copiers, and printers when not in use
+•	
+Work with operations and facilities managers to adopt and implement sustainable, healthy energy practices.
+	
+Reduce “plug” load in LHD offices by removing personal equipment such as desk lamps and space 
+heaters or installing smart power strips7  
+	
+Set thermostats to 74°F (23°C) in the summer and 68°F (20°C) in the winter, put reminder stickers on 
+thermostats, and inspect weekly8   
+	
+Audit and monitor building energy use9   
+	
+Regularly replace air filters and clean cooling towers to maximize equipment performance.
+	
+Replace all fluorescent lighting with LED lights.
+	
+Implement energy efficiency and toxics reduction protocols for custodial and cleaning services10  
+	
+Develop and implement a financing plan and schedule for energy retrofit projects11,12    
+	
+Use cool and green roofs on new roofs and repairs
+	
+Purchase energy efficient equipment 
+	
+Incorporate natural ventilation and lighting in new or remodeled buildings
+	
+Use non-potable water for landscapes13  
+	
+Procure renewable energy
+PUBLIC HEALTH FUNCTIONS
+229
+229
+Table 7.5.2
+SUSTAINABLE AND ACTIVE 
+TRANSPORTATION (SEE SECTION 5.1—TRANSPORTATION)
+•	
+Encourage and incentivize staff to use transit and active transportation to commute to work.
+	
+Provide discounted or pre-tax fare cards, showers and locked bicycle storage, and discounts on bike 
+share. 
+•	
+Support planning and financing of safe active transportation infrastructure (bike lanes, trails, sidewalks).
+•	
+Provide a shuttle service from public transit for employees, clients, and visitors to reach your facilities without 
+driving.
+•	
+Expand opportunities for telecommuting and allow schedules (e.g. 4 day/10 hour) that reduce commuting.
+•	
+For workers who drive to inspection sites or home and provider visits, consider the use of vehicle routing and 
+scheduling apps and scheduling trips so that first and last work assignments are closest to employees’ homes, 
+to reduce vehicle miles travelled. 
+•	
+Limit parking availability, and offer preferred parking for vanpool/carpools
+•	
+Install EV charging stations in parking areas and offer preferred parking for electric vehicles. 
+•	
+Invest in electric vehicles when making fleet upgrades; use low-carbon fuels until then.
+Table 7.5.3
+HEALTHY AND 
+SUSTAINABLE FOOD (SEE SECTION 5.3—AGRICULTURE)
+•	
+Encourage staff to eat less meat by providing information about the health and climate impacts.
+•	
+Source vegetarian meals from local, sustainable, underrepresented community-based caterers for meetings 
+and events.
+	
+Creating partnerships will local businesses and farmers for local will reduce transport-related 
+emissions of the food you serve, reducing overall emissions from agriculture systems. 
+•	
+If your department operates cafeterias or hospitals, implement purchasing/procurement guidelines for healthy 
+foods and provide information to patients, clients, and visitors about healthy and sustainable food. See Health 
+Care Without Harm’s Purchasing Considerations—A Supplement to Redefining Protein—Adjusting Diets to 
+Protect Pubic Health and Conserve Resources.
+•	
+Establish food waste prevention initiatives (e.g. trayless dining in cafeterias)
+•	
+Establish surplus food recovery or donation program in partnership with local non-profit hunger relief 
+agencies.
+•	
+Establish composting or food/organics waste recycling program (e.g. partner with local farmer to divert food 
+waste from the waste stream to compost or animal feed)
+Waste Reduction, Procurement 
+Waste production leads to direct greenhouse gas emissions from incinerators and landfills, while also increasing 
+emissions related to the extraction, transport, and processing of raw materials and to manufacture the products.15 
+(Tables 7.5.3 and 7.5.4)
+230
+230
+•	
+According to the EPA, if the amount of waste generated in the US was reduced to 1990 levels, greenhouse 
+gas emissions would be lowered by 18 million metric tons of carbon equivalent16 
+•	
+Government procurement has immense power to direct public funds to particular food and service 
+providers within a local economy.17   
+Table 7.5.4
+WASTE REDUCTION
+•	
+Use compostable or reusable dishware in office kitchens and for meetings and events. 
+•	
+Eliminate the use of bottled water for meetings and events whenever possible.
+	
+Provide hydration stations in office buildings, clinics, and hospitals.
+•	
+Work with operations and facilities managers to adopt and implement waste reduction practices
+	
+Conduct a waste audit and create a “Waste Management Plan” and strategies to incentivize reuse, 
+recycling, and composting, such as easily accessible bins for recycling and compostable waste.
+	
+Implement procurement policies that favor office and medical supplies with lower environmental 
+impact, such as those made from 100% post-consumer products. 
+For More Information:
+•	
+National Association of Counties, Green Government - Creating a Green County Team18  
+•	
+New York State Department of Environmental Conservation - How to Boost Energy Efficient in Municipal 
+Facilities/Operations19  
+•	
+International Council for Local Environmental Initiatives - Virtual Library20  
+•	
+Institute for Local Government - Sustainability Best Practices Framework21  
+•	
+The City Fix - Seven Ways to Encourage Sustainable Community in Your Workplace22  
+•	
+Health Care Without Harm - Purchasing Considerations23  
+•	
+Practice Greenhealth24  
+•	
+My Green Doctor25  
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+PUBLIC HEALTH FUNCTIONS
+231
+231
+Building Capacity: 
+Los Angeles County 
+Department of Public Health
+The Los Angeles County Department of Public Health (LADPH) is the largest local health department in the 
+nation, servicing over 10 million extremely diverse residents. LADPH appears to be unique among local health 
+departments as it has employed a full-time staff member dedicated to coordinate the department’s climate change 
+and health efforts since 2014. 
+The first activities of the LADPH Climate and Health program focused on education and planning. In 
+collaboration with the University of California Los Angeles Fielding School of Public Health, LADPH sponsored a 
+sixteen week workshop series, open to all staff, that provided a comprehensive overview on climate and health, 
+and offered staff an opportunity to brainstorm about how LADPH could expand its work on climate change and 
+released a public-facing report on Your Health and Climate Change. The department also developed a Five Point 
+Plan to Reduce the Health Impacts of Climate Change, which established 5 key priorities: 1) inform and engage 
+the general public about the nature of climate change and the health co-benefits associated with taking action 
+to reduce carbon emissions, 2) promote local planning, land use, transportation, water, and energy policies that 
+reduce carbon emissions and support the design of healthy and sustainable communities, 3) provide guidance 
+on climate preparedness to local government and community partners to reduce health risks and create more 
+resilient communities, 4) build the capacity of departments staff and programs to monitor health impacts, 
+integrate climate preparedness, and improve climate response, and 5) adopt best management practices  to 
+reduce carbon emission associate with department al facilitate and internal operations.
+In 2015, LADPH sought to expand its climate change work through more intentional engagement of senior 
+management and formation of a cross-department Climate and Health Workgroup. Staff met with 19 LADPH 
+executive staff who were  engaged in discussions on how their divisions and programs were addressing 
+climate change, how they could enhance those activities, and who they would  nominate for the workgroup  
+In June 2016, a 22-member intradepartmental workgroup was established with representatives from the 
+public information office, operations/facility management, chronic disease prevention and health promotion, 
+environmental health and emergency preparedness, nursing, veterinary health, communicable disease control, 
+health assessment and epidemiology, children’s medical services, and women’s health. Over the course of the 
+next year, the workgroup identified 25 specific objectives based on the overarching Five Point Plan, guiding the 
+work described below.
+The  Climate and Health Program also worked with an interagency group to address urban heat islands. LADPH 
+has chaired a multi-agency intersectoral Healthy Design Work Group since 2012. That group created the LA 
+Climate Committee—chaired by LADPH and comprised of Beaches and Harbors, Internal Services, Fire, Parks 
+and Recreation, Public Works, and Regional Planning, specifically to develop an urban heat island reduction 
+plan. The Urban Heat Island Reduction Plan outlines four strategic areas: 1) expand and maintain the urban 
+forest, 2) promote cool roofs, 3) increase urban green space, and 4) promote cool and permeable pavements. 
+Simultaneously, the Committee is also developing an outreach strategy to gain feedback and buy-in for the Plan 
+from key stakeholders.
+PUBLIC HEALTH FUNCTIONS
+From 2017 to 2018 the Climate and Health Workgroup developed 
+an Extreme Heat response Framework that outlines objectives 
+and strategies that improve the department’s preparedness and 
+response for extreme heat, in order to help protect the public from 
+the health impacts of extreme heat events. The strategies within 
+the Framework reflect the importance of increasing accessibility to 
+information and resources for vulnerable populations. For example, 
+“Objective 1: Target Vulnerable Populations” includes strategies 
+such as “1.2 Partner with organizations serving vulnerable persons 
+to disseminate heat safety information and best practices.” Other 
+strategies address accessibility and distribution of cooling centers.
+Though a partnership with the LA Department of Parks and 
+Recreation’s Parks After Dark program, set up booths at Parks 
+After Dark resource fairs to engage with community members 
+about extreme heat and distribute information about extreme heat resources such as maps to nearby cooling 
+centers. Complementary to this community engagement effort, LACDPH published two articles in the physician 
+newsletter, Rx for Prevention, on climate change, health, and the role of providers.
+Future Work and Lessons Learned
+Based on the robust foundation of internal capacity building, the LACDPH plans to expand their reach to more 
+robustly engaging with the County’s Board of Supervisors. In Summer 2018, LACDPH plans to deliver customized 
+climate change and health presentations to each Board office in order to convey the specific climate, health, and 
+equity impacts for unique populations and constituents. 
+Additionally, LACDPH plans to continue to engage in the Parks After Dark program to enhance the community 
+engagement process regarding extreme heat.
+232
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+233
+•	 Develop a climate and health training 
+or workshop for LHD staff to increase 
+interest and capacity within the LHD. 
+See LADPH workshops sessions.
+•	 Seek input from  LHD leadership 
+and staff to assess current climate 
+and health knowledge and identify 
+potential entry points for climate and 
+health work
+•	 Implement a climate and health work 
+group with participation across LHD 
+programs. 
+•	 Develop a plan that includes actionable 
+steps for each LHD program/division 
+to implement in order to meet shared 
+goals 
+•	 Collaborate with other county agencies 
+to identify venues and events for public 
+outreach regarding climate and health.
+KEY ACTION STEPS:
+Learn More 
+•	
+Los Angeles County Environmental Health Division - Climate Change and Health 
+•	
+Los Angeles County Climate and Health Workshops (LA Regional Collaborative for Climate Action and 
+Sustainability)
+•	
+Los Angeles County CalBRACE Climate and Health Profile
+•	
+California Department of Public Health’s LACDPH Case Story
+PUBLIC HEALTH FUNCTIONS

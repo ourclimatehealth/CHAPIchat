@@ -1,0 +1,3005 @@
+1 
+EXHALE 
+A Technical Package to Control Asthma 
+(Resource Document) 
+Developed by: 
+Joy Hsu 
+Kanta Sircar 
+Elizabeth Herman 
+Paul Garbe 
+2018 
+Asthma and Community Health Branch 
+Division of Environmental Health Science and Practice 
+National Center for Environmental Health 
+Centers for Disease Control and Prevention  
+Atlanta, Georgia 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Centers for Disease Control and Prevention  
+Anne Schuchat, MD (RADM, USPHS), Acting Director  
+ 
+National Center for Environmental Health  
+Patrick Breysse, PhD, MHS, Director  
+ 
+Division of Environmental Health Science and Practice 
+John Decker, MS, RPh, CIH, Acting Director  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Suggested citation:  
+Hsu J, Sircar K, Herman E, Garbe P. (2018). EXHALE: A Technical Package to Control Asthma. Atlanta, 
+GA: National Center for Environmental Health, Centers for Disease Control and Prevention.  
+3 
+ 
+Table of Contents 
+ 
+Acknowledgements .............................................................................................................................................. 4 
+External Reviewers ............................................................................................................................................... 5 
+Executive Summary .............................................................................................................................................. 6 
+Overview of EXHALE ............................................................................................................................................. 8 
+Education on Asthma Self-Management ........................................................................................................... 13 
+X-tinguishing Smoking and Secondhand Smoke 
+................................................................................................ 15 
+Home Visits for Trigger Reduction and Asthma Self-Management Education 
+................................................. 17 
+Achievement of Guidelines-Based Medical Management ................................................................................ 20 
+Linkages and Coordination of Care Across Settings........................................................................................... 23 
+Environmental Policies or Best Practices to Reduce Asthma Triggers from Indoor, Outdoor, and 
+Occupational Sources ......................................................................................................................................... 26 
+Part 1: Indoor Sources of Asthma Triggers .................................................................................................... 26 
+Part 2: Outdoor Sources of Asthma Triggers ................................................................................................. 28 
+Part 3: Occupational Sources of Asthma Triggers 
+.......................................................................................... 29 
+Sector Involvement 
+............................................................................................................................................. 31 
+Monitoring and Evaluation 
+................................................................................................................................. 34 
+Conclusion ........................................................................................................................................................... 36 
+List of Abbreviations ........................................................................................................................................... 37 
+Appendix: Summary of Strategies and Approaches of EXHALE ........................................................................ 38 
+References 
+........................................................................................................................................................... 43 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+Acknowledgements 
+ 
+We would like to thank the following individuals who contributed to the development of this technical 
+package. We thank leadership from the Centers for Disease Control and Prevention (CDC), the National 
+Center for Environmental Health, the Division of Environmental Hazards and Health Effects, and the Air 
+Pollution and Respiratory Health Branch, as well as state colleagues from the CDC National Asthma 
+Control Program, for their careful review and helpful feedback on earlier iterations of this document. 
+We thank the following individuals for their contributions to this technical package (individuals are 
+listed with their affiliations when they contributed to this document): 
+ 
+• National Center for Environmental Health, CDC: Cathy Bailey, Sheri Barrera Disler, Suzanne Beavers, 
+Matthew Blum, Dan Burrows, Ginger Chew, Pamela Collins, Scott Damon, Shirl Ellis Odem, 
+Tchernavia Gregory, Tyiesha Johnson, Robin Kuwahara, Anne Meyers, Maria Mirabelli, Ayana 
+Perkins, Jeremy Sarnat, Dorothy Stearns, Kathryn Sunnarborg, Linda Thomas-Houston, Paige Welch, 
+Maureen Wilce, Daiva Yee, Hatice Zahran 
+ 
+• National Center for Chronic Disease Prevention and Health Promotion, CDC: Anna Schechter, 
+Stephen Babb, Andrea Gentzke 
+ 
+• National Center for Injury Prevention and Control, CDC: Linda Dahlberg 
+ 
+• National Center on Birth Defects and Developmental Disabilities, CDC: Lucinda England, Van Tong 
+ 
+• National Institute for Occupational Safety and Health, CDC: Katelynn Dodd, Jacek Mazurek, Paul 
+Henneberger 
+ 
+• National Heart, Lung, and Blood Institute, National Institutes of Health: Michelle Freemer 
+ 
+Last but definitely not least, we extend our thanks and gratitude to all the external reviewers for their 
+helpful feedback, support, and encouragement for this document.
+ 
+ 
+ 
+5 
+ 
+External Reviewers  
+ 
+Kirsten Aird 
+Oregon Health Authority 
+ 
+ 
+Kurt Elward 
+American Academy of Family Physicians  
+ 
+Laura Fudala 
+National Center for Healthy Housing 
+ 
+Brittany Guerra 
+Utah Department of Health 
+ 
+Kristen Hansen 
+Health Resources & Services Administration 
+ 
+Barbara Kaplan 
+American Lung Association 
+ 
+Robert Lemanske 
+American Academy of Allergy, Asthma & Immunology 
+ 
+Amanda Reddy  
+National Center for Healthy Housing 
+ 
+David Rollason 
+National Association of Primary Care Centers 
+ 
+Girish Sharma 
+American Academy of Pediatrics 
+ 
+Tonya Winders 
+Asthma & Allergy Network 
+ 
+ 
+ 
+ 
+ 
+The experts above are listed with their affiliations at the time this document was reviewed. 
+ 
+ 
+6 
+ 
+Executive Summary 
+ 
+The EXHALE technical package represents a group of strategies, which, based on the best available 
+evidence, can improve asthma control and reduce health care costs. It is intended as a resource to 
+inform decision-making in communities, organizations, and states. 
+ 
+This table summarizes the strategies in this technical package, as well as specific ways (i.e., 
+approaches) to advance these strategies. 
+ 
+EXHALE 
+ 
+Strategy 
+Approach  
+E 
+Education on asthma 
+self-management   
+ 
+• Expanding access to and delivery of asthma self-management 
+education (AS-ME) 
+X 
+X-tinguishing 
+smoking and 
+secondhand smoke   
+• Reducing tobacco smoking  
+• Reducing exposure to secondhand smoke  
+H 
+Home visits for 
+trigger reduction and 
+asthma self-
+management 
+education  
+• Expanding access to and delivery of home visits (as needed) for 
+asthma trigger reduction and AS-ME  
+ 
+A 
+Achievement of 
+guidelines-based 
+medical management 
+• Strengthening systems supporting guidelines-based medical care, 
+including appropriate prescribing and use of inhaled corticosteroids 
+• Improving access and adherence to asthma medications and 
+devices 
+ 
+L 
+Linkages and 
+coordination of care 
+across settings 
+• Promoting coordinated care for people with asthma 
+ 
+E 
+Environmental 
+policies or best 
+practices to reduce 
+asthma triggers from 
+indoor, outdoor, and 
+occupational sources 
+• Facilitating home energy efficiency, including home weatherization 
+assistance programs 
+• Facilitating smokefree policies 
+• Facilitating clean diesel school buses 
+• Eliminating exposure to asthma triggers in the workplace whenever 
+possible 
+• Reducing exposure to asthma triggers in the workplace (if 
+eliminating exposures is not possible) 
+7 
+ 
+ 
+These strategies are complementary and intended to work in combination to reinforce each other. 
+ 
+The hope is that multiple sectors, including public health, health care, education, social services, and 
+non-governmental organizations, will use this technical package to improve asthma control in all age 
+groups. Commitment, collaboration, and leadership from numerous sectors can maximize the impact 
+of this technical package.  
+ 
+This technical package is ready for implementation now; it reflects the mature evidence base about 
+how to control asthma effectively. Monitoring and evaluation play a key role in implementing EXHALE 
+and identifying additional effective programs, policies, or practices. As new evidence becomes 
+available, this technical package can be refined to reflect the current state of the science. 
+ 
+This technical package is not a guideline or recommendation. 
+ 
+ 
+ 
+Fast Facts about Asthma in the United States 
+• One in 13 people has asthma (more than 24 million Americans)1 
+• In the United States, 50% of adults with asthma and 40% of children with asthma do not have 
+control of their disease2 
+• Each year, asthma accounts for approximately: 
+– 439,000 hospitalizations1 
+– 1.6 million emergency department visits1 
+– 10.5 million physician office visits1  
+– 13.8 million missed school days3  
+– 14.2 million missed work days4  
+• The estimated cost of treating asthma in the United States is $62.8 billion every year5 
+ 
+ 
+8 
+ 
+Overview of EXHALE 
+ 
+The EXHALE technical package represents a select group of strategies based on the best available 
+evidence to control asthma. It is a resource to inform decision-making in communities, organizations, 
+and states, by identifying strategies with the greatest potential impact on controlling asthma.  
+ 
+This table summarizes the strategies in this technical package, as well as each strategy’s associated 
+approach(es). 
+ 
+EXHALE 
+ 
+Strategy 
+Approach  
+E 
+Education on asthma 
+self-management   
+• Expanding access to and delivery of asthma self-management 
+education (AS-ME) 
+X 
+X-tinguishing 
+smoking and 
+secondhand smoke   
+• Reducing tobacco smoking  
+• Reducing exposure to secondhand smoke  
+H 
+Home visits for 
+trigger reduction and 
+asthma self-
+management 
+education  
+• Expanding access to and delivery of home visits (as needed) for 
+asthma trigger reduction and AS-ME  
+ 
+A 
+Achievement of 
+guidelines-based 
+medical management 
+• Strengthening systems supporting guidelines-based medical care, 
+including appropriate prescribing and use of inhaled corticosteroids 
+• Improving access and adherence to asthma medications and 
+devices 
+ 
+L 
+Linkages and 
+coordination of care 
+across settings 
+• Promoting coordinated care for people with asthma 
+ 
+E 
+Environmental 
+policies or best 
+practices to reduce 
+asthma triggers from 
+indoor, outdoor, and 
+occupational sources 
+• Facilitating home energy efficiency, including home weatherization 
+assistance programs 
+• Facilitating smokefree policies 
+• Facilitating clean diesel school buses 
+• Eliminating exposure to asthma triggers in the workplace whenever 
+possible  
+• Reducing exposure to asthma triggers in the workplace (if 
+eliminating exposures is not possible) 
+9 
+These strategies are complementary and intended to work in combination to reinforce each other. 
+Similarly, commitment, collaboration, and leadership from numerous sectors, including public health, 
+health care, education, social services, and non-governmental organizations, can maximize the impact 
+of this technical package.  
+Additional details on these strategies and approaches are available in the Appendix, along with 
+summaries of supporting evidence and relevant sectors well positioned to lead implementation efforts. 
+What Is a Technical Package? 
+A technical package is a compilation of a core set of strategies to achieve and sustain substantial 
+reductions in a specific risk factor or outcome.6 Technical packages help communities, organizations, 
+and states prioritize prevention activities based on the best available evidence.  
+This technical package has three components. 
+1) The strategies are the actions to achieve the goal of improved asthma control.
+2) The approaches are specific ways (e.g., programs, policies, or practices) to advance each
+strategy.
+3) The evidence is the scientific basis for each strategy or approach.
+This technical package is a resource to guide and inform decision-making in communities, 
+organizations, and states. This technical package is not a guideline or recommendation. 
+10 
+ 
+Controlling Asthma is a Priority 
+Asthma is a disease that affects the lungs.7 It can cause wheezing, trouble breathing, chest tightness, 
+and coughing.7 These symptoms increase during asthma attacks. Asthma attacks can require life-saving 
+treatment in an emergency department (ED) or hospital.7 
+ 
+Asthma is common and costly.  
+• More than 24 million Americans have asthma, affecting 1 in 12 children and 1 in 14 adults.1  
+• Each year, asthma accounts for more than 439,000 hospitalizations, 1.6 million emergency 
+department (ED) visits, and 10.5 million physician office visits.1  
+• About 10 people die of asthma each day.1  
+• Asthma has been linked to 13.8 million missed school days and 14.2 million missed work days 
+annually.3,4  
+• The estimated cost of treating asthma in the United States is $62.8 billion every year.5 
+ 
+The burden of asthma is unequally distributed.  
+• People disproportionately affected by asthma include Black Americans, Puerto Ricans, and 
+those with low income.1  
+• Black Americans are approximately 2 times more likely to die from asthma than white 
+Americans.8 
+ 
+Asthma burden can be reduced by controlling asthma.  
+• In the United States, 50% of adults with asthma and 40% of children with asthma do not have 
+control of this disease.2  
+• By taking appropriate medicine and avoiding triggers that can cause asthma attacks, asthma 
+can be controlled and many asthma attacks can be prevented.7  
+ 
+More About Asthma Control 
+ 
+According to national guidelines7, controlling asthma consists of: 
+1. Reducing impairment, which includes preventing asthma symptoms, reducing rescue 
+medication use, maintaining lung function, and maintaining normal physical activity levels and 
+attendance at work or school 
+2. Reducing risk, which includes minimizing the need for ED visits and hospitalizations and 
+preventing repeated asthma attacks 
+ 
+In other words, controlling asthma: 
+• Prevents symptoms like wheezing or coughing 
+• Prevents ED visits and hospitalizations for asthma 
+• Prevents missed work or school because of asthma 
+• Helps people take part in all physical activities 
+ 
+ 
+ 
+11 
+ 
+Assessing the Evidence  
+ 
+Assessing the evidence for this technical package included identifying impact on asthma control and 
+characterizing the strength of evidence.  
+• Evidence included in this technical package had to show a beneficial impact on asthma control. 
+• Priority was given to meta-analyses or systematic reviews, followed by randomized controlled 
+trials, and then quasi-experimental designs. If these study designs were unavailable because of 
+feasibility or ethics, pre–post comparisons were acceptable (e.g., interventions implemented by 
+a state or health insurance plan).  
+• Impact on asthma control and strength of evidence are summarized in the text descriptions of 
+the strategies, as well as in the Appendix. 
+• In addition, priority was given to evidence from the United States. Regarding evidence from 
+another country, consideration was given to the feasibility of implementation in a U.S. context. 
+ 
+The examples provided in this technical package are not a comprehensive list of evidence-based 
+programs, practices, or policies for each approach.  
+• These are examples of success in improving asthma control.  
+• Not all programs, practices, or policies that implement the same approach (e.g., home visits) 
+are successful or equally effective; even those that are effective might not work across all 
+populations.9  
+ 
+In practice, the effectiveness of the programs, practices, and policies identified in this package will 
+vary.  
+• Factors affecting these programs, practices, and policies include the quality of their 
+implementation and the communities in which they are implemented.  
+• Tailoring and evaluating programs could improve understanding of program effectiveness 
+across different communities.  
+ 
+This technical package is ready for implementation now.  
+• This technical package reflects the mature evidence base about how to control asthma. 
+• Progress will continue to be made into the future.  
+• As new programs, policies, or practices are identified, evaluated, and shown to be effective, this 
+technical package can be updated and refined.  
+• Implementation guidance has been or will be developed separately. Examples of existing 
+implementation resources are described or referenced in the text description of each strategy. 
+ 
+ 
+12 
+ 
+Contextual and Cross-Cutting Themes 
+ 
+An integrated approach to controlling asthma can achieve the greatest public health impact.  
+• Research indicates multifaceted interventions to control asthma are generally more effective 
+than individual strategies in isolation.7  
+• The strategies in this technical package work in combination and reinforce each other to control 
+asthma.  
+• Extensive, long-lasting improvements in asthma control are best achieved by a focus across 
+individuals, families, communities, health care providers, and societal-levels and across all 
+sectors, private and public.7  
+ 
+The social and cultural context of individuals and their communities is a critical consideration when 
+implementing EXHALE.  
+• The example programs, practices, and policies provided in this technical package have been 
+implemented within particular contexts.  
+• Practitioners in the field might be in the best position to assess needs and existing resources in 
+their communities and to work with partners to implement EXHALE successfully. 
+ 
+Engagement is important for the successful implementation of this technical package.  
+• Engagement of people with asthma, their families, communities, and health care providers, 
+among others, is vital to effective implementation of EXHALE. Thus, addressing barriers to 
+engagement is valuable.10,11  
+• Engagement and investment from multiple sectors are important for successful implementation 
+of EXHALE. Public health agencies are well positioned to lead implementation efforts for 
+selected EXHALE strategies and can serve as important collaborators for other EXHALE 
+strategies. Leadership and commitment from other sectors (e.g., health care) are critical to 
+implement strategies such as Achievement of Guidelines-Based Medical Management.  
+• The role of various sectors in implementing EXHALE is described further in the section on Sector 
+Involvement (page 31).  
+ 
+The sections that follow describe the strategies and approaches with the best available evidence for 
+improving asthma control. 
+ 
+Examples of Barriers to Engagement 
+ 
+• Among people with asthma, barriers to engagement include social determinants of health. 
+These can affect availability of resources (e.g., time, money) to prioritize preventive behaviors 
+to control their or their children’s asthma.12,13 Relatedly, household chaos (overall physical, 
+social, and environmental disorder in the household), has been linked to less patient 
+engagement and control of chronic disease.14-18  
+ 
+• Among health care providers, engagement can be influenced by productivity expectations and 
+burnout, which in turn can affect quality of care.11  
+13 
+ 
+Education on Asthma Self-Management     
+ 
+Rationale for this Strategy 
+• Asthma self-management education (AS-ME) is an important strategy for controlling asthma, 
+according to national guidelines.7  
+• Key educational messages of AS-ME include basic facts about asthma, roles of 
+medications, how to use asthma medications correctly, what to do when asthma symptoms 
+worsen, and how to reduce exposures to asthma triggers (i.e., environmental allergens and 
+irritants). 7 
+• Local, state, and federal factors (e.g., availability of AS-ME providers or provider reimbursement 
+mechanisms) can limit access to and delivery of AS-ME.9,19-21  
+• Improving access to and delivery of AS-ME can improve asthma control and reduce health care 
+costs.7,9 
+ 
+Approach for this Strategy 
+ 
+Expanding access to and delivery of asthma self-management education  
+• Effective AS-ME can be delivered in a variety of settings (e.g., individual, family, or group 
+education in a clinic, school, pharmacy, or community) by a variety of providers (e.g., nurses, 
+respiratory therapists, certified asthma educators, or community health workers).7,9,22  
+• National standards exist for providing AS-ME and training asthma educators.19,23   
+• AS-ME requires repetition and reinforcement.7 
+• 
+Proven models and potential pathways for sustainable delivery of AS-ME are discussed at 
+http://www.cdc.gov/sixeighteen/asthma and in other public resources.9,24,25  
+ 
+Evidence for this Strategy 
+ 
+Expanding access to and delivery of asthma self-management education  
+• Many studies have shown that AS-ME can improve asthma control and medication adherence 
+while reducing ED visits, hospitalizations, and missed work or school days.7,9,22,26   
+• Over 25 U.S. programs have shown that AS-ME often can reduce health care costs within 1 to 3 
+years, by preventing asthma-related ED visits, hospitalizations, or urgent care visits9, including:  
+ Adult and pediatric patients of community health centers (i.e., federally qualified health 
+centers) who received 5 AS-ME lessons experienced fewer ED and urgent care 
+visits.9,27,28 Their health insurance plan observed cost savings of 22% for adult patients 
+and 39% for pediatric patients.9,27,28 
+ When school nurses at 61 schools received training and supplies to provide AS-ME to 
+their students, participating students experienced better asthma control and saved 
+Medicaid an average of $1,431 per student over 1 year.29 
+• U.S. health insurance plans have engaged in approximately 20 AS-ME programs reporting 
+return on investment or other cost savings data, including at least 15 home-based AS-ME 
+programs and 4 programs providing AS-ME in other settings such as clinic.9,30,31 Additional 
+14 
+ 
+information on home visits is available in the section Home Visits for Trigger Reduction and 
+Asthma Self-Management Education (page 17). 
+ 
+Additional details on the evidence for this strategy and its approach are available in the Appendix. 
+ 
+What Is a Certified Asthma Educator?  
+• A certified asthma educator typically is a licensed health care professional (e.g., nurse, 
+respiratory therapist) with an additional certification in asthma education, but non-health care 
+professionals also can become certified if they have at least 1,000 hours of relevant experience 
+and pass the National Asthma Educator Certification Board Exam.23 
+• Multiple effective, economically sustainable programs implementing EXHALE strategies (e.g., 
+AS-ME, home visits for trigger reduction and AS-ME) have involved certified asthma 
+educators.9,32-34 
+• Additional information regarding certified asthma educators is available online.23 
+ 
+What Is a Community Health Worker?  
+• A community health worker is a frontline public health worker who is a trusted community 
+member or has a deep cultural understanding of the community served. This person serves as a 
+liaison between health and social services and the community to facilitate access to services 
+and to improve the quality and cultural competence of service delivery.  
+• Multiple effective, economically sustainable programs implementing EXHALE strategies (e.g., 
+AS-ME, home visits for trigger reduction and AS-ME, coordination of care) have involved 
+community health workers.9,33,35,36 
+• Additional information regarding community health workers, including asthma-specific training 
+tools, is available at http://www.cdc.gov/stltpublichealth/chw and in other public resources.37-
+42 
+ 
+ 
+ 
+ 
+15 
+ 
+X-tinguishing Smoking and Secondhand Smoke 
+ 
+Rationale for this Strategy 
+• Tobacco smoke is a known trigger of asthma attacks.7,43 National asthma guidelines 
+recommend people with asthma avoid smoking and exposure to secondhand smoke.7  
+• About 1 in 5 of U.S. adults with asthma smoke cigarettes and about 9% of adult asthma-related 
+ED visits are related to smoking.44,45  
+• Approximately half of children with asthma (54%) are exposed to secondhand smoke in the 
+home; this exposure is linked to a 63% increase in asthma-related ED visits among low-income, 
+urban children.46,47  
+• Secondhand smoke exposure before birth is a risk factor for childhood asthma and wheezing.48-
+52 Thus, national asthma guidelines recommend pregnant women avoid both smoking and 
+exposure to secondhand smoke.7 
+• Interventions to reduce smoking and secondhand smoke exposure can improve asthma control 
+and reduce health care costs.7,43,53-56 
+ 
+Approaches for this Strategy 
+ 
+Reducing tobacco smoking 
+• National guidelines for reducing tobacco smoking recommend interventions such as cessation 
+counseling (individual, group, or telephone-based) and cessation medications approved by the 
+Food and Drug Administration (FDA).57-63  
+• Proven approaches include focused tobacco cessation interventions as well as those provided in 
+combination with other asthma-related interventions (e.g., self-management education).58-60,64 
+Additional information on reducing tobacco smoking is available in national tobacco cessation 
+guidelines57 and at http://www.cdc.gov/tobacco.   
+ 
+Reducing exposure to secondhand smoke 
+• Providing tobacco cessation counseling or FDA-approved cessation medications to parents or 
+caregivers of children with asthma is effective, especially when combined with other asthma-
+related interventions (e.g., self-management education).65-73  
+• Many successful programs have delivered these interventions through home visits.65-73 
+Additional information on home visits is available in the section Home Visits for Trigger 
+Reduction and Asthma Self-Management Education (page 17). 
+• Proven interventions to reduce smoking among pregnant women could reduce secondhand 
+smoke exposure before birth, a recommendation of national asthma guidelines.7,62,74-76  
+• Smokefree policies are effective in reducing exposure to secondhand smoke and improving 
+asthma control. Additional information is available in the section Environmental Policies or Best 
+Practices to Reduce Asthma Triggers from Indoor, Outdoor, and Occupational Sources (page 
+26).77  
+ 
+ 
+16 
+ 
+Evidence for this Strategy 
+ 
+Reducing tobacco smoking 
+• Research shows that tobacco cessation can improve asthma control and lung function while 
+reducing rescue medication use, ED visits, and urgent office visits.58-60,78 Significant 
+improvements in lung function have been observed as early as 24 hours after quitting 
+smoking.79 
+• For example, a controlled study that provided nicotine replacement therapy (chewing gum or 
+oral inhaler) to adults with asthma found significant improvements in asthma symptoms, 
+quality of life, rescue medication use, and lung function. Individuals who quit smoking also 
+needed 25% less inhaled steroid medication to control their asthma.58 
+ 
+Reducing exposure to secondhand smoke 
+• Research shows that providing tobacco cessation treatments to parents or caregivers of 
+children with asthma can reduce ED visits, hospitalizations, and missed school days; these 
+treatments can also reduce health care costs.65-69,71,80 These studies include multiple 
+randomized controlled trials66-69,71 and also include populations with high asthma burden (e.g., 
+Medicaid-eligible, African American, or Puerto Rican).65-69,71,80 
+• 
+For example, a program providing 3 home visits for tobacco cessation counseling and asthma 
+self-management education to Medicaid-enrolled parents or caregivers of children with asthma 
+significantly reduced asthma-related ED visits, hospitalizations, and office visits among these 
+children, as well as associated health care costs.69 
+ 
+Additional details on the evidence for this strategy and its approaches are available in the Appendix. 
+ 
+ 
+17 
+ 
+Home Visits for Trigger Reduction and Asthma Self-
+Management Education 
+ 
+Rationale for this Strategy 
+• Home visits to reduce environmental asthma triggers and provide asthma self-management 
+education (AS-ME) can improve asthma control (e.g., when asthma is not controlled despite 
+guidelines-based medical management and AS-ME outside the home).7,9,81,82 
+• Home visits can reveal barriers to patient engagement, adherence, or asthma control not 
+previously recognized or fully appreciable in the outpatient, ED, or hospital setting (e.g., 
+housing conditions, social stressors, work and family obligations that affect individuals’ or 
+families’ abilities to manage asthma).83 
+• Home visit programs for asthma remain limited. Local, state, and federal factors play a role 
+(e.g., availability of home visit programs, infrastructure to pay for home visit services or 
+providers).7,9,10,81,82,84  
+• Improving access to and delivery of home visits for selected people with asthma can improve 
+asthma control and reduce health care costs.7,9,81,82  
+ 
+Approach for this Strategy 
+ 
+Expanding access to and delivery of home visits (as needed) for asthma trigger reduction and AS-ME  
+• 
+Home visits might be necessary to improve asthma control among some individuals with 
+asthma (e.g., those whose asthma is not controlled despite guidelines-based medical 
+management and AS-ME outside the home).7,9,81,82 
+• 
+These home visit programs can serve as care management programs for people at high risk for 
+asthma attacks.85  
+• 
+Effective home visit programs provide both multifaceted asthma trigger reduction and AS-
+ME.7,9,81,82 
+• 
+A variety of providers can effectively deliver home visits for asthma, including nurses, 
+respiratory therapists, certified asthma educators, and trained community health 
+workers.7,9,81,82 
+• To reduce asthma triggers in the home (e.g., cockroaches, dust mites, mold, secondhand 
+smoke), successful programs have provided, at a minimum, education on how individuals or 
+families can decrease their exposure to asthma triggers.7,9,81,82 Some programs help participants 
+even further, e.g., through integrated pest management, providing supplies (e.g., bedding 
+encasements, cleaning supplies), or communicating with health care providers, schools, or 
+social services. The importance of these linkages is further described in the section Linkages 
+and Coordination of Care Across Settings (page 23).9  
+• 
+Relevant implementation guidance is available in CDC’s Strategies for Addressing Asthma in 
+Homes86 and other public resources.40,87,88 Proven models and potential pathways for 
+sustainable delivery of home visit programs for asthma are discussed at 
+http://www.cdc.gov/sixeighteen/asthma and elsewhere online.9,24,87,89 
+18 
+•
+Addressing barriers that prevent people with asthma from participating in home visit programs
+(e.g., trust or scheduling concerns) could improve program efficiency.10,13
+Evidence for this Strategy 
+Expanding access to and delivery of home visits (as needed) for asthma trigger reduction and AS-ME 
+•
+Many studies, including a systematic review and multiple randomized controlled trials, have
+shown that home visits can improve asthma control and medication adherence while reducing
+ED visits, hospitalizations, and missed work or school days.7,9,35,81,82,90-95
+•
+Over 40 U.S. programs have shown that home visits can reduce health care costs.9,96 Among
+these programs, the median estimated time to achieve return on investment was 3 years.9
+•
+For example, a randomized controlled trial found that a program offering Medicaid-enrolled
+children up to 4 home visits by a community health worker for trigger reduction and AS-ME
+(over a 4 month period) significantly reduced urgent asthma-related health care utilization (e.g.,
+ED visits, hospitalizations) and achieved a return on investment of $1.90 per $1 spent within 2
+years.35
+•
+U.S. health insurance plans have engaged in at least 15 asthma-related home visit programs
+reporting return on investment or other cost savings data.9,30,31
+Additional details on the evidence for this strategy and its approach are available in the Appendix. 
+Selected State Success Stories 
+Michigan: Managing Asthma Through Case-management in Homes (MATCH) Programs 
+•
+Nurses or respiratory therapists (all certified asthma educators) providing home visits for case
+management, AS-ME, and trigger reduction have reduced ED visits and hospitalizations by
+~60%, while also reducing missed school and work days.9,32,97
+•
+Multiple Medicaid health insurance plans have reimbursed providers for these services.
+•
+These services have been replicated across the state.
+•
+Return on investment is an estimated as $2.10 per $1 spent.9,32,34,97
+Montana: Montana Asthma Home Visiting Program (MAP) 
+•
+Nurses providing home visits for trigger reduction and AS-ME have reduced asthma symptoms,
+ED visits, and missed school and work days.97,98
+•
+This program also has improved asthma control, inhaler technique, and self-management
+among participants.95,97
+Rhode Island: Home Asthma Response Program (HARP) 
+•
+Certified asthma educators and community health workers teamed up to provide home visits
+for AS-ME and trigger reduction (including environmental supplies); these home visits reduced
+ED and hospital costs by 76%, an average of $1,606 per program participant over the following
+year. Overall return on investment was $1.33 per $1 spent.33
+•
+Even greater cost savings were seen among the subset of ‘high utilizers’ (participants with at
+least 2 asthma-related ED visits or 1 hospitalization prior to program enrollment). For high
+19 
+utilizers, ED and hospital costs decreased 80%, an average of $2,708 per person over the 
+following year. Among high utilizers, return on investment was $2.26 per $1 spent.33 
+•
+Quality indicators also improved, with asthma medication ratio HEDIS scores increasing from
+32% to 46%, use of asthma action plans rising from 20% to 80%, and participants with well-
+controlled asthma growing from 20% to 52%.33
+For more information on certified asthma educators and community health workers, please see the text 
+box on page 14. 
+20 
+ 
+Achievement of Guidelines-Based Medical Management 
+ 
+Rationale for this Strategy 
+• Evidence-based recommendations for medical management of asthma are provided in national 
+asthma guidelines (i.e., Expert Panel Report 3: Guidelines for the Diagnosis and Management of 
+Asthma [EPR-3] from the National Asthma Education and Prevention Program).7 
+• However, guidelines-based medical management of asthma is not routine, leading to 
+inadequate asthma control.99-102  
+• Increased use of guidelines-based medical management can improve asthma control and 
+reduce health care costs.101-106 
+• Evidence-based opportunities to increase use of guidelines-based medical management of 
+asthma among populations include strengthening system supports and improving access and 
+adherence to asthma medications and devices (e.g., spacers).26,101-110 
+ 
+Approaches for this Strategy 
+ 
+Strengthening systems supporting guidelines-based medical care, including appropriate prescribing 
+and use of inhaled corticosteroids 
+• Effective interventions providing clinical support or feedback include: 
+ Focused training of health care providers including physicians, nurses, and 
+pharmacists.99,104,105,111 
+ Audit and feedback systems implemented by health care organizations or health 
+insurance plans, which analyze medical records to identify patients who could benefit 
+from asthma control interventions.99,104,112,113 
+ Decision support tools (electronic or paper-based) designed to promote guidelines-
+based medical management (e.g., pocket-sized guidelines summaries, system 
+reminders, treatment algorithms).99,114 
+• Other interventions shown to support access to or delivery of guidelines-based medical care 
+include: 
+ School-based health centers, which provide primary health care on-campus or off-site. 
+More information about school-based health centers is available online.115-119 
+ Coordinated care for people with asthma. Additional information on coordinated care is 
+available in the section Linkages and Coordination of Care Across Settings (page 23). 
+• Quality improvement projects and initiatives are examples of ways to implement these types of 
+interventions.99,106 
+• Relevant implementation guidance is available in several publications produced by the National 
+Asthma Education and Prevention Program, which is coordinated by the National Institutes of 
+Health.100,120  
+ 
+Improving access and adherence to asthma medications and devices 
+• Copayment amounts for asthma medications and devices can influence whether people with 
+asthma obtain prescribed treatments.108-110 
+ 
+21 
+ 
+• A proven method of improving adherence is shared treatment decision-making, in which 
+patients with asthma and their health care providers collaborate to decide on treatment.26,107 
+This process provides opportunities to discuss patient goals, preferences, or concerns.26,107 
+ 
+Evidence for this Strategy 
+ 
+Strengthening systems supporting guidelines-based medical care, including appropriate prescribing 
+and use of inhaled corticosteroids 
+• Many studies, including a systematic review and multiple randomized controlled trials, have 
+shown interventions providing asthma-related clinical support or feedback to health care 
+providers can improve patients’ asthma symptoms and controller medication use while 
+reducing ED visits, hospitalizations, and missed school days.10,94,99,104-106,114,121 
+• For example, a large randomized controlled trial found that a 2-session interactive training for 
+primary care physicians led to a 45% decrease in asthma-related ED visits and a 46% decrease in 
+days limited by asthma symptoms among patients of physicians who received this training (the 
+Physician Asthma Care Education curriculum).105,121  
+• Audit and feedback systems (e.g., using claims data) also can reduce asthma-related ED visits by 
+up to 55% and hospitalizations by up to 56%. Return on investment for these systems is an 
+estimated $2 to $4 per $1 spent.10,103,104,106 
+• A systematic review found fewer asthma-related ED visits and hospitalizations occurred among 
+students of schools with school-based health centers, compared to schools without school-
+based health centers. 115-119 
+ 
+Improving access and adherence to asthma medications and devices 
+• Studies have linked access to prescribed asthma treatments to improved asthma control, 
+increased controller medication use, reduced rescue medication use, fewer ED visits and 
+hospitalizations, and lower health care costs.26,107-110,122,123 
+• Effects of out-of-pocket medication costs on medication adherence and health outcomes have 
+been studied in over 51,000 people with asthma.108-110 Two of these studies showed that higher 
+copayment costs affected whether people obtained prescribed asthma treatments.109,110 An 
+additional study demonstrated that higher out-of-pocket costs for asthma medications were 
+associated with less medication use and more asthma-related hospitalizations.108 
+• Shared treatment decision-making between people with poorly controlled asthma and their 
+health care providers led to improved asthma control, fewer asthma-related medical visits, 
+decreased rescue medication use, and better lung function, in a large randomized controlled 
+trial of more than 600 participants.107 
+ 
+Additional details on the evidence for this strategy and its approaches are available in the Appendix. 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+ 
+ 
+State Success Story 
+ 
+Missouri: Drug Utilization Review of Medicaid Pharmacy Claims Data 
+• This quality improvement intervention analyzed Medicaid pharmacy claims data to identify 
+people with asthma whose medication use did not follow guidelines-based medical 
+management; these individuals’ health care providers were then notified by mail.124 
+• In one year, this audit and feedback system improved controller medication adherence, 
+decreased overutilization of rescue inhalers, and resulted in Medicaid savings on pharmacy 
+costs.124 
+• Medicaid savings on asthma-related medications were $5.92 per patient per month (compared 
+to a control group), leading to a total estimated savings of more than $430,000 for the 6-month 
+post-intervention period.124 
+23 
+ 
+Linkages and Coordination of Care Across Settings 
+ 
+Rationale for this Strategy 
+• Coordinated care includes promoting linkages within and across the health care system and 
+community services to address patients’ needs (e.g., medical, social) and improve 
+health.10,125,126 
+• Improved coordination of care could reduce total U.S. health care expenditures by $240 to 
+$310 billion annually.127 
+• Improving access to coordinated care for people with asthma can improve asthma control and 
+reduce health care costs.9,36,128-138 
+ 
+Approach for this Strategy 
+Promoting coordinated care for people with asthma 
+• Health care provider organizations, health insurance plans, schools, and community 
+organizations can emphasize coordinated care through interventions such as patient-centered 
+medical homes, disease management, case management, and school- or community-based 
+programs.9,36,128-138 
+• A variety of providers can successfully coordinate care and facilitate linkages across settings, 
+including nurses, community health workers, social workers, and case managers.9,10,36,128-138 
+• Successful coordination of care can: 
+ Be facilitated by partnerships and health information exchange (e.g., using health 
+information technology) between organizations or sectors such as health care, 
+education, and non-governmental organizations.10,113,129-131,139-141 
+ Involve or support other strategies in this technical package (e.g., AS-ME, home visits for 
+trigger reduction and AS-ME, achievement of guidelines-based medical 
+management)9,36,128-133; these strategies are described further in their respective 
+sections of this document. 
+• Relevant implementation guidance is available at http://pcmh.ahrq.gov, 
+http://bphc.hrsa.gov/qualityimprovement/clinicalquality/accreditation-pcmh/selection.html, 
+and in other public resources.142,143 
+ 
+What Is a Patient-Centered Medical Home?  
+ 
+A patient-centered medical home, also known as a primary care medical home, is a model of health 
+care that puts patients at the forefront of care.125,142 Its priorities include: 
+• Coordinated, team-based, patient-centered care 
+• Linkages among care providers 
+• Health care quality  
+ 
+Studies have shown this model can improve health care quality, patient experiences and staff 
+satisfaction while reducing health care costs.142 
+ 
+24 
+ 
+Evidence for this Strategy 
+ 
+Promoting coordinated care for people with asthma 
+• Many studies, including several randomized controlled trials, have shown that coordinated care 
+can improve asthma control and controller medication use while reducing ED visits, 
+hospitalizations, and missed school and work days.9,36,94,128-136,144 
+• Multiple programs have shown that coordinated asthma care can reduce health care 
+costs.133,134,138 Return on investment has been reported as $1.33 per $1 spent within 3 years.133 
+• A wide variety of providers and organizations have improved asthma control by expanding 
+access to coordinated care for people with asthma, including: 
+ Numerous health insurance plans across the country have improved asthma control 
+and reduced health care costs by coordinating asthma care using trained staff members 
+(e.g., case managers or community health workers) or contracts with community 
+organizations to provide these services, often through home visits.9,10 Additional 
+information on home visits is available in the section Home Visits for Trigger Reduction 
+and Asthma Self-Management Education (page 17). 
+ A state chapter of the American Academy of Pediatrics, supported by state and federal 
+funding, implemented patient-centered medical homes in 92 pediatric practices and 
+improved asthma control within 100 days, including an 18% reduction in missed school 
+days and a 21% reduction in ED visits and acute care visits.128 
+ A hospital-run, community-based program emphasizing coordinated asthma care 
+through services including nurse case management, linkage to primary care providers, 
+and home visits for trigger reduction and AS-ME reduced ED visits by 68% and 
+hospitalizations by 85%,132 Return on investment was $1.33 per $1 spent within 3 
+years.133 
+ School-based programs providing coordinated asthma care (including increased 
+communication between schools and primary care providers) through school nurses or 
+other staff have improved asthma control and reduced ED visits, urgent care visits, and 
+missed school days.130,131 These successful programs have also provided AS-ME to 
+children or families.130,131 Additional information on school-based strategies to address 
+asthma is available in CDC’s Strategies for Addressing Asthma in Schools.145 
+ 
+Additional details on the evidence for this strategy and its approach are available in the Appendix. 
+ 
+ 
+25 
+ 
+State Success Story 
+ 
+Indiana: Parkview Health’s Emergency Department Asthma Call Back Program 
+• A registered nurse or registered respiratory therapist contacts (via phone or email) people with 
+asthma who visit Parkview Health’s emergency department (ED) within 7–14 days of the 
+visit.146,147 These staff provide various services, including discussing the status of asthma 
+control, assessing whether people can afford prescribed asthma medications, offering home 
+visits, linking people to primary care physicians and patient-centered medical homes, 
+encouraging people to make and keep regular medical appointments, and providing AS-ME and 
+mitigation resources as needed.146,147  
+• This program has effectively reduced asthma-related ED visits and missed school and work 
+days.146,147 
+• Return on investment is >$1 per $1 spent.147,148 
+• Collaboration between the local health care system, local school districts, and the local and 
+state health department helped this program succeed.146,147,149,150 
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+ 
+Environmental Policies or Best Practices to Reduce Asthma 
+Triggers from Indoor, Outdoor, and Occupational Sources 
+ 
+ 
+This section has three parts. 
+Part 1: Indoor sources of asthma triggers 
+Part 2: Outdoor sources of asthma triggers 
+Part 3: Occupational sources of asthma triggers 
+ 
+The approaches described in each part of this section represent the best available evidence to improve 
+asthma control. As the evidence base grows for environmental policies or best practices to reduce 
+asthma triggers, these approaches can be updated and refined. 
+ 
+ 
+Part 1: Indoor Sources of Asthma Triggers 
+ 
+Rationale for this Strategy (Part 1) 
+• Overall, people spend 90% of their time indoors and much of this time is spent in the home.151 
+• Indoor sources of asthma triggers include mold, secondhand smoke, dust mites, rodents, 
+cockroaches, and furry household pets.152 
+• Interventions to reduce indoor sources of asthma triggers can improve asthma control and be 
+cost-saving.153-163 
+ 
+Approaches for this Strategy (Part 1) 
+ 
+Facilitating home energy efficiency, including home weatherization assistance programs 
+• Home improvement incentives (e.g., loans, grants, or tax credits) can help low-income families 
+improve their homes’ energy efficiency and simultaneously reduce or remove health hazards 
+such as mold, moisture, or pests.164,165 
+• Examples exist of incentives implemented at the local, state, or federal level.165-171 
+• Some home weatherization improvements that can reduce indoor sources of asthma triggers 
+include improving insulation, ventilation, and moisture control.165,170 These changes can 
+complement home visit programs for asthma.13,172 Additional information on home visits is 
+available in the section Home Visits for Trigger Reduction and Asthma Self-Management 
+Education (page 17). 
+ 
+Facilitating smokefree policies 
+27 
+ 
+• Numerous U.S. communities, states, and other nations have implemented comprehensive 
+smokefree policies, which prohibit smoking in all indoor spaces of workplaces, restaurants, and 
+bars.153-160,173,174 
+• Enforcement is easier and effectiveness of smokefree policies is greater when fewer policy 
+exemptions exist (e.g., exemptions for designated smoking areas or certain types of restaurants 
+or bars).175-177 
+• Smokefree policies for residences (e.g., houses, apartments) can be voluntary or mandatory; 
+individuals, families, or property owners (public or private) can implement these policies.178,179  
+• Smokefree policies reduce tobacco smoking and reduce nonsmokers’ exposure to secondhand 
+smoke. Additional information on tobacco use and secondhand smoke is available in the section 
+X-tinguishing Smoking and Secondhand Smoke (page 15). 
+ 
+Evidence for this Strategy (Part 1) 
+ 
+Facilitating home energy efficiency, including home weatherization assistance programs 
+• Studies have shown improving the homes of low-income individuals or families (e.g., through 
+home weatherization assistance programs) can reduce asthma-related ED visits, health care 
+costs, missed work, or missed school days.161-163  
+• The cost of weatherizing an entire house can be comparable to the cost of one hospitalization 
+for asthma.170,180  
+• A study from the state of Washington observed asthma-related Medicaid costs decreased an 
+average of $785 per person per year, among individuals participating in a weatherization 
+assistance program to improve their homes.162   
+ 
+Facilitating smokefree policies 
+• Multiple U.S. studies, including a systematic review, have found that smokefree policies can 
+reduce asthma-related ED visits and hospitalizations.153-160,181 
+• Besides improving asthma control153-160, smokefree policies have decreased hospitalizations for 
+heart attacks, reduced health care costs, and lowered the cost of cleaning, repairing, or 
+maintaining housing.181-184 
+• Smokefree policies with fewer exemptions have been linked to larger reductions in 
+hospitalizations for respiratory conditions (e.g., asthma), compared to smokefree policies with 
+more exemptions.157 
+• A systematic review of 179 studies showed that smokefree policies have not hurt the business 
+activity of restaurants, bars, or companies catering to tourists.176,181,185 
+ 
+Additional details on the evidence for this strategy and its approaches are available in the Appendix. 
+ 
+ 
+28 
+ 
+Part 2: Outdoor Sources of Asthma Triggers 
+ 
+Rationale for this Strategy (Part 2) 
+• Strong evidence links outdoor air pollutants (e.g., from vehicle exhaust, factory emissions, or 
+smoke) to increased asthma-related ED visits and hospitalizations.186, 187, 188  
+• Children with asthma can be especially vulnerable to negative health effects caused by air 
+pollution.189,190  
+• Interventions to reduce outdoor air pollution can improve asthma control and be cost-saving 
+for communities.191,192 
+ 
+Approach for this Strategy (Part 2) 
+ 
+Facilitating clean diesel school buses 
+• Adopting clean diesel technology for school buses involves retrofitting or modifying school 
+buses with older diesel engines to run more cleanly (e.g., by using diesel oxidation catalysts, 
+crankcase ventilation systems, or ultralow-sulfur diesel fuel).192 
+• States or local jurisdictions have obtained clean diesel school buses using voluntary incentives 
+(e.g., grants or rebates) or mandatory regulation.191-196 
+• Decreased diesel emissions from using clean diesel school buses can complement existing 
+policies to reduce school bus idling in multiple states.197-199  
+ 
+Evidence for this Strategy (Part 2) 
+ 
+Facilitating clean diesel school buses 
+• U.S. school districts adopting clean diesel technology for some or all of their school buses have 
+improved children’s lung function, decreased asthma- or bronchitis-related hospitalizations by 
+23%, and reduced missed school days by 8%; some benefits can occur within one month of 
+making these changes (e.g., missed school days).191,192 
+• So far, switching to clean diesel school buses has prevented approximately 14 million missed 
+school days in the United States.191 
+• Return on investment is an estimated $7 to $16 per $1 spent on shifting to clean diesel school 
+buses, because of savings from averted respiratory-related hospitalizations.192 
+• Existing studies might underestimate the overall public health benefits of using clean diesel 
+school buses, because other research has linked diesel emissions to other illnesses (e.g., 
+pneumonia, heart disease, cancer).200-203 Over half of U.S. children (approximately 25 million) 
+ride school buses to and from school.204 On average, these children spend nearly 45 minutes 
+each day on the bus.191 
+ 
+Additional details on the evidence for this strategy and its approaches are available in the Appendix. 
+29 
+ 
+Part 3: Occupational Sources of Asthma Triggers 
+ 
+Rationale for this Strategy (Part 3) 
+• Workplace conditions can cause asthma (this is called “occupational asthma”). Approximately 1 
+in 6 cases of adult-onset asthma are attributable to occupation.205 
+• Workplace conditions also can worsen existing asthma (this is called “work-exacerbated 
+asthma” or “work-aggravated asthma”). More than 1 in 5 adults with asthma experience this 
+effect.206 
+• The overall estimated cost of work-related asthma (i.e., the combination of occupational 
+asthma and work-exacerbated asthma) is at least $1.6 billion annually.207 People with work-
+related asthma experience more long-term disability, frequent health care use, loss of income, 
+and unemployment compared to people with asthma that is not work-related.208-210 
+• Interventions to eliminate or reduce workplace triggers of asthma can prevent occupational 
+asthma, improve control of work-related asthma, and reduce health care costs.208,211-213 Asthma 
+medications complement but do not replace interventions in the workplace environment.208 
+ 
+Approaches for this Strategy (Part 3) 
+ 
+Eliminating exposure to asthma triggers in the workplace whenever possible  
+• Effective methods to eliminate workplace exposure to asthma triggers include engineering 
+controls (e.g., in ventilation systems) or replacing workplace materials that can cause or trigger 
+asthma with other materials without these effects.211,213 
+• Another proven method is to change work responsibilities or jobs, but this option can result in 
+unemployment or loss of income for the worker.208 
+• Avoiding use of powdered allergen-rich natural rubber latex gloves is recommended by national 
+and international experts on work-related asthma.213 
+ 
+Reducing exposure to asthma triggers in the workplace (if eliminating exposures is not possible) 
+• Reducing exposure to asthma triggers in the workplace (e.g., engineering controls such as 
+ventilation, or administrative controls such as limiting the number of hours per week that 
+workers are exposed to asthma triggers) is not the preferred approach based on current 
+evidence, but a person’s income or employment might be less affected by reducing exposure 
+instead of eliminating exposure.211,213 
+• This approach requires careful medical monitoring to ensure that worsened asthma is detected 
+quickly.208 
+• According to national and international experts on work-related asthma, respiratory protective 
+devices do not reduce exposure to asthma triggers effectively, especially in the long term and in 
+patients with severe asthma.208,213 
+ 
+ 
+ 
+30 
+ 
+Evidence for this Strategy (Part 3) 
+ 
+Eliminating exposure to asthma triggers in the workplace whenever possible 
+• Multiple systematic reviews have shown that eliminating exposure to asthma triggers is the 
+best preventive approach.211-213 Benefits include fewer asthma symptoms and improved lung 
+function.211-213 
+• Another systematic review found that for persons with occupational asthma (asthma caused by 
+workplace conditions), completely avoiding the cause of their occupational asthma maximizes 
+chances for improvement but does not guarantee full recovery.208 However, ongoing exposure 
+would likely worsen asthma.208 
+• The recommendation to avoid using powdered allergen-rich natural rubber latex gloves is 
+based on a systematic review that found a high level of evidence for this intervention.213 
+ 
+Reducing exposure to asthma triggers in the workplace (if eliminating exposures is not possible) 
+• A systematic review showed that reducing exposure to workplace asthma triggers improves 
+asthma symptoms but has not clearly improved lung function.211 
+• Notably, this systematic review also found that reducing exposure to workplace asthma triggers 
+did not improve asthma symptoms as much as eliminating or removing exposure to workplace 
+asthma triggers.211 
+• Multiple systematic reviews have concluded that based on currently available evidence, 
+respiratory protective devices cannot be considered a safe way to reduce exposure to asthma 
+triggers in the workplace, especially in the long term, in patients with severe asthma, and in 
+patients with occupational asthma (asthma caused by workplace conditions).208,212,213 
+ 
+Additional details on the evidence for this strategy and its approaches are available in the Appendix. 
+ 
+ 
+31 
+ 
+Sector Involvement                
+ 
+Engagement and investment from multiple sectors are important for successful implementation of 
+EXHALE. Collaboration across sectors can harness existing infrastructure and resources, reduce 
+redundancy, and create synergy. Public health can be a leader in improving asthma control, but the 
+public health sector cannot accomplish the strategies and approaches outlined in this technical 
+package alone. 
+ 
+Below are examples of how individuals or organizations from various sectors can consider 
+supporting the implementation of this technical package. These examples are not a comprehensive 
+description of opportunities available to various sectors, nor are they a complete list of sectors that can 
+consider implementation activities related to this technical package. Other key sectors include (but are 
+not limited to) social services, housing, employers, media, and non-governmental organizations (e.g., 
+national or community organizations). 
+ 
+Opportunities for federal, state, and local public health officials include:  
+• Promoting or implementing this technical package. 
+• Evaluating the impact of and progress in implementing this technical package.  
+• Bringing together different sectors, partners, or stakeholders to plan, prioritize, and coordinate 
+implementation of this technical package.  
+• Continuing collecting and disseminating data on the burden of asthma. 
+ 
+Opportunities for other federal, state, and local government officials include:  
+• Establishing or supporting quality improvement initiatives or projects that implement one or 
+more of the strategies in this technical package. 
+• Considering eliminating Medicaid or Medicare coverage requirements that could restrict access 
+to evidence-based treatments for asthma or tobacco cessation (e.g., quantity limits, prior 
+authorization, copayments, or requiring patients to obtain asthma devices such as spacers from 
+durable medical equipment vendors instead of pharmacies).  
+• Allocating resources to improve access to AS-ME, smoking cessation, asthma-related home 
+visits, and coordination of care. For example, states might consider “activating” Current 
+Procedural Terminology (CPT) codes to pay for AS-ME or encourage their Medicaid managed 
+care organizations to increase delivery of AS-ME and asthma-related home visits (e.g., through 
+contractual agreements or quality-improvement projects). Relevant implementation guidance, 
+including a list of relevant CPT codes, is available at http://www.cdc.gov/sixeighteen/asthma. 
+• Supporting workforce development for the delivery of AS-ME or home visits; relevant activities 
+include building infrastructure for professional training, licensing, and reimbursement of 
+certified asthma educators, community health workers, and other allied health professionals.  
+Relevant implementation guidance is available at http://www.cdc.gov/sixeighteen/asthma and 
+in other public resources.23,214-216 
+• Promoting infrastructure for health information technology so that individuals are at the center 
+of their care, health care providers have the ability to securely access and use health 
+information from different sources, and asthma care quality can be measured and used to 
+32 
+ 
+provide feedback. Relevant implementation guidance is available at 
+http://www.healthit.gov/policy-researchers-implementers/interoperability.  
+• Implementing or supporting policies and best practices proven to improve asthma control (e.g., 
+home improvement incentives, smokefree policies, or clean diesel school buses). Additional 
+information is available in the section Environmental Policies or Best Practices to Reduce 
+Asthma Triggers from Indoor, Outdoor, and Occupational Sources (page 26). 
+ 
+Opportunities for health care providers or organizations include: 
+• Assessing asthma severity and regularly monitoring asthma control in patients. 
+• Prescribing inhaled corticosteroids according to national asthma guidelines.7,100 
+• Using tools such as shared treatment decision-making or AS-ME to improve adherence to 
+asthma medication. Additional information on shared treatment decision-making and AS-ME is 
+available in the sections Achievement of Guidelines-Based Medical Management (page 20) and 
+Education on Asthma Self-Management (page 13), respectively. 
+• Investigating and considering available payment mechanisms to support their or their staff’s 
+delivery of asthma self-management education (e.g., CPT codes). A list of relevant CPT codes is 
+available at http://www.cdc.gov/sixeighteen/asthma. 
+• Referring patients to asthma-related home visit programs available through local health care 
+systems, community organizations, or patients’ health insurance plans, especially when asthma 
+is not controlled despite guidelines-based medical management and AS-ME outside the home. 
+• Promoting coordination of care in their practices or health care organizations (e.g., through 
+quality improvement projects or initiatives).125,142 
+• Communicating and collaborating with local schools or health care organizations to share 
+asthma treatment plans efficiently, effectively, and securely across places where individuals 
+might seek help for their asthma. 
+ 
+Opportunities for health insurance plans include: 
+• Emphasizing national asthma guidelines7,100 in their clinical practice guidelines. 
+• Using pharmacy, ED, and hospital claims data to identify and engage individuals or families who 
+could benefit from AS-ME, smoking cessation, asthma-related home visits, improved 
+coordination of care, or increased adherence to guidelines-based medical management of 
+asthma. Additional information on each of these EXHALE strategies is available in their 
+respective sections of this document. 
+• Considering how their coverage requirements might affect access to evidence-based 
+treatments for asthma or tobacco cessation. Potential barriers include quantity limits, prior 
+authorization, copayments, or requiring patients to obtain asthma devices (e.g., spacers) from 
+durable medical equipment vendors instead of pharmacies. 
+• Providing AS-ME or asthma-related home visits to patients using trained in-house staff (e.g., 
+certified asthma educators or trained community health workers) or by contracting with health 
+care providers or community organizations to provide these services. Relevant implementation 
+guidance is available at http://www.cdc.gov/sixeighteen/asthma and in other public 
+resources.10,13 
+ 
+ 
+ 
+33 
+ 
+Opportunities for schools, school nurses, and school districts include: 
+• Communicating and collaborating with local health care providers to share important asthma 
+information about students (e.g., asthma action plans, level of asthma control) efficiently and 
+effectively. These partnerships can be supported by the development of consent forms or 
+policies to promote communication while protecting student and patient privacy. Additional 
+relevant information is available in the section Linkages and Coordination of Care Across 
+Settings (page 23). 
+• Adopting clean diesel technology for school buses to reduce students’ exposure to diesel 
+emissions, a known asthma trigger. Additional information is available in the section 
+Environmental Policies or Best Practices to Reduce Asthma Triggers from Indoor, Outdoor, and 
+Occupational Sources (page 26). 
+• Supporting implementation of other EXHALE strategies such as Education on Asthma Self-
+Management and Achievement of Guidelines-Based Medical Management. Additional 
+information on these strategies is available in their respective sections. 
+• Reviewing CDC’s Strategies for Addressing Asthma in Schools.145 
+ 
+Opportunities for employers include: 
+• Promoting healthy workplaces by eliminating or reducing known asthma triggers. 
+• Considering or requesting insurance coverage of preventive asthma services such as AS-ME or 
+home visits when purchasing health insurance for employees. 
+• Reviewing resources that CDC offers employers to help employees stay healthy such as 
+http://www.cdcfoundation.org/businesspulse/health-costs-resources. 
+ 
+ 
+ 
+34 
+ 
+Monitoring and Evaluation   
+ 
+Monitoring and evaluation are necessary components of the public health approach to prevention. 
+Timely and reliable data can monitor the extent of the problem and evaluate the impact of prevention 
+efforts. Data are essential for successful program implementation. Planning, implementation, and 
+assessment all rely on accurate measurement. 
+ 
+Surveillance 
+ 
+Surveillance data (e.g., from surveys or health insurance claims) can provide information such as 
+disparities or changes in the burden of asthma. Surveillance systems exist at the federal, state, and 
+local levels.  
+ 
+Sources of national asthma data include: 
+• National Health Interview Survey (http://www.cdc.gov/nchs/nhis)  
+• National Health and Nutrition Examination Survey (http://www.cdc.gov/nchs/nhanes) 
+• National Vital Statistics System (http://www.cdc.gov/nchs/nvss) 
+ 
+Sources of state or local asthma data include: 
+• Behavioral Risk Factor Surveillance System (BRFSS; http://www.cdc.gov/brfss)  
+• BRFSS Asthma Call-back Survey (http://www.cdc.gov/brfss/acbs) 
+• National Survey of Children’s Health (http://childhealthdata.org/learn/nsch) 
+ 
+The systematic collection, evaluation, interpretation, and dissemination of asthma-related surveillance 
+data at the federal, state, and local level can facilitate efficient implementation of this technical 
+package (e.g., by identifying populations or areas with higher burden of disease). Additional 
+information on available surveillance data and data systems for asthma is available at 
+http://www.cdc.gov/asthma/asthmadata.htm.  
+ 
+Evaluation 
+ 
+It is important to track progress of activities to implement the strategies and approaches of this 
+technical package and to evaluate the impact of those efforts. Routinely evaluating interventions as 
+delivered in respective communities ensures programs are appropriately implemented and achieving 
+expected results. In addition to increasing accountability, information generated from program 
+evaluations can guide actions for program improvement and enhancement, as well as inform planning 
+decisions. Understanding how strategies and approaches are implemented effectively and which 
+implementation conditions result in the best outcomes can inform the refinement of asthma control 
+activities over time.  
+ 
+In addition, evaluation findings shared with the broader asthma community will add to the evidence 
+base and increase awareness of what works within community contexts. Collecting and sharing local 
+evaluation data allows communities to make informed decisions when selecting intervention 
+35 
+ 
+opportunities with the highest potential impact, continually learn from experience, and build 
+community support to sustain success. 
+In this way, collecting more data through evaluations of asthma-related programs, practices, and 
+policies can enhance the effectiveness of asthma control initiatives, particularly across varied social 
+and cultural contexts. Further, evaluation can help improve understanding of the synergistic effects 
+that might occur within a comprehensive service system. Resources to assist these evaluation efforts 
+are available at http://www.cdc.gov/asthma/program_eval.   
+36 
+ 
+Conclusion 
+ 
+The EXHALE technical package represents the best available evidence to improve control of asthma. It 
+contains complementary strategies and approaches ideally used in combination in a multi-level, multi-
+sector approach to reduce the burden of asthma. The hope is that multiple sectors, such as public 
+health, health care, education, social services, and non-governmental organizations, will find this 
+technical package useful in improving asthma control.  
+ 
+This technical package is ready for implementation. It reflects the mature evidence base about how to 
+control asthma. Monitoring and evaluation will play a key role in refining and maximizing 
+implementation of the strategies in EXHALE. As new evidence becomes available, this technical 
+package can be refined to reflect the current state of the science. 
+ 
+ 
+ 
+ 
+ 
+37 
+ 
+List of Abbreviations 
+ 
+AS-ME   
+Asthma self-management education 
+ 
+CPT  
+ 
+Current Procedural Terminology 
+ 
+ED  
+ 
+Emergency department 
+ 
+FDA  
+ 
+Food and Drug Administration 
+ 
+HEDIS   
+Healthcare Effectiveness Data and Information Set1  
+ 
+ICU 
+ 
+Intensive care unit 
+ 
+RCT 
+ 
+Randomized controlled trial 
+ 
+ 
+                                                            
+1 Performance measurement tool used by many U.S. health plans217 
+ 
+38 
+ 
+Appendix: Summary of Strategies and Approaches of EXHALE 
+Strategy 
+Approach 
+Lead Sectorsa 
+Evidenceb of Impact on Asthma 
+About this  Evidence 
+Education on 
+asthma self-
+management   
+Expanding 
+access to and 
+delivery of 
+asthma self-
+management 
+education (AS-
+ME) 
+Health care 
+Public health 
+(local, state, 
+federal) 
+Governmentc 
+(local, state, 
+federal) 
+Non-
+governmental 
+organizations 
+ 
+General 
+• Improved asthma symptoms9,218-228 
+• Improved asthma control29,218-220,229 
+• Improved quality of life22,29,218,230-232 
+ 
+Asthma medication use 
+• Increased medication adherence 
+26,29,114,222,233
+• Increased controller medication 
+prescriptions or use29,99 
+• Decreased rescue medication 
+prescriptions or use232 
+Health care utilization 
+• Fewer ED visits 
+9,22,99,114,134,144,221,224,226,227,229,231,232,234-237 
+• Fewer hospitalizations 
+9,22,219,224,226,227,229,231,237,238
+• Decreased urgent health care 
+utilization (ED visit, hospitalization, or 
+urgent office visit)228  
+Impact on health care spending or society 
+• Positive return on investment or other 
+cost savings9,26,29,81,229,231,235 
+• Fewer missed school 
+days144,221,222,228,229 
+• Fewer missed work days238 
+• Fewer daycare absences224 
+• Obtained from peer-reviewed 
+journals9,22,26,29,99,114,134,144,218-
+228,230,233-236,238 and other 
+sources229,231,232 
+• Evaluated using systematic 
+review22,26,99,218-222,237,238, other 
+literature review9,134, 
+RCT144,223,227,229,230, non-randomized 
+comparison group analysis29,225, and 
+pre–post analysis114,224,226,228,232-236 
+X-tinguishing 
+tobacco 
+smoke and 
+secondhand 
+smoke 
+Reducing 
+tobacco 
+smoking 
+Health care 
+Public health 
+(local, state, 
+federal) 
+Governmentc 
+(local, state, 
+federal) 
+General 
+• Improved asthma symptoms58,78 
+• Improved asthma control59,60,78 
+• Improved quality of life58,64,78,239 
+Asthma medication use 
+• Increased controller medication 
+prescriptions or use58,78 
+• Decreased rescue medication 
+prescriptions or use58,78 
+Health care utilization  
+• Decreased urgent health care 
+utilization (ED visit or urgent office 
+visit)240 
+Impact on society  
+• Fewer missed school days239 
+• Obtained from peer-reviewed 
+journals58-60,64,78,239-241 
+• Evaluated using literature 
+review78,241, RCT58,64,239, and non-
+randomized comparison group 
+analysis59,60,240 
+39 
+ 
+Strategy 
+Approach 
+Lead Sectorsa 
+Evidenceb of Impact on Asthma 
+About this  Evidence 
+X-tinguishing 
+tobacco 
+smoke and 
+secondhand 
+smoke 
+(continued) 
+Reducing 
+exposure to 
+secondhand 
+smoke 
+Health care 
+Public health 
+(local, state, 
+federal) 
+Governmentc 
+(local, state, 
+federal) 
+General 
+• Improved asthma symptoms67,68 
+• Improved asthma control80 
+Health care utilization  
+• Fewer ED visits80 
+• Fewer hospitalizations66,68,69,80 
+• Fewer outpatient visits66,69 
+• Decreased urgent health care 
+utilization (ED visit, hospitalization, 
+urgent office visit, or prednisone 
+use)65,71 
+ 
+Impact on health care spending or society 
+• Positive return on investment or other 
+cost savings66,69 
+• Fewer missed school days68 
+ 
+• Obtained from peer-reviewed 
+journals65-69,71,80 
+• Evaluated using systematic 
+review242, RCT67,68,71,80, non-
+randomized comparison group 
+analysis65, and pre–post analysis66,69 
+Home visits 
+for trigger 
+reduction and 
+asthma self-
+management 
+education 
+Expanding 
+access to and 
+delivery of 
+home visits (as 
+needed) for 
+asthma trigger 
+reduction and 
+AS-ME  
+Health care 
+Public health 
+(local, state, 
+federal) 
+Governmentc 
+(local, state, 
+federal) 
+Non-
+governmental 
+organizations 
+Social 
+services 
+General 
+• Improved asthma symptoms 
+35,82,91,98,134,243-247 
+• Improved asthma control94,95,246,247 
+• Improved quality of life90 
+ 
+Asthma medication use 
+• Increased medication adherence 
+135,243,245,246 
+• Decreased rescue medication 
+prescriptions or use247,248 
+ 
+Health care utilization 
+• Fewer ED visits9,30,31,94,135,243,244,246,248-250 
+• Fewer ED return visits93,94 
+• Fewer 
+hospitalizations9,31,36,94,135,136,246,248-250 
+• Fewer hospital readmissions94,135 
+• Fewer outpatient visits82,244,246,248,251 
+• Fewer ICU admissions9,252 
+• Decreased urgent health care 
+utilization (ED visit, hospitalization, or 
+urgent office visit)35,82,247 
+ 
+Impact on health care spending or society 
+• Positive return on investment or other 
+cost savings9,34-36,81,92,96,136,250,253 
+• Fewer missed school days82,244,246-248,250 
+• Fewer missed work days245-247 
+ 
+ 
+ 
+ 
+ 
+• Obtained from peer-reviewed 
+journals9,35,81,82,90,91,93-96,134,243-
+245,247,251-253 and other 
+sources30,31,34,36,92,98,135,136,248-250 
+• Evaluated using systematic 
+review81,82, other literature 
+review9,93,134, RCT35,90-92, non-
+randomized comparison group 
+analysis36,96,136, and pre–post 
+analysis30,31,34,94,95,98,135,243-253 
+40 
+ 
+Strategy 
+Approach 
+Lead Sectorsa 
+Evidenceb of Impact on Asthma 
+About this  Evidence 
+Achievement 
+of guidelines-
+based medical 
+management 
+Strengthening 
+systems 
+supporting 
+guidelines-
+based medical 
+care, including 
+appropriate 
+prescribing 
+and use of 
+inhaled 
+corticosteroids 
+Health care 
+General 
+• Improved asthma 
+symptoms101,105,106,115,119 
+• Improved asthma control94 
+ 
+Asthma medication use 
+• Increased controller medication 
+prescriptions or use99,113,124 
+• Decreased rescue medication 
+prescriptions or use124,235 
+ 
+Health care utilization 
+• Fewer ED visits94,99,103-106,115,116,119,235 
+• Fewer ED return visits94 
+• Fewer hospitalizations94,103,106,115-119,235 
+• Fewer hospital readmissions94 
+• Fewer outpatient visits103,235 
+ 
+Impact on health care spending or society 
+• Positive return on 
+investment103,104,106,111 or other cost 
+savings116,124,235 
+• Fewer missed school days106 
+ 
+• Obtained from peer-reviewed 
+journals94,99,101,103-
+105,111,113,116,117,119,235,254 and other 
+sources106,115,124 
+• Evaluated using systematic 
+review99,115,119, RCT101,105,113, non-
+randomized comparison group 
+analysis104,111,116,118,124, and pre–post 
+analysis94,103,106,117,235,254 
+Improving 
+access and 
+adherence to 
+asthma 
+medications 
+and devices 
+Health care 
+Governmentc 
+(state, 
+federal) 
+ 
+General 
+• Improved asthma symptoms26,107 
+• Improved asthma control107 
+• Improved quality of life26,107 
+ 
+Asthma medication use 
+• Increased controller medication 
+prescriptions or use107,109 
+• Decreased rescue medication 
+prescriptions or use107 
+ 
+Health care utilization 
+• Fewer ED visits109,122 
+• Fewer hospitalizations108,122 
+• Fewer outpatient visits109 
+• Decreased overall health care 
+utilization (ED visit, hospitalization, 
+urgent care visit, or outpatient 
+visit)26,107 
+• Positive return on investment or other 
+cost savings122,123 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Obtained from peer-reviewed 
+journals26,107-110,123 and other 
+sources122 
+• Evaluated using systematic review26, 
+RCT107, non-randomized comparison 
+group analysis108-110, and pre–post 
+analysis122,123 
+41 
+ 
+Strategy 
+Approach 
+Lead Sectorsa 
+Evidenceb of Impact on Asthma 
+About this  Evidence 
+Linkages and 
+coordination 
+of care across 
+settings 
+Promoting 
+coordinated 
+care for 
+people with 
+asthma 
+Health care 
+Public health 
+(local, state, 
+federal) 
+Governmentc 
+(local, state, 
+federal) 
+Education 
+Non-
+governmental 
+organizations 
+Social 
+services 
+General 
+• Improved asthma symptoms134,244,255 
+• Improved asthma control94,130 
+ 
+Asthma medication use 
+• Increased medication adherence130,135 
+• Improved HEDIS scores related to use 
+of appropriate medications by people 
+with asthma140 
+• Increased controller medication 
+prescriptions or use113 
+• Decreased rescue medication 
+prescriptions or use130,134,244 
+• Increased availability of asthma 
+medication at school256 
+ 
+Health care utilization 
+• Fewer ED visits 
+94,128,129,132,134,136,139,140,244,255,257-260 
+• Fewer ED return visits94 
+• Fewer hospitalizations94,106,129,132,134-
+136,140,144,244,255,260 
+• Fewer hospital readmissions94,135 
+• 
+ 
+Fewer outpatient visits257 
+Impact on health care spending or society 
+• Positive return on investment or other 
+cost savings106,129,132,134-138 
+• Fewer missed school 
+days128,132,134,144,244,260 
+• Fewer missed work days132 
+ 
+ 
+ 
+ 
+ 
+• Obtained from peer-reviewed 
+journals113,128,129,131,132,134,137,139,144,244,
+255-259 and other 
+sources106,130,135,136,140,260 
+• Evaluated using literature review134, 
+RCT113,144, non-randomized 
+comparison group analysis132,137,255, 
+and pre–post analysis106,128-
+131,134,136,139,140,244,256,257,259,260 
+Environmental 
+policies or 
+best practices 
+to reduce 
+indoor, 
+outdoor, and 
+occupational 
+asthma 
+triggers 
+ 
+ 
+Facilitating 
+home energy 
+efficiency, 
+including 
+home 
+weatherization 
+assistance 
+programs 
+ 
+Governmentc 
+(local, state, 
+federal — 
+particularly 
+agencies 
+focused on 
+housing or 
+energy) 
+Non-
+governmental 
+organizations 
+that assist 
+with housing 
+General 
+• Improved asthma symptoms161 
+ 
+Health care utilization 
+• Fewer ED visits163 
+ 
+Impact on health care spending or society 
+• Positive return on investment or other 
+cost savings162 
+• Fewer missed school days161 
+• Fewer missed work days161 
+ 
+• Obtained from peer-reviewed 
+journal161 and other sources162,163 
+• Evaluated using RCT161 and pre–post 
+analysis162,163 
+ 
+Strategy 
+ 
+Approach 
+ 
+ 
+Lead Sectorsa 
+ 
+ 
+ 
+ 
+Evidenceb of Impact on Asthma 
+ 
+  
+ 
+About this Evidence 
+Environmental 
+ 
+policies or 
+ 
+ 
+best practices 
+ 
+to reduce 
+ 
+indoor, 
+outdoor, and 
+ 
+occupational 
+ 
+asthma 
+triggers 
+ 
+ 
+(continued) 
+Facilitating 
+smokefree 
+ 
+policies 
+ 
+ 
+Governmentc 
+ 
+(local, state, 
+ 
+federal) 
+ 
+Employers 
+ 
+Housing 
+General 
+ 
+• 
+ Improved 
+ asthma symptoms154,160  
+Health 
+ care 
+ utilization 
+ 
+• 
+ Fewer ED visits153-155,158 
+ 
+• 
+ Fewer hospitalizations153,156,157,159  
+• 
+ Fewer outpatient visits160 
+• Obtained 
+ from peer-reviewed 
+ 
+journals154-160  and other 
+ 
+sources181  
+• Evaluated using systematic review 
+157,181  
+ 
+, non-randomized comparison 
+group analysis154,159
+ 
+ 
+ 
+, and pre–post 
+analysis 155,156,158,160 
+ 
+ 
+ 
+Facilitating 
+ 
+clean diesel 
+ 
+ 
+school buses 
+Public health 
+ 
+(local, state, 
+ 
+federal) 
+ 
+Governmentc 
+ 
+(local, state, 
+ 
+federal) 
+ 
+Education 
+Health 
+ care 
+ utilization 
+ 
+• 
+ Fewer hospitalizations192 
+ 
+• Obtained 
+ from peer-reviewed 
+ 
+journals191,192  
+Impact 
+ on health care spending or society 
+ 
+• 
+ Cost savings192 
+ 
+• 
+ Fewer missed school days191 
+• Evaluated using non-randomized 
+comparison group 
+ analysis191,192 
+ 
+ 
+Eliminating 
+ 
+exposure to 
+asthma 
+ 
+ 
+triggers in the 
+ 
+workplace 
+ 
+Employers 
+ 
+ 
+Public health 
+ 
+(state, 
+ 
+federal) 
+ 
+General 
+• 
+ 
+ 
+ 
+Improved asthma symptoms211 
+• Obtained 
+ from peer-review 
+ 
+journals211-213 
+ 
+• Evaluated using systematic
+review211-213  
+ 
+whenever 
+ 
+possible  
+ 
+Governmentc 
+ 
+(state, 
+ 
+federal) 
+Reducing 
+ 
+exposure to 
+asthma 
+ 
+ 
+triggers in the 
+ 
+ 
+workplace (if 
+ 
+Employers 
+ 
+ 
+Public health 
+ 
+(state, 
+ 
+federal) 
+ 
+General 
+• 
+ 
+ 
+ 
+ 
+Improved asthma symptoms211 
+• Obtained 
+ from peer-review 
+ 
+journals211-213 
+ 
+• Evaluated 
+ using 
+ systematic 
+ 
+review211-213  
+ 
+eliminating 
+exposures is 
+ 
+not possible) 
+ 
+Governmentc 
+ 
+(state, 
+ 
+federal) 
+ 
+ 
+ 
+ 
+a 
+ This column refers to the 
+ lead 
+ sectors well-positioned 
+ to bring 
+ leadership 
+ and resources to implementation efforts. 
+ For 
+ each 
+ 
+strategy, 
+ many other sectors 
+ can be 
+ instrumental t
+ o implementing re
+ 
+levant 
+ activities. 
+ 
+b 
+ Evidence of impact for 
+ a strategy or a strategy’s associated approach(es). 
+ 
+c 
+ Government 
+ agencies 
+ other 
+ than public 
+ health agencies. 
+ 
+42 
+ 
+43 
+ 
+ 
+References 
+ 
+1. 
+Centers for Disease Control and Prevention. Most Recent Asthma Data.  
+https://www.cdc.gov/asthma/most_recent_data.htm. Accessed April 11, 2017. 
+2. 
+Centers for Disease Control and Prevention. Uncontrolled Asthma among Persons with Current Asthma.  
+https://www.cdc.gov/asthma/asthma_stats/uncontrolled_asthma.htm. Accessed April 11, 2017. 
+3. 
+Centers for Disease Control and Prevention. Asthma-related Missed School Days among Children aged 
+5–17 Years.  https://www.cdc.gov/asthma/asthma_stats/missing_days.htm. Accessed April 11, 2017. 
+4. 
+Centers for Disease Control and Prevention. Asthma's Impact on the Nation.  
+https://www.cdc.gov/asthma/impacts_nation/asthmafactsheet.pdf. Accessed April 11, 2017. 
+5. 
+Jang J, Gary Chan KC, Huang H, Sullivan SD. Trends in cost and outcomes among adult and pediatric 
+patients with asthma: 2000-2009. Ann Allergy Asthma Immunol. 2013;111(6):516-522. 
+6. 
+Frieden TR. Six components necessary for effective public health program implementation. Am J Public 
+Health. 2014;104(1):17-22. 
+7. 
+National Asthma Education and Prevention Program. Expert Panel Report 3 (EPR-3): guidelines for the 
+diagnosis and management of asthma—Full Report 2007.  NIH Publication No. 07-4051. Bethesda, MD: 
+National Institutes of Health; 2007. 
+8. 
+Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 2001–2010. 
+National Center for Health Statistics. Vital Health Stat 3(35). 2012. 
+9. 
+Hsu J, Wilhelm N, Lewis L, Herman E. Economic Evidence for US Asthma Self-Management Education 
+and Home-Based Interventions. J Allergy Clin Immunol Pract. 2016;4(6):1123-1134 e1127. 
+10. 
+America's Health Insurance Plans. Next Generation Asthma Care: Integrating Clinical and Environmental 
+Strategies to Improve Asthma Outcomes.  https://www.ahip.org/next-generation-asthma-care-
+integrating-clinical-and-environmental-strategies-to-improve-asthma-outcomes/. Accessed April 12, 
+2017. 
+11. 
+Shanafelt TD, Noseworthy JH. Executive Leadership and Physician Well-being: Nine Organizational 
+Strategies to Promote Engagement and Reduce Burnout. Mayo Clin Proc. 2017;92(1):129-146. 
+12. 
+Healthy People 2020. Social Determinants of Health.  https://www.healthypeople.gov/2020/topics-
+objectives/topic/social-determinants-of-health. Accessed April 12, 2017. 
+13. 
+Asthma Community Network. Health Plan Strategies for Managing Asthma: Key Findings from AHIP’s 
+Asthma Assessment.  
+http://www.asthmacommunitynetwork.org/system/files/webinar/pdf/EPA%20and%20AHIP%20Webina
+r_Combined%20Slides_5.23.17.pdf. Accessed June 5, 2017. 
+14. 
+Chae M, Taylor BJ, Lawrence J, et al. Family CHAOS is associated with glycaemic control in children and 
+adolescents with type 1 diabetes mellitus. Acta Diabetol. 2016;53(1):49-55. 
+15. 
+Chatterjee A, Gillman MW, Wong MD. Chaos, Hubbub, and Order Scale and Health Risk Behaviors in 
+Adolescents in Los Angeles. J Pediatr. 2015;167(6):1415-1421. 
+16. 
+Coley RL, Lynch AD, Kull M. Early Exposure to Environmental Chaos and Children's Physical and Mental 
+Health. Early Child Res Q. 2015;32:94-104. 
+17. 
+Kalichman SC, Kalichman MO. HIV-Related Stress and Life Chaos Mediate the Association Between 
+Poverty and Medication Adherence Among People Living with HIV/AIDS. J Clin Psychol Med Settings. 
+2016;23(4):420-430. 
+18. 
+Levin L, Kichler JC, Polfuss M. The relationship between hemoglobin A1C in youth with type 1 diabetes 
+and chaos in the family household. Diabetes Educ. 2013;39(5):696-704. 
+19. 
+Gardner A, Kaplan B, Brown W, et al. National standards for asthma self-management education. Ann 
+Allergy Asthma Immunol. 2015;114(3):178-186 e171. 
+44 
+ 
+20. 
+American Lung Association. State Medicaid Coverage for Self-Management Education.  
+http://www.lung.org/assets/documents/asthma/7-Self-Management-Education-Map.pdf. Accessed May 
+5, 2017. 
+21. 
+Markus AR, Andres E, West K, Gerstein MT, Lyons VS. Medicaid payment innovations to financially 
+sustain comprehensive childhood asthma management programs at Federally Qualified Health Centers. 
+Journal of Asthma and Allergy Educators. 2013;4(3):112-122. 
+22. 
+Harris KM, Kneale D, Lasserson T, McDonald V, Thomas J, Grigg J. School-based self-management 
+educational interventions for asthma in children and adolescents: A systematic review. Journal of Allergy 
+and Clinical Immunology.141(2):AB207. 
+23. 
+National Asthma Educator Certification Board.  https://www.naecb.com/. Accessed May 5, 2017. 
+24. 
+Childhood Asthma Leadership Coalition. Pathways to Medicaid Reimbursement for Pediatric Asthma 
+Services.  https://firstfocus.org/wp-content/uploads/2016/05/Medicaid-Pathways-to-Asthma-
+Reimbursement-CALC-May-2016.pdf. Accessed May 19, 2017. 
+25. 
+Brookings Institution. A Case Study in Payment Reform to Support Optimal Pediatric Asthma Care.  
+https://www.brookings.edu/research/a-case-study-in-payment-reform-to-support-optimal-pediatric-
+asthma-care/. Accessed May 19, 2017. 
+26. 
+Viswanathan M, Golin CE, Jones CD, et al. Interventions to improve adherence to self-administered 
+medications for chronic diseases in the United States: a systematic review. Ann Intern Med. 
+2012;157(11):785-795. 
+27. 
+Lester D, Mohammad A, Leach EE, Hernandez PI, Walker EA. An investigation of asthma care best 
+practices in a community health center. J Health Care Poor Underserved. 2012;23(3 Suppl):255-264. 
+28. 
+U.S. Environmental Protection Agency. National Environmental Leadership Award in Asthma 
+Management 2016 Health Care Provider Winner: Urban Health Plan.  
+https://www.epa.gov/asthma/national-environmental-leadership-award-asthma-management. 
+Accessed May 5, 2017. 
+29. 
+Francisco B, Rood T, Nevel R, Foreman P, Homan S. Teaming Up for Asthma Control: EPR-3 Compliant 
+School Program in Missouri Is Effective and Cost-Efficient. Prev Chronic Dis. 2017;14:E40. 
+30. 
+America's Health Insurance Plans. Aetna EPA 2016.  https://www.ahip.org/aetna-epa-2016/. Accessed 
+May 9, 2017. 
+31. 
+National Center for Healthy Housing. Case Studies in Healthcare Financing of Healthy Homes Services: 
+Medicaid Reimbursement for Home-Based Asthma Services in Delaware.  
+http://www.nchh.org/Portals/0/Contents/Case-Study_Asthma_DE_Final.pdf. Accessed May 9, 2017. 
+32. 
+Asthma Initiative of Michigan for Healthy Lungs: Michigan MATCH (Managing Asthma Through Case-
+management in Homes).  http://getasthmahelp.org/managing-asthma-match.aspx. Accessed May 10, 
+2017. 
+33. 
+Rhode Island Department of Health. The Home Asthma Response Program (HARP).  
+http://health.ri.gov/publications/programreports/HomeAsthmaResponseProgram.pdf. Accessed May 
+10, 2017. 
+34. 
+Centers for Disease Control and Prevention. Asthma Self-Management Education and Environmental 
+Management: Approaches to Enhancing Reimbursement.  
+https://www.cdc.gov/asthma/pdfs/Asthma_Reimbursement_Report.pdf. Accessed May 22, 2017. 
+35. 
+Campbell JD, Brooks M, Hosokawa P, Robinson J, Song L, Krieger J. Community Health Worker Home 
+Visits for Medicaid-Enrolled Children With Asthma: Effects on Asthma Outcomes and Costs. Am J Public 
+Health. 2015;105(11):2366-2372. 
+36. 
+NORC at the University of Chicago. HCIA Disease-Specific Evaluation: Second Annual Report. 2016; 
+https://downloads.cms.gov/files/cmmi/hcia-diseasespecific-secondevalrpt.pdf. 
+37. 
+National Institutes of Health. A Breath of Life: Asthma Control for My Child.  
+https://www.nhlbi.nih.gov/health-pro/resources/lung/breath-liferespirar-es-vida. Accessed May 19, 
+2017. 
+45 
+ 
+38. 
+Association of Asthma Educators. Asthma Education for the Community Health Worker.  
+http://www.asthmaeducators.org/Community-Health-Worker. Accessed May 23, 2017. 
+39. 
+American Lung Association. Asthma Basics Course.  https://lung.training/courses/asthma_basics.html. 
+Accessed May 23, 2017. 
+40. 
+Public Health - Seattle & King County. HomeBASE: Home-based education and support intervention for 
+reducing asthma mortality.  http://www.kingcounty.gov/depts/health/chronic-diseases/asthma/health-
+care-providers/past-programs/HomeBASE.aspx. Accessed May 19, 2017. 
+41. 
+National Academy for State Health Policy. State Community Health Worker Models.  
+http://www.nashp.org/state-community-health-worker-models/. Accessed May 23, 2017. 
+42. 
+Asthma Community Network. Community Health Worker Training Programs.  
+http://www.asthmacommunitynetwork.org/node/16342. Accessed May 23, 2017. 
+43. 
+Institute of Medicine. 2000. Clearing the air: Asthma and indoor air exposures. Washington, DC: The 
+National Academies Press. 
+44. 
+Khokhawalla SA, Rosenthal SR, Pearlman DN, Triche EW. Cigarette smoking and emergency care 
+utilization among asthmatic adults in the 2011 Asthma Call-back Survey. J Asthma. 2015;52(7):732-739. 
+45. 
+Centers for Disease Control and Prevention. Percentage of People with Asthma who Smoke.  
+https://www.cdc.gov/asthma/asthma_stats/people_who_smoke.htm. Accessed April 13, 2017. 
+46. 
+Evans D, Levison MJ, Feldman CH, et al. The impact of passive smoking on emergency room visits of 
+urban children with asthma. Am Rev Respir Dis. 1987;135(3):567-572. 
+47. 
+Quinto KB, Kit BK, Lukacs SL, Akinbami LJ. Environmental tobacco smoke exposure in children aged 3‒19 
+years with and without asthma in the United States, 1999‒2010. NCHS data brief, no 126. Hyattsville, 
+MD: National Center for Health Statistics; 2013. 
+48. 
+Silvestri M, Franchi S, Pistorio A, Petecchia L, Rusconi F. Smoke exposure, wheezing, and asthma 
+development: a systematic review and meta-analysis in unselected birth cohorts. Pediatr Pulmonol. 
+2015;50(4):353-362. 
+49. 
+Castro-Rodriguez JA, Forno E, Rodriguez-Martinez CE, Celedon JC. Risk and Protective Factors for 
+Childhood Asthma: What Is the Evidence? J Allergy Clin Immunol Pract. 2016;4(6):1111-1122. 
+50. 
+England LJ, Aagaard K, Bloch M, et al. Developmental toxicity of nicotine: A transdisciplinary synthesis 
+and implications for emerging tobacco products. Neurosci Biobehav Rev. 2017;72:176-189. 
+51. 
+Gibbs K, Collaco JM, McGrath-Morrow SA. Impact of Tobacco Smoke and Nicotine Exposure on Lung 
+Development. Chest. 2016;149(2):552-561. 
+52. 
+McEvoy CT, Spindel ER. Pulmonary Effects of Maternal Smoking on the Fetus and Child: Effects on Lung 
+Development, Respiratory Morbidities, and Life Long Lung Health. Paediatr Respir Rev. 2017;21:27-33. 
+53. 
+Centers for Disease Control and Prevention. Common Asthma Triggers.  
+https://www.cdc.gov/asthma/triggers.html. Accessed May 5, 2017. 
+54. 
+Centers for Disease Control and Prevention. Health Effects of Cigarette Smoking.  
+https://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/effects_cig_smoking/index.ht
+m. Accessed May 5, 2017. 
+55. 
+Centers for Disease Control and Prevention. State Strategies to Improve Health and Control Cost: 
+Improving Tobacco Control.  https://www.cdc.gov/policy/hst/statestrategies/index.html. Accessed May 
+5, 2017. 
+56. 
+Centers for Disease Control and Prevention. The 6/18 Initiative: Reduce Tobacco Use.  
+https://www.cdc.gov/sixeighteen/tobacco/. Accessed May 5, 2017. 
+57. 
+Fiore M, Jaén C, Baker T, et al. A clinical practice guideline for treating tobacco use and dependence: 
+2008 update. A U.S. Public Health Service report. Am J Prev Med. 2008;35(2):158-176. 
+58. 
+Tonnesen P, Pisinger C, Hvidberg S, et al. Effects of smoking cessation and reduction in asthmatics. 
+Nicotine Tob Res. 2005;7(1):139-148. 
+59. 
+Chaudhuri R, Livingston E, McMahon AD, et al. Effects of smoking cessation on lung function and airway 
+inflammation in smokers with asthma. Am J Respir Crit Care Med. 2006;174(2):127-133. 
+46 
+ 
+60. 
+Westergaard CG, Porsbjerg C, Backer V. The effect of smoking cessation on airway inflammation in 
+young asthma patients. Clin Exp Allergy. 2014;44(3):353-361. 
+61. 
+U.S. Preventive Services Task Force. Tobacco Smoking Cessation in Adults, Including Pregnant Women: 
+Behavioral and Pharmacotherapy Interventions.  
+https://www.uspreventiveservicestaskforce.org/Page/Document/UpdateSummaryFinal/tobacco-use-in-
+adults-and-pregnant-women-counseling-and-interventions1. Accessed August 1, 2017. 
+62. 
+Patnode CD, Henderson JT, Thompson JH, Senger CA, Fortmann SP, Whitlock EP. Behavioral Counseling 
+and Pharmacotherapy Interventions for Tobacco Cessation in Adults, Including Pregnant Women: A 
+Review of Reviews for the U.S. Preventive Services Task Force. Ann Intern Med. 2015;163(8):608-621. 
+63. 
+Siu AL, Force USPST. Behavioral and Pharmacotherapy Interventions for Tobacco Smoking Cessation in 
+Adults, Including Pregnant Women: U.S. Preventive Services Task Force Recommendation Statement. 
+Ann Intern Med. 2015;163(8):622-634. 
+64. 
+Al-sheyab N, Gallagher R, Crisp J, Shah S. Peer-led education for adolescents with asthma in Jordan: a 
+cluster-randomized controlled trial. Pediatrics. 2012;129(1):e106-112. 
+65. 
+Wilson SR, Yamada EG, Sudhakar R, et al. A controlled trial of an environmental tobacco smoke 
+reduction intervention in low-income children with asthma. Chest. 2001;120(5):1709-1722. 
+66. 
+Borrelli B, McQuaid EL, Becker B, et al. Motivating parents of kids with asthma to quit smoking: the 
+PAQS project. Health Educ Res. 2002;17(5):659-669. 
+67. 
+Borrelli B, McQuaid EL, Novak SP, Hammond SK, Becker B. Motivating Latino caregivers of children with 
+asthma to quit smoking: a randomized trial. J Consult Clin Psychol. 2010;78(1):34-43. 
+68. 
+Borrelli B, McQuaid EL, Tooley EM, et al. Motivating parents of kids with asthma to quit smoking: the 
+effect of the teachable moment and increasing intervention intensity using a longitudinal randomized 
+trial design. Addiction. 2016;111(9):1646-1655. 
+69. 
+McQuaid EL, Garro A, Seifer R, Hammond SK, Borrelli B. Integrating asthma education and smoking 
+cessation for parents: financial return on investment. Pediatr Pulmonol. 2012;47(10):950-955. 
+70. 
+Greenberg RA, Strecher VJ, Bauman KE, et al. Evaluation of a home-based intervention program to 
+reduce infant passive smoking and lower respiratory illness. J Behav Med. 1994;17(3):273-290. 
+71. 
+Halterman JS, Szilagyi PG, Fisher SG, et al. Randomized controlled trial to improve care for urban 
+children with asthma: results of the School-Based Asthma Therapy trial. Arch Pediatr Adolesc Med. 
+2011;165(3):262-268. 
+72. 
+Hovell MF, Meltzer SB, Wahlgren DR, et al. Asthma management and environmental tobacco smoke 
+exposure reduction in Latino children: a controlled trial. Pediatrics. 2002;110(5):946-956. 
+73. 
+Wahlgren DR, Hovell MF, Meltzer SB, Hofstetter CR, Zakarian JM. Reduction of environmental tobacco 
+smoke exposure in asthmatic children. A 2-year follow-up. Chest. 1997;111(1):81-88. 
+74. 
+Tong VT, Dietz PM, Rolle IV, Kennedy SM, Thomas W, England LJ. Clinical interventions to reduce 
+secondhand smoke exposure among pregnant women: a systematic review. Tob Control. 
+2015;24(3):217-223. 
+75. 
+Chamberlain C, O'Mara-Eves A, Porter J, et al. Psychosocial interventions for supporting women to stop 
+smoking in pregnancy. Cochrane Database Syst Rev. 2017;2:CD001055. 
+76. 
+Coleman T, Chamberlain C, Davey MA, Cooper SE, Leonardi-Bee J. Pharmacological interventions for 
+promoting smoking cessation during pregnancy. Cochrane Database Syst Rev. 2015(12):CD010078. 
+77. 
+Centers for Disease Control and Prevention. Smokefree Policies Reduce Secondhand Smoke Exposure.  
+https://www.cdc.gov/tobacco/data_statistics/fact_sheets/secondhand_smoke/protection/shs_exposur
+e/index.htm. Accessed May 5, 2017. 
+78. 
+McLeish AC, Zvolensky MJ. Asthma and cigarette smoking: a review of the empirical literature. J Asthma. 
+2010;47(4):345-361. 
+79. 
+Fennerty AG, Banks J, Ebden P, Bevan C. The effect of cigarette withdrawal on asthmatics who smoke. 
+Eur J Respir Dis. 1987;71(5):395-399. 
+80. 
+Gerald LB, Gerald JK, Gibson L, Patel K, Zhang S, McClure LA. Changes in environmental tobacco smoke 
+exposure and asthma morbidity among urban school children. Chest. 2009;135(4):911-916. 
+47 
+ 
+81. 
+Nurmagambetov TA, Barnett SB, Jacob V, et al. Economic value of home-based, multi-trigger, 
+multicomponent interventions with an environmental focus for reducing asthma morbidity a community 
+guide systematic review. Am J Prev Med. 2011;41(2 Suppl 1):S33-47. 
+82. 
+Crocker DD, Kinyota S, Dumitru GG, et al. Effectiveness of home-based, multi-trigger, multicomponent 
+interventions with an environmental focus for reducing asthma morbidity: a community guide 
+systematic review. Am J Prev Med. 2011;41(2 Suppl 1):S5-32. 
+83. 
+Bryant-Stephens T, Reed-Wells S, Canales M, et al. Home visits are needed to address asthma health 
+disparities in adults. J Allergy Clin Immunol. 2016;138(6):1526-1530. 
+84. 
+American Lung Association. State Medicaid Coverage for Home Visits.  
+http://www.lung.org/assets/documents/asthma/6-Home-Visits-Map.pdf. Accessed May 5, 2017. 
+85. 
+Agency for Healthcare Research and Quality. Designing and Implementing Medicaid Disease and Care 
+Management Programs.  https://www.ahrq.gov/professionals/systems/long-term-
+care/resources/hcbs/medicaidmgmt/medicaidmgmt1.html. Accessed November 16, 2017. 
+86. 
+Centers for Disease Control and Prevention. Strategies for Addressing Asthma in Homes.  
+https://www.cdc.gov/asthma/pdfs/Asthma_In_Homes_508.pdf. Accessed May 16, 2017. 
+87. 
+National Center for Healthy Housing. Building Systems to Sustain Home-Based Asthma Services: 
+eLearning Modules.  http://nchh.org/Program/EquippingStatesforReimbursement.aspx. Accessed May 
+19, 2017. 
+88. 
+U.S. Environmental Protection Agency. Asthma Change Package: Tailored Environmental Interventions.  
+http://www.asthmacommunitynetwork.org/interact/changepackage/6. Accessed May 23, 2017. 
+89. 
+National Center for Healthy Housing. Case Studies and Resources.  
+http://www.nchh.org/Portals/0/Contents/Case-Study_Asthma_DE_Final.pdf. Accessed May 19, 2017. 
+90. 
+Krieger J, Song L, Philby M. Community health worker home visits for adults with uncontrolled asthma: 
+the HomeBASE Trial randomized clinical trial. JAMA Intern Med. 2015;175(1):109-117. 
+91. 
+Brown JV, Bakeman R, Celano MP, Demi AS, Kobrynski L, Wilson SR. Home-based asthma education of 
+young low-income children and their families. J Pediatr Psychol. 2002;27(8):677-688. 
+92. 
+Childhood Asthma Leadership Coalition and Green & Healthy Homes Initiative. Update from the Field: 
+Paying for Success to Improve Asthma Outcomes (2016).  
+http://www.greenandhealthyhomes.org/sites/default/files/PFS%20Asthma%20Brief%2020161010.pdf. 
+Accessed May 9, 2017. 
+93. 
+Tran QK, Bayram JD, Boonyasai RT, et al. Pediatric Emergency Department Return: A Literature Review 
+of Risk Factors and Interventions. Pediatr Emerg Care. 2016;32(8):570-577. 
+94. 
+Kercsmar CM, Beck AF, Sauers-Ford H, et al. Association of an Asthma Improvement Collaborative With 
+Health Care Utilization in Medicaid-Insured Pediatric Patients in an Urban Community. JAMA Pediatr. 
+2017;171(11):1072-1080. 
+95. 
+Fernandes JC, Biskupiak WW, Brokaw SM, et al. Outcomes of the Montana Asthma Home Visiting 
+Program: A home-based asthma education program. J Asthma. 2018:1-7. 
+96. 
+Bhaumik U, Sommer SJ, Giller-Leinwohl J, et al. Boston children's hospital community asthma initiative: 
+Five-year cost analyses of a home visiting program. J Asthma. 2017;54(2):134-142. 
+97. 
+Centers for Disease Control and Prevention. Learning As We Grow: Evaluation Highlights from National 
+Asthma Control Program Grantees.  https://www.cdc.gov/asthma/pdfs/asthmastories.pdf. 
+98. 
+The Guide to Community Preventive Services. An Evidence-Based Approach to Montana's Health 
+Landscape.  https://www.thecommunityguide.org/sites/default/files/assets/PublicHealth-MT.pdf. 
+Accessed August 22, 2017. 
+99. 
+Okelo SO, Butz AM, Sharma R, et al. Interventions to modify health care provider adherence to asthma 
+guidelines: a systematic review. Pediatrics. 2013;132(3):517-534. 
+100. 
+National Asthma Education and Prevention Program. Guidelines Implementation Panel Report for Expert 
+Panel Report 3 (EPR-3): guidelines for the diagnosis and management of asthma.  NIH Publication No. 
+09-6147. Bethesda, MD: National Institutes of Health; 2008. 
+48 
+ 
+101. 
+Szefler SJ, Mitchell H, Sorkness CA, et al. Management of asthma based on exhaled nitric oxide in 
+addition to guideline-based treatment for inner-city adolescents and young adults: a randomised 
+controlled trial. Lancet. 2008;372(9643):1065-1072. 
+102. 
+Szefler SJ, Gergen PJ, Mitchell H, Morgan W. Achieving asthma control in the inner city: do the National 
+Institutes of Health Asthma Guidelines really work? J Allergy Clin Immunol. 2010;125(3):521-526; quiz 
+527-528. 
+103. 
+Cloutier MM, Grosse SD, Wakefield DB, Nurmagambetov TA, Brown CM. The economic impact of an 
+urban asthma management program. Am J Manag Care. 2009;15(6):345-351. 
+104. 
+Rossiter LF, Whitehurst-Cook MY, Small RE, et al. The impact of disease management on outcomes and 
+cost of care: a study of low-income asthma patients. Inquiry. 2000;37(2):188-202. 
+105. 
+Cabana MD, Slish KK, Evans D, et al. Impact of physician asthma care education on patient outcomes. 
+Pediatrics. 2006;117(6):2149-2157. 
+106. 
+Asthma Community Network. Collaborating for Better Care: Strategies for Successful Partnerships 
+between Health Plans and Asthma Programs.  
+http://www.asthmacommunitynetwork.org/system/files/webinar/pdf/CollaboratingForBetterCare-
+WebinarSlides.pdf. Accessed January 9, 2017. 
+107. 
+Wilson SR, Strub P, Buist AS, et al. Shared treatment decision making improves adherence and outcomes 
+in poorly controlled asthma. Am J Respir Crit Care Med. 2010;181(6):566-577. 
+108. 
+Karaca-Mandic P, Jena AB, Joyce GF, Goldman DP. Out-of-pocket medication costs and use of 
+medications and health care services among children with asthma. JAMA. 2012;307(12):1284-1291. 
+109. 
+Campbell JD, Allen-Ramey F, Sajjan SG, Maiese EM, Sullivan SD. Increasing pharmaceutical copayments: 
+impact on asthma medication utilization and outcomes. Am J Manag Care. 2011;17(10):703-710. 
+110. 
+Berger Z, Kimbrough W, Gillespie C, et al. Lower copay and oral administration: predictors of first-fill 
+adherence to new asthma prescriptions. Am Health Drug Benefits. 2009;2(4):174-180. 
+111. 
+Tinkelman D, Wilson S. Asthma disease management: regression to the mean or better? Am J Manag 
+Care. 2004;10(12):948-954. 
+112. 
+Williams D, Portnoy JM, Meyerson K. Strategies for improving asthma outcomes: a case-based review of 
+successes and pitfalls. J Manag Care Pharm. 2010;16(1 Suppl C):S3-14; quiz S16-17. 
+113. 
+Bender BG, Cvietusa PJ, Goodrich GK, et al. Pragmatic trial of health care technologies to improve 
+adherence to pediatric asthma treatment a randomized clinical trial. JAMA Pediatrics. 2015;169:317-
+323. http://onlinelibrary.wiley.com/o/cochrane/clcentral/articles/916/CN-01075916/frame.html 
+114. 
+Cloutier MM, Hall CB, Wakefield DB, Bailit H. Use of asthma guidelines by primary care providers to 
+reduce hospitalizations and emergency department visits in poor, minority, urban children. J Pediatr. 
+2005;146(5):591-597. 
+115. 
+The Community Guide. Health Equity: School-Based Health Centers.  
+https://www.thecommunityguide.org/findings/promoting-health-equity-through-education-programs-
+and-policies-school-based-health-centers. Accessed November 16, 2017. 
+116. 
+Guo JJ, Jang R, Keller KN, McCracken AL, Pan W, Cluxton RJ. Impact of school-based health centers on 
+children with asthma. J Adolesc Health. 2005;37(4):266-274. 
+117. 
+Lurie N, Bauer EJ, Brady C. Asthma outcomes at an inner-city school-based health center. J Sch Health. 
+2001;71(1):9-16. 
+118. 
+Webber MP, Carpiniello KE, Oruwariye T, Lo Y, Burton WB, Appel DK. Burden of asthma in inner-city 
+elementary schoolchildren: do school-based health centers make a difference? Arch Pediatr Adolesc 
+Med. 2003;157(2):125-129. 
+119. 
+Knopf JA, Finnie RK, Peng Y, et al. School-Based Health Centers to Advance Health Equity: A Community 
+Guide Systematic Review. Am J Prev Med. 2016;51(1):114-126. 
+120. 
+National Asthma Education and Prevention Program. Asthma Care Quick Reference: Diagnosing and 
+Managing Asthma. NIH Publication No. 12-5075. Bethesda, MD: National Institutes of Health; 2008. 
+49 
+ 
+121. 
+National Institutes of Health. Physician Asthma Care Education (PACE) Curriculum 
+https://www.nhlbi.nih.gov/health-pro/resources/lung/physician-asthma-care-
+education/curriculum.htm. Accessed May 11, 2017. 
+122. 
+Partnership for Prevention. Leading by Example: Leading Practices for Employee Health Management.  
+http://www.prevent.org/downloadStart.aspx?id=26. Accessed August 28, 2017. 
+123. 
+Benefit-based copays in the real world: the employer perspective. American Journal of Managed Care. 
+2006;12(13):S353-S358. 
+124. 
+Missouri Asthma Prevention and Control Program. Evaluation Brief: Enhancing Asthma Medication 
+Profiles to Improve Asthma Control: A Drug Utilization Review.  
+http://health.mo.gov/living/healthcondiseases/chronic/asthma/pdf/enhancingasthmamedicationprofile
+s.pdf. Accessed May 12, 2017. 
+125. 
+Agency for Healthcare Research and Quality. Primary Care Medical Home Resource Center.  
+https://pcmh.ahrq.gov/. Accessed May 16, 2017. 
+126. 
+National Quality Forum. NQF-Endorsed Measures for Care Coordination: Phase 3 
+http://www.qualityforum.org/Publications/2014/12/NQF-
+Endorsed_Measures_for_Care_Coordination__Phase_3.aspx. Accessed May 16, 2017. 
+127. 
+Institute of Medicine Roundtable on Evidence-Based Medicine. The Healthcare Imperative: Lowering 
+Costs and Improving Outcomes. Washington, DC,  2010. 
+128. 
+Hamburger R, Berhane Z, Gatto M, Yunghans S, Davis RK, Turchi RM. Evaluation of a statewide medical 
+home program on children and young adults with asthma. Journal of Asthma. 2015;52(9):940-948. 
+129. 
+Emilio Carrillo J, Carrillo VA, Guimento R, Mucaria J, Leiman J. The New York-Presbyterian regional health 
+collaborative: A three-year progress report. Health Affairs. 2014;33(11):1985-1992. 
+130. 
+Gleason M, Villareal M, Hollenbach JP, et al. Building Bridges Transforms the Approach to School-
+Centered Asthma Care and Improves Outcomes for Children with Asthma. Paper presented at: American 
+Thoracic Society. 
+131. 
+Liptzin DR, Gleason MC, Cicutto LC, et al. Developing, Implementing, and Evaluating a School-Centered 
+Asthma Program: Step-Up Asthma Program. J Allergy Clin Immunol Pract. 2016;4(5):972-979 e971. 
+132. 
+Woods ER, Bhaumik U, Sommer SJ, et al. Community asthma initiative: evaluation of a quality 
+improvement program for comprehensive asthma care. Pediatrics. 2012;129(3):465-472. 
+133. 
+Bhaumik U, Norris K, Charron G, et al. A cost analysis for a community-based case management 
+intervention program for pediatric asthma. J Asthma. 2013;50(3):310-317. 
+134. 
+Chin MH, Alexander-Young M, Burnet DL. Health care quality-improvement approaches to reducing child 
+health disparities. Pediatrics. 2009;124:S224-236 221p. 
+135. 
+Asthma Community Network. AmeriHealth Caritas Program.  
+http://www.asthmacommunitynetwork.org/node/16342. Accessed May 16, 2017. 
+136. 
+Gratale D, Haushalter A. Optimizing health outcomes for children with asthma in Delaware: A population 
+health case report. Washington, DC: National Academy of Medicine;2016. 
+137. 
+Anderson ME, Freas MR, Wallace AS, Kempe A, Gelfand EW, Liu AH. Successful school-based 
+intervention for inner-city children with persistent asthma. J Asthma. 2004;41(4):445-453. 
+138. 
+Prevention and Wellness Trust Fund. Joining forces: Adding public health value to healthcare reform. 
+The Prevention and Wellness Trust Fund Final Report (2017).  
+http://www.mass.gov/eohhs/docs/dph/com-health/prev-wellness-advisory-board/2017/170308-pwtf-
+annual-report.pdf Accessed August 1, 2017. 
+139. 
+Chute CG, Hart LA, Alexander AK, Jensen DW. The Southeastern Minnesota Beacon Project for 
+Community-driven Health Information Technology: Origins, Achievements, and Legacy. EGEMS. 
+2014;2(3):1101. 
+140. 
+U.S. Environmental Protection Agency National Asthma Forum. A Systems-Based Approach for Creating 
+and Sustaining Effective Community-Based Asthma Programs: Snapshot of Ten High-Performing Asthma 
+Management Programs (WellPoint’s State Sponsored Business Comprehensive Asthma Intervention 
+50 
+ 
+Program).  http://www.asthmacommunitynetwork.org/sites/default/files/Snapshot.pdf. Accessed May 
+9, 2017. 
+141. 
+U.S. Environmental Protection Agency. Asthma Change Package: High Performing Collaborations & 
+Partnerships.  http://www.asthmacommunitynetwork.org/interact/changepackage/4. Accessed May 23, 
+2017. 
+142. 
+National Committee for Quality Assurance. Patient-Centered Medical Home Recognition.  
+http://www.ncqa.org/Programs/Recognition/Practices/PatientCenteredMedicalHomePCMH.aspx. 
+Accessed May 16, 2017. 
+143. 
+Cambridge Health Alliance Model of Team-Based Care Implementation Guide and Toolkit.  
+http://www.integration.samhsa.gov/workforce/team-members/Cambridge_Health_Alliance_Team-
+Based_Care_Toolkit.pdf. Accessed May 19, 2017. 
+144. 
+Levy M, Heffner B, Stewart T, Beeman G. The efficacy of asthma case management in an urban school 
+district in reducing school absences and hospitalizations for asthma. Journal of School Health. 
+2006;76(6):320-324. 
+145. 
+Centers for Disease Control and Prevention. Strategies for Addressing Asthma in Schools.  
+https://www.cdc.gov/asthma/pdfs/Strategies_for_Addressing_Asthma_in_Schools_508.pdf. Accessed 
+May 16, 2017. 
+146. 
+Centers for Disease Control and Prevention. Breathing Easier in Indiana.  
+https://www.cdc.gov/asthma/contacts/factsheets/APHA-Asthma_IN_4.pdf. Accessed June 1, 2017. 
+147. 
+Practical Playbook. Phone call-back program reduces asthma-related ER visits: Indiana partnership relies 
+on nurses to educate patients.  https://www.practicalplaybook.org/success/story/phone-call-back-
+program-reduces-asthma-related-er-visits. Accessed June 1, 2017. 
+148. 
+Parkview Health. EPA Honors Parkview Health with National Environmental Leadership Award.  
+http://www.parkview.com/en/about-us/newsroom/News-Articles/Pages/Parkview-Asthma-EPA.aspx. 
+Accessed June 1, 2017. 
+149. 
+Asthma Community Network. Parkview Health System.  
+http://www.asthmacommunitynetwork.org/node/11466. Accessed June 1, 2017. 
+150. 
+U.S. Environmental Protection Agency. National Environmental Leadership Award in Asthma 
+Management 2013 Health Care Provider Winner: Parkview Health System.  
+https://www.epa.gov/asthma/national-environmental-leadership-award-asthma-management. 
+Accessed June 1, 2017. 
+151. 
+U.S. Environmental Protection Agency (EPA). (2011) Exposure Factors Handbook: 2011 Edition. 
+EPA/600/R-09/052F; http://www.epa.gov/ncea/efh. Accessed May 31, 2017. 
+152. 
+Centers for Disease Control and Prevention. Asthma Triggers Indoors.  
+https://www.cdc.gov/asthma/triggers_indoor.html. Accessed June 1, 2017. 
+153. 
+Been JV, Nurmatov UB, Cox B, Nawrot TS, van Schayck CP, Sheikh A. Effect of smoke-free legislation on 
+perinatal and child health: a systematic review and meta-analysis. Lancet. 2014;383(9928):1549-1560. 
+154. 
+Dove MS, Dockery DW, Connolly GN. Smoke-free air laws and asthma prevalence, symptoms, and 
+severity among nonsmoking youth. Pediatrics. 2011;127(1):102-109. 
+155. 
+Ciaccio CE, Gurley-Calvez T, Shireman TI. Indoor tobacco legislation is associated with fewer emergency 
+department visits for asthma exacerbation in children. Ann Allergy Asthma Immunol. 2016;117(6):641-
+645. 
+156. 
+Marchese ME, Shamo F, Miller CE, Wahl RL, Li Y. Racial Disparities in Asthma Hospitalizations Following 
+Implementation of the Smoke-Free Air Law, Michigan, 2002-2012. Prev Chronic Dis. 2015;12:E201. 
+157. 
+Tan CE, Glantz SA. Association between smoke-free legislation and hospitalizations for cardiac, 
+cerebrovascular, and respiratory diseases: a meta-analysis. Circulation. 2012;126(18):2177-2183. 
+158. 
+Rayens MK, Burkhart PV, Zhang M, et al. Reduction in asthma-related emergency department visits after 
+implementation of a smoke-free law. J Allergy Clin Immunol. 2008;122(3):537-541 e533. 
+51 
+ 
+159. 
+Herman PM, Walsh ME. Hospital admissions for acute myocardial infarction, angina, stroke, and asthma 
+after implementation of Arizona's comprehensive statewide smoking ban. Am J Public Health. 
+2011;101(3):491-496. 
+160. 
+Lin HC, Park JY, Seo DC. Comprehensive US Statewide Smoke-Free Indoor Air Legislation and 
+Secondhand Smoke Exposure, Asthma Prevalence, and Related Doctor Visits: 2007-2011. Am J Public 
+Health. 2015;105(8):1617-1622. 
+161. 
+Howden-Chapman P, Matheson A, Crane J, et al. Effect of insulating existing houses on health inequality: 
+cluster randomised study in the community. BMJ. 2007;334(7591):460. 
+162. 
+Rose E, Hawkins B, Tonn B, Paton D, Shah L. Exploring Potential Impacts of Weatherization and Healthy 
+Homes Interventions on Asthma-Related Medicaid Claims and Costs in a Small Cohort in Washington 
+State (ORNL/TM-2015-213). Oak Ridge, TN: Oak Ridge National Laboratory, Environmental Sciences 
+Division 2015: http://weatherization.ornl.gov/RecoveryActpdfs/ORNL_TM-2015_213.pdf  
+163. 
+Tonn B, Rose E, Hawkins B, Conlon B. Health and Household-Related Benefits Attributable to the 
+Weatherization Assistance Program (ORNL/TM-2014/345). Oak Ridge, TN: Oak Ridge National 
+Laboratory, Environmental Sciences Division 2014: 
+http://weatherization.ornl.gov/Retrospectivepdfs/ORNL_TM-2014_345.pdf. 
+164. 
+Kuholski K, Tohn E, Morley R. Healthy energy-efficient housing: using a one-touch approach to maximize 
+public health, energy, and housing programs and policies. J Public Health Manag Pract. 2010;16(5 
+Suppl):S68-74. 
+165. 
+Centers for Disease Control and Prevention. Health Impact in 5 Years: Home Improvement Loans and 
+Grants.  https://www.cdc.gov/policy/hst/hi5/homeimprovement/index.html. Accessed May 31, 2017. 
+166. 
+County Health Rankings & Roadmaps. Housing Rehabilitation Loan & Grant Programs.  
+http://www.countyhealthrankings.org/policies/housing-rehabilitation-loan-grant-programs. Accessed 
+June 1, 2017. 
+167. 
+Maryland Department of Housing and Community Development. EmPOWER Maryland Low Income 
+Energy Efficiency Program.  http://www.dhcd.maryland.gov/Residents/Pages/lieep/default.aspx. 
+Accessed June 1, 2017. 
+168. 
+Minnesota Housing Finance Agency. Rehabilitation Loan/Emergency and Accessibility Loan Program.  
+http://www.mnhousing.gov/wcs/Satellite?c=Page&cid=1358904992980&pagename=External%2FPage%
+2FEXTStandardLayout. Accessed June 1, 2017. 
+169. 
+U.S. Department of Agriculture, Rural Development. Single Family Housing Repair Loans & Grants.  
+https://www.rd.usda.gov/programs-services/single-family-housing-repair-loans-grants. Accessed June 1, 
+2017. 
+170. 
+U.S. Department of Energy. Weatherization Assistance Program.  
+https://energy.gov/eere/wipo/weatherization-assistance-program. Accessed May 31, 2017. 
+171. 
+U.S. Department of Housing and Urban Development. 203(k) Rehabilitation Mortgage Insurance.  
+https://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/sfh/203k. Accessed June 1, 2017. 
+172. 
+National Center for Healthy Housing and the U.S. Department of Energy. Home Rx: The Health Benefits 
+of Home Performance (A Review of the Current Evidence).  
+https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/Home%20Rx%20The
+%20Health%20Benefits%20of%20Home%20Performance%20-
+%20A%20Review%20of%20the%20Current%20Evidence.pdf. Accessed June 5, 2017. 
+173. 
+Kent BD, Sulaiman I, Nicholson TT, Lane SJ, Moloney ED. Acute pulmonary admissions following 
+implementation of a national workplace smoking ban. Chest. 2012;142(3):673-679. 
+174. 
+Mackay D, Haw S, Ayres JG, Fischbacher C, Pell JP. Smoke-free legislation and hospitalizations for 
+childhood asthma. N Engl J Med. 2010;363(12):1139-1145. 
+175. 
+Centers for Disease Control and Prevention. Smokefree Policies Result in High Levels of Compliance.  
+https://www.cdc.gov/tobacco/data_statistics/fact_sheets/secondhand_smoke/protection/compliance/i
+ndex.htm. Accessed June 2, 2017. 
+52 
+ 
+176. 
+U.S. Department of Health and Human Services. The Health Consequences of Involuntary Exposure to 
+Tobacco Smoke: A Report of the Surgeon General—Executive Summary. U.S. Department of Health and 
+Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, 
+National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 
+2006. 
+177. 
+Nagelhout GE, Mons U, Allwright S, et al. Prevalence and predictors of smoking in "smoke-free" bars. 
+Findings from the International Tobacco Control (ITC) Europe Surveys. Soc Sci Med. 2011;72(10):1643-
+1651. 
+178. 
+Cheng KW, Glantz SA, Lightwood JM. Association between smokefree laws and voluntary smokefree-
+home rules. Am J Prev Med. 2011;41(6):566-572. 
+179. 
+U.S. Department of Housing and Urban Development. Instituting Smoke-Free Public Housing (Final Rule).  
+https://portal.hud.gov/hudportal/documents/huddoc?id=smokefreephfinalrule.pdf. Accessed June 1, 
+2017. 
+180. 
+Barrett ML, Weir LM, Washington R. Trends in Pediatric and Adult Hospital Stays for Asthma, 2000–
+2010. HCUP Statistical Brief #169. January 2014. Agency for Healthcare Research and Quality, Rockville, 
+MD. 2007; https://www.hcup-us.ahrq.gov/reports/statbriefs/sb169-Asthma-Trends-Hospital-Stays.pdf. 
+Accessed May 31, 2017. 
+181. 
+The Guide to Community Preventive Services. Reducing Tobacco Use and Secondhand Smoke Exposure: 
+Smoke-Free Policies.  https://www.thecommunityguide.org/findings/tobacco-use-and-secondhand-
+smoke-exposure-smoke-free-policies. Accessed June 2, 2017. 
+182. 
+Centers for Disease Control and Prevention. Health Impact in 5 Years: Tobacco Control Interventions.  
+https://www.cdc.gov/policy/hst/hi5/tobaccointerventions/index.html. Accessed May 31, 2017. 
+183. 
+U.S. Department of Health and Human Services. The Health Consequences of Smoking -- 50 years of 
+Progress. A report of the Surgeon General.  2014. 
+184. 
+Institute of Medicine. 2010. Secondhand smoke exposure and cardiovascular effects: making sense of 
+the evidence. Washington, DC: The National Academies Press. 
+185. 
+Centers for Disease Control and Prevention. Smokefree Policies Do Not Hurt the Hospitality Industry.  
+https://www.cdc.gov/tobacco/data_statistics/fact_sheets/secondhand_smoke/protection/hospitality/in
+dex.htm. Accessed June 2, 2017. 
+186. 
+U.S. Environmental Protection Agency. Asthma Triggers: Gain Control.  
+https://www.epa.gov/asthma/asthma-triggers-gain-control. Accessed November 17, 2017. 
+187. 
+Kampa M, Castanas E. Human health effects of air pollution. Environmental Pollution. 2008;151(2):362-
+367. 
+188. 
+Orellano P, Quaranta N, Reynoso J, Balbi B, Vasquez J. Effect of outdoor air pollution on asthma 
+exacerbations in children and adults: Systematic review and multilevel meta-analysis. PLOS ONE. 
+2017;12(3):e0174050. 
+189. 
+Kim JJ, American Academy of Pediatrics Committee on Environmental H. Ambient air pollution: health 
+hazards to children. Pediatrics. 2004;114(6):1699-1707. 
+190. 
+Centers for Disease Control and Prevention. Air Quality Public Health Issues.  
+https://www.cdc.gov/air/air_health.htm. Accessed May 31, 2017. 
+191. 
+Adar SD, D'Souza J, Sheppard L, et al. Adopting Clean Fuels and Technologies on School Buses. Pollution 
+and Health Impacts in Children. Am J Respir Crit Care Med. 2015;191(12):1413-1421. 
+192. 
+Beatty TK, Shimshack JP. School buses, diesel emissions, and respiratory health. J Health Econ. 
+2011;30(5):987-999. 
+193. 
+Texas Commission on Environmental Quality. Texas Emissions Reduction Plan (TERP).  
+http://www.tceq.texas.gov/airquality/terp. Accessed May 31, 2017. 
+194. 
+State of New Jersey, Department of Environmental Protection, Bureau of Mobile Sources. NJDEP's 
+Mandatory Diesel Retrofit Program http://www.stopthesoot.org/mdrp.html. Accessed May 31, 2017. 
+195. 
+Centers for Disease Control and Prevention. Health Impact in 5 Years: Clean Diesel Bus Fleets.  
+https://www.cdc.gov/policy/hst/hi5/cleandiesel/index.html. Accessed May 31, 2017. 
+53 
+ 
+196. 
+National School Transportation Association. EPA Funding Opportunity (Diesel Emission Reduction 
+Program).  http://www.yellowbuses.org/awards-and-grants/grants/epa-opportunity/. Accessed May 31, 
+2017. 
+197. 
+Minnesota Pollution Control Agency. School Bus Retrofits and Idle Reduction.  
+https://www.pca.state.mn.us/air/school-bus-retrofits-and-idle-reduction. Accessed May 31, 2017. 
+198. 
+Massachusetts Department of Environmental Protection. School Bus Idling Reduction.  
+http://www.mass.gov/eea/agencies/massdep/air/programs/school-bus-idling-reduction.html. Accessed 
+May 31, 2017. 
+199. 
+California Environmental Protection Agency Air Resources Board. Lower-Emission School Bus Program.  
+https://www.arb.ca.gov/msprog/schoolbus/schoolbus.htm. Accessed May 31, 2017. 
+200. 
+Vieira JL, Macedo FY, Benjo AM, Guimaraes GV, Contreras JP, Bocchi EA. Systemic effects of controlled 
+exposure to diesel exhaust: a meta-analysis from randomized controlled trials. Ann Med. 
+2017;49(2):165-175. 
+201. 
+Vieira JL, Guimaraes GV, de Andre PA, Cruz FD, Saldiva PH, Bocchi EA. Respiratory Filter Reduces the 
+Cardiovascular Effects Associated With Diesel Exhaust Exposure: A Randomized, Prospective, Double-
+Blind, Controlled Study of Heart Failure: The FILTER-HF Trial. JACC Heart Fail. 2016;4(1):55-64. 
+202. 
+Benbrahim-Tallaa L, Baan RA, Grosse Y, et al. Carcinogenicity of diesel-engine and gasoline-engine 
+exhausts and some nitroarenes. Lancet Oncol. 2012;13(7):663-664. 
+203. 
+Steiner S, Bisig C, Petri-Fink A, Rothen-Rutishauser B. Diesel exhaust: current knowledge of adverse 
+effects and underlying cellular mechanisms. Arch Toxicol. 2016;90(7):1541-1553. 
+204. 
+American School Bus Council. Environmental Benefits Fact: You can Go Green by Riding Yellow.  
+http://www.americanschoolbuscouncil.org/issues/environmental-benefits. Accessed May 31, 2017. 
+205. 
+Toren K, Blanc PD. Asthma caused by occupational exposures is common - a systematic analysis of 
+estimates of the population-attributable fraction. BMC Pulm Med. 2009;9:7. 
+206. 
+Henneberger PK, Redlich CA, Callahan DB, et al. An official American Thoracic Society statement: work-
+exacerbated asthma. Am J Respir Crit Care Med. 2011;184(3):368-378. 
+207. 
+Leigh JP, Romano PS, Schenker MB, Kreiss K. Costs of occupational COPD and asthma. Chest.        
+2002;121(1):264-272. 
+208. 
+Vandenplas O, Dressel H, Nowak D, Jamart J. ERS Task Force on the Management of Work-related 
+Asthma. What is the optimal management option for occupational asthma? Eur Respir Rev. 
+2012;21(124):97-104. 
+209. 
+Tarlo SM, Balmes J, Balkissoon R, et al. Diagnosis and management of work-related asthma: American 
+College Of Chest Physicians Consensus Statement. Chest. 2008;134(3 Suppl):1S-41S. 
+210. 
+Knoeller GE, Mazurek JM, Moorman JE. Characteristics associated with health care professional 
+diagnosis of work-related asthma among individuals who describe their asthma as being caused or made 
+worse by workplace exposures. J Occup Environ Med. 2012;54(4):485-490. 
+211. 
+de Groene GJ, Pal TM, Beach J, et al. Workplace interventions for treatment of occupational asthma: a 
+Cochrane systematic review. Occup Environ Med. 2012;69(5):373-374. 
+212. 
+Baur X, Sigsgaard T, Aasen TB, et al. Guidelines for the management of work-related asthma. Eur Respir 
+J. 2012;39(3):529-545. 
+213. 
+Heederik D, Henneberger PK, Redlich CA. ERS Task Force on the Management of Work-related Asthma. 
+Primary prevention: exposure reduction, skin exposure and respiratory protection. Eur Respir Rev. 
+2012;21(124):112-124. 
+214. 
+Centers for Disease Control and Prevention. Community Health Worker Resources.  
+https://www.cdc.gov/stltpublichealth/chw/index.html. Accessed May 22, 2017. 
+215. 
+Centers for Disease Control and Prevention. Community Health Worker (CHW) Toolkit.  
+https://www.cdc.gov/dhdsp/pubs/chw-toolkit.htm. Accessed May 22, 2017. 
+216. 
+Minnesota Department of Health. Community Health Worker (CHW) Toolkit.  
+http://www.health.state.mn.us/divs/orhpc/workforce/emerging/chw/2016chwtool.pdf. 
+54 
+ 
+217. 
+National Committee for Quality Assurance. HEDIS & Performance Measurement.  
+http://www.ncqa.org/tabid/59/Default.aspx. Accessed June 26, 2017. 
+218. 
+Peytremann-Bridevaux I, Arditi C, Gex G, Bridevaux PO, Burnand B. Chronic disease management 
+programmes for adults with asthma. Cochrane Database Syst Rev. 2015(5):CD007988. 
+219. 
+Tapp S, Lasserson TJ, Rowe B. Education interventions for adults who attend the emergency room for 
+acute asthma. Cochrane Database Syst Rev. 2007(3):CD003000. 
+220. 
+Powell H, Gibson PG. Options for self-management education for adults with asthma. Cochrane 
+Database Syst Rev. 2003(1):CD004107. 
+221. 
+Guevara JP, Wolf FM, Grum CM, Clark NM. Effects of educational interventions for self management of 
+asthma in children and adolescents: systematic review and meta-analysis. BMJ. 2003;326(7402):1308-
+1309. 
+222. 
+Bravata DM, Gienger AL, Holty JE, et al. Quality improvement strategies for children with asthma: a 
+systematic review. Arch Pediatr Adolesc Med. 2009;163(6):572-581. 
+223. 
+Wilson SR, Latini D, Starr NJ, et al. Education of parents of infants and very young children with asthma: 
+a developmental evaluation of the Wee Wheezers program. J Asthma. 1996;33(4):239-254. 
+224. 
+Findley SE, Thomas G, Madera-Reese R, et al. A community-based strategy for improving asthma 
+management and outcomes for preschoolers. J Urban Health. 2011;88 Suppl 1:85-99. 
+225. 
+Evans D, Clark NM, Feldman CH, et al. A school health education program for children with asthma aged 
+8-11 years. Health Educ Q. 1987;14(3):267-279. 
+226. 
+Magzamen S, Patel B, Davis A, Edelstein J, Tager IB. Kickin' Asthma: school-based asthma education in an 
+urban community. J Sch Health. 2008;78(12):655-665. 
+227. 
+Atherly A, Nurmagambetov T, Williams S, Griffith M. An economic evaluation of the school-based 
+"power breathing" asthma program. J Asthma. 2009;46(6):596-599. 
+228. 
+Brasler M, Lewis M. Teens: taking control of asthma. J Sch Health. 2006;76(6):269-272. 
+229. 
+Bruzzese J, Stepney C, Gallagher R, Wang J, Petkova E, Evans D. Reducing morbidity and urgent health 
+care utilization in urban pre-adolescents with asthma: Results of a randomized control trial of asthma: 
+It's a family affair. Paper presented at: American Thoracic Society International Conference 20102010; 
+New Orleans, LA. 
+230. 
+Shames RS, Sharek P, Mayer M, et al. Effectiveness of a multicomponent self-management program in 
+at-risk, school-aged children with asthma. Ann Allergy Asthma Immunol. 2004;92(6):611-618. 
+231. 
+Centers for Disease Control and Prevention. Wee Wheezers Asthma Education Program: 
+Strengths/Challenges of Replicated Program.  
+https://www.cdc.gov/asthma/interventions/wee_wheezers_challenges.htm. Accessed April 4, 2017. 
+232. 
+American Lung Association. Breathe Well, Live Well Community Case Study.  http://www.lung.org/lung-
+health-and-diseases/lung-disease-lookup/asthma/asthma-education-advocacy/breathe-well-live-
+well/case-study.html. Accessed April 4, 2017. 
+233. 
+Berg J, Tichacek MJ, Theodorakis R. Evaluation of an educational program for adolescents with asthma. J 
+Sch Nurs. 2004;20(1):29-35. 
+234. 
+Newcomb P. Results of an asthma disease management program in an urban pediatric community clinic. 
+Journal for Specialists in Pediatric Nursing. 2006;11(3):178-188 111p. 
+235. 
+Suh DC, Shin SK, Okpara I, Voytovich RM, Zimmerman A. Impact of a targeted asthma intervention 
+program on treatment costs in patients with asthma. Am J Manag Care. 2001;7(9):897-906. 
+236. 
+Taggart VS, Zuckerman AE, Sly RM, et al. You Can Control Asthma: evaluation of an asthma education 
+program for hospitalized inner-city children. Patient Educ Couns. 1991;17(1):35-47. 
+237. 
+Pinnock H, Parke HL, Panagioti M, et al. Systematic meta-review of supported self-management for 
+asthma: a healthcare perspective. BMC Med. 2017;15(1):64. 
+238. 
+Pinnock H, Epiphaniou E, Pearce G, et al. Implementing supported self-management for asthma: a 
+systematic review and suggested hierarchy of evidence of implementation studies. BMC Med. 
+2015;13:127. 
+55 
+ 
+239. 
+Shah S, Peat JK, Mazurski EJ, et al. Effect of peer led programme for asthma education in adolescents: 
+cluster randomised controlled trial. BMJ. 2001;322(7286):583-585. 
+240. 
+Thomson NC, Chaudhuri R, Heaney LG, et al. Clinical outcomes and inflammatory biomarkers in current 
+smokers and exsmokers with severe asthma. J Allergy Clin Immunol. 2013;131(4):1008-1016. 
+241. 
+Perret JL, Bonevski B, McDonald CF, Abramson MJ. Smoking cessation strategies for patients with 
+asthma: improving patient outcomes. J Asthma Allergy. 2016;9:117-128. 
+242. 
+Baxi R, Sharma M, Roseby R, et al. Family and carer smoking control programmes for reducing children's 
+exposure to environmental tobacco smoke. Cochrane Database Syst Rev. 2014(3):CD001746. 
+243. 
+Grant R, Bowen SK, Neidell M, Prinz T, Redlener IE. Health care savings attributable to integrating 
+guidelines-based asthma care in the pediatric medical home. Journal of Health Care for the Poor & 
+Underserved. 2010;21(2):82-92 11p. 
+244. 
+Fox P, Porter PG, Lob SH, Boer JH, Rocha DA, Adelson JW. Improving asthma-related health outcomes 
+among low-income, multiethnic, school-aged children: results of a demonstration project that combined 
+continuous quality improvement and community health worker strategies. Pediatrics. 2007;120(4):e902-
+911. 
+245. 
+Reddy AL, Gomez M, Dixon SL. An Evaluation of a State-Funded Healthy Homes Intervention on Asthma 
+Outcomes in Adults and Children. J Public Health Manag Pract. 2017;23(2):219-228. 
+246. 
+Centers for Disease Control and Prevention. Learning As We Grow: Evaluation Highlights from National 
+Asthma Control Program Grantees. Atlanta, GA: Centers for Disease Control and Prevention, National 
+Center for Environmental Health, Division of Environmental Hazards and Health Effects, Air Pollution and 
+Respiratory Health Branch; 2015. 
+247. 
+Nguyen KH, Boulay E, Peng J. Quality-of-life and cost-benefit analysis of a home environmental 
+assessment program in Connecticut. J Asthma. 2011;48(2):147-155. 
+248. 
+The Impact of Housing Quality on Children’s Health: Healthy Homes Healthy Kids Program.  
+http://healthyrowhouse.org/wp-content/uploads/2015/03/The-Impact-of-Housing-Quality-on-Children-
+Health-Phila-nfeyler-feb-2015.pdf. Accessed May 9, 2017. 
+249. 
+Blue Cross Blue Shield. Health Care Service Corporation and American Lung Association of the Upper 
+Midwest's Enhancing Care for Children with Asthma Project Results Show Decreases in Hospitalizations, 
+Emergency Room Visits.  https://www.bcbs.com/news/press-releases/health-care-service-corporation-
+and-american-lung-association-upper-midwests. Accessed January 9, 2017. 
+250. 
+Asthma Community Network. Genesee County Asthma Network (GCAN) Snapshot.  
+http://www.asthmacommunitynetwork.org/node/3319. Accessed May 9, 2017. 
+251. 
+Gruber KJ, McKee-Huger B, Richard A, Byerly B, Raczkowski JL, Wall TC. Removing asthma triggers and 
+improving children's health: The Asthma Partnership Demonstration project. Ann Allergy Asthma 
+Immunol. 2016;116(5):408-414. 
+252. 
+Jowers JR, Schwartz AL, Tinkelman DG, et al. Disease management program improves asthma outcomes. 
+Am J Manag Care. 2000;6(5):585-592. 
+253. 
+Gomez M, Reddy AL, Dixon SL, Wilson J, Jacobs DE. A Cost-Benefit Analysis of a State-Funded Healthy 
+Homes Program for Residents With Asthma: Findings From the New York State Healthy Neighborhoods 
+Program. J Public Health Manag Pract. 2017;23(2):229-238. 
+254. 
+Reiter KL, Lemos KA, Williams CE, Esposito D, Greene SB. The business case for pediatric asthma quality 
+improvement in low-income populations: examining a provider-based pay-for-reporting intervention. Int 
+J Qual Health Care. 2015;27(3):189-195. 
+255. 
+Janevic MR, Stoll S, Wilkin M, et al. Pediatric Asthma Care Coordination in Underserved Communities: A 
+Quasiexperimental Study. Am J Public Health. 2016;106(11):2012-2018. 
+256. 
+Taras H, Wright S, Brennan J, Campana J, Lofgren R. Impact of school nurse case management on 
+students with asthma. J Sch Health. 2004;74(6):213-219. 
+257. 
+Stout JW, White LC, Rogers LT, et al. The Asthma Outreach Project: a promising approach to 
+comprehensive asthma management. J Asthma. 1998;35(1):119-127. 
+56 
+ 
+258. 
+Cooley WC, McAllister JW, Sherrieb K, Kuhlthau K. Improved outcomes associated with medical home 
+implementation in pediatric primary care. Pediatrics. 2009;124(1):358-364. 
+259. 
+David G, Gunnarsson C, Saynisch PA, Chawla R, Nigam S. Do patient-centered medical homes reduce 
+emergency department visits? Health Services Research. 2015;50(2):418-439. 
+260. 
+Findley S, Rosenthal M, Bryant-Stephens T, et al. Community-based care coordination: practical 
+applications for childhood asthma. Health Promot Pract. 2011;12(6 Suppl 1):52S-62S. 

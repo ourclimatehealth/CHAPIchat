@@ -1,0 +1,745 @@
+EPA Tools & Resources Webinar:
+How to evaluate air sensors for 
+smoke monitoring applications
+Amara Holder, Andrea Clements & Karoline Barkjohn
+US EPA Office of Research and Development
+February 16, 2022
+1
+Overview of Today’s Presentation
+• Need for air sensors to monitor smoke
+• EPA’s initial guidance provided by performance targets for PM2.5 sensors
+• Recommendations for additional evaluations for sensors used for smoke monitoring
+• Considerations associated with reference monitor measurements during smoke
+• Review of air sensor related resources
+2
+Why do we need sensors for 
+smoke monitoring applications?
+3
+Wildfire smoke is increasing
+• Wildfires contribute more than 
+40% of all PM2.5 emissions in 
+the US (NEI2017)
+• Wildfire smoke has resulted in 
+increasing concentrations in 
+the west, opposite the long-
+term decreasing 
+anthropogenic PM2.5 trends 
+(McClure and Jaffe 2018) 
+• Estimated economic impact of 
+wildfire attributed PM2.5 is 
+immense (Fann et al., 2018)
+• Short-term exposure: $11-20 
+billion/yr
+• Long-term exposure: $76-130 
+billion/yr
+Annual Avg. 
+burned 1983-1999
+2.9 million acres
+Annual Avg. burned 
+2000-2020 7 
+million acres
+Adapted from https://www.nifc.gov/fireInfo/fireInfo_stats_totalFires.html
+4
+Smoke concentrations can vary greatly in 
+space and time
+• Active fire areas can generate localized 
+high concentration plumes
+• Topography can strongly impact spatial 
+variation of smoke concentrations
+• Wind shifts and diurnal flows can cause 
+rapid concentration changes
+Sensors allow for more measurements, 
+often at higher time resolution, than 
+the ambient monitoring network → 
+more timely and localized  public 
+health information
+5
+Progression of fires throughout the year using 2017 MODIS hotspot fire detections.
+Jaffe et al. 2020 https://doi.org/10.1080/10962247.2020.1749731
+Smoke impacts vary by region and by season
+• Wildland fires occur 
+across the US
+• Some regions have 
+seasonal fires that differ 
+from wildfire conditions
+• Spring grassland fires in 
+the midwest
+• Winter pile burns in the 
+west
+• Winter prescribed forest 
+fires in the southeast
+• Fall agricultural residue 
+burns in the south
+• Vegetation varies across 
+the country and may 
+impact PM2.5
+characteristics
+6
+Other smoke sources also have high spatial 
+and temporal variation
+• Wood stove use and recreational 
+burning can cause localized high 
+PM2.5 concentrations in the 
+wintertime (NEI2017)
+• Inversions that frequently setup in 
+mountain valleys can further 
+concentrate emissions and result in 
+stratified layers of PM2.5 at different 
+elevations (Chen et al. 2012)
+7
+Credit: Brian McCaughey, 2019
+Outdoor worker protection programs need 
+exposure data where people work
+•
+Overview of information 
+on health impacts and 
+outdoor worker 
+protection methods
+•
+Links to State Programs
+https://www.cdc.gov/niosh/topics/firefighting/wffsmoke.html
+8
+Some states enacted outdoor worker wildfire 
+smoke protection programs
+California 
+California Code of Regulations, Title 8, Section 5141.1
+https://www.dir.ca.gov/title8/5141_1.html
+Oregon 
+Oregon Temporary Rule (8/19/2021 – 2/4/2022)
+https://osha.oregon.gov/OSHARules/adopted/2021/ao9-2021-
+letter-temp-wildfire-smoke.pdf
+Washington
+Washington Temporary Rule (7/16/2021 – 11/13/2021)
+https://lni.wa.gov/rulemaking-activity/AO21-
+26/2126CR103EAdoption.pdf
+Common features of these programs
+1. Threshold Air Quality Index or PM2.5
+values for exposure reduction actions
+2. Some workplaces are exempt 
+(emergency response)
+3. Use of direct read PM2.5 monitors for 
+ambient measurements
+4. Stipulations for instrument accuracy and 
+operation
+“…information on the possible error of the 
+monitor from the manufacturer or other 
+published literature…”
+9
+Regulatory smoke exposure thresholds
+State
+Threshold Value 
+(or PM2.5 concentration)
+Action
+CA
+AQI ≥ 150 (150.4 µg/m3)
+•
+Implement engineering and administrative controls
+•
+Provide respirators for voluntary use
+AQI ≥ 500 (500.4 µg/m3)
+•
+Require respirator use
+OR
+AQI ≥ 101 (35.5 µg/m3)
+•
+Develop training and communication program
+•
+Provide respirators for voluntary use
+AQI ≥ 201 (150.5 µg/m3)
+•
+Implement engineering and administrative controls
+•
+Require respirator use
+AQI ≥ 501 (500.4 µg/m3)
+•
+Require respirator use
+•
+Implement respiratory protection program
+WA
+20.5 µg/m3
+•
+Develop information and hazard communication plan
+•
+Encourage use of exposure controls
+55.5 µg/m3
+•
+Implement engineering and administrative controls
+•
+Provide respirators for voluntary use at no cost
+10
+Engineering controls 
+•
+work in buildings or 
+vehicles with filtered 
+air
+Administrative controls 
+•
+relocate work 
+•
+change schedule or 
+intensity
+•
+increase breaks
+Performance Testing Protocols, 
+Metrics, and Target Values for 
+PM2.5 Air Sensors
+11
+Intention and Scope of EPA’s Performance 
+Testing Protocols, Metrics, and Targets
+• Intention: The goal to provide a 
+consistent approach for performance 
+testing and reporting results to help users 
+identify sensors that meet their needs
+• Scope
+• Focus on non-regulatory, supplemental and 
+informational monitoring applications 
+(NSIM)
+• Ambient, outdoor, fixed site environments
+Smoke monitoring fits the NSIM application space. Most 
+monitoring is for outdoor and fixed site environments BUT, 
+the concentration range is typically wider than is typically 
+experienced for ambient monitoring.
+Available at: https://www.epa.gov/air-sensor-toolbox/air-sensor-performance-targets-and-testing-protocols
+12
+1
+13
+• Reports provide recommendations for evaluating 
+sensor performance
+• Conducting the testing protocols is entirely 
+voluntary
+• Conducting the testing protocols does not constitute 
+certification or endorsement by the US EPA
+• EPA does not provide funding to conduct the testing 
+protocols
+• EPA recommends that testers share results on their 
+respective websites
+For these and other Frequently Asked Questions on the reports visit:
+https://www.epa.gov/air-sensor-toolbox/frequently-asked-questions-
+reports-air-sensor-performance-testing-protocols
+Important Notes
+1
+14
+Base Testing (Field)
+Enhanced Testing (Laboratory)
+• Evaluate sensors in the field – ambient, 
+outdoor, fixed site environment
+• Purpose
+•
+Obtain information on sensor 
+performance in real-world, ambient, 
+outdoor conditions
+•
+Provides consumers information on 
+how they might expect a sensor to 
+perform in similar conditions
+• Evaluate sensors in a controlled laboratory 
+exposure chamber
+• Purpose
+•
+Evaluate sensors over a wider range of 
+conditions that may be more difficult to 
+capture in the field
+•
+Characterize certain performance 
+parameters that are difficult to test in the 
+field
+Overview of Testing Protocols
+Field measurements are most important for wildfire smoke because it’s challenging to 
+generate realistic PM in the laboratory environment.
+Controlled lab tests allow for better understanding of the PM characteristics or ambient 
+conditions that may impact sensor performance in the field measurements.
+1
+• Field deployment of 3 or more identical air sensors with collocated Federal Reference 
+Method or Federal Equivalent Method (FRM/FEM) monitors
+• Testers have different options for field sites
+• Set up their own FRM/FEM monitors at an outdoor, ambient site
+• Establish collaborations with state/tribal/local agencies who manage existing air 
+quality monitoring sites
+• Collect measurements for at least 30 consecutive days
+15
+Base Testing
+PM2.5
+Test Sites
+2 deployments at 2 different sites
+Season and 
+Pollutant Level
+2 different climate regions for each site 
+(goal 1-day, 24-hour average PM2.5 level 
+of ≥ 25 µg/m3)
+Recommended Test Site Selection Criteria
+Overview of the Base Testing Protocol
+• 2 field deployments recommended to 
+evaluate sensors under different pollutant 
+concentrations, ambient temperatures (T), 
+and relative humidity (RH) levels 
+Smoke monitoring applications will benefit from 
+additional test site selection guidance
+1
+• Target values are based on 24-hour averages and are only recommended for Base Testing 
+16
+Performance Metric
+O3 Target Value
+PM2.5 Target Value
+Precision
+Standard Deviation (SD)
+OR
+Coefficient of Variation (CV)
+≤ 5 ppbv
+≤ 5 µg/m3
+≤ 30%
+≤ 30%
+Bias
+Slope
+1.0 ± 0.2
+1.0 ± 0.35
+Intercept (b)
+-5 ≤ b ≤ 5 ppbv
+-5 ≤ b ≤ 5 µg/m3
+Linearity
+Coefficient of Determination (R2)
+≥ 0.80
+≥ 0.70
+Error
+Root Mean Square Error (RMSE)
+≤ 5 ppbv
+RMSE ≤ 7 µg/m3 or NRMSE ≤ 30%
+NRMSE = normalized root mean square error
+• Target values considered reasonably achievable (at this time) and adequate for many NSIM 
+applications (based on literature)
+• Exploratory graphs also recommended to understand potential
+impacts of meteorological parameters (T, RH, dew point)
+• No target values recommended for enhanced testing protocols
+Recommended Target Values
+Smoke conditions change rapidly 
+requiring higher time resolution 
+data (e.g., 1-hr avg)
+1
+• The Performance Testing Protocols, Metrics, and Target Values Documents makes 
+provisions for the need for future guidance for specific applications.
+Wildfire smoke monitoring was called out specifically:
+17
+Guidance for Wildfire Smoke Applications
+“For NSIM applications where high PM2.5 concentrations are expected 
+(e.g., wildfire smoke applications), it is recommended that testers 
+conduct base testing in more than two locations and include sites 
+impacted by wildfire smoke and higher PM2.5 concentrations.”
+Additional evaluations for 
+smoke sensors
+18
+Evaluate at hour averages
+• Higher time 
+resolution data is 
+needed during smoke 
+events
+• Precision at hourly 
+averages is important
+• Enables comparison 
+across the network
+Sensors are 
+typically within 
+a few µg/m3
+Occasional 
+issues occur
+Example:
+19
+Corrections may be needed to improve 
+performance
+20
+• Sensors may perform 
+differently at different 
+concentration levels
+Nonlinearity between 
+PurpleAir and Monitor 
+PM2.5 ~>250 µg/m3
+20
+Collocations at multiple sites with multiple FEM and 
+temporary monitor types across the U.S.
+Corrections may be needed to improve 
+performance
+• Sensors may perform 
+differently at different 
+concentration levels
+• Sensors with the 
+same internal sensor 
+may perform 
+differently
+RAMP and PurpleAir both contain Plantower PMS5003
+•
+Show different performance
+•
+Likely due to different internal correction algorithms
+•
+May vary with firmware version
+Sensor performance evaluations in Research Triangle Park, NC
+21
+Evaluate over expanded concentration range
+• Consider evaluation at each Air 
+Quality Index (AQI) category or 
+AQI breakpoint
+• Evaluate at relevant 
+occupational exposure limits
+• e.g., Cal/OSHA: 500 µg/m3
+(Source: https://www.airnow.gov/aqi/aqi-basics/)
+22
+Evaluate in more locations seasonally
+• Temperature, Relative Humidity, and 
+local particle properties may 
+influence sensor performance
+• Need collocations in area where the 
+sensors are used
+• Scale with the size of the network
+• Across climate regions for a national 
+network
+• Across a region for a regional network
+• Across a city for a local network
+• Collocations seasonal at a minimum
+• Longer collocations (>1 year) may help 
+understand drift and network aging
+U.S. Climate Regions 
+(source: https://www.ncdc.noaa.gov/monitoring-
+references/maps/us-climate-regions)
+23
+Quality control checks are essential
+• Sensor failure may not be obvious (e.g., 
+no longer reporting)
+• Sensors exposed to high smoke 
+concentrations may fail faster
+• Frequently check data for failure modes
+• Repeated concentration values or zeros
+• Baseline shifts
+• Unreasonable values
+• Collocate again if possible
+• Compare to nearby sensors or monitors 
+if available
+(Source: fire.airnow.gov 1/25/2022)
+Local source?
+Sensor issue?
+24
+Consider the monitor type used for 
+comparison
+25
+The Federal Reference Method 
+(FRM) is the gold standard for 
+accuracy, but samples are 
+integrated over 24-hours and 
+there is a lag-time due to 
+laboratory analysis. 
+The Federal Equivalent Methods 
+(FEMs) provide automated data at 
+higher time resolution (generally 
+every hour). They are used across 
+the official air monitoring 
+network and were designated by 
+comparison to FRMs under typical 
+conditions (not smoke).
+Temporary monitors also provide 
+hourly data, were tested for 
+performance under high 
+concentrations, and are used 
+extensively by government 
+organizations for supplemental 
+monitoring during wildland fire 
+smoke events.
+Higher time resolution comparisons provided by collocation with FEMs or temporary 
+monitors are recommended for smoke evaluations.
+Consider all FRM/FEM data available 
+during collocation
+• Many continuous Federal Equivalent 
+Methods are not evaluated under extreme 
+smoke conditions
+• Bias or flow rate issues have been observed at 
+high concentrations
+• Ensure relative humidity and other quality 
+control parameters are in range
+• Collocate with multiple types of monitor so 
+that not overly impacted by a single 
+monitor
+• Use comparability assessments with 
+Federal Reference Methods (when 
+available)
+26
+Smoke Plumes
+Photo credit: Ali Kamal
+Quality control for monitors
+• Smoke monitoring 
+• ± 5% for set flow
+• Ambient temperature < 45 °C
+• Internal relative humidity
+• < 50% for E-BAM
+• < 45% for BAM
+• Concentration < 5 mg/m3
+27
+• Air Quality System (AQS) 
+monitoring
+• FEM and FRM measurements
+• Quality assurance and control 
+are the responsibility of 
+state/local/tribal air 
+monitoring agency
+• Follow specific guidelines: 
+https://www3.epa.gov/ttnamti1/files
+/ambient/pm25/qa/m212.pdf
+An Example: How to use the 
+comparability assessment tool
+28
+Use comparability assessments with Federal 
+Reference Methods
+1. Select the site
+29
+Link: https://www.epa.gov/outdoor-
+air-quality-data/pm25-continuous-
+monitor-comparability-assessments
+Use comparability assessments with Federal 
+Reference Methods
+2. Select the monitor of interest
+• Note: Not all monitors or years 
+may be available
+30
+Source: https://www.epa.gov/outdoor-air-quality-data/pm25-
+continuous-monitor-comparability-assessments site: 41-039-2013
+We will use the BAM-1022 as an example on 
+the following slides
+Note: the BAM-1022 samples for 60 min/hr
+while the BAM-1020 samples for 42 min/hr
+•
+If concentrations are variable the BAM-
+1022 provides a better temporal coverage
+Use comparability assessments with Federal 
+Reference Methods
+3. Consider bias
+• Ideally:
+• Within target polygon
+• Multiplicative bias (Slope) = 0.9 to 1.1
+• Additive bias (Intercept)= -2 to 2
+31
+Source: https://www.epa.gov/outdoor-air-quality-data/pm25-continuous-
+monitor-comparability-assessments site: 41-039-2013 BAM-1022
+Recommendations Summary
+• Evaluate 1-hr averages
+• Corrections may be needed to improve performance
+• Precision is important
+• Evaluate up to 500 µg/m3 important for respirator use
+• Need evaluations/collocations in areas where the sensors are used
+• Collocate every season or more frequently if possible
+• Federal Equivalent Methods and temporary smoke monitors may be 
+used as “reference monitors” but they may also need additional 
+quality control
+32
+Air Sensor Resources
+33
+U.S. Environmental Protection Agency
+34
+https://www.epa.gov/air-sensor-toolbox
+Webpage provides a wealth of 
+resources on air sensors
+Select resources available in Spanish: 
+https://espanol.epa.gov/espanol/caja-
+de-herramientas-de-sensores-de-aire
+EPA’s Air Sensor Toolbox Webpage
+34
+U.S. Environmental Protection Agency
+35
+EPA Air Sensor Performance Testing Protocols, Metrics, and 
+Targets
+•
+Recommendations on how to evaluate, report, and assess the 
+performance of air sensors for non-regulatory, supplemental and 
+informational monitoring (NSIM) applications
+•
+Available at: https://www.epa.gov/air-sensor-toolbox/air-sensor-
+performance-targets-and-testing-protocols
+EPA Guide to Siting and Installing Air Sensors
+•
+Recommendations on how to site air sensors outdoors and indoors and 
+how to document the supporting information
+•
+Available at: https://www.epa.gov/air-sensor-toolbox/guide-siting-and-
+installing-air-sensors
+EPA’s Performance Targets Reports and 
+Siting/Installation Guidance
+35
+•
+Performance evaluations done by EPA and other organizations
+•
+Technical Details About Air Sensor Data on the Fire & Smoke Map
+•
+Air Sensor Research Overview
+•
+Conferences, Workshops, and Webinars
+•
+Reports and Publications
+•
+Air Sensor Guidebook
+•
+Collocation Guide
+•
+Educational resources
+36
+U.S. Environmental Protection Agency
+Additional Air Sensor Toolbox Links and 
+Publications
+Related Research Publications
+Holder, A., A. Mebust, L. Maghran, M. McGown, K. Steward, D. Vallano, R. Elleman, and K. Baker, 2020. ‘Field Evaluation of 
+Low-Cost Particulate Matter Sensors for Measuring Wildfire Smoke’, Sensors. https://doi.org/10.3390/s20174796
+Barkjohn, K, B. Gantt, A. Clements, 2021 ‘Development of a United States Wide Correction for PM2.5 Data Collected with the 
+PurpleAir Sensor’, Atmospheric Measurement Techniques. https://doi.org/10.5194/amt-2020-413
+Barkjohn, K, A. Holder, S. Frederick, A. Clements, (in preparation) ‘PurpleAir PM2.5US Correction and Performance During 
+Smoke Events’. In preparation.
+36
+Andrea Clements, 
+Ph.D.
+clements.andrea@epa.gov
+Karoline Barkjohn, 
+Ph.D.
+barkjohn.karoline@epa.gov
+Amara Holder, 
+Ph.D.
+holder.amara@epa.gov
+Questions?
+37
+Contacts
+Amara Holder, PhD
+Mechanical Engineer
+Center for Environmental Measurements 
+and Modeling (CEMM)
+US EPA Office of Research and Development
+holder.amara@epa.gov
+38
+Disclaimer: The views expressed in this presentation are those of the authors and do not necessarily represent the views or policies of the US Environmental Protection 
+Agency. Any mention of trade names, products, or services does not imply an endorsement by the US Government or the US EPA. The EPA does not endorse any 
+commercial products, services, or enterprises.
+Andrea Clements, PhD
+Physical Scientist
+Center for Environmental Measurements and 
+Modeling (CEMM)
+US EPA Office of Research and Development
+clements.andrea@epa.gov
+Karoline Barkjohn, PhD
+Physical Scientist
+Center for Environmental Measurements and 
+Modeling (CEMM)
+US EPA Office of Research and Development
+barkjohn.karoline@epa.gov
+Additional Slides
+39
+Federal Reference Method
+U.S. Environmental Protection Agency
+40
+The Federal Reference Method (FRM) for PM2.5, to which other 
+instruments are compared, measures in this way:
+Particles are precisely size-
+selected based on their 
+inertial properties (how 
+they move in an air flow)
+Particles deposit to a 
+filter at a known and 
+controlled air flow 
+rate (e.g., 16.7 lpm)
+Filters are 
+conditioned and 
+weighed at a 
+laboratory facility
+This approach is the gold standard for accuracy, but slow in the data duration 
+(24 hr samples), sometimes discontinuous (e.g., 1 in 3 days), and has a lag-
+time due to laboratory analysis. 
+Higher time resolution comparisons 
+are recommended for smoke 
+evaluations
+40
+Federal Equivalent Methods
+41
+To provide timely and automated PM2.5 data, Federal Equivalent Methods (FEMs) are used 
+across the official U.S. air monitoring network.
+The most common method:
+1.
+Particles are size-selected 
+with a cyclone on the inlet
+2.
+Particles deposit to a filter 
+tape inside the instrument 
+3.
+Particle mass is measured 
+by beta-attenuation
+4.
+Outputs hourly data
+The second most common method:
+1.
+Particles are size-selected with a 
+cyclone on the inlet
+2.
+Particles pass through a 
+polychromatic light – the 
+scattered light from the particles 
+is converted to a particle mass 
+concentration through a 
+proprietary algorithm
+3.
+Outputs hourly data (faster time 
+resolution possible)
+The FEM designation process requires field tests comparing to FRMs under typical USA concentrations (not wildfire 
+smoke events)
+Reference for FEM designation process: 40 CFR Part 53
+MetOne BAM-1020
+Teledyne API T640 / T640x
+41
+Comparison Measurements: Temporary 
+Smoke Monitors
+U.S. Environmental Protection Agency
+42
+Two monitor types – E-BAMS and E-Samplers – are used extensively by 
+government organizations for supplemental monitoring during wildland fire 
+smoke events.
+Measurement principle: 
+E-BAM: beta-attenuation by particles deposited to a filter
+E-Sampler: optical measurement of particles in an air stream
+General traits:
+-
+Size selection inlet
+-
+Long history of use worldwide
+-
+Rugged design to support outdoor sampling in all weather conditions
+-
+Well-controlled flow rate
+-
+Self-diagnostic capability
+42
+Use comparability assessments with Federal 
+Reference Methods
+4. Consider any time 
+periods where errors may 
+have occurred
+• Due to high 
+concentration?
+• Low % error?
+• Due to error?
+• Exclude time period 
+from collocation
+43
+Source: https://www.epa.gov/outdoor-air-quality-data/pm25-continuous-
+monitor-comparability-assessments site: 41-039-2013 BAM-1022
+This monitor 
+experienced high 
+concentration smoke 
+in September
+Use comparability assessments with Federal 
+Reference Methods
+5. Consider correlation –R
+Consider concentration 
+coefficient of variation 
+(CCV)
+• Describes spread of 
+sample population
+44
+Source: https://www.epa.gov/outdoor-air-quality-data/pm25-continuous-
+monitor-comparability-assessments site: 41-039-2013 BAM-1022
+Meet FEM target
+Meet AQI reporting target
+Use comparability assessments with Federal 
+Reference Methods
+6. Consider 
+tabular statistics 
+as needed
+45
+Source: https://www.epa.gov/outdoor-air-quality-data/pm25-continuous-
+monitor-comparability-assessments site: 41-039-2013 BAM-1022

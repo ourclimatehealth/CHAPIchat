@@ -1,0 +1,4112 @@
+federal register
+Wednesday
+August 4, 1999
+Part III
+Environmental
+Protection Agency
+40 CFR Part 58
+Air Quality Index Reporting; Final Rule
+42530
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+ENVIRONMENTAL PROTECTION
+AGENCY
+40 CFR Part 58
+[FRL–6409–7]
+RIN 2060–AH92
+Air Quality Index Reporting
+AGENCY: Environmental Protection
+Agency (EPA).
+ACTION: Final rule.
+SUMMARY: Today, EPA adopts revisions
+to the uniform air quality index used by
+States for daily air quality reporting to
+the general public in accordance with
+section 319 of the Clean Air Act (Act).
+These changes include the addition of
+the following elements: a new category
+described as ‘‘unhealthy for sensitive
+groups;’’ two new requirements, first, to
+report a pollutant-specific sensitive
+group statement when the index is
+above 100, and second, to use specific
+colors if the index is reported in a color
+format; new breakpoints for the ozone
+(03) sub-index in terms of 8-hour
+average 03 concentrations; a new sub-
+index for fine particulate matter (PM2.5);
+and conforming changes to the sub-
+indices for coarse particulate matter
+(PM10), carbon monoxide (CO), and
+sulfur dioxide (SO2). In addition, EPA is
+changing the name of the index from the
+Pollutant Standards Index (PSI) to the
+Air Quality Index (AQI). This document
+discusses the development of related
+informational materials on pollutant-
+specific health effects and sensitive
+groups and on precautionary actions
+that can be taken by individuals to
+reduce exposures of concern. This
+document also discusses the
+interrelationship between the uniform
+air quality index and other programs
+that provide air quality information and
+related health information to the general
+public, including State and local real-
+time air quality data mapping and
+community action programs.
+EFFECTIVE DATE: October 4, 1999.
+ADDRESSES: A docket containing
+information relating to EPA’s revisions
+of the air quality index (Docket No. A–
+98–20) is available for public inspection
+in the Air and Radiation Docket and
+Information Center, U.S. Environmental
+Protection Agency, South Conference
+Center, Room M–1500, 401 M St., SW,
+Washington, DC 20460, telephone (202)
+260–7548. The docket may be inspected
+between 8 a.m. and 5:30 p.m. on
+weekdays, and a reasonable fee may be
+charged for copying. For the availability
+of related information, see
+SUPPLEMENTARY INFORMATION.
+FOR FURTHER INFORMATION CONTACT:
+Terence Fitz-Simons, EPA (MD–14),
+Research Triangle Park, NC 27711,
+telephone (919) 541–0889, e-mail fitz-
+simons.terence@epa.gov. For health
+effects information, contact Susan Lyon
+Stone, EPA (MD–15), Research Triangle
+Park, NC 27711, telephone (919) 541–
+1146, e-mail stone.susan@epa.gov.
+SUPPLEMENTARY INFORMATION: In
+compliance with President Clinton’s
+June 1, 1998 Executive Memorandum on
+Plain Language in government writing,
+this package is written using plain
+language. Thus, the use of ‘‘we’’ or ‘‘us’’
+in this package refers to EPA. The use
+of ‘‘you’’ refers to the reader and may
+include industry, State and local
+agencies, environmental groups and
+other interested individuals.
+Availability of Related Information
+Certain documents are available from
+the U.S. Department of Commerce,
+National Technical Information Service,
+5285 Port Royal Road, Springfield, VA
+22161. Available documents include:
+(1) The Review of the National
+Ambient Air Quality Standards for
+Ozone: Assessment of Scientific and
+Technical Information (‘‘Staff Paper’’)
+(EPA–452/R–96–007, June 1996, NTIS
+# PB–96–203435, $67.00 paper copy and
+$21.50 microfiche). (Add a $3.00
+handling charge per order.)
+(2) Review of the National Ambient
+Air Quality Standards for Particulate
+Matter: Policy Assessment of Scientific
+and Technical Information (‘‘Staff
+Paper’’) (EPA–452/R–96–013, July 1996,
+NTIS # PB–97–115406, $47.00 paper
+copy and $19.50 microfiche). (Add a
+$3.00 handling charge per order.)
+The guidance documents associated
+with this rulemaking are available from
+EPA’s Office of Air Quality Planning
+and Standards in Research Triangle
+Park, NC. Requests for these
+publications can be mailed to: Terence
+Fitz-Simons, EPA (MD–14), Research
+Triangle Park, NC 27711. Your request
+may also be phoned in to Terence Fitz-
+Simons at 919–541–0889, or sent by e-
+mail to fitz-simons.terence@epa.gov.
+(1) Guideline for Public Reporting of
+Daily Air Quality—Air Quality Index
+(AQI) (EPA–454/R–99–010).
+(2) Guideline for Developing an
+Ozone Forecasting Program (EPA–454/
+R–99–009).
+The following document is available
+from EPA’s Office of Mobile Sources
+(OMS) in Ann Arbor, MI. Requests for
+this publication can be mailed to:
+Michael Ball, US EPA—National
+Vehicle and Fuel Emissions Laboratory
+(NVFEL), 2000 Traverwood Dr., Ann
+Arbor, MI 48103. Your request may also
+be phoned in to Michael Ball at 734–
+214–4897, or sent by e-mail to
+ball.michael@epa.gov.
+(1) Community Action Programs:
+Blueprint for Program Design (EPA 420–
+R–98–003).
+Table of Contents
+I. Background
+A. What Are the Legislative Requirements?
+B. What Is the History of the Air Quality
+Index?
+C. What Programs Are Related to the AQI?
+1. Ozone and Particulate Matter NAAQS
+Revisions
+2. Real-Time Data Reporting Initiative
+(Ozone Mapping Project)
+3. Community Action Programs
+II. Rationale for Final Revisions
+A. What Revisions Did We Propose?
+1. What Were the Proposed General
+Changes?
+2. What Were the Proposed Changes to the
+Sub-Indices?
+B. What Were the Significant Comments
+and Our Responses?
+1. Comments and Responses on General
+Changes
+2. Comments and Responses on Changes to
+the Sub-Indices
+C. What Are the Final Revisions?
+1. What Are the General Changes?
+2. What Are the Changes to the Sub-
+Indices?
+D. What Are the Related Informational
+Materials?
+III. Regulatory and Environmental Impact
+Analyses
+A. Executive Order 12866: OMB Review of
+‘‘Significant Actions’’
+B. Regulatory Flexibility Analysis/Small
+Business Regulatory Enforcement
+Fairness Act
+C. Unfunded Mandates Reform Act
+D. Paperwork Reduction Act
+E. Executive Order 13045: Children’s
+Health
+F. Executive Order 12848: Environmental
+Justice
+G. Executive Order 12875: Enhancing
+Intergovernmental Partnerships
+H. Executive Order 13084: Consultation
+and Coordination with Indian Tribal
+Governments
+I. National Technology Transfer and
+Advancement Act
+J. Congressional Review Act
+IV. References
+I. Background
+A. What Are the Legislative
+Requirements?
+Section 319 of the Act governs the
+establishment of a uniform air quality
+index for reporting of air quality. This
+section directs the Administrator to
+‘‘promulgate regulations establishing an
+air quality monitoring system
+throughout the United States which
+utilizes uniform air quality monitoring
+criteria and methodology and measures
+such air quality according to a uniform
+air quality index’’ and ‘‘provides for
+daily analysis and reporting of air
+42531
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+1 Significant harm levels are those ambient
+concentrations of air pollutants that present an
+imminent and substantial endangerment to public
+health or welfare, or to the environment, as
+established in 40 CFR 51.151.
+2 Intermediate index values of 200, 300, and 400
+were defined and are the basis for the Alert,
+Warning, and Emergency episode levels included in
+40 CFR part 51, appendix L, as part of the
+Prevention of Air Pollution Emergency Episodes
+program. This program requires specified areas to
+have contingency plans in place and to implement
+these plans during episodes when high levels of air
+pollution, approaching the SHL, are in danger of
+being reached. Changes to this emergency episode
+program will be proposed in the near future.
+Below an index value of 100, historically an
+intermediate value of 50 was defined either as the
+level of the annual standard if an annual standard
+has been established (for PM10 and SO2), or as a
+concentration equal to one-half the value of the
+short-term standard used to define an index value
+of 100 (for O3 and CO). Coarse or inhalable
+particulate matter, PM10, refers to particles with an
+aerodynamic diameter less than or equal to a
+nominal 10 micrometers.
+3 PM2.5 refers to particles with an aerodynamic
+diameter less than or equal to a nominal 2.5
+micrometers.
+quality based upon such uniform air
+quality index * * *’’.
+B. What Is the History of the Air Quality
+Index?
+In 1976, we established a nationally
+uniform AQI, called the Pollutant
+Standards Index (PSI), for use by State
+and local agencies on a voluntary basis
+(41 FR 37660). This uniform index was
+established in light of a study conducted
+by EPA and the President’s Council on
+Environmental Quality (CEQ, 1976).
+This study found that the 55 urban areas
+in the U.S. and Canada reporting an
+index of air quality used 14 different
+indices, in conjunction with different
+cautionary messages, such that in
+essence 55 different indices were being
+used to report air quality. This diversity
+of indices sent a confusing message
+about air quality to the public. Based in
+part on this study, we developed an
+index to meet the needs of State and
+local agencies that has the following
+advantages: it sends a clear and
+consistent message to the public by
+providing nationally uniform
+information on air quality; it is keyed as
+appropriate to the national ambient air
+quality standards (NAAQS) and the
+significant harm level (SHL) 1 which
+have a scientific basis relating air
+quality and public health; it is simple
+and easily understood by the public; it
+provides a framework for reflecting
+changes to the NAAQS; and it can be
+forecasted to provide advance
+information on air quality.
+The PSI, which is also commonly
+referred to by some State and local
+agencies as the AQI, includes sub-
+indices for O3, PM, CO, SO2, and
+nitrogen oxide (NO2), which relate
+ambient pollutant concentrations to
+index values on a scale from 0 through
+500. This represents a very broad range
+of air quality, from pristine air to air
+pollution levels that present imminent
+and substantial endangerment to the
+public. The index has historically been
+normalized across pollutants by
+defining an index value of 100 as the
+numerical level of the short-term (i.e.,
+averaging time of 24-hours or less)
+primary NAAQS for each pollutant and
+an index value of 500 as the SHL.2 Such
+index values serve to divide the index
+into categories, with each category being
+identified by a simple informative
+descriptor. The descriptors are intended
+to convey to the public information
+about how air quality within each
+category relates to public health, with
+increasing public health concerns being
+conveyed as the categories range to the
+upper end of the scale. Additional
+information about the general health
+effects associated with each category,
+and precautions that sensitive groups
+and the general public can take to avoid
+exposures of concern, has been made
+available through an informational
+booklet, updated as appropriate, that
+also presents and explains the PSI (EPA,
+1994).
+In 1979, we made changes to the AQI,
+in part to reflect revisions to the
+NAAQS for O3, and to establish
+requirements for AQI reporting (44 FR
+27598). The requirement for State and
+local agencies to report the AQI appears
+in 40 CFR part 58.50, and the specific
+requirements (e.g., what to report, how
+to report, reporting frequency,
+calculations) are in appendix G to 40
+CFR part 58.
+C. What Programs Are Related to the
+AQI?
+Historically, State and local agencies
+have used primarily the AQI, or other
+AQIs, to provide general information to
+the public about air quality and its
+relationship to public health. In recent
+years, many States and local agencies, as
+well as EPA, have been developing new
+and innovative programs and initiatives
+to provide more information to the
+public, in a more timely way. These
+initiatives, including real-time data
+reporting through the Ozone Mapping
+Project and community action programs,
+can serve to provide useful, up-to-date,
+and timely information to the public
+about air pollution and its effects. Such
+information will help individuals take
+actions to avoid or reduce exposures of
+concern and can encourage the public to
+take actions that will reduce air
+pollution on days when levels are
+projected to be in air quality categories
+of concern to local communities. Thus,
+these programs are significantly
+broadening the ways in which State and
+local agencies can meet the nationally
+uniform AQI reporting requirements,
+and are contributing to State and local
+efforts to provide community health
+protection and to attain or maintain
+compliance with the NAAQS. We and
+State and local agencies recognize that
+these programs are interrelated with
+AQI reporting and with the information
+on the effects of air pollution on public
+health that is generated through the
+periodic review, and revision when
+appropriate, of the NAAQS.
+The most recent revisions to the O3
+and PM NAAQS, the Ozone Mapping
+Project, and community action programs
+are discussed briefly below. In light of
+the interrelationships among these
+programs, we have developed today’s
+revisions to the uniform AQI with the
+goal of creating a revised AQI that can
+effectively serve as a nationally uniform
+link across these programs. In so doing,
+we intend to support and encourage
+State and local participation in real-time
+data reporting initiatives and the
+development and implementation of
+community action programs that serve
+public education and health protection
+goals.
+1. Ozone and Particulate Matter NAAQS
+Revisions
+On July 18, 1997, we revised the
+primary NAAQS for O3 and PM based
+on a thorough review of the scientific
+evidence linking exposures to ambient
+concentrations of these pollutants to
+adverse health effects at levels allowed
+by the previous NAAQS. In particular,
+we replaced the 1-hour O3 NAAQS with
+an 8-hour O3 NAAQS and
+supplemented the PM NAAQS with 24-
+hour and annual standards for fine
+particulate matter (measured as PM2.5 3).
+These decisions were challenged in the
+U.S. Court of Appeals for the District of
+Columbia Circuit, and on May 14, 1999,
+the Court remanded them to the Agency
+for further consideration, principally in
+light of constitutional concerns
+regarding section 109 of the Act as
+interpreted by EPA. American Trucking
+Associations v. EPA, Nos. 97–1440, 97–
+1441 (D.C. Cir. May 14, 1999). On June
+28, 1999, the U.S. Department of Justice
+on behalf of EPA filed a petition for
+rehearing seeking review of the Court’s
+decision by the entire Court of Appeals.
+The EPA is continuing to assess what
+further legal or administrative
+proceedings may be appropriate in
+response to the Court’s decision, as well
+42532
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+4 Under section 319, the levels that are
+appropriate for this purpose do not necessarily
+depend on the NAAQS levels that may be
+appropriate under section 109. Depending on how
+the Agency chose to set an ambient standard, for
+example, it might conclude that the standard does
+not need to preclude certain effects falling below
+the level of public health concern, and at the same
+time set the AQI in such a way as to assure that
+sensitive individuals who might experience those
+effects receive notification and advice on actions
+they might take to avoid them. Similarly, AQI
+values might be set that are higher than the
+standard would permit but that would require more
+serious health warnings. This is not to say,
+however, that the levels of the 1997 NAAQS are
+irrelevant to decisions on the AQI breakpoints. To
+the contrary, the levels of the 1997 NAAQS are
+useful surrogates for a series of scientific
+conclusions reached in the NAAQS rulemakings,
+based on the revised air quality criteria, regarding
+the nature, extent, and severity of health effects
+associated with varying concentrations of PM and
+O3 in the air. Accordingly, later sections of this
+notice make reference as appropriate to relevant
+levels of the 1997 NAAQS.
+5 CASAC is a scientific advisory committee
+established under the Act to review the scientific
+criteria and standards and to advise the
+Administrator on revision of the NAAQS, as
+appropriate.
+as its relevance to other rulemakings
+such as this one.
+With respect to the present
+rulemaking, we have concluded that it
+is appropriate to proceed with final
+action on the proposed AQI revisions.
+As indicated previously, section 319 of
+the Act requires the Agency to establish
+a uniform air quality index, and this
+requirement is independent of the
+statutory provisions governing
+establishment and revision of the
+NAAQS. Moreover, there is no statutory
+requirement that the AQI be linked to
+the NAAQS, although EPA has used
+NAAQS levels in the past as reference
+points for the establishment of specific
+breakpoints within sub-indices. Nothing
+in the Court’s opinion alters the
+conclusions EPA reached in revising the
+air quality criteria for PM and O3 under
+section 108 of the Act, or in the NAAQS
+rulemakings, concerning the occurrence
+of specific health effects at varying
+concentrations of PM and O3 in the air.
+Regardless of the outcome of the remand
+as to the NAAQS themselves, we believe
+the scientific record and conclusions
+underlying them are more than
+sufficient as a basis for decisions on the
+levels at which the public should be
+notified about health risks associated
+with daily air quality.4
+We do not regard this notification
+function as involving the constitutional
+concerns raised in the Court’s opinion.
+The AQI has no bearing on pollution
+control requirements for specific
+sources; nor does it serve to implement
+the NAAQS involved in the litigation.
+Rather, it provides information on air
+quality and health that will help
+individual citizens take prudent, self-
+protective actions to avoid or reduce
+exposures of concern and to avoid
+contributing to air pollution on days
+when unhealthy air quality is projected.
+In this regard, the AQI is essentially a
+way of conveying scientific/medical
+advice to the public in an easily
+understood form.
+As indicated below, there was broad
+support in public comments for
+modifying and expanding the use of the
+AQI to take into account the expanded
+understanding of air quality-health
+relationships that resulted from EPA’s
+review of the latest scientific
+information on the effects of PM and O3.
+Other proposed revisions were designed
+to enhance the effectiveness of the AQI
+generally. The function the AQI serves
+of conveying to the public information
+on daily air quality and associated
+health risks is clearly important, and the
+season of higher pollution levels is
+imminent. For all the above reasons, we
+see no reason to delay final action on
+the proposed revisions of the AQI. The
+remainder of this section discusses
+aspects of the O3 and PM NAAQS
+rulemakings as they relate to today’s
+action.
+As a result of the reviews of the
+scientific information upon which the
+1997 NAAQS for O3 and PM are based,
+an expanded understanding emerged as
+to the nature of the relationships
+between exposure to ambient
+concentrations of these pollutants and
+the health effects likely to be
+experienced, especially near the level of
+the NAAQS. We and the Clean Air
+Scientific Advisory Committee
+(CASAC) 5 recognized that for these
+pollutants there may be no thresholds
+below which health effects are not likely
+to occur, but rather a continuum of
+effects potentially extending down to
+background levels. As ambient
+concentrations increase, the proportion
+of individuals likely to experience
+effects and the seriousness of the health
+effects increase. Thus, the 1997
+standards were not considered risk free.
+While the standards were intended to
+protect public health with an adequate
+margin of safety, in accordance with
+section 109(b) of the Act, including the
+health of sensitive groups, exposures to
+ambient concentrations just below the
+numerical level of the standards may
+result in exposures of concern for the
+most sensitive individuals. Conversely,
+exposures to ambient concentrations
+just above the numerical level of the
+standards are not likely to result in
+exposures of concern for most healthy
+people. This expanded understanding is
+reflected in the forms of the new
+standards, which allow for multiple
+days above the numerical level of the
+standards.
+These understandings were also
+reflected in CASAC’s advice to the
+Administrator during the O3 NAAQS
+review, urging expansion of the public
+health advisory system (i.e., a uniform
+AQI) and communication to the public
+of the apparent nonthreshold nature of
+the health effects. More specifically, a
+number of CASAC panel members
+recommended ‘‘that an expanded air
+pollution warning system be initiated so
+that sensitive individuals can take
+appropriate ‘exposure avoidance’
+behavior’’ (Wolff, 1995). Consistent with
+this advice, in the preamble to the
+proposed revisions to the O3 NAAQS
+(61 FR 65733–65734), the Administrator
+requested comment on the usefulness of
+providing specific health effects
+information when ambient
+concentrations are around the numerical
+level of the standard, the
+appropriateness of using the AQI to
+convey such information to the public,
+the possible addition of two new AQI
+categories (one just above and one just
+below the numerical level of the
+standard) and associated descriptors
+and levels, as well as related health
+effects and cautionary statements.
+Broad support for modifying the AQI
+was received in public comments on
+this aspect of the O3 NAAQS proposal,
+as discussed in the final rule
+establishing revisions to the O3 NAAQS
+(62 FR 38873–38874). Commenters
+overwhelmingly endorsed expanding
+the use of the AQI for various reasons,
+although many expressed concern with
+the possible category descriptors
+suggested in the proposal (i.e.,
+‘‘moderately good’’ and ‘‘moderately
+unhealthful’’). Many commenters felt
+that an expanded AQI could help
+particularly sensitive people take action
+to minimize their exposures, and that
+the AQI could be combined with
+community action programs to reduce
+ambient concentrations when the
+numerical level of the standard was
+forecasted to be exceeded. Some
+commenters endorsed increasing the
+specificity of health and cautionary
+statements related to the AQI categories.
+Commenters from State and local
+agencies encouraged us to develop any
+approaches to revising the AQI in
+consultation with them, specifically in
+the areas of sharing real-time monitoring
+data, risk communication with the
+public, and coordination of a national
+program.
+2. Real-time Data Reporting Initiative
+(Ozone Mapping Project)
+The Ozone Mapping Project is part of
+EPA’s Environmental Monitoring for
+42533
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+Public Access and Community Tracking
+(EMPACT) initiative—a new approach
+to providing timely environmental
+information to communities. It is a
+cooperative effort of the EPA, State and
+local air pollution control agencies, and
+regional organizations including the
+Mid-Atlantic Regional Air Management
+Association (MARAMA), the Northeast
+States for Coordinated Air Use
+Management (NESCAUM), the northeast
+Ozone Transport Commission (OTC),
+the Lake Michigan Air Directors
+Consortium (LADCO), SouthEast States
+Air Resource Managers (SESARM), and
+Central States Air Resource Agencies
+(CenSARA). During the summer of 1998,
+EPA’s Office of Air Quality Planning
+and Standards assumed coordination of
+the project.
+The Ozone Map provides simple and
+timely information about ground-level
+O3. During the 1998 O3 season it was
+available on EPA’s AIRNOW web site
+(http://www.epa.gov/airnow) and on
+some local television and news reports.
+It is an animated contour map that
+shows concentrations of O3, in
+categories ranging from good to
+moderate to varying degrees of
+unhealthy, based on AQI values, as they
+develop across the eastern United
+States. In 1998, the map was created
+from real-time, hourly O3 data provided
+by a network of more than 400 air
+monitoring stations from South Carolina
+to Wisconsin and Maine. When
+accessed on a computer, cautionary
+statements for each category could be
+displayed by running a cursor over the
+legend. Also available on the AIRNOW
+web site were still maps of maximum
+values and forecasted values, and
+archived animated maps. In 1999, the
+ozone mapping coverage is being
+expanded to include 31 States and over
+1500 monitors across the eastern and
+central U.S., and California. In addition,
+TV weather service providers are
+planning to carry the Ozone Map and
+forecasts as part of their traditional
+weather packages for local TV stations.
+Along with the Ozone Map, the
+AIRNOW web site contains information
+about O3 health effects in the ‘‘Health
+Facts’’ section, and emission reduction
+activities in the ‘‘What You Can Do’’
+section. It also provides links to real-
+time data, and community action
+program web sites, that are maintained
+by State and local agencies around the
+country. The goals of the web site are to:
+(1) Provide real-time air pollution data
+in an understandable, visual format, (2)
+provide information about the public
+health and environmental effects of air
+pollution, and (3) provide the public
+with information about ways in which
+they can protect their health and actions
+they can take to reduce pollution.
+3. Community Action Programs
+The implementation of community
+action programs (also referred to as
+voluntary action programs or episodic
+emission control programs) is becoming
+increasingly popular across the country
+as an innovative approach used to
+reduce emissions of O3 precursors, CO,
+and PM. Motivation for implementation
+of this type of program often stems from
+local government and business concerns
+about the NAAQS attainment status of
+the area and the restrictions, additional
+controls, and costs associated with
+being classified as a nonattainment area.
+Many areas are also motivated by public
+health concerns and believe that
+increasing the amount of air quality
+information available to sensitive
+populations raises awareness and
+results in significant health benefits.
+Specific goals which are usually
+associated with community action
+programs include: (1) Educate the
+public and enhance protection of public
+health; (2) attain or maintain NAAQS
+attainment status and the associated
+economic benefits; (3) meet specific
+emission reduction targets; and (4)
+manage/reduce traffic congestion.
+Community action programs are
+usually voluntary and generally provide
+multiple steps that the public, business,
+and industry can take to reduce
+emissions when higher levels of air
+pollution are forecast to occur,
+including in particular transportation-
+related measures such as trip reduction,
+postponement of certain activities such
+as vehicle refueling, and maintenance of
+cars. The programs emphasize educating
+the public about the impact of
+individual activities on local air quality
+and the basics of air pollution. The
+educational component of these
+programs also helps to create a strong
+link between environmental goals and
+associated public health benefits.
+Most of these programs are based on
+the categories of the AQI and make use
+of the AQI descriptors and related
+health effects and cautionary statements
+on action days. By linking action days
+to the AQI, local control programs hope
+to alter individual behavior to reduce
+emissions and to reduce exposures to
+the population. In addition to reduced
+pollutant exposure of the general
+population due to improved air quality,
+there are other health benefits directly
+associated with community action
+programs that can be enhanced by
+linkage to the AQI. Different population
+groups are more sensitive to the harmful
+effects of the different air pollutants
+included in the AQI, and the revisions
+to the AQI being adopted today, together
+with related informational materials,
+will significantly improve the
+effectiveness of communications with
+these groups. Public education, or
+programs directly targeting these
+groups, may provide the most
+significant benefits of a community
+action program. Forecasting days with
+elevated pollution levels, and then
+communicating effectively about air
+quality and associated health effects,
+may help these groups selectively limit
+their outdoor activities and, therefore,
+limit their potential for exposures of
+concern.
+We are committed to providing States
+and local agencies with support in their
+efforts to meet air quality standards, to
+inform the public about air quality, and
+to educate the public about the impacts
+of air pollution. The revisions to the
+AQI being adopted today have as a goal
+the creation of a revised AQI that can
+effectively serve as a nationally uniform
+link across the range of programs (e.g.,
+real-time data reporting initiatives,
+community action programs) that have
+these functions.
+In support of community action
+programs, we have developed
+informational materials related to the
+AQI, including the health effects and
+cautionary statements associated with
+each category and more detailed health
+effects information (see section II.D.),
+available on the AIRNOW web site, that
+State and local agencies may use to
+enhance their community action
+programs. Focusing on transportation
+measures that are often a major
+component of community action
+programs, EPA’s OMS has developed a
+report entitled, ‘‘Community Action
+Programs: Blueprint for Program
+Design.’’ This document describes the
+major steps needed to put together a
+successful episodic control program and
+provides criteria that State and local
+agencies can use to examine and
+evaluate their own programs. The report
+is available from OMS (see Availability
+of Related Information).
+II. Rationale for Final Revisions
+In developing the revisions to the AQI
+that are being adopted today, we sought
+extensive input from State and local
+agencies and from the public. We
+sponsored a workshop with State and
+local agencies, participated in numerous
+meetings, prepared and made available
+a staff draft revision to the AQI sub-
+index for O3 for use during the 1998 O3
+season, and conducted several focus
+groups across the nation to obtain
+public input on the effectiveness of draft
+revisions to the AQI and related O3
+maps and informational materials. A
+42534
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+6 For NO2, the index ranges from 200 to 500, since
+there is no short-term NAAQS for this pollutant.
+detailed history of the process leading to
+the proposal and the rationale for the
+proposed revisions are described more
+fully in the December 9, 1998 proposal
+notice (63 FR 67818–67834). The sub-
+sections below contain a description of
+the revisions we proposed, a discussion
+of the significant comments we received
+and our responses to them, and a
+summary of the AQI we are adopting
+today.
+A. What Revisions Did We Propose?
+The primary consideration that
+shaped the proposed revisions was the
+importance of providing nationally
+uniform health information associated
+with daily ambient levels of the air
+pollutants included in the index,
+consistent with the requirement of
+section 319 of the Act for an index to
+achieve national uniformity in daily air
+quality reporting. More specifically, the
+proposed changes to the AQI sub-
+indices for O3 and PM reflected the 1997
+revisions to the O3 and PM NAAQS. The
+proposed general changes to the
+structure of the AQI were based on the
+expanded understanding that emerged
+during the O3 and PM reviews as to the
+nature of the relationships between
+exposure to ambient concentrations of
+these pollutants and the health effects
+likely to be experienced, consideration
+of the implications of changes for the
+other pollutants, and broad input from
+State and local agencies and the public.
+The proposed general changes to the
+AQI, together with related informational
+materials, were intended to expand the
+use of the AQI to provide more
+pollutant-specific health information,
+especially when ambient concentrations
+are close to the level of the primary
+NAAQS.
+1. What Were the Proposed General
+Changes?
+a. Categories and related descriptors,
+index values and colors. The AQI
+currently incorporates the pollutants O3,
+PM, CO, SO2, and NO2. Index values
+range from 0 to 500 6, and the index is
+segmented into five categories named by
+descriptor words that were chosen to
+characterize the relationship between
+daily air quality and public health. To
+reflect better the current understanding
+of the health effects associated with
+exposure to these air pollutants, we
+proposed to revise the AQI categories
+and descriptors, and to associate
+specific colors with the categories as
+shown below in Table 1.
+TABLE
+1.—PROPOSED
+CATEGORY
+INDEX VALUES, DESCRIPTORS, AND
+COLORS
+Index values
+Descriptor
+Color
+0–50 .............
+Good ...................
+Green
+51–100 .........
+Moderate .............
+Yellow
+101–150 .......
+Unhealthy for sen-
+sitive groups.
+Orange
+151–200 .......
+Unhealthy ............
+Red
+201–300 .......
+Very unhealthy ....
+Purple
+301–500 .......
+Hazardous ...........
+Maroon
+These proposed changes reflected the
+addition of a new category above an AQI
+of 100, created by dividing the current
+‘‘unhealthful’’ category into two
+categories.
+When air quality is in the ‘‘unhealthy
+for sensitive groups’’ range, people that
+are in the sensitive group, whether the
+sensitivity is due to medical conditions,
+exposure conditions, or inherent
+sensitivity, may experience exposures of
+concern. However, exposures to ambient
+concentrations in this range are not
+likely to result in exposures of concern
+for most healthy people. The descriptor
+‘‘unhealthy for sensitive groups’’ was
+chosen to convey this message clearly.
+Participants in focus groups (SAIC 1998)
+clearly understood that ‘‘sensitive
+groups’’ does not refer to the general
+public, indicating that this descriptor
+effectively communicates the intended
+health message. This category would
+include a caution that while perhaps of
+interest to all citizens, would be of
+particular interest to individuals and
+families of individuals who are
+members of sensitive groups.
+As air quality moves into the
+‘‘unhealthy’’ range, exposures are
+associated with an increase in the
+number of individuals who could
+potentially experience effects and
+includes a greater proportion of
+members of the general public. Based on
+input received in the development of
+the proposal, the descriptor
+‘‘unhealthy’’ appropriately characterizes
+air quality in this range.
+In addition to an increasing number of
+exposures of concern, when air quality
+moves into the ‘‘unhealthy’’ range and
+above, individuals who were affected at
+lower levels, typically members of
+sensitive groups, are likely to
+experience more serious health effects
+than members of the general public. To
+reflect this understanding, it is
+appropriate to convey two messages in
+the cautionary statements for both the
+‘‘unhealthy’’ and ‘‘very unhealthy’’
+categories. One message is directed to
+members of sensitive groups, and the
+other is directed to the general public.
+The use of a distinct cautionary message
+for members of sensitive groups is
+entirely consistent with an original goal
+that the index be based on the
+relationships between pollutant
+concentrations and adverse health
+effects within various groups, e.g.,
+aggravation of disease in people with
+respiratory disease and incidence of
+respiratory effects in healthy people.
+Guidance on pollutant-specific
+cautionary statements related to the
+categories of the AQI is discussed below
+in section II.D.
+Consistent with the overarching goal
+of national uniformity in the reporting
+of air quality, we proposed that the
+specific colors listed in Table 1 be
+associated with each category. While the
+AQI can be reported without the use of
+colors (through text and numbers alone),
+when the index is reported using colors,
+we proposed to require that only these
+specified colors be used. Three
+examples of AQI reports that use color
+are the color bars that appear in many
+newspapers, the color scales on State
+and local agency web sites, and the
+color contours of the Ozone Map. We
+participated in many discussions with
+State and local agencies and
+associations regarding which specific
+colors should be associated with the
+AQI categories, particularly above an
+index value of 100. These discussions
+typically were in the context of either
+the Ozone Mapping Project or
+community action programs. It was
+clear that the color associated with a
+category can be part of the health effects
+and cautionary message being conveyed.
+Were various State and local agencies to
+use different colors to represent the
+same category, and thus the same level
+of air quality, it could well send a
+confusing message about air quality and
+associated health effects to the public.
+As an alternative to requiring the use
+of specified colors, we solicited
+comment on the option of
+recommending, rather than requiring,
+the use of these colors when reporting
+agencies choose to report the AQI in
+color format. In soliciting comment on
+this alternative, we sought to allow
+communities maximum flexibility in
+AQI reporting, while still preserving a
+nationally uniform AQI. We, therefore,
+requested that commenters addressing
+this issue discuss how this more flexible
+approach would satisfy the statutory
+language requiring a nationally uniform
+AQI if different colors may be used
+across the nation to represent the same
+range of air quality.
+b. Reporting requirements. We
+proposed to change 40 CFR part 58.50
+to require reporting of the AQI in all
+42535
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+7 A complete list of MSAs and their boundaries
+can be found in the Statistical Abstract of the
+United States (1998).
+Metropolitan Statistical Areas (MSAs) 7
+with a population over 350,000, instead
+of all urbanized areas with a population
+over 200,000. This change was proposed
+for consistency with the other
+monitoring regulations in part 58, which
+are or will be based on MSAs. This
+proposed change would not, however,
+have a significant impact on who is
+required to report, since virtually the
+same number of cities would be covered
+under the proposed reporting
+requirement as are covered under the
+existing requirement.
+Consistent with early input from State
+and local agencies, we proposed to
+change the rounding conventions used
+to calculate index values corresponding
+to pollutant concentrations at and above
+the numerical level of the NAAQS to be
+consistent with the rounding
+conventions used in defining the
+NAAQS for each pollutant. This would
+avoid situations where a health advisory
+could be issued that describes the air as
+unhealthy, when in fact the numerical
+level of the standard has not been
+exceeded.
+The proposed rule retained the
+requirements to identify the area for
+which the AQI is being reported, the
+time period covered by the report, the
+‘‘critical’’ pollutant for which the
+reported AQI value was derived, the
+AQI value, and the associated category
+descriptor. Recognizing that many
+agencies use a color format to report the
+AQI, the proposed rule added the
+requirement to report the associated
+category color if a color format is used.
+Because different sensitive groups are
+at-risk from different pollutants, issuing
+advisories for all sensitive groups who
+may be affected at AQI values greater
+than 100 clearly improves public health
+protection. Therefore, the proposed rule
+encouraged, but did not require, that
+AQI reports include: appropriate health
+effects and cautionary statements, all
+AQI values greater than 100, the AQI for
+sub-divisions of the MSA (if there are
+important differences in air quality
+across sub-divisions of the MSA),
+possible causes for high index values,
+and the actual pollutant concentrations.
+These topics were also discussed in our
+draft ‘‘Guideline for Public Reporting of
+Daily Air Quality—Pollutant Standards
+Index (PSI)’’ that was made available on
+the AIRLINKS web site.
+The proposed rule emphasized the
+importance of forecasting the AQI by
+specifying that forecasted values should
+be reported, when possible, but did not
+require that forecasted values be
+reported. Given the importance of the
+O3 sub-index in a large number of
+MSAs, and the use of an 8-hour
+averaging time for calculating the O3
+sub-index value, forecasting the O3
+index value is now more beneficial than
+before. For a health advisory system to
+be effective, people need to be notified
+as early as possible to be able to avoid
+exposures of concern. Because the O3
+sub-index is based on 8-hour O3
+averages, forecasting O3 concentrations
+clearly would have increased value in
+providing cautionary statements to the
+public. We recognized that many State
+and local air agencies are already
+issuing health advisories based on
+forecasted O3 concentrations. Since we
+have determined that forecasting would
+add much to the benefits of AQI
+reporting, we indicated that we would
+be making available guidance on
+starting a forecasting program (EPA
+1999b) in an area or MSA where
+forecasting is not presently done.
+Included in the document is guidance
+on using hourly O3 concentrations as
+predictors for 8-hour averages.
+c. Index name. Many State and local
+agencies encouraged us to change the
+name of the PSI to the Air Quality
+Index, or AQI, since many agencies
+already use the name AQI when
+reporting the AQI value to the public.
+Most participants in the focus groups
+preferred the name AQI, commenting
+that it more clearly identified the index
+as relating to the quality of the air rather
+than to environmental pollution in
+general. Based on these considerations,
+we solicited comment on changing the
+index name from Pollutant Standards
+Index (PSI) to Air Quality Index (AQI).
+2. What Were the Proposed Changes to
+the Sub-Indices?
+To conform to the proposed general
+changes to the AQI discussed above,
+and to reflect the recent revisions to the
+O3 and PM NAAQS, we proposed
+changes to the sub-indices for O3, PM,
+CO, and SO2; no conforming changes are
+necessary for the NO2 sub-index. The
+proposed sub-indices are summarized
+below in Table 2, in terms of pollutant
+concentrations that correspond to
+breakpoints in the index, and are
+discussed in the following sections.
+TABLE 2.—PROPOSED BREAKPOINTS FOR O3, PM2.5, PM10, CO, AND SO2 SUB-INDICES
+AQI value
+O3
+PM
+CO, 8-hr
+(ppm)
+SO2, 24-hr
+(ppm)
+8-hr (ppm)
+1-hr (ppm)
+PM2.5, 24-hr
+(µg/m3)
+PM10, 24-hr
+(µg/m3)
+50 ................
+0.07 .............
+.................................
+15
+50
+4
+0.03
+100 ..............
+0.08 .............
+0.12
+65
+150
+9
+0.14
+150 ..............
+0.10 .............
+0.16
+* 100
+250
+12
+0.22
+200 ..............
+0.12 .............
+0.20
+* 150
+350
+15
+0.30
+300 ..............
+0.40 (1-hr) ...
+0.40
+* 250
+420
+30
+0.60
+400 ..............
+0.50 (1-hr) ...
+0.50
+* 350
+500
+40
+0.80
+500 ..............
+0.60 (1-hr) ...
+0.60
+* 500
+600
+50
+1.00
+* If a different SHL for PM2.5 is promulgated, these numbers will be revised accordingly.
+a. Proposed ozone sub-index. On July
+18, 1997, we revised the O3 primary
+NAAQS to replace the 1-hour standard
+with a new standard with an 8-hour
+average at a level of 0.08 ppm and a
+form based on the 3-year average of the
+annual fourth-highest daily maximum 8-
+hour average O3 concentrations
+measured at each monitor within an
+area (62 FR 38856–38896). These
+proposed revisions were based on
+findings from the most recent review of
+the NAAQS indicating that the new
+primary standard will provide increased
+protection to the public, especially
+children active outdoors and other
+sensitive groups, against a wide range of
+O3-induced health effects, including
+decreased lung function; increased
+respiratory symptoms; hospital
+admissions and emergency room visits
+42536
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+for respiratory causes, among children
+and adults with pre-existing respiratory
+disease such as asthma; inflammation of
+the lung; and possible long-term damage
+to the lungs. In setting this standard, we
+recognized that there is no apparent
+threshold below which health effects do
+not occur, that the standard is not risk
+free, and, thus, that exposures of
+concern are possible below the
+numerical level of the standard for some
+extremely sensitive individuals.
+We proposed to set an index value of
+100 equal to the level of the 8-hour O3
+standard. Recognizing the continuum of
+health effects, we considered the results
+of a quantitative risk assessment
+(Whitfield et al., 1996) in selecting 8-
+hour O3 concentrations to correspond to
+index values of 50, 150 and 200. Since
+no human health effects information
+was available for 8-hour average O3
+concentrations at significantly higher
+levels, we proposed to retain the
+breakpoints at the upper end of the AQI
+scale (between the ‘‘very unhealthy’’
+and ‘‘hazardous’’ categories and the SHL
+which corresponds to the top of the PSI
+scale of 500) in terms of the existing 1-
+hour average concentrations.
+These proposed revisions reflect the
+new 8-hour O3 NAAQS and will in
+almost all areas result in a more
+precautionary index than the current 1-
+hour sub-index. However, we
+recognized that a very small number of
+areas in the U.S. have atypical air
+quality patterns, with very high 1-hour
+daily peak O3 concentrations relative to
+the associated 8-hour average
+concentrations. In such areas, the use of
+the current 1-hour sub-index may be
+more precautionary on a given day than
+the proposed 8-hour sub-index. To
+allow for the reporting of the more
+precautionary sub-index value, we
+proposed to retain the 1-hour sub-index
+at and above AQI values of 100 and to
+allow the reporting of the higher of the
+two O3 sub-index values. Thus, both the
+new 8-hour and the current 1-hour sub-
+indices, as shown in Table 2, were
+included in the proposed appendix G.
+Since for the large majority of areas the
+8-hour sub-index will be more
+precautionary, we did not propose to
+require all areas to calculate both sub-
+index values. Rather, we proposed to
+allow areas the flexibility to calculate
+both sub-index values and, when both
+sub-index values are calculated, to
+require that the higher value be
+reported. We specifically solicited
+comment on this proposed approach.
+b. Proposed PM sub-index. On July
+18, 1997, we revised the PM NAAQS by
+adding a new set of standards for fine
+particles, or PM2.5, set at levels of 15 µg/
+m3 (annual) and 65 µg/m3 (24-hour
+average) (62 FR 38652–38760). These
+revisions were based on findings from
+the most recent review of the PM
+NAAQS that recently published studies
+have indicated that serious health
+effects were more closely associated
+with the levels of the smaller particle
+subset of PM10. These health effects
+include premature mortality and
+increased hospital admissions and
+emergency room visits, primarily in the
+elderly and individuals with
+cardiopulmonary disease; increased
+respiratory symptoms and disease in
+children and individuals with
+cardiopulmonary disease; decreased
+lung function, particularly in children
+and individuals with asthma; and
+alterations in respiratory tract defense
+mechanisms. In addition, PM10
+standards were retained at the same
+levels of 50 µg/m3 (annual) and 150 µg/
+m3 (24-hour average) to continue to
+provide protection against health effects
+associated with the coarse particle
+subset of PM10, including aggravation of
+asthma and respiratory infections. To
+reflect these revisions to the PM
+NAAQS, we proposed to add a new sub-
+index for PM2.5, and to make conforming
+changes to the sub-index for PM10,
+consistent with the proposed general
+changes to the AQI. The proposed sub-
+indices are summarized in Table 2 and
+discussed below.
+Proposed new PM2.5 sub-index.
+Consistent with the historical method of
+selecting breakpoints of the AQI, we
+proposed to set an index value of 100
+at the level of the 24-hour PM2.5
+NAAQS, 65 µg/m3, and an index value
+of 50 at the level of the annual NAAQS,
+15 µg/m3. Also consistent with the basic
+structure of the AQI, the proposed
+upper bound index value of 500
+corresponds to the SHL, established in
+section 51.16 of the CFR under the
+Prevention of Air Pollution Emergency
+Episodes program. The SHL is set at a
+level that represents an imminent and
+substantial endangerment to public
+health. When we propose revisions to
+the Prevention of Air Pollution
+Emergency Episodes program, the
+proposal will include a SHL for PM2.5.
+In the interim, we proposed to establish
+a PM2.5 concentration of 500 µg/m3 to be
+associated with a PM2.5 index value of
+500.
+For intermediate breakpoints in the
+AQI between values of 100 and 500,
+PM2.5 concentrations were proposed
+that generally reflect a linear
+relationship between increasing index
+values and increasing PM2.5 values. The
+available scientific evidence of health
+effects related to population exposures
+to PM2.5 concentrations between the 24-
+hour NAAQS level and the proposed
+PM2.5 concentration to be associated
+with a PM2.5 index value of 500 suggest
+a continuum of effects in this range,
+with increasing PM2.5 concentrations
+being associated with increasingly larger
+numbers of people likely experiencing
+serious health effects (62 FR 38675; Staff
+Paper, p. VII–27). The proposed
+generally linear relationship between
+AQI values and PM2.5 concentrations in
+this range, rounded to increments of 50
+µg/m3 to reflect the approximate nature
+of such a relationship, is consistent with
+this evidence.
+Proposed conforming changes to the
+PM10 sub-index. Consistent with the
+retention of the levels of the PM10
+NAAQS, we proposed to retain the PM10
+sub-index generally and to add a new
+breakpoint at an index value of 150 to
+conform to the proposed additional AQI
+category. We proposed that this
+breakpoint be set at a PM10 24-hour
+average concentration of 250 µg/m3, the
+mid-point between the breakpoints
+associated with index values of 100 and
+200. We believe that the PM10 sub-
+index, with this conforming change,
+remains appropriate for the public
+health protection purposes of the AQI.
+c. Proposed conforming changes to
+the CO and SO2 sub-indices. Since the
+current AQI sub-indices reflect the
+current NAAQS for CO and SO2, the
+only change we proposed for these sub-
+indices was to add a breakpoint to each
+sub-index at an index value of 150 to
+conform to the proposed additional AQI
+category. We proposed that these
+breakpoints be set at concentrations at
+the mid-points between the breakpoints
+associated with index values of 100 and
+200, consistent with the approach
+described above for conforming changes
+to both the 1-hour O3 sub-index and the
+PM10 sub-index. These proposed
+breakpoints are summarized in Table 2
+and will be reviewed in conjunction
+with the future reviews of the CO and
+SO2 NAAQS.
+B. What Were the Significant Comments
+and Our Responses?
+This section describes the significant
+comments we received on proposed
+revisions to the index and our general
+responses to them. More detailed
+comment summaries and responses are
+contained in a Response to Comments
+Document that is available in the docket
+(see ADDRESSES).
+1. Comments and Responses on General
+Changes
+a. Categories and related descriptors,
+index values and colors. With regard to
+the proposed changes to the general
+structure of the index, we received
+comments that focused on two major
+42537
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+issues. The first major issue was
+whether to add a category above or
+below the standard, or both. In addition,
+related to that issue were comments
+about the proposed descriptor for the
+category we proposed to add above the
+level of the standard. The second major
+issue regarded the particular colors,
+listed in Table 1, we proposed to
+associate with each category.
+With regard to the general structure of
+the index, most commenters supported
+our proposal to add a category above the
+level of the standard. However,
+commenters from environmental groups
+and several States suggested adding a
+category below the level of the standard
+to provide additional caution for
+members of sensitive groups, instead of,
+or in addition to one above. These
+commenters expressed the view that the
+proposed sub-indices, that added a
+category above the standard, did not
+sufficiently caution members of
+sensitive groups about health effects
+occurring below the level of the
+standard. Specifically, their comments
+were in reference only to potential
+health effects occurring below the 8-
+hour O3 and 24-hour PM2.5 standards.
+Regarding health effects below the PM2.5
+standard, one State commenter took
+exception with the statement in the
+proposal that an additional category
+below the standard, while perhaps
+meaningful for O3, would not be an
+appropriate distinction for the other
+pollutants in the index. This commenter
+noted that ‘‘such a distinction would be
+more imperative for other pollutants,
+especially for PM where the level of the
+24-hour standard may be less protective
+of sensitive groups than the ozone
+standard.’’ (Docket No. A–98–20, IV–D–
+19). Agreeing with the importance of
+cautioning sensitive groups below the
+level of the 24-hour PM2.5 standard,
+another commenter noted ‘‘We believe
+that adding a category below the level
+of the standard is of particular
+importance with respect to fine
+particles.’’ (Docket No. A–98–20, IV–D–
+11). Regarding the O3 sub-index, some
+of the States and the environmental
+groups that endorsed adding a category
+below the level of the standard
+supported that position by noting that
+we and CASAC stated that extremely
+sensitive individuals may be affected
+down to background levels of O3. One
+comment from an environmental group
+noted that:
+The CASAC recognized that for O3 and fine
+particle pollution, ‘‘there are no discernible
+thresholds below which health effects are not
+likely to occur in the most sensitive
+individuals’ as it was advising EPA to set
+new health standards. We agree with CASAC
+and support the idea of setting ‘‘an expanded
+air pollution warning system (to) be initiated
+so that sensitive individuals can take
+appropriate exposure avoidance behavior,’’
+however EPA has misrepresented the health
+threat with the levels it has proposed.
+(Docket No. A–98–20, IV–D–17).
+A State commenter that supported
+adding a category below the level of the
+standard observed that adding such a
+category would be consistent with
+EPA’s conclusion ‘‘that exposures to
+ambient concentrations just below the
+numerical level of the standard may
+result in exposures of concern for the
+most sensitive individuals.’’ (Docket No.
+A–98–20, IV–D–19).
+We understand and agree with the
+issues related to communication of risk
+below the levels of the 24-hour PM2.5
+and 8-hour O3 standards. For the PM2.5
+sub-index, we have addressed concerns
+about health effects below the level of
+the 24-hour PM2.5 standard by revising
+the PM2.5 sub-index so sensitive groups
+are cautioned below the 24-hour PM2.5
+standard. Based on review of the
+suggested revisions to the PM2.5 sub-
+index that we received in comments, we
+believe this approach fully addresses
+their concerns. The revision is
+discussed in section II.B.2 below.
+For better communication of health
+risk below the 8-hour O3 standard, we
+have addressed the issues raised by
+commenters by revising the O3 sub-
+index. We have expanded the
+‘‘moderate’’ range of the 8-hour O3 sub-
+index to make it more precautionary.
+When air quality is in the ‘‘moderate’’
+range of the 8-hour O3 sub-index, we
+have provided health effects and
+cautionary statements, available in our
+AQI Reporting Guidance document
+(EPA, 1999a) (discussed in section II.D),
+that may be used by State and local
+agencies to caution unusually sensitive
+individuals below the level of the 8-
+hour O3 standard. This revision is
+discussed in section II.B.2 below.
+We do not believe it is necessary or
+appropriate to change the general
+structure of the index by adding a new
+category below the level of the standard
+to caution extremely sensitive
+individuals. Based on the concerns of
+State and local agencies that the
+addition of two new categories would
+unduly complicate the index, we are
+adding just one new category to
+maintain the degree of simplicity
+strongly supported by State and local
+agencies, none of whom advocated the
+addition of two new categories. As
+described in section II.A.1 above, we
+believe that adding a category above the
+level of the standard makes a distinction
+that is useful for members of sensitive
+groups without alarming the general
+public. As noted by one State
+commenter:
+We are satisfied and support the proposed
+category index values, descriptors and colors.
+[We] believe that the Air Quality Index * * *
+has been a very effective communication tool
+during the ozone season. It has been our
+experience that a category above the standard
+provides the proper communication to the
+affected populations without alarming or
+desensitizing others. (Docket No. A–98–20,
+IV–G–04).
+Further, given the changes we have
+made to the PM2.5 sub-index, and the
+expanded ‘‘moderate’’ range and the
+cautionary statements we have made
+available in guidance for use below the
+level of the 8-hour O3 standard, we do
+not believe a category below the level of
+the standard to caution members of
+sensitive groups would be an
+appropriate distinction for any of the
+pollutants included in the index. We
+believe that the approach we have
+adopted retains the simplicity of the
+index while allowing for more detailed
+cautionary information to be made
+available to the public when
+appropriate.
+With regard to the descriptor
+‘‘unhealthy for sensitive groups,’’ some
+commenters expressed the view that
+this descriptor is misleading because it
+encompasses a large segment of the
+population. In addition, they argued, the
+public will not know that for certain
+pollutants healthy people, especially
+healthy children, are members of
+sensitive groups. Noting that it is
+prudent policy to assume that most risk
+communication regarding air quality
+impacts will be limited to the general
+descriptors, some of these commenters
+requested that if we continue to
+distinguish sensitive groups from the
+general population, that the descriptor
+be changed from ‘‘unhealthy for
+sensitive groups’’ to ‘‘unhealthy for
+children and other sensitive groups,’’ so
+that the public would receive a clear
+message that children are members of a
+sensitive group that may be at increased
+risk from exposure to ozone. (Docket
+No. A–98–20, IV–D–2, IV–D–4 and IV–
+D–11). We agree with the view of these
+commenters, based on the responses of
+participants in the focus groups, that the
+public will not know that healthy
+people, including healthy children, may
+be at risk when air quality is in the
+‘‘unhealthy for sensitive groups’’ range.
+The suggested descriptor, however, is
+only appropriate for pollutants for
+which children are a sensitive group.
+Since the sensitive groups differ from
+one pollutant to another, and children
+are only part of the sensitive group for
+O3, PM2.5 and NO2, this descriptor is not
+appropriate for the other pollutants. For
+42538
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+example, the descriptor ‘‘unhealthy for
+children and other sensitive groups’’
+would not be appropriate for use in the
+CO sub-index, where people with heart
+disease are the group most at-risk. Use
+of this descriptor when CO levels are
+above an index value of 100 could lead
+to confusion about the health effects
+associated with high levels of CO.
+Therefore, we do not believe it would be
+useful or prudent to adopt the
+descriptor ‘‘unhealthy for children and
+other sensitive groups.’’ To increase
+public awareness that healthy children
+are members of the sensitive group for
+O3, we are adding the requirement that
+when the AQI value is above 100,
+reporting agencies include in their
+published report a statement describing
+the sensitive group for that particular
+pollutant. The reporting requirement for
+pollutant-specific statements describing
+sensitive groups is discussed below in
+section II.C.1.b on reporting
+requirements, and listed in appendix G.
+We believe that the requirement for
+agencies to report the pollutant-specific
+statements identifying the groups at
+risk, when air quality is above an index
+value of 100, will more effectively
+communicate the risk associated with
+specific air pollutants, and thereby
+better help members of the public
+reduce personal exposure. To the extent
+possible with AQI reporting, this
+requirement will also ensure that the
+public is informed that children are part
+of the sensitive group for O3. This
+requirement will not only improve
+protection for healthy children, but also
+healthy adults, the elderly, and people
+with heart and lung disease. We believe
+that another good way to address this
+lack of awareness is to educate the
+public, and the media and health care
+professionals that inform the public,
+about the health effects message
+associated with the category ‘‘unhealthy
+for sensitive groups.’’ To help
+accomplish the goal of educating the
+public, we will be expanding the
+development of education and outreach
+materials and activities as described in
+section II.D below.
+With regard to the colors listed in
+Table 1, we received comments
+concerning both the particular colors
+associated with the different categories
+and whether specific colors should be
+required or recommended. The majority
+of commenters, including most State
+and local agencies commenting,
+supported our proposed color scheme.
+Many of those (commenters that did
+support it), had used the same or a
+similar color scheme associated with
+either community action programs or
+ozone maps. Commenters that had used
+the same or a similar color scheme
+noted that it effectively and
+appropriately portrayed the full range of
+local air quality values. On the other
+hand, some environmental groups and
+several States commented that the color
+red should be used for the category just
+above standard, instead of the color
+orange that we proposed. Primarily,
+these commenters expressed the view
+that the color orange would not send a
+sufficiently strong message that the
+standard has been exceeded. In the
+proposal we indicated that because the
+color red sends a strong cautionary
+message, it is most appropriately used
+when effects are likely to occur in the
+general population, and when more
+serious effects are likely in members of
+sensitive groups. Many of these
+commenters noted that since up to 30
+percent of the population could be
+considered to be in the sensitive group
+for O3, when the standard is exceeded
+the general public should be alerted.
+These commenters expressed the view
+that it is appropriate to use the color red
+just above the level of the standard both
+to alert the public of potential health
+risks and to encourage emission
+reduction actions. An environmental
+group commented:
+While individuals that are sensitive to poor
+air quality may look at the daily listing in the
+newspaper or call a message recorded by the
+state or local air agency, we know from
+experience that air quality does not receive
+broad public attention until it is predicted or
+reaches the level of ‘‘code red.’’ At that point,
+the television and radio media announces
+that people should restrict outdoor activity
+and take steps to not add more pollution to
+the air by carpooling, using less electricity,
+or using mass transit. (Docket No. A–98–20,
+IV-D–17).
+Another commenter from a State
+agency noted:
+Considering that the definition of sensitive
+individuals for ozone includes healthy active
+children and outdoor workers, a clear
+unambiguous message needs to be sent to the
+public so that they can respond accordingly.
+For parents of active children, a message
+which states that air quality is unhealthy,
+and displays it using the color red, sends a
+clear message—even though it may carry
+with it the risk that individuals not in the
+sensitive population might also take
+exposure avoidance measures. Issuing a
+message that air quality is unhealthy for
+sensitive individuals and displays it with a
+code orange runs the risk of having sensitive
+individuals, or those guiding sensitive
+individuals (i.e., doctors and parents) not
+prescribe any avoidance action because of the
+ambiguity of the message. (Docket No. A–98–
+20, IV-G–19).
+Additionally, these commenters
+suggested that the color orange be used
+for the category they wanted us to add
+below the level of the standard, as
+described above.
+In considering these comments, we
+recognize that the NAAQS are set to
+protect public health with an adequate
+margin of safety, including the health of
+sensitive groups. When the standards
+are met, public health is protected.
+Exposures to ambient concentrations
+just above the numerical level of the
+standards are not likely to result in
+exposures of concern for most healthy
+people. This is especially true for the 8-
+hour O3 standard, which has a
+concentration-based form designed to
+offer more protection from higher
+concentrations than from multiple
+smaller exceedances of the standard.
+The form of the 8-hour O3 standard
+allows for multiple days above the level
+of the standard, provided the 3-year
+average of the fourth-highest maximum
+concentrations does not exceed the level
+of the standard. This means that public
+health is protected, even when there are
+multiple days each year when ambient
+O3 concentrations are above the level of
+the standard, as long as the standard is
+met. Therefore, it is inappropriate on
+any given day to express a high level of
+concern when air quality just exceeds
+the level of the standard. Besides
+sending an inaccurate health effects
+message by using the color red with the
+category ‘‘unhealthy for sensitive
+groups,’’ another concern is the
+potential loss of credibility that could
+result from repeatedly sending a signal
+disproportionate to the expected
+incidence of noticeable symptoms. If
+this were to happen, the AQI could lose
+the power to influence people’s
+behavior to protect their health. One
+commenter from a State agency
+expressed this concern:
+One of our key concerns * * * is that the
+general public will become ambivalent if we
+forecasted 20, 30, or more Code Red days
+over the course of an ozone season. Under
+this scenario, people may not take adequate
+precautions to protect themselves when an
+actual unhealthy level is reached. (Docket
+No. A–98–20, IV–G–05).
+A commenter from another State
+agency expressed a similar view:
+It is important to make sure that this
+general message is not jeopardized by
+treating the new 85 ppb, 8-hour standard as
+the bright line between healthy and
+unhealthy. The Code Red message will not be
+considered credible if it is issued between 40
+to 60 times a summer in our area. Last year
+there were 54 days * * * where the 8-hour
+standard was exceeded. (Docket No. A–98–
+20, IV–G–13).
+From the comments we have received
+and from our focus group research, we
+believe that the color red sends too
+strong a message for use in the
+42539
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+‘‘unhealthy for sensitive groups
+category.’’ Additionally, based on the
+comments of State and local agencies
+that have used the same or a similar
+color scheme, we believe that the color
+orange sends an appropriate health
+message and yet a strong message that
+the standard has been exceeded. One
+State commenter noted that their
+environmental agency:
+has been using a green/yellow/orange/red
+communication system since 1993. The
+media has used the red, orange and yellow
+air quality codes to convey a ‘‘the air is not
+clean’’ message. In general, the media has
+used Code Red to convey a message that air
+pollution is or will be at a near emergency
+level. Code Orange has connoted ‘‘very
+dirty.’’ Code Yellow has, in general, been
+used to characterize air pollution as not too
+bad—but still not clean. (Docket No. A–98–
+20, IV–G–13).
+Another State commenter noted:
+We disagree, however, with * * * [the]
+assertion that the ‘‘Code Orange’’ message in
+the PSI does not adequately protect public
+health. Our experience * * * has been that
+the health message can be effectively
+delivered for Code Orange levels. We have
+received much feedback from the general
+public about our ozone action day program,
+and the resounding message has been: Thank
+you for this program, I can now plan my day
+to avoid exposure to high levels of ozone.
+(Docket No. A–98–20, IV–G–05).
+In addition, ozone mapping projects
+have successfully represented air
+quality using the full AQI color scheme.
+In the Ozone Mapping Project,
+described in section I.C.2, the proposed
+AQI color scheme was used successfully
+during the 1998 O3 season. Participating
+State and local agencies and regional
+organizations have selected the same
+color scheme for use in the 1999 O3
+season. Having used the proposed color
+scheme in their local O3 map, one
+metropolitan air agency noted that
+‘‘EPA’s proposed color scheme
+communicates clearly in a logical
+progression which in our experience is
+already understood by the public and
+the media.’’ (Docket No. A–98–20, IV–
+G–11).
+Because we believe the proposed
+color scheme effectively and
+appropriately communicates the health
+effects message that was the basis for
+setting the O3 and PM standards, we
+have adopted the color scheme as
+proposed. However, we strongly agree
+with the views expressed by
+commenters that it is important for the
+health effects message associated with
+the category ‘‘unhealthy for sensitive
+groups’’ to be effectively communicated
+to the public, health care providers and
+the media. It is very important that
+members of sensitive groups, which for
+some pollutants includes healthy
+children and adults, be alerted to
+potential health risks and that the
+general public be motivated to take
+emissions reductions measures when air
+quality is above the level of the
+standard. In response to the concerns
+expressed by these commenters, we are
+planning to significantly step up the
+development of education and outreach
+materials and increase activities to get
+this message out, as discussed in section
+II.D below.
+Only two commenters recommended
+against requiring specific colors. The
+first commenter did so on the grounds
+that requiring specific colors would be
+unenforceable, and may lead to
+frustration and conflict. While
+applauding our goal of establishing a
+consistent message, and agreeing that it
+is good to have as much national
+consistency as possible, this commenter
+noted that efforts to legislate aesthetics
+are uncomfortable, unwieldy and
+ultimately unnecessary. (Docket No. A–
+98–20, IV–D–11). The second
+commenter noted that some States may
+elect to use Code Red for ozone action
+programs at levels other than what is
+being proposed and the regulation
+should not preclude them from doing
+that. (Docket No. A–98–20, IV–D–19).
+On the other hand, there was very
+strong support in the comments for us
+to require that agencies that use color,
+use specific colors in AQI reporting. All
+of the other commenters that addressed
+this issue, including a commenter from
+an environmental organization,
+supported requiring specific colors for
+all State/local agencies using a color
+format. The commenter from an
+environmental group noted:
+EPA states that revisions to the PSI have
+as a goal the creation of a nationally uniform
+link across a range of programs. We urge that
+this uniformity be achieved through the use
+of a national public health warning system
+that is clear to the public. To this end, we
+do support the EPA requiring that when
+colors are used by a state in its PSI, that the
+same color system incorporated in the PSI,
+and not variants, be utilized by such state.
+(Docket No. A–98–20, IV–D–21).
+One of the many State commenters
+agreeing with us that such a
+requirement was necessary for national
+uniformity, noted that ‘‘Specific colors
+* * * associated with each category
+should be required for national
+uniformity and ease of understanding.
+Anything less would defeat the purpose
+of a national index for comparing air
+quality in different locales.’’ (Docket No.
+A–98–20, IV–D–07). Another State
+commenter made the point that
+‘‘Consistency of message is important,
+especially if the regional nature of many
+air pollution problems is to be
+communicated effectively.’’ (Docket No.
+A–98–20, IV–D–01).
+In response to the first commenter’s
+objections, we do not believe that
+requiring specific colors presents any
+particular enforceability problems. This
+requirement is one of many contained in
+the 40 CFR part 58 Ambient Air Quality
+Surveillance requirements and would be
+enforceable in the same manner and to
+the same extent as any other
+requirement of this section. As such, we
+believe there is no difference in
+enforceability between this and a
+requirement for the use of particular
+descriptors or air quality index values.
+We expect to work with EPA Regional
+Offices to ensure that they monitor State
+implementation of the revised AQI and
+work with the States to encourage
+compliance.
+With regard to comments that our
+requirement would preclude States from
+using other color schemes and action
+levels in their voluntary programs, it is
+important to note that the AQI addresses
+the reporting of measured air quality
+and does not impose any requirements
+or limitations on community action
+programs based on air quality forecasts.
+We recognize that a nationally uniform
+color scheme for AQI reporting will, as
+a practical matter, complicate a State’s
+efforts to use other color schemes in
+action programs based on predicted air
+quality, but they remain free to do so
+under our regulations.
+Because it is the fundamental goal of
+the AQI to provide nationally uniform
+information about daily air quality and
+the public health messages that are
+appropriately associated with various
+daily air quality levels, in a format that
+is timely and easily understood, we
+continue to believe that requiring
+specified colors when the AQI
+categories are reported in color format is
+both necessary and appropriate. Neither
+of the commenters opposing this
+requirement addressed how a more
+flexible approach of recommending
+specific colors, thereby allowing the use
+of different colors to represent the same
+range of air quality, would satisfy the
+statutory language requiring a nationally
+uniform air quality index. Therefore, we
+are adopting the requirement, as
+specified in appendix G below, that
+when State and local agencies report the
+AQI in a color format, that the specific
+colors listed in Table 1 be associated
+with each category.
+b. Reporting requirements. We
+received significant comments on
+several issues related to the reporting
+requirements, including the population
+threshold and other aspects of the
+reporting requirements, the appropriate
+42540
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+method of monitoring and reporting the
+PM sub-indices, the effect of AQI
+changes relative to the SHL program,
+and the effective date of the final rule.
+Since we received no significant
+comments on our proposal to change the
+rounding conventions for calculating
+the index to make them consistent with
+the rounding conventions used in
+defining the NAAQS, we are adopting
+that revision as proposed. With regard
+to the population threshold, one
+commenter expressed the view that the
+change from requiring AQI reporting in
+urbanized areas with a population
+greater than 200,000, to requiring
+reporting in MSAs with populations
+greater than 350,000, would raise the
+threshold for the requirement and
+appear to mean that large segments of
+the U.S. population would not have
+access to AQI reporting. (Docket No. A–
+98–20, IV–D–03). We have adopted the
+requirement for AQI reporting in MSAs
+with populations greater than 350,000 to
+be consistent with the State/Local Air
+Monitoring Stations (SLAMs)
+monitoring regulations in 40 CFR part
+58, since AQI reporting is based on
+information from SLAMS monitors that
+are located and reported within the
+context of MSAs. The use of MSAs also
+provides for more stable reporting areas
+since MSAs are usually defined by
+county boundaries that typically do not
+change, whereas the boundaries for
+urbanized areas are very irregular, may
+include parts of counties, and may
+change with each census. In selecting
+the MSA population threshold of
+350,000, we tried to make the new
+reporting requirement equivalent to the
+old one. Under the new requirement,
+virtually the same number of cities will
+be required to report the AQI as were
+previously. Because urbanized areas and
+MSAs are not equivalent, we realize that
+some areas will be required to report the
+AQI that were not required to do so
+before this rulemaking, and vice versa.
+The regulation does not preclude any
+area from reporting the AQI, and we
+encourage State and local air agencies to
+report the AQI whenever possible so
+that people will be informed about local
+air quality.
+Another commenter noted that some
+MSAs fall within the boundaries of
+more than one State, and requested that
+we identify which of the two or more
+reporting agencies would be responsible
+for reporting the AQI for the MSA.
+(Docket No. A–98–20, IV–G–15). We
+expect that decisions about AQI
+reporting in multi-State MSAs will be
+made by participating agencies in the
+same manner as decisions about
+activities to implement the standards
+through the State Implementation Plans
+(SIPs). Guidance for air quality planning
+and implementation in MSAs that fall
+within the boundaries of more than one
+State generally calls for the participating
+State and local agencies to identify, in
+the SIPs for those States, who will be
+responsible for the preparation and
+submission of the required elements,
+including AQI reports. Where a local or
+regional planning organization has been
+designated to carry out such
+requirements, such an organization is
+the appropriate one to report the AQI.
+In any case, we encourage AQI reporting
+on the sub-MSA level, especially where
+the AQI differs within the MSA.
+Another commenter urged us to
+expand the requirement for AQI
+reporting to areas with populations less
+than 350,000, if these areas are likely
+not to be in attainment for the 8-hour O3
+standard. To support this position, the
+commenter noted that O3 can be
+transported long distances downwind
+from where it is generated, resulting in
+serious air quality problems in
+downwind rural and smaller urban
+areas. (Docket No. A–98–20, IV–G–27).
+We agree with this commenter that
+downwind areas may be significantly
+affected by transport of O3 and
+precursors. In section 5 of appendix G,
+we encourage States to evaluate air
+quality in affected areas downwind of
+MSAs to identify the potential for
+significant transport-related air quality
+impacts and to expand their AQI
+reporting to address these situations. We
+have also changed the language in this
+section such that the affected area need
+not be contiguous to the reporting MSA.
+On a related topic, one commenter
+noted an example in which a MSA with
+a population greater than 350,000, has
+not registered AQI values in excess of 50
+(such that AQI reporting would be
+discretionary), although values above
+100 are registered infrequently at a
+national monument within the larger air
+basin. (Docket No. A–98–20, IV–G–17).
+This commenter requested that we
+revise the reporting requirements to add
+an air quality consideration to the
+population threshold as a second
+component of AQI reporting. To address
+one part of this comment, we encourage
+State and local air agencies to report the
+AQI and issue forecasts for national
+parks or monuments whenever possible,
+since these are places people go to for
+activities that often involve prolonged
+or vigorous exertion, thereby increasing
+the risk from air pollution. We have
+worked with the National Park Service
+to develop appropriate guidance for
+visitors and staff to use when index
+values are expected to be above 100 for
+O3. To address the other part of this
+comment, section 8 of appendix G
+describes exceptions under which AQI
+reporting becomes discretionary, either
+for one pollutant or the entire index, for
+areas with good air quality. Regarding
+these exceptions, a State commenter
+suggested that we require a minimum of
+2 years at an AQI value lower than 50
+before allowing agencies to ‘‘opt out’’ of
+reporting the AQI for a particular
+pollutant, so that for example, one
+unusually good O3 season would not
+make it possible for an agency to avoid
+reporting high index values in
+subsequent O3 seasons. (Docket No. A–
+98–20, IV–D–06). We believe that
+requiring 2 years of index values lower
+than 50 before allowing State and local
+agencies discretion in reporting, while
+appropriate in some situations, may be
+unnecessary in others. We agree with
+this commenter that it is appropriate to
+require reporting of higher index values,
+even if air quality has been good
+throughout the previous year. Therefore,
+we have revised section 8 of appendix
+G, such that when the criteria for an
+exemption are no longer met, the
+responsible agency is required to report
+the AQI. Another commenter expressed
+the view that we should strengthen the
+minimum notification requirements, so
+that when the AQI value exceeds 100,
+State and local agencies are required to
+report the index to all three media
+(print, radio and television) to help
+ensure that the public is informed that
+the standard has been exceeded. (A–98–
+20, IV–E–3) We agree that it is important
+to inform the public when the AQI is
+above 100, and therefore have
+strengthened the reporting provisions in
+section 6 of appendix G. In particular,
+when the AQI exceeds 100, reporting
+agencies should expand reporting to all
+major news media, and at a minimum,
+should include notification to the media
+with the largest market coverages for the
+area in question.
+Looking at these reporting provisions
+more broadly, we believe that it would
+be very beneficial for reporting agencies
+to educate the media about alternative
+sources for this information, such as
+web sites and community action
+programs. Many State and local agencies
+have web sites that provide quick access
+to timely and accurate air quality and
+related information. For State and local
+agencies participating in the Ozone
+Mapping Project, the media could be
+directed to the AIRNOW web site as a
+source of information about O3 air
+quality and associated health effects for
+yesterday, today and tomorrow. In
+addition, this web site provides in-
+depth information about O3 health
+effects, sources of emissions and simple
+42541
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+measures people can take to improve air
+quality. Community action programs
+also provide timely and accurate
+information, and are often used to
+inform the public when air quality is
+predicted to be above an index value of
+100. Tools and programs such as these
+can significantly improve the timeliness
+of AQI reporting and provide additional
+useful information. We believe that, in
+the near future, the AQI will be reported
+by the regional and national media in
+ways, such as the Ozone Map, that will
+not be limited to specific MSAs. This
+type of approach will help provide AQI
+reporting for areas that would otherwise
+not be covered, including, in some
+cases, rural and small urban areas and
+national parks.
+Regarding reporting the PM sub-
+indices, one commenter requested that
+we clarify whether PM2.5 and PM10
+should be treated as one pollutant (e.g.,
+reported simply as PM) or two different
+pollutants (e.g., reported separately).
+(Docket No. A–98–20, IV–D–19). We
+expect State and local air agencies to
+report PM2.5 and PM10 separately, since
+there are two separate sub-indices with
+different sensitive groups, and different
+health effects and cautionary
+statements. In response to this
+comment, we have added clarifying
+language to section 9 in appendix G. In
+addition, many commenters noted that
+at the present time there is very little
+monitoring for PM (both PM2.5 and
+PM10) that is suitable for use in daily
+AQI reports, and requested guidance for
+the use of non-reference methods for the
+purpose of AQI reporting. Since PM is
+often measured at intervals longer than
+every 24-hours, State and local agencies
+are encouraged to use monitoring data
+from continuous PM monitors for use in
+AQI reporting, whenever possible. As
+noted by commenters, due to the lack of
+appropriate monitoring information, at
+this time it may not be possible to report
+the AQI for PM in many locations. To
+assist State and local agencies in the use
+of non-reference methods, we have
+added language to section 10 of
+appendix G stating that non-reference
+methods may be used for the purpose of
+AQI reporting if it is possible to
+demonstrate a simple linear relationship
+between the non-reference and the
+reference methods.
+Regarding the effect of changes to the
+AQI on the SHL program, we received
+two significant comments. One
+commenter noted that our proposed
+changes to the categories, to standardize
+them such that the upper bound falls on
+an even number, rounded to 50 (e.g.,
+200), and lower bound falls on an odd
+number (e.g., 201), resulted in the AQI
+breakpoint of 200 being the upper
+bound of the ‘‘unhealthy’’ category,
+rather than the lower bound of the ‘‘very
+unhealthy’’ category, as it has been
+historically. Since the AQI breakpoint of
+200 is also commonly used as the ‘‘Alert
+Level,’’ or the first stage of an air
+pollution emergency episode in
+example guidance associated with the
+SHL program, this commenter requested
+that we leave the AQI value of 200 as
+the lower breakpoint of the ‘‘very
+unhealthy’’ category, so that emergency
+episodes would start when air quality is
+classified as ‘‘very unhealthy’’ and
+include appropriate-sounding health
+effects and cautionary statements.
+(Docket No. A–98–20, IV–D–22). We are
+adopting the breakpoints as proposed,
+because we believe that it is important
+to be consistent in the treatment of the
+category boundaries (e.g., 51 to 100, 101
+to 150, 151 to 200, etc.). When we
+propose revisions to the requirements of
+the SHL program, we plan to change all
+references to the ‘‘Alert Level’’ so they
+will refer to air quality that exceeds the
+‘‘Alert Level,’’ rather than to air quality
+that reaches the ‘‘Alert Level.’’ However,
+State and local agencies should not
+change their emergency episode plans at
+this point simply because we are
+adopting this consistent approach to
+setting AQI breakpoints. Eventually,
+some agencies may have to revise
+emergency episode plans because we
+have revised the AQI value of 200 for
+the 8-hour O3 sub-index. But we do not
+expect States to make any revisions to
+their emergency episode plans until we
+promulgate the revised requirements.
+Finally, several commenters noted that
+in the proposal, we did not specify an
+effective date for the final revisions.
+Some of these commenters suggested
+that we extend the effective date, with
+suggestions ranging from 60 days to
+more than a year after publication. We
+are adopting an effective date of 60 days
+after publication. We believe that this
+will allow adequate time for State and
+local agencies to revise daily AQI
+reports. We recognize that it may take
+longer to revise related informational
+materials, such as printed documents, or
+related programs that agencies may
+want to revise. However, since this
+rulemaking applies only to the
+requirements for daily reporting of air
+quality, we believe an effective date of
+60 days is adequate.
+c. Index name. All commenters that
+expressed a view on the index name
+supported changing the name of the
+index from the Pollutant Standards
+Index (PSI) to the Air Quality Index
+(AQI), because this name clearly
+identifies the index as relating to the
+quality of the air. Accordingly, we are
+changing the name of the index to the
+Air Quality Index, or AQI.
+2. Comments and Responses on Changes
+to the Sub-Indices.
+All of the comments we received on
+proposed changes to the sub-indices
+focused on the sub-indices that were
+added for O3 (8-hour) and PM2.5. Since
+we did not receive specific comments
+on the conforming changes we proposed
+to the CO, SO2 and PM10 sub-indices,
+we are adopting these sub-indices as
+proposed.
+a. Ozone sub-index. We received
+significant comments on two issues
+related to the O3 sub-index. The first
+group of comments was in response to
+our request for comment on retaining
+the 1-hour O3 sub-index in addition to
+the 8-hour O3 sub-index. The second
+group of comments focused on the
+appropriateness of providing
+precautionary language below the level
+of the 8-hour O3 standard. Regarding the
+1-hour sub-index, almost all of the
+comments that addressed this issue
+supported retaining the 1-hour O3 sub-
+index. However, one State commenter
+expressed the view that the proposal
+was unclear regarding how areas that
+have not attained the 1-hour O3
+standard are to use the new 8-hour O3
+sub-index. This commenter also noted
+that it might be confusing to report the
+AQI based on the 8-hour O3 sub-index
+in an area where the 1-hour O3 standard
+had not yet been attained. (Docket No.
+A–98–20, IV–D–07). We are requiring
+that all State and local agencies that
+report the AQI for O3 calculate the 8-
+hour O3 sub-index, even if the reporting
+area has not attained the 1-hour
+standard. In addition to calculating the
+8-hour O3 sub-index, which is required,
+the reporting agency may also calculate
+the 1-hour O3 sub-index, but this is not
+required. However, if the reporting
+agency calculates both O3 sub-index
+values, it is required to report the higher
+index value of the two. The AQI does
+not relate to attainment status; rather, it
+is a tool for reporting daily air quality
+and associated health information. We
+are retaining the 1-hour O3 sub-index
+only because we recognize that there are
+a very small number of areas in the U.S.
+that have atypical air quality patterns,
+with very high 1-hour daily peak O3
+concentrations relative to 8-hour
+average concentrations. In such areas,
+an index value greater than 100 might
+be calculated using the 1-hour sub-
+index, even when the 8-hour sub-index
+might be below 100. For these areas, the
+use of the 1-hour sub-index is clearly
+more precautionary. Because our major
+interest is that appropriate
+precautionary messages be issued, we
+42542
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+8 See 63 FR 67819, 67829 (Dec. 9, 1998).
+9 See 62 FR 38669–71, 38676–77 (July 18, 1997).
+are not retaining a complete 1-hour O3
+sub-index with ‘‘good’’ and ‘‘moderate’’
+categories. Likewise, when ambient 8-
+hour O3 concentrations are greater than
+0.374 ppm, reporting agencies must
+calculate the index value using the 1-
+hour O3 sub-index. This is because no
+human health effects information is
+available for higher 8-hour average O3
+concentrations to use as a basis for
+selecting 8-hour breakpoints and for
+developing appropriate health effects
+and cautionary statements. We believe
+that since State and local agencies are
+required to report the name of the
+pollutant responsible for an index value
+greater than 100, but not the associated
+averaging period, using the 8-hour O3
+sub-index should not be confusing in
+areas that have not yet attained the 1-
+hour O3 standard.
+Regarding the issue of alerting
+sensitive individuals below the level of
+the 8-hour O3 standard, some
+commenters not only suggested adding
+a category below the level of the
+standard, but also suggested reducing
+the lower bound of the ‘‘moderate’’
+category. (Docket No. A–98–20, IV–D–
+11, IV–D–17, IV–D–19, IV–G–21). We
+are not adding a category below the
+level of the standard as discussed in
+section II.B.1. above. However, to be
+somewhat more precautionary, we have
+expanded the ‘‘moderate’’ range by
+reducing the lower bound of this
+category from 0.070 ppm to 0.065 ppm
+O3, 8-hour average. We believe that
+setting the breakpoint between the
+‘‘good’’ and ‘‘moderate’’ categories at
+this lower level, is appropriate, based in
+part on risk estimates done in
+conjunction with the review of the O3
+NAAQS which suggested that risk to
+healthy people likely becomes
+negligible at this level (Whitfield et al.,
+1996). This change is also responsive to
+comments from State agencies that the
+proposed range of the ‘‘moderate’’
+category was so narrow (spanning only
+15 ppb O3, as compared to 20 ppb range
+used in the Ozone Map in 1998) that it
+would be more difficult to forecast
+accurately and also would provide too
+quick a transition from good to
+unhealthy. (Docket No. A–98–20, IV–D–
+10, IV–G–04). Conversely, an industry
+group and a State commenter took
+exception to issuing a ‘‘limited health
+notice’’ for O3 that we proposed as the
+purpose of the ‘‘moderate’’ category.
+(Docket No. A–98–20, IV–D–12, IV–G–
+14). The State commenter objected to
+the use of the term ‘‘health notice’’
+below the level of the standard because
+it implies that the standard is not
+protective of public health. In addition
+to stating that the ‘‘limited health
+notice’’ associated with moderate air
+quality is inconsistent with the 8-hour
+O3 standard because the standard is
+intended to protect public health, even
+the health of sensitive populations, with
+an adequate margin of safety, the
+industry commenter expressed the view
+that we should omit from our materials
+the health effects and cautionary
+statements suggesting that air quality
+meeting the level of the standard is a
+threat to health. We agree with the
+industry and State commenters that
+since the 8-hour O3 standard is intended
+to protect public health, including the
+health of sensitive groups, with an
+adequate margin of safety, that the term
+‘‘limited health notice’’ may be
+misleading. However, we continue to
+believe that it is appropriate to provide
+guidance with cautionary language for
+extremely sensitive individuals, not
+populations or groups, below the level
+of the standard. This approach is
+consistent with the advice of CASAC,
+and the way we discussed expanding
+the use of the AQI, specifically to
+caution extremely sensitive individuals
+below the level of the O3 standard, in
+the O3 proposal and final decision
+notices.
+b. PM2.5 sub-index. We received a
+number of comments regarding the
+PM2.5 sub-index, almost all of them
+focusing on our proposal to set the
+index value of 100 at the level of the 24-
+hour standard (65 µg/m3). Some
+commenters recommended setting an
+index value of 100, or otherwise
+providing for cautionary messages, at
+concentrations lower than 65 µg/m3.
+One commenter, for example, stated that
+under the proposal ‘‘many areas of the
+country will likely violate the annual
+standard of 15 µg/m3 without ever (or
+hardly ever) reaching a PSI of 100 or a
+category indicating some degree of
+unhealthfulness. This situation will
+result in an inconsistent and
+inappropriate message to the public,
+especially given the severe health effects
+associated with fine particles.’’ (Docket
+No. A–98–20, IV–D–11).
+In light of these comments, we have
+reexamined the basis for selecting PM2.5
+AQI breakpoints and agree that the sub-
+index as proposed would not adequately
+caution sensitive groups about potential
+risks associated with short-term
+exposures to PM2.5. This is essentially
+because the proposed PM2.5 sub-index
+was developed using the Agency’s
+historical approach to selecting index
+breakpoints, which on examination does
+not correspond well with the way the
+PM2.5 standards were intended to
+function. The historical practice has
+been simply to set the AQI value of 100
+at the level of the short-term standard
+for a pollutant (in this case, the 24-hour
+PM2.5 standard) and the AQI value of 50
+at the level of the annual standard, if
+there is one, or at one-half the level of
+the short-term standard.8 This method
+of structuring the index is appropriate
+for a ‘‘typical’’ suite of air-quality
+standards, which includes a short-term
+standard designed to protect against the
+health effects associated with short-term
+exposures and an annual standard
+designed to protect against health effects
+associated with long-term exposures. In
+such cases, the short-term standard in
+effect defines the level of health
+protection provided against short-term
+risks and thus is a useful benchmark
+against which to compare daily air-
+quality concentrations.
+In the case of the PM2.5 standards,
+however, EPA took a different approach
+to protecting against health risks
+associated with short-term exposures.
+For reasons discussed in the preamble
+to the final standards, the annual and
+24-hour PM2.5 standards were designed
+to work together for this purpose, and
+the intended level of protection against
+short-term risk is not defined by the 24-
+hour standard but by the combination of
+the two standards working in concert.
+Indeed, the annual PM2.5 level of 15 µg/
+m3 was intended to serve as the
+principal vehicle for protection against
+short-term PM2.5 exposures (by reducing
+the entire distribution of PM2.5
+concentrations in an area), with the
+short-term standard serving essentially
+to provide supplemental protection in
+special situations. 9 Given the respective
+roles of the two standards, setting the
+AQI value of 100 at the level of the 24-
+hour standard would not reflect the
+short-term health risks associated with
+lower concentrations, which the annual
+standard was designed to address.
+Accordingly, we agree that it is
+appropriate to caution members of
+sensitive groups below the level of the
+24-hour standard and believe this
+should be done in a way that reflects the
+intended roles of both standards in
+protecting against short-term risks.
+It would also be inappropriate to
+compare daily air-quality concentrations
+directly with the level of the annual
+standard (by setting the AQI value of
+100 at that level), because the annual
+standard represents an average of many
+daily concentrations rather than daily
+values per se. In the circumstances, we
+believe the guiding principle for PM2.5
+should be to set the AQI value of 100
+in a way that, at least conceptually,
+reflects the general level of health
+protection against short-term risks
+42543
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+10 See 62 FR 38670, 38677 (July 18, 1997).
+11 See 63 FR 67824, 67832 (Dec. 9, 1998).
+12 As discussed in the proposal, should the final
+SHL for PM2.5, when promulgated, be different from
+this concentration, we will revise this PM2.5 sub-
+index accordingly.
+provided by the annual and 24-hour
+standards in combination. This
+approach, although inexact, is
+consistent with the historical approach,
+in that the underlying logic of that
+approach, as applied to a typical suite
+of standards, is also to set the AQI value
+of 100 in a way that reflects the level of
+protection provided against short-term
+risks—that is, by setting it at the level
+of the short-term standard that provides
+the protection. In the case of PM2.5, as
+indicated above, the level of the 24-hour
+standard (65 µg/m3) is too high to reflect
+the intended level of protection, and the
+level of the annual standard (15 µg/m3)
+is too low. Between the two values, the
+available health studies indicate a
+continuum of risks associated with
+increasing PM concentrations, although
+with significant uncertainties as to the
+extent of the risk associated with single
+peak exposures.10 Consistent with EPA’s
+general practice of setting AQI
+breakpoints in symmetrical fashion
+where health effects information does
+not suggest particular levels,11 we
+concluded that it is appropriate to set
+the AQI value of 100 at the mid-point
+of the range between the annual and the
+24-hour PM2.5 standards (40 µg/m3).
+Given that decision, we also concluded
+that it is appropriate to retain the level
+of the annual standard for an AQI value
+of 50, as proposed, and to set the AQI
+level of 150 at the level of the 24-hour
+standard.
+To reiterate, the purpose of setting the
+AQI value of 100 somewhat below the
+level of the 24-hour standard was to
+reflect the dual role of the annual and
+24-hour PM2.5 standards in protecting
+against short-term risks, and the aim
+was to select a breakpoint that would
+serve as a rough surrogate for the
+general level of protection provided by
+the two standards in combination.
+Given the nature of the standards and
+the available health information, a more
+exact approach was not possible. In this
+regard, setting the breakpoint at the
+mid-point of the range between the
+annual and 24-hour standards, as
+opposed to a level somewhat higher or
+lower within that range, simply
+reflected EPA’s general practice of
+setting symmetrical breakpoints as
+indicated above, and does not imply any
+sort of health-effects threshold. In
+particular, it does not reflect a judgment
+about the extent of the risk associated
+with single peak concentrations of
+PM2.5, as to which the available health
+information is inconclusive, or the level
+at which EPA might set a 24-hour
+standard if the annual standard did not
+serve as the primary vehicle for
+protection against such concentrations.
+As with other AQI breakpoints, it also
+has no effect on the degree of control
+required of specific sources.
+In short, EPA’s decision to treat the
+annual standard as the principal vehicle
+for protecting against short-term PM2.5
+concentrations, although judged to be
+the best approach based on the available
+health information, does present a
+different situation than that involved in
+previous AQI rulemakings. As discussed
+in the preamble to the final standards,
+the annual standard was intended to
+reduce all PM2.5 concentrations,
+including short-term peaks, in an area
+sufficiently to protect public health with
+an adequate margin of safety, aside from
+special situations which the 24-hour
+standard was designed to address. As
+one commenter suggested, however, it
+would be possible for an area to violate
+the annual standard without ever
+experiencing (or seldom experiencing)
+daily peaks that exceeded the level of
+the 24-hour standard. Moreover, it
+might be difficult, if not impossible, to
+predict in advance whether the annual
+standard will be attained in a given area.
+For these reasons, as well as the
+uncertainties in the available health
+information, it is inherently difficult to
+judge the significance of single peak
+concentrations when they occur. In
+view of the various uncertainties
+involved, particularly sensitive
+individuals may wish to avoid exposure
+to such concentrations, especially
+concentrations that approach the level
+of the 24-hour standard. To facilitate
+such choices, consistent with the
+purposes of the AQI and the advice of
+CASAC, we believe that cautioning
+members of sensitive groups in the
+range of 40 to 65 µg/m3 is appropriate.
+We did not receive any comments on
+the proposal to establish a concentration
+of 500 µg/m3 to be associated with a
+PM2.5 index value of 500, or our method
+of selecting the intermediate
+breakpoints. Therefore, we are adopting
+500 µg/m3 as the upper bound of the
+index.12 For intermediate breakpoints in
+the AQI between values of 150 and 500,
+we have adopted PM2.5 concentrations
+that generally reflect a linear
+relationship between increasing index
+values and increasing PM2.5 values. As
+discussed in the proposal, the generally
+linear relationship between AQI values
+and PM2.5 concentrations in this range,
+rounded to increments of 50 µg/m3 to
+reflect the approximate nature of such a
+relationship, is consistent with the
+health effects evidence that was the
+basis for the PM standards.
+C. What Are the Final Revisions?
+The sub-sections below only
+summarize changes to the regulatory
+text. They do not describe all aspects of
+40 CFR part 58.50 or appendix G.
+1. What Are the General Changes?
+Based on the proposed structure of
+the AQI, the comments we received and
+our responses to them, as discussed
+above, we are adopting the following
+changes to the general structure and
+reporting requirements to the AQI.
+a. Categories and related descriptors,
+index values and colors. We are
+adopting the index values, descriptors
+and associated colors listed in Table 1
+above.
+b. Reporting requirements. We are
+revising 40 CFR 58.50 to require
+reporting of the AQI in all MSAs with
+a population over 350,000. In appendix
+G, we are adopting rounding
+conventions to be used to calculate
+index values that are consistent with the
+rounding conventions used in defining
+the NAAQS for each pollutant.
+The final rule retains the
+requirements to identify the area for
+which the AQI is being reported, the
+time period covered by the report, the
+‘‘critical’’ pollutant for which the
+reported AQI value was derived, the
+AQI value, and the associated category
+descriptor. The final rule adds two
+requirements: (1) To report the
+associated category color if a color
+format is used and, (2) to report the
+pollutant-specific sensitive group for
+any reported index value greater than
+100. The final rule encourages, but does
+not require, that AQI reports include:
+appropriate health effects and
+cautionary statements, all AQI values
+greater than 100, the AQI for sub-
+divisions of the MSA (if there are
+important differences in air quality
+across sub-divisions of the MSA),
+possible causes for high index values,
+and the actual pollutant concentrations.
+In the case of rural or small urban
+areas that are significantly affected by
+pollutants transported from a MSA
+where the AQI is reported, the final rule
+recommends that the MSA report the
+AQI for the affected areas as well. In
+addition, when the AQI is greater than
+100, reporting agencies should expand
+AQI reporting to include all major news
+media. The final rule continues to allow
+agencies to discontinue reporting for
+any pollutant, if index values for that
+pollutant have been below 50 for an
+entire season or a year. However, if in
+subsequent years pollutant levels rise
+42544
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+such that index values for that pollutant
+would be above 50, then the final rule
+requires that AQI reporting for that
+pollutant resume. The final rule
+emphasizes the importance of
+forecasting the AQI by specifying that
+forecasted values should be reported,
+when possible, but does not require that
+forecasted values be reported.
+c. Index name. We are adopting the
+name the Air Quality Index or AQI.
+2. What Are the Changes to the Sub-
+Indices?
+Based on the proposed sub-indices,
+the comments we received and our
+responses to them, as discussed above,
+we are adopting new sub-indices
+corresponding to the 8-hour O3 standard
+and the PM2.5 standards, as well as
+conforming changes to the CO, 1-hour
+O3, PM10, and SO2 sub-indices. The
+adopted breakpoints for the O3 (8-hour
+and 1-hour) PM2.5, PM10, CO and SO2
+sub-indices are listed in Table 3.
+TABLE 3.—BREAKPOINTS FOR O3, PM2.5, PM10, CO, AND SO2 SUB-INDICES
+AQI value
+O3
+PM
+CO, 8-hr (ppm)
+SO2, 24-hr (ppm)
+8-hr (ppm)
+1-hr (ppm)
+PM2.5, 24-hr
+(µg/m3)
+PM10, 24-hr
+(µg/m3)
+50 ................
+0.06 .............
+.................................
+15
+50
+4
+0.03
+100 ..............
+0.08 .............
+0.12
+40
+150
+9
+0.14
+150 ..............
+0.10 .............
+0.16
+65
+250
+12
+0.22
+200 ..............
+0.12 .............
+0.20
+* 150
+350
+15
+0.30
+300 ..............
+0.40 (1-hr) ...
+0.40
+* 250
+420
+30
+0.60
+400 ..............
+0.50 (1-hr) ...
+0.50
+* 350
+500
+40
+0.80
+500 ..............
+0.60 (1-hr) ...
+0.60
+* 500
+600
+50
+1.00
+* If a different SHL for PM2.5 is promulgated, these numbers will be revised accordingly.
+These sub-indices are presented in
+more detail in appendix G to reflect the
+changes to the numerical rounding
+conventions for calculating index
+values.
+D. What Are the Related Informational
+Materials?
+The primary documents associated
+with the AQI and this rulemaking, are
+our guidance on AQI reporting,
+‘‘Guideline for Public Reporting of Daily
+Air Quality—Air Quality Index (AQI)’’
+(EPA 1999a), and our guidance on AQI
+forecasting, ‘‘Guideline for Developing
+an Ozone Forecasting Program’’ (EPA
+1999b). These documents are available
+on AIRLINKS (http://www.epa.gov/
+airlinks). The AQI Reporting document
+contains information regarding the AQI
+requirements and recommendations,
+example AQI reports, and a list of MSAs
+required to report the AQI. It also
+includes pollutant-specific health
+effects and cautionary statements for use
+with the index, for O3, PM2.5, PM10, CO,
+and SO2. The AQI Forecasting
+document explains the steps necessary
+to start an air pollution forecasting
+program. Included in the document is
+guidance on using hourly O3
+concentrations as predictors for 8-hour
+averages.
+Other related informational materials
+are also available. The brochure ‘‘The
+Pollutant Standards Index’’ (EPA 1994)
+contained general information about the
+health effects and air quality, and
+general precautions that sensitive
+groups and the general public can take
+to avoid exposures of concern. It is
+being revised to be consistent with the
+new name (i.e., the Air Quality Index
+brochure), with final revisions to the
+AQI, and will identify sensitive groups
+in the health effects statements for each
+of the pollutants, and include the
+pollutant-specific health effects and
+cautionary statements discussed above.
+A colorful fact sheet, called the ‘‘Air
+Quality Guide,’’ provides information
+about the AQI, O3 health effects and the
+sources of ground-level O3 is available
+on the AIRNOW web site. A revised
+booklet, ‘‘SMOG—Who Does It Hurt?,’’
+provides information for the general
+public about O3 health effects and is
+based on scientific information gained
+in the recent review of the O3 standard.
+‘‘SMOG—Who Does It Hurt?’’ was
+designed to provide, in simple language,
+enough detail for individuals to
+understand who is at most risk from O3
+exposure and why, the nature of O3
+health effects, and a detailed
+explanation of how individuals can
+reduce the likelihood of exposure using
+common everyday activities as
+examples. We are also developing a
+shorter, summary pamphlet about O3
+health effects to complement the
+‘‘SMOG—Who Does It Hurt?’’ booklet.
+We expect the AQI brochure, ‘‘SMOG—
+Who Does It Hurt?’’ and the shorter
+summary pamphlet about O3 health
+effects to be available in paper format
+and on the AIRNOW web site early in
+the 1999 ozone season. In addition, we
+will translate the Air Quality Guide, the
+AQI brochure, ‘‘SMOG—Who Does It
+Hurt?’’, and the shorter summary
+pamphlet into Spanish. These materials
+will be available on a Spanish page on
+the AIRNOW web site.
+There are other materials available on
+the AIRNOW web site that provide
+general information about O3.
+Information about ground-level as
+contrasted to stratospheric O3 may be
+found in EPA’s publication ‘‘Ozone:
+Good Up High, Bad Nearby.’’ The EPA’s
+video, ‘‘Ozone Double Trouble’’ also
+provides information about ground-level
+and stratospheric O3 and the health
+effects associated with exposure to
+ground-level O3, or smog.
+In addition to the products discussed
+above, to address the concerns of
+commenters that when air quality is in
+the ‘‘unhealthy for sensitive groups’’
+range the public will not understand
+that the standard has been exceeded or
+who is at risk, we are going to
+significantly increase education and
+outreach related to the AQI. At this
+point, we are still in the process of
+planning specific new products or
+activities, but have decided what
+general direction these efforts will take.
+First, we plan to increase our contacts
+with the news providers to better inform
+them about the importance of including
+accurate, timely and understandable
+information in their broadcasts and
+reporting, and to enlist them as full
+partners in the implementation of the
+AQI. Second, we plan to form new
+associations with health care providers
+to keep them informed about air
+pollution health effects, since these
+professionals are the most trusted
+source of health effects information.
+Third, we plan to increase direct
+outreach to the public through a variety
+of means, including materials tailored to
+school-age children, the Spanish-
+speaking community, and others.
+Finally, we plan to work with public
+health interest organizations to support
+42545
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+their efforts to provide more immediate
+and interactive education and outreach
+to all of these groups.
+III. Regulatory and Environmental
+Impact Analyses
+A. Executive Order 12866: OMB Review
+of ‘‘Significant Actions’’
+Under Executive Order 12866, the
+Agency must determine whether a
+regulatory action is ‘‘significant’’ and,
+therefore, subject to Office of
+Management and Budget (OMB) review
+and the requirements of the Executive
+Order. The order defines ‘‘significant
+regulatory action’’ as one that may:
+(1) Have an annual effect on the
+economy of $100 million or more or
+adversely affect in a material way the
+economy, a sector of the economy,
+productivity, competition, jobs, the
+environment, public health or safety, or
+State, local, or tribal governments or
+communities;
+(2) Create a serious inconsistency or
+otherwise interfere with an action taken
+or planned by another Agency;
+(3) Materially alter the budgetary
+impact of entitlements, grants, user fees,
+or loan programs or the rights and
+obligations or recipients thereof; or
+(4) Raise novel legal or policy issues
+arising out of legal mandates, the
+President’s priorities, or the principles
+set forth in the Executive Order. The
+EPA has determined that the revisions
+to air quality index reporting in this
+final rule would not have an annual
+effect on the economy of $100 million
+or more or adversely affect in a material
+way the economy, a sector of the
+economy, productivity, competition,
+jobs, the environment, public health or
+safety, or State, local, or tribal
+governments or communities, and
+therefore did not prepare a regulatory
+impact assessment. The OMB has
+advised us this final decision should be
+construed as a ‘‘significant regulatory
+action’’ within the meaning of Executive
+Order 12866. Accordingly, this action
+was submitted to the OMB for review.
+Any changes made in response to OMB
+suggestions or recommendations will be
+documented in the public record and
+made available for public inspection at
+EPA’s Air and Radiation Docket
+Information Center (Docket No. A–98–
+20).
+B. Regulatory Flexibility Analysis/Small
+Business Regulatory Enforcement
+Fairness Act
+Under the Regulatory Flexibility Act
+(RFA), 5 U.S.C. 601 et seq., EPA must
+prepare a regulatory flexibility analysis
+assessing the impact of any proposed or
+final rule on small entities. Under 6
+U.S.C. 605(b), this requirement may be
+waived if EPA certifies that the rule will
+not have a significant economic impact
+on a substantial number of small
+entities. Small entities include small
+businesses, small not-for-profit
+enterprises, and governmental entities
+with jurisdiction over populations less
+than 50,000 people.
+Today’s final decision to revise the
+AQI program modifies existing air
+quality reporting requirements for
+MSA’s with populations over 350,000
+people. Today’s final decision will not
+establish any new regulatory
+requirements affecting small entities. On
+the basis of the above considerations,
+EPA certifies that today’s final decision
+will not have a significant economic
+impact on a substantial number of small
+entities within the meaning of the RFA.
+Based on the same considerations, EPA
+also certifies that the new small-entity
+provisions in section 244 of the Small
+Business Regulatory Enforcement
+Fairness Act (SBREFA) do not apply.
+C. Unfunded Mandates Reform Act
+Title II of the Unfunded Mandates
+Reform Act of 1995 (UMRA), Public
+Law 104–4, establishes requirements for
+Federal agencies to assess the effects of
+their regulatory actions on State, local,
+and tribal governments and the private
+sector. Under section 202 of the UMRA,
+EPA generally must prepare a written
+statement, including a cost-benefit
+analysis, for proposed and final rules
+with ‘‘Federal mandates’’ that may
+result in expenditures to State, local and
+tribal governments, in the aggregate, or
+to the private sector, of $100 million or
+more in any 1 year. In addition, before
+EPA establishes any regulatory
+requirements that may significantly or
+uniquely affect small governments,
+including tribal governments, it must
+have developed under section 203 of the
+UMRA a small government agency plan.
+The plan must provide for notifying
+potentially affected small governments,
+enabling officials of affected small
+governments to have meaningful and
+timely input in the development of EPA
+regulatory proposals with significant
+Federal intergovernmental mandates,
+and informing, educating, and advising
+small governments on compliance with
+the regulatory requirements.
+The EPA has determined that today’s
+final decision would not include a
+Federal mandate that may result in
+estimated costs of $100 million in any
+1 year to either State, local, or tribal
+governments, in the aggregate, or to the
+private sector. Accordingly, EPA has
+determined that the provisions of
+section 202 of the UMRA do not apply
+to this rulemaking. With regard to
+section 203 of the UMRA, EPA has
+determined that this rule contains no
+regulatory requirements that might
+significantly or uniquely affect small
+governments. This rule requires
+reporting of the Air Quality Index only
+in MSAs with populations greater than
+350,000, and therefore does not affect
+small governments.
+D. Paperwork Reduction Act
+Today’s final decision does not
+establish any new information
+collection requirements beyond those
+which are currently required under the
+Ambient Air Quality Surveillance
+Regulations in 40 CFR part 58 (OMB
+#2060–0084, EPA ICR No. 0940.15).
+Therefore, the requirements of the
+Paperwork Reduction Act do not apply
+to today’s action.
+E. Executive Order 13045: Children’s
+Health
+Executive Order 13045, entitled
+‘‘Protection of Children from
+Environmental Health Risks and Safety
+Risks’’ (62 FR 19885, April 23, 1997),
+requires Federal agencies to ensure that
+their policies, programs, activities, and
+standards identify and assess
+environmental health and safety risks
+that may disproportionately affect
+children. To respond to this order,
+agencies must explain why the
+regulation is preferable to other
+potentially effective and reasonably
+feasible alternatives considered by the
+agency. In today’s final decision, EPA
+identified children as one of the
+sensitive groups which may be at
+increased risk of experiencing the
+effects of concern following exposure to
+O3, PM2.5 and NO2.5. The AQI categories,
+descriptors, and health effects and
+cautionary statements as proposed, for
+the first time reflect consideration of the
+increased health risk to children which
+may result from such exposures.
+Promulgation of the proposed AQI is
+one potentially effective alternative that
+was considered. However, based on
+comments that the public may not be
+aware that healthy, active children are
+included in the sensitive groups for O3,
+PM2.5 and NO2, we have adopted the
+additional requirement that reporting
+agencies must include a pollutant-
+specific statement of the sensitive
+groups when an index value of 100 is
+exceeded. For example, when reporting
+an AQI value of 110 for ozone, the
+reporting agency must include a
+statement that children and people with
+asthma are the groups most at risk.
+Whenever the AQI value is above 100
+for a pollutant, and children are one of
+the sensitive groups for that pollutant,
+the AQI report must include a statement
+42546
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+that children are at risk. Therefore,
+today’s action does comply with the
+requirements of E.O. 13045.
+F. Executive Order 12848:
+Environmental Justice
+Executive Order 12848 requires that
+each Federal agency make achieving
+environmental justice part of its mission
+by identifying and addressing, as
+appropriate, disproportionately high
+and adverse human health or
+environmental effects of its programs,
+policies, and activities on minorities
+and low-income populations in the
+United States.
+The nature of today’s action is to
+inform the general public, including
+minorities and low-income populations,
+about the nature of the air pollution in
+the areas in which they live. Today’s
+action establishes a uniform tool for
+States to use to develop programs which
+will caution particularly sensitive
+people to minimize their exposures and
+educate the public about general health
+effects associated with exposure to
+different pollution levels. States may
+also use information established as part
+of the AQI to trigger programs designed
+to reduce emissions to avoid
+exceedances of the NAAQS. Therefore,
+today’s action will help facilitate public
+participation, outreach, and
+communication in areas where
+environmental justice issues are present.
+G. Executive Order 12875: Enhancing
+Intergovernmental Partnerships
+Under Executive Order 12875, EPA
+may not issue a regulation that is not
+required by statute and that creates a
+mandate upon a State, local or tribal
+government, unless the Federal
+government provides the funds
+necessary to pay the direct compliance
+costs incurred by those governments, or
+we will consult with those governments.
+If EPA complies by consulting,
+Executive Order 12875 requires us to
+provide to OMB a description of the
+extent of our prior consultation with
+representatives of affected State, local
+and tribal governments, the nature of
+their concerns, copies of any written
+communications from the governments,
+and a statement supporting the need to
+issue the regulation. In addition,
+Executive Order 12875 requires us to
+develop an effective process permitting
+elected officials and other
+representatives of State, local and tribal
+governments ‘‘to provide meaningful
+and timely input in the development of
+regulatory proposals containing
+significant unfunded mandates.’’
+Today’s rule implements
+requirements set forth in section 319 of
+the Act and thus is required by statute.
+This rule does not establish a wholly
+new requirement but rather modifies
+existing reporting requirements which
+State and local governments have been
+implementing for approximately 20
+years. While these changes are
+significant in many ways, they are not
+expected to result in a significant
+increase in reporting burdens.
+Nonetheless, EPA engaged in extensive
+consultation with State and local
+governments in the development of the
+proposed and final rules, and this
+consultation is discussed and
+documented elsewhere in today’s notice
+and in the notice of proposed
+rulemaking.
+H. Executive Order 13084: Consultation
+and Coordination With Indian Tribal
+Governments
+Under Executive Order 13084, EPA
+may not issue a regulation that is not
+required by statute, that significantly or
+uniquely affects the communities of
+Indian tribal governments, and that
+imposes substantial direct compliance
+costs on those communities, unless the
+Federal government provides the funds
+necessary to pay the direct compliance
+costs incurred by the tribal
+governments, or EPA will consult with
+those governments. If EPA complies by
+consulting, Executive Order 13084
+requires us to provide to OMB, in a
+separately identified section of the
+preamble to the rule, a description of
+the extent of our prior consultation with
+representatives of affected tribal
+governments, a summary of the nature
+of their concerns, and a statement
+supporting the need to issue the
+regulation. In addition, Executive Order
+13084 requires us to develop an
+effective process permitting elected
+officials and other representatives of
+Indian tribal governments ‘‘to provide
+meaningful and timely input in the
+development of regulatory policies on
+matters that significantly or uniquely
+affect their communities.’’
+Today’s rule implements
+requirements specifically set forth by
+the Congress in section 319 of the Act
+without the exercise of any discretion
+by us. Accordingly, the requirements of
+section 3(b) of Executive Order 13084
+do not apply to this rule.
+This rule governs the reporting of air
+quality by States for MSAs and, in some
+cases, areas that are significantly
+affected by transport of pollutants from
+MSAs. In extensive public and
+intergovermental coordination efforts
+during the development of the proposal,
+EPA received no information which
+would suggest that the rule will impose
+new requirements on Indian tribal
+governments nor will it significantly or
+uniquely affect communities of Indian
+tribal governments. To the extent that
+air pollution from upwind MSAs
+significantly affects any lands within
+Indian country, this impact is not a
+result of, or affected by, today’s rule and
+would be addressed under existing
+requirements governing the
+implementation of air quality standards.
+I. National Technology Transfer and
+Advancement Act
+Section 12(d) of the National
+Technology Transfer and Advancement
+Act of 1995 (NTTAA), Public Law 104–
+113, section 12(d) (15 U.S.C. 272 note)
+directs EPA to use voluntary consensus
+standards in its regulatory activities
+unless to do so would be inconsistent
+with applicable law or otherwise
+impractical. Voluntary consensus
+standards are technical standards (e.g.,
+materials specifications, test methods,
+sampling procedures, and business
+practices) that are developed or adopted
+by voluntary consensus standards
+bodies. The NTTAA directs EPA to
+provide Congress, through OMB,
+explanations when the Agency decides
+not to use available and applicable
+voluntary consensus standards. This
+action does not involve technical
+standards. Therefore, EPA did not
+consider the use of any voluntary
+consensus standards.
+J. Congressional Review Act
+The Congressional Review Act, 5
+U.S.C. 801 et seq., as added by the Small
+Business Regulatory Enforcement
+Fairness Act of 1996, generally provides
+that before a rule may take effect, the
+agency promulgating the rule must
+submit a rule report, which includes a
+copy of the rule, to each House of the
+Congress and to the Comptroller General
+of the United States. The EPA will
+submit a report containing this rule and
+other required information to the U.S.
+Senate, the U.S. House of
+Representatives, and the Comptroller
+General of the United States prior to the
+publication of the rule in the Federal
+Register. This rule is not a ‘‘major rule’’
+as defined by 5 U.S.C. 804(2).
+IV. References
+CEQ, (1976) A Recommended Air Pollution
+Index, report prepared by the Federal
+Interagency Task Force on Air Quality
+Indicators, Council on Environmental
+Quality, Environmental Protection
+Agency, and Department of Commerce.
+EPA, (1994) Measuring Air Quality: The
+Pollutant Standards Index, U.S.
+Environmental Protection Agency, Office
+of Air Quality Planning and Standards
+(MD–10), Research Triangle Park, NC,
+27711, EPA 451/K–94–001.
+42547
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+EPA, (1999a) Guideline for Public Reporting
+of Daily Air Quality—Air Quality Index
+(AQI), U.S. Environmental Protection
+Agency, Office of Air Quality Planning
+and Standards, Research Triangle Park,
+NC, 27711, EPA–454/R–99–010.
+EPA, (1999b) Guideline for Developing an
+Ozone Forecasting Program, U.S.
+Environmental Protection Agency, Office
+of Air Quality Planning and Standards,
+Research Triangle Park, NC, 27711, EPA–
+454/R–99–009.
+EPA, (1999c) The Air Quality Index, U.S.
+Environmental Protection Agency, Office
+of Air Quality Planning and Standards,
+Research Triangle Park, NC, 27711, in
+preparation.
+Science Applications International
+Corporation, (1998) Report of Eight
+Focus Groups on the Ozone Map, the
+Pollutant Standards Sub-index for
+Ozone, and the Ozone Health Effects
+Booklet, Science Applications
+International Corporation, McLean, VA.
+U.S. Department of Commerce, (1998)
+Statistical Abstract of the United States,
+U.S. Bureau of the Census.
+Whitfield, R.G.; Biller, W.F.; Jusko, M.J.;
+Keisler, JM (1996) A probabilistic
+assessment of health risks associated
+with short-term exposure to tropospheric
+ozone. Report prepared for U.S. EPA,
+OAQPS. Argonne National Laboratory;
+Argonne, IL.
+Wolff, G.T., (1995) Letter from Chairman of
+the Clean Air Scientific Advisory
+Committee to the EPA Administrator,
+dated November 30, 1995. EPA–SAB–
+CASAC–LTR–96–002.
+List of Subjects in 40 CFR Part 58
+Environmental protection, Air
+pollution control, Intergovernmental
+relations, Reporting and recordkeeping
+requirements.
+Dated: July 23, 1999.
+Carol M. Browner,
+Administrator.
+Accordingly, 40 CFR part 58 is
+amended as follows:
+PART 58—AMBIENT AIR QUALITY
+SURVEILLANCE
+1. The authority citation for part 58
+continues to read as follows:
+Authority: 42 U.S.C. 7410, 7601(a), 7613,
+and 7619.
+2. Section 58.50 is revised to read as
+follows:
+§ 58.50
+Index reporting.
+(a) The State shall report to the
+general public through prominent notice
+an air quality index in accordance with
+the requirements of appendix G to this
+part.
+(b) Reporting is required by all
+Metropolitan Statistical Areas with a
+population exceeding 350,000.
+(c) The population of a Metropolitan
+Statistical Area for purposes of index
+reporting is the most recent decennial
+U.S. census population.
+3. Appendix G to part 58 is revised to
+read as follows:
+Appendix G to Part 58—Uniform Air
+Quality Index (AQI) and Daily
+Reporting
+General Requirements
+1. What is the AQI?
+2. Why report the AQI?
+3. Must I report the AQI?
+4. What goes into my AQI report?
+5. Is my AQI report for my MSA only?
+6. How do I get my AQI report to the
+public?
+7. How often must I report the AQI?
+8. May I make exceptions to these reporting
+requirements?
+Calculation
+9. How does the AQI relate to air pollution
+levels?
+10. Where do I get the pollutant
+concentrations to calculate the AQI?
+11. Do I have to forecast the AQI?
+12. How do I calculate the AQI?
+Background and Reference Materials
+13. What additional information should I
+know?
+General Requirements
+1. What Is the AQI?
+The AQI is a tool that simplifies reporting
+air quality to the general public. The AQI
+incorporates into a single index
+concentrations of 5 criteria pollutants: ozone
+(O3), particulate matter (PM), carbon
+monoxide (CO), sulfur dioxide (SO2), and
+nitrogen dioxide (NO2). The scale of the
+index is divided into general categories that
+are associated with health messages.
+2. Why Report the AQI?
+The AQI offers various advantages:
+a. It is simple to create and understand.
+b. It conveys the health implications of air
+quality.
+c. It promotes uniform use throughout the
+country.
+3. Must I Report the AQI?
+You must report the AQI daily if yours is
+a metropolitan statistical area (MSA) with a
+population over 350,000.
+4. What Goes Into My AQI Report?
+i. Your AQI report must contain the
+following:
+a. The reporting area(s) (the MSA or
+subdivision of the MSA).
+b. The reporting period (the day for which
+the AQI is reported).
+c. The critical pollutant (the pollutant with
+the highest index value).
+d. The AQI (the highest index value).
+e. The category descriptor and index value
+associated with the AQI and, if you choose
+to report in a color format, the associated
+color. Use only the following descriptors and
+colors for the six AQI categories:
+TABLE 1.—AQI CATEGORIES
+For this AQI
+Use this
+descriptor
+And this
+color 1
+0 to 50 ..............
+‘‘Good’’ .............
+Green.
+51 to 100 ..........
+‘‘Moderate’’ .......
+Yellow.
+101 to 150 ........
+‘‘Unhealthy for
+Sensitive
+Groups’’.
+Orange.
+151 to 200 ........
+‘‘Unhealthy’’ ......
+Red.
+201 to 300 ........
+‘‘Very
+Unhealthy’’.
+Purple.
+301 and above
+‘‘Hazardous’’ ....
+Ma-
+roon.1
+1 Specific colors can be found in the most
+recent reporting guidance (Guideline for Public
+Reporting of Daily Air Quality—Air Quality
+Index (AQI)).
+f. The pollutant specific sensitive groups
+for any reported index value greater than 100.
+Use the following sensitive groups for each
+pollutant:
+When this pollutant has an index value above 100 * * *
+Report these sensitive groups * * *
+Ozone .......................................................................................................
+Children and people with asthma are the groups most at risk.
+PM2.5 .........................................................................................................
+People with respiratory or heart disease, the elderly and children are
+the groups most at risk.
+PM10 ..........................................................................................................
+People with respiratory disease are the group most at risk.
+CO .............................................................................................................
+People with heart disease are the group most at risk.
+SO2 ...........................................................................................................
+People with asthma are the group most at risk.
+42548
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+When this pollutant has an index value above 100 * * *
+Report these sensitive groups * * *
+NO2 ...........................................................................................................
+Children and people with respiratory disease are the groups most at
+risk.
+ii. When appropriate, your AQI report may
+also contain the following:
+a. Appropriate health and cautionary
+statements.
+b. The name and index value for other
+pollutants, particularly those with an index
+value greater than 100.
+c. The index values for sub-areas of your
+MSA.
+d. Causes for unusual AQI values.
+e. Actual pollutant concentrations.
+5. Is My AQI Report for My MSA Only?
+Generally, your AQI report applies to your
+MSA only. However, if a significant air
+quality problem exists (AQI greater than 100)
+in areas significantly impacted by your MSA
+but not in it (for example, O3 concentrations
+are often highest downwind and outside an
+urban area), you should identify these areas
+and report the AQI for these areas as well.
+6. How Do I Get My AQI Report to the Public?
+You must furnish the daily report to the
+appropriate news media (radio, television,
+and newspapers). You must make the daily
+report publicly available at one or more
+places of public access, or by any other
+means, including a recorded phone message,
+a public Internet site, or facsimile
+transmission. When the AQI value is greater
+than 100, it is particularly critical that the
+reporting to the various news media be as
+extensive as possible. At a minimum, it
+should include notification to the media with
+the largest market coverages for the area in
+question.
+7. How Often Must I Report the AQI?
+You must report the AQI at least 5 days per
+week. Exceptions to this requirement are in
+section 8 of this appendix.
+8. May I Make Exceptions to These Reporting
+Requirements?
+i. If the index value for a particular
+pollutant remains below 50 for a season or
+year, then you may exclude the pollutant
+from your calculation of the AQI in section
+12.
+ii. If all index values remain below 50 for
+a year, then you may report the AQI at your
+discretion. In subsequent years, if pollutant
+levels rise to where the AQI would be above
+50, then the AQI must be reported as
+required in sections 3, 4, 6, and 7 of this
+appendix.
+Calculation
+9. How Does the AQI Relate to Air Pollution
+Levels?
+For each pollutant, the AQI transforms
+ambient concentrations to a scale from 0 to
+500. The AQI is keyed as appropriate to the
+national ambient air quality standards
+(NAAQS) for each pollutant. In most cases,
+the index value of 100 is associated with the
+numerical level of the short-term standard
+(i.e., averaging time of 24-hours or less) for
+each pollutant. Different approaches are
+taken for NO2, for which no short-term
+standard has been established, and for PM2.5,
+for which the annual standard is the
+principal vehicle for protecting against short-
+term concentrations. The index value of 50
+is associated with the numerical level of the
+annual standard for a pollutant, if there is
+one, at one-half the level of the short-term
+standard for the pollutant, or at the level at
+which it is appropriate to begin to provide
+guidance on cautionary language. Higher
+categories of the index are based on
+increasingly serious health effects and
+increasing proportions of the population that
+are likely to be affected. The index is related
+to other air pollution concentrations through
+linear interpolation based on these levels.
+The AQI is equal to the highest of the
+numbers corresponding to each pollutant.
+For the purposes of reporting the AQI, the
+sub-indexes for PM10 and PM2.5 are to be
+considered separately. The pollutant
+responsible for the highest index value (the
+reported AQI) is called the ‘‘critical’’
+pollutant.
+10. Where Do I Get the Pollutant
+Concentrations To Calculate the AQI?
+You must use concentration data from
+population-oriented State/Local Air
+Monitoring Station (SLAMS) or parts of the
+SLAMS required under 40 CFR 58.20 for
+each pollutant except PM. For PM, you need
+only calculate and report the AQI on days for
+which you have measured air quality data
+(e.g., particulate monitors often report values
+only every sixth day). You may use
+particulate measurements from monitors that
+are not reference or equivalent methods (for
+example, continuous PM10 or PM2.5 monitors)
+if you can relate these measurements by
+statistical linear regression to reference or
+equivalent method measurements.
+11. Do I Have to Forecast the AQI?
+You should forecast the AQI to provide
+timely air quality information to the public,
+but this is not required. If you choose to
+forecast the AQI, then you may consider both
+long-term and short-term forecasts. You can
+forecast the AQI at least 24-hours in advance
+using the most accurate and reasonable
+procedures considering meteorology,
+topography, availability of data, and
+forecasting expertise. The document
+‘‘Guideline for Developing an Ozone
+Forecasting Program’’ (the Forecasting
+Guidance) will help you start a forecasting
+program. You can also issue short-term
+forecasts by predicting 8-hour ozone values
+from 1-hour ozone values using methods
+suggested in the Reporting Guidance,
+‘‘Guideline for Public Reporting of Daily Air
+Quality.’’
+12. How Do I Calculate the AQI?
+i. The AQI is the highest value calculated
+for each pollutant as follows:
+a. Identify the highest concentration among
+all of the monitors within each reporting area
+and truncate the pollutant concentration to
+one more than the significant digits used to
+express the level of the NAAQS for that
+pollutant. This is equivalent to the rounding
+conventions used in the NAAQS.
+b. Using Table 2, find the two breakpoints
+that contain the concentration.
+c. Using Equation 1, calculate the index.
+d. Round the index to the nearest integer.
+TABLE 2.—BREAKPOINTS FOR THE AQI
+These breakpoints
+Equal these AQIs
+* * *
+Category
+O3 (ppm)
+8-hour
+O3 (ppm)
+1-hour 1
+PM2.5
+(µg/m3)
+PM10
+(µg/m3)
+CO (ppm)
+SO2 (ppm)
+NO2 (ppm)
+AQI
+0.000–0.064 .............
+......................
+0.0–15.4
+0–54
+0.0–4.4
+0.000–0.034
+( 2)
+0–50
+Good.
+0.065–0.084 .............
+......................
+15.5–40.4
+55–154
+4.5–9.4
+0.035–0.144
+( 2)
+51–100 Moderate.
+0.085–0.104 .............
+0.125–0.164
+40.5–65.4
+155–254
+9.5–12.4
+0.145–0.224
+( 2)
+101–150 Unhealthy for sen-
+sitive groups.
+0.105–0.124 .............
+0.165–0.204
+4 65.5–150.4
+255–354
+12.5–15.4
+0.225–0.304
+( 2)
+151–200 Unhealthy.
+0.125–0.374 .............
+0.205–0.404
+4 150.5–250.4
+355–424
+15.5–30.4
+0.305–0.604
+0.65–1.24
+201–300 Very unhealthy.
+( 3) ............................
+0.405–0.504
+4 250.5–350.4
+425–504
+30.5–40.4
+0.605–0.804
+1.25–1.64
+301–400
+( 3) ............................
+0.505–0.604
+4 350.5–500.4
+505–604
+40.5–50.4
+0.805–1.004
+1.65–2.04
+401–500 Hazardous.
+1 Areas are generally required to report the AQI based on 8-hour ozone values. However, there are a small number of areas where an AQI
+based on 1-hour ozone values would be more precautionary. In these cases, in addition to calculating the 8-hour ozone index value, the 1-hour
+ozone index value may be calculated, and the maximum of the two values reported.
+42549
+Federal Register / Vol. 64, No. 149 / Wednesday, August 4, 1999 / Rules and Regulations
+2 NO2 has no short-term NAAQS and can generate an AQI only above an AQI value of 200.
+3 8-hour O3 values do not define higher AQI values (≥ 301). AQI values of 301 or higher are calculated with 1-hour O3 concentrations.
+4 If a different SHL for PM2.5 is promulgated, these numbers will change accordingly.
+ii. If the concentration is equal to a
+breakpoint, then the index is equal to the
+corresponding index value in Table 2.
+However, Equation 1 can still be used. The
+results will be equal. If the concentration is
+between two breakpoints, then calculate the
+index of that pollutant with Equation 1. You
+must also note that in some areas, the AQI
+based on 1-hour O3 will be more
+precautionary than using 8-hour values (see
+footnote 1 to Table 2). In these cases, you
+may use 1-hour values as well as 8-hour
+values to calculate index values and then use
+the maximum index value as the AQI for O3.
+I
+I
+I
+BP
+BP
+C
+BP
+I
+p
+Hi
+Lo
+HI
+Lo
+p
+Lo
+Lo
+=
+−
+−
+−
+(
+) +
+(Equation 1)
+Where:
+Ip = the index value for pollutantp
+Cp = the truncated concentration of
+pollutantp
+BPHi = the breakpoint that is greater than or
+equal to Cp
+BPLo = the breakpoint that is less than or
+equal to Cp
+IHi = the AQI value corresponding to BPHi
+Ilo = the AQI value corresponding to BPLo.
+iii. If the concentration is larger than the
+highest breakpoint in Table 2 then you may
+use the last two breakpoints in Table 2 when
+you apply Equation 1.
+Example
+iv. Using Table 2 and Equation 1, calculate
+the index value for each of the pollutants
+measured and select the one that produces
+the highest index value for the AQI. For
+example, if you observe a PM10 value of 210
+µg/m3, a 1-hour O3 value of 0.156 ppm, and
+an 8-hour O3 value of 0.130 ppm, then do
+this:
+a. Find the breakpoints for PM10 at 210 µg/
+m3 as 155 µg/m3 and 254 µg/m3,
+corresponding to index values 101 and 150;
+b. Find the breakpoints for 1-hour O3 at
+0.156 ppm as 0.125 ppm and 0.164 ppm,
+corresponding to index values 101 and 150;
+c. Find the breakpoints for 8-hour O3 at
+0.130 ppm as 0.125 ppm and 0.374 ppm,
+corresponding to index values 201 and 300;
+d. Apply Equation 1 for 210 µg/m3, PM10:
+150
+101
+254
+155 210
+155
+101
+128
+−
+−
+−
+(
+) +
+=
+.
+e. Apply Equation 1 for 0.156 ppm, 1-hour
+O3:
+150
+101
+0164
+0125 0156
+0125
+101
+140
+−
+−
+−
+(
+) +
+=
+.
+.
+.
+.
+f. Apply Equation 1 for 0.130 ppm, 8-hour
+O3:
+300
+201
+0 374
+0125 0130
+0125
+201
+203
+−
+−
+−
+(
+) +
+=
+.
+.
+.
+.
+g. Find the maximum, 203. This is the AQI.
+The minimal AQI report would read:
+v. Today, the AQI for my city is 203 which
+is very unhealthy, due to ozone. Children
+and people with asthma are the groups most
+at risk.
+Background and Reference Materials
+13. What Additional Information Should I
+Know?
+The EPA has developed a computer
+program to calculate the AQI for you. The
+program works with Windows 95, it prompts
+for inputs, and it displays all the pertinent
+information for the AQI (the index value,
+color, category, sensitive group, health
+effects, and cautionary language). The EPA
+has also prepared a brochure on the AQI that
+explains the index in detail (The Air Quality
+Index), Reporting Guidance (Guideline for
+Public Reporting of Daily Air Quality) that
+provides associated health effects and
+cautionary statements, and Forecasting
+Guidance (Guideline for Developing an
+Ozone Forecasting Program) that explains the
+steps necessary to start an air pollution
+forecasting program. You can download the
+program and the guidance documents at
+www.epa.gov/airnow.
+[FR Doc. 99–19433 Filed 8–3–99; 8:45 am]
+BILLING CODE 6560–50–P

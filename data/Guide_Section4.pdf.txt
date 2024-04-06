@@ -1,0 +1,2237 @@
+HEALTH IMPACTS OF CLIMATE CHANGE
+Health Impacts of 
+Climate Change
+Climate change threatens the fundamentals that sustain life and health—fresh water, food, clean air, 
+shelter, and security—and thus threatens the health and possibly the very survival of the communities 
+that local health departments serve. Climate change is a global phenomenon, but it is people 
+and communities at the local level that experience its consequences. Climate change exacerbates 
+local and global health inequities because some people and communities bear an unfair burden 
+of these health harms, including low-income communities, communities of color, native and tribal 
+communities, the very young and very old, and those with chronic illnesses. This Section provides an 
+overview of the health impacts of climate change.
+APHA, Climate Nexus 2016
+22
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+4.1 Extreme Heat
+The CDC deﬁnes extreme heat as “summertime temperatures that are substantially hotter and/or 
+more humid than average for that location at that time of year.”1 Climate change increases extreme 
+heat exposure.
+Climate Change Worsens Extreme Heat
+• 
+Seventeen of the country’s eighteen warmest years on record have occurred since 2001.2
+•
+In 2017, periods of extreme heat broke state records throughout the summer and fall. Every state had an 
+annual average temperature that was warmer than usual.3 Arizona, Georgia, New Mexico, North Carolina, 
+and South Carolina had the warmest year on record.4 There has been a dramatic increase in hot night-
+time temperatures in the U.S., reducing critical hours of relief during heat waves.5
+• 
+Different regions of the U.S. are expected to see varying levels of temperature increase due to climate 
+change; average temperature is projected to increase by 3–5°F by the mid-2030s and 2.8–10.8°F by the 
+end of the century.6 See Figure 4.1.1.
+Figure 4.1.1: Projected change in average surface air temperature from 2071 to 2099 
+relative to 1970–1999 temperatures under a scenario that assumes substantial reductions 
+in GHGE (B1) and a higher emissions scenario that assumes continued increases in global 
+GHGE (A2)7
+23
+HEALTH IMPACTS OF CLIMATE CHANGE
+APHA, Climate Nexus 2016
+24
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Health Impacts of Extreme Heat
+Heat already causes more deaths than any other natural disaster.8  
+• 
+From 1999–2010, 7,415 people died from heat-related illness in the U.S., an average of 618 per year.9 
+Extreme heat results in excess death and illness through heat stroke, heat exhaustion, and exacerbation of 
+chronic illness. In addition, heat exposure triggers multiple physiological mechanisms that cause damage 
+to the brain, heart, intestines, kidneys, liver, lungs, and pancreas.10 
+• 
+Increased ozone levels from extreme heat exacerbate asthma, respiratory disease, and cardiovascular 
+disease.11  
+• 
+Heat stress and associated dehydration can exacerbate renal disease and may be linked to new epidemics 
+of chronic kidney disease.12 
+• 
+Exposure to extreme heat impacts mental health through increased incidence of disease, death, violence, 
+aggression, suicide and higher rates of admission for those with a psychiatric condition. Persons with 
+mental illness may have triple the risk of death during a heat wave.13 In the U.S., there is an association 
+between periods of extreme heat and increased rates of violent crimes in cities.14  
+• 
+Some medications are sensitive to heat and may lose effectiveness or cause harmful side effects when 
+exposed to heat.15 Other medications alter individual tolerance to extreme heat, increasing the risk of  
+heat illness.16 
+• 
+Heat waves contribute to crop and livestock loss, resulting in rising food prices and increased food 
+insecurity.17,18   
+Extreme Heat and Health Equity
+• 
+Urban heat islands: Low income and communities of color are more likely to be located in “urban heat 
+islands”—dense urban areas with fewer trees, less green space, more buildings, higher energy use, and 
+more impervious asphalt and concrete. These characteristics create urban heat islands where nighttime 
+temperatures may be as much as 22°F higher than surrounding areas. These vulnerabilities often map 
+onto areas of historical residential segregation.19 
+• 
+Race and ethnicity: As of 2013, African Americans were 52% more likely, Asian Americans 32% more 
+likely, and Hispanics 21% more likely to live in heat vulnerable areas of the U.S. compared with non-
+Hispanic Whites.20  
+• 
+Rural communities: The risk of heat-related mortality may be about 3% higher in rural areas when 
+compared to urban areas, potentially linked with less access to health care services, greater proportions 
+of elderly people, many outdoor occupations, fewer media to share heat information, and less access to 
+air conditioning and transportation.21  
+• 
+Working conditions: Outdoor farmworkers are at greater risk of exposure to extreme heat, and 
+from 1992–2006, heat-related deaths were 20 times higher among crop workers than the general U.S. 
+population.22 Occupational heat stress and chronic dehydration may lead to chronic kidney disease in 
+outdoor workers.23 
+25
+HEALTH IMPACTS OF CLIMATE CHANGE
+LHD Spotlight: 
+Cooling Centers in Maricopa County, Arizona 
+In 2005, 35 individuals died over a 9-day period of extreme heat in Maricopa County.29 MCDPH 
+partnered with the Arizona Department of Health Services and Arizona State University to evaluate 
+community access to and perceptions of cooling centers by surveying facility visitors and managers 
+and observing use during an extreme heat event. 
+There are 58 private and public cooling centers in Maricopa County—locations that are air-
+conditioned or cooled and have been designated as a site individuals can go to during heat 
+events.30 The evaluation found that many cooling centers were open only on weekdays, primarily in 
+community centers, senior centers, and religious institutions without clear or visible signs notifying 
+the public of the availability of a cooling center.31 Eighty-four percent of visitors were unemployed, 
+33% had no permanent residence, and 11% of those who indicated a permanent residence had no 
+air conditioning at their place of living.32  
+Maricopa County subsequently developed a Heat Relief Regional Network—a partnership of 
+municipalities, nonproﬁt organizations, and faith-based organizations—to mitigate heat health 
+risks. The Network maintains a list of cooling centers and services on available maps and hosts 
+trainings on heat illness prevention for facility managers.33
+• 
+Social isolation: Social, cultural, and linguistic isolation are all risk factors for heat illness.24 In the 
+European heat wave of 2003, elders living alone had the highest mortality rates.25  
+• 
+Physical or cognitive impairments: Limited mobility increases the risk of isolation, and the ability to 
+move to a cooler location. Cognitive impairment may limit the ability to recognize risk or seek assistance 
+during an extreme heat event.
+• 
+Age: The very young and the elderly are less able to sense and adapt to changes in temperature, due to 
+limitations in body temperature regulation.
+• 
+Chronic Illness: Those with conditions such as obesity, diabetes or renal, cardiovascular and respiratory 
+diseases are at higher risk of heat illness, including exacerbation of complications related to their 
+underlying illness.26 
+• 
+Air Conditioning Access: A 2005 study found that African American households had 5.3% higher heat-
+related mortality rate than White households, and had half the access to central AC.27 
+• 
+Evolving Extreme Heat Geography: People living in some regions of the U.S., such as coastal 
+communities, may be especially vulnerable to extreme heat because they are not currently acclimatized 
+to increased temperatures but will experience increased high heat days.28   
+26
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+What Local Health Departments Can Do 
+See Sections 6—Programs and 7—Functions
+Assessment and Surveillance
+• 
+Conduct a heat vulnerability assessment for your jurisdiction:
+ 
+Use available data to identify and map vulnerable populations, neighborhoods with 
+characteristics that increase temperatures, and the location and availability of cooling centers. 
+ 
+Share this information with partners including health care providers and institutions, community 
+based organizations, schools, emergency management agencies, and social services agencies.
+ 
+Share this information with residents and community-based organizations to foster awareness of 
+heat illness prevention and to elicit suggestions for steps the community and local agencies might 
+take to address heat vulnerability.
+ 
+Use the heat vulnerability assessment to demonstrate the need for preferential greening in tree 
+and park poor neighborhoods, urban heat islands, and areas with high numbers of people with 
+individual or household risk factors for heat illness.
+• 
+Initiate heat illness syndromic surveillance and partner with local health care facilities to implement 
+reporting on heat-related illness (See the Section 7.1—Surveillance).
+World Health Organization’s 
+Core Elements of Heat–Health Action Plans43
+1. Agreement on a lead body to coordinate a multi-purpose collaborative mechanism between 
+bodies and institutions and to direct the response if an emergency occurs.
+2. Accurate and timely alert systems.  
+3. A heat-related health information plan (what is communicated, to whom and when). 
+4. A reduction in indoor heat exposure, including medium- and short-term strategies and advice 
+on how to keep indoor temperatures low during heat episodes. 
+5.
+Particular care for vulnerable population groups. 
+6. Preparedness of the health- and social-care systems (staff training and planning, appropriate 
+health care and the physical environment). 
+7. Long-term urban planning to address building design and energy and transport policies that 
+will ultimately reduce heat exposure. 
+8. Real-time surveillance and evaluation.
+27
+HEALTH IMPACTS OF CLIMATE CHANGE
+Intersectoral Collaboration 
+Collaborate with parks, public works, sustainability ofﬁces, and community groups to support and fund the 
+expansion of green space and green infrastructure that reduces ambient temperatures and provides access to 
+cooler spaces, including tree canopy, parks, water features, and urban streams. 
+• 
+Ensure preferential planting of less allergenic trees and plants.34 
+• 
+Implement cool and green roofs programs and support related rebates for homes and businesses.35  
+Following are example recommendations for intragency initiatives to combat heat:
+• 
+Provide shading for transit stops, bike lanes, and sidewalks; provide access to cooling buses by working 
+with transit agencies and public works.36 
+• 
+Collaborate with law enforcement and emergency services to train police and ﬁrst responders to 
+recognize heat-related illness in vulnerable populations and ensure that heat response plan includes 
+strategies to reach homebound individuals.
+• 
+Ensure that local codes require facilities such as assisted-living establishments monitor and automate air-
+cooling systems to remain within comfortable temperatures in all living and communal areas.37  
+• 
+Establish relationships with local OSHA ofﬁcials and employers to ensure that outdoor workers and 
+others vulnerable to heat are informed, and that employers are aware of their responsibilities to prevent 
+occupational heat-related illness, especially providing plenty of drinking water, shaded cool areas, and 
+extended breaks for workers.38 Adjust work schedules to reduce physical demands during the hottest 
+times of day.39 
+• 
+Use home visits to assess housing conditions and vulnerability of household members, provide 
+heat health information, and make referrals to social service agencies and programs that provide 
+ﬁnancial support (rebates, bill-paying subsidies) for services that could prevent heat-related illness (air 
+conditioning, tree planting, weatherization).
+ 
+Work with utilities and other agencies to inform residents about and ensure enforcement of 
+“disconnection rules” that prohibit electricity cut-offs.40 
+ 
+Connect clients and communities to resources for ﬁnancial support in coping with heat, such as 
+Low-Income Home Energy Assistance Program (LIHEAP).41 
+• 
+Work with housing and social service agencies to integrate extreme heat assessments and education into 
+home visiting programs.
+Prepare for Extreme Heat Events
+Implement early warning systems for extreme heat events by collaborating with local weather forecasters to use a 
+standard terminology for heat health and agree on the threshold used. In addition, consider the following:
+• 
+Broadcast extreme heat conditions with information on preventing heat illness, checking on neighbors 
+and family members, and access to cooling centers.
+• 
+Set up a phone line and webpage in multiple languages with information on cooling centers and heat 
+illness prevention. Ask the media to publicize these outlets.
+28
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Extreme Heat Warning in Death Valley 
+Graeme Maclean, 2014
+Outdoor Farmworkers
+Andrew Reding, 2012 
+• 
+Contact local facilities that serve vulnerable populations (e.g. nursing homes, senior centers, schools and 
+child care providers, homeless services) to ensure protocols for extreme heat are in place and facilities are 
+prepared for activation.
+• 
+Establish and evaluate cooling centers to assess the availability of cooling centers and cool sites in your 
+jurisdiction. Ensure there is adequate outreach to communities and vulnerable populations informing 
+them of facilities and cooling sites open during extreme heat events. 
+ 
+Work with public agencies and local businesses to make more air conditioned spaces available 
+for extended hours during extreme heat events and make sure that cooling site facilities have 
+adequate power to continue air conditioning. 
+ 
+Survey visitors and facility managers of cooling centers to evaluate services, utilization, capacity, 
+and accessibility, including via public transit.42 
+Community Engagement and Education
+Integrate climate change in materials and media messages for the public to increase awareness that climate 
+change is a health issue. Here is an advisory from a webpage warning of extreme heat and health issues:
+Extreme Heat
+Original: Hot and humid summer weather can cause heat illness and even death. More 
+Americans die from heat waves than all other natural disasters combined.44
+Modiﬁed: Hot and humid summer weather can cause heat illness and even death. As 
+climate change causes increasing temperatures around the world, our area can expect to 
+experience more heat events like this. More Americans die from heat waves than all other 
+natural disasters combined.
+ 
+29
+HEALTH IMPACTS OF CLIMATE CHANGE
+• 
+Conduct public awareness campaigns in multiple languages and via various media to educate 
+communities about strategies to reduce neighborhood heat and prevention of heat illness. See the CDC’s 
+Tips for Preventing Heat Illness for more information.45  
+• 
+Inform clients to check with their doctor about medications that increase the risk of heat illness 
+(e.g. psychotropic medications, diuretics, tranquilizers, some medications for Parkinson’s disease) and 
+whether prescribed medications (e.g. insulin) may lose effectiveness if exposed to high temperatures. See 
+Polk County, Iowa’s medications and heat handout for an example.46  
+• 
+Educate local clinicians on the health impacts of heat and how they can protect patients and community 
+health during extreme heat, and provide materials for patient waiting rooms. See A Physician’s Guide on 
+Climate Change, Health and Equity. 
+For More Information
+• 
+CDC Extreme Heat Preparedness: 
+ 
+English site and materials 
+ 
+Spanish site and materials 
+• 
+US EPA Heat Island Effect Website 
+• 
+US Climate and Health Assessment, Chapter 2: Temperature-Related Death and Illness
+• 
+APHA and CDC’s Extreme Heat Can Impact Our Health in Many Ways 
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+From Surveillance  
+to Engagement: Maricopa 
+County Department of 
+Public Health 
+Maricopa County Department of Public Health (MCDPH) engaged with diverse partners to host a series of 
+workshops, Bridging Climate Change and Public Health, elevating the health and equity impacts of climate 
+change for numerous partners. 
+Maricopa County might be considered “heat central” in the U.S. Phoenix, the largest city in the county, has 
+an average of 110 days with temperatures over 100°F and 19 days over 110°F. Average daily temperatures in 
+the Southwest are projected to rise 2.5–8°F by 2100. Maricopa County Department of Public Health (MCDPH) 
+conducts surveillance of heat illness, including syndromic surveillance. From 2006 to 2014, Maricopa County 
+experienced 691 heat-associated deaths. A 2015 rapid epidemiologic assessment of households revealed that 
+although 95% of residents have central air conditioning, high electricity and maintenance costs prevent many 
+from using it. 
+MCDPH maintains public cooling centers and hydration stations throughout heat season, and partners with 
+community organizations to promote their use and warn the public about heat risks. Although the 2015 Maricopa 
+County Multi-Jurisdictional Hazard Mitigation Plan identiﬁed the likelihood of increased intensity and duration of 
+extreme heat days due to climate change, MCDPH did not refer to climate change in its public communications 
+on heat. 
+MCDPH recognized that the homebound population is exceptionally vulnerable to extreme heat, and in early 
+2016 launched a project to assess their needs. In partnership with the Area Agency on Aging, the City of 
+Phoenix Home Delivered Meals program, Arizona State University (ASU), and Maricopa County Human Services 
+Department, MCDPH created a survey that was distributed to homebound individuals by meal delivery staff. 
+Of the 1300 surveys distributed, 472 people responded. The survey identiﬁed the need to increase awareness of 
+heat-related services, simplify the process for obtaining services, and make transportation to cooling centers more 
+accessible for homebound individuals.
+From Surveillance to Community Engagement
+In November 2016, MCDPH convened a wide array of stakeholders for the ﬁrst “Bridging Climate Change and 
+Public Health” summit. MCDPH presented the results of the homebound survey and information on impacts 
+of climate change on extreme heat and health. With 45 participating organizations, it set the stage for further 
+discussion about collaborative efforts to address the challenges of climate change. Staff found a very high level 
+of receptivity to the discussion. “Most importantly, we no longer hesitate to use the term climate change—it has 
+proven to be much more acceptable in our community than we had anticipated.”
+31
+HEALTH IMPACTS OF CLIMATE CHANGE
+Following a second summit in May 2017, 
+MCDPH convened stakeholders to develop a 
+formal Bridging Climate Change and Public 
+Health Strategic Plan for Maricopa County. In 
+a series of three meetings, community partners 
+identiﬁed ﬁve strategic directions, including:
+• 
+Celebrate incremental success and 
+climate and health champions.
+• 
+Promote community awareness and 
+public education about climate and 
+health.
+• 
+Foster environmental and climate 
+action for a healthier community.
+• 
+Coordinate research and collaborative 
+efforts to catalyze change.
+• 
+Develop a strategic and targeted 
+communication plan. 
+Future Work
+MCPDH has received funding from the Arizona 
+Department of Health Services Building 
+Resilience Against Climate Effects (BRACE) 
+program that will be used to implement the 
+ﬁrst Strategic Plan action step. Celebrating 
+Success and Champions, will recognize Climate 
+and Health Champions—local youth, citizens, 
+schools, organizations, or businesses that are 
+implementing sustainable solutions and/or 
+ecofriendly practices or policies that promote 
+health in the face of climate change. MCDPH 
+sees the recognition of positive action as one 
+more way to spread awareness about climate 
+and health in Maricopa County. 
+Learn More
+• 
+Bridging Climate Change and Public 
+Health Strategic Plan
+• 
+Bridging Climate Change and  
+Public Health 
+• 
+Maricopa County Heat Surveillance 
+• Conduct surveillance on climate-related 
+health impacts.
+• Identify a vulnerable population of 
+focus and work with diverse partners to 
+more effectively reach that population, 
+including assessing climate-related health 
+needs. 
+• Utilize surveillance results to engage the 
+public on climate and health. 
+• Host a summit or workshop to talk about 
+climate, health, and equity connections; 
+provide a structure for community and 
+stakeholder input to identify actions to 
+protect health.
+• Develop a Climate and Health Strategic 
+Plan with other local agencies and 
+stakeholders. 
+Key Action Steps:
+32
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+4.2 Drought
+Climate Change Increases Drought Frequency and Intensity 
+Drought is a deﬁciency of rainfall over a period of time, resulting in a water shortage for some activity, group, or 
+environmental sector.1 Climate change is increasing the frequency, severity, and duration of droughts: A NASA 
+analysis found that, with current greenhouse gas emission trends, the Southwest and Central Plains of the U.S. 
+have an 80% likelihood of megadroughts that could last decades between the years 2050 and 2099 (Figure 4.2.1).2 
+ 
+•
+With emissions cuts, the chance of megadroughts in these regions decreases to 60%.3
+• 
+While the U.S. Dust Bowl in the 1930s lasted a decade, NASA analyses have found that future droughts 
+throughout the U.S. may last at least 30 to 35 years, resulting in the driest periods of these regions in the 
+last 1,000 years.4,5   
+• 
+Water consumption and withdrawal of water from surface and underground water aquifers is increasing, 
+and leading to greater pressure on limited water resources.6  
+Figure 4.2.1: Soil moisture 30 cm below ground projected through 2095 for high emissions 
+scenario RCP 8.7 
+33
+HEALTH IMPACTS OF CLIMATE CHANGE
+2013 Drought in Texas
+Bob Nichols, USDA, 2013 
+Extensive Tree Die-Off in Sierra National Forest Wildland Urban Interface 
+U.S. Forest Service, Paciﬁc Southwest Region 5, 2016
+Health Impacts of Drought
+People need water to drink, cook, grow food, and for sanitation and hygiene. Severe drought may reduce water 
+access (including through strict conservation measures) so that water for these purposes is limited. Drought can 
+cause these health risks:
+• 
+Lower crop yields and increased crop loss contribute to rising food prices and amplify food insecurity, 
+associated with increased risk of chronic diseases.8  
+• 
+The affects of drought on physical health, food security, economic livelihood, social stability, and forced 
+migration can have serious mental health impacts.9 
+• 
+Drought can increase the concentration of industrial chemicals, heavy metals, and agriculture runoff 
+contaminants in groundwater, increasing the risk of toxic exposure if communities increase reliance on 
+groundwater sources as surface water diminishes. 
+• 
+As communities draw on groundwater, land sinking puts infrastructure like roads, aqueducts and levees 
+at risk of permanent damage.10  
+• 
+Drought increases over-pumping of groundwater that contributes to seawater intrusion and increased 
+groundwater salinity11 (See Section 4.6—Sea Level Rise).
+• 
+Dry vegetation and increased heat from drought are associated with more frequent wildﬁres, which have 
+widespread health impacts (See Section 4.3—Wildﬁres).12  
+• 
+Drought increases the risk of infectious and vector-borne disease. The risk of Valley Fever increases 
+as soil dries out and dust is dispersed in the air.13 Due to increased household water collection during 
+drought, increased pools of stagnant water in storm water and sewer pipes can bring mosquitoes closer 
+to human populations and increase vector-borne disease transmission.14 As animals seek water, they and 
+the insects they host may move closer to where people live, increasing the likelihood of human exposures 
+(See Section 6.2—Infectious Disease).15
+• 
+Due to crop loss and lower yields, drought can cause displacement and mass migration for agriculture 
+workers. By 1940, the Dust Bowl had forced 2.5 million people out of the Plains states.16  
+34
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Drought and Health Equity 
+• 
+Poverty: Those with limited ﬁnancial resources are vulnerable to food and water insecurity from rising 
+food and water prices associated with drought and crop loss.17 
+• 
+Agricultural Workers: Farmers and communities are more vulnerable to the adverse economic impacts 
+of drought, and to the mental health impacts.18  
+• 
+Rural Communities: Poor rural communities are disproportionately reliant on small water systems or 
+private drinking water wells, and thus at increased risk of water shortages or exposure to contaminated 
+well water.19 
+• 
+Tribal Communities: Native communities are already facing impacts of long-term drought on their 
+agriculture and livestock, springs, medicinal and culturally important plants, and drinking water 
+supplies.20 Native communities are more likely to lack access to clean, potable drinking water than other 
+groups in the U.S.21 
+• 
+Chronic Illness: Lack of safe drinking water can exacerbate pre-existing renal disease.22 Food insecurity is 
+associated with higher risks of chronic illness such as diabetes and hypertension (See Section 4.8—Food 
+Security).
+• 
+Race and Ethnicity: African American and Filipino populations are at increased risk of contracting dust-
+related Coccidioidomycosis (Valley fever).23 Eighty percent of U.S. farmworkers identify as Hispanic, and 
+this group is more vulnerable to economic impacts of extended periods of drought.24 
+What Local Health Departments Can Do 
+See Sections 6—Programs and 7—Functions
+Assessment and Surveillance
+• 
+Work with water utilities and other agencies to conduct a drought vulnerability assessment.33 
+ 
+Assess climate impacts on likelihood of drought, the projected impact on agriculture/farming, 
+inventory of well owners, community water sources, water pricing, and water insecurity.
+ 
+Identify vulnerable populations and community assets.
+ 
+Monitor water price increases and assess impacts on low-income residents.
+ 
+Scale mosquito monitoring to correspond to changes in precipitation and identify where nesting 
+sites may proliferate due to drought.
+ 
+Increase groundwater and surface water quality monitoring during drought for increased 
+concentration of contaminants and increased salinity in areas at risk of saltwater incursion.
+• 
+Survey households using the Community Assessment for Public Health Emergency Response (CASPER) 
+methodology to understand the drought’s impact on household water use, water access, conservation 
+behaviors, hygiene, work, budgets, and health to plan programming and response to needs of your 
+jurisdiction (See Section 7.1—Surveillance).34 
+• 
+Enhance monitoring of water quality and contamination during drought.35 
+35
+HEALTH IMPACTS OF CLIMATE CHANGE
+Intersectoral Collaboration 
+• 
+Work with local water agencies/suppliers to develop protocols to ensure that water price increases do not 
+lead to water shutoffs that impact health and well-being. 
+• 
+Work with local water agencies and suppliers to prepare community drinking water delivery plans 
+to supplement drinking and hygiene supplies in vulnerable areas.36 Provide alternate water supplies, 
+including hauled water and bottled water. 
+• 
+Collaborate with parks and recreation, public works, and community groups to support rain water 
+catchment and grey water reuse.
+LHD Spotlight: Understanding the Impacts of Drought 
+in Tulare County, CA25
+Tulare County, California is a rural agricultural community in California’s San Joaquin Valley and 
+may be a harbinger of what increased drought looks like. As the worst California drought in 
+recorded history lingered on, private wells in Tulare County started to run dry. By November 2015, 
+1,308 wells had run dry, affecting over 6,000 residents.26  
+• 
+Thousands of agricultural workers lost their jobs as thousands of acres of farmland were 
+fallowed. 
+• 
+Local food banks and other services were overwhelmed.
+• 
+Local emergency rooms reported a 25% increase in respiratory disease visits.27  
+•
+The community saw a rise in illnesses such as West Nile Virus and Valley Fever and twice the 
+statewide rate of diarrheal disease in 2013.28,29
+• 
+Throughout the county, there were rising levels of stress, anxiety, depression, and other mental 
+health concerns.30  
+To better understand how the drought was impacting communities within its jurisdiction, 
+the Tulare County Health and Human Services (TCHHS) Agency partnered with the California 
+Department of Public Health’s Division of Environmental and Occupational Disease Control to 
+survey residents using the Community Assessment for Public Health Emergency Response (CASPER) 
+methodology. TCHHS representatives went door-to-door within clustered regions of the county 
+to gather responses to a survey assessing 1) household demographics, 2) drought knowledge and 
+practices, 3) water access and use, 4) conservation practices, 5) related employment and health 
+impacts, and 6) emergency communication preferences.31 This informed TCHHS about vulnerable 
+communities in their jurisdiction and how to improve drought-related communications. 
+Many of the residents surveyed were undocumented and were thus afraid to report that their taps 
+had run dry, providing TCHHS with vital information on vulnerability within the community to 
+improve their outreach efforts. In some communities, a third of the households requested Spanish 
+for emergency communications. These surveys highlighted potential entry points for programmatic 
+action, such as improving conservation behaviors or ensuring better hygiene practices.32
+36
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+ 
+Educate community members about safe and healthy water conservation. 
+ 
+Ensure water from community rain barrels is clearly marked for non-potable uses and ensure 
+individuals installing home rainwater systems are informed about safe usage.
+ 
+Promote the use of screens and other mosquito deterrents for water storage vesicles to prevent 
+the spread of mosquito-borne illness.
+• 
+Work with local water agencies to assess permit requests for new wells or requests to dig existing wells 
+deeper to prevent additional draws on local water resources in drought prone areas.37 
+• 
+Support improvement of existing water systems to ensure adequacy of access to safe and clean drinking 
+water, such as: establishing connections to adjacent public water system, replacing or rehabilitating wells, 
+increasing access to temporary treatment systems.
+Prepare for Droughts
+• 
+Prepare for an inﬂux of public health service requests with prolonged drought.38 Anticipate extra 
+resources for vector control.
+• 
+Collaborate across agencies and community groups to build support for initiatives that protect ever more 
+precious water from contamination (e.g. nitrate contamination policies, reducing pesticide use) to reduce 
+the likelihood of enhanced contamination.39 
+Community Engagement and Education
+• 
+Integrate mentions of climate change in materials and media messages for the public, to increase public 
+awareness that climate change is a health issue. Opportunities include public health alerts, health 
+advisory announcements, and educational materials and campaigns related to drought. For example:
+Drought
+Original: Drought can cause signiﬁcant mental health impacts on residents, especially in 
+rural communities that depend upon farming and ranching as a basis of economic support. 
+Risk of stress, depression, suicide, and substance abuse may increase during a drought.40
+Modiﬁed: Drought can cause signiﬁcant mental health impacts on residents, especially in 
+rural communities that depend upon farming and ranching as a basis of economic support. 
+Risk of stress, depression, suicide, and substance abuse may increase during a drought. 
+California is likely to experience extended periods of drought in coming decades due to 
+climate change.
+• 
+Conduct public awareness campaigns—in multiple languages and via various media—and educate clients 
+and communities on the rising risks of drought due to climate change, health risks associated drought, 
+and how to prevent them, including: 
+ 
+Use language-appropriate outreach to inform residents of available drought assistance, including 
+behavioral health, public health, and food assistance services.41  
+37
+HEALTH IMPACTS OF CLIMATE CHANGE
+ 
+Disseminate information on water conservation during routine facilities inspections and  
+home visits.42 
+ 
+Communicate the importance of hand hygiene and educate clients on alternatives that can be 
+used when water is limited.43 
+ 
+Discuss how prolonged drought may increase West Nile Virus incidence and how to avoid 
+transmission: use of insect repellent, clothing, window screens, destruction of breeding habitat, 
+avoiding outdoors during peak hours. 
+ 
+Educate communities on Valley Fever and how to avoid transmission: avoiding areas and 
+activities with high dust exposure (construction or dusty ﬁelds, gardening, etc.), staying indoors 
+with windows closed on windy and dusty days, and ensuring good indoor air ﬁltration.
+ 
+Educate communities about how to access and wear respirators, such as an N95 mask if activities 
+in areas with poor air quality cannot be avoided. 
+ 
+Discuss the social and psychological impacts of drought and refer clients to mental health services.
+• 
+Provide well owners with information on testing wells more frequently during drought when there is less 
+water to dilute contaminants.44,45   
+• 
+Educate local clinicians on the health impacts of drought and how they can best protect patient and 
+community health during droughts. For more information see A Physician’s Guide on Climate Change, 
+Health and Equity. 
+For More Information
+• 
+Preparing for the Health Effects of Drought: A Resource Guide for Public Health Professionals 
+• 
+CDC Drought and Health site 
+• 
+When Every Drop Counts: Protecting Public Health During Drought Conditions, A Guide for Public Health 
+Professionals 
+• 
+Health effects of drought: A systematic review of the evidence
+• 
+NACCHO’s How Local Health Departments can Assist in Response to the California Drought
+• 
+US Climate and Health Assessment, Chapter 4: Extreme Events 
+• 
+APHA and CDC factsheet on extreme rainfall, drought, climate change, and health  
+38
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+N-95 Mask Fit Testing by Alamosa County Public Health
+Alamosa County Public Health, 2010
+Fireﬁghters During Idaho Wildﬁre 
+U.S. Department of Agriculture, 2012 
+4.3 Wildﬁres
+Climate Change Increases Wildﬁre Risk
+Climate change causes higher temperatures, earlier snowmelt, and drier conditions that increase the frequency, 
+intensity and duration of wildﬁres, as well as the length of wildﬁre seasons in the U.S.1 
+• 
+Wildﬁre seasons are expected to be longer and stronger across the U.S. by 2050.2 High ﬁre years are likely 
+to occur 2–4 times per decade by 2050, instead of once per decade, as was the average before 2010.3  
+• 
+Increasing development at the wildland-urban interface places more homes and people at risk. In 2015, a 
+USDA study assessed vulnerability in “wildland/urban interface” and found almost one-third of the U.S. 
+population lived in the most vulnerable areas to wildﬁres.4 
+• 
+Warmer temperatures and precipitation changes associated with climate changes are contributing to 
+growth in bark beetle populations, leading to millions of dead trees across Western forests.5 Unhealthy 
+forests may contribute to more intense wildﬁres.6  
+Wildﬁres Worsen Climate Change
+Wildﬁres contribute to global warming by releasing massive amounts of carbon into the atmosphere and reducing 
+the amount of forest available to sequester carbon.7 Up to 3% of annual U.S. greenhouse gas emissions come 
+from wildﬁres.8 Western forests are important carbon sinks, capturing 20–40% of U.S. carbon emissions.9 The 
+EPA estimates that U.S. wildﬁres emitted around 164.1 million metric tons of carbon dioxide in 2015, growing 
+substantially from previous years, and accounting for 2% of the country’s annual CO2 emissions.10 
+Health Impacts of Wildﬁres
+• 
+Wildﬁres are a major source of particulate matter (PM).18,19 PM exposure increases the risk of 
+cardiovascular disease and respiratory illnesses, and wildﬁres increase the risk of premature death, 
+exacerbated asthma, bronchitis, chest pain, and negative birth outcomes from PM exposure.20 
+39
+HEALTH IMPACTS OF CLIMATE CHANGE
+• 
+Wildﬁre smoke can travel long distances and 
+affect the health of people far downwind of 
+the ﬁre. Smoke from the 2002 wildﬁres in 
+Quebec caused a 30-fold increase in PM2.5 
+in Baltimore, MD, which is nearly 1,000 
+miles downwind,21 and pollutants from a 
+2004 Alaska wildﬁre were found in Europe.22 
+Air quality in surrounding regions can also 
+remain poor for weeks.23  
+• 
+Wildﬁres also increase exposure to carbon 
+monoxide, ground level ozone and toxic 
+chemicals released from burning building 
+materials or used to ﬁght the ﬁre.24 
+• 
+Indoor air quality is impacted as smoke 
+penetrates into homes, which is where the 
+majority of exposure to wildﬁre particulate 
+matter occurs for individuals sheltering in 
+place.25  
+• 
+Wildﬁres cause immediate harm through 
+burns, traumatic injury, smoke inhalation, 
+and heat stress; wildland ﬁreﬁghters are at 
+particularly high risk.26,27    
+• 
+Soil erosion and runoff from wildﬁres can 
+contaminate water supplies far downstream 
+from the ﬁre site, negatively impacting the 
+quality, quantity, and availability of safe 
+freshwater supplies.28  
+• 
+Wildﬁres can leave soils damaged and 
+vulnerable to extreme erosion, which can 
+lead to dangerous ﬂooding and mudslides if 
+heavy rains impact the area after the ﬁre.29  
+• 
+Wildﬁres burn everything in their path, including dangerous chemicals (e.g. in pesticides, propane, 
+gasoline, plastic, and paint) that can burn down to ash with very high concentrations of any toxic 
+components.30 Clean-up workers may be at highest risk of exposure.
+• 
+Wildﬁres stress health care and public health systems, including skilled nursing facilities, with 
+evacuations, increased medical visits, and the need for emergency response resources. 
+• 
+The stress, displacement, and loss of home and community associated with wildﬁres can cause 
+signiﬁcant mental health problems, including anxiety, depression, and PTSD.31 
+Western Wildﬁres in 2017
+• 
+Wildﬁres burned 9,781,062 acres across the 
+U.S., the 3rd largest acreage burned in a 
+year in U.S. records, killing 54 people and 
+costing over $18 billion in damage.11,12    
+• 
+In Montana, a total of 2,420 ﬁres burned 
+1.4 million acres, surpassing the previous 
+record set in 2012 for the most area burned 
+in the state for over 100 years.13 
+• 
+In the fall, dozens of wildﬁres across the 
+Paciﬁc Northwest blanketed the region in 
+thick smoke, creating states of emergencies 
+in many areas.14 
+• 
+There were 7,117 ﬁres in California that 
+burned 505,956 acres, more than double 
+the previous ﬁve-year average (202,786 
+acres).15 
+•
+Five of the twenty most destructive 
+wildﬁres in California history occurred 
+in 2017.16
+• 
+Fires across Southern California in 
+December burnt away vegetation, leaving 
+soils vulnerable to ﬂooding and erosion. In 
+January 2018, heavy rains in these areas led 
+to dangerous ﬂooding and mudslides that 
+killed more than 20 people.17 
+40
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Wildﬁres and Health Equity
+• 
+Age: The very young and the very old are more sensitive to the air quality impacts of wildﬁres. For 
+children, their developing respiratory systems make them vulnerable to long-term impacts of wildﬁre 
+smoke, particulates, and ground level ozone. 
+• 
+Place: Communities and households at the wildland-urban interface where human-built environments 
+are adjacent to areas of wildland vegetation are at greater risk of wildﬁres.32 
+• 
+Socioeconomic Status: Low-income households are less likely to have disaster insurance and have fewer 
+resources to cope with or rebound from home and property loss or temporary displacement.
+• 
+Race and Ethnicity: African Americans have higher rates of asthma and cardiovascular disease that 
+increase sensitivity to the health effects of smoke.
+• 
+Tribal Communities: Native American and Alaska Native populations living near forested regions are at 
+increased risk of displacement, smoke-exposure, injury, and property loss, especially if more populated 
+areas are prioritized for ﬁre management response.33  
+• 
+Legal Status: Undocumented families are not eligible for FEMA assistance and even those who are 
+eligible may fear applying. Immigrants may also have concerns about accessing evacuation shelters 
+and other relief services due to inadequate cultural and linguistic competency of service providers, and 
+undocumented immigrants may fear legal repercussions of seeking services.34 
+• 
+Emergency Responders: Fireﬁghters, health care personnel and emergency responders are at increased 
+risk for injury, death, and respiratory impacts of wildﬁres, as well as mental health affects due to trauma. 
+Wildﬁre ﬁre ﬁghters are exposed to safety hazards, including burns, electrocution, ash, slips, trips and 
+falls, falling trees, rocks, and vehicle accidents.35,36    
+• 
+Outdoor Workers: Other outdoor workers (farmworkers, utility workers) are at risk for respiratory effects 
+of smoke and pollution.37 
+• 
+Underlying Health Conditions and Status: Individuals with pre-existing cardiac or respiratory disease 
+are at risk of disease exacerbations due to wildﬁre smoke. The emergency conditions created by wildﬁres 
+disrupt individuals’ ability to adequately manage their health conditions. 
+ 
+People with disabilities (mobility, sensory, cognitive) may be at greater risk of injury or death 
+during evacuations from wildﬁres.
+What Local Health Departments Can Do 
+See Sections 6—Programs and 7—Functions
+Assessment and Surveillance
+Assess which neighborhoods and what critical infrastructure are vulnerable to wildﬁres. Wildﬁres can cause 
+health problems in communities well downwind of a ﬁre and air quality can remain poor for weeks.38 
+The EPA Community Health Vulnerability Index for wildﬁres includes: asthma prevalence in children and adults, 
+chronic obstructive pulmonary disease, hypertension, diabetes, obesity, percent of population 65 years of age and 
+older, and indicators of socioeconomic status.39 Researchers recently mapped social vulnerability and biophysical 
+41
+HEALTH IMPACTS OF CLIMATE CHANGE
+vulnerability to identify communities at risk in the coterminous U.S., areas with high wildﬁre potential had, on 
+average, lower social vulnerability to wildﬁres. 
+• 
+Collaborate with local ﬁre departments and forest services to identify areas vulnerable to wildﬁre. 
+• 
+Work with local air quality control agencies to ensure that plans are in place for adequate monitoring 
+of wildﬁre smoke, both at ﬁxed stations and through low cost, portable monitors for rapid and localized 
+monitoring as ﬁres and winds shift.
+• 
+The data from these indices can be used alongside modeled air quality forecast data generated to develop 
+maps of communities with vulnerable populations. 
+• 
+Partner with local health care partners and facilities to develop systems for syndromic surveillance of 
+smoke-related illness, and implement at the onset of a wildﬁre in your region or if smoke from afar is 
+creating poor air quality (See Section 7.1—Surveillance). 
+• 
+After a wildﬁre, survey households using the Community Assessment for Public Health Emergency 
+Response (CASPER) methodolog40 (See Section 7.1—Surveillance).
+Intersectoral Collaboration
+Collaborate with community-based organizations to inform vulnerable communities about climate impact 
+projections for wildﬁre, and engage community residents in preparedness efforts. In addition, work with:
+• 
+Zoning departments to support land use policies that reduce development at the urban-wild land 
+interface.41  
+• 
+Building and code enforcement for strengthening  building codes to ensure ﬂame resistance for buildings 
+in wildﬁre-prone areas.42   
+• 
+Local forest service to support smart forestry management, e.g. controlled burns and thinning to manage 
+overcrowded forests, which are more susceptible to wildﬁres.43  
+• 
+Fire and air quality agencies to deploy air monitors that send information from the ground to satellites, 
+which transmit real time data to web tools so people can remain informed about smoke levels and air 
+quality during a wildﬁre.44 
+• 
+Social services and health providers to provide HEPA ﬁlters to individuals at high risk for smoke-related 
+illness, as smoke can penetrate homes during wildﬁres.45 
+• 
+Local tribes to ensure Native communities know where shelters are located and how to access services 
+following a wildﬁre.
+Prepare for Wildﬁre Emergencies
+Preparation for wildﬁre emergencies requires attention to what should happen before, during and after a  
+wildﬁre event: 
+• 
+Work with emergency management agencies to engage residents in neighborhood trainings including 
+instructions on how to respond if a ﬁre encroaches their property.
+• 
+Prepare evacuation and displacement plans. Include plans for shelters that are equipped to provide clean 
+air, especially for vulnerable populations. 
+42
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+ 
+Establish and exercise plans to ensure that all community members receive information about 
+evacuation orders and the location of shelters 
+• 
+Plan for provision of ﬁtted respirators and masks (P100 or N95)—and how to use them—for those in 
+smoke-laden areas.
+• 
+When deciding on potential closures, consider pollutant levels inside schools and businesses and how 
+they are likely to compare to those in homes—in some cases, schools may be safer for children.46  
+• 
+Consider strategies to provide home air ﬁltration (e.g. HEPA ﬁlters) for high risk individuals.47 
+• 
+Coordinate with pharmacies to allow prescription reﬁlls for critical medications without renewed contact 
+with physicians during emergencies.48 
+Be ready to provide information and support after a wildﬁre: 
+• 
+Connect clients and communities with evacuation and relief centers and ﬁnancial resources to help 
+cope after wildﬁres. Vulnerable communities and undocumented individuals and others may be hesitant 
+to access services. For an example of assistance for undocumented families after a wildﬁre, see the 
+Undocufund site.49  
+• 
+Work with social services and mental health agencies to assure access to mental health services, 
+including for children.
+• 
+Provide guidelines for safely inspecting and reentering properties50, and make this information readily 
+available in emergency shelters, online, through media, in multiple languages, etc. Include information 
+on health hazards associated with ﬁre retardants and toxic ash, and about the potential for food 
+contamination.51 
+Community Engagement and Education 
+Find opportunities to integrate mentions of climate change in materials and media messages for the public 
+whenever relevant, to increase public awareness that climate change is a health issue. Opportunities include 
+public health alerts, health advisory announcements, and educational materials and campaigns related to 
+wildﬁres. 
+Wildﬁres
+Original: Droughts and dry conditions throughout various times of the year increase the risk 
+for wildﬁres. Careless use of ﬁre in highly wooded areas can also dramatically increase the 
+chance of a wildﬁre, which can then quickly spread across trees and dry brush and threaten 
+homes and businesses that are in vicinity.52
+Modiﬁed: Droughts and dry conditions throughout various times of the year increase the 
+risk for wildﬁres. Wildﬁres are increasing in intensity in our area due to climate change. 
+Careless use of ﬁre in highly wooded areas can also dramatically increase the chance of a 
+wildﬁre, which can then quickly spread across trees and dry brush and threaten homes and 
+businesses that are in vicinity.
+43
+HEALTH IMPACTS OF CLIMATE CHANGE
+• 
+Provide guidelines, in multiple languages and via various media, on how to reduce smoke exposure 
+including the following example recommendations:53  
+ 
+Close up homes and buildings by shutting windows and doors 
+ 
+Set air conditioners to “re-circulate” settings to prevent smoky outside air from being drawn into 
+the building
+ 
+Use air cleaners and HEPA ﬁlters
+ 
+Avoid vacuuming or other activities that can disperse dust
+ 
+Reduce physical activity and drink plenty of ﬂuids 
+ 
+Check the AirNow website (www.airnow.gov) for updated air quality information throughout the 
+day as smoke patterns change due to wind and other conditions
+ 
+Wear appropriate respirators and masks (P100 or N95) properly when outside or in smoke-laden 
+areas and contact local emergency relief services for ﬁtted respirators if needed. 
+• 
+For clients and community groups in areas at greater risk of wildﬁre (e.g. in the WUI)
+ 
+Educate clients about maintaining a “defensible” space clear of brush and trees.
+ 
+Advise clients to create a personal and family emergency plan in case of evacuation from wildﬁre.
+ 
+Create informational materials for parents and guardians of young children on the additional 
+risks children face during and after a wildﬁre with information to protect them against smoke 
+inhalation, chemical exposures, and other hazards.54  
+ 
+Provide air quality notiﬁcations after a wildﬁre and urge communities to limit outdoor exposure 
+in times of heavy smoke pollution.
+Educate local clinicians on the health impacts of wildﬁres and how they can best protect patient and community 
+health during wildﬁres. For more information see A Physician’s Guide on Climate Change, Health and Equity. 
+For More Information
+• 
+Oregon Health Authority Wildﬁres and Smoke Page (includes patient care guides) 
+• 
+Washington Department of Health Wildﬁre Smoke page 
+• 
+Centers for Disease Control Wildﬁre Emergency Response page 
+• 
+EPA’s Air Monitoring Toolbox 
+44
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+4.4 Air Quality
+“The risks from air pollution are now far greater than previously thought or understood, particularly 
+for heart disease and strokes… evidence signals the need for concerted action to clean up the air we 
+all breathe.”
+Dr. Maria Neira, Director, WHO Department for Public Health, 
+Environmental and Social Determinants of Health1
+Climate Change Worsens Air Quality
+• 
+Climate change makes it difﬁcult to attain national air quality standards for ground-level ozone, a major 
+component of smog, because climate change is causing higher temperatures, which increase ozone 
+formation, and increasing the frequency of stagnation events that create the worst ozone episodes.   
+Increased ozone levels due to climate change could result in thousands of additional illnesses and 
+deaths per year in coming decades.2
+• 
+Climate change is increasing the frequency and intensity of wildﬁres, which can spread pollution and 
+particulate matter over large distances, increasing the risk of premature deaths and respiratory and 
+cardiovascular disease risks (See Section 4.3—Wildﬁres).3 
+• 
+As droughts increase in frequency and severity due to climate change, increased dust levels from dried 
+soil worsens air quality.
+• 
+Climate change also impacts indoor air quality, as intensiﬁed storms and ﬂooding lead to excess moisture 
+and mold production. 
+• 
+Air conditioner use increases with higher temperatures and more extreme heat days, causing increases in 
+air pollution from fossil fuel based electricity production.
+Air Pollution and Health 
+There are 133.9 million people in the U.S. exposed to unhealthy levels of air pollution, and 41% of people in the 
+U.S. live in counties with unhealthy levels of ozone or particulate matter.4  
+• 
+Poor air quality exacerbates existing respiratory illness including asthma.5 
+•
+Increased ozone levels due to climate change could result in thousands of additional illnesses and deaths 
+per year in coming decades.6
+• 
+Air pollution exposure is associated with higher risks of cardiovascular disease and lung cancer, and may 
+be related to both low birth weight and preterm birth.7,8    
+• 
+Poor air quality limits physical activity, which is important for cardiovascular and bone health, obesity 
+prevention, and mental health.
+• 
+Mold exposure from ﬂooding and excess indoor moisture is associated with upper respiratory tract 
+symptoms, cough, and wheeze, and can exacerbate asthma.9 
+45
+HEALTH IMPACTS OF CLIMATE CHANGE
+APHA, Climate Nexus 2016
+46
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Air Quality and Health Equity
+• 
+Poverty: Low-income households and communities of color are more likely to have neighborhood 
+characteristics that increase exposure to climate change-related air pollution, such as proximity to 
+roadways and polluting industries, lack of green space, and urban heat islands.
+ 
+Those living in areas with a median household income of $20,000 or less experience rates of 
+emergency room visits and hospitalizations for asthma that are four times higher than those in 
+areas with a median income greater than $100,000.10 
+ 
+Low-income households, people of color, and non-English speaking and foreign-born persons are 
+more likely to live near busy roadways, and therefore face worse air quality.
+ 
+Lack of adequate coverage and health care can result in poorly managed disease for those with 
+respiratory or cardiovascular illness. 
+• 
+Race and Ethnicity: In the U.S., 11.2% of African Americans are currently diagnosed with asthma, 
+(compared to 7.7% of Whites) and have an ED visit rate for asthma three times higher than Whites.11 
+Nearly 1 in 2 Latinos live in counties frequently violating clean air and ozone standards, exacerbating air 
+quality issues, and Latino children are twice as likely to die from asthma as non-Latino Whites.12,13   
+• 
+Age: Children are particularly sensitive as their respiratory systems are developing and air pollution can 
+cause permanent damage. 
+• 
+Chronic Illness: Individuals with pre-existing chronic conditions, such as asthma, other respiratory 
+disease, and cardiovascular disease, are at greater risk of disease exacerbation due to air pollution.
+• 
+Health Insurance: Lack of adequate coverage and health care can result in poorly managed disease for 
+those with respiratory or cardiovascular illness. 
+• 
+Outdoor Work: Outdoor workers—particularly those engaged in strenuous physical activity—may face 
+higher risks due to air pollution.14,15   
+What Local Health Departments Can Do 
+See Sections 6—Programs and 7—Functions 
+Assessment and Surveillance
+Identify and collect data to map air quality and identify key sources of air pollution. Collaborate with community 
+based organizations and “community scientists” to use portable air quality monitors to learn about air quality 
+in the community and enhance air quality monitoring. See the EPA Air Sensor Toolbox (See Section 7.1—
+Surveillance).16   
+Intersectoral Collaboration 
+Work with local and regional air quality agencies: 
+• 
+Support strong air quality plans that tackle both air pollution and greenhouse gas emissions, for example 
+through providing health data and communications support.17  
+47
+HEALTH IMPACTS OF CLIMATE CHANGE
+• 
+Develop an emergency and early warning system for communities at highest risk for increasing episodes 
+of poor air quality with climate change:
+ 
+Collaborate with environmental justice and other community groups to plan the warning system. 
+ 
+Prepare text and social media alerts in multiple languages to warn vulnerable individuals that 
+air pollution levels are high so they can reduce their exposure and ensure they have needed 
+medication.18 
+• 
+Work with the air district and local community-based organizations to deploy inexpensive real-time air 
+monitors that will provide online data on regional air pollution levels and more detailed information 
+about air pollution “hot spots.”
+• 
+Support and encourage city and county efforts to increase energy efﬁciency and renewable energy. 
+Advocate for programs to allow lower-income homeowners and renters to beneﬁt from rooftop solar and 
+energy efﬁciency programs.
+• 
+Work with local and regional transportation and planning agencies to reduce transportation-related 
+pollution, including from goods movement (See Section 5.1—Transportation).
+ 
+Promotion of energy efﬁciency in both new and existing buildings.
+ 
+Promotion of the switch from natural gas to electricity for space and water heating in buildings.
+ 
+Expansion of urban heat island reduction and air quality improvement strategies such as tree 
+planting and other urban greening, cool roofs, and cool pavements. 
+• 
+Collaborate with parks, public works, and community-based organizations to increase the number 
+and diversity of less allergenic trees planted in your jurisdiction and improve other urban heat island 
+reduction strategies, to reduce local air pollution and heat-related ozone increases (See Section 5.4—
+Urban Greening).
+• 
+Work with local schools and school districts to reduce trafﬁc-related air pollution exposure near schools:19 
+ 
+Adopt anti-idling policies for school buses, passenger vehicles and delivery trucks.
+ 
+Site new schools away from trafﬁc and in locations that enhance opportunities for biking, 
+walking, and taking public transit to school
+ 
+Plant trees to reduce air pollution and provide shaded places for students to be active and socialize, 
+and consider use of trees and vegetation as barriers between schools and busy roadways.
+ 
+Upgrade ﬁltration systems used in classrooms.
+ 
+Locate air intakes away from pollution sources
+• 
+Implement policies in your department (and encourage your jurisdiction to do the same across agencies) 
+that reduce vehicle-miles-travelled for ﬁeld staff and reduce automobile commuting for all staff (See 
+Section 5.1—Transportation).
+48
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Prepare for the Air Quality Impacts of Climate Change
+• 
+Develop an emergency and early warning system for communities at highest risk for increasing episodes 
+of poor air quality with climate change:
+ 
+Collaborate with environmental justice and other community groups to plan the warning system. 
+ 
+Prepare text and social media alerts in multiple languages to warn vulnerable individuals that 
+air pollution levels are high so they can reduce their exposure and ensure they have needed 
+medication.20 
+ 
+Messages should include clear instructions to reduce exposure (i.e. stay indoors and limit  
+physical activity).
+ 
+Collaborate with local media sources to broadcast information on where the public can go for  
+air quality-related information; broadcast air quality conditions, information to reduce impacts 
+and related illness exacerbation, and encouragement to check on vulnerable neighbors and  
+family members.
+• 
+Prepare plans for clean air shelters and disseminate information about clean air shelters to individuals 
+who are at high risk of serious health complications from extended periods of poor air quality.
+Community Engagement and Education
+Look for opportunities to integrate mentions of climate change in materials and media messages for the public 
+whenever relevant, to increase public awareness that climate change is a health issue. Opportunities include 
+public health alerts, health advisory announcements, and educational materials and campaigns related to air 
+quality. For example:
+Air Quality
+Original: Air pollution comes from a variety sources, including industrial sources, 
+transportation, farming practices and even natural sources. Air quality on any given day is 
+also impacted by a complex set of factors involving the weather and how pollutants interact 
+with each other in the atmosphere.21
+Modiﬁed: Air pollution comes from a variety sources, including industrial sources, 
+transportation, farming practices and even natural sources. Air quality on any given day is 
+also impacted by a complex set of factors involving the weather and how pollutants interact 
+with each other in the atmosphere, and by climate change that is causing more pollen and 
+more very hot days that increase air pollution. 
+49
+HEALTH IMPACTS OF CLIMATE CHANGE
+• 
+Conduct public awareness campaigns in multiple languages and via various media and educate clients on 
+the rising risks of poor air quality due to climate change. 
+• 
+Encourage walking and biking on less busy roadways—even a block away from busiest roadways has  
+less pollution.22 
+• 
+Advise clients with asthma or other respiratory illness to check the Air Quality Index every day for unsafe 
+ozone and particulate levels. Talk to clients about adjusting their activities and recreation when air 
+quality is bad. For clients who smoke, encourage them to quit and provide resource support.
+• 
+Educate local clinicians on the health impacts of climate change and air quality and how they can best 
+protect patient and community health during bad air days. For more information see A Physician’s Guide 
+on Climate Change, Health and Equity. Encourage clinicians to have posters in their facilities regarding 
+climate change and asthma in children and adults.
+For More Information
+• 
+American Lung Association State of the Air Report 
+• 
+EPA Clean Power Plan site and Factsheet 
+• 
+Sneezing and Wheezing—NRDC report on climate change, allergies, asthma and air quality 
+• 
+US Climate and Health Assessment, Chapter 3: Air Quality Impacts
+• 
+APHA and CDC fact sheet on air quality and climate change  
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Multnomah County Health Department (MCHD) in Oregon has a long-term focus on equity and a history of 
+working with community-based organizations on place-based health initiatives, and with the regional land  
+use and transportation planning organization and other agencies on climate adaptation. Many of MCHDs 
+community partners work in environmental justice communities that are disproportionately vulnerable to climate 
+health impacts. 
+In early 2016, MCHD built on an existing partnership with the Coalition of Communities of Color (CCC) to 
+launch the Healthy Environments Data Indicator Project (HEDIP), in collaboration with Portland State University 
+Planning Department. The project grew out of a request to improve community capacity to work with MCHD in 
+designing health and environmental data collection, analysis, and tools of greater use to the community. 
+HEDIP created a climate and health tool that uses an interactive story board to display a series of brief narratives 
+that accompany county maps of 20 indicators in four vulnerability domains: 1) demographics, 2) socioeconomic 
+status, 3) existing health burden, and 4) air pollution from point sources. The indicators were also combined into 
+a single score that was used to rank and map climate and health vulnerability for each of the 171 Multnomah 
+County census tracts. CCC provided input into indicator selection and display. In a facilitated training with 
+four CCC climate and environmental justice member organizations, MCDH reviewed the HEDIP ﬁndings and 
+discussed the use of data to support policy and systems change.  
+Interagency Collaboration: 
+Multnomah County 
+Health Department
+• Establish partnerships with local CBOs 
+that represent communities that bear 
+a disproportionate burden of climate 
+and/or environmental impacts. (See 
+Section 7.2—Engagement) 
+• Seek input from community partners 
+on indicators, and share data and 
+information to build CBO capacity to 
+understand and use data to engage in 
+local planning and policy advocacy.
+• Translate climate and health 
+vulnerability assessments into 
+accessible, understandable formats.
+• Use data to inform local and 
+state policymakers about health 
+vulnerabilities relevant to policy.
+Key Action Steps:
+51
+HEALTH IMPACTS OF CLIMATE CHANGE
+CCC developed and piloted two community-led climate and health workshops that covered climate, health, and 
+justice concepts, and used the HEDIP tool to educate policy makers about the importance of addressing the needs 
+of disadvantaged communities in state climate policy. These conversations informed the discussion of a proposed 
+“Healthy Climate Bill” (SB1574) that would create a carbon trading market linked with GHGE reduction goals, 
+and direct a portion of carbon auction revenues to projects that beneﬁt disadvantaged communities. HEDIP 
+served to illustrate a potential mechanism to identify disadvantaged communities.  
+During this time, MCDH, CCC, and other stakeholders identiﬁed air pollution as a key priority. Further analysis 
+by MCDH determined that transportation-related pollution and residential wood smoke burning contributed 
+more pollution than point sources in Multnomah County. These analyses—with other HEDIP data—informed 
+development of neighborhood climate and health proﬁles and policy briefs, and were used by MCDH to provide 
+input into Multnomah County’s analyses of 30 state legislative bills. 
+Future Work and Lessons Learned
+MCHD continues to translate data into action, using the Integrated Transport and Health Impact Modeling Tool 
+(ITHIM) to inform the Regional Transportation Plan (See Section 7.1—Surveillance). MCHD is now an active 
+participant in an interdepartmental workgroup convened by the County Ofﬁce of Sustainability to update and 
+implement the county’s climate action plan, and is providing technical assistance on the use of HEDIP climate 
+vulnerability maps. For example, Transportation and Emergency Management are using the maps to inform 
+planning efforts.
+Learn More
+• 
+Multnomah County Climate Vulnerability Maps
+52
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+4.5 Allergens
+Climate change affects the start, duration, and intensity of global pollen seasons, and causes 
+increases in other air pollutants and respiratory illnesses that exacerbate asthma1
+Climate Change Increases Allergen Exposures
+• 
+Increasing temperatures lead to earlier and longer pollen and allergy seasons, due to more frost-free days 
+and earlier and longer ﬂowering seasons. Since 1995, the season for ragweed pollen—one of the most 
+common outdoor allergens—has lengthened by over 20 days in some parts of the U.S. (See Figure 4.5.1)2  
+Figure 4.5.1:  Change in Ragweed Pollen Season, 1995–20153 
+• 
+Higher carbon dioxide levels and more winter precipitation cause greater plant growth, resulting in 
+increased pollen production and potency.4 This will increase the allergenicity of trees commonly found 
+across the U.S. 
+ 
+Annual birch pollen production and peak values are expected to be 1.3–2.3 times higher from 
+2020–2100.5 
+53
+HEALTH IMPACTS OF CLIMATE CHANGE
+• 
+Exposure to allergy-inducing molds— 
+the allergencity of which can also 
+increase with higher CO2 levels—may 
+increase as more frequent and severe 
+extreme storms lead to more ﬂooding.6 
+• 
+Higher temperatures increase 
+production of ozone, which sensitizes 
+the respiratory tract to allergens.7 
+• 
+Carbon dioxide enhances production 
+of the chemical (urushiol) in poison 
+ivy and poison oak that causes 
+contact dermatitis; carbon dioxide also 
+increases the spread in growth of these 
+allergenic plants.
+Health Impacts of Allergens
+Hay fever, asthma, and eczema are the 
+three major allergic diseases associated with 
+exposure to pollens from trees, weeds, grasses, 
+molds, and other indoor allergens.8 Nearly 40% 
+of urban populations and close to 25% of rural 
+populations in the U.S. are sensitive to outdoor 
+allergens.9 The prevalence of hay fever in the 
+U.S. rose from 10% in 1970 to 30% in 2000.10 
+Allergies are a signiﬁcant contributor to work 
+and school absence and the 6th most costly 
+chronic disease in the U.S., with healthcare 
+expenditures of about $21 billion annually.11  
+Allergens and Health Equity
+• 
+Housing: Poor housing construction 
+and maintenance can increase exposure 
+to pollen or mold.12  
+• 
+Poverty: People living in poverty 
+may lack health insurance coverage 
+for allergy management. Low-income 
+communities and households have 
+fewer resources for home rehabilitation 
+to prevent mold growth following 
+ﬂooding.13  
+54
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+• 
+Race and Ethnicity: African Americans tend to have higher rates of allergic sensitization compared  
+to Whites.14 
+• 
+Working Conditions: Outdoor workers face increased exposure to pollen and to allergenic plants. Low-
+wage workers without paid sick leave face job and economic loss if required to miss work due to allergies 
+or asthma.15 
+• 
+Asthma or other Chronic Respiratory Illness: Exposure to aeroallergens can trigger asthma symptoms.16 
+• 
+Air Pollution: Ozone causes airway sensitization, so people living in areas with high ozone levels may be 
+at higher risk.17 
+What Local Health Departments Can Do 
+See Sections 6—Programs and 7—Functions
+Assessment and Surveillance 
+• 
+Collaborate with other agencies and organizations to improve pollen monitoring in your jurisdiction.18 
+• 
+Prepare an online forum for community scientists in your jurisdiction to report the timing of pollen 
+production in their neighborhood. This data can then be cross-referenced with data on tree cover and air 
+quality to identify vulnerable areas.19 
+Intersectoral Collaboration
+Collaborate with public works, parks and recreation, urban forestry, planning, and community based 
+organizations—including local botanic gardens, arboretums, and horticultural societies—to establish policies 
+for preferential planting of less allergenic trees and plants, and for planting a variety of trees so that people are 
+at less risk of an allergic response to a particular pollen.20 Consult with allergy specialists and work with public 
+works and local tree-planting groups to ensure that allergenicity is a tree-selection consideration. 
+• 
+Many cities favor planting of male trees to avoid tree-litter on sidewalks, but it is male trees that  
+produce pollen.21  
+• 
+Consider a pollen control ordinance (as in Las Vegas, Albuquerque, Tucson) to prohibit planting or sale  
+of highly allergenic plants.22 
+• 
+Support policies that reduce air pollution, which exacerbates respiratory illnesses and the impacts of 
+allergens. Ozone, the key pollutant associated with climate change, may be the major driver of pollutant/
+pollen interactions.23 
+Community Engagement and Education
+Look for opportunities to integrate mentions of climate change in materials and media messages for the public 
+whenever relevant, to increase public awareness that climate change is a health issue. Opportunities include 
+public health alerts, health advisory announcements, and educational materials and campaigns related to 
+allergens. For example:
+55
+HEALTH IMPACTS OF CLIMATE CHANGE
+Pollen 
+Original: Ragweed pollen is dominant in the fall and blooms from Mid-July to September.24
+Modiﬁed: Ragweed pollen is dominant in the fall and blooms from Mid-July to September. 
+Rising temperatures associated with climate change can lead to longer and more severe 
+ragweed seasons.
+• 
+Educate clients and communities—in multiple languages and via various media—on the rising risks of 
+allergens, and how to minimize exposures, reduce allergy symptoms, and manage asthma. 
+ 
+Check pollen levels frequently—individuals can sign up for free alerts at National Allergy 
+BureauTM.
+ 
+For clients with asthma, check ozone levels.  
+ 
+For individuals with allergies: The best times to be outdoors are when pollen levels are lower, 
+typically on rainy, cloudy, and windless days. Keep windows closed during allergy season to 
+prevent pollen from drifting inside; drive with car windows closed. Shower after time outdoors, to 
+remove pollen that can collect on your skin, clothes, and hair.
+• 
+Provide opportunities for community scientists to participate in pollen and asthma monitoring. For 
+example, Louisville’s Asthmapolis project tracks asthma attacks using a mobile network of smart 
+inhalers; city staff are mapping attacks to see correlations with tree cover, air quality, and heat islands.25 
+• 
+Use home visits to educate clients about allergens, mold prevention, and climate change, and to assess 
+housing conditions. Provide referrals to low-income weatherization services (e.g. better sealing of windows). 
+• 
+Educate local clinicians about climate change and allergies and how they can best protect patient and 
+community health. See A Physician’s Guide on Climate Change, Health and Equity. Encourage local 
+clinicians to put up posters in their facilities regarding the impact of climate change on allergies.
+For More Information
+• 
+American Academy of Allergy, Asthma and Immunology 
+• 
+EPA report on climate change and allergens 
+• 
+US Climate and Health Assessment, Chapter 3: Air Quality Impacts 
+• 
+Sneezing and Wheezing—NRDC report on climate change, allergies, asthma and air quality 
+• 
+APHA and ecoAmerica’s fact sheet on climate change, allergies, and health
+56
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+4.6 Sea Level Rise
+Climate Change Increases the Risk of Sea Level Rise and Related Flooding
+• 
+Globally, under moderate emissions scenarios, sea levels are expected to rise 0.3–0.6 feet by 2030, 0.5–1.2ft 
+by 2050, and 1.0–4.3ft by 2100.1 The rate of sea level rise is now greater than in at least the last 2,800 years.
+•
+Sea level rise in the U.S. will vary along the country’s coastlines:2 Under all scenarios, the Northeast and 
+Gulf of Mexico coastlines are expected to see greater sea level rise than the global averages, while the 
+Paciﬁc Northwest and Alaska are expected to see less under low and moderate sea level rise scenarios. 
+• 
+Rising sea levels in the U.S. will increase the frequency and extent of coastal ﬂooding with hurricanes, 
+Nor’easters, and other coastal storms. 
+Health Impacts of Sea Level Rise
+Health risks associated with rising sea levels include:
+• 
+Increased risk of waterborne illness, vector born disease, and indoor mold growth3,4 (See Section 4.7—
+Storms and Flooding).
+• 
+Displacement of communities living in coastal areas, increasing their risk of related mental health problems. 
+• 
+Increased salinity of groundwater basins and well water:
+ 
+Higher salinity in drinking water has been associated with increased blood pressure and kidney 
+disease, and higher risk of preeclampsia.5,6,7      
+Reduced crop yields in agricultural areas, impacting food security.8
+ 
+Changes in the growth of microorganisms and vectors that use water as breeding grounds, with 
+potential impacts on waterborne and vector borne illness.9 
+• 
+Impacts on hazardous material sites, with risk of community exposure to toxic materials.10  
+• 
+Inundation of coastal wastewater and water treatment facilities in the event of storms and storm surge.11  
+• 
+Ground, surface and drinking water contamination from inundation of septic systems, especially in  
+rural areas.12 
+• 
+Impacts on coastal tourism through damage to beachfront property and beaches, with signiﬁcant 
+economic and job losses.13 
+Sea Level Rise and Health Equity
+• 
+Geography: Populations that reside in coastal areas are most impacted by sea level rise.
+•
+Poverty: Low-income households are less likely to have disaster insurance, less able to recover from 
+ﬂooding and property loss associated with sea level rise, and have fewer resources to relocate.14
+ 
+Residents of areas with failing public waste and water infrastructure, lack of protective barriers 
+(e.g. seawalls), and poor public transit are more vulnerable to ﬂooding and may face evacuation 
+challenges. 
+57
+HEALTH IMPACTS OF CLIMATE CHANGE
+ 
+Low-income communities and households lack funds for adaptation responses, such as elevating 
+roads or costly remodels to elevate homes, which could lessen the risk of displacement and its 
+associated health impacts.15   
+ 
+Communities with poor housing quality and building ventilation are at increased risk of indoor 
+air pollution from excess moisture and vector borne disease due to lack of window screens. 
+ 
+Low-income communities are disproportionately impacted by food and water price increases due 
+to sea level rise impacts on drinking water and crop yield. 
+• 
+Gentriﬁcation and displacement: As ﬂooding from sea level rise becomes more common, wealthier 
+homeowners are moving to higher ground, displacing lower income communities that have historically 
+been redlined from beachfront neighborhoods.16 
+• 
+Tribal Communities: Indigenous communities that practice subsistence farming and ﬁshing are 
+particularly vulnerable to the impacts of sea level rise—including saline intrusion—on crops and 
+freshwater ecosystems, and of ﬁsheries collapse.17 Coastal inundation also threatens important indigenous 
+cultural and archaeological resources.18 
+ 
+98% of Isle de Jean Charles—the home of a Biloxi-Chitimacha-Choctaw community off the coast 
+of Louisiana—has been lost to sea level rise. Tribal leaders are working with local organizations 
+to create community-based resettlement strategies that emphasize community cohesion and 
+traditions, youth engagement, and sharing experience with other coastal communities facing 
+similar challenges.19  
+• 
+Chronic Illness: Individuals with illnesses such as asthma or other respiratory conditions are more 
+vulnerable to indoor air pollution and mold illness from excess moisture or ﬂooding.20  
+• 
+Individuals with Disabilities: Cognitive, hearing, physical, and mobility impairments may impede safe 
+evacuation during ﬂooding events.21   
+What Local Health Departments Can Do 
+See Sections 6—Programs and 7—Functions 
+Assessment and Surveillance
+Collaborate with other agencies to understand projections for sea level rise, saltwater intrusion, and ﬂooding 
+due to groundwater inundation and storm surges. Work with local emergency management, public works, water 
+agencies and coastal conservation agencies and organizations to develop maps of ﬂood-prone coastal areas and 
+at-risk critical infrastructure in your jurisdiction. Visit these websites: 
+• 
+NOAA’s Sea Level Rise Viewer22 
+• 
+FEMA ﬂood maps (Note that many of FEMA’s maps underestimate ﬂood risk as they are based on 
+historical ﬂooding and do not incorporate sea level rise projections)23,24   
+Identify at-risk populations: Social vulnerability indicators for sea level rise include poverty, gender, race and 
+ethnicity, age, disabilities, housing, and transit/transportation access.25 See the sea level rise vulnerability 
+assessment conducted by the Florida Health Innovation Institute.
+58
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Intersectoral Collaboration 
+• 
+Coordinate with other agencies to fully 
+understand and be ready to implement the 
+ﬂood emergency response plan.
+• 
+Parks, Public Works, Emergency Management, 
+and community groups to implement a green 
+infrastructure plan to reduce storm water 
+runoff and ﬂooding risks and to protect 
+waterways and sewage lines from debris and 
+pollutants (See Section 5.4—Urban Greening) 
+• 
+community based organizations and planning 
+agencies in most vulnerable neighborhoods to 
+develop long-range planning for sea level rise
+• 
+Planning and Public Works to assess road 
+infrastructure and ascertain the need for 
+planning to reroute or elevate critical roads 
+(e.g. those providing access to a hospital, 
+power plant, etc.)
+• 
+vector control agencies to plan for enhanced 
+mosquito monitoring following ﬂooding and 
+with rising ground water and sea level rise
+• 
+local tribes to ensure Native American 
+communities access shelter and services 
+following ﬂooding and in light of sea level 
+rise, including “managed retreat” and anti-
+displacement measures to protect people now 
+living on higher ground 
+• 
+local water agencies to monitor permit requests for new or deeper wells and limit excessive draws on 
+local groundwater basins that increase vulnerability to salt water intrusion26    
+• 
+local emergency management, public works, planning, ﬁsh and wildlife, and coastal conservation 
+agencies, and community based organizations to protect reefs, sand, coastal wetlands restoration, and 
+other natural barriers that reduce erosion and protect coastal areas from storm surges. 
+Prepare for Storm Surge and Flooding Related to Sea Level Rise
+See Section 4.7—Storms and Flooding and Section 6.5—Preparedness
+• 
+Prepare and exercise a coastal ﬂooding, storm surge, and sea level rise contingency plan in coordination 
+with agencies that manage critical waste and water infrastructure and with health care facilities at risk  
+of ﬂooding. 
+• 
+Ensure evacuation and shelter plans address the needs of vulnerable populations.
+Flood damage on December 22, 2010 in downtown Laguna Beach, 
+California. Rodenberg Photography / Shutterstock.com
+Water coming over the streets in Kemah during Hurricane Harvey
+Cire notrevo / Shutterstock.com
+59
+HEALTH IMPACTS OF CLIMATE CHANGE
+Community Engagement and Education
+Look for opportunities to integrate climate change in materials and media messages for the public to increase 
+public awareness that climate change is a health issue. Opportunities include public health alerts and advisories 
+and educational materials related to sea level rise. For example:
+Seawater 
+Original: Some coastal wells in Washington are now unusable because of seawater intrusion. 
+This is particularly true in coastal areas where high population growth has placed increased 
+demands on groundwater supplies.27
+Modiﬁed: Some coastal wells in Washington are now unusable because of seawater 
+intrusion, which is associated with sea level rise due to climate change. This is particularly 
+true in coastal areas where high population growth has placed increased demands on 
+groundwater supplies. 
+• 
+Develop and implement a plan for community engagement and participation in sea level rise vulnerability 
+assessments and planning.28 Folly Beach, South Carolina included community input from vulnerable 
+neighborhoods in preparing the city’s Sea Level Rise Adaptation Report.2 
+• 
+Conduct public awareness campaigns—in multiple languages and via various media—and educate clients 
+and communities on risks related to rising sea levels, and how to stay safe and healthy during and after 
+extreme ﬂooding events.
+• 
+Engage residents in community science initiatives such as the Urban Tides Community Science Initiative. 
+• 
+Develop resources to explain how to properly address in-home dampness and ﬂooding, tenant and 
+landlord responsibilities, and how to select a professional contractor. See the Extreme Storms and 
+Flooding section for more details.30  
+• 
+Advise community members to create a personal and family emergency plan in case of evacuation from 
+ﬂooding and connect them with resources to cope with displacement.
+• 
+Educate local clinicians on the health impacts of sea level and how they can best protect patient 
+and community health in the face of sea level rise and coastal ﬂooding. For more information see A 
+Physician’s Guide on Climate Change, Health and Equity. 
+For More Information
+• 
+NOAA’s Sea Level Rise Viewer
+• 
+APHA and CDC factsheet on ﬂooding, climate change, and health 
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+The San Francisco Department of Public Health 
+(SFDPH) launched its Climate & Health Program in 
+2010 with funding from the CDC’s Climate Ready 
+States and Cities Initiative. The ﬁrst step in the BRACE 
+framework is to anticipate climate impacts and 
+assess vulnerability. SFDPH completed assessments 
+for extreme heat events (2013) and ﬂooding and 
+extreme storms (2016), a climate and health proﬁle 
+exploring the major health impacts of climate change, 
+preparedness plans for extreme heat and storm/
+ﬂooding emergencies, and a health co-beneﬁts 
+analysis of the county’s climate action plan. 
+To assess public health preparedness, Climate 
+and Health program (CHP) staff surveyed SFDPH 
+leadership to better understand perceptions of climate 
+impacts and capacity to implement adaptations, 
+reviewed SFDPH strategic planning documents to 
+identify opportunities for departmental action, and 
+assessed climate vulnerability of SFDPH facilities. 
+From Assessment to Action
+In 2017, CHP shifted from assessment to action with 
+the release of its Climate and Health Adaptation 
+Framework. The Framework provides “a starting 
+point to engage San Francisco’s diverse City and community stakeholders in designing solutions that reduce 
+health disparities and climate health impacts… a tool to begin conversations about how best to adapt to the 
+health impacts of climate change.” It includes the prior vulnerability assessments, indicators of climate risk, an 
+overview of SFDPHs capacity to address climate and health, and proposed strategies and activities to reduce risk 
+and promote health equity in the era of climate change.
+The Framework outlines over 70 interventions, including working with other city departments to develop an 
+in-building leak audit program for low-income homes, and evaluating the effectiveness of public information 
+services in extreme weather events. Equity is a guiding principle in the work of SFDPH, and the Framework 
+explicitly addresses the disproportionate burden of climate and health impacts on low-income communities and 
+communities of color.
+A Framework for Action: 
+San Francisco Department 
+of Public Health
+61
+HEALTH IMPACTS OF CLIMATE CHANGE
+Future Work and Lessons Learned 
+SFDPH is developing a Climate and Health Outreach Plan to increase engagement with residents and community 
+based organizations to prioritize adaptation strategies that respond to the concerns of vulnerable communities. 
+Climate and health champions have been identiﬁed across SFDPH programs, and SFDPH is bringing their 
+expertise into efforts to improve collaboration with twelve City departments. One proposal is the development of 
+a uniﬁed climate and health message for use across multiple City climate initiatives.
+Former climate and health program director, Cyndy Comerford shared, “the most successful partnerships have 
+been with organizations and city departments that share our view that climate change is a systems issue, 
+connected to transportation, food, energy, health care systems, and beyond.” 
+Learn More
+• 
+San Francisco’s Climate and Health Adaptation Framework: 2017
+• 
+San Francisco Climate Change & Health Program 
+• 
+San Francisco Department of Public Health 
+• 
+San Francisco County CalBRACE Climate and Health Proﬁle
+• Conduct a climate and health 
+vulnerability assessment that can 
+form the foundation for a climate and 
+health proﬁle, preparedness plans, 
+community engagement strategies, and 
+recommendations for action.
+• Work with LHD program and agency 
+partners to establish a strategic plan  
+to address climate change, health,  
+and equity. 
+• Use the plan to advance community 
+engagement in prioritizing action on 
+climate, health, and equity. 
+Key Action Steps:
+62
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+4.7 Storms and Flooding
+Climate Change Increases the Risk of Extreme Storms and Flooding 
+Extreme precipitation events occur when the air is almost completely saturated, which can occur more quickly 
+at higher temperatures, so extreme evens are likely to increase in intensity by about 6% to 7% for each degree 
+Celsius of temperature increase.1 
+•
+As the U.S. has many geographic regions, future changes in seasonal average precipitation will be 
+variable depending on season and geography. Overall, high-latitude regions are projected to become 
+wetter, subtropical areas drier, but there is signiﬁcant uncertainty regarding the U.S. middle latitudes.2
+• 
+The number of extreme precipitation events is expected to increase by two to three times historical 
+averages in every U.S. region by 2100, with the highest increases expected in the Northeast.3 
+• 
+Due to climate change, global precipitation patterns are likely to become more variable into the future, 
+with extremes becoming more extreme, which can lead to additional vulnerability. 4
+Health Impacts of Extreme Precipitation
+• 
+Extreme storms directly cause injury and death due to trauma and drowning. 
+ 
+Although the ofﬁcial count due to Hurricane Maria is 64 fatalities in Puerto Rico, some analysts 
+place the actual number at over 4,000.5 
+• 
+Extreme storms and ﬂooding can disrupt medical care, particularly for those with chronic illness. Three 
+days after Hurricane Maria, only 3 hospitals on Puerto Rico were functioning, and 40% were still running 
+on generator power two months after the storm.6 Two major hospitals were evacuated during Super 
+Storm Sandy, and several were not yet fully operational a year after the storm. 
+ 
+A third of deaths after Hurricane Maria were attributed to delayed or interrupted health care,  
+and many residents reported inability to access medications and lack of electricity for respiratory 
+equipment.7 
+•
+Extreme storms can disrupt critical infrastructure, including electricity, sanitation, water treatment, food 
+refrigeration, communications systems, and transportation.8 Months after Hurricane Maria, close to 50% 
+of homes on Puerto Rico were still without power, nearly 50% of the island’s sewage treatment plants did 
+not have electricity to operate, and over 300,000 Puerto Ricans still lacked access to clean water.9,10,11,12
+• 
+Mold exposure and related mold illness post-ﬂooding may increase due to excess indoor moisture and is 
+associated with upper respiratory tract symptoms, cough, and wheeze, and can exacerbate asthma.13
+• 
+Water-borne illness risks increase due to exposure to sewage or water treatment systems overﬂow, or skin 
+wounds and fungal infections from exposure to ﬂood waters.14 
+• 
+Heavy rainfall is frequently followed by a proliferation of mosquitos, increasing the risk of vector-borne 
+illnesses particularly in warmer climates.15 
+• 
+Flooding from storms can contaminate ground and surface water resources with runoff from hazardous 
+and superfund sites.16  
+63
+HEALTH IMPACTS OF CLIMATE CHANGE
+• 
+Use of diesel generators during power 
+outages can impact air quality. Improper use 
+of generators in enclosed spaces caused 15 
+deaths due to carbon monoxide poisoning 
+after Hurricane Sandy.17 
+• 
+Extreme precipitation can lead to erosion 
+and dangerous mudslides, increasing risk of 
+injury and death, as seen in Montecito, CA 
+when heavy precipitation caused destructive 
+mudslides and over 20 fatalities in January 
+2018, following the largest wildﬁre in 
+California history that charred much of the 
+area’s soil in December 2017.18 
+• 
+Extreme precipitation and ﬂooding cause 
+displacement—which poses risks associated 
+with injury, exposure to contaminated 
+ﬂoodwaters, and loss of medications—and 
+property loss.19 An estimated 1.5 million ﬂed 
+their homes after Hurricane Katrina, and 
+some estimate that hundreds of thousands 
+were never able to return.20 Damage to the 
+Oroville Dam following severe rains caused 
+the evacuation of over 100,000 people for 
+two days.21  
+Extreme Precipitation and  
+Health Equity
+• 
+Failing and Aging Public Infrastructure: 
+Lack of investment in secure transportation 
+or protective barriers leaves residents 
+vulnerable to ﬂooding and poses barriers 
+for evacuation. Inadequate or failing water 
+treatment and sewage systems—especially 
+combined sewer overﬂow systems— 
+increase the risk of contamination after 
+ﬂoods and storms. 
+• 
+Poverty: Low-income communities are 
+disproportionately underinsured for extreme 
+weather events and often lack access to 
+emergency credit to recuperate from property 
+loss. As climate change increases the 
+frequency and severity of extreme weather 
+Extreme Storms 
+and Mental Health: 
+Hurricane Katrina
+Exposure to extreme weather events, such as 
+ﬂoods, hurricanes and wildﬁres, is associated 
+with a range of mental health impacts, 
+including post-traumatic stress disorder (PTSD), 
+depression, anxiety and suicide, increased 
+rates of substance abuse, and interpersonal 
+violence.22 Mental health impacts persisted 
+long after Hurricane Katrina and its immediate 
+aftermath were over. 
+• 
+In some impacted areas, prevalence of PTSD 
+rose from 15% a few months after the 
+hurricane to 21% a year later. During the 
+same timeframe, the proportion of people 
+with suicidal thoughts more than doubled: 
+from 2.8% to 6.4%.23 
+• 
+Veterans with preexisting mental illness 
+were 6.8 times more likely to develop 
+additional mental illness after the disaster, 
+as compared to those without a preexisting 
+mental condition.24  
+• 
+Hope abounds: One study found that 
+two-thirds of those who experienced 
+increased rates of PTSD and psychosis one 
+year after the storm no longer displayed 
+symptoms of psychological distress three 
+years afterwards, while some others even 
+reported “post-traumatic growth,” or the 
+feeling that surviving the hurricane made 
+them stronger. These ﬁndings suggest 
+the importance of long-term support 
+for survivors of climate change-related 
+disasters.25
+64
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+APHA, Climate Nexus 2016
+65
+HEALTH IMPACTS OF CLIMATE CHANGE
+events, insurance prices will rise and continue to move further out of reach for low-income individuals 
+and communities.26 Four out of 5 homes damaged by Hurricane Harvey lacked ﬂood insurance.27 
+• 
+Homelessness: Homeless people often occupy areas near creeks or rivers, making them more vulnerable 
+to storms and ﬂoods.28 
+• 
+Substandard Housing: Poor housing quality and ventilation increase the risk of indoor air pollution and 
+most from excess moisture.  
+• 
+Legal Status: Undocumented families are not eligible for FEMA assistance and even those who are 
+eligible may fear applying. Immigrants may also have concerns about accessing evacuation shelters 
+and other relief services due to inadequate cultural and linguistic competency of service providers, and 
+undocumented immigrants may fear legal repercussions of seeking services.29 
+• 
+Chronic illness: Extreme storms can interrupt treatment for chronic illnesses due to displacement, power 
+outages, stressed health systems, and high-demand for medical supplies.30,31    
+• 
+Individuals with Disabilities: People with disabilities have high rates of illness, injuries, or death during 
+extreme events, as cognitive, hearing, physical, and mobility impairments may impede safe evacuation. 
+ 
+Emergency information and instructions are not always accessible for those with disabilities that 
+affect communication, and individuals with disabilities can have challenges communicating their 
+needs in an emergency or evacuation situation.32,33   
+ 
+Power outages can impair electrically powered medical equipment and elevators, preventing some 
+from evacuating or leaving them without necessary treatments.34 
+“When patients with cardiac health issues face evacuation due to ﬂooding, ﬁre or other natural 
+disasters, a spike in stress and anxiety levels may be only the beginning. For sudden, jarring, life-
+changing events—like that of Hurricane Harvey in Texas and Louisiana this past week—can markedly 
+disrupt months or years of steady treatment and control of heart disease and other conditions.”
+American Heart Association35 
+• 
+Race and Ethnicity: African Americans households faced slower recovery from Hurricane Katrina 
+compared to comparable white households, and recent studies have revealed higher rates of mental 
+illness among Hurricane Katrina survivors who were African American, low-income, and between the 
+ages of 18 and 34, especially single mothers.36,37  
+• 
+Age: Almost half of the deaths resulting from Hurricane Katrina were people over the age of 75, and over 
+10% of total deaths occurred in nursing homes.38 
+• 
+Women and Children: Extreme storms, ﬂooding, and related stress can negatively impact pregnancies 
+and disrupt related care, while children are susceptible to severe mental health impacts39 Globally, 
+women are injured and die more often from extreme events.40 
+66
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+LHD Spotlight: 
+San Francisco Department of Public Health44
+The San Francisco Department of Public Health (SFDPH) conducted a ﬂood health vulnerability 
+assessment in order to focus resources on and design interventions for vulnerable populations. 
+SFDPH included indicators on socioeconomic and demographic, exposure to ﬂooding, pre-existing 
+health conditions, and housing quality (see the table below). To obtain data, the department 
+used results from the American Community Survey and from other local agencies, such as the 
+San Francisco Public Utilities Commission, California Ofﬁce of Statewide Health Planning and 
+Development, the 2015 San Francisco Homeless Count, the San Francisco Police Department, and 
+the San Francisco Fire Department.
+Vulnerability
+Indicators45
+Social and 
+Demographic
+Age: Percent of residents who identify as under 18 and over 65
+Percent of residents who do not identify as white
+Percent of residents below 200% of the federal poverty rate
+Percent of residents over 25 with at least a high school degree
+Percent of households with adults who do not speak English
+Exposure
+Percent of land in 100-year ﬂood plain with 36in of sea level rise
+Percent of land projected to have over 6in of precipitation during a 100-year storm
+Minimum Elevation
+Health
+Adult hospitalization rate due to diabetes
+Adult hospitalization rate due to asthma
+Adult hospitalization rate due to schizophrenia and other psychotic disorders
+Percent of residents who report a physical disability 
+Housing
+Homeless population, per 1000 residents
+Annual housing violations, per 1000 residents
+Percent of residents who report living alone
+continued on next page
+67
+HEALTH IMPACTS OF CLIMATE CHANGE
+LHD Spotlight continued
+SFDPH was able to overlay available 
+data creating vulnerability indexes 
+for each indicator set and a combined 
+ﬂood health vulnerability score by 
+block group and neighborhood. The 
+resulting maps deﬁned areas that are 
+most likely to experience ﬂooding 
+and areas that are most likely to 
+experience the health impacts of this 
+ﬂooding.
+What Local Health Departments Can Do 
+See Sections 6—Programs and 7—Functions
+Assessment and Surveillance
+• 
+Collaborate with local emergency management, public works, and other agencies to collect and share 
+data to conduct a ﬂood vulnerability assessment:
+ 
+identify ﬂood-prone areas and areas in need of updated infrastructure to reduce ﬂood risk.
+ 
+identify critical infrastructure vulnerable to ﬂoods and storm surges.
+ 
+identify neighborhoods with social vulnerability to ﬂoods. Social vulnerability indicators used 
+in one index created speciﬁcally for hurricanes included poverty, gender, race and ethnicity, age, 
+and disabilities.41 
+• 
+FEMA offers ﬂood maps searchable by speciﬁc addresses, though ﬂooding from Hurricane Harvey 
+demonstrates that many of these maps are out of date.42,43   
+68
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Intersectoral Collaboration 
+• 
+Collaborate with other agencies to ensure 
+that your jurisdictions’ hazard mitigation 
+and response plans incorporate climate 
+impact projections for storm surge and 
+precipitation and adequately address 
+ﬂooding from extreme storms and/or storm 
+surge.46 Coordinate with other agencies 
+to fully understand and be ready to 
+implement the ﬂood emergency response 
+plan.
+• 
+Collaborate with Parks, Public Works, 
+Emergency Management, and community 
+groups to develop and implement a green 
+infrastructure plan to reduce storm water 
+runoff and ﬂooding risks and to protect 
+waterways and sewage lines from debris 
+and pollutants (See Section 7.5—Greening). 
+• 
+Collaborate with community-based organizations to inform vulnerable communities about climate 
+impact projections for storm surge, precipitation and ﬂooding, and engage community residents in ﬂood 
+resilience and preparedness.
+• 
+Work with local organizations and health care institutions to implement a voluntary registry for those 
+with physical, mental, and sensory disabilities to preauthorize emergency response personnel to enter 
+their homes during search-and-rescue operations.47 
+• 
+Collaborate with vector control agencies to assure availability of increased mosquito monitoring following 
+extreme precipitation and ﬂood events.
+• 
+Work with local tribes to ensure Native communities know where shelters are located and how to access 
+services following ﬂooding and extreme storms.
+Prepare for Extreme Storms and Flooding
+• 
+Develop a ﬂood warning alert system for areas at risk:
+ 
+Prepare boil water orders and other alerts in multiple languages so they are ready to issue to 
+various media outlets and through text alerts and/or social media.
+ 
+If landslides or debris ﬂows have occurred previously in your jurisdiction, prepare messaging and 
+resources for communities to prepare for a potential future event.48 
+ 
+Evaluate use and effectiveness of public information services during and after extreme weather 
+events.49  
+Flooding in Minot, North Dakota 
+DVIDS, 2011
+69
+HEALTH IMPACTS OF CLIMATE CHANGE
+• 
+Prepare plans for shelters with backup power sources and ensure the needs of vulnerable populations 
+are taken into consideration; disseminate shelter information to at risk groups including older adults, 
+pregnant women, those with chronic illness who require medications, and low income communities.50 
+ 
+Ensure all shelters and emergency centers are accessible to and comfortable for individuals with 
+physical and mental disabilities. 
+ 
+Connect individuals with local shelters that provide safe spaces, especially for LGBTQ individuals 
+who are at higher risk of harassment and assault. 
+ 
+Prepare information sheets for families in shelters on the potential for health outcomes from 
+ﬂooding and mental health impacts from stress and displacement, including how to ﬁnd services.
+ 
+Ensure local wastewater treatment facilities that may be vulnerable to ﬂooding have prepared 
+response plans. 
+ 
+Work with social services and mental health agencies to assure access to mental health services.
+• 
+Collaborate with health care facilities and systems to increase ﬂood resilience and plan for extreme storm 
+and ﬂooding events.
+ 
+Develop a plan for how medical care will continue if ﬂooding impacts health care facilities. For 
+example, coordinate with pharmacies to allow reﬁll prescriptions for people with chronic illness, 
+even if unable to contact the prescribing physician, during emergencies.51 
+ 
+Advocate for integration of design features in new health facilities that foster resiliency to 
+ﬂooding, for example:52 
+ 
+Elevation of ﬁrst ﬂoor above projected ﬂood elevation and placement of critical patient 
+care functions above ﬁrst ﬂoor 
+ 
+Placement of all critical mechanical/electrical infrastructure on the roof and/or above 
+ﬂood elevations
+ 
+Use of green roofs to reduce storm water discharge 
+• 
+Assure that chronically ill patients, their communities, and their providers have contingency plans during 
+and after disasters.53 
+• 
+Make sure evacuation strategies address the needs of all members of the community, including those 
+without access to automobiles, non-English speakers, and people with disabilities.
+Community Engagement and Education
+Look for opportunities to integrate mentions of climate change in materials and media messages for the public 
+whenever relevant, to increase public awareness that climate change is a health issue. Opportunities include 
+public health alerts, health advisory announcements, and educational materials and campaigns related to storms 
+and ﬂooding. For example:
+70
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Flood Advisory
+Original: Heavy rain causes ﬂoodwaters to rise and pool on streets and throughout 
+neighborhoods. In these situations, be aware of the following…54
+Modiﬁed: Heavy rain causes ﬂoodwaters to rise and pool on streets and throughout 
+neighborhoods. As climate change increases the potential for more intense storms and 
+related ﬂooding, we need to be even more prepared. In these situations, be aware of the 
+following… 
+• 
+Conduct public awareness campaigns—in multiple languages and via various media—and educate clients 
+and communities on the rising risks of extreme weather due to climate change, health risks, and how to 
+stay safe and healthy during and after extreme events.
+• 
+Advise clients to create a personal and family emergency plan in case of evacuation from an extreme 
+storm or ﬂooding. Educate clients about the potential for ﬂooding following wildﬁres and discuss the 
+potential need for ﬂood insurance.55 
+• 
+Develop resources to explain how to properly address in-home dampness and ﬂooding, tenant and 
+landlord responsibilities, and how to select a professional contractor.56 Use home visits to provide 
+guidelines for reentering homes after ﬂooding:57 
+ 
+Remind individuals to NEVER turn power on or off or use an electric tool or appliance while 
+standing in water. 
+ 
+Provide information about the risks of sewage contamination and mold for individuals whose 
+homes are ﬂooded,
+ 
+Educate individuals on indoor air quality concerns following ﬂooding. Provide information on 
+mold prevention and treatment options, including preventing mold by washing surfaces with 
+water and detergent and wearing an N95 mask while treating mold.58 
+ 
+Provide safety guidelines for drying out and cleaning ﬂooded homes
+•
+Educate local clinicians on the health impacts of extreme storm events and how they can best protect 
+patient and community health during storms and ﬂooding. For more information see A Physician’s Guide 
+on Climate Change, Health and Equity.
+71
+HEALTH IMPACTS OF CLIMATE CHANGE
+For More Information
+• 
+EPA’s Flood Resilience Checklist
+• 
+CDC Flood information
+ 
+Cleanup, Mold, Landslides and Mudslides  
+• 
+FDA Food and Water Safety during ﬂoods (English, Spanish) 
+• 
+EPA Green Infrastructure and Managing Flood Risk information 
+• 
+US Climate and Health Assessment, Chapter 4: Extreme Events 
+• 
+APHA and CDC factsheet on ﬂooding, climate change, and health 
+• 
+APHA, American Psychological Association, and ecoAmerica factsheet on climate change and mental 
+health
+Seawater Inundation Following Hurricane Ike on the Bolivar Peninsula, Texas
+NOAA, 2008
+72
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+4.8 Nutrition and Food Security
+Food security is “access by all people at all times to enough food for an active, healthy life.”1 It 
+requires that a stable, nutritious food supply is available and accessible to all communities to nourish 
+themselves. 
+Climate Change Threatens Food Security2,3   
+• 
+Crop yields are reduced by extreme heat, drought, and extreme weather events, all of which are increasing 
+in frequency and severity due to climate change.4 Warmer temperatures also cause higher ground-level 
+ozone concentrations that cause millions of tons of crop losses each year.5 Warmer temperatures are 
+leading to fewer “chill hours”, required for production of avocados, nuts, and tree fruits.6
+•
+Higher temperatures and drought associated with climate change can cause heat stress and illness in 
+livestock, reducing milk and egg production.7
+• 
+Declining ﬁsh yields due to overﬁshing and ocean dead zones are further impacted by ocean acidiﬁcation 
+from with rising carbon dioxide levels. 
+• 
+Warmer temperatures increase the growth of Salmonella, Camphylobacter, Rotavirus, and various Vibrio, 
+and harmful algal blooms, increasing the risk of food contamination.8  
+• 
+Increased atmospheric CO2 reduces the nutritional value of crops such as barley, sorghum, soy, wheat 
+and rice by reducing their protein and micronutrientscontent.9  
+• 
+Extreme weather events can disrupt transportation of food products, disrupting food supply chains and 
+increasing loss due to spoilage.10 
+• 
+The Intergovernmental Panel on Climate Change (IPCC) estimates that global food production will 
+decrease by 2% per decade, while global food demand increases by 14% per decade.11 Climate change 
+has increased the number of malnourished children by 7–20% globally.12 
+Agricultural Systems Drive Climate Change
+See Section 5.3—Agriculture 
+•
+In 2016, agriculture contributed about 9% of the country’s total greenhouse gas emissions13 (See Figure 
+4.8.1).
+• 
+When fertilizer use, refrigeration, transportation, and land use changes are taken into account, our 
+food and agriculture systems account for about a third of all global GHGE.14 The typical American meal 
+includes ingredients from at least ﬁve other countries, contributing to transportation GHGE, especially if 
+food is shipped by air.15   
+• 
+Expansion of agricultural lands can lead to deforestation and soil degradation, removing important 
+carbon sinks.16  
+73
+HEALTH IMPACTS OF CLIMATE CHANGE
+Figure 4.8.1: Annual Greenhouse Gas Emissions Per Capita Associated with U.S. Food 
+Production in 2010 (kg CO2-eqis kilograms of carbon dioxide equivalents)17
+Health Impacts of Food Insecurity22 
+Food insecurity includes under-consumption 
+(of nutrients, fruits, vegetables, and protein in 
+developing nations) and overconsumption of low-cost, 
+high-calorie, low-nutrient foods. Under-consumption 
+negatively impacts development and diminishes 
+physical capacity.23 Over-consumption is a major 
+contributor to development of chronic diseases such 
+as obesity, cardiovascular disease, and diabetes. 
+• 
+In 2014, 37.9% of adults and 20.6% of 
+adolescents in the U.S. were obese.24 
+• 
+About 1 in every 4 deaths in the U.S. is 
+the result of heart disease (approximately 
+610,000 people annually).25 
+• 
+9.4 percent of the U.S. population (30.3 
+million people) has diabetes, and 84.1 million have prediabetes.26 
+• 
+Overconsumption of red and processed meat is associated with increased risk of heart disease, stroke, 
+Type 2 diabetes, certain cancers, and premature death.27 
+• 
+Good nutrition is essential to healthy pregnancy, nursing and newborn outcomes.
+Food Waste18
+Forty percent of food produced in the United 
+States goes uneaten. That’s 62.5 million tons 
+of food. Households generate 43% of all food 
+waste. Meanwhile, there were 42.2 million 
+people, including 13.1 million children, who 
+did not have enough food in 2015.19 In landﬁlls, 
+these organic materials are broken down 
+by bacteria to produce methane, a potent 
+greenhouse gas (GHG).20 Diversion of food 
+waste from the landﬁll to better uses, including 
+safe food donation, addresses two critical 
+health issues—food insecurity and climate 
+change.21
+74
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Pigs in a Concentrated Animal Feeding Operation (CAFO)
+USGS, 2005
+Organic Farm in California
+Public Domain
+Food Security and Health Equity
+• 
+Poverty: Low-income people have less ability to absorb rising food prices and may be forced to choose 
+between food and other necessities. Food insecurity is associated with higher risks for diabetes and 
+hypertension.28 
+• 
+Food Deserts: According to 2000 data, 13.5 million people in the U.S. have low access to a supermarket, 
+82 % of whom live in urban areas.29 In these areas, the impacts of climate change on food security and 
+health are further exacerbated by lack of access to healthy foods. 
+• 
+Race and Ethnicity: Food insecurity is more common in people of color and those living in poverty. 
+According to the USDA, 12.3% of U.S. households were food insecure in 2016: 22.5% of African 
+American households, 18.5% of Hispanic households, 10.7% of other, non-Hispanic households, while 
+only 9.3% of White households.30 As of the 2014 National Agricultural Workers Survey, 80% of U.S. 
+farmworkers identify as Hispanic and only 53% had work authorization, leaving many members of this 
+community vulnerable to economic impacts of climate change on U.S. agriculture.31 
+• 
+Tribal Communities: Many indigenous communities practice hunting, subsistence farming and ﬁshing, 
+and are thus vulnerable to climate change impacts on local game, farming and aquatic habitats. Rising 
+sea levels will also threaten freshwater and saltwater ﬁshing habitats for many indigenous coastal 
+communities.32  
+• 
+Occupation: Agricultural workers are often undocumented and poorly paid, and at risk of climate-related 
+illness. Declines in crop yields result in job and economic losses for agricultural workers and farming 
+communities. Warmer temperatures are expanding the territory of certain crop pests, leading to higher 
+use of toxic herbicides and pesticides and associated risks of pesticide-related illness.33 Farmworkers 
+engage in heavy labor even during extreme heat. Repeated dehydration may be the cause of epidemic 
+chronic kidney disease of unknown etiology in agricultural communities around the world.34 
+• 
+Pregnant Women: Nutrition is essential to healthy pregnancy, nursing and newborn outcomes; poor 
+nutrition is associated low birth weight and other adverse outcomes.35 
+75
+HEALTH IMPACTS OF CLIMATE CHANGE
+What Local Health Departments Can Do 
+See Sections 6—Programs and 7—Functions 
+Intersectoral Collaboration 
+• 
+Collaborate with agencies, schools, and local institutions (e.g. hospitals) to support adoption of food 
+procurement policies that healthy food systems. 
+• 
+Work with planning, public works, agricultural agencies, regional farmers and land trusts, and 
+community organizations:
+ 
+Promote urban and peri-urban agriculture and agricultural land conservation.  
+ 
+Establish farmers markets, including allowance of SNAP EBT, and support other farm-to-fork 
+programs
+• 
+Collaborate with planning agencies to ensure the local General Plan includes food access considerations, 
+and promote zoning that supports farmers markets, healthy food retail outlets, and community gardens.36 
+ 
+• 
+Partner with schools and school districts: 
+ 
+Develop programs to reduce meat served in school meals—e.g. “Meatless Mondays” 
+ 
+Support and encourage prevention of food waste and composting of food waste in school cafeterias
+ 
+Establish school gardens
+ 
+Work with local farmers, agricultural commissioners, and community organizations to establish 
+and expand farm to school programs
+ 
+Integrate climate change into lessons about nutrition
+• 
+Collaborate with academic agricultural researchers and local agricultural organizations to educate growers 
+and agricultural operations about agriculture-climate change-health connections. 
+• 
+Provide health data and considerations to support advocacy for subsidies for fruits and vegetable farming 
+and for reduced federal subsidies for commodity crops.
+• 
+Collaborate across public health and environmental health programs to reduce food waste and improve 
+safe surplus food donation.
+ 
+Train environmental health specialists on climate change, food waste, and food insecurity using, 
+for example, the Safe Surplus Food Donation Best Management Practices.37
+ 
+Disseminate information on food waste reduction—for example the Safe Surplus Food Donation 
+Toolkit—during routine food facilities inspections.38 
+ 
+Integrate education about date labels and food waste into WIC and NEOP materials and outreach/
+education programs. See the Save the Food Campaign.39  
+ 
+Work with local food policy councils, businesses, and Environmental Health to reduce food waste 
+and increase surplus food donation to local nonproﬁt hunger relief organizations. 
+76
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Community Engagement and Education
+Look for opportunities to integrate climate change in materials and media messages for the public whenever 
+relevant, to increase public awareness that climate change is a health issue. Opportunities include public health 
+alerts and advisories and educational materials related to food and nutrition.
+Community Health Needs Assessment
+Original: While most report little or no difﬁculty, 17.4% of Metro Area adults report that it is 
+“very” or “somewhat” difﬁcult for them to access affordable, fresh fruits and vegetables.40
+Modiﬁed: While most report little or no difﬁculty, 17.4% of Metro Area adults report that it 
+is “very” or “somewhat” difﬁcult for them to access affordable, fresh fruits and vegetables. 
+This is a growing concern as climate change impacts local agriculture and may increase 
+food insecurity. 
+• 
+Educate communities, stakeholders, and policy makers about the impact of climate change on food 
+security and nutrition and actions with climate and health beneﬁts. 
+ 
+Educate communities on the food-climate change connection, and on the climate and health 
+beneﬁts of reduced meat consumption and sustainable local food systems (urban farms, farmers 
+markets, community gardens, organic food)
+ 
+Encourage clients and community residents to reduce meat consumption and increase 
+consumption of fruits and vegetables; buy locally and sustainably produced food and develop 
+backyard and community gardens, and reduce food waste at home and when eating out. 
+• 
+Educate food handlers about climate change-related increased risk of food contamination and how to 
+maintain hygiene in food preparation under conditions of extreme heat and water shortages.
+• 
+Educate health care providers on the health impacts of climate change and food systems and how to  
+protect patient and community health. See A Physician’s Guide on Climate Change, Health and Equity. 
+For More Information
+• 
+Re-Fed: Reducing Food Waste 
+• 
+USDA’s Creative Solutions to Ending School Food Waste
+• 
+Feeding America’s Map the Meal Gap resource
+• 
+NRDC’s Save the Food Campaign
+• 
+Equitable Development Toolkit: Local Food Procurement 
+• 
+Sample Policy: Los Angeles Good Food Purchasing Policy
+• 
+US Climate and Health Assessment, Chapter 7: Food Safety, Nutrition, and Distribution
+• 
+Aligning Food System Policies to Advance Public Health

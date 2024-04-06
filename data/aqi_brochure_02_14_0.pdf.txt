@@ -1,0 +1,677 @@
+A Guide to Air Quality and 
+Your Health
+Recycled/recyclable. Printed with vegetable oil-based 
+inks on 100% postconsumer process, chlorine-free 
+recycled paper.
+U.S. Environmental Protection Agency
+Office of Air Quality Planning and Standards
+Outreach and Information Division
+Research Triangle Park, NC
+February 2014
+EPA-456/F-14-002
+“Local air quality is very 
+unhealthy today.” 
+“It’s a code red day 
+for ozone.”
+“Particle pollution levels are 
+forecast to be unhealthy 
+for sensitive groups.”
+You may hear these alerts on radio 
+or TV or read them in the newspaper. 
+But what do they mean if you: 
+f 
+Are active outdoors?
+f 
+Have children who play outdoors?
+f 
+Are an older adult?
+f 
+Have heart or lung disease?
+This booklet will help you understand 
+how to find out about air quality in 
+your area and protect your health.
+1
+Air Quality Index
+Why is air quality 
+important?
+Local air quality affects how 
+you live and breathe. Like 
+the weather, it can change 
+from day to day or even 
+hour to hour. The U.S. 
+Environmental Protection 
+Agency (EPA) and your 
+local air quality agency 
+have been working to make 
+information about outdoor 
+air quality as easy to find 
+and understand as weather 
+forecasts. A key tool in this 
+effort is the Air Quality Index, or AQI. EPA and local offi-
+cials use the AQI to provide simple information about your 
+local air quality, how unhealthy air may affect you, and how 
+you can protect your health.
+What is the AQI? 
+The AQI is an index for reporting daily air quality. It tells 
+you how clean or unhealthy your air is, and what associ-
+ated health effects might be a concern. The AQI focuses on 
+health effects you may experience within a few hours or days 
+after breathing unhealthy air. The AQI is calculated for four 
+major air pollutants regulated by the Clean Air Act: ground-
+level ozone, particle pollution, carbon monoxide, and sulfur 
+dioxide. For each of these pollutants, EPA has established 
+national air quality standards to protect public health.
+EPA is currently reviewing the national air quality standard 
+for nitrogen dioxide.   If the standard is revised, the AQI 
+will be revised as well.  
+Air quality directly affects our quality 
+of life.
+How does the AQI work? 
+Think of the AQI as a yardstick that runs from 0 to 500. 
+The higher the AQI value, the greater the level of air pol-
+lution and the greater the health concern. For example, an 
+AQI value of 50 represents good air quality with little or no 
+potential to affect public health, while an AQI value over 
+300 represents air quality so hazardous that everyone may 
+experience serious effects. 
+An AQI value of 100 generally corresponds to the national air 
+quality standard for the pollutant, which is the level EPA has set 
+to protect public health. AQI values at or below 100 are generally 
+thought of as satisfactory. When AQI values are above 100, air 
+quality is considered to be unhealthy—at first for certain sensitive 
+groups of people, then for everyone as AQI values increase.
+What do the AQI values mean?
+The purpose of the AQI is to help you understand what local 
+air quality means to your health. To make it easier to under-
+stand, the AQI is divided into six levels of health concern:
+Air Quality Index  
+(AQI) Values
+Levels of 
+Health Concern
+Colors
+When the AQI is in 
+this range:
+...air quality 
+conditions are:
+...as symbolized 
+by this color:
+0 to 50 
+Good
+Green
+51 to 100
+Moderate
+Yellow
+101 to 150
+Unhealthy for 
+Sensitive Groups
+Orange
+151 to 200
+Unhealthy
+Red
+201 to 300
+Very Unhealthy
+Purple
+301 to 500
+Hazardous
+Maroon
+2
+Air Quality Index
+Each category corresponds to a different level of health concern: 
+• Good. The AQI value for your community is between  
+0 and 50. Air quality is satisfactory and poses little or no 
+health risk. 
+• Moderate. The AQI is between 51 and 100. Air quality 
+is acceptable; however, pollution in this range may pose a 
+moderate health concern for a very small number of indi-
+viduals. People who are unusually sensitive to ozone or 
+particle pollution may experience respiratory symptoms. 
+• Unhealthy for Sensitive Groups. When AQI values 
+are between 101 and 150, members of sensitive groups 
+may experience health effects, but the general public is 
+unlikely to be affected. 
+• Ozone: People with lung disease, children, older adults, 
+and people who are active outdoors are considered 
+sensitive and therefore at greater risk.
+• Particle pollution: People with heart or lung disease, 
+older adults,1 and children are considered sensitive and 
+therefore at greater risk.
+• Unhealthy. Everyone may begin to experience health effects 
+when AQI values are between 151 and 200. Members of 
+sensitive groups may experience more serious health effects. 
+• Very Unhealthy. AQI values between 201 and 300 
+trigger a health alert, meaning everyone may experience 
+more serious health effects. 
+• Hazardous. AQI values over 300 trigger health warnings 
+of emergency conditions. The entire population is even 
+more likely to be affected by serious health effects. 
+How is a community’s AQI calculated  
+and reported? 
+Each day, monitors record concentrations of the major pol-
+lutants at more than a thousand locations across the country. 
+1	 Due to the normal aging process, older adults may experience increased 
+health risks from exposure to unhealthy air. Studies indicate that some 
+people become more sensitive in their mid-60s. However, the risk of 
+heart attacks, and thus the risk from particle pollution, may begin as 
+early as the mid-40s for men and mid-50s for women.
+These raw measurements are converted into a separate AQI 
+value for each pollutant (ground-level ozone, particle pollu-
+tion, carbon monoxide, and sulfur dioxide) using standard 
+formulas developed by EPA. The highest of these AQI values 
+is reported as the AQI value for that day.2
+In large cities (more than 350,000 people), state and local 
+agencies are required to report the AQI to the public daily. 
+Many smaller communities also report the AQI as a public 
+health service.
+When the AQI is above 100, agencies must also report 
+which groups, such as children or people with asthma or 
+heart disease, may be sensitive to that pollutant. If two or 
+more pollutants have AQI values above 100 on a given day, 
+agencies must report all the groups that are sensitive to those 
+pollutants. For example, if a community’s AQI is 130 for 
+ozone and 101 for particle pollution, the AQI value for that 
+day would be announced as 130 for ozone. The announce-
+ments would note that particle pollution levels were also 
+high and would alert groups sensitive to ozone or particle 
+pollution about how to protect their health.
+Many cities also provide forecasts for the next day’s AQI. 
+These forecasts help local residents protect their health by 
+alerting them to plan their strenuous outdoor activities for a 
+time when air quality is better.
+2	 For more information on how the AQI is calculated, see “Technical 
+Assistance Document for the Reporting of Daily Air Quality—the Air 
+Quality Index (AQI)” in the “Publications” section of www.airnow.gov.
+Children active outdoors can be sensitive to air pollutants. 
+3
+Air Quality Index
+The AQI is a national index, so the values and colors used 
+to show local air quality and the levels of health concern are 
+the same everywhere in the United States. 
+Where can I find the AQI? 
+Checking local air quality is as easy as checking the weather. 
+You can find the latest AQI values on the Internet, in your 
+local media, and on many state and local telephone hotlines. 
+You can also sign up to receive AQI forecasts by e-mail: 
+• AQI on the Internet. EPA and its federal, tribal, state, and 
+local partners have developed an AIRNow Web site to 
+provide the public with easy access to national air quality 
+information. At www.airnow.gov, you will find daily AQI 
+forecasts and real-time AQI conditions for over 300 cities 
+across the United States, with links to more detailed state 
+and local air quality Web sites. AIRNow’s reports are 
+displayed as maps you can use to quickly determine if the 
+air quality is unhealthy near you.  
+• AQI via e-mail. Sign up for EnviroFlash  
+(www.enviroflash.info), a free service that will alert  
+you via e-mail when air quality is forecast to be a  
+concern in your area.
+Example of a national AQI map available on the AIRNow Web site.
+• AQI in the media. Many local media—television, radio, 
+and newspapers—and some national media (such as USA 
+Today, The Weather Channel, and CNN) provide daily 
+air quality reports, often as part of the weather forecast. 
+Here’s the type of report you might hear: 
+What are typical AQI values in  
+most communities? 
+In many U.S. communities, AQI values are usually below 
+100, with higher values occurring just a few times a year. 
+Larger cities typically have more air pollution than smaller 
+cities, so their AQI values may exceed 100 more often. AQI 
+values higher than 200 are infrequent, and AQI values above 
+300 are extremely rare—they generally occur only during 
+events such as forest fires. You can compare the air quality of 
+U.S. cities and find out about quality trends in your area by 
+visiting “Air Compare” at www.epa.gov/aircompare/. 
+AQI values can vary from one season to another. In winter, 
+carbon monoxide may be high in some areas because cold 
+weather makes it difficult for car emission control systems to 
+operate effectively. Ozone is often higher in warmer months, 
+because heat and sunlight increase ozone formation. Particle 
+pollution can be elevated any time of the year.
+AQI values also can vary depending on the time of day. 
+Ozone levels often peak in the afternoon to early evening. 
+Carbon monoxide may be a problem during morning or 
+evening rush hours. And particle pollution can be high any 
+time of day, and is often elevated near busy roadways, espe-
+cially during morning or evening rush hours.
+Tomorrow will be a code red air quality day for Center 
+City. The cold winter air, morning traffic, and wood 
+smoke are expected to cause particle pollution to rise to 
+unhealthy levels. People with heart or lung disease,  
+older adults, and children should avoid prolonged or 
+heavy physical activities.
+4
+Air Quality Index
+How can I avoid being exposed to 
+unhealthy air? 
+You can take simple steps to reduce your exposure to 
+unhealthy air. First, you need to find out whether AQI levels 
+are a concern in your area. You can do this, as described 
+previously, by visiting the AIRNow Web site, signing up for 
+EnviroFlash, or checking your local media. If the AQI for 
+ozone, particle pollution, carbon monoxide, or sulfur dioxide 
+is a concern in your area, you can learn what steps to take to 
+protect your health by checking the charts on the following 
+pages. Two important terms you will need to understand are:   
+• Prolonged exertion. This means any outdoor activity that 
+you’ll be doing intermittently for several hours and that 
+makes you breathe slightly harder than normal. A good 
+example of this is working in the yard for part of a day. 
+When air quality is unhealthy, you can protect your health 
+by reducing how much time you spend on this type of 
+activity. 
+• Heavy exertion. This means intense outdoor activi-
+ties that cause you to breathe hard. When air quality 
+is unhealthy, you can protect your health by reducing 
+how much time you spend on this type of activity, or by 
+substituting a less intense activity—for example, go for a 
+walk instead of a jog. Be sure to reduce your activity level 
+if you experience any unusual coughing, chest discom-
+fort, wheezing, breathing difficulty, or unusual fatigue. 
+What is ozone? 
+Ozone is a gas found in the air we breathe. Ozone can be 
+good or bad, depending where it occurs: 
+• Good ozone is present naturally in the Earth’s upper 
+atmosphere—approximately 6 to 30 miles above the 
+Earth’s surface. This natural ozone shields us from the 
+sun’s harmful ultraviolet rays. 
+• Bad ozone forms near the ground when pollutants 
+(emitted by sources such as cars, power plants, industrial 
+boilers, refineries, and chemical plants) react chemically 
+in sunlight. Ozone pollution is more likely to form dur-
+ing warmer months. This is when the weather conditions 
+normally needed to form ground-level ozone—lots of 
+sun—occur. 
+Who is most at risk? 
+Several groups of people are particularly sensitive to ozone, 
+especially when they are active outdoors. This is because ozone 
+levels are higher outdoors, and physical activity causes faster 
+and deeper breathing, drawing more ozone into the body.
+• People with lung diseases, such as asthma, chronic 
+bronchitis, and emphysema, can be particularly sensitive 
+to ozone. They will generally experience more serious 
+health effects at lower levels. Ozone can aggravate their 
+diseases, leading to increased medication use, doctor and 
+emergency room visits, and hospital admissions.
+• Children, including teenagers, are at higher risk from ozone 
+exposure because they often play outdoors in warmer weather 
+when ozone levels are higher, they are more likely to have 
+asthma (which may be aggravated by ozone exposure), and 
+their lungs are still developing.
+• Older adults may be more affected by ozone exposure, 
+possibly because they are more likely to have pre-existing 
+lung disease.
+ozone 
+Heavy exertion means an intense activity that causes you to breathe hard.
+5
+Air Quality Index
+• Active people of all ages who exercise or work vigorously 
+outdoors are at increased risk. 
+• Some healthy people are more sensitive to ozone. They 
+may experience health effects at lower ozone levels than 
+the average person even though they have none of the 
+risk factors listed above. There may be a genetic basis for 
+this increased sensitivity.
+In general, as concentrations of ground-level ozone increase, 
+more people begin to experience more serious health effects. 
+When levels are very high, everyone should be concerned 
+about ozone exposure. 
+What are the health effects?
+Ozone affects the lungs and respiratory system in many 
+ways. It can:
+• Irritate the respiratory system, causing coughing, 
+throat soreness, airway irritation, chest tightness, or chest 
+pain when taking a deep breath. 
+• Reduce lung function, making it more difficult to 
+breathe as deeply and vigorously as you normally would, 
+especially when exercising. Breathing may start to feel 
+uncomfortable, and you may notice that you are taking 
+more rapid and shallow breaths than normal. 
+The risk of exposure to unhealthy levels of ground-level ozone is  
+greatest during warmer months. Children, who often play outdoors  
+in warmer weather, are at higher risk.
+• Inflame and damage the cells that line the lungs. 
+Within a few days, the damaged cells are replaced and 
+the old cells are shed—much like the way your skin peels 
+after sunburn. Studies suggest that if this type of inflam-
+mation happens repeatedly, lung tissue may become 
+permanently scarred and lung function may be perma-
+nently reduced .
+• Make the lungs more susceptible to infection. Ozone 
+reduces the lung’s defenses by damaging the cells that 
+move particles and bacteria out of the airways and by 
+reducing the number and effectiveness of white blood 
+cells in the lungs.
+• Aggravate asthma. When ozone levels are unhealthy, 
+more people with asthma have symptoms that require a 
+doctor’s attention or the use of medication. Ozone makes 
+people more sensitive to allergens—the most common 
+triggers for asthma attacks. Also, asthmatics may be more 
+severely affected by reduced lung function and airway 
+inflammation. People with asthma should ask their 
+doctor for an asthma action plan and follow it carefully 
+when ozone levels are unhealthy. 
+• Aggravate other chronic lung diseases such as 
+emphysema and bronchitis. As concentrations of 
+ground-level ozone increase, more people with lung 
+disease visit doctors or emergency rooms and are 
+admitted to the hospital. 
+• Cause permanent lung damage. Repeated short-term 
+ozone damage to children’s developing lungs may lead 
+to reduced lung function in adulthood. In adults, ozone 
+exposure may accelerate the natural decline in lung func-
+tion that occurs with age.
+6
+Air Quality Index
+How can I protect my health at different 
+AQI values?
+*
+ 
+An AQI of 100 for ozone corresponds to an ozone level of 0.075 parts per 
+million (averaged over 8 hours).
+AQI Value
+Actions to Protect Your Health 
+From Ozone
+Good  
+(0–50)
+None
+Moderate 
+(51–100*) 
+Unusually sensitive people should consider 
+reducing prolonged  or heavy outdoor 
+exertion.
+Unhealthy 
+for 
+Sensitive 
+Groups  
+(101–150)
+The following groups should reduce 
+prolonged or heavy outdoor exertion:
+• People with lung disease, such as asthma
+• Children and older adults
+• People who are active outdoors
+Unhealthy  
+(151–200)
+The following groups should avoid 
+prolonged or heavy outdoor exertion:
+• People with lung disease, such as asthma
+• Children and older adults
+• People who are active outdoors
+Everyone else should limit prolonged 
+outdoor exertion.
+Very 
+Unhealthy  
+(201–300)
+The following groups should avoid all 
+outdoor exertion:
+• People with lung disease, such as asthma
+• Children and older adults
+• People who are active outdoors
+Everyone else should limit outdoor 
+exertion.
+Particle pollution
+What is particle pollution? 
+Particle pollution (also known as “particulate matter”) con-
+sists of a mixture of solids and liquid droplets. Some particles 
+are emitted directly; others form when pollutants emitted 
+by various sources react in the atmosphere. Particle pollu-
+tion levels can be very unhealthy and even hazardous during 
+events such as forest fires. Particle levels can be elevated 
+indoors, especially when outdoor particle levels are high.
+Particles come in a wide range of sizes. Those less than 10 
+micrometers in diameter (smaller than the width of a single 
+human hair) are so small that they can get into the lungs, 
+where they can cause serious health problems.  
+• Fine particles. The smallest particles (those 2.5  
+micrometers or less in diameter) are called “fine” par-
+ticles. These particles are so small they can be detected 
+only with an electron microscope. Major sources of fine 
+particles include motor vehicles, power plants, residential 
+wood burning, forest fires, agricultural burning, some 
+industrial processes, and other combustion processes. 
+• Coarse particles. Particles between 2.5 and 10 microm-
+eters in diameter are referred to as “coarse.” Sources of 
+coarse particles include crushing or grinding operations, 
+and dust stirred up by vehicles traveling on roads. 
+What are the health effects and who is 
+most at risk? 
+Particles smaller than 10 micrometers in diameter can cause 
+or aggravate a number of health problems and have been 
+linked with illnesses and deaths from heart or lung disease. 
+These effects have been associated with both short-term 
+exposures (usually over 24 hours, but possibly as short as 
+one hour) and long-term exposures (years). 
+Sensitive groups for particle pollution include people with 
+heart or lung disease (including heart failure and coronary 
+artery disease, or asthma and chronic obstructive pulmonary 
+7
+Air Quality Index
+disease), older adults (who may have undiagnosed heart or 
+lung disease), and children. The risk of heart attacks, and 
+thus the risk from particle pollution, may begin as early as 
+the mid-40s for men and mid-50s for women.
+• When exposed to particle pollution, people with heart 
+or lung diseases and older adults are more likely to visit 
+emergency rooms, be admitted to hospitals, or in some 
+cases, even die. 
+• Exposure to particle pollution may cause people with 
+heart disease to experience chest pain, palpitations, 
+shortness of breath, and fatigue. Particle pollution has 
+also been associated with cardiac arrhythmias and heart 
+attacks. 
+• When exposed to high levels of particle pollution, people 
+with existing lung disease may not be able to breathe as 
+deeply or vigorously as they normally would. They may 
+experience symptoms such as coughing and shortness of 
+breath. Healthy people also may experience these effects, 
+although they are unlikely to experience more serious effects. 
+• Particle pollution also can increase susceptibility to respi-
+ratory infections and can aggravate existing respiratory 
+Smoke from old, uncertified wood stoves is a major source of particle 
+pollution in some communities. For information on cleaner-burning wood 
+stoves that are more energy efficient, go to www.epa.gov/woodstoves.
+AQI Value
+Actions To Protect Your Health 
+From Particle Pollution
+Good  
+(0–50)
+None
+Moderate 
+(51–100*) 
+Unusually sensitive people should 
+consider reducing prolonged or heavy 
+exertion. 
+Unhealthy 
+for Sensitive 
+Groups  
+(101–150)
+The following groups should reduce 
+prolonged or heavy exertion:
+• People with heart or lung disease
+• Children and older adults
+Unhealthy  
+(151–200)
+The following groups should avoid 
+prolonged or heavy exertion:
+• People with heart or lung disease
+• Children and older adults
+Everyone else should reduce 
+prolonged or heavy exertion.
+Very Unhealthy  
+(201–300)
+The following groups should avoid all 
+physical activity outdoors:
+• People with heart or lung disease
+• Children and older adults
+Everyone else should avoid prolonged 
+or heavy exertion.
+* 
+For particles up to 2.5 micrometers in diameter: An AQI of 100 corresponds 
+to 35 micrograms per cubic meter (averaged over 24 hours).
+For particles up to 10 micrometers in diameter: An AQI of 100 corresponds 
+to 150 micrograms per cubic meter (averaged over 24 hours).
+diseases, such as asthma and chronic bronchitis, causing 
+more use of medication and more doctor visits. 
+How can I protect my health at different 
+AQI values?
+8
+Air Quality Index
+carbon monoxide
+What is carbon monoxide? 
+Carbon monoxide is an odorless, colorless gas. It forms 
+when the carbon in fuels does not completely burn. Vehicle 
+exhaust contributes roughly 75 percent of all carbon mon-
+oxide emissions nationwide, and up to 95 percent in cities. 
+Other sources include fuel combustion in industrial processes 
+and natural sources such as wildfires. Carbon monoxide 
+levels typically are highest during cold weather, because cold 
+temperatures make combustion less complete and cause inver-
+sions that trap pollutants close to the ground. 
+What are the health effects and who is 
+most at risk? 
+Carbon monoxide enters the bloodstream through the lungs 
+and binds to hemoglobin, the substance in blood that carries 
+oxygen to cells. It reduces the amount of oxygen reaching 
+the body’s organs and tissues.
+• People with cardiovascular disease, such as coronary artery 
+disease, are most at risk. They may experience chest pain 
+and other cardiovascular symptoms if they are exposed to 
+carbon monoxide, particularly while exercising. 
+• People with marginal or compromised cardiovascular 
+and respiratory systems (for example, individuals with 
+congestive heart failure, cerebrovascular disease, anemia, 
+or chronic obstructive lung disease), and possibly young 
+infants and fetuses, also may be at greater risk from car-
+bon monoxide pollution. 
+• In healthy individuals, exposure to higher levels of car-
+bon monoxide can affect mental alertness and vision. 
+How can I protect my health at different 
+AQI values?
+About half of all carbon monoxide emissions nationwide come from the exhaust 
+of roadway vehicles. Exhaust from all types of vehicles (including marine vessels, 
+aircraft, locomotives, and mobile equipment) contributes around three-quarters 
+of all carbon monoxide emissions in the United States. 
+AQI Value
+Actions To Protect Your Health 
+From Carbon Monoxide
+Good  
+(0–50)
+None
+Moderate 
+(51–100*)
+None
+Unhealthy 
+for Sensitive 
+Groups 
+(101–150)
+People with heart disease, such 
+as angina, should reduce heavy 
+exertion and avoid sources of carbon 
+monoxide, such as heavy traffic. 
+Unhealthy 
+(151–200)
+People with heart disease, such as 
+angina, should reduce moderate 
+exertion and avoid sources of carbon 
+monoxide, such as heavy traffic. 
+Very Unhealthy 
+(201–300)
+People with heart disease, such as 
+angina, should avoid exertion and 
+sources of carbon monoxide, such as 
+heavy traffic. 
+* An AQI of 100 for carbon monoxide corresponds to a level of 9 parts per 
+million (averaged over 8 hours).
+9
+Air Quality Index
+sulfur dioxide
+What is sulfur dioxide? 
+Sulfur dioxide, a colorless, reactive gas, is produced when 
+sulfur-containing fuels such as coal and oil are burned. 
+Generally, the highest levels of sulfur dioxide are found near 
+large industrial complexes. Major sources include power 
+plants, refineries, and industrial boilers.
+What are the health effects and who is 
+most at risk? 
+Sulfur dioxide is an irritant gas that is removed by the nasal 
+passages. Moderate activity levels that trigger mouth breath-
+ing, such as a brisk walk, are needed for sulfur dioxide to 
+cause health effects in most people.
+• People with asthma who are physically active outdoors 
+are most likely to experience the health effects of sulfur 
+dioxide. The main effect, even with very brief exposure 
+(minutes), is a narrowing of the airways (called bron-
+choconstriction). This may be accompanied by wheez-
+ing, chest tightness, and shortness of breath, which 
+may require use of medication that opens the airways. 
+Symptoms increase as sulfur dioxide levels or breathing 
+rate increases. When exposure to sulfur dioxide ceases, 
+lung function typically returns to normal within an hour, 
+even without medication. 
+• At very high levels, sulfur dioxide may cause wheezing, 
+chest tightness, and shortness of breath even in healthy 
+people who do not have asthma. 
+• Long-term exposure to sulfur dioxide may cause respira-
+tory symptoms and illness, and aggravate asthma. People 
+with asthma are the most susceptible to sulfur dioxide. 
+However, people with other chronic lung diseases or car-
+diovascular disease, as well as children and older adults, 
+may also be susceptible to these effects.
+How can I protect my health at different 
+AQI values?
+*	An AQI of 100 for sulfur dioxide corresponds to a level of 75 parts per bil-
+lion (averaged over one hour).
+AQI Value
+Actions To Protect Your Health 
+From Sulfur Dioxide
+Good  
+(0–50)
+None
+Moderate 
+(51–100*)
+None
+Unhealthy for 
+Sensitive Groups 
+(101–150)
+People with asthma should consider 
+reducing exertion outdoors. 
+Unhealthy 
+(151–200)
+Children, asthmatics, and people 
+with heart or lung disease should 
+reduce exertion outdoors. 
+Very Unhealthy 
+(201–300)
+Children, asthmatics, and people 
+with heart or lung disease should 
+avoid outdoor exertion. Everyone 
+else should reduce exertion 
+outdoors. 
+Children and adults with asthma who 
+are active outdoors are most vulnerable 
+to the health effects of sulfur dioxide.
+10
+Air Quality Index
+Where can I get more information? 
+For information and resources about air quality, visit the 
+AIRNow Web site at www.airnow.gov. There you can:
+• Access maps and information on air quality in your area. 
+Find out how to protect your health and how to reduce 
+air pollution. 
+• Sign up for EnviroFlash (www.environflash.info), a free 
+service that will alert you via e-mail when air quality in 
+your area is forecast to be a concern.
+• Download the App to see the air quality for your area on 
+your smartphone or tablet.
+• Access brochures, movies, games, and other air quality 
+educational resources for adults and kids.
+• Visit Air Compare (www.epa.gov/aircompare/), where you 
+can compare the air quality of U.S. cities and find out 
+about air quality trends in your area.
+• Access Web cameras that provide real-time pictures of 
+visibility at many locations across the United States.
+• Access training and tools. If you are a health care 
+provider, teacher, or weathercaster, you can use these 
+resources to help adults and children understand how air 
+pollution affects their health and how they can protect 
+their health.
+11

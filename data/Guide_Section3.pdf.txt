@@ -1,0 +1,271 @@
+CLIMATE CHANGE 101
+Climate scientists are supplying a wealth of evidence about what is happening to the earth’s climate and 
+what it portends for our local environments, while other disciplines are identifying and developing effective 
+interventions. Evidence-based public health practice requires that public health professionals apply evidence 
+developed by epidemiologists, clinical researchers, and scientists across a broad range of other disciplines. You 
+don’t need to be a climate scientist to address the health risks of climate change or the health benefits of climate 
+action. Our job is to draw on the science and apply it in public health practice.
+97% of climate scientists agree that climate change is happening now and there is scientific 
+consensus that is driven by human activity.1
+Climate Change 
+101
+Climate Change: One symptom of planetary health
+While climate change is the greatest health challenge of our time, it is one of many disruptions to 
+what is known as planetary health. Planetary health asserts that the scale and nature of human 
+activity, including population growth, is pushing the limits of all the planet’s resources to the brink 
+of habitability. Human exploitation and consumption of Earth’s resources are causing fundamental 
+changes in the planet’s biophysical processes, which include climate change, but also widespread 
+pollution of air, water, and soils; rapid biodiversity loss; altering of carbon, nitrogen, and 
+phosphorus cycles; pervasive changes in land use and land cover; and scarcity of resources critical to 
+sustaining life, such as water and arable land. 
+“Each of these interacts with the others in complex ways, altering the quality of the air we 
+breathe, the water we have access to, and the food we can produce. Rapidly changing 
+environmental conditions also alter our exposures to infectious diseases and natural hazards 
+such as heat waves, droughts, floods, fires, and tropical storms. These… ultimately affect every 
+dimension of our health and wellbeing, including nutritional outcomes, infectious disease, 
+non-¬communicable disease, displacement and conflict, and mental health outcomes…We 
+need to expand the realm of public health to include how we manage our planet’s natural 
+systems: the types of cities we construct, how we produce energy, how we feed ourselves, and 
+how well we protect our marine and terrestrial biodiversity. In the context of planetary health, 
+the boundaries between public health and nearly every other facet of human activity become 
+more porous. In short, we need a new paradigm.”
+Dr. Samuel Myers, November 20174
+14
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+3.1 What Is Climate Change?
+•	
+Weather is the temperature, humidity, precipitation, cloudiness, and wind that we experience in the 
+atmosphere at a given time in a specific location. Weather forecasts are generally accurate over days to 
+weeks. Climate is the average weather over a long time period (30–50 years) in a region.
+•	
+Climate variability refers to natural variation in climate that occurs over months to decades. El Niño, 
+which changes temperature, rain, and wind patterns in many regions over about 2–7 years, is an example 
+of natural climate variability. Climate change is a systematic change in the long-term state of the climate 
+over multiple decades or longer.2  
+Climate scientists use statistical tests to ascertain that observed changes in climate are not within the range 
+of natural variability. The 2017 Fourth National Climate Assessment states that “there are no alternative 
+explanations supported by the evidence that are either credible or that can contribute more than marginally to 
+the observed patterns.”3 
+3.2 Greenhouse Gas Emissions Cause Climate Change5 
+Climate change is caused by a change in the earth’s energy balance. The earth is gaining energy
+as the atmosphere increasingly stores more of the sun’s energy than it radiates or reflects back
+into space. 
+Since the Industrial Revolution started over 200 years ago, human activities have added very large quantities of 
+greenhouse gases (GHG), also called climate pollutants, into Earth’s atmosphere through the burning of fossil 
+fuels (e.g., coal, oil, gas). These GHG act like a greenhouse to trap the sun’s energy and heat, rather than letting 
+it reflect back into space.6 Without these GHG the earth’s atmosphere would be too cold for life, but when the 
+concentration of GHG is too high, too much heat is trapped, and the earth’s temperature rises outside the range 
+of natural variability. 
+Carbon dioxide (CO2) is the primary GHG from human activities—accounting for 81.6% of all U.S. GHGE in 
+2016—and is responsible for the greatest amount of warming to date.7 The main human activity that emits CO2 is 
+the combustion of fossil fuels (coal, natural gas, and oil) for electricity production, transportation and industrial 
+processes that together account for more than 80% of the CO2 released into the atmosphere.8 Our planet has not 
+experienced CO2 levels as high as now since approximately 3.5 million years ago when Earth was about 2.3°C 
+warmer and sea levels 33–65 feet higher (Figure 3.2.1).9 CO2 has a long half-life, so the “climate effects of CO2 
+released into the atmosphere will persist for tens, if not hundreds, of thousands of years into the future.”10  
+15
+CLIMATE CHANGE 101
+Figure 3.2.1: Atmospheric CO2 at Mauna Loa Observatory11
+Other important GHG such as methane, nitrous oxide, black carbon, and various fluorinated gases are emitted 
+in smaller quantities than CO2, but they trap more heat in the atmosphere than CO2 traps.12 The ability to trap 
+heat is measured as Global Warming Potential (GWP). As the most common and abundant greenhouse gas, CO2 
+has a GWP of 1; all other GHG warming potentials are compared to it. Fluorinated gases, for example, have 
+GWPs thousands of times greater than CO2, meaning that pound-for-pound, these gases have a much stronger 
+impact on climate change than CO2.13 (See Appendix 4 for a summary table of GHGE in the United States, their 
+main sources, and their GWP and half-life in the atmosphere.) GHGE come from a variety of sources, but major 
+sources include transportation, agriculture, and energy production (Figure 3.2.2).
+Figure 3.2.2: Percentage of U.S. GHGE by Economic Sector, 201614 
+408.47 ppm 
+(July 28, 2018)
+16
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Short-Lived Climate Pollutants
+Greenhouse gases with a high global warming potential but a short lifetime in the atmosphere are called “short-
+lived climate pollutants” (SLCP), or “super-pollutants”. Key SLCP include methane, black carbon, and some 
+fluorinated gases. Because of the combination of a short half-life and high GWP, the climate change impacts of 
+the SLCP are “front-loaded”—more of the impacts from SLCP occur sooner, while the full weight of impacts from 
+CO2 will be felt later. Methane, for example, comprises 10% of total U.S. GHGE and primarily comes from animal 
+agriculture, food decomposition, and the extraction, distribution, and use of natural gas.15  
+Reducing emissions of short-lived climate pollutants may “buy time” while we make the transition away from 
+carbon-polluting systems. Cutting global levels of SLCP significantly by 2030 will:16  
+•	
+cut global warming in half, or 0.6°C, by 2050 and by 1.4°C by 2100;
+•	
+prevent 2.4 million premature deaths globally each year.
+The Carbon Budget and the Urgency of Climate Action
+For many years, there was a scientific consensus that holding global average temperature increases 
+of 2°C (3.6°F) above pre-industrial levels would be “safe,” meaning that although climate impacts 
+would be significant, they would be manageable. However, far worse impacts of warming 
+are occurring at a current average global temperature increase of 1.1°C (2°F) than had been 
+anticipated. There is now great concern that if greenhouse gas emissions continue unabated, 
+the Earth’s temperature will rise about 4°C (2.7°F) by the end of the century with potentially 
+catastrophic consequences for life on earth. In 2015, nearly 200 nations agreed in the Paris 
+Agreement that the risks of catastrophic climate change are significantly reduced if we can keep 
+global temperatures from rising more than 1.5°C (2.7°F).
+Because GHG persist in the atmosphere for many years, the magnitude of warming and other 
+climate impacts is not determined by emissions in any one year or from any one source, but rather 
+by the total GHG in the atmosphere produced cumulatively and globally over time.18 Scientists 
+can calculate how much warming will result from different cumulative amounts of GHG in the 
+atmosphere.
+The “carbon budget” is the amount of carbon dioxide that can be emitted and still have a 
+reasonable chance of remaining below a particular rise in global temperature. To remain below a 
+1.5°C rise, total global emissions cannot exceed 240 billion tons of carbon from now forward. This 
+is our current “carbon budget.”19 Despite growing research into technological solutions to capture 
+and remove CO2 levels in the atmosphere, there is currently no known safe and effective way to 
+remove emitted greenhouse gases from the atmosphere on a global scale. Reducing greenhouse 
+gas emissions is thus the only known effective way to prevent using up our carbon budget. The 
+longer we wait to reduce carbon pollution, the more drastic the action that will be required to 
+remain within our carbon budget.
+17
+CLIMATE CHANGE 101
+Runaway climate change: Climate scientists are concerned that some climate impacts may take on a life of their 
+own, through positive feedback loops or surpassing of tipping points. For example, collapse of the West Antarctic 
+Ice Sheet could lead to very rapid sea level rise, or melting of permafrost could lead to large releases of methane 
+that would further increase warming through a positive feedback loop. Likewise, the whiteness of ice gives it 
+high reflectivity, especially compared to the dark ocean water. As Artic ice melts, less heat is reflected by ice, 
+more is absorbed by the ocean, leading to further warming and rising of sea levels.17 
+3.3 Human Activities Cause Climate Change
+While GHGE are the proximate cause of climate change, the production and release of these gases into the 
+atmosphere is primarily the result of human activity, embedded in key systems such as energy, transportation, 
+agriculture, and our consumption-driven economy. These systems are also key contributors to health outcomes 
+and health inequities (See Sections 2—Health Equity and 4—Health Impacts). For example:
+•	
+Transportation systems determine how people and goods get from place to place, affecting physical 
+activity, traffic injuries, air pollution, and GHGE. Fuel prices, pedestrian and bicycle infrastructure, and 
+access to public transit influence driving behavior. Transportation systems impact access to jobs and 
+services, and the loss of farmland and habitat.20  
+	
+The transportation sector contributed 28% of all U.S. GHG emissions in 2016.21 
+	
+Transportation is one of the fastest-growing sources of domestic GHGE and accounts for nearly 
+half of the increase in total U.S. emissions since 1990.22 
+	
+On-road vehicles were responsible for the vast majority (83%) of transportation-related GHGE; 
+passenger cars and light-duty trucks contribute 60% of these emissions.23 
+•	
+Agriculture and food systems determine the cost of and access to different kinds of food and nutrition; 
+what crops are grown, and how; water usage, soil health and depletion; deforestation, and biodiversity 
+loss. Industrialized animal production generates methane from livestock manure, antibiotic resistance 
+from the overuse of antibiotics to increase animal growth, and water contamination from the excessive 
+application of nitrogen fertilizers and pesticides. Corn and soy subsidies reduce meat prices and increase 
+meat consumption.
+	
+Agriculture was responsible for 9% of total U.S. GHGE in 2016, 52% of methane emissions, and 
+84% of nitrous oxide release.24  
+	
+When fertilizer use, refrigeration, transportation, and land use changes, such as deforestation and 
+soil depletion, are taken into account, our food and agriculture systems account for about one 
+third of global GHGE.25  
+•	
+Energy systems provide for heating, lighting, and cooking, but the incomplete combustion of carbon also 
+produces significant air pollution (e.g. from indoor cook stoves in poor countries, and from coal-fired 
+power plants around the world). An estimated seven million deaths are associated with air pollution 
+every year—one in eight of total global deaths.26 Coal and uranium miners are at very high risk of 
+occupational illness and injury, and mining often causes irreparable damage to water sources and natural 
+habitats.27,28    
+18
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+	
+Electricity production contributes 28% of U.S. GHGE.29  
+	
+Electricity generated from renewables releases about 1/20th the GHGE of coal over the full life 
+cycle.30 Switching from fossil fuels to clean, renewable energy is a critical path to the reduction of 
+greenhouse gas emissions.
+•	
+Economic systems distribute, allocate and determine access to wealth and resources, foster or alleviate 
+wealth inequities, offer access to livelihoods and employment, and—in concert with social value 
+systems—determine how much value we place on consumption of goods and/or non-marketable 
+resources such as clean air, clean water, and open space.
+3.4 Environmental Impacts of Climate Change
+Climate change is causing five critical global environmental changes:31 
+•	
+Warming temperature of the earth’s surface 
+and the oceans: The earth has warmed at a 
+rate of 0.13°C per decade since 1957, almost 
+twice as fast as its rate of warming during the 
+previous century. 
+•	
+Changes in the global ‘hydrologic’ (water) 
+cycle: Over the past century there have been 
+distinct geographical changes in total annual 
+precipitation, with some areas experiencing 
+severe and long-term drought and others 
+experiencing increased annual precipitation. 
+The frequency and intensity of storms 
+increases as the atmosphere warms and is able 
+to hold more water vapor.   
+•	
+Declining glaciers and snowpack: Across the 
+globe, nearly all glaciers are decreasing in area, 
+volume and mass. One billion people living in 
+river watersheds fed by glaciers and snowmelt 
+may be impacted by early spring runoff and 
+flooding and diminished water flows in late 
+summer.
+•	
+Sea level rise: Warmer water expands, so as 
+oceans warm the increased volume of water 
+is causing sea level rise. Melting glaciers and 
+snowpack also contribute to rising seas. 
+•	
+Ocean acidification: Oceans absorb about 
+25% of emitted CO2 from the atmosphere, 
+leading to acidification of seawater.
+Economic Toll
+of Climate Change
+The health, social and economic costs of 
+climate change are likely to be enormous. 
+One recent study linked temperature rise 
+to economic impacts on agriculture, crime, 
+coastal storms, energy, and human mortality. 
+Nationally, every 1°C (1.8°F) rise in average 
+temperatures could cost 1.2% of gross 
+domestic product and could raise death rates 
+by 5.4 per 100,000. If unabated, climate 
+change could cause damages that cost the 
+poorest third of U.S. counties up to 20% 
+of their income.32 Another study estimated 
+the health costs of just six climate-related 
+events at $14 billion.33 In 2017 alone, the U.S. 
+experienced 16 billion dollar climate-related 
+disasters ranging from wildfires to tropical 
+cyclones to crop freezes.34 The rising costs of 
+climate-related damages to infrastructure 
+and economic productivity are likely to have 
+ripple effects on funding for health and social 
+needs. In contrast, a global assessment that 
+monetized the health co-benefits of climate 
+mitigation found that the value of avoided 
+mortality averaged $50–$380 per ton of 
+carbon dioxide, which far exceeds projected 
+abatement costs.35 
+19
+CLIMATE CHANGE 101
+These global changes result in what we experience as changes in our local weather and climate. 
+•	
+Greater variability, with “hotter hots,” “drier dries,” and “wetter wets” 
+•	
+Higher average temperatures and longer frost-free seasons
+•	
+Longer wildfire seasons and more intense wildfires
+•	
+Loss of snowpack and earlier spring runoff
+•	
+Recurrent coastal flooding with high tides and storm surges
+•	
+Worsening air quality: Higher temperatures increase production of ozone (a key contributor to smog) and 
+pollen, as well as increasing the risk of wildfires
+•	
+Longer pollen seasons and more pollen production
+3.5 Climate Change in the United States
+Various regions of the U.S. will experience climate change differently. Figures 3.5.1 and 3.5.2 show climate 
+change in the U.S. and its effect on weather-related events and temperatures.36 For a more comprehensive view, 
+see the Fourth National Climate Assessment.37 
+Figure 3.5.1: Climate Change Across the United States38 
+20
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Figure 3.5.2: Observed Changes in Temperature and Precipitation in the United States Due 
+to Climate Change (1991–2012 compared to 1901–1960)39 
+Every community is experiencing the impacts of climate change, albeit in different ways. These impacts will 
+worsen as GHG accumulate in the atmosphere. To protect health, we must act to both reduce GHGE and prepare 
+for the impacts of climate change. 

@@ -1,0 +1,439 @@
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Health Equity and 
+Climate Change
+2.1 Fundamentals of Health Equity and Climate Change
+It is hard to overstate the connections between climate change, health, and equity. The following framework 
+(Figure 2.1.1) outlines these critical connections. See Appendices 1 and 2 for other foundational frameworks—
+including the Healthy Communities Framework, A Public Health Framework for Reducing Health Inequities, and 
+others—that have informed action on climate change, health and equity.
+•	
+The root causes and upstream drivers of climate change and health inequities are often the same: Our 
+energy, transportation, land use, housing, planning, food and agriculture, and socioeconomic systems 
+are at once key contributors to climate pollution and key shapers of community living conditions. The 
+powerful institutions largely responsible for constructing these systems influence and are influenced by 
+social inequities such as class and race.
+•	
+The health risks and impacts of climate change are not equally or fairly distributed across people, 
+communities or nations. The impacts of climate change on health are significantly moderated by 
+individual and community vulnerability and resilience. Two critical components of climate vulnerability 
+are pre-existing health status and living conditions. In the United States, these factors are shaped by 
+economics and the distribution of money, power, social policies and politics at the global, national, state 
+and local levels.1 They differ by place, race, and income, as a result of inequities in the distribution 
+of money and power, historical disinvestment in some communities, discriminatory practices and 
+policies over time, structural racism, higher pollution burdens, and lesser access to resources for health. 
+Therefore, low-income communities and communities of color are disproportionately affected by the 
+health impacts of climate change. 
+•	
+Climate change exacerbates existing health and social inequities. Climate change worsens environmental 
+conditions (e.g., ozone pollution) associated with chronic illness and injury and causes social and 
+economic dislocations that most impact disadvantaged communities.
+•	
+Interventions that act on upstream shared systemic causes can most effectively address both climate change 
+and health inequities.  Interventions to address climate change and health inequities range from upstream 
+structural, policies, and systems changes to downstream treatment, rehabilitation, and disaster recovery 
+efforts. Interventions along the entire spectrum are needed to protect and promote health in the era of 
+climate change. However, upstream solutions have the greatest benefits, providing primary prevention 
+and promoting healthy, equitable, sustainable, and resilient communities.7 
+•	
+Building political and economic power and voice are essential components of climate resilience. Especially 
+for historically disenfranchised low-income communities and communities of color, power imbalances 
+have allowed the perpetuation of unhealthy living conditions associated with health inequities and 
+climate vulnerability. The lack of power and voice constrains the ability of communities to respond to 
+climate change impacts and contribute local knowledge to climate solutions. Building community power 
+is required to transform systems to foster health.
+5
+HEALTH EQUITY AND CLIMATE CHANGE
+Health Equity: Some Definitions 
+Health equity means that everyone has a fair and just opportunity to be as healthy as possible. 
+This requires removing obstacles to health such as poverty, discrimination, and their consequences, 
+including powerlessness and lack of access to good jobs with fair pay, quality education and 
+housing, safe environments, and health care.2
+Systems, social and structural inequities, and institutional power impact our environment, living 
+conditions, behavior, and how we function as a society. 
+•	
+Systems3  are a collection of parts—physical structures, people, and organizations—that 
+interact to provide an important function. Farms, farmers, packing plants, food inspectors, 
+restaurants, and truckers all play a role in our food system. Social and structural inequities and 
+powerful institutions interact to shape the systems that determine living conditions, human 
+impacts on the climate, other environmental impacts, and health outcomes.
+•	
+Social and Structural Inequities4 refers to the historical disenfranchisement and unequal 
+distributions of power, money, and resources that are often associated with class, race, ethnicity, 
+place, immigration status, gender, and sexual orientation. These inequities are perpetuated by 
+hierarchies in power through mechanisms rooted in key institutions and processes.5
+•	
+Institutional Powers6 and authorities (such as corporations, governments, school systems, 
+and large NGOs) make decisions that impact the physical environment and shape the societal 
+distribution of health-promoting resources and opportunities (e.g. parks, grocery stores, 
+education, childcare, medical care, jobs). People in institutions and their decisions and actions 
+are influenced by social values and mores that perpetuate inequities. 
+Figure 2.1.1: Climate Change and Health
+6
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+2.2 Climate Vulnerability and Resilience
+Climate Vulnerability 
+Climate vulnerability is the degree to which people or communities are at risk of experiencing the negative 
+impacts of climate change.14 It is often tightly coupled with health and social inequities. Key components in 
+climate vulnerability include exposure, sensitivity to threats, and capacity to adapt and respond.15 See Table 1 for 
+more details.
+Intergenerational Equity 
+“We have been mortgaging the health of 
+future generations to realize economic and 
+development gains in the present.” 
+The Rockefeller Foundation–Lancet 
+Commission on Planetary Health
+The actions of one generation affect the 
+conditions of those that follow; climate 
+change makes this more pressing than 
+ever. Intergenerational equity means that 
+fundamental rights and interests of future 
+generations must be treated with equal value 
+as the rights and interests of those living 
+today. To ensure the survival and well-being 
+of future generations we must sustain the 
+most basic of earth’s resources—clean water, 
+clean air, healthy soil, and climatic stability.
+Young people are establishing a legal 
+framework for achieving intergenerational 
+equity. Juliana v. U.S. is a youth-filed 
+constitutional climate lawsuit asserting 
+that government actions that cause climate 
+change violate the youngest generation’s 
+constitutional rights to life, liberty, and 
+property, as well as fail to protect essential 
+public trust resources. Judges have upheld 
+the case against efforts by the Obama and 
+Trump Administrations to dismiss it.8,9
+Global Climate
+Inequities: Responsibility 
+and Burden 
+The smallest and least developed countries 
+often bear the most harmful burden 
+of climate change, although they have 
+contributed the least to the problem. 
+Industrialized nations are responsible for the 
+majority of climate pollution. From 1850 to 
+2011, the United States, European Union, 
+China, Russian Federation, and Japan emitted 
+two-thirds of the global CO2 emissions, and 
+the United States was responsible for 27% 
+of global greenhouse gas emissions (GHGE). 
+China has emerged as the world’s largest 
+climate polluter. However, the United States 
+ranks in eleventh place for per capita GHGE 
+at 16.5 metric tons per capita10—more than 
+three times the global average. China ranks 
+42nd (7.5 metric tons per capita) and India 
+ranks 127th (1.7 metric tons per capita).11
+The World Health Organization estimates 
+that 99% of the disease burden from climate 
+change occurs in developing countries, 88% 
+of which occurs in children under five.12 From 
+January 1980 through July 2013 there were 
+2.52 million deaths globally due to climate-
+related disasters, 51% of which occurred in 
+the 49 least developed countries.13
+7
+HEALTH EQUITY AND CLIMATE CHANGE
+Table 2.2
+COMPONENTS OF 
+CLIMATE VULNERABILITY
+Exposure to climate threats 
+•	
+Geography and the nature of climate change impact particular locations differently.
+	
+Low-lying coastal communities are at greater risk of coastal flooding from sea level rise and tidal 
+storm surges than communities at higher altitudes.
+	
+People living in flood plains are at higher risk of flooding with extreme precipitation.
+	
+Communities on or below steep hillsides are at risk of mudslides/landslides during extreme 
+weather events.
+	
+Those living at the wilderness-urban interface are at higher risk of wildfires.
+•	
+Occupations can increase exposure to climate risks.
+	
+Outdoor workers such as agricultural, landscape, and construction workers are at greater risk of 
+exposure to extreme heat. 
+	
+First responders are at increased risk of death or injury during extreme events such as hurricanes 
+or wildfires. 
+Sensitivity and susceptibility to climate threats
+•	
+Individual characteristics may increase susceptibility to climate risks. For example, older individuals and 
+children have increased susceptibility to heat stress.
+•	
+Pre-existing health conditions and baseline prevalence of climate-sensitive diseases. (Differences in rates 
+of these conditions and diseases often reflect health inequities.)  
+	
+Those with asthma or chronic obstructive pulmonary disease (COPD) are at greater risk of 
+respiratory illness from increased ozone, wildfire smoke, and increased pollen. 
+	
+People with obesity, diabetes, cardiovascular disease, and mental illness are more susceptible to 
+heat impacts.
+	
+Immunosuppression increases the risk of climate-related infectious disease.
+•	
+The baseline status of environmental quality intersects with climate impacts and subsequent health 
+outcomes. For example, people living in areas with high baseline levels of air pollution are more 
+vulnerable to increased ozone levels due to rising temperatures.
+8
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Capacity to adapt to and respond to climate threats 
+•	
+Differential access to resources, which means that low-income individuals, households, and 
+communities are less likely to
+	
+afford air conditioning to reduce heat risk, or to cope with rising food prices related to climate 
+impacts on agriculture;
+	
+have insurance or financial resources to rebuild or relocate after an extreme weather event; or
+	
+enjoy the resources required to build infrastructure that promotes climate resilience and 
+adaptation. 
+•	
+Conditions of the built environment, such as
+	
+aging water and sewage infrastructure that leave some communities more prone to severe 
+flooding and potential for water contamination;
+	
+few trees and parks in some neighborhoods increases risk from heat.
+•	
+Socially mediated capacity to reduce risk and to prepare and respond effectively. 
+•	
+Disinvestment in public health and emergency response infrastructure and safety net resources limits 
+the capacity for preparedness and response. 
+•	
+Variable levels of social cohesion which reduces health impacts of climate change and builds social and 
+political will to invest in climate action. 
+2.3 Race, Ethnicity, and Climate Change
+Each of the subsections below have an Appendix with additional information about the effects of 
+climate change on the health of the populations discussed (see Appendix 3). 
+African Americans
+African American communities have lower income, less education, and poorer health status than non-Hispanic 
+White communities overall, largely due to the legacy of slavery and historical discriminatory practices in housing, 
+education, employment, and healthcare.16 These inequities contribute to greater vulnerability to climate impacts. 
+•	
+African Americans are more likely to live in neighborhoods with few trees and more heat-trapping 
+pavement.17 The rate of heat-related deaths in African Americans is 150–200% greater than that for non-
+Hispanic Whites.18 
+•	
+African Americans have a 36% higher rate of asthma incidents and are 3 times more likely to die or visit 
+the emergency room from asthma-related complication than non-Hispanic Whites.19  
+•	
+One out of five of African American families live in poverty, compared to one out of fifteen White 
+families. During an extreme weather event, these households have a smaller cushion against property 
+damage or injuries, further complicated by lack of access to medical care and insurance.20 
+9
+HEALTH EQUITY AND CLIMATE CHANGE
+Native Americans and Alaska Natives
+Historical policies, such as colonization and genocide, the Indian Removal Act of 1830, and residential schools for 
+Native American children have led to present-day social and health inequities in Native American and Alaskan 
+Native communities, including loss of traditional lifestyles, persistent poverty, substandard health services, and 
+lack of access to electricity, running water, and communication technologies.21,22   
+•	
+Traditional Native Americans and Alaska Natives (NA/AN) diets and subsistence hunting and fishing are 
+at risk due to climate change.23,24   
+•	
+NA/AN communities lack access to clean, potable drinking water at higher rates than others.25 Warmer 
+water temperatures may exacerbate already-high rates of diarrhea-associated hospitalizations for Native 
+American and Alaskan Native children.26  
+Latinos/Hispanics/Latinx
+The three terms “Latinos” “Hispanics” “Latinx” are used here, but in the remainder of the document, “Latinos” 
+will be used for ease of use. Latino communities have lower income, less education, and poorer health status 
+than non-Hispanic White communities overall, largely due to historical discriminatory practices in housing, 
+education, employment, and healthcare.27  
+•	
+Nearly 1 in 2 Latinos live in counties with poor air quality. Latino children are twice as likely to die from 
+asthma as non-Latino whites, and Latino children living in areas with high levels of air pollution have a 
+heightened risk of developing Type 2 diabetes.28,29,30     
+•	
+Over 1.8 million Latinos live within a half-mile radius of oil and gas development.31 
+Native Hawaiians and Pacific Islanders
+Historical practices such as colonization and trade, the aggregation of census and health data, and a history of 
+military testing have led to present-day social and health inequities that increase climate-related health risks in 
+Native Hawaiian and Pacific Islander communities.32  
+•	
+Scientists project that by 2100, Hawai‘i and some Pacific islands will experience about 1ft–2.5ft higher 
+sea-level rise when compared to global averages.33 
+•	
+A higher proportion of Pacific Islanders in the United States live in counties with pollution exceeding the 
+federal air quality standards when compared with Asians and other racial groups.34 
+	
+Native Hawaiian and Pacific Islander communities experience high rates of asthma, expected to 
+worsen as climate change worsens air quality.35  
+10
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+2.4 Community Climate 
+Resilience
+Climate resilience is “the capacity of a community to 
+anticipate, plan for and mitigate the risks­
+— and seize 
+the opportunities—associated with environmental and 
+social change” brought about by climate change.36
+Earlier definitions framed resilience as the ability 
+to “bounce back” from a stress or shock, possibly to 
+unhealthful and inequitable conditions.37 “Bouncing 
+back” resilience might allocate resources to maintain 
+the status quo or make marginal changes that do not 
+fundamentally reduce vulnerabilities across the whole 
+of a community. “Bouncing forward” resilience is 
+characterized by greater openness and adaptability; 
+it strives to see climate change as an opportunity to 
+change social, economic, and political structures to 
+promote equity and sustainability and to invest in 
+systems changes that promote health and well-being.38 
+The characteristics of vulnerability and resilience may 
+coexist at the same time. For example, a neighborhood 
+may be exposed to high levels of air pollution but also 
+have a strong local food system and a high-quality 
+community clinic. Improving the underlying health 
+status and structural and system determinants of 
+health is one of the most effective strategies to build 
+climate resilience. See examples below of how LHDs 
+can advance health equity and build community 
+climate resilience. 
+2.5 What LHDs Can Do: 
+Health Equity and Climate 
+Resilience
+Building resilience to climate change and addressing social and health inequities requires addressing the systemic 
+causes of these challenges through collaboration and shared decision-making with impacted communities, 
+community-based organizations, and other stakeholders across sectors. Below is a set of recommended actions 
+LHDs can take to advance health equity and climate resilience within their current programs. For additional 
+actions by climate impacts and LHD programs and functions see Sections 4, 6, and 7 respectively. For a 
+comprehensive review of LHD action to advance health equity see Human Impact Partners Health Equity Guide.40 
+ 
+A climate-resilient 
+community:39
+•	
+Is committed to the transformative 
+change required to build a healthy, 
+equitable, and sustainable community.
+•	
+Takes action to build individual and 
+collective capacity to respond proactively 
+to and influence social, economic, and 
+environmental change.
+•	
+Nurtures diversity, respects the 
+experience and knowledge of all 
+community members, and proactively 
+engages all segments of a community in 
+understanding and responding to change.
+•	
+Is organized in a way that provides 
+capacity to recognize and act on problems 
+and to learn from experience.
+•	
+Fosters social cohesion and collaboration 
+across networks through bonding, 
+bridging, and linking.
+•	
+Builds community capitals including 
+economic, social, built, political, and 
+environmental capitals.
+•	
+Supports investment in physical 
+infrastructures and services that meet the 
+needs of all residents.
+•	
+Recognizes the value of environmental 
+resources and works to protect, enhance, 
+and maintain them.
+11
+HEALTH EQUITY AND CLIMATE CHANGE
+Assessment and Surveillance
+•	
+Include health and social inequities and vulnerabilities in climate and health vulnerability assessments.
+•	
+Improve data about vulnerable populations and health and social inequities and use it in planning and 
+prioritization for climate and health programming.
+	
+Acknowledge missing data and data limitations that may limit ability to assess particular 
+sub-groups.
+•	
+Highlight the most striking inequalities in data and publications and the root causes of these inequalities 
+to provide clear, consistent, and widespread messages to decision makers, affected communities, partners, 
+and the general public about the existence of and need to address health inequities. 
+•	
+Use community-based participatory research or “citizen science” or “community science” and 
+qualitative methods (e.g., surveys, interviews, focus groups) to identify indicators for climate and health 
+vulnerability assessments and in data collection and interpretation.
+	
+Multnomah County Health Department (Oregon) contracted with a community-based 
+organization, Coalition of Communities of Color and Portland State University Planning 
+Department to create a climate and health tool and interactive map to inform LHD action and 
+guide future jurisdiction investments. Community members were instrumental in selecting 
+indicators included in the tool. See Section 7.1—Surveillance.
+Intersectoral Collaboration
+•	
+Build awareness of the connection between the social determinants of health, and the shared systems 
+that create inequities and contribute to climate change with partner government agencies and elected 
+officials. Advance a narrative that emphasizes the climate change, health, and equity nexus and the 
+solutions that confer climate, health, and equity benefits.
+•	
+In collaboration with other agencies, include equity in assessments, research, and policy and program 
+decisions to examine the climate, health, and equity impacts of proposed policies, projects, and programs.
+•	
+In collaboration with other jurisdiction agencies and intersectoral partners advance policies and 
+programs that address the underlying determinants of health and inequities in access to resources and 
+infrastructure.
+	
+Promote urban agriculture and local food systems (e.g. community gardens).
+	
+Prioritize infrastructure investments to improve climate resilience and heath equity in historically 
+neglected communities (e.g. active transportation infrastructure, public parks and green space).
+•	
+Include climate, health, and equity language and data in jurisdiction plans, budgets, and assessments.
+	
+As part of the city’s 2018 One New York Plan, the NYC Department of Health and Mental Hygiene 
+worked collaboratively with other city agencies to include public health and health equity in the 
+city’s planning up until 2040, including for the city’s transportation and food systems.41 
+•	
+Work across sectors to agree upon common language related to climate change, health, and equity. See 
+Section 7.3—Collaboration.
+12
+CLIMATE CHANGE, HEALTH, AND EQUITY: A GUIDE FOR LOCAL HEALTH DEPARTMENTS
+Community Engagement and Education
+•	
+Conduct a scan to assess potential interest in the issue of climate change, health, and equity including 
+both current and potentially new partners.
+•	
+Conduct outreach to local Environmental Justice (EJ) groups, Community-based Organizations (CBOs), 
+and community leaders to begin conversations regarding their interest and activities related to climate 
+change, health, and equity.
+	
+Los Angeles County Department of Public Health contracted with a local EJ organization, 
+Communities for a Better Environment, to conduct a workshop to gather community input 
+on LADPH’s extreme heat response plan. Community recommendations will be compiled and 
+included in the response plan.
+•	
+Make an effort to meet potential CBO or community partners where they are and to develop an 
+understanding of their current priorities, concerns and challenges, membership and constituency, 
+strengths and resources, and level of interest in climate change and health equity. 
+•	
+See Section 7.2—Engagement and Section 8—Communications. 
+	
+The New Orleans Health Department partnered with Gulf Coast Center for Law & Policy to 
+host community meetings to assess knowledge of the city’s extreme weather response protocol, 
+communicate impacts of climate change on health, identify community health service needs, and 
+cultivate trust while prioritizing community action steps that address the intersection of climate 
+and health.
+•	
+Recognize and acknowledge the inherent power dynamics between community members and government 
+employees, people of color and White people, and people with different educational and socioeconomic 
+backgrounds. Provide space and processes, such as agreed on ground rules for meetings and 
+opportunities for one-on-one conversations, to address those dynamics. 
+•	
+Identify strategies to build community capacity as you partner with CBOs and community members
+and leaders.
+•	
+Include community members in decision-making processes regarding LHD programs and investments.
+•	
+Establish fair and supportive mechanisms for participation when requesting CBO or community member 
+participation in meetings or other partnership activities.
+•	
+Collaborate with CBOs and community members and leaders to develop culturally and linguistically 
+appropriate materials for public information and dissemination and use an array of channels to ensure 
+information reaches all members of the community.

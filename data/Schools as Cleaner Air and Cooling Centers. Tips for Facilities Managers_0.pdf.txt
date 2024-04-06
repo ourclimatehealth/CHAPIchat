@@ -1,0 +1,297 @@
+Publication No. 155F23002 
+September 2023
+epa.gov/schools
+Schools as Cleaner Air and Cooling Centers
+Tips for Facilities Managers
+Communities are facing the impacts of climate change, including severe health consequences from 
+heat waves and wildfires. EPA launched a pilot project in 2021 called Schools as Community Cleaner 
+Air and Cooling Centers to address the combined hazards of extreme heat and wildfire smoke with 
+a focus on spaces that serve children. The goals of this project are to support practical strategies for 
+safeguarding children in schools during heat and smoke events.
+Well-operated buildings play a critical role in protecting students from the harmful impacts of 
+heat and smoke. Facilities managers can be champions for practical smoke and heat mitigation 
+strategies, including upgrades to filtration and cooling systems, that can keep kids and staff safe 
+during the school day. Facilities managers can also conduct building-wide vulnerability assessments 
+and highlight deficiencies and vulnerabilities to appropriate decisionmakers. Facilities managers 
+are encouraged to connect with district leadership, staff, and teachers to understand any changes in 
+practice and to get feedback on conditions in different spaces during different times of the day. This 
+fact sheet can help you take the first steps toward upgrading school facilities for extreme heat and 
+wildfire smoke mitigation.
+HEALTHY LEARNING ENVIRONMENTS 
+BENEFIT SCHOOL SYSTEMS
+Facilities managers play a crucial role in addressing 
+environmental challenges for the school community. 
+Creating a safe, clean-air environment in schools is vital 
+for children, especially for children with additional 
+health vulnerabilities or in places with more persistent 
+or extreme climate risks. Extreme heat events, wildfire 
+smoke, and viruses like COVID-19 are all hazards to the 
+students, faculty, and staff of the school system. Facilities 
+managers can help reduce the impact of these hazards by 
+ensuring that the facilities’ HVAC system(s) are properly 
+maintained and able to maintain thermal comfort and 
+indoor air quality during heat waves, wildfires, and 
+periods of increased cases of infectious disease. Plus, 
+improvements to a building and its HVAC systems can not 
+only ensure the health and safety of building occupants 
+during these events but can also provide a number of 
+health and energy benefits throughout the year.
+Generally, facilities managers should prioritize efficient 
+ventilation, air filtration systems, and preventive measures 
+such as reducing light levels, checking building envelope 
+integrity, maintaining air conditioning units, and using 
+window coverings to minimize heat gain.
+During smoke events, efforts should focus on preventing 
+outside smoke from entering the building, including 
+sealing cracks and openings, and maintaining a positively 
+pressurized environment. Efforts should also include 
+enhanced filtration to reduce levels of smoke and particles 
+indoors, including by upgrading furnace filters. Portable 
+air cleaners can also be used, such as in areas not 
+served by the building’s HVAC system and in areas with 
+a higher density of occupants. Transportation logistics 
+and ensuring parental support during such events pose 
+significant challenges for school systems and emergency 
+management teams. Include these details in the facility’s 
+emergency management plan to be prepared.
+Outside of the school community, low-income residents 
+and seniors can be particularly vulnerable to heat and 
+smoke events, especially if they live in homes with 
+inadequate air filtration, cooling equipment, or insulation 
+from smoke intrusion. In some communities, schools 
+serve as a cleaner air and cooling center for members 
+of the public, especially in vulnerable communities. 
+Understanding the capacity of the filtration and cooling 
+systems will help the facility managers prepare the 
+building, or portions of the building, to serve this 
+extended community during a heat or smoke event.
+Portable air cleaners can be employed within classrooms 
+or other critical spaces. Please see EPA’s page on air 
+cleaners and air filters for more information.
+Publication No. 155F23002 
+September 2023
+epa.gov/schools
+OPERATIONS AND MAINTENANCE 
+CONSIDERATIONS
+For facilities that do not have HVAC systems, passive 
+strategies can help mitigate the effects of heat and smoke. 
+During a heat wave, take steps to reduce the solar heat gain 
+of the building: provide shading or cover windows, make 
+sure that windows and doors are well-sealed, and reduce 
+the buildings’ power output. For smoke events, ensure that 
+the building is well-sealed to prevent smoke from seeping 
+into the building. Provide a portable filtration unit if no 
+building HVAC systems exists. 
+For facilities that have HVAC systems, facilities managers 
+should do proactive maintenance before a heat wave to ensure 
+the system is well maintained and do continual diagnostic/
+maintenance during the event. Conduct regular maintenance 
+including inspection and cleaning of HVAC coils, replacing or 
+cleaning air filters, and maintaining fan motors.
+Higher-efficiency filters are recommended (MERV-13 
+minimum, or as high as the system allows), not only during 
+smoke events, but year-round to provide public health and 
+indoor air quality benefits. In addition, determine if the 
+outside air inlet at the HVAC system can be retrofitted to 
+install carbon filters. A positively pressurized building is 
+effective in keeping smoke out of the building. As such, 
+ensuring that the building’s exhaust airflows are balanced 
+with the ventilation airflows is crucial to ensure smoke 
+does not seep into the building from cracks in the exterior.
+Figure 2: Sources of airborne aerosols and their infiltration
+Figure 3: Sources of smoke inflitration during a smoke event
+Figure 1: Sources of heat within a typical classroom
+DESIGN CONDITIONS OVERVIEW
+Figure 4 provides summarized recommendations for 
+preparing classroom environments for various events, 
+including SARS-CoV-2 and some other viral airborne 
+illnesses (e.g., influenza), smoke, heat waves, and 
+combined heat and smoke events.  For SARS-COV-2, 
+using higher efficiency filters minimum MERV-13 and 
+increasing ventilation rates are recommended. When 
+setting a ventilation rate, follow CDC recommendations as 
+everyday post pandemic best practices. For more specific 
+information on setting a ventilation rate during pandemic 
+conditions, please see ASHRAE 241. Additionally, 
+enhanced air cleaning systems such as UV irradiation 
+systems can be considered. However, note that enhanced 
+air cleaning technologies may be new/emerging and are 
+therefore understudied and not recommended at this time 
+(such as bipolar ionization).
+During smoke events, employing higher efficiency 
+filters (minimum MERV-13), while maintaining proper 
+ventilation rates (avoid closing outside air dampers 
+completely), and using carbon filters to remove smoke 
+odors are recommended. In heat waves, it is important 
+to check and maintain HVAC systems, employ passive 
+strategies to reduce cooling demand, and ensure rooftop 
+surfaces where equipment is located are white to mitigate 
+heat islanding.
+CONTACT: EPAchildren@epa.gov
+Publication No. 155F23002 
+September 2023
+epa.gov/schools
+Figure 4: Design Condition Matrix Overview by System.
+DESIGN CONDITION MATRIX
+SARS-COV-21
+SMOKE (WILDFIRES) 1
+HEAT WAVES1
+HEAT AND SMOKE1
+PM 2.5/PM 10 Filtration2
+MERV 13 filters or as high as 
+your HVAC can handle. Consult 
+with a professional as needed.
+MERV 13 filters or as high as your 
+HVAC can handle. Consult with a 
+professional as needed.
+Code minimum MERV 13 filters 
+recommended for increased air 
+quality.
+MERV 13 filters or as high as your 
+HVAC can handle. Consult with a 
+professional as needed.
+Enhanced Air Scrubbing2
+Ultraviolet light 
+(optional)
+Carbon filters to address smoke 
+odors. 
+N/A
+Carbon filters to address smoke 
+odors. 
+Ventilation
+Follow CDC recommendations 
+as everyday post pandemic 
+best practices.
+For more specific information 
+on setting a ventilation rate 
+during pandemic conditions 
+please see ASHRAE 241.
+Ventilation with unfiltered 
+outdoor air is not recommended 
+during a smoke event. Close 
+doors and windows. Building 
+envelope should be monitored to 
+limit smoke from seeping in 
+through doors, windows, and 
+vents. Prepare to add 
+supplemental filtration at the 
+intake air vent, where possible. 
+See EPA guidance for more info.
+Use either conditional outdoor 
+air, if possible, otherwise attempt 
+to supply equivalent ventilation 
+in the form of enhanced filtration 
+(MERV 13 or greater) and/or 
+supplemental air cleaner.
+Follow guidance in previous two 
+boxes.
+Cooling Capacity
+Increased capacity to address 
+increased ventilation.
+N/A
+Meet increased cooling 
+requirements via mechanical and 
+passive cooling solutions.
+Meet increased cooling 
+requirements via mechanical and 
+passive cooling solutions.
+Heating Capacity
+Increased capacity to address 
+increased ventilation.
+N/A
+N/A
+N/A
+Fan Performance
+Improve fan performance to 
+overcome increased filtration 
+pressure drop.
+Improve fan performance to 
+overcome increased filtration 
+pressure drop.
+Improve fan performance to 
+achieve max supply design 
+airflow.
+Improve fan performance to 
+overcome increased filtration 
+pressure drop & achieve max 
+supply design airflow.
+Max Temperature 
+Equipment Concerns
+N/A
+N/A
+Confirm with equipment 
+manufacturers for max operating 
+temperature limitations. 125F is a 
+common limit, however, it is not 
+a universal limitation and 
+manufacturers should be 
+consulted.
+Confirm with equipment 
+manufacturers for max operating 
+temperature limitations. 125F is a 
+common limit, however, it is not a 
+universal limitation and 
+manufacturers should be 
+consulted.
+Building Pressurization
+N/A
+Positive
+N/A
+Positive
+Portable Filtration Units
+Portable filtration units 
+provide benefit.
+In addition to HVAC filter 
+improvements (see above), 
+provide supplemental air 
+cleaning with portable filtration 
+units, including in areas not 
+served by an HVAC system or 
+with a higher density of building 
+occupants.
+N/A
+In addition to HVAC filter 
+improvements (see above), 
+provide supplemental air cleaning 
+with portable filtration units, 
+including in areas not served by an 
+HVAC system or with a higher 
+density of building occupants.
+Additional Notes
+Health protocols such as social 
+distancing, mask use, cleaning 
+surfaces, etc. that extend 
+beyond HVAC should be 
+deployed. Refer to your local 
+health agency and the Center 
+for Disease Control for 
+additional guidance.
+Monitor indoor air quality in a 
+representative space. Consider 
+mask use should poor air quality 
+persist after exhausting 
+applicable HVAC modifications. 
+Repairs to the building envelope 
+and keeping doors and windows 
+shut will also reduce smoke 
+entrainment.
+Repairs to the building envelope 
+and keeping doors and windows 
+shut will also reduce heat 
+entrainment.
+Cover windows with shades or 
+drapes to limit solar heat gain. If 
+the air outside is hotter than the 
+air inside, close windows. If 
+outside air is cooler, open 
+windows.
+Follow guidance in previous two 
+boxes.
+NOTES
+1: Strategies for SARS-CoV2 should be considered for all design conditions as a post pandemic best practice.
+2: Refer to Pages 15-17 of the ASHRAE Planning Framework for Protecting Commercial Building Occupants from Smoke During Wildfire Events
+(https://www.ashrae.org/File%20Library/Technical%20Resources/COVID-19/Planning-Framework-for-Protecting-Commercial-Building-
+Occupants-from-Smoke-During-Wildfire-Events.pdf) for adding additional filters and pressure drop to existing fan systems.
+3: For latest guidance on equivalent air changes, refer to ASHRAE Standard 241 – Control of Infectious Aerosols
+(https://www.ashrae.org/technical-resources/standards-and-guidelines/read-only-versions-of-ashrae-standards)
+CDC and ASHRAE guidance may not always align. It is up to the facility manager to decide what is best for their facility.

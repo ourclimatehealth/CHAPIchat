@@ -1,0 +1,2067 @@
+PREPARING FOR 
+ 
+THE REGIONAL HEALTH IMPACTS OF 
+ 
+CLIMATE CHANGE 
+IN THE UNITED STATES 
+A summary of health effects, resources, and adaptation examples from  
+health departments funded by CDC’s Climate and Health Program 
+July 2020 / Climate and Health Program 
+2
+Contents
+Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+Background
+3
+Regions
+6
+Alaska
+7
+Hawaii and U.S.-Affiliated Pacific Islands
+10
+Midwest 
+13
+Northeast
+16
+Northern Great Plains 
+20
+Northwest
+22
+Southeast 
+25
+Southern Great Plains 
+28
+Southwest
+30
+U.S. Caribbean 
+33
+Conclusion
+36
+Selected Links and Resources
+36
+Appendix: Explanation of Graphics for Accessibility
+36
+3
+Executive Summary
+Each region of the United States experiences climate change 
+and its impacts on health differently, due to the regions’ 
+location-specific climate exposures and unique societal and 
+demographic characteristics. The Centers for Disease Control 
+and Prevention (CDC) Climate and Health Program supports 
+states, counties, cities, tribes, and territories to assess how 
+climate change will affect their community, identify vulnerable 
+populations, and implement adaptation and preparedness 
+strategies to reduce the health effects of climate change. This 
+document describes the various health impacts climate change 
+will have on different regions of the United States as outlined in 
+the Fourth National Climate Assessment (NCA4), actions taken 
+by the CDC Climate and Health Program’s health department 
+partners to prepare for and respond to climate change in their 
+communities, and relevant tools and resources.
+Background
+Climate change, together with other natural and human-
+made health stressors, influences human health and disease 
+in numerous ways. Some existing health threats will intensify 
+and new health threats will emerge (https://www.cdc.gov/
+climateandhealth/effects/default.htm). For example, changes 
+in temperature and precipitation are increasing health risks 
+associated with wildfire and ground-level ozone pollution. 
+Rising air and water temperatures and more intense extreme 
+events are expected to shift exposure to waterborne and 
+foodborne diseases, affecting food and water safety. With 
+continued warming, cold-related deaths are projected to 
+decrease and heat-related deaths are projected to increase, and 
+in most regions, increases in heat-related deaths are expected 
+to outpace reductions in cold-related deaths. The frequency 
+and severity of allergic illnesses, including hay fever, are 
+expected to increase as a result of shorter winters and earlier 
+and longer pollen seasons. Climate change is also projected to 
+alter the geographic range and distribution of insects and pests, 
+potentially exposing more people to ticks and mosquitoes 
+that carry the agents that cause diseases like Lyme disease, 
+Zika, West Nile and dengue. Communities in the Southeast, for 
+example, are particularly vulnerable to the combined health 
+impacts from heat and flooding, which can result in large 
+populations of nuisance mosquitoes and potential disease risk. 
+Finally, extreme weather and climate-related events can have 
+lasting mental health consequences in affected communities, 
+particularly if they result in degradation of livelihoods or 
+community relocation. For more information on the health 
+impacts of climate change in the United states, see the health 
+chapter of the fourth National Climate Assessment: https://
+nca2018.globalchange.gov.
+Impact of Climate Change on Human Health 
+Climate change impacts a wide range of health outcomes. This image illustrates some of the most significant components of climate 
+change (rising temperatures, more extreme weather, rising sea levels, and increasing carbon dioxide levels), their effect on exposures, 
+and the subsequent health outcomes that can result from these changes in exposures. Source: https://www.cdc.gov/climateandhealth/
+effects/default.htm. For accessibility see appendix, page 36.  
+  
+  
+ 
+R
+I
+S
+I
+N
+G
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+M
+O
+R
+E
+ 
+E
+X
+T
+R
+E
+M
+E
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+R
+I
+S
+I
+N
+G
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ I
+N
+C
+R
+E
+A
+S
+I
+N
+G
+  
+  
+ 
+T
+E
+M
+P
+E
+R
+A
+T
+U
+R
+E
+S
+  
+  
+  
+  
+  
+  
+ 
+W
+E
+A
+T
+H
+E
+R
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+S
+E
+A
+ 
+L
+E
+V
+E
+L
+S
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+C
+O
+₂
+ 
+L
+E
+V
+E
+L
+S
+4
+Importantly, not everyone is equally at risk. The impacts on 
+health due to climate change are both place-specific and 
+path-dependent, meaning the impacts of climate change 
+depend on where you are and who you are, as there are 
+varying degrees of climate exposure and differences in 
+individual and societal characteristics that can either protect 
+you or make you more vulnerable to the impacts of climate 
+change. For example, populations including older adults, 
+children, low-income communities, and some communities 
+of color are often disproportionately affected by, and less 
+resilient to, the health impacts of climate change. Adaptation 
+and mitigation policies and programs help individuals, 
+communities, and states prepare for the risks of a changing 
+climate and reduce the number of injuries, illnesses, and 
+deaths from climate-related health outcomes.
+CDC’s Climate and Health Program is the national leader in 
+empowering communities to protect human health from a 
+changing climate. Beginning in 2010, the Climate and Health 
+Program implemented the Climate-Ready States and Cities 
+Initiative (CRSCI) to help state and city health departments 
+prepare for and respond to the health effects that a changing 
+climate may bring to their communities. Sixteen states and 
+two cities are funded to implement the five-step Building 
+Resilience Against Climate Effects (BRACE) framework to identify 
+likely climate impacts in their communities, potential health 
+effects associated with these impacts, and their most at-risk 
+populations and locations so that they can then develop and 
+implement health adaptation plans and address gaps in critical 
+public health functions and services. For more information see: 
+https://www.cdc.gov/climateandhealth/climate_ready.htm
+Five sequential steps comprise the BRACE framework
+The Building Resilience Against Climate Effects (BRACE) framework is a five-step process that allows health officials to develop 
+strategies and programs to help communities prepare for the health effects of climate change.  Accessibility source: https://www.cdc.
+gov/climateandhealth/BRACE.htm 
+Step 1: Anticipate Climate Impacts and Assessing Vulnerabilities
+Identify the scope of climate impacts, associated potential health outcomes, and populations and locations 
+vulnerable to these health impacts.
+Step 2: Project the Disease Burden
+Estimate or quantify the additional burden of health outcomes associated with climate change.
+Step 3: Assess Public Health Interventions
+Identify the most suitable health interventions for the identified health impacts of greatest concern.
+Step 4: Develop and Implement a Climate and Health Adaptation Plan
+Develop a written adaptation plan that is regularly updated. Disseminate and oversee implementation of the plan.
+Step 5: Evaluate Impact and Improve Quality of Activities
+Evaluate the process. Determine the value of information attained and activities undertaken.
+5
+The Climate and Health Program also supports tribes, territories, 
+and other communities that are not part of the Climate-Ready 
+States and Cities Initiative (CRSCI) through the “Building 
+Capacity of the Public Health System to Improve Population 
+Health through National, Nonprofit Organizations” program 
+managed by CDC’s Center for State, Tribal, Local and Territorial 
+Support (CSTLTS). Funded partners include the National 
+Indian Health Board (NIHB) Climate-Ready Tribes Initiative; the 
+Association of State and Territorial Health Officials (ASTHO) 
+Climate-Ready Territories Initiative; the Council for State and 
+Territorial Epidemiologists (CSTE); the National Environmental 
+Health Association (NEHA); and the National Association of 
+County and City Health Officials (NACCHO).
+Jurisdictions funded or previously funded by the  
+CDC Climate and Health Program
+This map highlights the states, cities, counties, tribes, and territories that have received funding and technical assistance 
+from the CDC Climate and Health Program directly and through partnerships with other organizations. For accessibility see 
+appendix, page 36. 
+Lummi Nation
+Clackamas 
+County
+Greenville 
+Ranchera
+San Francisco
+Alameda County
+San Mateo County
+Kaw 
+Nation
+WA
+OR
+CA
+AZ
+FL
+NC
+IL
+WI
+MI
+MD
+RI
+MA
+NH
+NY
+ME
+VT
+MN
+New Orleans
+New York City
+Boston
+Seneca 
+Nation
+of Indians
+Marquette 
+County
+Village of 
+Wainwright
+Sitka Tribe 
+of Alaska
+U.S. 
+Virgin 
+Islands
+Pala 
+Band of
+Mission 
+Indians
+Federated States
+of Micronesia
+Commonwealth
+of the Northern
+Mariana Islands
+Blackfeet Nation
+Winnebago 
+Tribe of 
+Nebraska
+Swinomish
+Indian Tribal 
+Community
+6
+Regions
+Outlined on the following pages are the unique climate-related health impacts for each region of the United States  
+(as defined by the Fourth National Climate Assessment) and relevant highlights of actions taken by the CDC Climate and 
+Health Program’s health department partners to prepare for and respond to climate change in their communities. The 
+climate impacts described in each region are not comprehensive, as additional threats may exist that were not included 
+in the Fourth National Climate Assessment. This document synthesizes the impacts that are directly health-relevant, but 
+is not meant to be all-encompassing. In addition, the descriptions of local adaptation activities are not comprehensive. 
+A variety of climate-relevant health adaptation activities that are not funded by CDC are taking place across the country, 
+and are not reflected in this document. 
+ALASKA
+HAWAII  
+and  
+U.S.-AFFILIATED  
+PACIFIC ISLANDS
+U.S. CARIBBEAN
+SOUTHWEST
+NORTHERN 
+GREAT PLAINS
+NORTHWEST
+SOUTHERN 
+GREAT PLAINS
+MIDWEST
+NORTHEAST
+SOUTHEAST
+7
+ALASKA
+8
+Health Impacts 
+Temperature-Related Death  
+and Illness
+Winter travel has long been a key feature of 
+subsistence food gathering activities for rural Alaska 
+communities. Higher winter temperatures and shorter durations 
+of ice seasons may delay or disrupt usual patterns of ice 
+formation on rivers, lakes, and the ocean. For hunters and other 
+travelers, this increases the risk of falling through the ice, having 
+unplanned trip extensions, or attempting dangerous routes, 
+leading to exposure injury, deaths, or drowning (NCA4 Alaska 
+Chapter, Key message (KM) 3, Direct Exposures).
+Air Quality Impacts
+Climate-driven increases in air pollution in Alaska 
+are primarily linked to the increases in wildfire 
+frequency and intensity. Wildfires threaten individual safety in 
+adjacent communities and pose risks downwind from smoke 
+inhalation, particularly for children and persons with chronic 
+respiratory and cardiovascular conditions. Air conditioning in 
+homes is rare in Alaska, so relief is seldom available for at-risk 
+persons to escape smoke exposure due to wildfires, assuming 
+proper filters are not installed. It is also likely that there will be 
+an increased risk of respiratory allergies related to longer and 
+more intense seasonal pollen blooms and mold counts. 
+Increased respiratory symptoms have also been reported in 
+communities that are experiencing increased windblown dust 
+(NCA4 Alaska Chapter, KM3, Direct Exposures). 
+Extreme Events
+Extreme weather events such as major storms, 
+floods, and heavy rain events have all occurred in 
+Alaska with resulting threats to human health. For coastal areas, 
+the damage from late-fall or winter storms is likely to be 
+compounded by a lack of sea ice cover, high tides, and rising sea 
+levels, which can increase structural damage to tank farms, 
+homes, and buildings and can threaten loss of life from 
+flooding. Similar events threaten communities on rivers, where 
+flooding due to increased glacial melt or heavy rains can cause 
+extensive structural damage and loss of life (NCA4 Alaska 
+Chapter, KM3, Direct Exposures).
+Vector-Borne Diseases
+Changes in insect and arthropod ranges due to 
+climate change have raised human health concerns, 
+such as the documented increase in venomous insect stings in 
+Alaska. Tick-borne human illnesses are uncommon in Alaska, 
+but new reports of ticks on domestic dogs without travel 
+exposure outside Alaska raise concerns about tick range 
+extension into Alaska and the potential for introduction of new 
+pathogens (NCA4 Alaska Chapter, KM3, Indirect Effects).
+Water-Related Illness
+Climate-related environmental changes that can 
+affect access to water and sanitation services have 
+been well-documented. These changes include loss of surface 
+water through drainage of tundra ponds, lower source-water 
+quality through increased riverbank erosion due to permafrost 
+thaw or saltwater intrusion in coastal communities, and 
+increased coastal erosion or storm surge leading to wastewater 
+treatment system damage. Permafrost thawing poses a threat 
+to centralized water and wastewater distribution systems that 
+need stable foundations to maintain system integrity. Likewise, 
+the documented northward range expansion of beavers has 
+been postulated to increase the threat of waterborne Giardia 
+infections in humans; however, human Giardia illness reports 
+have been stable in Alaska and show no increasing regional 
+trends (NCA4 Alaska Chapter, KM3, Indirect Effects). 
+Food Safety, Nutrition  
+and Distribution
+In Alaska, disruption of ice cellars from thawing 
+permafrost and coastal erosion has raised concerns about food 
+spoilage or infectious outbreaks, but documented human 
+illness events are lacking. Additionally, harmful algal blooms 
+(HABs) produce toxins that can harm wildlife and pose a health 
+risk to humans through consumption of contaminated shellfish. 
+Because phytoplankton growth is increased in part by higher 
+water temperatures, risks for HAB-related illnesses, including 
+paralytic shellfish poisoning (PSP), may increase with climate 
+change. PSP is a long-recognized, untreatable, and potentially 
+fatal illness caused by a potent neurotoxin in shellfish (NCA4 
+Alaska Chapter, KM3, Indirect Effects).
+Mental Health and Well-Being
+Climate change is a common concern among 
+Alaskans and is associated with feelings of 
+depression and uncertainty about the potential changes to 
+communities, subsistence foods, culture, and traditional 
+knowledge and the potential of relocation from long-
+established traditional sites. These uncertainties and threats 
+have effects on mental health and on family and community 
+relationships and may lead to unhealthy responses such as 
+substance abuse and self-harm (NCA4 Alaska Chapter, KM3, 
+Psychological and Social Effects).
+Populations of Concern
+The Alaskans most vulnerable to these climate-
+related changes are those who are most 
+dependent on subsistence foods, the poor, the very young, 
+the elderly, and those with existing health conditions that 
+require ongoing care, that limit mobility, or that reduce 
+capacity to accommodate changes in diet, family support, or 
+stress (NCA4 Alaska Chapter, KM3, Psychological and Social 
+Effects). Native American and Alaska Native communities are 
+particularly vulnerable as the health risks of climate change 
+9
+are expected to compound existing health issues, in part due 
+to the loss of traditional foods and practices, the mental stress 
+from permanent community displacement, increased injuries 
+from lack of permafrost, storm damage and flooding, smoke 
+inhalation, damage to water and sanitation systems, decreased 
+food security, and new infectious diseases. 
+CDC-Funded Jurisdictions 
+Village of Wainwright, NIHB Mini-Grant, funded in  
+2017-2018
+The Tribal Village of Wainwright identified that the effects 
+of climatic changes on sea ice are of particular concern to 
+community members. In response, a project was implemented 
+that augmented existing accident prevention and rescue 
+programs through the promotion of the use of location 
+technology (inReach devices) and developed new community-
+based programs that increase knowledge of health risks due 
+to climate change to reduce morbidity and mortality due to 
+subsistence and travel activities.
+Sitka Tribe of Alaska, NIHB Mini-Grant, funded in  
+2019-2020
+The Sitka Tribe of Alaska relies heavily on shellfish and 
+seafood for nutrition and cultural purposes. Warming water 
+temperatures threatened the safety of shellfish for human 
+consumption. The Tribe is coordinating a regional project to 
+monitor shellfish contamination.
+10
+HAWAII and U.S.-AFFILIATED 
+PACIFIC ISLANDS
+11
+Health Impacts 
+Extreme Events
+The rate of global average sea level rise has 
+accelerated and has become very damaging in 
+the region. Impacts include coastal erosion, episodic flooding, 
+permanent inundation, heightened exposure to marine hazards, 
+and saltwater intrusion to surface water and groundwater 
+systems. Already apparent on many shorelines, these problems 
+endanger human communities by negatively impacting basic 
+societal needs, such as food and freshwater availability, housing, 
+energy and transportation infrastructure, and access to 
+government services. Climate-related migration in U.S.-affiliated 
+island also directly impacts health (NCA4 Hawai’i & 
+U.S.-Affiliated Pacific Island Chapter, KM3).
+Vector-Borne Diseases
+An increase in the incidence of vector-borne 
+diseases such as malaria and dengue in the Pacific 
+Islands has been linked to climate variability and is expected 
+to increase further as a result of climate change. For example, 
+in late 2013 and early 2014, Fiji experienced the largest 
+outbreak of dengue in its history, with approximately 28,000 
+reported cases (NCA4 Hawai’i & U.S.-Affiliated Pacific Island 
+Chapter, KM6).
+Water-Related Illness
+Dependable and safe water supplies for Pacific island 
+communities and ecosystems are threatened by 
+rising temperatures, changing rainfall patterns, sea level rise, 
+and increased risk of extreme drought and flooding. Islands are 
+already experiencing saltwater contamination due to sea level 
+rise, which is expected to catastrophically impact food and 
+water security, especially on low-lying atolls. Additionally, 
+chronic water shortages are possible as rainfall decreases and 
+both evaporation and the water requirements of a growing 
+human population increase (NCA4 Hawai’i & U.S.-Affiliated 
+Pacific Island Chapter, KM1). 
+Food Safety, Nutrition  
+and Distribution
+Away from urban areas, many island communities 
+rely on food gathered from the ocean and land. Rising sea 
+surface temperatures are shifting the location of fisheries. 
+Ocean warming and acidification, coupled with damaging 
+watershed and reef practices, converge on island shores to 
+increasingly limit the food resources that can be gathered from 
+the sea (NCA4 Hawai’i & U.S.-Affiliated Pacific Island Chapter, 
+KM3). In Hawaii, climate change impacts, such as reduced 
+streamflow, sea level rise, saltwater intrusion, and long periods 
+of drought, threaten the ongoing cultivation of taro and other 
+traditional. These kinds of climate impacts lead to an increased 
+dependence on imported food that is of little nutritional value. 
+This is a public health concern for Hawaii and the USAPI, as 
+Indigenous Pacific Islanders have the highest rates of obesity 
+and chronic diseases, such as diabetes, in the region (NCA4 
+Hawai’i & U.S.-Affiliated Pacific Island Chapter, KM5).
+Mental Health and Well-Being
+Sea level rise imperils Indigenous communities of 
+the Pacific. The sea that surrounds Pacific island 
+communities continues to rise at a rate faster than the global 
+average, with documented impacts on agriculture, coastal 
+infrastructure, food security, livelihoods, and disaster 
+management in the Republic of Palau and the Republic of the 
+Marshall Islands. In Hawaii, sea level rise impacts on traditional 
+and customary practices (including fishpond maintenance, 
+cultivation of salt, and gathering from the nearshore fisheries) 
+have been observed. Detachment from traditional lands has a 
+negative effect on the spiritual and mental health of the people 
+(NCA4 Hawai’i & U.S.-Affiliated Pacific Island Chapter, KM5).
+Populations of Concern
+Indigenous communities of the Pacific have an 
+inseparable connection to and derive their sense 
+of identity from the lands, territories, and resources of their 
+islands. Climate change threatens this familial relationship 
+with ancestral resources and is disrupting the continuity that 
+is required for the health and well-being of these communities 
+(this experience is common to many tribal and Indigenous 
+communities across the United States). Women have also been 
+identified as a more vulnerable population to regional climate 
+risks due to the role they have in terms of economic activities, 
+safety, health, and their livelihoods (NCA4 Hawai’i & U.S.-
+Affiliated Pacific Island Chapter, KM5). 
+12
+CDC-Funded Jurisdictions 
+ 
+Commonwealth of the Northern Mariana Islands  
+Commonwealth Healthcare Corporation, ASTHO grant,  
+funded in 2017-2018
+To bolster capacity to address the public health threats 
+associated with climate change, the Commonwealth of the 
+Northern Mariana Islands (CNMI) Commonwealth Health 
+Care Corporation planned and executed a climate change 
+training for staff throughout the agency. This helped to build 
+knowledge and expertise locally. In addition, the project team 
+also developed a CNMI-specific health impact scoping report 
+to assess the local risk of various impacts. Throughout the 
+project, the team also identified and built relationships with key 
+partners outside of public health, including other governmental 
+agencies, who can provide expertise and input on climate and 
+health work across CNMI.
+The Federated States of Micronesia  
+Department of Health and Social Affairs, ASTHO grant, funded in 
+2017-2018
+This project aimed to assist the people of the low-lying islands 
+in the states of Chuuk and Pohnpei in the Federated States of 
+Micronesia with knowledge, skills and techniques to maintain 
+a healthy island diet in a changing environment. The project 
+consisted of educational workshops and hands-on exercises. 
+In this collaborative project, local agricultural and diet-related 
+knowledge and practices were paired with outside technical 
+assistance (geographic information system training provided by 
+CDC and ASTHO) to empower the communities on the low-lying 
+islands to adapt to climate change with regard to food security 
+and water management
+13
+MIDWEST 
+14
+Health Impacts 
+Temperature-Related Death  
+and Illness
+Increased daytime and nighttime temperatures are 
+associated with heat-related diseases (for example, dehydration 
+and heatstroke) and death in the Midwest. High rates of 
+heat-related illness also have been observed in rural 
+populations, where occupational exposure to heat and access to 
+care is a concern. Compared to other regions where worsening 
+heat is also expected to occur, the Midwest is projected to have 
+the largest increase in extreme temperature-related premature 
+deaths under the higher scenario (RCP8.5). Northern 
+midwestern communities and vulnerable populations that 
+historically have not experienced high temperatures may be at 
+risk for heat-related disease and death. Risk of death from 
+extremely cold temperatures will decrease under most climate 
+projection scenarios (NCA4 Midwest Chapter, KM4, 
+Temperature).
+Air Quality Impacts
+Increases in ground-level ozone and particulate 
+matter are associated with the prevalence of 
+various lung and cardiovascular diseases, which can lead to 
+missed school days, hospitalization, and premature death. In the 
+absence of mitigation, ground-level ozone concentrations are 
+projected to increase across most of the Midwest, resulting in an 
+additional 200 to 550 premature deaths in the region per year 
+by 2050. People, particularly children, with asthma and other 
+respiratory diseases are especially vulnerable to aeroallergens. 
+Aeroallergens can cause allergic rhinitis and exacerbate asthma 
+and sinusitis (NCA4 Midwest Chapter, KM4, Air Quality). 
+Additionally, flooded buildings can experience mold growth 
+that can also trigger asthma attacks and allergies during 
+cleanup efforts (NCA4 Midwest Chapter, KM4, Precipitation). 
+Extreme Events
+ERiver flooding in large rivers like the Mississippi, 
+Ohio, and Missouri Rivers and their tributaries 
+can flood surface streets and low-lying areas, resulting in 
+drinking water contamination, evacuations, damage to 
+buildings, injury, and death (NCA4 Midwest Chapter, KM4, 
+Precipitation). Projected increases in the number of extreme 
+precipitation events have been linked to an increased risk of 
+traffic crashes (NCA4 Midwest Chapter, KM5).
+Vector-Borne Diseases
+Climate-related changes in habitats for disease-
+carrying insects like the mosquito found in the 
+Midwest (Culex pipiens and Culex tarsalis) that transmits West 
+Nile virus (WNV) and the blacklegged, or deer tick (Ixodes 
+scapularis) that transmits Lyme disease have been associated 
+with higher rates of infection. Overall warmer temperatures are 
+linked to increased numbers of deer ticks in the upper Midwest 
+which has led to earlier seasonal exposure and longer season of 
+risk. Northern expansion of the Culex species in the Midwest is 
+expected to result in upwards of 450 additional WNV cases 
+above the 1995 baseline by 2090 absent greenhouse gas 
+mitigation (NCA4 Midwest Chapter, KM4, Habitat Conditions).
+Water-Related Illness
+Precipitation events can transport pathogens that 
+cause gastrointestinal illnesses, putting populations 
+who rely on untreated groundwater (such as wells) at an 
+increased risk of disease, particularly following large rainfall 
+events (NCA4 Midwest Chapter, KM4, Precipitation). Contact 
+with and consumption of water contaminated with 
+cyanobacteria (from harmful algal blooms, for example) have 
+been associated with skin and eye irritation, respiratory illness, 
+gastrointestinal illness, and liver and kidney damage (NCA4 
+Midwest Chapter, KM4, Habitat Conditions). In metropolitan 
+areas with older sewer systems that combine sanitary sewage 
+with storm water, extreme rain can result in the release of raw 
+sewage into rivers and streams, posing both health risks and 
+challenges to major sources of drinking water including the 
+Mississippi River and the Great Lakes (NCA4 Midwest Chapter, 
+KM5).
+Mental Health and Well-Being
+Mental stress following flooding events can cause 
+substantial health impacts, including 
+sleeplessness, anxiety, depression, and post-traumatic stress 
+disorder. Similarly, drought has been identified as a slow-
+moving stressor that contributes to acute and chronic mental 
+health impacts such as anxiety and depression (NCA4 Midwest 
+Chapter, KM4, Precipitation).
+Populations of Concern
+The health risks of climate change are especially 
+high for people who are less able to cope 
+because characteristics like age, income, or 
+social connectivity make them more vulnerable (NCA4 Midwest 
+Chapter, KM4). For those who are chronically ill or reliant on 
+electronic medical devices, the increased cost of electricity, 
+which contributes to energy insecurity, may introduce 
+financial and health burdens (NCA4 Midwest Chapter, KM4, 
+Temperature). Tribes in the Midwest have been among the first 
+to feel the effects of climate change as it impacts their culture, 
+sovereignty, health, economies, and ways of life (NCA4 Midwest 
+Chapter, KM6, Tribal Adaptation).
+CDC-Funded Jurisdictions 
+Minnesota Department of Health, CRSCI Recipient and NEHA 
+Mini-Grant recipient, funded by CDC since 2010
+The Minnesota Climate and Health Program protects public 
+health by engaging, informing, and guiding health and climate 
+champions throughout the state to create healthy, equitable, 
+and resilient communities. The program works with partners 
+and stakeholders to educate about the health impacts of 
+15
+a changing climate through trainings and communication 
+materials. For example, the program released a seven-part 
+training and companion materials to educate on climate and 
+health in Minnesota, including agriculture and food security, 
+air quality, extreme heat, water changes, well-being, and 
+vector-borne diseases. To help planners and decision-makers in 
+emergency management understand regional climate trends, 
+the program co-developed climate and health data profiles 
+in 2019. The profiles are tailored to each of the six Homeland 
+Security and Emergency Management (HSEM) regions across 
+the state, acting as a framework for discussing projected local 
+risks related to our changing climate and supporting the 
+development of climate adaptation strategies that protect 
+community health and safety.
+Minnesota also received a mini-grant in 2019 from CDC and the 
+National Environmental Health Association (NEHA) to develop 
+an online climate and health vulnerability assessment tool to 
+allow communities across the state to visualize and analyze 
+health, climate, and environmental data to aid planning and 
+adaptation.
+Michigan Department of Health and Human Services, 
+CRSCI Recipient, funded by CDC since 2010
+The Michigan Climate and Health Adaptation Program (MICHAP) 
+primarily addresses extreme heat, air quality and respiratory 
+illnesses, flooding, vector-borne diseases, water-borne diseases, 
+extreme weather events, and power outages from such events. 
+Some of MICHAP’s adaptation activities include integrating 
+climate health adaptation in community planning and the 
+built environment, building adaptive capacity in urban and 
+rural communities based on their specific vulnerabilities, and 
+working with other local and state level public health partners 
+to collect, assess, and share climate and health information 
+and data. Addressing these hazards serves and benefits all the 
+Michigan residents, and especially the vulnerable populations 
+in each locale where work is being done. An important climate 
+driver of negative health outcomes in Michigan is extreme 
+precipitation. Major health impact pathways identified through 
+the BRACE framework include exposure to waterborne diseases 
+from combined sewer overflows, harmful algal blooms due 
+to increased runoff, impacts on drinking water sources from 
+flooding and drought, and injury or stress from flooding-related 
+damage to homes and infrastructure.  MICHAP partners across 
+sectors to address many of these issues. 
+University of Illinois at Chicago School of Public Health 
+and Illinois Department of Public Health, CRSCI Recipient, 
+funded by CDC since 2012.
+The BRACE-Illinois Program is preparing for the impacts of 
+a changing climate by focusing on extreme heat, air quality 
+and respiratory illnesses, flooding, vector-borne diseases, 
+water-borne diseases, and mental health. The program’s 
+main activities to address these hazards are education, 
+capacity building in the local health departments, and use 
+of planning tools. Through a competitive selection process, 
+local health departments have the opportunity to receive 
+training and support in the areas of climate science, public 
+health effects linked to climate sensitive events, public health 
+hazard vulnerability assessment, strategic planning to address 
+prioritized climate sensitive health effects, and incorporating 
+climate change into current programs and planning processes. 
+The program also provides educational opportunities by 
+providing continuing medical education credits to a variety 
+of audiences through multiple modalities with an emphasis 
+on the medical community (an identified key stakeholder). 
+BRACE-Illinois also develops toolkits designed to help guide 
+public health and emergency preparedness professionals in 
+their efforts to prepare their communities for the new normal of 
+extreme weather events.
+Wisconsin Division of Public Health, CRSCI Recipient, funded 
+by CDC since 2012
+The Wisconsin Climate and Health Program addresses health 
+effects related to extreme heat, extreme cold, flooding, and 
+vector-borne diseases. The program is advised by a health 
+equity advisory team so that implementation and evaluation 
+efforts can be focused on those most at-risk. One of the 
+adaptation activities has been a prospective extreme heat-
+related community assessment of public health emergency 
+response (CASPER) in Milwaukee, which a previous heat 
+vulnerability index project identified as extremely vulnerable 
+during an extreme heat event. This tool is being evaluated for 
+use during extreme weather events. The data being collected 
+will be used to inform future extreme heat plans in Milwaukee. 
+The program has also worked on a flood vulnerability and a risk 
+map. An interactive ArcGIS online web platform was created to 
+assess vulnerability to and risk for flooding based on a variety 
+of variables including a social vulnerability index, flood plains, 
+and critical health care infrastructure. Additionally, a flood 
+resilience scorecard is being produced through the program.  
+This scorecard is a comprehensive checklist that assesses 
+social, institutional, and environmental variables so that local 
+municipalities can better assess their vulnerabilities to flooding 
+events. It also allows local municipalities to better plan for 
+future flooding events by using the tool’s recommendations 
+based on their individual scores.
+Marquette County Health Department, Michigan, NACCHO 
+Mini-Grant, funded in 2019.
+In addition to collaborating with the CDC-funded Michigan 
+Climate and Health Adaptation Program (MICHAP), Marquette 
+County also received a mini-grant from CDC and the National 
+Association of County and City Health Officials (NACCHO) in 
+2019 to support local adaptation efforts. The Marquette County 
+Health Department developed a “Public Health Response 
+to Flooding Disasters” plan to protect their population from 
+increasing extreme rain events. Local decision makers are using 
+the resource to assess climate impacts on their communities’ 
+health and using built environment design concepts to 
+incorporate health adaptations into community planning.
+16
+NORTHEAST
+17
+Health Impacts 
+Temperature-Related Death  
+and Illness
+During extreme heat events, nighttime temperatures 
+in the region’s big cities are generally several degrees higher 
+than surrounding regions, leading to higher risk of heat-related 
+death. In urban areas, the hottest days in the Northeast are also 
+often associated with high concentrations of urban air 
+pollutants including ground-level ozone (NCA4 Northeast 
+Chapter, KM3, Climate-Infrastructure Interaction and 
+Heightened Risks).
+Extreme Events
+Much of the historical development of industry 
+and commerce in New England occurred along 
+rivers, canals, coasts, and other bodies of water, these areas 
+often have a higher density of contaminated sites, waste 
+management facilities, and petroleum storage facilities that are 
+potentially vulnerable to flooding. As a result, increases in flood 
+frequency or severity could increase the spread of contaminants 
+into soils and waterways, resulting in increased risks to human 
+health (NCA4 Northeast Chapter, Background). When coupled 
+with storm surges, sea level rise can pose severe risks of 
+flooding, with consequent physical and mental health impacts 
+on coastal populations (NCA4 Northeast Chapter, KM2, Sea 
+Level Rise, Storms, and Flooding).
+Water-Related Illness
+Increased soil erosion and agricultural runoff—
+including manure, fertilizer, and pesticides—are 
+linked to excess nutrient loading of water bodies as well as 
+possible food safety or public health issues from food and 
+waterborne infections. Warmer winters are expected to increase 
+pressure from weeds and pests, demand for pesticides, and 
+therefore the risk of human health effects from increased 
+chemical exposures (NCA4 Northeast Chapter, KM 1, Intense 
+Precipitation). 
+Food Safety, Nutrition  
+and Distribution
+Increased soil erosion and agricultural runoff—
+including manure, fertilizer, and pesticides—are linked to 
+excess nutrient loading of water bodies as well as possible food 
+safety or public health issues from food and waterborne 
+infections. Warmer winters are expected to increase pressure 
+from weeds and pests, demand for pesticides, and therefore the 
+risk of human health effects from increased chemical exposures 
+(NCA4 Northeast Chapter, KM 1, Intense Precipitation). 
+Increasing prevalence of shell disease in lobsters and several 
+pathogens in oysters have been associated with rising water 
+temperatures; other pathogens that infect shellfish pose risks to 
+human health (NCA4 Northeast Chapter, KM2, Ocean Warming). 
+Mental Health and Well-Being
+When coupled with storm surges, sea level rise 
+can pose severe risks of flooding, with 
+consequent physical and mental health impacts on coastal 
+populations (NCA4 Northeast Chapter, KM2, Sea Level Rise, 
+Storms, and Flooding).
+Populations of Concern
+Older or sicker individuals and those persons 
+who are without access to air conditioning, 
+living in older homes, socially isolated, or working outdoors are 
+considered particularly vulnerable to the effects of heat (NCA4 
+Northeast Chapter, KM4, Health Effects of Extreme Heat). The 
+combination of heat stress and poor urban air quality can pose a 
+major health risk to vulnerable groups: young children, elderly, 
+socially or linguistically isolated, economically disadvantaged, 
+and those with preexisting health conditions, including 
+asthma. Similarly, poor, elderly, historically marginalized, recent 
+immigrants, and linguistically or socially isolated individuals as 
+well as those populations with existing health disparities are 
+more vulnerable to precipitation events and flooding due to a 
+limited ability to prepare for and cope with such events (NCA4 
+Northeast Chapter, KM3, Climate-Infrastructure Interaction and 
+Heightened Risks). 
+CDC-Funded Jurisdictions 
+Maine Department of Health and Human Services, CRSCI 
+Recipient, funded by CDC since 2010
+Extreme heat, extreme cold, and vector-borne diseases are 
+the primary hazards addressed through Maine’s program. 
+The program has developed school and community-based 
+educational interventions and delivered them to high risk age 
+groups. The program has also worked to develop extreme-
+weather response plans for state and local agencies. A large 
+focus of work has been on vector-borne disease and ticks as 
+a changing climate is expected to impact the migration of 
+insects. Lyme disease has been increasing the last eight years in 
+Maine, and Lyme disease is reported in every county in Maine. 
+Maine’s program has developed a real-time data dashboard 
+to track cases of tick borne disease, such as Lyme disease, and 
+tick-related emergency department visits. The data collected 
+through this surveillance helps health officials understand 
+the spread of ticks and how a changing climate affects the 
+tick’s lifecycle. The surveillance also supports and helps create 
+educational campaigns regarding Lyme disease. The program 
+is also working with the University of Maine Climate Change 
+Institute to develop fine-scale climate models specific to Maine.  
+The models predict disease rates which, in turn, can provide 
+data for local response planning.
+18
+Massachusetts Department of Health, CRSCI Recipient, 
+funded by CDC since 2010
+The Massachusetts Department of Public Health (MDPH) 
+Bureau of Environmental Health (BEH) has assisted local 
+and state partners in preparing for the health impact of 
+climate change, with a focus on inland flooding, heat, air 
+quality, sea level rise, and extreme weather events. MDPH/
+BEH activities include a previous needs assessment of local 
+health departments, development of a Climate Vulnerability 
+Mapping Tool, risk-based assessment of climate related 
+impacts (e.g., asthma, waterborne disease), identification 
+of intervention and adaptation strategies, and evaluation 
+of local climate and health action strategies using a Health 
+Impact Assessment (HIA) framework. The MDPH program 
+also leverages the BEH Environmental Public Health Tracking 
+Network, utilizing the Massachusetts portal as a gateway for 
+providing regionally relevant resources for evaluating health 
+outcomes, environmental exposures, and vulnerability to 
+climate change impacts at the community level. MDPH also 
+works collaboratively with state agency partners to assess 
+climate hazards and recommend specific adaptation strategies. 
+For example, the 2018 State Hazard Mitigation and Climate 
+Adaptation Program Report, combines the state’s FEMA 
+Hazard Assessment with climate data to inform adaptation 
+recommendations for local climate change planning.  
+New York City Department of Health and Mental 
+Hygiene, CRSCI Recipient, funded by CDC since 2010
+The New York City Climate and Health Program (NYC CHP) 
+focuses on the health impacts of current and future climate-
+related hazards, primarily, extreme heat, extreme cold, and 
+power outages. The program relies on several approaches to 
+analyze the magnitude of these impacts and which populations 
+and communities are most at risk to these impacts, develop, 
+promote, or evaluate climate resilient policies and interventions, 
+and communicate climate-health risk messages. In addition, 
+the program works to ensure that health is a consideration 
+in larger, multi-sectoral planning or resiliency initiatives. The 
+program does this by helping to prioritize local communities for 
+climate mitigation and adaption investments. One example of 
+this is the NYC Heat Vulnerability Index, developed by NYC CHP 
+and Columbia University, which provides an understanding of 
+how the risk for dying during a heat emergency varies across 
+neighborhoods. To achieve program success, the program relies 
+heavily on partnerships with internal sister agency programs 
+including, the Air Quality Program, the Environmental Public 
+Health Tracking Program, Healthy Homes, Office of Emergency 
+Preparedness and Response, and the Center for Health Equity. 
+New York State Department of Health, CRSCI Recipient, 
+funded by CDC since 2010
+New York State (NYS) has primarily focused on the health 
+impacts of heat, as well as flooding and heavy precipitation 
+events. These climate hazards are being addressed through 
+the development and implementation of adaptation activities 
+in coordination with program partners. These adaptations 
+include development of Heat and Health profile reports that 
+summarize extreme heat exposure, sensitivity, vulnerability, 
+and adaptive capacity for NYS counties, and working with the 
+National Weather Service to revise the thresholds for issuing 
+heat advisories in NYS. A partnership with the NYS Office of 
+Temporary and Disability Assistance increases utilization of their 
+program to provide air conditioners to vulnerable populations. 
+Staff also worked with the NYS Environmental Public Health 
+Tracking Program to create a mapping application to display 
+cooling center locations across the state and track heat stress 
+hospitalization and emergency department visits annually, and 
+published in peer-reviewed public health journals on lessons 
+learned from the response to Hurricane Sandy. The program 
+also partners with the NYS Department of Environmental 
+Conservation Climate Smart Communities (CSC) program, which 
+helps local governments take action to reduce greenhouse gas 
+emissions and adapt to a changing climate. 
+Maryland Department of Health, CRSCI Recipient, funded by 
+CDC since 2012
+The Maryland Climate Change Health Adaptation Program is 
+the lead for integration of health adaptation into the state’s 
+response to a changing climate. Located in the Maryland 
+Department of Health, the program provides a health focus 
+to climate response efforts across the state, through technical 
+assistance, development of epidemiologic tools and data 
+products, and education and outreach. The program primarily 
+addresses extreme heat, air quality and respiratory illness, 
+water-borne diseases, and extreme weather events, such 
+as hurricanes and tornadoes. The program, which is closely 
+integrated with the Maryland Commission on Climate Change, 
+includes education and outreach for school age youth (K-12), 
+minority groups, community health workers, and informal 
+healthcare networks. Among the products of the program is 
+a climate change training curriculum for community health 
+workers and extension workers. The training increases 
+competency among informal healthcare networks in order 
+to advise patients and community members on how to 
+understand climate impact on themselves and their health. 
+The program’s Climate Ambassador program, which is a 
+program targeted at school age youth in Maryland, provides 
+students with tools and information to educate and empower 
+themselves and their communities to respond to the impacts of 
+a changing climate.
+New Hampshire Division of Public Health Services,  
+CRSCI Recipient, funded by CDC since 2012
+The New Hampshire Climate and Health Program works to 
+build community resilience to threats such as extreme heat 
+and injury, flooding and injury, tick habitat, and vector-borne 
+disease. The program serves the public via a focus on target 
+populations, including the elderly, lower-income communities, 
+and individuals spending time outdoors. The program funds 
+partners for two multi-year interventions to address 1) severe 
+weather and home emergency preparedness among older 
+adults in a river valley, and 2) expanding insect seasons, tick 
+exposure, and tick-safe practices among outdoor counselor 
+and campers in the Seacoast region. A heat-safety flyer was 
+created for the elderly population to warn about hot weather 
+and provide suggestions on how to stay cool, hydrated, and 
+19
+informed. One of the program’s internal agency adaptation 
+activities is updating a state-level extreme heat response plan. 
+Another internal adaptation activity is to fund the testing of 
+shellfish in warming waters to reduce the risk of food-borne 
+disease. The Climate and Health Program has collaborated with 
+the Environmental Public Health Tracking Program to post 
+information for heat injuries on an interactive data portal.
+Rhode Island Department of Health, CRSCI Recipient, 
+funded by CDC since 2012
+The Rhode Island Climate Change and Health Program primarily 
+addresses community resilience, extreme heat, air quality 
+and respiratory illnesses, flooding, sea level rise, and vector-
+borne diseases.  Vulnerable populations such as seniors, youth, 
+outdoor workers, and residents in the urban core are the focus 
+of the program’s work. The program’s main adaptation activities 
+include extreme heat messaging to outdoor workers, Lyme 
+disease outreach to local communities, and climate resiliency 
+in the urban core communities. Strategic plans for both 
+vector-borne disease and extreme heat have been developed.  
+Communications campaigns have also been used to spread 
+awareness and provide guidance on personal protection against 
+Lyme disease and other tick-borne illnesses, and extreme heat. 
+The program has developed a climate change and health guide 
+for Rhode Island residents in English, Spanish, and Portuguese. 
+A focus of the program has been on community resiliency 
+and supporting Rhode Island Health Equity Zones to adapt to 
+climate change. The Health Equity Zones have focused their 
+work on emergency preparedness and neighborhood flooding. 
+The Senior Resiliency project focused on preparing long-term 
+care and assisted living senior housing for possible climate-
+related health effects.  The project conducted resiliency audits 
+and developed plans for emergency situations. A facility self-
+assessment tool was also developed to allow individual facilities 
+to evaluate their resiliency and emergency preparedness.
+Vermont Department of Health, CRSCI Recipient and NEHA 
+mini-grant recipient, funded by CDC since 2012
+The Vermont Climate and Health Program addresses key 
+climate-related health risks in Vermont including heat illnesses, 
+poor air quality and allergenic pollen, vector-borne diseases, 
+water-borne diseases, cyanobacteria, mental health impacts, 
+and extreme weather events, such as flooding and storms. 
+While all Vermonters are at risk for climate-related health 
+impacts, the program focuses on mitigating health impacts 
+for especially high-risk populations including older adults, low 
+income households, and residents with pre-existing health 
+conditions. Some of the program’s main adaptation activities 
+include increasing hot weather preparedness, promoting home 
+weatherization, and providing energy-saving shade trees. Many 
+of the program’s activities help to provide health co-benefits 
+as part of statewide climate mitigation efforts focused on the 
+transportation, housing, forestry, and energy sectors.
+Vermont also received an additional grant from the National 
+Environmental Health Association (NEHA) focused on Health 
+in All Policies (HiAP). This grant will be used to implement 
+two new HiAP strategies: 1) Integrate heat-related climate, 
+health, vulnerability, and adaptive capacity data into Vermont’s 
+Environmental Public Health Tracking Data Explorer. These data 
+will be used to raise awareness about heat risks and inequities, 
+communicate with the public about adaptation resources, and 
+identify gaps in adaptive capacity. 2) Implement accountability 
+structures for hot weather preparedness and response through 
+a “Hot Weather Workgroup” of multi-sectoral partners, including 
+representatives from emergency management, hospital 
+preparedness, human services, senior services, education, 
+occupational safety, and regional planning agencies.
+Boston Public Health Commission, NACCHO mini-grant 
+recipient, funded in 2019
+The Boston Public Health Commission developed heat 
+awareness materials and translated them into ten languages 
+to assist a wide range of communities across the city. These 
+products are designed as communication tools to reach 
+particularly at-risk populations, to reduce health impacts during 
+heat waves.
+Seneca Nation of Indians, NIHB Mini-Grant, funded in 2020
+The Seneca Nation of Indians (located in what is now called 
+New York) is working to address impacts from flooding and 
+storm water, including prevention of vector-borne disease, by 
+incorporating health into existing collaborative climate work. 
+The mini-grant project focuses on health communication.
+Collaborating to Protect Health: 
+Extreme Heat in the Northeast
+CDC-funded state health departments in Rhode Island, 
+Maine, New Hampshire, and Vermont partnered with 
+the National Weather Service to form a Northeast 
+Regional Heat Collaborative (NERHC). This multiagency 
+partnership led to increased understanding of heat-
+related hospitalizations and deaths and successfully 
+changing the NWS Heat Advisory Policy for all of New 
+England to better improve health outcomes. The 
+Regional Collaborative pooled data across New England 
+in order to better represent the association between the 
+impacts of heat on hospitalizations and deaths and help 
+inform public health policy.
+20
+NORTHERN  
+GREAT PLAINS 
+21
+Health Impacts 
+Air Quality Impacts
+Major dust activity in the United States is 
+centered in the Great Plains, extending from 
+Montana to southern Texas, where sources are mainly from 
+human activities associated with land use, such as agriculture. 
+These are also regions where climate change is expected to 
+affect drought patterns (CHA 2016, 4. Extreme Events, 4.5 
+Droughts, Wind Erosion and Dust Storms Box). 
+Extreme Events
+Over the last two decades, tribes have 
+experienced unusually catastrophic fires, floods, 
+and droughts that are already straining response capacities, and 
+climate change is expected to increase the need for the ability 
+to fight fires, floods, and droughts. This has widespread impacts 
+on tribal economies and livelihoods, domestic and municipal 
+water supplies, and health and well-being (NCA4 Northern 
+Great Plains Chapter, KM5).
+Vector-Borne Diseases
+In the northern Great Plains—a hotspot for West 
+Nile Virus (WNV) activity—increased precipitation 
+has been shown to lead to higher Cx. tarsalis abundance a few 
+weeks later. The locations of annual WNV outbreaks vary, but 
+several states have reported consistently high rates of disease 
+over the years, including North Dakota and South Dakota (CHA 
+2016, 5. Vector-Borne Diseases, 5.3 West Nile Virus, Observed 
+Impacts and Indicators, Impacts of Climate and Weather). 
+Food Safety, Nutrition  
+and Distribution
+The Northern Great Plains region plays an 
+important role in U.S. food security, and agriculture has been 
+integral to the history and development of the region (NCA4 
+Northern Great Plains Chapter, KM2). The probability for more 
+very hot days (days with maximum temperatures above 90°F) is 
+expected to increase, with potential impacts on agriculture 
+(NCA4 Northern Great Plains Chapter, KM1). Additionally, 
+indigenous peoples in the region are observing many climate 
+and seasonality changes to their natural environment and 
+ecosystems, many of which are impacting livelihoods as well as 
+traditional subsistence and wild foods, wildlife, plants and water 
+for ceremonies and medicines, and health and well-being 
+(NCA4 Northern Great Plains Chapter, KM5).
+Populations of Concern
+Because Tribes are among those in the region with 
+the highest rates of poverty and unemployment, 
+and because many are still directly reliant on natural resources, 
+they are among the most at risk to climate change (NCA4 
+Northern Great Plains Chapter, KM5). Additionally, pregnant 
+women and newborns are uniquely vulnerable to flood health 
+hazards. Flood exposure was associated with adverse birth 
+outcomes (preterm birth, low birth weight) after the 1997 floods 
+in North Dakota, connected to maternal experience of traumatic 
+stress. (CHA 2016, 4. Extreme Events, 4.4 Flooding Related to 
+Extreme Precipitation, Hurricanes, and Coastal Storms) 
+CDC-Funded Jurisdictions 
+Blackfeet Nation, NIHB Mini-Grant, funded in 2017-2018
+The Blackfeet Nation (located in what is now called Montana) 
+project produced a Blackfeet Community Climate Health 
+Guide that addresses climate impacts and develops activities 
+for engaging tribal community members and leaders in best 
+practices for addressing climate-related health impacts. This 
+collaborative process was community-driven and responsive to 
+local climate and health needs.
+Winnebago Tribe of Nebraska, NIHB Mini-Grant, funded  
+in 2020
+The Winnebago Tribe of Nebraska is implementing a climate 
+and health communication strategy to inform community 
+members, including specific outreach to farmers. The mini-
+grant project will involve local stakeholders and address the 
+unique climate and health needs of this rural community, 
+which may include impacts on agriculture and effects of 
+flooding and drought.
+22
+NORTHWEST
+23
+Health Impacts 
+Temperature-Related Death  
+and Illness
+While the Northwest is not typically considered a 
+high-risk area for heat-related illness, heat waves (defined as 
+5-day, 1-in-10-year events) across the country are projected to 
+increase in frequency and intensity. In the Northwest, nighttime 
+heat waves (defined as 3-day, 1-in-100-year events) have a 
+greater influence on human health than daytime heat waves and 
+have increased in frequency since 1901. These changes are 
+projected to make heat-related illness more common in the 
+future (NCA4 Northwest Chapter, KM5, Future Climate Change 
+Relevant to Regional Risks). In particular, agricultural workers are 
+at increased risks for heat-related injuries because they work 
+outside during the summer harvest season (NCA4 Northwest 
+Chapter, KM4, Linkage Between Climate Change and Regional 
+Risks).
+Air Quality Impacts
+More frequent wildfires and poor air quality are 
+expected to increase respiratory illnesses in the 
+decades to come (NCA4 Northwest Chapter, KM4, Future 
+Climate Change Relevant to Regional Risks). Wildfire smoke can 
+be severe, particularly in communities in the eastern Northwest. 
+Smoke events during 2004–2009 were associated with a 7.2% 
+increase in respiratory hospital admissions among adults over 
+65 in the western United States. In Boise, Idaho, 7 of the last 10 
+years have included smoke levels considered “unhealthy for 
+sensitive groups” (including children) for at least a week during 
+the fire season, causing some cancellation of school-related 
+sports activities (NCA4 Northwest Chapter, KM4, Linkage 
+Between Climate Change and Regional Risks). Additionally, 
+projected increases in ground-level ozone (smog), small 
+particulate matter (PM2.5), and airborne allergens can further 
+complicate respiratory conditions. (NCA4 Northwest Chapter, 
+KM4, Future Climate Change Relevant to Regional Risks).
+Vector-Borne Diseases
+In the last several years, the region has seen an 
+increase in some infectious diseases. A potential 
+increase in Lyme disease cases in some states is associated with 
+rising temperatures and changing tick habitat. The Washington 
+Department of Health’s vector surveillance program has 
+observed an earlier onset of West Nile virus-carrying 
+mosquitoes, likely associated with higher temperatures, and an 
+increasing number of human infections, with some resulting in 
+fatalities. Before 1999, Cryptococcus gatti infections were 
+limited to the tropics, but Cryptococcus gatti is now established 
+in Northwest soil, with 76 cases occurring in Oregon in 2015 
+(NCA4 Northwest Chapter, KM4, Linkage Between Climate 
+Change and Regional Risks).
+Water-Related Illness
+Future extreme precipitation events could increase 
+the risk of exposure to water-related illnesses as the 
+runoff introduces contaminants and pathogens (such as 
+Cryptosporidium, Giardia, and viruses) into drinking water 
+(NCA4 Northwest Chapter, KM4, Future Climate Change 
+Relevant to Regional Risks). The Oregon Health Authority 
+recorded spikes in cases of Salmonella and E. coli during months 
+with extreme heat in 2015. A large outbreak of Shigellosis (a 
+bacterial diarrheal disease) occurred in late 2015, affecting a 
+large number of homeless people in the Portland Metro region; 
+this outbreak was associated with unusually extreme 
+precipitation (NCA4 Northwest Chapter, KM4, Linkage Between 
+Climate Change and Regional Risks). 
+Food Safety, Nutrition  
+and Distribution
+Climate change is projected to impact First Foods, or 
+foods that tribes have historically cultivated for subsistence, 
+economic, and ceremonial purposes (NCA4 Northwest Chapter, 
+KM2, Linkage Between Observed Climate and Regional Risks). 
+The cultural practice of harvesting and consuming First Foods is 
+integral to Tribes (NCA4 Northwest Chapter, KM2, Challenges, 
+Opportunities, and Success Stories for Reducing Risk). The loss or 
+decline of First Foods is projected to have cascading physical and 
+mental health impacts for Tribes (NCA4 Northwest Chapter, KM2, 
+Emerging Issues). Changes in drought conditions and increased 
+water temperatures have increased the potential for freshwater 
+harmful algal blooms in recreational waters. Toxins from marine 
+harmful algal blooms can accumulate in shellfish, leading to 
+illnesses for those who eat them (NCA4 Northwest Chapter, KM4, 
+Linkage Between Climate Change and Regional Risks).
+Mental Health and Well-Being
+Climate-driven hardships can also affect mental 
+health, resulting in outcomes ranging from stress 
+to suicide. Oregon, Washington, and Idaho all rank among the 
+top 10 states in terms of prevalence of mental illness and lowest 
+access to mental health care (NCA4 Northwest Chapter, KM4, 
+Future Climate Change Relevant to Regional Risks). 
+Children and youth, in general, will likely experience cumulative 
+mental health effects of climate change over their lifetimes 
+(NCA4 Northwest Chapter, KM4, Linkage Between Climate 
+Change and Regional Risks).
+The cultural practice of harvesting and consuming First Foods is 
+integral to tribes and Indigenous health (NCA4 Northwest 
+Chapter, KM2, Challenges, Opportunities, and Success Stories 
+for Reducing Risk). First Foods are foods that tribes have 
+historically cultivated for subsistence, economic, and ceremonial 
+purposes (NCA4 Northwest Chapter, KM2, Linkage Between 
+Observed Climate and Regional Risks). The loss or decline of 
+24
+First Foods is projected to have cascading physical and mental 
+health impacts for tribes and Indigenous peoples (NCA4 
+Northwest Chapter, KM2, Emerging Issues). 
+Populations of Concern
+Tribes, farmworkers, and low-income 
+populations in urban and rural environments are 
+three sets of frontline communities (those communities likely 
+to experience climate impacts first and worst) in this region 
+(NCA4 Northwest Chapter, KM5, Linkage Between Observed 
+Climate and Regional Risks).
+CDC-Funded Jurisdictions 
+Oregon Health Authority, CRSCI Recipient, funded by  
+CDC since 2010
+The Oregon Climate and Health Program addresses the health 
+effects of climate change by focusing on developing cross-
+sectoral partnerships and promoting systems and policy 
+changes that build resilience across a broad range of climate 
+impacts, including extreme heat, extreme cold, wildfire, 
+air quality and respiratory illnesses, flooding, sea level rise, 
+vector-borne diseases, water-borne disease, mental health, 
+drought, harmful algal blooms, and extreme weather events, 
+such and hurricanes and tornadoes. This work primarily serves 
+local and tribal health departments, partner state agencies, 
+community health workers, and other state public health 
+programs, including emergency preparedness, chronic disease 
+prevention, and acute and communicable disease. Some of 
+the program’s activities include developing the public health 
+workforce, informing statewide climate policy and planning, 
+and supporting partners in building social resilience. The 
+Oregon Public Health Division (OPHD) has trained public health 
+practitioners, health care providers, emergency response 
+personnel, community health workers, partner state agencies, 
+and the general public through workshops, trainings, and 
+materials development. The focus of these training and 
+education efforts has been on the health impacts of climate 
+change, health equity, and strategies for reducing health 
+impacts and building resilience. The OPHD has provided 
+funding, training, and technical assistance to five local health 
+jurisdictions to understand and prioritize the health effects of 
+a changing climate in their communities and to develop and 
+implement strategies for building resilience.
+Swinomish Indian Tribal Community, NIHB Mini-Grant, 
+funded in 2017-2018
+The Swinomish Indian Tribal Community (located in what is 
+now called Washington State) created the “Swinomish climate 
+change health impact assessment and action plan” by tailoring 
+CDC’s BRACE framework using Swinomish-specific health values, 
+definitions, and priorities. Extensive community input and 
+“values-driven” data informed the plan. They documented and 
+shared the process with other Tribes (i.e., through educational 
+materials) so that they may be better informed to move forward 
+with their impact assessment and action plans.
+Clackamas County Public Health, Oregon, NEHA Mini-Grant, 
+funded in 2019
+Clackamas County Public Health partnered with multiple 
+neighboring counties (Multnomah County Health Department 
+and Washington County Public Health) to form a regional 
+collaborate. They developed a comprehensive climate change 
+and health impact assessment report and an accompanying 
+data visualization tool for the Portland metropolitan region. 
+The project involved engagement of stakeholders to ensure 
+inclusion of local needs.
+Washington State Department of Health, ASTHO, CSTE, 
+and NEHA Mini-Grants, funded in 2019-2020
+With a 2019 mini-grant from CDC and the Council of State and 
+Territorial Epidemiologists (CSTE), Washington state assessed 
+climate and respiratory health issues. They developed best 
+practice guidance on wildfire communications outreach and 
+tested the utility of low-cost air quality sensors during wildfires. 
+Washington State also received an additional grant from CDC in 
+partnership with the Association of State and Territorial Health 
+Officials (ASTHO) in 2019 to aid development of regional climate 
+and health profiles and climate-related risk communication 
+efforts. This project allowed for localized input to address 
+specific needs in regions throughout the state.
+Washington State also received an additional grant in 2020 from 
+CDC and the National Environmental Health Association (NEHA) 
+focused on Health in All Policies (HiAP), which will help support 
+local partners in identifying climate-sensitive health risks and 
+generate resilience strategies that could inform local planning 
+decisions, including county comprehensive management plans. 
+In particular, Washington State plans to provide mini-grants to 
+local health agencies and nonprofit community organizations, 
+as well as host a workshop with local agencies, community 
+organizations, and academic partners to share mini-grant 
+learnings and generate next steps to increase consideration of 
+climate change, health, and equity in local planning. 
+Lummi Nation, NIHB Mini-Grant, funded in 2019-2020
+The Lummi Nation (located in what is now called Washington 
+State) is developing plans to protect their community from 
+harmful algal blooms and toxins in shellfish that are influenced 
+by warming waters. This included communication activities and 
+assessment of local community needs.
+25
+SOUTHEAST 
+26
+Health Impacts 
+Temperature-Related Death  
+and Illness
+Cities across the Southeast are experiencing more 
+and longer summer heat waves. Sixty-one percent of major 
+Southeast cities are exhibiting some aspects of worsening heat 
+waves, which is a higher percentage than any other region of 
+the country (NCA4 Southeast Chapter, KM1, Increasing Heat).
+Air Quality Impacts
+In the Southeast, poor air quality can result from 
+emissions (mostly from vehicles and power 
+plants), wildfires, and airborne allergens. The major urban 
+centers in the Southeast are already impacted by poor air 
+quality during warmer months. The Southeast has more days 
+with stagnant air masses than other regions of the country (40% 
+of summer days) and higher levels of fine (small) particulate 
+matter (PM2.5), which cause heart and lung disease. The fast 
+growth rate of urban areas in the Southeast also contributes to 
+aeroallergens, which are known to cause and exacerbate 
+respiratory diseases such as asthma. Urban areas have higher 
+concentrations of CO2, which causes allergenic plants, such as 
+ragweed, to grow faster and produce more pollen allergen than 
+in rural areas (NCA4 Southeast Chapter, KM1, Air Quality and 
+Human Health). 
+Extreme Events
+An assessment by the Florida Department of 
+Health determined that 590,000 people in South 
+Florida face “extreme” or “high” risk from sea level rise, with 
+125,000 people living in these areas identified as socially 
+vulnerable and 55,000 classified as medically. In addition to 
+causing direct injury, storm surge and related flooding can 
+impact transportation infrastructure by blocking or flooding 
+roads and affecting access to healthcare facilities (NCA4 
+Southeast Chapter, KM2, Sea Level Rise Is Contributing to 
+Increased Coastal Flooding in the Southeast).
+Vector-Borne Diseases
+The Southeast is the region of the country with the 
+most favorable conditions for the Aedes aegypti 
+mosquito and thus faces the greatest threat from diseases 
+the mosquito carries. Summer increases in dengue cases are 
+expected across every state in the Southeast (NCA4 Southeast 
+Chapter, KM1, Vector-Borne Disease). Warmer conditions may 
+have facilitated expansion of the geographic range of mosquito 
+populations and could potentially increase their capacity 
+to transmit Zika virus. Zika virus can cause a wide range of 
+symptoms, including fever, rash, and headaches, as well as 
+birth defects (NCA4 Health Chapter, Box 14.2: Transboundary 
+Transmission of Infectious Diseases).
+Populations of Concern
+Workers in the agriculture, forestry, hunting, and 
+fishing sectors together with construction and 
+support, waste, and remediation services work are the most 
+highly vulnerable to heat-related deaths in the United States, 
+representing almost 68% of heat-related deaths nationally. 
+Six of the ten states with the highest occupational heat-
+related deaths in these sectors are in the Southeast region, 
+accounting for 28.6% of occupational heat-related deaths 
+between 2000 and 2010 (NCA4 Southeast Chapter, KM4, Heat, 
+Health, and Livelihoods).
+CDC-Funded Jurisdictions 
+North Carolina Department of Health and Human 
+Services, CRSCI recipient, funded by CDC since 2010
+The North Carolina Climate and Health Program primarily 
+focuses on health effects related to extreme heat and wildland 
+fire smoke. The work aims to serve elementary school students, 
+farmworkers, local public health preparedness and emergency 
+management staff, low income earners, older adults requiring 
+nutritional support, and young adults attending county parks. 
+To address smoke from wildland fires, a health curriculum for 
+elementary students was designed to teach them about smoke 
+and health, to be taught in connection with Smokey the Bear in 
+Hoke County. Additionally, an implementation and monitoring 
+strategy was created to plan for health impacts of wildland fires 
+and to provide health education on the topic. A main focus of 
+the North Carolina Climate and Health Program has also been 
+on heat. The program has conducted statewide heat-related 
+illness emergency department visit syndromic surveillance. Heat 
+health alert systems were implemented in Bladen, Robeson, 
+Sampson, and Scotland counties. Education campaigns were 
+also conducted in these four counties and were personalized by 
+county to target each county’s at-risk population. The campaigns 
+focused on agricultural workers, low income people, mobile 
+home residents, the elderly, and the youth.
+Florida Department of Health, CRSCI recipient, funded by 
+CDC since 2012
+The Florida Building Resilience Against Climate Effects 
+(FLBRACE) Program is working to improve the ability of the 
+public health sector to respond to the health effects of climate 
+variability by incorporating the best available science into 
+routine public health practice. The primary hazards addressed 
+by FLBRACE include extreme heat, wildland fires, flooding, 
+water-borne diseases, and extreme weather events, such as 
+hurricanes and tornados. Primary health outcomes include 
+allergies, asthma, heat-related illness and death, injury, mental 
+health disorders, stress-related disorders, and stroke. FLBRACE 
+primarily assists community health departments, especially 
+27
+those serving vulnerable populations, such as the elderly or 
+residents living in coastal communities. FLBRACE has developed 
+a series of climate and health profiles that identify and describe 
+key risk factors and health impacts anticipated in Florida. 
+Among these is a study of the health effects of tropical storms 
+and hurricanes in Florida using emergency department data, 
+birth records, carbon monoxide poisoning data, and food-borne 
+and water-borne reports. The program has also developed a 
+series of touchstone event summaries that highlight exceptional 
+weather events and related health outcomes in Florida.
+City of New Orleans Department of Health,  
+NACCHO mini-grant, funded in 2020
+New Orleans will develop a heat monitoring pilot program, 
+through which thermometers and heat sensors will be 
+distributed in the community to gather temperature data in 
+partnership with a local community organization, with the 
+eventual goal of developing a better outreach campaign about 
+extreme heat and heat-related illness. The project will focus on 
+improving messaging and health for at-risk populations.
+28
+SOUTHERN  
+GREAT PLAINS 
+29
+Health Impacts 
+Temperature-Related Death  
+and Illness
+Warmer temperatures will likely lead to an increase 
+in heat stress, especially during the summertime (NCA4 
+Southern Great Plains Chapter, KM2). Notably, heat stress is 
+strongly correlated with complications of lung disease, such as 
+asthma and emphysema, as well as dehydration and injurious 
+electrolyte abnormalities (NCA4 Southern Great Plains Chapter, 
+KM4).
+Air Quality Impacts
+Major dust activity in the United States is 
+centered in the Southwest, where sources are 
+mostly natural, and the Great Plains, extending from Montana 
+to southern Texas, where sources are mainly from human 
+activities associated with land use, such as agriculture. Exposure 
+to dust can cause respiratory and cardiovascular health 
+problems. These are also regions where climate change is 
+expected to affect drought patterns (Climate and Health 
+Assessment  2016, 4. Extreme Events, 4.5 Droughts, Wind 
+Erosion and Dust Storms Box). 
+Extreme Events
+Extreme weather events with resultant physical 
+injury and population displacement are a threat 
+to this region. These threats are likely to increase in frequency 
+and distribution and are likely to create significant economic 
+burdens. (NCA4 Southern Great Plains Chapter, KM3) For 
+example, widespread flooding during Hurricane Harvey affected 
+dozens of communities, including those in the Houston and 
+Beaumont metropolitan areas. Immediate effects included 
+deaths from drowning and trauma that claimed the lives of at 
+least 63 individuals. Additionally, more than 30,000 people were 
+evacuated. Displacement of patients from their communities 
+and healthcare providers led to interruptions in medical 
+treatment (NCA4 Southern Great Plains Chapter, Box 23.1: 
+Hurricane Harvey).
+Vector-Borne Diseases
+In the Southern Great Plains, hantavirus, Rocky 
+Mountain spotted fever, leptospirosis, and West Nile 
+virus are all currently endemic and could be impacted by 
+climate change. Tropical diseases, such as dengue virus, 
+chikungunya virus, and Zika virus are transmitted by Aedes 
+mosquitoes, which are currently expanding their geographic 
+range in the southern United States (NCA4 Southern Great 
+Plains Chapter, KM4).
+Water-Related Illness
+As water evaporates during periods of drought, the 
+remaining water can have higher concentrations of 
+chemicals and solid particles, lower dissolved oxygen levels, and 
+a higher density of pathogens that cause infectious diseases. 
+Drought conditions reduce the number of sources and overall 
+quantity of water available to both human and animal users. 
+Because these users are sharing a reduced supply, germ 
+transmission and outbreaks of infectious disease become more 
+likely. Waterborne diseases that have been linked to drought 
+include amoebiasis, hepatitis A, salmonellosis, schistosomiasis, 
+shigellosis, typhoid and paratyphoid fevers, infection with E. 
+coli, cholera, and leptospirosis (NCA4 Southern Great Plains 
+Chapter, KM4). 
+Food Safety, Nutrition  
+and Distribution
+Increases in CO2 are changing the nutritional 
+composition of food crops. Elevated CO2 levels have been 
+shown to reduce the protein composition of grains, tubers, rice, 
+wheat, and barley. Micronutrient contents are also affected by 
+rising CO2 levels, with atmospheric CO2 concentrations of 550 
+parts per million being associated with reductions in zinc, iron, 
+phosphorus, potassium, calcium, sulfur, magnesium, copper, 
+and manganese across a wide range of crops (NCA4 Southern 
+Great Plains Chapter, KM4).
+Populations of Concern
+Extreme temperatures and aridity pose health 
+risks to outdoor agricultural workers (NCA 
+Southern Great Plains Chapter, KM4). Tribal and Indigenous 
+communities are particularly vulnerable to climate change 
+due to water resource constraints, extreme weather events, 
+higher temperature, and other likely public health issues (NCA4 
+Southern Great Plains Chapter, KM5). 
+CDC-Funded Jurisdictions 
+Kaw Nation, NIHB Mini-Grant, funded in 2019
+The Kaw Nation (located in what is now called Oklahoma) 
+received a one-time mini-grant from CDC and the National 
+Indian Health Board (NIHB) in 2019 for a project focused on 
+local community education and outreach related to climate 
+and health. They created fact sheets and other communications 
+materials to help inform community members of potential 
+climate-related threats and steps to protect health. A major 
+focus was the health impacts of heat.
+30
+SOUTHWEST
+31
+Health Impacts 
+Temperature-Related Death  
+and Illness
+Under continued climate change, projected 
+increases in hot days and extreme heat events in the Southwest 
+will increase the risk of heat-associated deaths. Under the 
+higher scenario (RCP8.5), the Southwest would experience the 
+highest increase in annual premature deaths due to extreme 
+heat in the country, with an estimated 850 additional deaths 
+per year by 2050. Under a lower scenario (RCP4.5), deaths 
+would be reduced by half compared to the higher scenario 
+(RCP8.5). By 2090, deaths and economic losses would more 
+than double from 2050 under all emissions scenarios. Heat and 
+other environmental exposures particularly affect outdoor 
+workers (NCA4 Southwest Chapter, KM7).
+Air Quality Impacts
+Other environmental conditions of greatest 
+concern for human health are ground-level ozone 
+air pollution, dust storms, particulate air pollution (such as from 
+wildfires and dust storms), and aeroallergens (airborne proteins 
+that trigger allergic reactions). The risk of onset or exacerbation 
+of respiratory and cardiovascular disease is associated with a 
+single or a combined exposure to ground-level ozone pollution, 
+particulate air pollution, and respiratory allergens. These 
+conditions may also lead to new cases or exacerbation of allergy 
+and asthma (NCA4 Southwest Chapter, KM7). Drier conditions 
+can also increase reproduction of a fungus found in soils, 
+potentially leading to the disease coccidioidomycosis, or Valley 
+fever (NCA4 Health Chapter, Box 14.1: Health Impacts of 
+Drought and Periods of Unusually Dry Months).
+Vector-Borne Diseases
+Infectious diseases like plague and hantavirus 
+pulmonary syndrome disproportionately affect the 
+Southwest region. Heat extremes, warming, changes in 
+precipitation, and potentially an intensified El Niño-Southern 
+Oscillation may influence the distribution and occurrence of 
+vector-borne diseases like West Nile virus and may lead to the 
+emergence of new disease (NCA4 Southwest Chapter, KM7).
+Water-Related Illness
+Prolonged droughts can affect drinking water 
+availability, reduce water quality, and send  
+more people seeking medical treatment (NCA4 Southwest 
+Chapter, KM7). 
+Food Safety, Nutrition  
+and Distribution
+Food production in the Southwest is vulnerable to 
+water shortages. Increased drought, heat waves, and 
+reduction of winter chill hours can harm crops and livestock; 
+exacerbate competition for water among agriculture, energy 
+generation, and municipal uses; and increase future food 
+insecurity (NCA4 Southwest Chapter, KM6). Droughts and 
+wildfire in the Southwest have contributed to declines in 
+traditional Indigenous staple foods, including fish, wildlife, 
+acorns, corn, and pine nuts. Additionally, ocean warming and 
+acidification, as well as sea level rise, increase risks to shellfish 
+beds (which reduces access for traditional harvesting), 
+pathogens that cause shellfish poisoning, and damage to 
+shellfish populations, which can cause cascading effects in 
+food and ecological systems upon which some tribes depend  
+(NCA4 Southwest Chapter, KM4).
+Mental Health and Well-Being
+Climate change may weigh heavily on mental 
+health in the general population and those 
+already struggling with mental health disorders. One impact of 
+rising temperatures, especially in combination with 
+environmental and socioeconomic stresses, is violence towards 
+others and towards self. Slow-moving disasters, such as 
+drought, may affect mental health over many years. 
+Communities that rely especially on well-functioning natural 
+and agricultural systems in specific locations may be especially 
+vulnerable to mental health effects when those systems fail. In 
+the Southwest, the loss of stability and certainty in natural 
+systems may affect physical, mental, and spiritual health of 
+Indigenous peoples with close ties to the land (NCA4 Southwest 
+Chapter, KM7).
+Populations of Concern
+Native Americans are among the most at risk from 
+climate change, often experiencing the worst 
+effects because of higher exposure, higher sensitivity, and lower 
+adaptive capacity for historical, socioeconomic, and ecological 
+reasons. With one and a half million Native Americans, 182 
+federally recognized tribes, and many state-recognized and 
+other non-federally recognized tribes, the Southwest has the 
+largest population of Indigenous peoples in the country (NCA4 
+Southwest Chapter, Background).
+CDC-Funded Jurisdictions 
+Arizona Department of Health Services, CRSCI recipient, 
+funded by CDC since 2010
+The Arizona Extreme Weather and Public Health Program 
+facilitates the development and sharing of local knowledge of 
+climate and health effects and the implementation of public 
+health interventions for climate-related hazards affecting the 
+state’s residents and visitors, including extreme heat, wildfires, 
+air quality, drought, flooding, extreme cold, and vector-borne 
+diseases. Partnerships have led to heat alerts for schools and 
+healthcare facilities, projects to assess and improve cooling 
+center networks, and the distribution of heat safety toolkits 
+for various specific at-risk populations, including outdoor 
+workers, older adults, and school children. The program and 
+local partners have also increased their capacity to perform 
+32
+heat illness surveillance activities and coordinated a state heat 
+preparedness workgroup. Other program work has focused on 
+understanding climate impacts on vector-borne diseases and 
+the fungal disease called Valley fever, as well as developing 
+public health emergency response plans for wildfires and 
+flooding. This work benefits various populations such as the 
+homeless, elderly, children, local officials, and residents of low 
+income and minority neighborhoods.
+San Francisco Department of Health, CRSCI recipient, 
+funded by CDC since 2010
+The San Francisco Department of Public Health’s Climate and 
+Health Program works to address the local health impacts 
+of extreme heat, flooding and extreme storms, drought 
+and wildfire, and allergies and air pollution through the 
+development of vulnerability assessments, literature reviews 
+and emergency plans, data analysis and mapping, outreach 
+and engagement to community-based organizations and other 
+stakeholders, and working interdepartmentally to bring a health 
+perspective to citywide climate action and preparedness efforts. 
+San Francisco is particularly vulnerable to the health impacts 
+of extreme heat. A study of a 2006 California heat wave found 
+that during extreme heat events, San Francisco’s emergency 
+department visits increased more than almost anywhere else 
+in the state. The Climate and Health Program has helped San 
+Francisco prepare for future extreme heat events by informing 
+the city’s extreme heat emergency response plan, developing 
+and deploying extreme heat preparedness trainings specifically 
+for older adults, and engaging local clinicians about how to 
+discuss extreme heat preparedness with their patients.
+California Department of Public Health, CRSCI recipient, 
+funded by CDC since 2012
+The California Building Resilience Against Climate Effects 
+(CalBRACE) project aims to prevent and reduce health effects 
+associated with a change climate through state and local 
+actions. In the past decade, California experienced more 
+frequent and intense heat events, wildfires and droughts, and 
+reduced air quality that outpaced historic records. CalBRACE 
+primarily assists agencies, tribes, and community partners 
+in developing policy, data, and strategies to embed climate 
+adaptation, public health, and health equity benefits into 
+their operations and investment plans. The staff also provides 
+leadership on climate change and health equity within the 
+California Department of Public Health (CDPH), and contributes 
+to state publications and peer-reviewed journals. Participation 
+in adaptation planning and implementation occurs through 
+meetings, consultation, and technical assistance activities. 
+Aligned with the Building Resilience Against Climate Effects 
+(BRACE) Framework, CalBRACE maintains web-based tools 
+and resources for adaptation planning, including consultation 
+and engagement; hazard, vulnerability, and disease burden 
+assessments; and strategies for implementation and evaluation.
+San Mateo County, California, CSTE Mini-Grant,  
+funded in 2019
+San Mateo County assessed the magnitude and trends 
+of asthma burden and adapted the Community Health 
+Vulnerability Index for their jurisdiction. This allowed them to 
+address specific local climate and respiratory health issues, 
+especially among at-risk populations.
+Pala Band of Mission Indians, NIHB Mini-Grant, funded in 
+2019-2020
+The Pala Band of Mission Indians (located in what is now 
+called Southern California) developed climate and health 
+communication and outreach materials tailored to the specific 
+needs of the Pala community, including a plan highlighting the 
+importance of culture-based psychosocial resilience strategies.
+Alameda County, California, NACCHO Mini-Grant, 
+funded in 2020
+Alameda County will work to improve communication to 
+vulnerable populations on protective actions and smoke 
+alerts to decrease morbidity. Specifically, Alameda County 
+plans to engage community stakeholders through focus 
+groups to develop preferred methods of communication 
+regarding air quality levels and protective action, and also 
+develop a county communication flow protocol to be used by 
+government agencies to send smoke alerts and information to 
+disadvantaged communities and those vulnerable to smoke 
+impacts.
+Greenville Rancheria, NIHB Mini-Grant, funded in 2020
+Greenville Rancheria (located in what is now called California) 
+is building community health department capacity to respond 
+to power outages during wildland fires and other disasters. This 
+mini-grant project will focus on communication efforts and will 
+be tailored to specific local needs of this rural community that is 
+greatly impacted by wildfires.
+33
+U.S. CARIBBEAN 
+34
+Health Impacts 
+Temperature-Related Death  
+and Illness
+Records from weather stations in Puerto Rico indicate 
+that the annual number of days with temperatures above 90°F 
+has increased over the last four and a half decades. A number of 
+extreme temperature events occurred in Puerto Rico during the 
+summers of 2012–2014, when most days exceeded 90°F. During 
+San Juan’s record heat episode in 2012, stroke and 
+cardiovascular disease were the primary causes of death due, in 
+part, to the elevated summer temperatures in the municipalities 
+of San Juan and Bayamón (NCA4 U.S. Caribbean Chapter, KM4, 
+Linkage Between Climate Change and Regional Risks). 
+Extreme Events
+Extreme events pose significant risks to life, 
+property, and economy in the Caribbean, and 
+some extreme events, such as flooding and droughts, are 
+projected to increase in frequency and intensity (NCA4 U.S. 
+Caribbean Chapter, KM 5). Additionally, a high concentration 
+of population and critical infrastructure in low-lying coastal 
+areas increases vulnerability to sea level rise and storm surge 
+and magnifies the effects of coastal flooding and beach erosion 
+(NCA4 U.S. Caribbean Chapter, KM3, Linkage Between Climate 
+Change and Regional Risks). Increasing hurricane intensity and 
+associated rainfall rates will likely affect human health and well-
+being, economic development, conservation, and agricultural 
+productivity (NCA 4 U.S. Caribbean Chapter, KM 5).
+The health impacts across the Caribbean Small Island 
+Developing States (SIDS) span a large range, including physical 
+injury from wind and water during hurricane passage and 
+during post-event rescue and cleanup efforts, heat-related 
+injury due to loss of access to air conditioning and fans, inability 
+to manage chronic disease due to loss of access to electrical 
+power or medical services, and increased exposure to vector-
+borne diseases and diseases from contaminated water. Mental 
+health impacts are also notable, as most survivors experience a 
+high degree of psychological trauma during and after hurricane 
+events (NCA4 U.S. Caribbean Chapter, Box 20.1: 2017 Atlantic 
+Hurricane Season Impacts).
+Vector-Borne Diseases
+Warmer conditions may have facilitated expansion 
+of the geographic range of mosquito populations 
+and potentially increased their capacity to transmit Zika virus. 
+Zika virus can cause a wide range of symptoms, including fever, 
+rash, and headaches, as well as birth defects. The outbreak 
+began in South America and spread to areas with mosquitoes 
+capable of transmitting the virus, including Puerto Rico, the U.S. 
+Virgin Islands, Florida, and Texas (NCA4 Health Chapter, Box 
+14.2: Transboundary Transmission of Infectious Diseases).
+Water-Related Illness
+Dependable and safe water supplies for the 
+communities and ecosystems of the U.S. Caribbean, 
+Hawai’i, and the U.S.-Affiliated Pacific Islands are threatened 
+by rising temperatures, sea level rise, saltwater intrusion, and 
+increased risk of extreme drought and flooding (NCA4 Water 
+Chapter, Regional Summary).
+Puerto Rico and the USVI are projected to lose 3.6% and 4.6% of 
+total coastal land area, respectively. Were such a rise to take 
+place, Puerto Rico’s critical infrastructure near the coast would 
+be negatively impacted, including drinking water pipelines and 
+pump stations, sanitary pipelines and pump stations, and one 
+wastewater treatment plant. In the USVI, infrastructure and 
+historical buildings in the inundation zone for sea level rise 
+include pipelines for water and sewage (NCA4 U.S. Caribbean 
+Chapter, KM3, Critical Infrastructure, Property, and Real Estate). 
+Food Safety, Nutrition  
+and Distribution
+Studies show that major shifts in fisheries 
+distribution, coupled with structural and compositional 
+changes in marine habitats such as coral reefs due to climate 
+change, adversely affect food security, shoreline protection, 
+and economies throughout the Caribbean (NCA4 U.S. 
+Caribbean Chapter, KM2, Linkage Between Climate Change and 
+Regional Risks). Additionally, increases in average temperature 
+and extreme heat events will likely have detrimental effects on 
+agricultural operations throughout the U.S. Caribbean region. 
+Climate change affects cattle ranchers and dairy farmers in the 
+U.S. Caribbean by reducing productivity of rangeland, causing 
+a shortage of nutritional feed, increasing heat stress on 
+animals, and increasing energy costs for cooling (NCA 4 U.S. 
+Caribbean Chapter, KM4, Linkage Between Climate Change and 
+Regional Risks).
+Mental Health and Well-Being
+Mental health impacts are also notable in the 
+Caribbean SIDS, as most survivors experience a 
+high degree of psychological trauma during and after hurricane 
+events (NCA 4 U.S. Caribbean Chapter, Box 20.1: 2017 Atlantic 
+Hurricane Season Impacts).
+Populations of Concern
+Urban areas are particularly vulnerable to 
+extreme heat events, given the concentration 
+of built structures, traffic, and other factors that drive the 
+urban heat island (UHI) effect. Since the middle of the last 
+century, urbanization and population growth have increased 
+the UHI effects in San Juan. Such effects are becoming even 
+more life threatening with a growing and more vulnerable 
+aging population (NCA4 U.S. Caribbean Chapter, KM4, Linkage 
+Between Climate Change and Regional Risks).
+35
+CDC-Funded Jurisdictions 
+U.S. Virgin Islands, University of the Virgin Islands, 
+ASTHO Mini-Grant, funded in 2017-2018
+Through informal community focus groups and surveys, this 
+project captured community-level knowledge and perceptions 
+of climate change and water safety. Families from low-income 
+communities in St. Thomas, St. John, and St Croix were invited 
+to participate in educational focus groups wherein they were 
+encouraged to discuss climate change, food and water safety, 
+as well as extreme weather. Participants were then surveyed to 
+assess their knowledge and perceptions of those topics leading 
+to a better understanding of where future education should 
+be offered. Compiled results informed climate and health 
+adaptation and communication actions.
+36
+Conclusion
+Climate change looks different across regions of the United 
+States. Some areas may face coastal flooding, while other 
+areas are already experiencing more heat waves or elongated 
+wildfire seasons. This leads to different health effects in different 
+localities. Local governments and their partners can assess 
+risk and vulnerability and implement tailored programs and 
+interventions to help protect health. CDC’s Climate and Health 
+Program provides funding, guidance, and technical assistance to 
+aid state, local, tribal, and territorial health agencies and staff. The 
+regional examples in this document outline climate impacts that 
+can affect health (synthesized from the Fourth National Climate 
+Assessment) and examples of CDC-funded local activities in each 
+of the regions. As climate change continues to impact human 
+health, CDC resources will help localities to plan and prepare.
+Selected Links and Resources						
+■CDC’s Climate and Health Program webpage: 
+www.cdc.gov/climateandhealth
+■Fourth National Climate Assessment: 
+https://nca2018.globalchange.gov/
+■NOAA State Climate Summaries: 
+https://statesummaries.ncics.org/
+■NOAA Regional Integrated Sciences and 
+Assessments (RISA) Program: 
+https://cpo.noaa.gov/Meet-the-Divisions/Climate-and-
+Societal-Interactions/RISA/RISA-Teams#739083-risa-teams
+■EPA’s state-level climate and health impacts map: 
+https://www3.epa.gov/climatechange/impacts/map-index.html
+Appendix: Explanation of Graphics for Accessibility
+Page 3—Impact of Climate Change on 
+Human Health 
+This graphic illustrates some of the various health impacts 
+that can result from changes in climate. The graphic 
+demonstrates that rising temperatures, more extreme 
+weather, rising sea levels, and increases in carbon dioxide 
+levels, can cause the following environmental conditions and 
+subsequent health impacts:
+■Extreme heat, which can cause heat-related illness and 
+death and cardiovascular failure					
+■Severe weather, which can cause injuries, fatalities, and 
+have mental health impacts
+■Changes in vector ecology, which can cause malaria, 
+dengue, encephalitis, hantavirus, Rift Valley fever, Lyme 
+disease, chikungunya, and West Nile virus
+■Air pollution, which can cause asthma and 
+cardiovascular disease
+■Increasing allergies, which can cause respiratory allergies 
+and asthma
+■Water Quality Impacts, which can cause cholera, 
+cryptosporidiosis, campylobacteria, leptospirosis, and 
+harmful algal blooms					
+■Water and food supply impacts, which can cause 
+malnutrition and diarrheal disease
+■Environmental degradation, which can cause forced 
+migration, civil conflict, and have mental health impacts
+(Return to page 3)
+Page 5—Jurisdictions funded or 
+previously funded by the CDC Climate 
+and Health Program
+This national map highlights the states, cities, counties, tribes, 
+and territories that have received funding and technical 
+assistance from the CDC Climate and Health Program 
+directly and through partnerships with other organizations. 
+Jurisdictions include:
+■Alameda County
+■Arizona
+■Blackfeet Nation									
+■Boston
+■California
+■Clackamas County
+■Commonwealth of the 
+Northern Mariana Islands
+■Federated States of 
+Micronesia
+■Florida
+■Greenville Rancheria
+■Illinois
+■Kaw Nation												
+■Lummi Nation
+■Maine
+■Marquette County
+■Maryland
+■Massachusetts
+■Michigan
+■Minnesota
+■New Hampshire
+■New Orleans
+■New York
+■New York City
+■North Carolina									
+■Oregon
+■Pala Band of Mission Indian
+■Rhode Island
+■San Francisco
+■San Mateo County
+■Seneca Nation of Indians
+■Sitka Tribe of Alaska
+■Swinomish Indian Tribal 
+Community
+■U.S. Virgin Islands					
+■Vermont
+■Village of Wainwright
+■Washington
+■Winnebago Tribe of 
+Nebraska
+■Wisconsin
+(Return to page 5)
+37
+38
+CS 317730-A
