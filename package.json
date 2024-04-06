@@ -1,58 +1,29 @@
 {
-  "name": "nextjstemplate",
-  "version": "0.1.0",
-  "license": "MIT",
-  "description": "Stanford Biodesign Digital Health Next.js Template",
-  "keywords": [
-    "Stanford",
-    "Biodesign"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/StanfordBDHG/NextJSTemplate"
-  },
+  "name": "chapichat",
   "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "dev": "concurrently \"next dev\" \"npm --prefix packages/example-package run watch\"",
-    "prebuild": "npm --prefix packages/example-package run build",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint .",
-    "lint:fix": "eslint . --fix & prettier --write .",
-    "lint:ci": "eslint --output-file eslint_report.json --format json .",
-    "pretest": "npm --prefix packages/example-package run build",
-    "test": "jest",
-    "docs": "typedoc",
-    "docs:ci": "typedoc --out ./out/docs --githubPages true"
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
   },
   "dependencies": {
-    "@stanfordbdhg/example-package": "file:../packages/example-package",
     "mongodb-chatbot-ui": "^0.5.0",
-    "next": "^14",
-    "react": "^18",
-    "react-dom": "^18",
-    "sharp": "^0.32"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^6.1.4",
-    "@testing-library/react": "^14",
-    "@types/jest": "^29.5.6",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10",
-    "concurrently": "^8",
-    "eslint": "^8",
-    "eslint-config-next": "^14",
-    "eslint-config-prettier": "^9",
-    "eslint-plugin-prettier": "^5",
-    "jest": "^29",
-    "jest-environment-jsdom": "^29",
-    "postcss": "^8",
-    "prettier": "^3",
-    "tailwindcss": "^3",
-    "ts-jest": "^29",
-    "typedoc": "^0.25",
-    "typescript": "^5"
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
   }
 }
