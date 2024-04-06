@@ -16,7 +16,7 @@ function App() {
     <>
       <div>
       <h1>Climate + Health Chat</h1>
-      <Chatbot darkMode={false} serverBaseUrl="http://api.chapi.ai/api/v1">
+      <Chatbot darkMode={false} serverBaseUrl="https://api.chapi.ai/api/v1">
         <>
           <InputBarTrigger suggestedPrompts={suggestedPrompts} />
           <FloatingActionButtonTrigger text="My Climate Health AI" />
