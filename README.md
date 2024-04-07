@@ -6,7 +6,7 @@ Demo Video: https://www.youtube.com/watch?v=Wrs7rZBT8v8
 
 ## Description
 
-This is a chatbot that provides information on climate change and health. It is designed to be a simple and easy-to-use tool for people who want to learn more about the impact of climate change on health and what they can do to protect themselves and their families.
+This is a chatbot that provides information on climate change and health. It is designed to be a simple and easy-to-use tool for people who want to learn more about the impact of climate change on health and what they can do to protect themselves and their families. It leverages retrieval augmented generation to provide accurate and relevant information to users. The chatbot is powered by OpenAI's GPT-4 LLM and uses MongoDB Atlas Vector Search to retrieve relevant information from a expert-curated database of resources on climate change and health.
 
 Developed for the MongoDB Generative AI Hackathon 2024.
 
@@ -28,7 +28,7 @@ Developed for the MongoDB Generative AI Hackathon 2024.
 
 ## Team
 
-- Chethan Sarabu ([@chethan-sarabu-md](https://github.com/chethan-sarabu-md)
-- Stefano Leitner ([@stefanoleitner](https://github.com/stefanoleitner)
+- Chethan Sarabu ([@chethan-sarabu-md](https://github.com/chethan-sarabu-md))
+- Stefano Leitner ([@stefanoleitner](https://github.com/stefanoleitner))
 - Vishnu Ravi ([@vishnuravi](https://github.com/vishnuravi))
 - Zui Dighe ([@zuidigz](https://github.com/zuidigz))
